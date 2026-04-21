@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-21T18:30:13Z",
+  "last_updated_utc": "2026-04-21T18:40:14Z",
   "matches": [
     {
       "xml_id": "2039245",
@@ -128,22 +128,22 @@
       "away_team_id": "6477"
     },
     {
-      "xml_id": "2039253",
-      "matchnum": "3004",
+      "xml_id": "2039254",
+      "matchnum": "3005",
       "date": "2026-04-23",
       "dayofweek": "星期四",
-      "league": "西班牙甲级联赛",
-      "home": "埃尔切",
-      "away": "马德里竞技",
-      "spf_win": "1.50",
-      "spf_draw": "4.15",
-      "spf_lost": "4.55",
+      "league": "法国甲级联赛",
+      "home": "巴黎圣日尔曼",
+      "away": "南特",
+      "spf_win": "2.04",
+      "spf_draw": "4.05",
+      "spf_lost": "2.55",
       "spf_updated": "2026-04-21 09:47:03",
-      "gameid": "1216102",
+      "gameid": "1205722",
       "kickoff_cst": "2026-04-23 01:00",
-      "matchnum_label": "周三004",
-      "home_team_id": "564",
-      "away_team_id": "1046"
+      "matchnum_label": "周三005",
+      "home_team_id": "647",
+      "away_team_id": "1129"
     },
     {
       "xml_id": "2039256",
