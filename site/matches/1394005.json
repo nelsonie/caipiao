@@ -24,7 +24,7 @@
       "lost": "5.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-21T18:50:07Z"
+    "fetched_at_utc": "2026-04-21T19:00:07Z"
   },
   "shuju": {
     "title": "朗斯VS图卢兹(2025/2026法国杯)-数据分析-500彩票网",
@@ -380,28 +380,38 @@
         "formation": null,
         "starters": [
           {
-            "number": "6",
-            "name": "萨姆森·拜杜",
-            "position": "后卫"
-          },
-          {
             "number": "11",
             "name": "欧蒂桑内·爱德华",
             "position": "前锋"
           },
           {
-            "number": "25",
-            "name": "伊斯梅尔·甘奥",
-            "position": "后卫"
-          },
-          {
             "number": "9",
             "name": "阿兰·圣马克西曼",
-            "position": "前锋"
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "弗洛里安·托万",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "马蒂厄·乌多尔",
+            "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "阿德里安·托马森",
+            "position": "中场"
           },
           {
             "number": "8",
             "name": "马马杜·桑加雷",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "萨德·阿卜杜勒哈米德",
             "position": "中场"
           },
           {
@@ -410,35 +420,45 @@
             "position": "后卫"
           },
           {
-            "number": "10",
-            "name": "弗洛里安·托万",
-            "position": "前锋"
+            "number": "6",
+            "name": "萨姆森·拜杜",
+            "position": "后卫"
           },
           {
-            "number": "28",
-            "name": "阿德里安·托马森",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "马蒂厄·乌多尔",
+            "number": "25",
+            "name": "伊斯梅尔·甘奥",
             "position": "后卫"
           },
           {
             "number": "40",
             "name": "罗宾·里瑟",
             "position": "守门员"
-          },
-          {
-            "number": "23",
-            "name": "萨德·阿卜杜勒哈米德",
-            "position": "后卫"
           }
         ],
         "subs": [
           {
-            "number": "6",
-            "name": "萨姆森·拜杜",
+            "number": "27",
+            "name": "亚瑟·马苏亚库",
+            "position": "后卫"
+          },
+          {
+            "number": "7",
+            "name": "弗洛里安·索托卡",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "阿卜杜拉·西玛",
+            "position": "前锋"
+          },
+          {
+            "number": "22",
+            "name": "韦斯利·萨义德",
+            "position": "前锋"
+          },
+          {
+            "number": "2",
+            "name": "鲁本·阿圭勒",
             "position": "后卫"
           },
           {
@@ -457,29 +477,9 @@
             "position": "中场"
           },
           {
-            "number": "11",
-            "name": "欧蒂桑内·爱德华",
+            "number": "38",
+            "name": "拉扬·福法纳",
             "position": "前锋"
-          },
-          {
-            "number": "10",
-            "name": "弗洛里安·托万",
-            "position": "前锋"
-          },
-          {
-            "number": "19",
-            "name": "阿卜杜拉·西玛",
-            "position": "前锋"
-          },
-          {
-            "number": "9",
-            "name": "阿兰·圣马克西曼",
-            "position": "前锋"
-          },
-          {
-            "number": "2",
-            "name": "鲁本·阿圭勒",
-            "position": "后卫"
           }
         ],
         "injured": [],
@@ -489,38 +489,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "35",
-            "name": "塞尼·库姆巴萨",
-            "position": "后卫"
+            "number": "20",
+            "name": "埃莫森",
+            "position": "前锋"
           },
           {
-            "number": "4",
-            "name": "查理·克雷斯韦尔",
-            "position": "后卫"
-          },
-          {
-            "number": "2",
-            "name": "拉斯穆斯·尼古拉森",
-            "position": "后卫"
-          },
-          {
-            "number": "18",
-            "name": "帕佩·登巴·迪奥普",
-            "position": "中场"
-          },
-          {
-            "number": "24",
-            "name": "达扬·梅塔利",
-            "position": "后卫"
-          },
-          {
-            "number": "19",
-            "name": "吉布里尔·西迪贝",
-            "position": "后卫"
-          },
-          {
-            "number": "23",
-            "name": "克里斯蒂安·卡塞雷斯",
+            "number": "11",
+            "name": "圣地亚哥·希达尔戈",
             "position": "中场"
           },
           {
@@ -529,14 +504,39 @@
             "position": "中场"
           },
           {
-            "number": "11",
-            "name": "圣地亚哥·希达尔戈",
-            "position": "前锋"
+            "number": "24",
+            "name": "达扬·梅塔利",
+            "position": "中场"
           },
           {
-            "number": "20",
-            "name": "埃莫森",
-            "position": "前锋"
+            "number": "18",
+            "name": "帕佩·登巴·迪奥普",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "克里斯蒂安·卡塞雷斯",
+            "position": "中场"
+          },
+          {
+            "number": "19",
+            "name": "吉布里尔·西迪贝",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "拉斯穆斯·尼古拉森",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "查理·克雷斯韦尔",
+            "position": "后卫"
+          },
+          {
+            "number": "35",
+            "name": "塞尼·库姆巴萨",
+            "position": "后卫"
           },
           {
             "number": "16",
@@ -546,24 +546,19 @@
         ],
         "subs": [
           {
+            "number": "12",
+            "name": "沃伦·卡曼齐",
+            "position": "后卫"
+          },
+          {
+            "number": "44",
+            "name": "盖坦·巴库什·皮尔纳斯",
+            "position": "后卫"
+          },
+          {
             "number": "37",
             "name": "伊利亚斯·阿齐兹",
             "position": "前锋"
-          },
-          {
-            "number": "18",
-            "name": "帕佩·登巴·迪奥普",
-            "position": "中场"
-          },
-          {
-            "number": "16",
-            "name": "凯蒂尔·豪格",
-            "position": "守门员"
-          },
-          {
-            "number": "24",
-            "name": "达扬·梅塔利",
-            "position": "后卫"
           },
           {
             "number": "13",
@@ -581,14 +576,14 @@
             "position": "前锋"
           },
           {
-            "number": "44",
-            "name": "盖坦·巴库什·皮尔纳斯",
-            "position": "后卫"
+            "number": "45",
+            "name": "亚历克西斯·沃萨",
+            "position": "中场"
           },
           {
-            "number": "19",
-            "name": "吉布里尔·西迪贝",
-            "position": "后卫"
+            "number": "1",
+            "name": "古拉姆·雷斯特斯",
+            "position": "守门员"
           }
         ],
         "injured": [],
@@ -649,10 +644,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.830↑",
+        "home_water": "0.850↑",
         "handicap": "一球升",
-        "away_water": "0.980↓",
-        "time": "04-22 02:43"
+        "away_water": "0.950↓",
+        "time": "04-22 02:53"
       },
       "init": {
         "home_water": "0.770",
@@ -710,22 +705,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "一球升",
-        "away_water": "0.950↑",
-        "time": "04-22 02:47"
-      },
-      "init": {
-        "home_water": "1.110",
-        "handicap": "半球/一球",
-        "away_water": "0.660",
-        "time": "03-08 02:51"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -742,13 +721,29 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "一球升",
+        "away_water": "0.950↑",
+        "time": "04-22 02:47"
+      },
+      "init": {
+        "home_water": "1.110",
+        "handicap": "半球/一球",
+        "away_water": "0.660",
+        "time": "03-08 02:51"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
         "home_water": "0.880↓",
         "handicap": "一球升",
         "away_water": "1.020↑",
-        "time": "04-22 02:43"
+        "time": "04-22 02:50"
       },
       "init": {
         "home_water": "0.980",
@@ -761,10 +756,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.920↓",
         "handicap": "一球升",
-        "away_water": "0.970↑",
-        "time": "04-22 02:44"
+        "away_water": "1.000↑",
+        "time": "04-22 02:49"
       },
       "init": {
         "home_water": "0.940",
@@ -809,10 +804,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.930↑",
+        "home_water": "0.910↑",
         "handicap": "一球升",
-        "away_water": "0.990↓",
-        "time": "04-22 02:47"
+        "away_water": "1.010↓",
+        "time": "04-22 02:53"
       },
       "init": {
         "home_water": "0.790",
@@ -825,10 +820,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.830↓",
         "handicap": "一球升",
-        "away_water": "0.910↑",
-        "time": "04-22 02:46"
+        "away_water": "0.920↑",
+        "time": "04-22 02:48"
       },
       "init": {
         "home_water": "0.890",
@@ -844,7 +839,7 @@
         "home_water": "0.910↓",
         "handicap": "一球升",
         "away_water": "0.990↑",
-        "time": "04-22 02:45"
+        "time": "04-22 02:52"
       },
       "init": {
         "home_water": "0.930",
@@ -1740,7 +1735,7 @@
     {
       "cid": "140",
       "company": "M****on88 (明*)",
-      "time": "2026-04-22 02:43:52",
+      "time": "2026-04-22 02:52:18",
       "odds": {
         "live": [
           "1.81",
@@ -1748,9 +1743,9 @@
           "3.90"
         ],
         "init": [
-          "1.58",
+          "1.56",
           "4.30",
-          "5.50"
+          "5.60"
         ]
       },
       "prob": {
@@ -1760,9 +1755,9 @@
           "22.87%"
         ],
         "init": [
-          "60.43%",
-          "22.21%",
-          "17.36%"
+          "60.93%",
+          "22.10%",
+          "16.97%"
         ]
       },
       "ret": {
@@ -1770,7 +1765,7 @@
           "89.17%"
         ],
         "init": [
-          "95.48%"
+          "95.04%"
         ]
       },
       "kelly": {
@@ -1780,9 +1775,9 @@
           "0.64"
         ],
         "init": [
-          "0.97",
           "0.96",
-          "0.90"
+          "0.96",
+          "0.92"
         ]
       }
     },
@@ -1838,7 +1833,7 @@
     {
       "cid": "502",
       "company": "12**t (壹*博)",
-      "time": "2026-04-22 02:43:45",
+      "time": "2026-04-22 02:52:18",
       "odds": {
         "live": [
           "1.81",
@@ -1846,9 +1841,9 @@
           "3.90"
         ],
         "init": [
-          "1.58",
+          "1.56",
           "4.30",
-          "5.50"
+          "5.60"
         ]
       },
       "prob": {
@@ -1858,9 +1853,9 @@
           "22.87%"
         ],
         "init": [
-          "60.43%",
-          "22.21%",
-          "17.36%"
+          "60.93%",
+          "22.10%",
+          "16.97%"
         ]
       },
       "ret": {
@@ -1868,7 +1863,7 @@
           "89.17%"
         ],
         "init": [
-          "95.48%"
+          "95.04%"
         ]
       },
       "kelly": {
@@ -1878,9 +1873,9 @@
           "0.64"
         ],
         "init": [
-          "0.97",
           "0.96",
-          "0.90"
+          "0.96",
+          "0.92"
         ]
       }
     },
