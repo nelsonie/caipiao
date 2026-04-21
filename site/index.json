@@ -1,42 +1,6 @@
 {
-  "last_updated_utc": "2026-04-21T16:00:19Z",
+  "last_updated_utc": "2026-04-21T16:10:22Z",
   "matches": [
-    {
-      "xml_id": "2039240",
-      "matchnum": "2001",
-      "date": "2026-04-21",
-      "dayofweek": "星期二",
-      "league": "韩国职业联赛",
-      "home": "全北现代",
-      "away": "仁川联",
-      "spf_win": "3.15",
-      "spf_draw": "3.16",
-      "spf_lost": "2.02",
-      "spf_updated": "2026-04-21 18:19:44",
-      "gameid": "1373121",
-      "kickoff_cst": "2026-04-21 18:30",
-      "matchnum_label": "周二001",
-      "home_team_id": "1609",
-      "away_team_id": "1612"
-    },
-    {
-      "xml_id": "2039241",
-      "matchnum": "2002",
-      "date": "2026-04-21",
-      "dayofweek": "星期二",
-      "league": "韩国职业联赛",
-      "home": "金泉尚武",
-      "away": "江原FC",
-      "spf_win": "1.51",
-      "spf_draw": "3.62",
-      "spf_lost": "5.25",
-      "spf_updated": "2026-04-21 18:17:41",
-      "gameid": "1373125",
-      "kickoff_cst": "2026-04-21 18:30",
-      "matchnum_label": "周二002",
-      "home_team_id": "1615",
-      "away_team_id": "5739"
-    },
     {
       "xml_id": "2039242",
       "matchnum": "2003",
@@ -342,6 +306,24 @@
       "matchnum_label": "周三012",
       "home_team_id": "667",
       "away_team_id": "1015"
+    },
+    {
+      "xml_id": "2039262",
+      "matchnum": "3013",
+      "date": "2026-04-23",
+      "dayofweek": "星期四",
+      "league": "意大利杯",
+      "home": "亚特兰大",
+      "away": "拉齐奥",
+      "spf_win": "2.95",
+      "spf_draw": "3.30",
+      "spf_lost": "2.05",
+      "spf_updated": "2026-04-21 09:47:03",
+      "gameid": "1385381",
+      "kickoff_cst": "2026-04-23 03:00",
+      "matchnum_label": "周三013",
+      "home_team_id": "1308",
+      "away_team_id": "964"
     },
     {
       "xml_id": "2039263",
