@@ -1,0 +1,11 @@
+/*.md
+  Content-Type: text/markdown; charset=utf-8
+  Cache-Control: public, max-age=300
+
+/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300
+
+/SKILL.md
+  Content-Type: text/markdown; charset=utf-8
+  Cache-Control: public, max-age=600
