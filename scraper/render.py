@@ -66,16 +66,83 @@ def render_match(gameid: str, match: dict, shuju: dict, yazhi: list[dict], ouzhi
     lines = [_fm(fm_meta)]
     lines.append(f"# {match['home']} vs {match['away']}\n")
 
-    lines.append("## 交战 & 战绩\n")
+    # 交战历史
+    lines.append("## 交战历史\n")
     if shuju.get("h2h_summary"):
         lines.append(shuju["h2h_summary"] + "\n")
     if shuju.get("team_ranks"):
         lines.append("\n".join(f"- {r}" for r in shuju["team_ranks"][:2]) + "\n")
-    if shuju.get("h2h_rows"):
-        lines.append("\n近期交战：")
-        for row in shuju["h2h_rows"][:6]:
-            lines.append("- " + " | ".join(row))
+    h2h = shuju.get("h2h_rows") or []
+    if h2h:
+        # 使用第一行的 key 做表头
+        keys = list(h2h[0].keys()) if isinstance(h2h[0], dict) and "cells" not in h2h[0] else None
+        if keys:
+            lines.append("\n| " + " | ".join(keys) + " |")
+            lines.append("|" + "|".join(["---"] * len(keys)) + "|")
+            for row in h2h[:8]:
+                lines.append("| " + " | ".join(str(row.get(k, "")) for k in keys) + " |")
         lines.append("")
+
+    # 近期战绩
+    recent = shuju.get("recent_form") or {}
+    for side_key, side_label in (("home", match["home"]), ("away", match["away"])):
+        data = recent.get(side_key) or {}
+        if not data:
+            continue
+        lines.append(f"\n## 近期战绩 · {side_label}\n")
+        if data.get("summary"):
+            lines.append(data["summary"] + "\n")
+        matches_ = data.get("matches") or []
+        if matches_ and isinstance(matches_[0], dict) and "cells" not in matches_[0]:
+            keys = list(matches_[0].keys())
+            lines.append("| " + " | ".join(keys) + " |")
+            lines.append("|" + "|".join(["---"] * len(keys)) + "|")
+            for row in matches_[:10]:
+                lines.append("| " + " | ".join(str(row.get(k, "")) for k in keys) + " |")
+
+    # 未来赛事
+    future = shuju.get("future_fixtures") or {}
+    for side_key, side_label in (("home", match["home"]), ("away", match["away"])):
+        rows_ = future.get(side_key) or []
+        if not rows_:
+            continue
+        lines.append(f"\n## 未来赛事 · {side_label}\n")
+        if isinstance(rows_[0], dict) and "cells" not in rows_[0]:
+            keys = list(rows_[0].keys())
+            lines.append("| " + " | ".join(keys) + " |")
+            lines.append("|" + "|".join(["---"] * len(keys)) + "|")
+            for row in rows_[:8]:
+                lines.append("| " + " | ".join(str(row.get(k, "")) for k in keys) + " |")
+
+    # 预计阵容
+    lineup = shuju.get("lineup") or {}
+    if lineup.get("home") or lineup.get("away"):
+        lines.append("\n## 预计阵容\n")
+        for side_key, side_label in (("home", match["home"]), ("away", match["away"])):
+            side = lineup.get(side_key) or {}
+            if not side:
+                continue
+            formation = side.get("formation") or "未公布"
+            lines.append(f"\n### {side_label}（阵型：{formation}）\n")
+
+            def _fmt(p):
+                num = f"#{p['number']} " if p.get("number") else ""
+                pos = f" ({p['position']})" if p.get("position") else ""
+                return f"{num}{p['name']}{pos}"
+
+            starters = side.get("starters") or []
+            subs = side.get("subs") or []
+            injured = side.get("injured") or []
+            suspended = side.get("suspended") or []
+
+            if starters:
+                lines.append("- **首发**：" + "、".join(_fmt(p) for p in starters))
+            if subs:
+                lines.append("- **替补**：" + "、".join(_fmt(p) for p in subs))
+            if injured:
+                lines.append("- **伤病**：" + "、".join(_fmt(p) for p in injured))
+            if suspended:
+                lines.append("- **停赛**：" + "、".join(_fmt(p) for p in suspended))
 
     lines.append(f"\n## 亚盘（{len(yazhi)} 家）\n")
     lines.append("| 公司 | 即时主水 | 盘口 | 即时客水 | 即时时间 | 初始主水 | 初始盘口 | 初始客水 | 初始时间 |")
