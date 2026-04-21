@@ -24,7 +24,7 @@
       "lost": "1.43",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-21T19:50:08Z"
+    "fetched_at_utc": "2026-04-21T20:00:09Z"
   },
   "shuju": {
     "title": "勒沃库森VS拜仁慕尼黑(2025/2026德国杯)-数据分析-500彩票网",
@@ -716,22 +716,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.790↓",
-        "handicap": "受一球/球半降",
-        "away_water": "1.010↑",
-        "time": "04-22 02:54"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "受一球",
-        "away_water": "1.000",
-        "time": "04-15 21:45"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -745,6 +729,22 @@
         "handicap": "受一球",
         "away_water": "1.000",
         "time": "03-25 01:26"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.790↓",
+        "handicap": "受一球/球半降",
+        "away_water": "1.010↑",
+        "time": "04-22 02:54"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "受一球",
+        "away_water": "1.000",
+        "time": "04-15 21:45"
       }
     },
     {
