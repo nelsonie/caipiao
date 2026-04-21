@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "半球",
-      "home_water": "0.730",
-      "away_water": "1.000",
+      "home_water": "0.710↓",
+      "away_water": "0.950↓",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "4.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-21T13:30:11Z"
+    "fetched_at_utc": "2026-04-21T13:40:11Z"
   },
   "shuju": {
     "title": "大阪钢巴VS福冈黄蜂(2026日职)-数据分析-500彩票网",
@@ -619,10 +619,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.730",
+        "home_water": "0.710↓",
         "handicap": "半球",
-        "away_water": "1.000",
-        "time": "04-19 17:10"
+        "away_water": "0.950↓",
+        "time": "04-21 21:22"
       },
       "init": {
         "home_water": "0.730",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.760",
-        "time": "04-21 00:00"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.760",
-        "time": "04-21 00:00"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球/一球",
         "away_water": "0.840",
         "time": "04-20 23:26"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.760",
+        "time": "04-21 00:00"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.760",
+        "time": "04-21 00:00"
       }
     },
     {
@@ -2003,7 +2003,7 @@
     {
       "cid": "863",
       "company": "18**t",
-      "time": "2026-04-21 17:03:53",
+      "time": "2026-04-21 21:15:47",
       "odds": {
         "live": [
           "2.00",
