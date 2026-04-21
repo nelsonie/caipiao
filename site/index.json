@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-21T20:10:12Z",
+  "last_updated_utc": "2026-04-21T20:20:15Z",
   "matches": [
     {
       "xml_id": "2039250",
@@ -74,24 +74,6 @@
       "away_team_id": "1129"
     },
     {
-      "xml_id": "2039256",
-      "matchnum": "3007",
-      "date": "2026-04-23",
-      "dayofweek": "星期四",
-      "league": "西班牙甲级联赛",
-      "home": "皇家社会",
-      "away": "赫塔费",
-      "spf_win": "5.20",
-      "spf_draw": "3.65",
-      "spf_lost": "1.51",
-      "spf_updated": "2026-04-21 09:47:03",
-      "gameid": "1216157",
-      "kickoff_cst": "2026-04-23 02:00",
-      "matchnum_label": "周三007",
-      "home_team_id": "885",
-      "away_team_id": "838"
-    },
-    {
       "xml_id": "2039261",
       "matchnum": "3012",
       "date": "2026-04-23",
@@ -110,22 +92,22 @@
       "away_team_id": "1015"
     },
     {
-      "xml_id": "2039263",
-      "matchnum": "3014",
+      "xml_id": "2039262",
+      "matchnum": "3013",
       "date": "2026-04-23",
       "dayofweek": "星期四",
-      "league": "法国杯",
-      "home": "斯特拉斯堡",
-      "away": "尼斯",
-      "spf_win": "2.86",
-      "spf_draw": "3.45",
-      "spf_lost": "2.04",
+      "league": "意大利杯",
+      "home": "亚特兰大",
+      "away": "拉齐奥",
+      "spf_win": "2.95",
+      "spf_draw": "3.30",
+      "spf_lost": "2.05",
       "spf_updated": "2026-04-21 09:47:03",
-      "gameid": "1394003",
+      "gameid": "1385381",
       "kickoff_cst": "2026-04-23 03:00",
-      "matchnum_label": "周三014",
-      "home_team_id": "1194",
-      "away_team_id": "1134"
+      "matchnum_label": "周三013",
+      "home_team_id": "1308",
+      "away_team_id": "964"
     },
     {
       "xml_id": "2039264",
