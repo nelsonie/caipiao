@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-21T22:20:11Z",
+  "last_updated_utc": "2026-04-21T22:30:12Z",
   "matches": [
     {
       "xml_id": "2039250",
@@ -92,6 +92,24 @@
       "away_team_id": "838"
     },
     {
+      "xml_id": "2039257",
+      "matchnum": "3008",
+      "date": "2026-04-23",
+      "dayofweek": "星期四",
+      "league": "荷兰甲级联赛",
+      "home": "特尔斯达",
+      "away": "鹿特丹斯巴达",
+      "spf_win": "4.40",
+      "spf_draw": "4.10",
+      "spf_lost": "1.52",
+      "spf_updated": "2026-04-21 09:47:03",
+      "gameid": "1202886",
+      "kickoff_cst": "2026-04-23 02:00",
+      "matchnum_label": "周三008",
+      "home_team_id": "1799",
+      "away_team_id": "518"
+    },
+    {
       "xml_id": "2039259",
       "matchnum": "3010",
       "date": "2026-04-23",
@@ -108,6 +126,24 @@
       "matchnum_label": "周三010",
       "home_team_id": "986",
       "away_team_id": "664"
+    },
+    {
+      "xml_id": "2039260",
+      "matchnum": "3011",
+      "date": "2026-04-23",
+      "dayofweek": "星期四",
+      "league": "英格兰超级联赛",
+      "home": "伯恩利",
+      "away": "曼彻斯特城",
+      "spf_win": "2.60",
+      "spf_draw": "4.08",
+      "spf_lost": "2.00",
+      "spf_updated": "2026-04-21 19:27:58",
+      "gameid": "1202745",
+      "kickoff_cst": "2026-04-23 03:00",
+      "matchnum_label": "周三011",
+      "home_team_id": "700",
+      "away_team_id": "1072"
     },
     {
       "xml_id": "2039261",
