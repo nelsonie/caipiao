@@ -24,7 +24,7 @@
       "lost": "5.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-21T16:20:10Z"
+    "fetched_at_utc": "2026-04-21T16:30:10Z"
   },
   "shuju": {
     "title": "朗斯VS图卢兹(2025/2026法国杯)-数据分析-500彩票网",
@@ -710,22 +710,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.630↑",
-        "handicap": "一球升",
-        "away_water": "0.710↓",
-        "time": "04-22 00:08"
-      },
-      "init": {
-        "home_water": "0.580",
-        "handicap": "半球",
-        "away_water": "0.760",
-        "time": "03-11 16:22"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -739,6 +723,22 @@
         "handicap": "半球/一球",
         "away_water": "0.660",
         "time": "03-08 02:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.630↑",
+        "handicap": "一球升",
+        "away_water": "0.710↓",
+        "time": "04-22 00:08"
+      },
+      "init": {
+        "home_water": "0.580",
+        "handicap": "半球",
+        "away_water": "0.760",
+        "time": "03-11 16:22"
       }
     },
     {
@@ -809,10 +809,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.920↑",
+        "home_water": "0.910↑",
         "handicap": "一球升",
-        "away_water": "1.000↓",
-        "time": "04-22 00:05"
+        "away_water": "1.010↓",
+        "time": "04-22 00:19"
       },
       "init": {
         "home_water": "0.790",
