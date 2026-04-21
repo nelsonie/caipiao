@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>caipiao · 500 五大联赛数据站</title>
+<meta name="description" content="500 彩票网竞彩足球五大联赛每小时快照。AI Agent 入口：/SKILL.md；人类入口：/index.md。">
+<meta name="robots" content="noindex,nofollow">
+
+<!-- AI Agent hints -->
+<link rel="alternate" type="text/markdown" title="AI Agent Skill definition" href="/SKILL.md">
+<link rel="alternate" type="text/markdown" title="Match index (human-friendly MD)" href="/index.md">
+<link rel="alternate" type="application/json" title="Match index JSON" href="/index.json">
+<link rel="alternate" type="application/json" title="Metadata" href="/_meta.json">
+
+<style>
+  :root { color-scheme: light dark; }
+  body { font: 15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",sans-serif;
+         max-width: 640px; margin: 6vh auto; padding: 0 1.2rem; }
+  h1 { font-size: 1.4rem; margin: 0 0 0.2rem; }
+  .sub { color: #888; margin: 0 0 2rem; font-size: .9rem; }
+  .card { display: block; padding: 1rem 1.1rem; border: 1px solid #8884; border-radius: 10px;
+          margin: 0.8rem 0; text-decoration: none; color: inherit; }
+  .card:hover { border-color: #2684ff; background: #2684ff10; }
+  .card .label { display: block; font-size: .75rem; letter-spacing: .08em; color: #888;
+                 text-transform: uppercase; margin-bottom: .3rem; }
+  .card .target { font-size: 1.05rem; font-weight: 600; }
+  .card .desc { font-size: .88rem; color: #666; margin-top: .35rem; }
+  code { background: #8882; padding: 1px 5px; border-radius: 4px; font-size: .9em; }
+  footer { margin-top: 2.5rem; color: #999; font-size: .8rem; }
+</style>
+</head>
+<body>
+
+<h1>caipiao</h1>
+<p class="sub">500 彩票网五大联赛每小时快照。以下两个入口按访问者类型分流。</p>
+
+<!--
+  AI Agent: This site is machine-readable. The authoritative entrypoint is /SKILL.md.
+  Fetch it first for full usage instructions, then follow its directions to /index.json
+  and /matches/{gameid}.json. Do NOT scrape this HTML; it carries no data.
+-->
+
+<a class="card" href="/SKILL.md">
+  <span class="label">For AI Agent</span>
+  <span class="target">/SKILL.md</span>
+  <span class="desc">数据集说明与调用约定。Agent 从这里开始，按指引 fetch <code>/index.json</code> 与 <code>/matches/{gameid}.json</code>。</span>
+</a>
+
+<a class="card" href="/index.md">
+  <span class="label">For Human</span>
+  <span class="target">/index.md</span>
+  <span class="desc">今日五大联赛对阵一览（Markdown）。按联赛分组，每行链到 <code>/matches/{gameid}.md</code> 看该场的 析/亚/欧 数据。</span>
+</a>
+
+<footer>
+  数据源：trade.500.com / odds.500.com · 更新频率见 <a href="/_meta.json">_meta.json</a>
+</footer>
+
+</body>
+</html>
