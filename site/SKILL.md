@@ -1,7 +1,6 @@
 ---
 name: caipiao-500-big5
-description: 500 彩票网竞彩足球五大联赛（英超/西甲/德甲/意甲/法甲）当日对阵、亚盘、欧赔、数据分析快照。回答赛前盘口/赔率/交战历史类问题。
-data_source: trade.500.com / odds.500.com
+description: 竞彩足球五大联赛（英超/西甲/德甲/意甲/法甲）当日对阵、亚盘、欧赔、数据分析快照。回答赛前盘口/赔率/交战历史类问题。
 update_frequency: 约每小时一次，精确时间戳见 _meta.json 与每个场次 frontmatter 的 fetched_at_utc
 site_root: https://caipiao.niexingxing.com
 ---
@@ -127,7 +126,6 @@ matches/{gameid}.json 顶层结构：
 
 ## 5. 回答时的免责与时效
 
-- 数据来源必须注明"500 彩票网"
 - 必须包含 `last_updated_utc` 作为时效说明
 - 赔率可能已变化，回答时告知用户以实际购彩平台为准
 - 不做投注建议
