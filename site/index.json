@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-21T16:40:16Z",
+  "last_updated_utc": "2026-04-21T16:50:16Z",
   "matches": [
     {
       "xml_id": "2039243",
@@ -146,24 +146,6 @@
       "away_team_id": "808"
     },
     {
-      "xml_id": "2039251",
-      "matchnum": "3002",
-      "date": "2026-04-22",
-      "dayofweek": "星期三",
-      "league": "韩国职业联赛",
-      "home": "浦项制铁",
-      "away": "光州FC",
-      "spf_win": "2.88",
-      "spf_draw": "3.05",
-      "spf_lost": "2.20",
-      "spf_updated": "2026-04-21 09:47:03",
-      "gameid": "1373082",
-      "kickoff_cst": "2026-04-22 18:30",
-      "matchnum_label": "周三002",
-      "home_team_id": "1608",
-      "away_team_id": "6477"
-    },
-    {
       "xml_id": "2039253",
       "matchnum": "3004",
       "date": "2026-04-23",
@@ -288,6 +270,24 @@
       "matchnum_label": "周三012",
       "home_team_id": "667",
       "away_team_id": "1015"
+    },
+    {
+      "xml_id": "2039263",
+      "matchnum": "3014",
+      "date": "2026-04-23",
+      "dayofweek": "星期四",
+      "league": "法国杯",
+      "home": "斯特拉斯堡",
+      "away": "尼斯",
+      "spf_win": "2.86",
+      "spf_draw": "3.45",
+      "spf_lost": "2.04",
+      "spf_updated": "2026-04-21 09:47:03",
+      "gameid": "1394003",
+      "kickoff_cst": "2026-04-23 03:00",
+      "matchnum_label": "周三014",
+      "home_team_id": "1194",
+      "away_team_id": "1134"
     },
     {
       "xml_id": "2039264",
