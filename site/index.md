@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-04-21T12:00:11Z'
+last_updated_utc: '2026-04-21T12:10:13Z'
 total_matches: 10
 leagues_covered:
 - 法国甲级联赛
