@@ -1,0 +1,15 @@
+# Workers + Static Assets 配置。
+# 你的 Cloudflare 项目是 Workers Build（部署命令 `npx wrangler deploy`），
+# 没有 Worker 脚本，只 serve site/ 目录下的 .md / .json 静态文件。
+#
+# 如果 Cloudflare 控制台里项目名不是 caipiao，请同步改下面的 name。
+
+name = "caipiao"
+compatibility_date = "2026-01-01"
+
+[assets]
+directory = "./site"
+# 没有匹配文件时返回 404（不要把 .md 当 SPA 回退）
+not_found_handling = "none"
+# 把 site/_headers 里的自定义响应头应用到对应路径
+# （Workers Assets 自 2024-09 起兼容 Pages 的 _headers / _redirects 文件）

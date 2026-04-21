@@ -29,9 +29,13 @@ python3 -m venv ../.venv
 
 `run.sh` 负责：git pull → python fetch.py → 无变化不 commit → git push。
 
-## 部署 Cloudflare Pages
+## 部署到 Cloudflare
 
-1. 把本仓库推到 GitHub
-2. Cloudflare Pages → Connect to Git
-3. Build command 留空；Build output directory 填 `site`
-4. 拿到 `<project>.pages.dev` 后，替换 `site/SKILL.md` 里 `site_root` 字段
+仓库根有 `wrangler.toml`，声明为**纯静态资源 Worker**（无 main 脚本，assets directory = `site/`）。
+
+1. 把仓库推到 GitHub
+2. Cloudflare → Workers & Pages → Create → Connect Git
+3. 部署命令保持默认 `npx wrangler deploy`
+4. 首次部署完成后，绑定自定义域名（或用 `<project>.workers.dev`），把域名填到 `site/SKILL.md` 的 `site_root`
+
+`_headers` 文件在 Workers Static Assets 下原生兼容，会自动给 `.md` / `.json` 加正确的 Content-Type。
