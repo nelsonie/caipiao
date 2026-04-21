@@ -3,59 +3,177 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>caipiao · 500 五大联赛数据站</title>
-<meta name="description" content="500 彩票网竞彩足球五大联赛每小时快照。AI Agent 入口：/SKILL.md；人类入口：/index.md。">
+<title>今日五大联赛 (10 场) · caipiao</title>
 <meta name="robots" content="noindex,nofollow">
-
-<!-- AI Agent hints -->
-<link rel="alternate" type="text/markdown" title="AI Agent Skill definition" href="/SKILL.md">
-<link rel="alternate" type="text/markdown" title="Match index (human-friendly MD)" href="/index.md">
-<link rel="alternate" type="application/json" title="Match index JSON" href="/index.json">
-<link rel="alternate" type="application/json" title="Metadata" href="/_meta.json">
-
+<link rel="alternate" type="text/markdown" href="index.md">
 <style>
-  :root { color-scheme: light dark; }
-  body { font: 15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",sans-serif;
-         max-width: 640px; margin: 6vh auto; padding: 0 1.2rem; }
-  h1 { font-size: 1.4rem; margin: 0 0 0.2rem; }
-  .sub { color: #888; margin: 0 0 2rem; font-size: .9rem; }
-  .card { display: block; padding: 1rem 1.1rem; border: 1px solid #8884; border-radius: 10px;
-          margin: 0.8rem 0; text-decoration: none; color: inherit; }
-  .card:hover { border-color: #2684ff; background: #2684ff10; }
-  .card .label { display: block; font-size: .75rem; letter-spacing: .08em; color: #888;
-                 text-transform: uppercase; margin-bottom: .3rem; }
-  .card .target { font-size: 1.05rem; font-weight: 600; }
-  .card .desc { font-size: .88rem; color: #666; margin-top: .35rem; }
-  code { background: #8882; padding: 1px 5px; border-radius: 4px; font-size: .9em; }
-  footer { margin-top: 2.5rem; color: #999; font-size: .8rem; }
+:root { color-scheme: light dark; --fg:#222; --bg:#fff; --muted:#666; --border:#ddd; --accent:#2684ff; --code-bg:#f4f4f6; }
+@media (prefers-color-scheme: dark) {
+  :root { --fg:#e8e8ea; --bg:#1a1a1c; --muted:#999; --border:#333; --accent:#5aa3ff; --code-bg:#222; }
+}
+* { box-sizing: border-box; }
+body {
+  font: 15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB",sans-serif;
+  color: var(--fg); background: var(--bg); margin: 0;
+}
+main { max-width: 1100px; margin: 0 auto; padding: 1.5rem 1.2rem 4rem; }
+nav  { max-width: 1100px; margin: 0 auto; padding: 1rem 1.2rem; border-bottom: 1px solid var(--border);
+       display: flex; gap: 1.2rem; font-size: .92rem; }
+nav a { color: var(--accent); text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+h1 { font-size: 1.6rem; margin: 1.2rem 0 1rem; border-bottom: 2px solid var(--border); padding-bottom: .5rem; }
+h2 { font-size: 1.2rem; margin: 1.6rem 0 .6rem; color: var(--fg); }
+h3 { font-size: 1.05rem; margin: 1.1rem 0 .4rem; color: var(--muted); }
+p  { margin: .55rem 0; }
+a  { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { background: var(--code-bg); padding: 1px 5px; border-radius: 4px; font-size: .88em;
+       font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+pre { background: var(--code-bg); padding: .8rem 1rem; border-radius: 6px; overflow-x: auto; }
+hr { border: 0; border-top: 1px solid var(--border); margin: 1.5rem 0; }
+ul, ol { padding-left: 1.4rem; }
+li { margin: .15rem 0; }
+
+.table-wrap { overflow-x: auto; margin: .6rem 0 1rem; border: 1px solid var(--border); border-radius: 6px; }
+table { width: 100%; border-collapse: collapse; font-size: .88rem; }
+th, td { text-align: left; padding: .45rem .7rem; border-bottom: 1px solid var(--border); white-space: nowrap; }
+th { background: var(--code-bg); font-weight: 600; color: var(--muted); }
+tr:last-child td { border-bottom: 0; }
+
+.fm-box { border: 1px solid var(--border); border-radius: 8px; padding: .8rem 1rem;
+          margin: 0 0 1.2rem; background: var(--code-bg); font-size: .9rem; }
+.fm-box .fm-row { display: flex; gap: .6rem; padding: .2rem 0; }
+.fm-box .fm-k { width: 140px; color: var(--muted); flex-shrink: 0; }
+.fm-box .fm-v { flex: 1; font-family: ui-monospace,SFMono-Regular,Menlo,monospace; font-size: .88rem; word-break: break-all; }
+
+footer { max-width: 1100px; margin: 3rem auto 2rem; padding: 0 1.2rem; color: var(--muted); font-size: .8rem;
+         border-top: 1px solid var(--border); padding-top: 1rem; }
 </style>
 </head>
 <body>
-
-<h1>caipiao</h1>
-<p class="sub">500 彩票网五大联赛每小时快照。以下两个入口按访问者类型分流。</p>
-
-<!--
-  AI Agent: This site is machine-readable. The authoritative entrypoint is /SKILL.md.
-  Fetch it first for full usage instructions, then follow its directions to /index.json
-  and /matches/{gameid}.json. Do NOT scrape this HTML; it carries no data.
--->
-
-<a class="card" href="/SKILL.md">
-  <span class="label">For AI Agent</span>
-  <span class="target">/SKILL.md</span>
-  <span class="desc">数据集说明与调用约定。Agent 从这里开始，按指引 fetch <code>/index.json</code> 与 <code>/matches/{gameid}.json</code>。</span>
-</a>
-
-<a class="card" href="/index.md">
-  <span class="label">For Human</span>
-  <span class="target">/index.md</span>
-  <span class="desc">今日五大联赛对阵一览（Markdown）。按联赛分组，每行链到 <code>/matches/{gameid}.md</code> 看该场的 析/亚/欧 数据。</span>
-</a>
-
-<footer>
-  数据源：trade.500.com / odds.500.com · 更新频率见 <a href="/_meta.json">_meta.json</a>
-</footer>
-
+<nav>
+  <a href="/">首页</a>
+  <a href="/SKILL.html">SKILL（AI 指南）</a>
+  <a href="index.md">查看原始 Markdown</a>
+  <a href="/_meta.json">_meta.json</a>
+</nav>
+<main>
+<h1>今日五大联赛 (10 场)</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-04-21T10:23:04Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">10</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v">法国甲级联赛、英格兰超级联赛、西班牙甲级联赛</div></div></div>
+<h1>今日五大联赛对阵</h1>
+<h2>法国甲级联赛 (1)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3005</td>
+<td>2026-04-23 星期四</td>
+<td>巴黎圣日尔曼 vs 南特</td>
+<td>2.04/4.05/2.55</td>
+<td><a href="matches/1205722.html">1205722</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2>英格兰超级联赛 (2)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3011</td>
+<td>2026-04-23 星期四</td>
+<td>伯恩利 vs 曼彻斯特城</td>
+<td>2.52/4.08/2.05</td>
+<td><a href="matches/1202745.html">1202745</a></td>
+</tr>
+<tr>
+<td>3012</td>
+<td>2026-04-23 星期四</td>
+<td>伯恩茅斯 vs 利兹联</td>
+<td>3.60/3.85/1.69</td>
+<td><a href="matches/1202549.html">1202549</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2>西班牙甲级联赛 (7)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2004</td>
+<td>2026-04-22 星期三</td>
+<td>马洛卡 vs 巴伦西亚</td>
+<td>5.05/3.72/1.51</td>
+<td><a href="matches/1216126.html">1216126</a></td>
+</tr>
+<tr>
+<td>2005</td>
+<td>2026-04-22 星期三</td>
+<td>毕尔巴鄂竞技 vs 奥萨苏纳</td>
+<td>3.48/3.15/1.91</td>
+<td><a href="matches/1215989.html">1215989</a></td>
+</tr>
+<tr>
+<td>2009</td>
+<td>2026-04-22 星期三</td>
+<td>皇家马德里 vs 阿拉维斯</td>
+<td>2.48/3.80/2.16</td>
+<td><a href="matches/1216133.html">1216133</a></td>
+</tr>
+<tr>
+<td>2010</td>
+<td>2026-04-22 星期三</td>
+<td>赫罗纳 vs 皇家贝蒂斯</td>
+<td>5.20/4.20/1.43</td>
+<td><a href="matches/1216039.html">1216039</a></td>
+</tr>
+<tr>
+<td>3004</td>
+<td>2026-04-23 星期四</td>
+<td>埃尔切 vs 马德里竞技</td>
+<td>1.50/4.15/4.55</td>
+<td><a href="matches/1216102.html">1216102</a></td>
+</tr>
+<tr>
+<td>3007</td>
+<td>2026-04-23 星期四</td>
+<td>皇家社会 vs 赫塔费</td>
+<td>5.20/3.65/1.51</td>
+<td><a href="matches/1216157.html">1216157</a></td>
+</tr>
+<tr>
+<td>3015</td>
+<td>2026-04-23 星期四</td>
+<td>巴塞罗那 vs 维戈塞尔塔</td>
+<td>2.33/4.25/2.15</td>
+<td><a href="matches/1216076.html">1216076</a></td>
+</tr>
+</tbody>
+</table></div>
+</main>
+<footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
 </body>
 </html>

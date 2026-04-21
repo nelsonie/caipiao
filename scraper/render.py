@@ -233,7 +233,7 @@ def write_site(
 ) -> list[Path]:
     """
     写出所有 site/ 文件。
-    旧的 matches/*.md/json 会被清空：避免滞留已下架的场次。
+    旧的 matches/*.{md,json,html} 会被清空：避免滞留已下架的场次。
     返回写入的文件路径列表。
     """
     SITE_DIR.mkdir(parents=True, exist_ok=True)
@@ -242,7 +242,7 @@ def write_site(
     # 清理旧的单场文件
     if not dry_run:
         for f in MATCHES_DIR.iterdir():
-            if f.is_file() and f.suffix in {".md", ".json"}:
+            if f.is_file() and f.suffix in {".md", ".json", ".html"}:
                 f.unlink()
 
     written: list[Path] = []
@@ -270,5 +270,11 @@ def write_site(
     if not dry_run:
         p_meta.write_text(render_meta(matches_with_gameid), encoding="utf-8")
     written.append(p_meta)
+
+    # 把 site/ 下所有 .md（含 SKILL.md）全部编成 .html
+    if not dry_run:
+        from html_render import render_html_for_dir
+        html_paths = render_html_for_dir(SITE_DIR)
+        written.extend(html_paths)
 
     return written
