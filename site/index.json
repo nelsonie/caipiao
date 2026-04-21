@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-21T20:30:11Z",
+  "last_updated_utc": "2026-04-21T20:40:11Z",
   "matches": [
     {
       "xml_id": "2039250",
@@ -72,42 +72,6 @@
       "matchnum_label": "周三005",
       "home_team_id": "647",
       "away_team_id": "1129"
-    },
-    {
-      "xml_id": "2039256",
-      "matchnum": "3007",
-      "date": "2026-04-23",
-      "dayofweek": "星期四",
-      "league": "西班牙甲级联赛",
-      "home": "皇家社会",
-      "away": "赫塔费",
-      "spf_win": "5.20",
-      "spf_draw": "3.65",
-      "spf_lost": "1.51",
-      "spf_updated": "2026-04-21 09:47:03",
-      "gameid": "1216157",
-      "kickoff_cst": "2026-04-23 02:00",
-      "matchnum_label": "周三007",
-      "home_team_id": "885",
-      "away_team_id": "838"
-    },
-    {
-      "xml_id": "2039257",
-      "matchnum": "3008",
-      "date": "2026-04-23",
-      "dayofweek": "星期四",
-      "league": "荷兰甲级联赛",
-      "home": "特尔斯达",
-      "away": "鹿特丹斯巴达",
-      "spf_win": "4.40",
-      "spf_draw": "4.10",
-      "spf_lost": "1.52",
-      "spf_updated": "2026-04-21 09:47:03",
-      "gameid": "1202886",
-      "kickoff_cst": "2026-04-23 02:00",
-      "matchnum_label": "周三008",
-      "home_team_id": "1799",
-      "away_team_id": "518"
     },
     {
       "xml_id": "2039259",
