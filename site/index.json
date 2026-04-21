@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-21T15:00:18Z",
+  "last_updated_utc": "2026-04-21T15:10:17Z",
   "matches": [
     {
       "xml_id": "2039240",
@@ -360,6 +360,24 @@
       "matchnum_label": "周三013",
       "home_team_id": "1308",
       "away_team_id": "964"
+    },
+    {
+      "xml_id": "2039263",
+      "matchnum": "3014",
+      "date": "2026-04-23",
+      "dayofweek": "星期四",
+      "league": "法国杯",
+      "home": "斯特拉斯堡",
+      "away": "尼斯",
+      "spf_win": "2.86",
+      "spf_draw": "3.45",
+      "spf_lost": "2.04",
+      "spf_updated": "2026-04-21 09:47:03",
+      "gameid": "1394003",
+      "kickoff_cst": "2026-04-23 03:00",
+      "matchnum_label": "周三014",
+      "home_team_id": "1194",
+      "away_team_id": "1134"
     },
     {
       "xml_id": "2039264",
