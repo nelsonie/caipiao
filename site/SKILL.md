@@ -1,6 +1,6 @@
 ---
-name: caipiao-500-big5
-description: 竞彩足球五大联赛（英超/西甲/德甲/意甲/法甲）当日对阵、亚盘、欧赔、数据分析快照。回答赛前盘口/赔率/交战历史类问题。
+name: caipiao-500
+description: 500 彩票网竞彩足球当日售卖中全部场次（含欧五大联赛、杯赛、亚洲联赛等）的对阵、亚盘、欧赔、数据分析、预计阵容快照。回答赛前盘口/赔率/交战历史类问题。
 update_frequency: 约每小时一次，精确时间戳见 _meta.json 与每个场次 frontmatter 的 fetched_at_utc
 site_root: https://caipiao.niexingxing.com
 ---

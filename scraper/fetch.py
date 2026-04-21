@@ -13,7 +13,6 @@ from config import (
     JCZQ_INDEX_URL,
     XML_SPF_URL,
     DETAIL_URLS,
-    BIG5_LEAGUES,
     CONCURRENCY,
 )
 from net import get_text, get_detail
@@ -38,15 +37,14 @@ def fetch_one_match(gameid: str) -> tuple[dict, list[dict], list[dict]]:
 
 
 def main(dry_run: bool) -> int:
-    # 1. 抓 XML 对阵列表
+    # 1. 抓 XML 对阵列表（全部联赛）
     log.info("fetching XML match list")
     xml = get_text(XML_SPF_URL)
     all_matches = parse_matches_xml(xml)
-    big5 = [m for m in all_matches if m["league"] in BIG5_LEAGUES]
-    log.info("XML total %d matches, big5 subset %d", len(all_matches), len(big5))
+    log.info("XML total %d matches", len(all_matches))
 
-    if not big5:
-        log.warning("no big5 matches today; writing empty index")
+    if not all_matches:
+        log.warning("no matches today; writing empty index")
         write_site([], {}, dry_run=dry_run)
         return 0
 
@@ -59,7 +57,7 @@ def main(dry_run: bool) -> int:
     # 3. Join
     enriched = []
     missing = []
-    for m in big5:
+    for m in all_matches:
         meta = index_map.get(m["matchnum"])
         if meta:
             enriched.append({**m, **meta})

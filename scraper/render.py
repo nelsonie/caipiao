@@ -195,7 +195,7 @@ def render_index(matches_with_gameid: list[dict]) -> tuple[str, str]:
         "total_matches": len(matches_with_gameid),
         "leagues_covered": sorted(by_league.keys()),
     }
-    lines = [_fm(fm), "# 今日五大联赛对阵\n"]
+    lines = [_fm(fm), "# 今日全部对阵\n"]
 
     # 按联赛分组，每组按 matchnum 排序
     for league in sorted(by_league.keys()):

@@ -88,7 +88,7 @@ def _title_from_fm(fm: dict | None, fallback: str) -> str:
     if fm.get("home") and fm.get("away"):
         return f"{fm['home']} vs {fm['away']}"
     if "total_matches" in fm:
-        return f"今日五大联赛 ({fm.get('total_matches', 0)} 场)"
+        return f"今日全部对阵 ({fm.get('total_matches', 0)} 场)"
     if fm.get("name"):
         return str(fm["name"])
     return fallback

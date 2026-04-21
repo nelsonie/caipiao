@@ -17,15 +17,6 @@ DETAIL_URLS = {
     "ouzhi": "https://odds.500.com/fenxi/ouzhi-{gameid}.shtml",
 }
 
-# 五大联赛白名单（XML league 字段精确值）
-BIG5_LEAGUES = {
-    "英格兰超级联赛",
-    "西班牙甲级联赛",
-    "德国甲级联赛",
-    "意大利甲级联赛",
-    "法国甲级联赛",
-}
-
 # HTTP
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "

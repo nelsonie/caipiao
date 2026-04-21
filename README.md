@@ -1,6 +1,6 @@
-# caipiao · 500 五大联赛数据站（AI Agent 可读）
+# caipiao · 500 竞彩足球数据站（AI Agent 可读）
 
-每小时从 trade.500.com / odds.500.com 抓取当日售卖中的五大联赛（英超/西甲/德甲/意甲/法甲）对阵、亚盘、欧赔、数据分析，生成 Markdown + JSON 快照，部署到 Cloudflare Pages 供 AI Agent 消费。
+每小时从 trade.500.com / odds.500.com 抓取当日售卖中的**全部竞彩场次**（含五大联赛、杯赛、亚洲联赛等）的对阵、亚盘、欧赔、数据分析、预计阵容，生成 Markdown + JSON 快照，部署到 Cloudflare Pages 供 AI Agent 消费。
 
 ## 布局
 
