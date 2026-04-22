@@ -24,7 +24,7 @@
       "lost": "9.40",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-22T05:20:12Z"
+    "fetched_at_utc": "2026-04-22T05:30:12Z"
   },
   "shuju": {
     "title": "巴塞罗那VS维戈塞尔塔(2025/2026西甲)-数据分析-500彩票网",
@@ -715,8 +715,8 @@
       "live": {
         "home_water": "0.950↑",
         "handicap": "两球升",
-        "away_water": "0.800↓",
-        "time": "04-22 12:51"
+        "away_water": "0.770↓",
+        "time": "04-22 13:18"
       },
       "init": {
         "home_water": "0.800",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "两球升",
-        "away_water": "0.860↓",
-        "time": "04-22 12:24"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "球半/两球",
-        "away_water": "0.900",
-        "time": "04-06 04:25"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "球半/两球",
         "away_water": "0.980",
         "time": "04-07 19:39"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.920↑",
+        "handicap": "两球升",
+        "away_water": "0.810↓",
+        "time": "04-22 13:23"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "球半/两球",
+        "away_water": "0.900",
+        "time": "04-06 04:25"
       }
     },
     {
@@ -1102,7 +1102,7 @@
     {
       "cid": "3",
       "company": "**t3*5",
-      "time": "2026-04-22 12:27:58",
+      "time": "2026-04-22 13:21:42",
       "odds": {
         "live": [
           "1.25",
