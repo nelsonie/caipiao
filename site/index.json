@@ -1,42 +1,6 @@
 {
-  "last_updated_utc": "2026-04-22T18:40:13Z",
+  "last_updated_utc": "2026-04-22T18:50:11Z",
   "matches": [
-    {
-      "xml_id": "2039258",
-      "matchnum": "3009",
-      "date": "2026-04-23",
-      "dayofweek": "星期四",
-      "league": "英格兰冠军联赛",
-      "home": "查尔顿",
-      "away": "伊普斯维奇",
-      "spf_win": "2.38",
-      "spf_draw": "2.98",
-      "spf_lost": "2.68",
-      "spf_updated": "2026-04-22 21:15:47",
-      "gameid": "1210413",
-      "kickoff_cst": "2026-04-23 02:45",
-      "matchnum_label": "周三009",
-      "home_team_id": "740",
-      "away_team_id": "1314"
-    },
-    {
-      "xml_id": "2039259",
-      "matchnum": "3010",
-      "date": "2026-04-23",
-      "dayofweek": "星期四",
-      "league": "德国杯",
-      "home": "勒沃库森",
-      "away": "拜仁慕尼黑",
-      "spf_win": "2.30",
-      "spf_draw": "3.90",
-      "spf_lost": "2.28",
-      "spf_updated": "2026-04-22 21:28:49",
-      "gameid": "1389379",
-      "kickoff_cst": "2026-04-23 02:45",
-      "matchnum_label": "周三010",
-      "home_team_id": "986",
-      "away_team_id": "664"
-    },
     {
       "xml_id": "2039260",
       "matchnum": "3011",
@@ -198,6 +162,24 @@
       "matchnum_label": "周四003",
       "home_team_id": "985",
       "away_team_id": "464"
+    },
+    {
+      "xml_id": "2039269",
+      "matchnum": "4004",
+      "date": "2026-04-24",
+      "dayofweek": "星期五",
+      "league": "瑞典超级联赛",
+      "home": "马尔默",
+      "away": "天狼星",
+      "spf_win": "3.65",
+      "spf_draw": "3.65",
+      "spf_lost": "1.73",
+      "spf_updated": "2026-04-22 09:27:41",
+      "gameid": "1362635",
+      "kickoff_cst": "2026-04-24 01:00",
+      "matchnum_label": "周四004",
+      "home_team_id": "1051",
+      "away_team_id": "4067"
     },
     {
       "xml_id": "2039270",
