@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-22T14:40:20Z",
+  "last_updated_utc": "2026-04-22T14:50:21Z",
   "matches": [
     {
       "xml_id": "2039250",
@@ -326,24 +326,6 @@
       "away_team_id": "224"
     },
     {
-      "xml_id": "2039268",
-      "matchnum": "4003",
-      "date": "2026-04-24",
-      "dayofweek": "星期五",
-      "league": "西班牙甲级联赛",
-      "home": "莱万特",
-      "away": "塞维利亚",
-      "spf_win": "5.60",
-      "spf_draw": "4.00",
-      "spf_lost": "1.43",
-      "spf_updated": "2026-04-22 09:27:41",
-      "gameid": "1216058",
-      "kickoff_cst": "2026-04-24 01:00",
-      "matchnum_label": "周四003",
-      "home_team_id": "985",
-      "away_team_id": "464"
-    },
-    {
       "xml_id": "2039269",
       "matchnum": "4004",
       "date": "2026-04-24",
@@ -360,24 +342,6 @@
       "matchnum_label": "周四004",
       "home_team_id": "1051",
       "away_team_id": "4067"
-    },
-    {
-      "xml_id": "2039270",
-      "matchnum": "4005",
-      "date": "2026-04-24",
-      "dayofweek": "星期五",
-      "league": "西班牙甲级联赛",
-      "home": "巴列卡诺",
-      "away": "西班牙人",
-      "spf_win": "4.15",
-      "spf_draw": "3.55",
-      "spf_lost": "1.65",
-      "spf_updated": "2026-04-22 09:27:41",
-      "gameid": "1215850",
-      "kickoff_cst": "2026-04-24 02:00",
-      "matchnum_label": "周四005",
-      "home_team_id": "650",
-      "away_team_id": "1283"
     },
     {
       "xml_id": "2039271",
