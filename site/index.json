@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-22T15:30:20Z",
+  "last_updated_utc": "2026-04-22T15:40:18Z",
   "matches": [
     {
       "xml_id": "2039250",
@@ -92,24 +92,6 @@
       "away_team_id": "1129"
     },
     {
-      "xml_id": "2039255",
-      "matchnum": "3006",
-      "date": "2026-04-23",
-      "dayofweek": "星期四",
-      "league": "瑞典超级联赛",
-      "home": "埃尔夫斯堡",
-      "away": "佐加顿斯",
-      "spf_win": "1.50",
-      "spf_draw": "3.80",
-      "spf_lost": "5.00",
-      "spf_updated": "2026-04-22 15:20:03",
-      "gameid": "1362631",
-      "kickoff_cst": "2026-04-23 01:00",
-      "matchnum_label": "周三006",
-      "home_team_id": "563",
-      "away_team_id": "1355"
-    },
-    {
       "xml_id": "2039256",
       "matchnum": "3007",
       "date": "2026-04-23",
@@ -144,24 +126,6 @@
       "matchnum_label": "周三008",
       "home_team_id": "1799",
       "away_team_id": "518"
-    },
-    {
-      "xml_id": "2039258",
-      "matchnum": "3009",
-      "date": "2026-04-23",
-      "dayofweek": "星期四",
-      "league": "英格兰冠军联赛",
-      "home": "查尔顿",
-      "away": "伊普斯维奇",
-      "spf_win": "2.38",
-      "spf_draw": "2.98",
-      "spf_lost": "2.68",
-      "spf_updated": "2026-04-22 21:15:47",
-      "gameid": "1210413",
-      "kickoff_cst": "2026-04-23 02:45",
-      "matchnum_label": "周三009",
-      "home_team_id": "740",
-      "away_team_id": "1314"
     },
     {
       "xml_id": "2039259",
@@ -360,6 +324,42 @@
       "matchnum_label": "周四004",
       "home_team_id": "1051",
       "away_team_id": "4067"
+    },
+    {
+      "xml_id": "2039270",
+      "matchnum": "4005",
+      "date": "2026-04-24",
+      "dayofweek": "星期五",
+      "league": "西班牙甲级联赛",
+      "home": "巴列卡诺",
+      "away": "西班牙人",
+      "spf_win": "4.15",
+      "spf_draw": "3.55",
+      "spf_lost": "1.65",
+      "spf_updated": "2026-04-22 09:27:41",
+      "gameid": "1215850",
+      "kickoff_cst": "2026-04-24 02:00",
+      "matchnum_label": "周四005",
+      "home_team_id": "650",
+      "away_team_id": "1283"
+    },
+    {
+      "xml_id": "2039271",
+      "matchnum": "4006",
+      "date": "2026-04-24",
+      "dayofweek": "星期五",
+      "league": "葡萄牙超级联赛",
+      "home": "卡萨皮亚",
+      "away": "布拉加",
+      "spf_win": "2.40",
+      "spf_draw": "3.30",
+      "spf_lost": "2.45",
+      "spf_updated": "2026-04-22 17:22:18",
+      "gameid": "1216393",
+      "kickoff_cst": "2026-04-24 02:00",
+      "matchnum_label": "周四006",
+      "home_team_id": "3928",
+      "away_team_id": "719"
     },
     {
       "xml_id": "2039272",
