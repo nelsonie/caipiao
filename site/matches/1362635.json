@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "平手/半球降",
-      "home_water": "0.750↓",
-      "away_water": "0.850↑",
+      "home_water": "0.740↓",
+      "away_water": "0.870↑",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "3.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-22T17:40:13Z"
+    "fetched_at_utc": "2026-04-22T17:50:11Z"
   },
   "shuju": {
     "title": "马尔默VS天狼星(2026瑞典超)-数据分析-500彩票网",
@@ -619,10 +619,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.750↓",
+        "home_water": "0.740↓",
         "handicap": "平手/半球降",
-        "away_water": "0.850↑",
-        "time": "04-23 00:07"
+        "away_water": "0.870↑",
+        "time": "04-23 01:18"
       },
       "init": {
         "home_water": "1.000",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.780↑",
-        "handicap": "平手/半球",
-        "away_water": "0.890↓",
-        "time": "04-22 17:01"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "平手/半球",
-        "away_water": "0.920",
-        "time": "04-18 21:51"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.990",
         "time": "04-18 22:12"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.780↑",
+        "handicap": "平手/半球",
+        "away_water": "0.890↓",
+        "time": "04-22 17:01"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "平手/半球",
+        "away_water": "0.920",
+        "time": "04-18 21:51"
       }
     },
     {
