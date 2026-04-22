@@ -24,7 +24,7 @@
       "lost": "4.15",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-22T15:40:08Z"
+    "fetched_at_utc": "2026-04-22T15:50:06Z"
   },
   "shuju": {
     "title": "库普斯VSAC奥卢(2026芬超)-数据分析-500彩票网",
@@ -512,18 +512,18 @@
             "position": "前锋"
           },
           {
-            "number": "27",
-            "name": "埃利亚斯·卡利奥",
-            "position": "中场"
-          },
-          {
             "number": "7",
             "name": "拉斯穆斯·卡尔亚莱宁",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "11",
             "name": "拉米尼·哥扎利",
+            "position": "前锋"
+          },
+          {
+            "number": "27",
+            "name": "埃利亚斯·卡利奥",
             "position": "中场"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↑",
-        "handicap": "半球降",
-        "away_water": "0.960↑",
-        "time": "04-22 23:00"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.910",
-        "time": "04-19 23:11"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球/一球",
         "away_water": "0.900",
         "time": "04-19 01:47"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "半球降",
+        "away_water": "0.960↑",
+        "time": "04-22 23:00"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.910",
+        "time": "04-19 23:11"
       }
     },
     {
