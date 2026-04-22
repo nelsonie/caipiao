@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-22T16:20:16Z",
+  "last_updated_utc": "2026-04-22T16:30:16Z",
   "matches": [
     {
       "xml_id": "2039253",
@@ -252,6 +252,24 @@
       "matchnum_label": "周四001",
       "home_team_id": "7942",
       "away_team_id": "6759"
+    },
+    {
+      "xml_id": "2039267",
+      "matchnum": "4002",
+      "date": "2026-04-24",
+      "dayofweek": "星期五",
+      "league": "荷兰甲级联赛",
+      "home": "前进之鹰",
+      "away": "阿尔克马尔",
+      "spf_win": "1.65",
+      "spf_draw": "3.95",
+      "spf_lost": "3.70",
+      "spf_updated": "2026-04-22 09:27:41",
+      "gameid": "1202912",
+      "kickoff_cst": "2026-04-24 00:45",
+      "matchnum_label": "周四002",
+      "home_team_id": "1796",
+      "away_team_id": "224"
     },
     {
       "xml_id": "2039268",
