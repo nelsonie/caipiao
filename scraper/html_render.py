@@ -1,5 +1,6 @@
 """把 site/ 下的 .md 转成同名 .html，带统一样式与顶部 frontmatter 摘要。"""
 from __future__ import annotations
+import json
 import re
 from pathlib import Path
 import yaml
@@ -50,6 +51,24 @@ tr:last-child td { border-bottom: 0; }
 
 footer { max-width: 1100px; margin: 3rem auto 2rem; padding: 0 1.2rem; color: var(--muted); font-size: .8rem;
          border-top: 1px solid var(--border); padding-top: 1rem; }
+
+button { font: inherit; padding: .5rem 1rem; border: 1px solid var(--border);
+         border-radius: 6px; background: var(--accent); color: #fff; cursor: pointer; }
+button:hover { opacity: .88; }
+button:disabled { opacity: .5; cursor: default; }
+
+.quick { margin: 1rem 0 2rem; padding: 1rem 1.2rem; border: 1px solid var(--border);
+         border-radius: 8px; background: var(--code-bg); }
+.quick h2 { margin: 0 0 .6rem; font-size: 1rem; color: var(--muted); font-weight: 600; }
+.quick ul { list-style: none; padding: 0; margin: 0 0 1rem; }
+.quick li { padding: .35rem 0; border-bottom: 1px dashed var(--border);
+            display: flex; gap: .8rem; align-items: baseline; flex-wrap: wrap; }
+.quick li:last-child { border-bottom: 0; }
+.quick .meta { color: var(--muted); font-size: .82rem; font-variant-numeric: tabular-nums;
+               min-width: 11rem; flex-shrink: 0; }
+.quick .teams { flex: 1; }
+.quick .link { margin-left: auto; font-size: .85rem; }
+.quick .hint { font-size: .78rem; color: var(--muted); margin-top: .6rem; }
 """
 
 
@@ -94,7 +113,97 @@ def _title_from_fm(fm: dict | None, fallback: str) -> str:
     return fallback
 
 
-def convert_md_file(md_path: Path, md_filename_hint: str | None = None) -> str:
+def _render_index_quick_block(site_dir: Path) -> str:
+    """
+    首页最上方的"快查 + 一键复制"区块。
+    数据源：site/index.json。纯字符串，不引入外部 JS。
+    """
+    idx_json = site_dir / "index.json"
+    if not idx_json.exists():
+        return ""
+    try:
+        data = json.loads(idx_json.read_text(encoding="utf-8"))
+    except Exception:
+        return ""
+    matches = data.get("matches") or []
+    if not matches:
+        return ""
+
+    # 按 (date, matchnum) 排序，与 index.md 的分组视角互补
+    matches = sorted(matches, key=lambda m: (m.get("date") or "", m.get("matchnum") or ""))
+
+    def _esc(s: str) -> str:
+        return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
+
+    li_html = []
+    js_items = []
+    for m in matches:
+        gid = m.get("gameid")
+        if not gid:
+            continue
+        date = m.get("date") or ""
+        league = m.get("league") or ""
+        home = m.get("home") or ""
+        away = m.get("away") or ""
+        meta = f"{date} · {league}"
+        teams = f"{home} vs {away}"
+        url_rel = f"/matches/{gid}.html"
+        li_html.append(
+            f'<li>'
+            f'<span class="meta">{_esc(meta)}</span>'
+            f'<span class="teams">{_esc(teams)}</span>'
+            f'<span class="link"><a href="{_esc(url_rel)}">详情 →</a></span>'
+            f'</li>'
+        )
+        # 每行用 {ORIGIN} 占位符，JS 端实时拼出当前域名下的绝对 URL
+        js_items.append({
+            "line": f"{date} {league} {home} vs {away} {{ORIGIN}}{url_rel}"
+        })
+
+    ul = "\n".join(li_html)
+    payload_json = json.dumps(js_items, ensure_ascii=False)
+
+    return f"""
+<section class="quick">
+  <h2>快查（{len(li_html)} 场 · 按日期升序）</h2>
+  <ul>
+    {ul}
+  </ul>
+  <button id="copy-all" type="button">复制全部对阵及链接</button>
+  <p class="hint">点按钮会把每场一行，格式：<code>日期 联赛 主队 vs 客队 URL</code>，复制到剪贴板。</p>
+  <script>
+    (function () {{
+      var ITEMS = {payload_json};
+      var btn = document.getElementById('copy-all');
+      btn.addEventListener('click', function () {{
+        var origin = location.origin;
+        var text = ITEMS.map(function (it) {{ return it.line.replace('{{ORIGIN}}', origin); }}).join('\\n');
+        var done = function () {{
+          var prev = btn.textContent;
+          btn.textContent = '已复制 ' + ITEMS.length + ' 条 ✓';
+          btn.disabled = true;
+          setTimeout(function () {{ btn.textContent = prev; btn.disabled = false; }}, 2000);
+        }};
+        if (navigator.clipboard && window.isSecureContext) {{
+          navigator.clipboard.writeText(text).then(done, function (err) {{
+            alert('复制失败：' + err);
+          }});
+        }} else {{
+          var ta = document.createElement('textarea');
+          ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+          document.body.appendChild(ta); ta.select();
+          try {{ document.execCommand('copy'); done(); }} catch (e) {{ alert('复制失败'); }}
+          document.body.removeChild(ta);
+        }}
+      }});
+    }})();
+  </script>
+</section>
+"""
+
+
+def convert_md_file(md_path: Path, md_filename_hint: str | None = None,
+                    extras_top: str = "") -> str:
     """读 md 文件，转成完整 HTML 字符串"""
     md_text = md_path.read_text(encoding="utf-8")
     fm, body = _split_frontmatter(md_text)
@@ -133,6 +242,7 @@ def convert_md_file(md_path: Path, md_filename_hint: str | None = None) -> str:
 <main>
 <h1>{title}</h1>
 {_render_fm_box(fm)}
+{extras_top}
 {html_body}
 </main>
 <footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
@@ -144,9 +254,11 @@ def convert_md_file(md_path: Path, md_filename_hint: str | None = None) -> str:
 def render_html_for_dir(site_dir: Path) -> list[Path]:
     """递归把 site_dir 下所有 .md 编成同名 .html，返回生成的 html 路径列表"""
     out: list[Path] = []
+    quick_block = _render_index_quick_block(site_dir)
     for md in sorted(site_dir.rglob("*.md")):
         html_path = md.with_suffix(".html")
-        html = convert_md_file(md, md_filename_hint=md.name)
+        extras = quick_block if (md.parent == site_dir and md.name == "index.md") else ""
+        html = convert_md_file(md, md_filename_hint=md.name, extras_top=extras)
         html_path.write_text(html, encoding="utf-8")
         out.append(html_path)
     return out
