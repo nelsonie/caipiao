@@ -24,7 +24,7 @@
       "lost": "13.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-04-22T12:20:12Z"
+    "fetched_at_utc": "2026-04-22T12:30:10Z"
   },
   "shuju": {
     "title": "巴黎圣日耳曼VS南特(2025/2026法甲)-数据分析-500彩票网",
@@ -671,10 +671,10 @@
       "cid": "4",
       "company": "I***rw**t*n",
       "live": {
-        "home_water": "0.730↓",
+        "home_water": "0.750↓",
         "handicap": "两球升",
-        "away_water": "1.000↑",
-        "time": "04-22 19:58"
+        "away_water": "0.970",
+        "time": "04-22 20:26"
       },
       "init": {
         "home_water": "0.830",
@@ -716,22 +716,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "两球/两球半升",
-        "away_water": "0.870↓",
-        "time": "04-22 20:15"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "两球",
-        "away_water": "1.010",
-        "time": "04-13 08:36"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -745,6 +729,22 @@
         "handicap": "两球",
         "away_water": "0.950",
         "time": "04-20 11:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "两球/两球半升",
+        "away_water": "0.870↓",
+        "time": "04-22 20:15"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "两球",
+        "away_water": "1.010",
+        "time": "04-13 08:36"
       }
     },
     {
@@ -847,10 +847,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.020↑",
         "handicap": "两球/两球半升",
-        "away_water": "0.890↓",
-        "time": "04-22 20:16"
+        "away_water": "0.880↓",
+        "time": "04-22 20:19"
       },
       "init": {
         "home_water": "0.840",
@@ -1391,7 +1391,7 @@
         "live": [
           "0.96",
           "0.87",
-          "0.75"
+          "0.76"
         ],
         "init": [
           "0.95",
@@ -1538,7 +1538,7 @@
         "live": [
           "0.96",
           "0.78",
-          "0.68"
+          "0.69"
         ],
         "init": [
           "0.96",
