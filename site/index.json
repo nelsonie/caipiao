@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-22T17:30:13Z",
+  "last_updated_utc": "2026-04-22T17:40:15Z",
   "matches": [
     {
       "xml_id": "2039256",
@@ -110,24 +110,6 @@
       "away_team_id": "1015"
     },
     {
-      "xml_id": "2039262",
-      "matchnum": "3013",
-      "date": "2026-04-23",
-      "dayofweek": "星期四",
-      "league": "意大利杯",
-      "home": "亚特兰大",
-      "away": "拉齐奥",
-      "spf_win": "3.43",
-      "spf_draw": "3.10",
-      "spf_lost": "1.94",
-      "spf_updated": "2026-04-22 21:35:01",
-      "gameid": "1385381",
-      "kickoff_cst": "2026-04-23 03:00",
-      "matchnum_label": "周三013",
-      "home_team_id": "1308",
-      "away_team_id": "964"
-    },
-    {
       "xml_id": "2039263",
       "matchnum": "3014",
       "date": "2026-04-23",
@@ -180,24 +162,6 @@
       "matchnum_label": "周三016",
       "home_team_id": "2440",
       "away_team_id": "12213"
-    },
-    {
-      "xml_id": "2039266",
-      "matchnum": "4001",
-      "date": "2026-04-24",
-      "dayofweek": "星期五",
-      "league": "沙特职业联赛",
-      "home": "欧奈宰纳伊马",
-      "away": "布赖代合作",
-      "spf_win": "2.22",
-      "spf_draw": "3.45",
-      "spf_lost": "2.57",
-      "spf_updated": "2026-04-22 09:27:41",
-      "gameid": "1234916",
-      "kickoff_cst": "2026-04-24 00:10",
-      "matchnum_label": "周四001",
-      "home_team_id": "7942",
-      "away_team_id": "6759"
     },
     {
       "xml_id": "2039267",
