@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-04-22T01:30:10Z'
+last_updated_utc: '2026-04-22T01:40:12Z'
 total_matches: 12
 leagues_covered:
 - 德国杯
