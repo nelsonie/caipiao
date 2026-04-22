@@ -24,7 +24,7 @@
       "lost": "3.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-22T04:30:15Z"
+    "fetched_at_utc": "2026-04-22T04:40:18Z"
   },
   "shuju": {
     "title": "巴列卡诺VS西班牙人(2025/2026西甲)-数据分析-500彩票网",
@@ -748,22 +748,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.070↑",
-        "time": "04-22 11:24"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "半球",
-        "away_water": "1.050",
-        "time": "04-08 23:50"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -777,6 +761,22 @@
         "handicap": "一球",
         "away_water": "0.570",
         "time": "04-06 04:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.070↑",
+        "time": "04-22 11:24"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "半球",
+        "away_water": "1.050",
+        "time": "04-08 23:50"
       }
     },
     {
