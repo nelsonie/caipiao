@@ -24,7 +24,7 @@
       "lost": "1.93",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-22T13:40:17Z"
+    "fetched_at_utc": "2026-04-22T13:50:16Z"
   },
   "shuju": {
     "title": "前进之鹰VS阿尔克马尔(2025/2026荷甲)-数据分析-500彩票网",
@@ -717,22 +717,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "受平手/半球",
-        "away_water": "0.930↑",
-        "time": "04-22 17:31"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "受平手/半球",
-        "away_water": "0.880",
-        "time": "04-17 11:44"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -746,6 +730,22 @@
         "handicap": "平手",
         "away_water": "0.700",
         "time": "04-06 16:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "受平手/半球",
+        "away_water": "0.930↑",
+        "time": "04-22 17:31"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "受平手/半球",
+        "away_water": "0.880",
+        "time": "04-17 11:44"
       }
     },
     {
