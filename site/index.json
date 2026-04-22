@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-22T18:10:13Z",
+  "last_updated_utc": "2026-04-22T18:20:14Z",
   "matches": [
     {
       "xml_id": "2039258",
@@ -92,6 +92,24 @@
       "away_team_id": "964"
     },
     {
+      "xml_id": "2039263",
+      "matchnum": "3014",
+      "date": "2026-04-23",
+      "dayofweek": "星期四",
+      "league": "法国杯",
+      "home": "斯特拉斯堡",
+      "away": "尼斯",
+      "spf_win": "2.69",
+      "spf_draw": "3.30",
+      "spf_lost": "2.20",
+      "spf_updated": "2026-04-22 21:41:26",
+      "gameid": "1394003",
+      "kickoff_cst": "2026-04-23 03:00",
+      "matchnum_label": "周三014",
+      "home_team_id": "1194",
+      "away_team_id": "1134"
+    },
+    {
       "xml_id": "2039264",
       "matchnum": "3015",
       "date": "2026-04-23",
@@ -128,6 +146,24 @@
       "away_team_id": "12213"
     },
     {
+      "xml_id": "2039266",
+      "matchnum": "4001",
+      "date": "2026-04-24",
+      "dayofweek": "星期五",
+      "league": "沙特职业联赛",
+      "home": "欧奈宰纳伊马",
+      "away": "布赖代合作",
+      "spf_win": "2.22",
+      "spf_draw": "3.45",
+      "spf_lost": "2.57",
+      "spf_updated": "2026-04-22 09:27:41",
+      "gameid": "1234916",
+      "kickoff_cst": "2026-04-24 00:10",
+      "matchnum_label": "周四001",
+      "home_team_id": "7942",
+      "away_team_id": "6759"
+    },
+    {
       "xml_id": "2039267",
       "matchnum": "4002",
       "date": "2026-04-24",
@@ -144,6 +180,24 @@
       "matchnum_label": "周四002",
       "home_team_id": "1796",
       "away_team_id": "224"
+    },
+    {
+      "xml_id": "2039268",
+      "matchnum": "4003",
+      "date": "2026-04-24",
+      "dayofweek": "星期五",
+      "league": "西班牙甲级联赛",
+      "home": "莱万特",
+      "away": "塞维利亚",
+      "spf_win": "5.60",
+      "spf_draw": "4.00",
+      "spf_lost": "1.43",
+      "spf_updated": "2026-04-22 09:27:41",
+      "gameid": "1216058",
+      "kickoff_cst": "2026-04-24 01:00",
+      "matchnum_label": "周四003",
+      "home_team_id": "985",
+      "away_team_id": "464"
     },
     {
       "xml_id": "2039269",
