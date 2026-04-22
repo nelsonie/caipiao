@@ -13,9 +13,9 @@
       "lost": "2.77"
     },
     "asia_main": {
-      "handicap": "两球/两球半",
-      "home_water": "0.760↓",
-      "away_water": "0.880↑",
+      "handicap": "两球半升",
+      "home_water": "0.910↑",
+      "away_water": "0.750↓",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "13.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-04-22T07:10:20Z"
+    "fetched_at_utc": "2026-04-22T07:20:17Z"
   },
   "shuju": {
     "title": "利雅得胜利VS多哈艾阿里(2025/2026亚冠联2)-数据分析-500彩票网",
@@ -546,10 +546,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.760↓",
-        "handicap": "两球/两球半",
-        "away_water": "0.880↑",
-        "time": "04-22 14:02"
+        "home_water": "0.910↑",
+        "handicap": "两球半升",
+        "away_water": "0.750↓",
+        "time": "04-22 15:05"
       },
       "init": {
         "home_water": "0.840",
@@ -578,10 +578,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.920↑",
+        "home_water": "0.950↑",
         "handicap": "两球/两球半升",
-        "away_water": "0.870↓",
-        "time": "04-22 14:41"
+        "away_water": "0.850↓",
+        "time": "04-22 15:06"
       },
       "init": {
         "home_water": "0.900",
@@ -1122,7 +1122,7 @@
         ],
         "init": [
           "0.89",
-          "0.99",
+          "0.98",
           "1.02"
         ]
       }
@@ -2004,7 +2004,7 @@
         ],
         "init": [
           "0.91",
-          "0.99",
+          "0.98",
           "1.14"
         ]
       }
