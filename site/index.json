@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-22T15:10:22Z",
+  "last_updated_utc": "2026-04-22T15:20:20Z",
   "matches": [
     {
       "xml_id": "2039250",
@@ -92,24 +92,6 @@
       "away_team_id": "1129"
     },
     {
-      "xml_id": "2039255",
-      "matchnum": "3006",
-      "date": "2026-04-23",
-      "dayofweek": "星期四",
-      "league": "瑞典超级联赛",
-      "home": "埃尔夫斯堡",
-      "away": "佐加顿斯",
-      "spf_win": "1.50",
-      "spf_draw": "3.80",
-      "spf_lost": "5.00",
-      "spf_updated": "2026-04-22 15:20:03",
-      "gameid": "1362631",
-      "kickoff_cst": "2026-04-23 01:00",
-      "matchnum_label": "周三006",
-      "home_team_id": "563",
-      "away_team_id": "1355"
-    },
-    {
       "xml_id": "2039256",
       "matchnum": "3007",
       "date": "2026-04-23",
@@ -126,24 +108,6 @@
       "matchnum_label": "周三007",
       "home_team_id": "885",
       "away_team_id": "838"
-    },
-    {
-      "xml_id": "2039257",
-      "matchnum": "3008",
-      "date": "2026-04-23",
-      "dayofweek": "星期四",
-      "league": "荷兰甲级联赛",
-      "home": "特尔斯达",
-      "away": "鹿特丹斯巴达",
-      "spf_win": "4.20",
-      "spf_draw": "4.00",
-      "spf_lost": "1.56",
-      "spf_updated": "2026-04-22 19:51:24",
-      "gameid": "1202886",
-      "kickoff_cst": "2026-04-23 02:00",
-      "matchnum_label": "周三008",
-      "home_team_id": "1799",
-      "away_team_id": "518"
     },
     {
       "xml_id": "2039258",
@@ -344,24 +308,6 @@
       "away_team_id": "464"
     },
     {
-      "xml_id": "2039269",
-      "matchnum": "4004",
-      "date": "2026-04-24",
-      "dayofweek": "星期五",
-      "league": "瑞典超级联赛",
-      "home": "马尔默",
-      "away": "天狼星",
-      "spf_win": "3.65",
-      "spf_draw": "3.65",
-      "spf_lost": "1.73",
-      "spf_updated": "2026-04-22 09:27:41",
-      "gameid": "1362635",
-      "kickoff_cst": "2026-04-24 01:00",
-      "matchnum_label": "周四004",
-      "home_team_id": "1051",
-      "away_team_id": "4067"
-    },
-    {
       "xml_id": "2039270",
       "matchnum": "4005",
       "date": "2026-04-24",
@@ -398,22 +344,22 @@
       "away_team_id": "804"
     },
     {
-      "xml_id": "2039273",
-      "matchnum": "4008",
+      "xml_id": "2039274",
+      "matchnum": "4009",
       "date": "2026-04-24",
       "dayofweek": "星期五",
-      "league": "荷兰甲级联赛",
-      "home": "PSV埃因霍温",
-      "away": "兹沃勒",
-      "spf_win": "2.15",
-      "spf_draw": "4.25",
-      "spf_lost": "2.33",
+      "league": "西班牙甲级联赛",
+      "home": "皇家奥维耶多",
+      "away": "比利亚雷亚尔",
+      "spf_win": "1.75",
+      "spf_draw": "3.50",
+      "spf_lost": "3.70",
       "spf_updated": "2026-04-22 09:27:41",
-      "gameid": "1202914",
-      "kickoff_cst": "2026-04-24 03:00",
-      "matchnum_label": "周四008",
-      "home_team_id": "378",
-      "away_team_id": "1353"
+      "gameid": "1215842",
+      "kickoff_cst": "2026-04-24 03:30",
+      "matchnum_label": "周四009",
+      "home_team_id": "629",
+      "away_team_id": "683"
     },
     {
       "xml_id": "2039279",
