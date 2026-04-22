@@ -24,7 +24,7 @@
       "lost": "1.83",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-22T19:10:12Z"
+    "fetched_at_utc": "2026-04-22T19:20:10Z"
   },
   "shuju": {
     "title": "皇家奥维耶多VS比利亚雷亚尔(2025/2026西甲)-数据分析-500彩票网",
@@ -748,22 +748,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.060↑",
-        "handicap": "受平手/半球升",
-        "away_water": "0.820↓",
-        "time": "04-22 23:54"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "受半球",
-        "away_water": "0.880",
-        "time": "04-07 19:39"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -777,6 +761,22 @@
         "handicap": "受半球/一球",
         "away_water": "1.030",
         "time": "04-06 04:16"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.060↑",
+        "handicap": "受平手/半球升",
+        "away_water": "0.820↓",
+        "time": "04-22 23:54"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "受半球",
+        "away_water": "0.880",
+        "time": "04-07 19:39"
       }
     },
     {
