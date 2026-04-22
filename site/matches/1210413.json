@@ -24,7 +24,7 @@
       "lost": "1.57",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-22T09:50:12Z"
+    "fetched_at_utc": "2026-04-22T10:00:11Z"
   },
   "shuju": {
     "title": "查尔顿VS伊普斯维奇(2025/2026英冠)-数据分析-500彩票网",
@@ -686,22 +686,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "受半球/一球",
-        "away_water": "0.840↓",
-        "time": "04-22 17:42"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "受半球/一球",
-        "away_water": "0.930",
-        "time": "04-19 03:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -715,6 +699,22 @@
         "handicap": "平手",
         "away_water": "0.310",
         "time": "04-18 10:34"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "受半球/一球",
+        "away_water": "0.840↓",
+        "time": "04-22 17:42"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "受半球/一球",
+        "away_water": "0.930",
+        "time": "04-19 03:03"
       }
     },
     {
