@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "平手/半球升",
-      "home_water": "0.880↑",
-      "away_water": "0.750↓",
+      "home_water": "0.840↑",
+      "away_water": "0.780↓",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "2.69",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-22T07:00:17Z"
+    "fetched_at_utc": "2026-04-22T07:10:14Z"
   },
   "shuju": {
     "title": "皇家盐湖城VS迈阿密国际(2026美职联)-数据分析-500彩票网",
@@ -559,10 +559,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.880↑",
+        "home_water": "0.840↑",
         "handicap": "平手/半球升",
-        "away_water": "0.750↓",
-        "time": "04-21 17:13"
+        "away_water": "0.780↓",
+        "time": "04-22 14:55"
       },
       "init": {
         "home_water": "0.790",
@@ -668,6 +668,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.920↓",
+        "time": "04-22 14:58"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手",
+        "away_water": "1.000",
+        "time": "04-14 03:04"
+      }
+    },
+    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -681,22 +697,6 @@
         "handicap": "平手",
         "away_water": "1.000",
         "time": "04-14 00:07"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.930↓",
-        "time": "04-22 14:35"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手",
-        "away_water": "1.000",
-        "time": "04-14 03:04"
       }
     },
     {
@@ -783,10 +783,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.900↑",
+        "home_water": "0.890↑",
         "handicap": "平手/半球升",
-        "away_water": "0.890↓",
-        "time": "04-22 14:48"
+        "away_water": "0.900↓",
+        "time": "04-22 14:52"
       },
       "init": {
         "home_water": "0.600",
