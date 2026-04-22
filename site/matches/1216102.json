@@ -24,7 +24,7 @@
       "lost": "2.22",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-22T14:10:09Z"
+    "fetched_at_utc": "2026-04-22T14:20:09Z"
   },
   "shuju": {
     "title": "埃尔切VS马德里竞技(2025/2026西甲)-数据分析-500彩票网",
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.040↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.840↓",
-        "time": "04-22 22:04"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "受半球",
-        "away_water": "0.950",
-        "time": "04-07 19:35"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.970",
         "time": "04-06 04:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.050↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.830↓",
+        "time": "04-22 22:11"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "受半球",
+        "away_water": "0.950",
+        "time": "04-07 19:35"
       }
     },
     {
@@ -797,7 +797,7 @@
         "home_water": "1.110↑",
         "handicap": "平手/半球升",
         "away_water": "0.840↓",
-        "time": "04-22 21:59"
+        "time": "04-22 22:10"
       },
       "init": {
         "home_water": "0.970",
@@ -1577,7 +1577,7 @@
     {
       "cid": "651",
       "company": "利*",
-      "time": "2026-04-22 22:02:55",
+      "time": "2026-04-22 22:14:05",
       "odds": {
         "live": [
           "3.40",
