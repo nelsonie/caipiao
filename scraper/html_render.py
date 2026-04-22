@@ -67,7 +67,13 @@ button:disabled { opacity: .5; cursor: default; }
 .quick .meta { color: var(--muted); font-size: .82rem; font-variant-numeric: tabular-nums;
                min-width: 11rem; flex-shrink: 0; }
 .quick .teams { flex: 1; }
-.quick .link { margin-left: auto; font-size: .85rem; }
+.quick .url { margin-left: auto; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+              font-size: .8rem; color: var(--muted); white-space: nowrap;
+              overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+.quick .url:hover { color: var(--accent); }
+@media (max-width: 700px) {
+  .quick .url { margin-left: 0; flex-basis: 100%; }
+}
 .quick .hint { font-size: .78rem; color: var(--muted); margin-top: .6rem; }
 """
 
@@ -148,14 +154,14 @@ def _render_index_quick_block(site_dir: Path) -> str:
         meta = f"{date} · {league}"
         teams = f"{home} vs {away}"
         url_rel = f"/matches/{gid}.html"
+        # URL 的文案里放 {ORIGIN} 占位符；页面加载时 JS 会替换成 location.origin
         li_html.append(
             f'<li>'
             f'<span class="meta">{_esc(meta)}</span>'
             f'<span class="teams">{_esc(teams)}</span>'
-            f'<span class="link"><a href="{_esc(url_rel)}">详情 →</a></span>'
+            f'<a class="url" href="{_esc(url_rel)}">{{ORIGIN}}{_esc(url_rel)}</a>'
             f'</li>'
         )
-        # 每行用 {ORIGIN} 占位符，JS 端实时拼出当前域名下的绝对 URL
         js_items.append({
             "line": f"{date} {league} {home} vs {away} {{ORIGIN}}{url_rel}"
         })
@@ -174,9 +180,15 @@ def _render_index_quick_block(site_dir: Path) -> str:
   <script>
     (function () {{
       var ITEMS = {payload_json};
+      var origin = location.origin;
+      // 页面加载时把 li 里的 {{ORIGIN}} 占位符都换成真实域名
+      document.querySelectorAll('.quick .url').forEach(function (a) {{
+        if (a.textContent.indexOf('{{ORIGIN}}') === 0) {{
+          a.textContent = origin + a.textContent.slice('{{ORIGIN}}'.length);
+        }}
+      }});
       var btn = document.getElementById('copy-all');
       btn.addEventListener('click', function () {{
-        var origin = location.origin;
         var text = ITEMS.map(function (it) {{ return it.line.replace('{{ORIGIN}}', origin); }}).join('\\n');
         var done = function () {{
           var prev = btn.textContent;

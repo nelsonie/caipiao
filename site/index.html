@@ -64,7 +64,13 @@ button:disabled { opacity: .5; cursor: default; }
 .quick .meta { color: var(--muted); font-size: .82rem; font-variant-numeric: tabular-nums;
                min-width: 11rem; flex-shrink: 0; }
 .quick .teams { flex: 1; }
-.quick .link { margin-left: auto; font-size: .85rem; }
+.quick .url { margin-left: auto; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+              font-size: .8rem; color: var(--muted); white-space: nowrap;
+              overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+.quick .url:hover { color: var(--accent); }
+@media (max-width: 700px) {
+  .quick .url { margin-left: 0; flex-basis: 100%; }
+}
 .quick .hint { font-size: .78rem; color: var(--muted); margin-top: .6rem; }
 </style>
 </head>
@@ -82,27 +88,33 @@ button:disabled { opacity: .5; cursor: default; }
 <section class="quick">
   <h2>快查（12 场 · 按日期升序）</h2>
   <ul>
-    <li><span class="meta">2026-04-22 · 日本职业联赛</span><span class="teams">大阪钢巴 vs 福冈黄蜂</span><span class="link"><a href="/matches/1366368.html">详情 →</a></span></li>
-<li><span class="meta">2026-04-22 · 韩国职业联赛</span><span class="teams">浦项制铁 vs 光州FC</span><span class="link"><a href="/matches/1373082.html">详情 →</a></span></li>
-<li><span class="meta">2026-04-23 · 西班牙甲级联赛</span><span class="teams">埃尔切 vs 马德里竞技</span><span class="link"><a href="/matches/1216102.html">详情 →</a></span></li>
-<li><span class="meta">2026-04-23 · 法国甲级联赛</span><span class="teams">巴黎圣日尔曼 vs 南特</span><span class="link"><a href="/matches/1205722.html">详情 →</a></span></li>
-<li><span class="meta">2026-04-23 · 西班牙甲级联赛</span><span class="teams">皇家社会 vs 赫塔费</span><span class="link"><a href="/matches/1216157.html">详情 →</a></span></li>
-<li><span class="meta">2026-04-23 · 荷兰甲级联赛</span><span class="teams">特尔斯达 vs 鹿特丹斯巴达</span><span class="link"><a href="/matches/1202886.html">详情 →</a></span></li>
-<li><span class="meta">2026-04-23 · 德国杯</span><span class="teams">勒沃库森 vs 拜仁慕尼黑</span><span class="link"><a href="/matches/1389379.html">详情 →</a></span></li>
-<li><span class="meta">2026-04-23 · 英格兰超级联赛</span><span class="teams">伯恩利 vs 曼彻斯特城</span><span class="link"><a href="/matches/1202745.html">详情 →</a></span></li>
-<li><span class="meta">2026-04-23 · 英格兰超级联赛</span><span class="teams">伯恩茅斯 vs 利兹联</span><span class="link"><a href="/matches/1202549.html">详情 →</a></span></li>
-<li><span class="meta">2026-04-23 · 意大利杯</span><span class="teams">亚特兰大 vs 拉齐奥</span><span class="link"><a href="/matches/1385381.html">详情 →</a></span></li>
-<li><span class="meta">2026-04-23 · 法国杯</span><span class="teams">斯特拉斯堡 vs 尼斯</span><span class="link"><a href="/matches/1394003.html">详情 →</a></span></li>
-<li><span class="meta">2026-04-23 · 西班牙甲级联赛</span><span class="teams">巴塞罗那 vs 维戈塞尔塔</span><span class="link"><a href="/matches/1216076.html">详情 →</a></span></li>
+    <li><span class="meta">2026-04-22 · 日本职业联赛</span><span class="teams">大阪钢巴 vs 福冈黄蜂</span><a class="url" href="/matches/1366368.html">{ORIGIN}/matches/1366368.html</a></li>
+<li><span class="meta">2026-04-22 · 韩国职业联赛</span><span class="teams">浦项制铁 vs 光州FC</span><a class="url" href="/matches/1373082.html">{ORIGIN}/matches/1373082.html</a></li>
+<li><span class="meta">2026-04-23 · 西班牙甲级联赛</span><span class="teams">埃尔切 vs 马德里竞技</span><a class="url" href="/matches/1216102.html">{ORIGIN}/matches/1216102.html</a></li>
+<li><span class="meta">2026-04-23 · 法国甲级联赛</span><span class="teams">巴黎圣日尔曼 vs 南特</span><a class="url" href="/matches/1205722.html">{ORIGIN}/matches/1205722.html</a></li>
+<li><span class="meta">2026-04-23 · 西班牙甲级联赛</span><span class="teams">皇家社会 vs 赫塔费</span><a class="url" href="/matches/1216157.html">{ORIGIN}/matches/1216157.html</a></li>
+<li><span class="meta">2026-04-23 · 荷兰甲级联赛</span><span class="teams">特尔斯达 vs 鹿特丹斯巴达</span><a class="url" href="/matches/1202886.html">{ORIGIN}/matches/1202886.html</a></li>
+<li><span class="meta">2026-04-23 · 德国杯</span><span class="teams">勒沃库森 vs 拜仁慕尼黑</span><a class="url" href="/matches/1389379.html">{ORIGIN}/matches/1389379.html</a></li>
+<li><span class="meta">2026-04-23 · 英格兰超级联赛</span><span class="teams">伯恩利 vs 曼彻斯特城</span><a class="url" href="/matches/1202745.html">{ORIGIN}/matches/1202745.html</a></li>
+<li><span class="meta">2026-04-23 · 英格兰超级联赛</span><span class="teams">伯恩茅斯 vs 利兹联</span><a class="url" href="/matches/1202549.html">{ORIGIN}/matches/1202549.html</a></li>
+<li><span class="meta">2026-04-23 · 意大利杯</span><span class="teams">亚特兰大 vs 拉齐奥</span><a class="url" href="/matches/1385381.html">{ORIGIN}/matches/1385381.html</a></li>
+<li><span class="meta">2026-04-23 · 法国杯</span><span class="teams">斯特拉斯堡 vs 尼斯</span><a class="url" href="/matches/1394003.html">{ORIGIN}/matches/1394003.html</a></li>
+<li><span class="meta">2026-04-23 · 西班牙甲级联赛</span><span class="teams">巴塞罗那 vs 维戈塞尔塔</span><a class="url" href="/matches/1216076.html">{ORIGIN}/matches/1216076.html</a></li>
   </ul>
   <button id="copy-all" type="button">复制全部对阵及链接</button>
   <p class="hint">点按钮会把每场一行，格式：<code>日期 联赛 主队 vs 客队 URL</code>，复制到剪贴板。</p>
   <script>
     (function () {
       var ITEMS = [{"line": "2026-04-22 日本职业联赛 大阪钢巴 vs 福冈黄蜂 {ORIGIN}/matches/1366368.html"}, {"line": "2026-04-22 韩国职业联赛 浦项制铁 vs 光州FC {ORIGIN}/matches/1373082.html"}, {"line": "2026-04-23 西班牙甲级联赛 埃尔切 vs 马德里竞技 {ORIGIN}/matches/1216102.html"}, {"line": "2026-04-23 法国甲级联赛 巴黎圣日尔曼 vs 南特 {ORIGIN}/matches/1205722.html"}, {"line": "2026-04-23 西班牙甲级联赛 皇家社会 vs 赫塔费 {ORIGIN}/matches/1216157.html"}, {"line": "2026-04-23 荷兰甲级联赛 特尔斯达 vs 鹿特丹斯巴达 {ORIGIN}/matches/1202886.html"}, {"line": "2026-04-23 德国杯 勒沃库森 vs 拜仁慕尼黑 {ORIGIN}/matches/1389379.html"}, {"line": "2026-04-23 英格兰超级联赛 伯恩利 vs 曼彻斯特城 {ORIGIN}/matches/1202745.html"}, {"line": "2026-04-23 英格兰超级联赛 伯恩茅斯 vs 利兹联 {ORIGIN}/matches/1202549.html"}, {"line": "2026-04-23 意大利杯 亚特兰大 vs 拉齐奥 {ORIGIN}/matches/1385381.html"}, {"line": "2026-04-23 法国杯 斯特拉斯堡 vs 尼斯 {ORIGIN}/matches/1394003.html"}, {"line": "2026-04-23 西班牙甲级联赛 巴塞罗那 vs 维戈塞尔塔 {ORIGIN}/matches/1216076.html"}];
+      var origin = location.origin;
+      // 页面加载时把 li 里的 {ORIGIN} 占位符都换成真实域名
+      document.querySelectorAll('.quick .url').forEach(function (a) {
+        if (a.textContent.indexOf('{ORIGIN}') === 0) {
+          a.textContent = origin + a.textContent.slice('{ORIGIN}'.length);
+        }
+      });
       var btn = document.getElementById('copy-all');
       btn.addEventListener('click', function () {
-        var origin = location.origin;
         var text = ITEMS.map(function (it) { return it.line.replace('{ORIGIN}', origin); }).join('\n');
         var done = function () {
           var prev = btn.textContent;

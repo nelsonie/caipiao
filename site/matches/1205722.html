@@ -64,7 +64,13 @@ button:disabled { opacity: .5; cursor: default; }
 .quick .meta { color: var(--muted); font-size: .82rem; font-variant-numeric: tabular-nums;
                min-width: 11rem; flex-shrink: 0; }
 .quick .teams { flex: 1; }
-.quick .link { margin-left: auto; font-size: .85rem; }
+.quick .url { margin-left: auto; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+              font-size: .8rem; color: var(--muted); white-space: nowrap;
+              overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+.quick .url:hover { color: var(--accent); }
+@media (max-width: 700px) {
+  .quick .url { margin-left: 0; flex-basis: 100%; }
+}
 .quick .hint { font-size: .78rem; color: var(--muted); margin-top: .6rem; }
 </style>
 </head>
