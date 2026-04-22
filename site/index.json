@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-22T10:30:19Z",
+  "last_updated_utc": "2026-04-22T10:40:19Z",
   "matches": [
     {
       "xml_id": "2039250",
@@ -378,60 +378,6 @@
       "matchnum_label": "周四005",
       "home_team_id": "650",
       "away_team_id": "1283"
-    },
-    {
-      "xml_id": "2039271",
-      "matchnum": "4006",
-      "date": "2026-04-24",
-      "dayofweek": "星期五",
-      "league": "葡萄牙超级联赛",
-      "home": "卡萨皮亚",
-      "away": "布拉加",
-      "spf_win": "2.40",
-      "spf_draw": "3.30",
-      "spf_lost": "2.45",
-      "spf_updated": "2026-04-22 17:22:18",
-      "gameid": "1216393",
-      "kickoff_cst": "2026-04-24 02:00",
-      "matchnum_label": "周四006",
-      "home_team_id": "3928",
-      "away_team_id": "719"
-    },
-    {
-      "xml_id": "2039272",
-      "matchnum": "4007",
-      "date": "2026-04-24",
-      "dayofweek": "星期五",
-      "league": "德国杯",
-      "home": "斯图加特",
-      "away": "弗赖堡",
-      "spf_win": "2.53",
-      "spf_draw": "3.45",
-      "spf_lost": "2.25",
-      "spf_updated": "2026-04-22 09:27:41",
-      "gameid": "1389378",
-      "kickoff_cst": "2026-04-24 02:45",
-      "matchnum_label": "周四007",
-      "home_team_id": "1195",
-      "away_team_id": "804"
-    },
-    {
-      "xml_id": "2039273",
-      "matchnum": "4008",
-      "date": "2026-04-24",
-      "dayofweek": "星期五",
-      "league": "荷兰甲级联赛",
-      "home": "PSV埃因霍温",
-      "away": "兹沃勒",
-      "spf_win": "2.15",
-      "spf_draw": "4.25",
-      "spf_lost": "2.33",
-      "spf_updated": "2026-04-22 09:27:41",
-      "gameid": "1202914",
-      "kickoff_cst": "2026-04-24 03:00",
-      "matchnum_label": "周四008",
-      "home_team_id": "378",
-      "away_team_id": "1353"
     },
     {
       "xml_id": "2039274",
