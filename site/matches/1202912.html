@@ -1,0 +1,970 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>前进之鹰 vs 阿尔克马尔 · caipiao</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="alternate" type="text/markdown" href="1202912.md">
+<style>
+:root { color-scheme: light dark; --fg:#222; --bg:#fff; --muted:#666; --border:#ddd; --accent:#2684ff; --code-bg:#f4f4f6; }
+@media (prefers-color-scheme: dark) {
+  :root { --fg:#e8e8ea; --bg:#1a1a1c; --muted:#999; --border:#333; --accent:#5aa3ff; --code-bg:#222; }
+}
+* { box-sizing: border-box; }
+body {
+  font: 15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB",sans-serif;
+  color: var(--fg); background: var(--bg); margin: 0;
+}
+main { max-width: 1100px; margin: 0 auto; padding: 1.5rem 1.2rem 4rem; }
+nav  { max-width: 1100px; margin: 0 auto; padding: 1rem 1.2rem; border-bottom: 1px solid var(--border);
+       display: flex; gap: 1.2rem; font-size: .92rem; }
+nav a { color: var(--accent); text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+h1 { font-size: 1.6rem; margin: 1.2rem 0 1rem; border-bottom: 2px solid var(--border); padding-bottom: .5rem; }
+h2 { font-size: 1.2rem; margin: 1.6rem 0 .6rem; color: var(--fg); }
+h3 { font-size: 1.05rem; margin: 1.1rem 0 .4rem; color: var(--muted); }
+p  { margin: .55rem 0; }
+a  { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { background: var(--code-bg); padding: 1px 5px; border-radius: 4px; font-size: .88em;
+       font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+pre { background: var(--code-bg); padding: .8rem 1rem; border-radius: 6px; overflow-x: auto; }
+hr { border: 0; border-top: 1px solid var(--border); margin: 1.5rem 0; }
+ul, ol { padding-left: 1.4rem; }
+li { margin: .15rem 0; }
+
+.table-wrap { overflow-x: auto; margin: .6rem 0 1rem; border: 1px solid var(--border); border-radius: 6px; }
+table { width: 100%; border-collapse: collapse; font-size: .88rem; }
+th, td { text-align: left; padding: .45rem .7rem; border-bottom: 1px solid var(--border); white-space: nowrap; }
+th { background: var(--code-bg); font-weight: 600; color: var(--muted); }
+tr:last-child td { border-bottom: 0; }
+
+.fm-box { border: 1px solid var(--border); border-radius: 8px; padding: .8rem 1rem;
+          margin: 0 0 1.2rem; background: var(--code-bg); font-size: .9rem; }
+.fm-box .fm-row { display: flex; gap: .6rem; padding: .2rem 0; }
+.fm-box .fm-k { width: 140px; color: var(--muted); flex-shrink: 0; }
+.fm-box .fm-v { flex: 1; font-family: ui-monospace,SFMono-Regular,Menlo,monospace; font-size: .88rem; word-break: break-all; }
+
+footer { max-width: 1100px; margin: 3rem auto 2rem; padding: 0 1.2rem; color: var(--muted); font-size: .8rem;
+         border-top: 1px solid var(--border); padding-top: 1rem; }
+
+button { font: inherit; padding: .5rem 1rem; border: 1px solid var(--border);
+         border-radius: 6px; background: var(--accent); color: #fff; cursor: pointer; }
+button:hover { opacity: .88; }
+button:disabled { opacity: .5; cursor: default; }
+
+.quick { margin: 1rem 0 2rem; padding: 1rem 1.2rem; border: 1px solid var(--border);
+         border-radius: 8px; background: var(--code-bg); }
+.quick h2 { margin: 0 0 .6rem; font-size: 1rem; color: var(--muted); font-weight: 600; }
+.quick ul { list-style: none; padding: 0; margin: 0 0 1rem; }
+.quick li { padding: .35rem 0; border-bottom: 1px dashed var(--border);
+            display: flex; gap: .8rem; align-items: baseline; flex-wrap: wrap; }
+.quick li:last-child { border-bottom: 0; }
+.quick .meta { color: var(--muted); font-size: .82rem; font-variant-numeric: tabular-nums;
+               min-width: 11rem; flex-shrink: 0; }
+.quick .teams { flex: 1; }
+.quick .url { margin-left: auto; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+              font-size: .8rem; color: var(--muted); white-space: nowrap;
+              overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+.quick .url:hover { color: var(--accent); }
+@media (max-width: 700px) {
+  .quick .url { margin-left: 0; flex-basis: 100%; }
+}
+.quick .hint { font-size: .78rem; color: var(--muted); margin-top: .6rem; }
+</style>
+</head>
+<body>
+<nav>
+  <a href="/">首页</a>
+  <a href="/SKILL.html">SKILL（AI 指南）</a>
+  <a href="1202912.md">查看原始 Markdown</a>
+  <a href="/_meta.json">_meta.json</a>
+</nav>
+<main>
+<h1>前进之鹰 vs 阿尔克马尔</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">gameid</div><div class="fm-v">1202912</div></div><div class="fm-row"><div class="fm-k">matchnum</div><div class="fm-v">4002</div></div><div class="fm-row"><div class="fm-k">date</div><div class="fm-v">2026-04-24</div></div><div class="fm-row"><div class="fm-k">league</div><div class="fm-v">荷兰甲级联赛</div></div><div class="fm-row"><div class="fm-k">home</div><div class="fm-v">前进之鹰</div></div><div class="fm-row"><div class="fm-k">away</div><div class="fm-v">阿尔克马尔</div></div><div class="fm-row"><div class="fm-k">kickoff_cst</div><div class="fm-v">2026-04-24 00:45</div></div><div class="fm-row"><div class="fm-k">spf</div><div class="fm-v"><b>win</b>:1.65 · <b>draw</b>:3.95 · <b>lost</b>:3.70</div></div><div class="fm-row"><div class="fm-k">asia_main</div><div class="fm-v"><b>handicap</b>:受平手/半球 · <b>home_water</b>:0.780↓ · <b>away_water</b>:0.830↓ · <b>company</b>:威**尔</div></div><div class="fm-row"><div class="fm-k">euro_main</div><div class="fm-v"><b>win</b>:2.97 · <b>draw</b>:3.65 · <b>lost</b>:1.93 · <b>company</b>:竞*官*</div></div><div class="fm-row"><div class="fm-k">fetched_at_utc</div><div class="fm-v">2026-04-23T03:10:08Z</div></div></div>
+
+<h1>前进之鹰 vs 阿尔克马尔</h1>
+<h2>交战历史</h2>
+<p>双方近 6 次交战，前进之鹰 0胜 3平 3负 ，进6球，失16球，大球5次，小球1次</p>
+<ul>
+<li>前进之鹰 [荷甲11]</li>
+<li>阿尔克马尔 [荷甲6]</li>
+</ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 比分 客队</th>
+<th>半场</th>
+<th>赛果</th>
+<th></th>
+<th>盘路</th>
+<th>大小</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>荷甲</td>
+<td>2025-12-07</td>
+<td>[5] 阿尔克马尔 2 : 2 前进之鹰 [10]</td>
+<td>2: 1</td>
+<td>平</td>
+<td>0.8 球半 0.98</td>
+<td>赢</td>
+<td>大</td>
+<td>-</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>2025-05-04</td>
+<td>[7] 前进之鹰 0 :3 阿尔克马尔 [6]</td>
+<td>0 :2</td>
+<td>负</td>
+<td>0.8 受半球/一球 1</td>
+<td>输</td>
+<td>大</td>
+<td>-</td>
+</tr>
+<tr>
+<td>荷杯</td>
+<td>2025-04-22</td>
+<td>阿尔克马尔 1 : 1 前进之鹰</td>
+<td>0 : 0</td>
+<td>平</td>
+<td>0.92 半球 0.78</td>
+<td>赢</td>
+<td>小</td>
+<td>-</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>2024-10-28</td>
+<td>[6] 阿尔克马尔 2 : 2 前进之鹰 [9]</td>
+<td>1: 0</td>
+<td>平</td>
+<td>0.85 半球/一球 0.95</td>
+<td>赢</td>
+<td>大</td>
+<td>-</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>2024-05-12</td>
+<td>[8] 前进之鹰 0 :3 阿尔克马尔 [4]</td>
+<td>0 :2</td>
+<td>负</td>
+<td>0.9 受半球/一球 0.9</td>
+<td>输</td>
+<td>大</td>
+<td>-</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>2023-08-13</td>
+<td>[7] 阿尔克马尔 5: 1 前进之鹰 [8]</td>
+<td>2: 0</td>
+<td>负</td>
+<td>1 一球/球半 0.8</td>
+<td>输</td>
+<td>大</td>
+<td>-</td>
+</tr>
+</tbody>
+</table></div>
+<h2>近期战绩 · 前进之鹰</h2>
+<p>前进之鹰 近10场战绩 4胜 2平 4负 进 19球 失 11球</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 比分 客队</th>
+<th>盘口</th>
+<th>半场</th>
+<th>赛果</th>
+<th>盘路</th>
+<th>大小</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>荷甲</td>
+<td>26-04-12</td>
+<td>格罗宁根 0 : 0 前进之鹰</td>
+<td>-0.75</td>
+<td>0 : 0</td>
+<td>平</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-04-05</td>
+<td>前进之鹰 5 :0 兹沃勒</td>
+<td>-0.5</td>
+<td>3 :0</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-03-22</td>
+<td>乌德勒支 2: 0 前进之鹰</td>
+<td>-0.75</td>
+<td>2: 0</td>
+<td>负</td>
+<td>输</td>
+<td>小</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-03-15</td>
+<td>前进之鹰 6 :0 布雷达</td>
+<td>-0.25</td>
+<td>3 :0</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-03-08</td>
+<td>前进之鹰 1 :4 特温特</td>
+<td>0.75</td>
+<td>0 :2</td>
+<td>负</td>
+<td>输</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-03-02</td>
+<td>SBV精英 0: 1 前进之鹰</td>
+<td>0</td>
+<td>0 : 0</td>
+<td>胜</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-02-22</td>
+<td>前进之鹰 4 :0 赫拉克勒斯</td>
+<td>-0.5</td>
+<td>1 :0</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-02-15</td>
+<td>费耶诺德 1: 0 前进之鹰</td>
+<td>-1.5</td>
+<td>0 : 0</td>
+<td>负</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-02-12</td>
+<td>前进之鹰 1 :3 海伦芬</td>
+<td>0</td>
+<td>0 : 0</td>
+<td>负</td>
+<td>输</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-02-08</td>
+<td>前进之鹰 1 : 1 特尔斯达</td>
+<td>-0.75</td>
+<td>0 : 0</td>
+<td>平</td>
+<td>输</td>
+<td>小</td>
+</tr>
+</tbody>
+</table></div>
+<h2>近期战绩 · 阿尔克马尔</h2>
+<p>阿尔克马尔 近10场战绩 6胜 1平 3负 进 23球 失 12球</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 比分 客队</th>
+<th>盘口</th>
+<th>半场</th>
+<th>赛果</th>
+<th>盘路</th>
+<th>大小</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>荷杯</td>
+<td>26-04-20</td>
+<td>阿尔克马尔 5 :1 奈梅亨</td>
+<td>-0.25</td>
+<td>1 :0</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>欧协联</td>
+<td>26-04-17</td>
+<td>阿尔克马尔 2 : 2 顿涅茨克矿工</td>
+<td>0</td>
+<td>0 : 0</td>
+<td>平</td>
+<td>走</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-04-12</td>
+<td>阿尔克马尔 3 :0 海伦芬</td>
+<td>-0.75</td>
+<td>2 :0</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>欧协联</td>
+<td>26-04-10</td>
+<td>顿涅茨克矿工 3: 0 阿尔克马尔</td>
+<td>-0.25</td>
+<td>0 : 0</td>
+<td>负</td>
+<td>输</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-04-05</td>
+<td>阿尔克马尔 2 :0 福图纳锡塔德</td>
+<td>-1.75</td>
+<td>2 :0</td>
+<td>胜</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-03-22</td>
+<td>格罗宁根 3: 0 阿尔克马尔</td>
+<td>0.25</td>
+<td>1: 0</td>
+<td>负</td>
+<td>输</td>
+<td>大</td>
+</tr>
+<tr>
+<td>欧协联</td>
+<td>26-03-20</td>
+<td>布拉格斯巴达 0: 4 阿尔克马尔</td>
+<td>0</td>
+<td>0: 1</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-03-15</td>
+<td>阿尔克马尔 4 :0 赫拉克勒斯</td>
+<td>-1.5</td>
+<td>2 :0</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>欧协联</td>
+<td>26-03-13</td>
+<td>阿尔克马尔 2 :1 布拉格斯巴达</td>
+<td>-0.5</td>
+<td>1 :0</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-03-08</td>
+<td>埃因霍温 2: 1 阿尔克马尔</td>
+<td>-1.5</td>
+<td>1 : 1</td>
+<td>负</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+</tbody>
+</table></div>
+<h2>未来赛事 · 前进之鹰</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 客队</th>
+<th>相隔</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>荷甲</td>
+<td>2026-05-03</td>
+<td>鹿特丹斯巴达 VS 前进之鹰</td>
+<td>9天</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>2026-05-10</td>
+<td>前进之鹰 VS 埃因霍温</td>
+<td>16天</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>2026-05-17</td>
+<td>奈梅亨 VS 前进之鹰</td>
+<td>23天</td>
+</tr>
+</tbody>
+</table></div>
+<h2>未来赛事 · 阿尔克马尔</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 客队</th>
+<th>相隔</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>荷甲</td>
+<td>2026-05-03</td>
+<td>阿尔克马尔 VS 特温特</td>
+<td>9天</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>2026-05-10</td>
+<td>费耶诺德 VS 阿尔克马尔</td>
+<td>16天</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>2026-05-17</td>
+<td>阿尔克马尔 VS 布雷达</td>
+<td>23天</td>
+</tr>
+</tbody>
+</table></div>
+<h2>预计阵容</h2>
+<h3>前进之鹰（阵型：未公布）</h3>
+<ul>
+<li><strong>首发</strong>：#9 斯特凡·英吉·西古尔达森 (前锋)、#17 马西斯·苏雷 (中场)、#16 维克多·卡伊·爱德华森 (中场)、#10 索伦·斯滕斯泰特 (中场)、#7 雅各布·布雷姆 (中场)、#21 梅勒梅·伦斯滕 (中场)、#29 阿斯克·阿德尔加德 (后卫)、#4 乔里斯·克莱默 (后卫)、#26 朱利叶斯·迪克森 (后卫)、#2 萨姆斯特德 (后卫)、#22 扎利·德·布瑟 (守门员)</li>
+<li><strong>替补</strong>：#20 尤斯·瓦耶斯 (后卫)、#27 芬恩·斯托克斯 (前锋)、#19 杰登·斯洛里 (前锋)、#1 卢卡·普洛格曼 (守门员)、#8 埃弗特·林索斯特 (中场)、#30 斯温·詹森 (守门员)、#5 迪恩·詹姆斯 (后卫)、#24 肯佐·古德明 (中场)、#23 蒂博·贝滕 (前锋)、#11 奥斯卡·西拉·西維特森 (前锋)</li>
+</ul>
+<h3>阿尔克马尔（阵型：未公布）</h3>
+<ul>
+<li><strong>首发</strong>：#27 罗·达尔 (前锋)、#9 特洛伊·帕洛特 (前锋)、#10 斯文·米南斯 (前锋)、#6 皮尔·库普梅纳斯 (中场)、#26 基斯·史密特 (中场)、#8 约尔迪·克拉西 (中场)、#34 米斯·德·威特 (后卫)、#5 亚历山大·曼努埃尔·佩内特拉·科雷亚 (后卫)、#3 沃特·高斯 (后卫)、#22 伊利亚·迪克斯特拉 (后卫)、#1 罗马杰登·奥杜罗 (守门员)</li>
+<li><strong>替补</strong>：#20 卡斯帕·布加德 (中场)、#41 杰罗恩·佐特 (守门员)、#17 伊萨克·延森 (前锋)、#7 韦斯利·平托·巴蒂斯塔 (前锋)、#24 阿尤布·奥夫基尔 (前锋)、#35 梅克斯·梅尔丁克 (前锋)、#2 每熊晟矢 (后卫)、#45 本德古兹·科瓦奇 (前锋)、#30 德索·卡修斯 (后卫)、#18 市原吏音 (后卫)、#15 马特奥·查韦斯 (后卫)、#23 比利·杜伊尔 (后卫)、#12 霍比·维赫斯特 (守门员)</li>
+</ul>
+<h2>亚盘（16 家）</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>公司</th>
+<th>即时主水</th>
+<th>盘口</th>
+<th>即时客水</th>
+<th>即时时间</th>
+<th>初始主水</th>
+<th>初始盘口</th>
+<th>初始客水</th>
+<th>初始时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>威**尔</td>
+<td>0.780↓</td>
+<td>受平手/半球</td>
+<td>0.830↓</td>
+<td>04-22 02:45</td>
+<td>0.790</td>
+<td>受平手/半球</td>
+<td>0.940</td>
+<td>04-09 00:52</td>
+</tr>
+<tr>
+<td>*门</td>
+<td>0.930</td>
+<td>受平手/半球</td>
+<td>0.850</td>
+<td>04-19 23:44</td>
+<td>0.930</td>
+<td>受平手/半球</td>
+<td>0.850</td>
+<td>04-19 23:44</td>
+</tr>
+<tr>
+<td>立*</td>
+<td>0.610</td>
+<td>受半球</td>
+<td>1.150</td>
+<td>04-22 06:06</td>
+<td>0.610</td>
+<td>受半球</td>
+<td>1.150</td>
+<td>04-22 06:06</td>
+</tr>
+<tr>
+<td>*<em>t3</em>5</td>
+<td>0.900↑</td>
+<td>受平手/半球</td>
+<td>0.900↓</td>
+<td>04-23 06:53</td>
+<td>0.850</td>
+<td>受平手/半球</td>
+<td>0.950</td>
+<td>04-09 00:52</td>
+</tr>
+<tr>
+<td>I<em><strong>rw</strong>t</em>n</td>
+<td>0.650↓</td>
+<td>受半球降</td>
+<td>1.100↑</td>
+<td>04-16 04:00</td>
+<td>1.100</td>
+<td>平手</td>
+<td>0.650</td>
+<td>04-13 00:06</td>
+</tr>
+<tr>
+<td>*冠</td>
+<td>0.930↓</td>
+<td>受平手/半球</td>
+<td>0.950↑</td>
+<td>04-23 10:41</td>
+<td>0.980</td>
+<td>受平手/半球</td>
+<td>0.900</td>
+<td>04-16 09:07</td>
+</tr>
+<tr>
+<td>易*博</td>
+<td>0.940↓</td>
+<td>受平手/半球</td>
+<td>0.900↑</td>
+<td>04-23 06:50</td>
+<td>0.990</td>
+<td>受平手/半球</td>
+<td>0.850</td>
+<td>04-20 09:40</td>
+</tr>
+<tr>
+<td>on**</td>
+<td>0.830↓</td>
+<td>受平手/半球降</td>
+<td>0.830↑</td>
+<td>04-23 08:41</td>
+<td>1.190</td>
+<td>平手</td>
+<td>0.700</td>
+<td>04-06 16:51</td>
+</tr>
+<tr>
+<td>伟*</td>
+<td>0.930↓</td>
+<td>受平手/半球</td>
+<td>0.920↑</td>
+<td>04-23 08:43</td>
+<td>0.970</td>
+<td>受平手/半球</td>
+<td>0.880</td>
+<td>04-17 11:44</td>
+</tr>
+<tr>
+<td>Pi***<em>le平</em></td>
+<td>0.930↑</td>
+<td>受平手/半球</td>
+<td>0.950↑</td>
+<td>04-23 08:37</td>
+<td>0.880</td>
+<td>受平手/半球</td>
+<td>0.930</td>
+<td>04-16 03:42</td>
+</tr>
+<tr>
+<td>利*</td>
+<td>0.970↓</td>
+<td>受平手/半球</td>
+<td>0.930↑</td>
+<td>04-23 06:45</td>
+<td>0.990</td>
+<td>受平手/半球</td>
+<td>0.910</td>
+<td>04-16 22:10</td>
+</tr>
+<tr>
+<td>M***<em>on88 (明</em>)</td>
+<td>0.970↓</td>
+<td>受平手/半球</td>
+<td>0.920↑</td>
+<td>04-23 08:45</td>
+<td>0.980</td>
+<td>受平手/半球</td>
+<td>0.900</td>
+<td>04-19 19:42</td>
+</tr>
+<tr>
+<td>香**会</td>
+<td>0.910↑</td>
+<td>受平手/半球</td>
+<td>0.850↓</td>
+<td>04-22 17:49</td>
+<td>0.820</td>
+<td>受平手/半球</td>
+<td>0.950</td>
+<td>04-21 03:29</td>
+</tr>
+<tr>
+<td>12*<em>t (壹</em>博)</td>
+<td>0.970↓</td>
+<td>受平手/半球</td>
+<td>0.920↑</td>
+<td>04-23 08:46</td>
+<td>0.980</td>
+<td>受平手/半球</td>
+<td>0.900</td>
+<td>04-19 19:42</td>
+</tr>
+<tr>
+<td>18**t</td>
+<td>0.910↑</td>
+<td>受平手/半球</td>
+<td>0.900↓</td>
+<td>04-23 09:51</td>
+<td>0.830</td>
+<td>受平手/半球</td>
+<td>0.920</td>
+<td>04-09 00:52</td>
+</tr>
+<tr>
+<td>W***<em>t (盈</em>)</td>
+<td>0.930↑</td>
+<td>受平手/半球</td>
+<td>0.970↑</td>
+<td>04-23 11:01</td>
+<td>0.860</td>
+<td>受平手/半球</td>
+<td>0.960</td>
+<td>04-09 00:52</td>
+</tr>
+</tbody>
+</table></div>
+<h2>欧赔（30 家）</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>公司</th>
+<th>即时 胜/平/负</th>
+<th>初始 胜/平/负</th>
+<th>即时概率</th>
+<th>即时返还</th>
+<th>即时凯利</th>
+<th>更新</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>竞<em>官</em></td>
+<td>2.97/3.65/1.93</td>
+<td>2.97/3.65/1.93</td>
+<td>29.83%/24.27%/45.90%</td>
+<td>88.59%</td>
+<td>0.95/0.91/0.83</td>
+<td>2026-04-22 09:27:40</td>
+</tr>
+<tr>
+<td>威**尔</td>
+<td>2.80/3.50/2.20</td>
+<td>2.88/3.60/2.15</td>
+<td>32.54%/26.04%/41.42%</td>
+<td>91.12%</td>
+<td>0.89/0.88/0.95</td>
+<td>2026-04-23 06:59:48</td>
+</tr>
+<tr>
+<td>*门</td>
+<td>2.80/3.60/2.05</td>
+<td>2.80/3.60/2.05</td>
+<td>31.81%/24.74%/43.45%</td>
+<td>89.07%</td>
+<td>0.89/0.90/0.88</td>
+<td>2026-04-19 23:43:17</td>
+</tr>
+<tr>
+<td>立*</td>
+<td>3.00/3.80/2.15</td>
+<td>2.87/3.70/2.25</td>
+<td>31.40%/24.79%/43.81%</td>
+<td>94.20%</td>
+<td>0.96/0.95/0.93</td>
+<td>2026-04-22 21:24:25</td>
+</tr>
+<tr>
+<td>*<em>t3</em>5</td>
+<td>2.88/3.75/2.20</td>
+<td>3.00/3.80/2.20</td>
+<td>32.50%/24.96%/42.54%</td>
+<td>93.59%</td>
+<td>0.92/0.94/0.95</td>
+<td>2026-04-22 13:23:34</td>
+</tr>
+<tr>
+<td>I<em><strong>rw</strong>t</em>n</td>
+<td>2.85/3.70/2.20</td>
+<td>2.95/3.70/2.20</td>
+<td>32.62%/25.13%/42.26%</td>
+<td>92.96%</td>
+<td>0.91/0.93/0.95</td>
+<td>2026-04-21 11:05:29</td>
+</tr>
+<tr>
+<td>S**I</td>
+<td>2.90/3.75/2.15</td>
+<td>2.95/3.75/2.15</td>
+<td>32.03%/24.77%/43.20%</td>
+<td>92.88%</td>
+<td>0.92/0.94/0.93</td>
+<td>2026-04-23 06:38:21</td>
+</tr>
+<tr>
+<td>*冠</td>
+<td>3.05/3.95/2.13</td>
+<td>2.85/3.95/2.24</td>
+<td>31.21%/24.10%/44.69%</td>
+<td>95.19%</td>
+<td>0.97/0.99/0.92</td>
+<td>2026-04-23 04:00:31</td>
+</tr>
+<tr>
+<td>易*博</td>
+<td>3.00/3.60/2.04</td>
+<td>2.80/3.40/2.17</td>
+<td>30.27%/25.22%/44.51%</td>
+<td>90.80%</td>
+<td>0.96/0.90/0.88</td>
+<td>2026-04-23 06:45:26</td>
+</tr>
+<tr>
+<td>伟*</td>
+<td>3.00/3.80/2.10</td>
+<td>2.90/3.80/2.15</td>
+<td>31.07%/24.53%/44.39%</td>
+<td>93.22%</td>
+<td>0.96/0.95/0.90</td>
+<td>2026-04-22 16:07:18</td>
+</tr>
+<tr>
+<td>B**n</td>
+<td>3.00/3.80/2.15</td>
+<td>2.90/3.70/2.25</td>
+<td>31.40%/24.79%/43.81%</td>
+<td>94.20%</td>
+<td>0.96/0.95/0.93</td>
+<td>2026-04-22 21:28:11</td>
+</tr>
+<tr>
+<td>Pi***<em>le平</em></td>
+<td>3.31/3.80/2.01</td>
+<td>3.03/3.86/2.22</td>
+<td>28.43%/24.76%/46.81%</td>
+<td>94.09%</td>
+<td>1.06/0.95/0.87</td>
+<td>2026-04-23 08:36:08</td>
+</tr>
+<tr>
+<td>10**t</td>
+<td>2.80/3.65/2.16</td>
+<td>3.00/3.75/2.18</td>
+<td>32.64%/25.04%/42.32%</td>
+<td>91.40%</td>
+<td>0.89/0.91/0.93</td>
+<td>2026-04-22 12:45:11</td>
+</tr>
+<tr>
+<td>C***l</td>
+<td>2.90/3.70/2.25</td>
+<td>2.90/3.70/2.25</td>
+<td>32.54%/25.51%/41.95%</td>
+<td>94.38%</td>
+<td>0.92/0.93/0.97</td>
+<td>2026-04-22 21:43:37</td>
+</tr>
+<tr>
+<td>利*</td>
+<td>3.08/3.62/2.00</td>
+<td>2.83/3.48/2.17</td>
+<td>29.49%/25.09%/45.42%</td>
+<td>90.83%</td>
+<td>0.98/0.91/0.86</td>
+<td>2026-04-23 06:48:59</td>
+</tr>
+<tr>
+<td>U***<em>t (优</em>客)</td>
+<td>2.80/3.60/2.15</td>
+<td>3.00/3.75/2.20</td>
+<td>32.47%/25.25%/42.28%</td>
+<td>90.91%</td>
+<td>0.89/0.90/0.93</td>
+<td>2026-04-21 11:13:38</td>
+</tr>
+<tr>
+<td>S<strong><em>t</em>*g</strong>t (博*堂)</td>
+<td>3.00/3.80/2.15</td>
+<td>2.90/3.70/2.25</td>
+<td>31.40%/24.79%/43.81%</td>
+<td>94.20%</td>
+<td>0.96/0.95/0.93</td>
+<td>2026-04-22 22:12:58</td>
+</tr>
+<tr>
+<td>IBC*<em>t (沙</em>)</td>
+<td>2.90/3.70/2.07</td>
+<td>2.93/3.90/2.21</td>
+<td>31.40%/24.61%/43.99%</td>
+<td>91.06%</td>
+<td>0.92/0.93/0.89</td>
+<td>2026-04-23 08:53:38</td>
+</tr>
+<tr>
+<td>M***<em>on88 (明</em>)</td>
+<td>2.90/3.70/2.07</td>
+<td>2.93/3.90/2.21</td>
+<td>31.40%/24.61%/43.99%</td>
+<td>91.06%</td>
+<td>0.92/0.93/0.89</td>
+<td>2026-04-23 08:44:35</td>
+</tr>
+<tr>
+<td>香**会</td>
+<td>2.68/3.55/2.09</td>
+<td>2.85/3.60/1.98</td>
+<td>32.92%/24.86%/42.22%</td>
+<td>88.24%</td>
+<td>0.85/0.89/0.90</td>
+<td>2026-04-22 17:49:08</td>
+</tr>
+<tr>
+<td>12*<em>t (壹</em>博)</td>
+<td>2.90/3.70/2.07</td>
+<td>2.93/3.90/2.21</td>
+<td>31.40%/24.61%/43.99%</td>
+<td>91.06%</td>
+<td>0.92/0.93/0.89</td>
+<td>2026-04-23 08:46:50</td>
+</tr>
+<tr>
+<td>88<strong>*</strong>*</td>
+<td>2.80/3.50/2.20</td>
+<td>2.88/3.60/2.15</td>
+<td>32.54%/26.04%/41.42%</td>
+<td>91.12%</td>
+<td>0.89/0.88/0.95</td>
+<td>2026-04-23 06:38:15</td>
+</tr>
+<tr>
+<td>大巨*</td>
+<td>3.05/3.75/2.14</td>
+<td>3.05/3.75/2.14</td>
+<td>30.88%/25.11%/44.01%</td>
+<td>94.18%</td>
+<td>0.97/0.94/0.92</td>
+<td>2026-04-18 13:05:16</td>
+</tr>
+<tr>
+<td>必*</td>
+<td>2.94/2.96/2.12</td>
+<td>3.10/4.10/2.24</td>
+<td>29.59%/29.39%/41.03%</td>
+<td>86.98%</td>
+<td>0.94/0.74/0.91</td>
+<td>2026-04-23 07:46:16</td>
+</tr>
+<tr>
+<td>18**t</td>
+<td>2.85/3.70/2.15</td>
+<td>2.95/3.80/2.20</td>
+<td>32.30%/24.88%/42.82%</td>
+<td>92.06%</td>
+<td>0.91/0.93/0.93</td>
+<td>2026-04-23 08:39:11</td>
+</tr>
+<tr>
+<td>1x**t</td>
+<td>2.95/3.84/2.26</td>
+<td>3.05/3.79/2.22</td>
+<td>32.54%/24.99%/42.47%</td>
+<td>95.98%</td>
+<td>0.94/0.96/0.97</td>
+<td>2026-04-23 08:41:17</td>
+</tr>
+<tr>
+<td>I**<em>rt</em>ps</td>
+<td>2.80/3.65/2.15</td>
+<td>2.90/3.65/2.15</td>
+<td>32.58%/24.99%/42.43%</td>
+<td>91.22%</td>
+<td>0.89/0.91/0.93</td>
+<td>2026-04-23 08:53:41</td>
+</tr>
+<tr>
+<td><strong>t-at-H</strong>e</td>
+<td>2.90/3.80/2.20</td>
+<td>3.00/3.85/2.20</td>
+<td>32.45%/24.77%/42.78%</td>
+<td>94.11%</td>
+<td>0.92/0.95/0.95</td>
+<td>2026-04-23 08:53:31</td>
+</tr>
+<tr>
+<td><strong>tf</strong>g</td>
+<td>2.85/3.70/2.20</td>
+<td>2.95/3.75/2.15</td>
+<td>32.62%/25.13%/42.26%</td>
+<td>92.96%</td>
+<td>0.91/0.93/0.95</td>
+<td>2026-04-23 08:53:29</td>
+</tr>
+<tr>
+<td><strong>ts</strong>n S<strong>*tsb</strong>k</td>
+<td>2.80/3.90/2.28</td>
+<td>3.05/3.65/2.22</td>
+<td>33.94%/24.37%/41.69%</td>
+<td>95.04%</td>
+<td>0.89/0.98/0.98</td>
+<td>2026-04-22 15:33:17</td>
+</tr>
+</tbody>
+</table></div>
+</main>
+<footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
+</body>
+</html>
