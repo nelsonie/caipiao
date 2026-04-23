@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-04-23T05:10:10Z"
+    "fetched_at_utc": "2026-04-23T05:20:08Z"
   },
   "shuju": {
     "title": "PSV埃因霍温VS兹沃勒(2025/2026荷甲)-数据分析-500彩票网",
@@ -687,6 +687,22 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.890↓",
+        "handicap": "两球/两球半降",
+        "away_water": "0.780",
+        "time": "04-23 13:13"
+      },
+      "init": {
+        "home_water": "1.070",
+        "handicap": "两球半",
+        "away_water": "0.780",
+        "time": "04-06 16:51"
+      }
+    },
+    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -703,29 +719,13 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "两球/两球半降",
-        "away_water": "0.770↓",
-        "time": "04-23 12:48"
-      },
-      "init": {
-        "home_water": "1.070",
-        "handicap": "两球半",
-        "away_water": "0.780",
-        "time": "04-06 16:51"
-      }
-    },
-    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "1.010↑",
         "handicap": "两球/两球半",
-        "away_water": "0.850↓",
-        "time": "04-23 05:55"
+        "away_water": "0.860↓",
+        "time": "04-23 13:12"
       },
       "init": {
         "home_water": "0.930",
@@ -818,10 +818,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "1.050↑",
+        "home_water": "1.040↑",
         "handicap": "两球/两球半",
-        "away_water": "0.850↓",
-        "time": "04-23 12:19"
+        "away_water": "0.860↓",
+        "time": "04-23 13:11"
       },
       "init": {
         "home_water": "0.910",
@@ -1068,7 +1068,7 @@
         "live": [
           "0.98",
           "0.89",
-          "0.79"
+          "0.78"
         ],
         "init": [
           "0.94",
@@ -1220,7 +1220,7 @@
         "init": [
           "0.94",
           "0.85",
-          "0.79"
+          "0.78"
         ]
       }
     },
