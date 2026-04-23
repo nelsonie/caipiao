@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-23T07:20:18Z",
+  "last_updated_utc": "2026-04-23T07:30:15Z",
   "matches": [
     {
       "xml_id": "2039266",
@@ -198,42 +198,6 @@
       "matchnum_label": "周五002",
       "home_team_id": "658",
       "away_team_id": "1029"
-    },
-    {
-      "xml_id": "2039290",
-      "matchnum": "5003",
-      "date": "2026-04-24",
-      "dayofweek": "星期五",
-      "league": "芬兰超级联赛",
-      "home": "TPS图尔库",
-      "away": "赫尔辛基火花",
-      "spf_win": "4.80",
-      "spf_draw": "4.10",
-      "spf_lost": "1.48",
-      "spf_updated": "2026-04-23 13:55:15",
-      "gameid": "1363303",
-      "kickoff_cst": "2026-04-24 23:00",
-      "matchnum_label": "周五003",
-      "home_team_id": "415",
-      "away_team_id": "2687"
-    },
-    {
-      "xml_id": "2039291",
-      "matchnum": "5004",
-      "date": "2026-04-25",
-      "dayofweek": "星期六",
-      "league": "沙特职业联赛",
-      "home": "拉斯决心",
-      "away": "利雅得",
-      "spf_win": "1.47",
-      "spf_draw": "4.05",
-      "spf_lost": "5.00",
-      "spf_updated": "2026-04-23 13:55:15",
-      "gameid": "1234950",
-      "kickoff_cst": "2026-04-25 00:10",
-      "matchnum_label": "周五004",
-      "home_team_id": "4882",
-      "away_team_id": "7831"
     },
     {
       "xml_id": "2039292",
