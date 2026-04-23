@@ -8,8 +8,8 @@
     "away": "兹沃勒",
     "kickoff_cst": "2026-04-24 03:00",
     "spf": {
-      "win": "2.15",
-      "draw": "4.25",
+      "win": "2.18",
+      "draw": "4.15",
       "lost": "2.33"
     },
     "asia_main": {
@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-04-23T12:00:09Z"
+    "fetched_at_utc": "2026-04-23T12:10:10Z"
   },
   "shuju": {
     "title": "PSV埃因霍温VS兹沃勒(2025/2026荷甲)-数据分析-500彩票网",
@@ -626,10 +626,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.980↑",
         "handicap": "两球降",
-        "away_water": "0.850↓",
-        "time": "04-23 19:27"
+        "away_water": "0.830↓",
+        "time": "04-23 19:59"
       },
       "init": {
         "home_water": "0.900",
@@ -687,35 +687,35 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↓",
-        "handicap": "两球降",
-        "away_water": "0.870↑",
-        "time": "04-23 19:43"
-      },
-      "init": {
-        "home_water": "1.020",
-        "handicap": "两球/两球半",
-        "away_water": "0.840",
-        "time": "04-17 12:10"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
-        "home_water": "0.920↓",
+        "home_water": "0.890↓",
         "handicap": "两球降",
-        "away_water": "0.830↑",
-        "time": "04-23 19:42"
+        "away_water": "0.850↑",
+        "time": "04-23 20:07"
       },
       "init": {
         "home_water": "1.070",
         "handicap": "两球半",
         "away_water": "0.780",
         "time": "04-06 16:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↓",
+        "handicap": "两球降",
+        "away_water": "0.880↑",
+        "time": "04-23 20:08"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "两球/两球半",
+        "away_water": "0.840",
+        "time": "04-17 12:10"
       }
     },
     {
@@ -754,10 +754,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "1.050↑",
+        "home_water": "1.020↑",
         "handicap": "两球",
-        "away_water": "0.870↓",
-        "time": "04-23 19:57"
+        "away_water": "0.900↓",
+        "time": "04-23 20:01"
       },
       "init": {
         "home_water": "0.880",
