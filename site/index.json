@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-04-23T00:40:11Z",
+  "last_updated_utc": "2026-04-23T00:50:09Z",
   "matches": [
-    {
-      "xml_id": "2039265",
-      "matchnum": "3016",
-      "date": "2026-04-23",
-      "dayofweek": "星期四",
-      "league": "美国职业大联盟",
-      "home": "皇家盐湖城",
-      "away": "迈阿密国际",
-      "spf_win": "3.70",
-      "spf_draw": "4.15",
-      "spf_lost": "1.62",
-      "spf_updated": "2026-04-22 19:33:06",
-      "gameid": "1358292",
-      "kickoff_cst": "2026-04-23 09:30",
-      "matchnum_label": "周三016",
-      "home_team_id": "2440",
-      "away_team_id": "12213"
-    },
     {
       "xml_id": "2039266",
       "matchnum": "4001",
@@ -72,6 +54,24 @@
       "matchnum_label": "周四003",
       "home_team_id": "985",
       "away_team_id": "464"
+    },
+    {
+      "xml_id": "2039269",
+      "matchnum": "4004",
+      "date": "2026-04-24",
+      "dayofweek": "星期五",
+      "league": "瑞典超级联赛",
+      "home": "马尔默",
+      "away": "天狼星",
+      "spf_win": "3.65",
+      "spf_draw": "3.65",
+      "spf_lost": "1.73",
+      "spf_updated": "2026-04-22 09:27:41",
+      "gameid": "1362635",
+      "kickoff_cst": "2026-04-24 01:00",
+      "matchnum_label": "周四004",
+      "home_team_id": "1051",
+      "away_team_id": "4067"
     },
     {
       "xml_id": "2039270",
