@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-23T09:10:17Z",
+  "last_updated_utc": "2026-04-23T09:20:18Z",
   "matches": [
     {
       "xml_id": "2039266",
@@ -135,10 +135,10 @@
       "league": "荷兰甲级联赛",
       "home": "PSV埃因霍温",
       "away": "兹沃勒",
-      "spf_win": "2.15",
+      "spf_win": "2.11",
       "spf_draw": "4.25",
-      "spf_lost": "2.33",
-      "spf_updated": "2026-04-22 09:27:41",
+      "spf_lost": "2.38",
+      "spf_updated": "2026-04-23 17:10:56",
       "gameid": "1202914",
       "kickoff_cst": "2026-04-24 03:00",
       "matchnum_label": "周四008",
@@ -290,24 +290,6 @@
       "away_team_id": "1090"
     },
     {
-      "xml_id": "2039295",
-      "matchnum": "5008",
-      "date": "2026-04-25",
-      "dayofweek": "星期六",
-      "league": "法国乙级联赛",
-      "home": "拉瓦勒",
-      "away": "罗德兹",
-      "spf_win": "1.45",
-      "spf_draw": "4.05",
-      "spf_lost": "5.20",
-      "spf_updated": "2026-04-23 13:55:15",
-      "gameid": "1212160",
-      "kickoff_cst": "2026-04-25 02:00",
-      "matchnum_label": "周五008",
-      "home_team_id": "966",
-      "away_team_id": "2155"
-    },
-    {
       "xml_id": "2039296",
       "matchnum": "5009",
       "date": "2026-04-25",
@@ -324,24 +306,6 @@
       "matchnum_label": "周五009",
       "home_team_id": "435",
       "away_team_id": "2848"
-    },
-    {
-      "xml_id": "2039297",
-      "matchnum": "5010",
-      "date": "2026-04-25",
-      "dayofweek": "星期六",
-      "league": "德国甲级联赛",
-      "home": "莱比锡红牛",
-      "away": "柏林联合",
-      "spf_win": "1.78",
-      "spf_draw": "3.85",
-      "spf_lost": "3.25",
-      "spf_updated": "2026-04-23 13:55:15",
-      "gameid": "1206137",
-      "kickoff_cst": "2026-04-25 02:30",
-      "matchnum_label": "周五010",
-      "home_team_id": "970",
-      "away_team_id": "660"
     },
     {
       "xml_id": "2039298",
@@ -378,24 +342,6 @@
       "matchnum_label": "周五012",
       "home_team_id": "1593",
       "away_team_id": "979"
-    },
-    {
-      "xml_id": "2039300",
-      "matchnum": "5013",
-      "date": "2026-04-25",
-      "dayofweek": "星期六",
-      "league": "英格兰超级联赛",
-      "home": "桑德兰",
-      "away": "诺丁汉森林",
-      "spf_win": "1.43",
-      "spf_draw": "4.05",
-      "spf_lost": "5.45",
-      "spf_updated": "2026-04-23 13:55:15",
-      "gameid": "1202663",
-      "kickoff_cst": "2026-04-25 03:00",
-      "matchnum_label": "周五013",
-      "home_team_id": "466",
-      "away_team_id": "1142"
     },
     {
       "xml_id": "2039301",
