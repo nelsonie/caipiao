@@ -1,0 +1,915 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>阿尔维卡 vs 阿罗卡 · caipiao</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="alternate" type="text/markdown" href="1216305.md">
+<style>
+:root { color-scheme: light dark; --fg:#222; --bg:#fff; --muted:#666; --border:#ddd; --accent:#2684ff; --code-bg:#f4f4f6; }
+@media (prefers-color-scheme: dark) {
+  :root { --fg:#e8e8ea; --bg:#1a1a1c; --muted:#999; --border:#333; --accent:#5aa3ff; --code-bg:#222; }
+}
+* { box-sizing: border-box; }
+body {
+  font: 15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB",sans-serif;
+  color: var(--fg); background: var(--bg); margin: 0;
+}
+main { max-width: 1100px; margin: 0 auto; padding: 1.5rem 1.2rem 4rem; }
+nav  { max-width: 1100px; margin: 0 auto; padding: 1rem 1.2rem; border-bottom: 1px solid var(--border);
+       display: flex; gap: 1.2rem; font-size: .92rem; }
+nav a { color: var(--accent); text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+h1 { font-size: 1.6rem; margin: 1.2rem 0 1rem; border-bottom: 2px solid var(--border); padding-bottom: .5rem; }
+h2 { font-size: 1.2rem; margin: 1.6rem 0 .6rem; color: var(--fg); }
+h3 { font-size: 1.05rem; margin: 1.1rem 0 .4rem; color: var(--muted); }
+p  { margin: .55rem 0; }
+a  { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { background: var(--code-bg); padding: 1px 5px; border-radius: 4px; font-size: .88em;
+       font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+pre { background: var(--code-bg); padding: .8rem 1rem; border-radius: 6px; overflow-x: auto; }
+hr { border: 0; border-top: 1px solid var(--border); margin: 1.5rem 0; }
+ul, ol { padding-left: 1.4rem; }
+li { margin: .15rem 0; }
+
+.table-wrap { overflow-x: auto; margin: .6rem 0 1rem; border: 1px solid var(--border); border-radius: 6px; }
+table { width: 100%; border-collapse: collapse; font-size: .88rem; }
+th, td { text-align: left; padding: .45rem .7rem; border-bottom: 1px solid var(--border); white-space: nowrap; }
+th { background: var(--code-bg); font-weight: 600; color: var(--muted); }
+tr:last-child td { border-bottom: 0; }
+
+.fm-box { border: 1px solid var(--border); border-radius: 8px; padding: .8rem 1rem;
+          margin: 0 0 1.2rem; background: var(--code-bg); font-size: .9rem; }
+.fm-box .fm-row { display: flex; gap: .6rem; padding: .2rem 0; }
+.fm-box .fm-k { width: 140px; color: var(--muted); flex-shrink: 0; }
+.fm-box .fm-v { flex: 1; font-family: ui-monospace,SFMono-Regular,Menlo,monospace; font-size: .88rem; word-break: break-all; }
+
+footer { max-width: 1100px; margin: 3rem auto 2rem; padding: 0 1.2rem; color: var(--muted); font-size: .8rem;
+         border-top: 1px solid var(--border); padding-top: 1rem; }
+
+button { font: inherit; padding: .5rem 1rem; border: 1px solid var(--border);
+         border-radius: 6px; background: var(--accent); color: #fff; cursor: pointer; }
+button:hover { opacity: .88; }
+button:disabled { opacity: .5; cursor: default; }
+
+.quick { margin: 1rem 0 2rem; padding: 1rem 1.2rem; border: 1px solid var(--border);
+         border-radius: 8px; background: var(--code-bg); }
+.quick h2 { margin: 0 0 .6rem; font-size: 1rem; color: var(--muted); font-weight: 600; }
+.quick ul { list-style: none; padding: 0; margin: 0 0 1rem; }
+.quick li { padding: .35rem 0; border-bottom: 1px dashed var(--border);
+            display: flex; gap: .8rem; align-items: baseline; flex-wrap: wrap; }
+.quick li:last-child { border-bottom: 0; }
+.quick .meta { color: var(--muted); font-size: .82rem; font-variant-numeric: tabular-nums;
+               min-width: 11rem; flex-shrink: 0; }
+.quick .teams { flex: 1; }
+.quick .url { margin-left: auto; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+              font-size: .8rem; color: var(--muted); white-space: nowrap;
+              overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+.quick .url:hover { color: var(--accent); }
+@media (max-width: 700px) {
+  .quick .url { margin-left: 0; flex-basis: 100%; }
+}
+.quick .hint { font-size: .78rem; color: var(--muted); margin-top: .6rem; }
+</style>
+</head>
+<body>
+<nav>
+  <a href="/">首页</a>
+  <a href="/SKILL.html">SKILL（AI 指南）</a>
+  <a href="1216305.md">查看原始 Markdown</a>
+  <a href="/_meta.json">_meta.json</a>
+</nav>
+<main>
+<h1>阿尔维卡 vs 阿罗卡</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">gameid</div><div class="fm-v">1216305</div></div><div class="fm-row"><div class="fm-k">matchnum</div><div class="fm-v">5015</div></div><div class="fm-row"><div class="fm-k">date</div><div class="fm-v">2026-04-25</div></div><div class="fm-row"><div class="fm-k">league</div><div class="fm-v">葡萄牙超级联赛</div></div><div class="fm-row"><div class="fm-k">home</div><div class="fm-v">阿尔维卡</div></div><div class="fm-row"><div class="fm-k">away</div><div class="fm-v">阿罗卡</div></div><div class="fm-row"><div class="fm-k">kickoff_cst</div><div class="fm-v">2026-04-25 03:15</div></div><div class="fm-row"><div class="fm-k">spf</div><div class="fm-v"><b>win</b>:4.90 · <b>draw</b>:3.75 · <b>lost</b>:1.52</div></div><div class="fm-row"><div class="fm-k">asia_main</div><div class="fm-v"><b>handicap</b>:平手/半球 · <b>home_water</b>:0.890↓ · <b>away_water</b>:0.750↓ · <b>company</b>:威**尔</div></div><div class="fm-row"><div class="fm-k">euro_main</div><div class="fm-v"><b>win</b>:2.18 · <b>draw</b>:3.18 · <b>lost</b>:2.82 · <b>company</b>:竞*官*</div></div><div class="fm-row"><div class="fm-k">fetched_at_utc</div><div class="fm-v">2026-04-23T19:50:11Z</div></div></div>
+
+<h1>阿尔维卡 vs 阿罗卡</h1>
+<h2>交战历史</h2>
+<p>双方近 1 次交战，艾华卡 0胜 0平 1负 ，进0球，失1球，大球0次，小球1次</p>
+<ul>
+<li>艾华卡 [葡超10]</li>
+<li>阿罗卡 [葡超11]</li>
+</ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 比分 客队</th>
+<th>半场</th>
+<th>赛果</th>
+<th></th>
+<th>盘路</th>
+<th>大小</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>葡超</td>
+<td>2025-12-15</td>
+<td>[17] 阿罗卡 1: 0 艾华卡 [9]</td>
+<td>0 : 0</td>
+<td>负</td>
+<td>0.98 平手 0.8</td>
+<td>输</td>
+<td>小</td>
+<td>-</td>
+</tr>
+</tbody>
+</table></div>
+<h2>近期战绩 · 阿尔维卡</h2>
+<p>艾华卡 近10场战绩 2胜 5平 3负 进 12球 失 14球</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 比分 客队</th>
+<th>盘口</th>
+<th>半场</th>
+<th>赛果</th>
+<th>盘路</th>
+<th>大小</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>葡超</td>
+<td>26-04-18</td>
+<td>马德拉国民 1: 0 艾华卡</td>
+<td>-0.25</td>
+<td>0 : 0</td>
+<td>负</td>
+<td>输</td>
+<td>小</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-04-12</td>
+<td>艾华卡 3 :1 卡萨比亚</td>
+<td>-0.5</td>
+<td>0 :1</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-04-05</td>
+<td>里奥阿维 1: 2 艾华卡</td>
+<td>0</td>
+<td>0: 2</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-03-23</td>
+<td>艾华卡 1 :4 葡萄牙体育</td>
+<td>1.5</td>
+<td>0 :1</td>
+<td>负</td>
+<td>输</td>
+<td>大</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-03-15</td>
+<td>吉尔维森特 2 : 2 艾华卡</td>
+<td>-0.75</td>
+<td>1: 0</td>
+<td>平</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-03-07</td>
+<td>艾华卡 0 : 0 阿维什镇</td>
+<td>-0.75</td>
+<td>0 : 0</td>
+<td>平</td>
+<td>输</td>
+<td>小</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-03-01</td>
+<td>吉马良斯 1 : 1 艾华卡</td>
+<td>-0.75</td>
+<td>0 : 0</td>
+<td>平</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-02-21</td>
+<td>艾华卡 1 : 1 圣克拉拉</td>
+<td>0.25</td>
+<td>1 :0</td>
+<td>平</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-02-14</td>
+<td>通德拉 1 : 1 艾华卡</td>
+<td>0</td>
+<td>0: 1</td>
+<td>平</td>
+<td>走</td>
+<td>小</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-02-09</td>
+<td>本菲卡 2: 1 艾华卡</td>
+<td>-2</td>
+<td>1 : 1</td>
+<td>负</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+</tbody>
+</table></div>
+<h2>近期战绩 · 阿罗卡</h2>
+<p>阿罗卡 近10场战绩 5胜 0平 5负 进 15球 失 14球</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 比分 客队</th>
+<th>盘口</th>
+<th>半场</th>
+<th>赛果</th>
+<th>盘路</th>
+<th>大小</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>葡超</td>
+<td>26-04-19</td>
+<td>阿罗卡 1 :0 阿马多拉之星</td>
+<td>-0.25</td>
+<td>0 : 0</td>
+<td>胜</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-04-13</td>
+<td>布拉加 1: 0 阿罗卡</td>
+<td>-1.25</td>
+<td>0 : 0</td>
+<td>负</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-04-07</td>
+<td>阿罗卡 3 :2 埃斯托里尔</td>
+<td>0</td>
+<td>2 : 2</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-03-21</td>
+<td>莫雷拉人 0: 1 阿罗卡</td>
+<td>0</td>
+<td>0 : 0</td>
+<td>胜</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-03-15</td>
+<td>阿罗卡 1 :2 本菲卡</td>
+<td>1.5</td>
+<td>1 :0</td>
+<td>负</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-03-07</td>
+<td>法马利康 1: 0 阿罗卡</td>
+<td>-0.75</td>
+<td>0 : 0</td>
+<td>负</td>
+<td>输</td>
+<td>小</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-02-28</td>
+<td>波尔图 3: 1 阿罗卡</td>
+<td>-1.75</td>
+<td>1: 0</td>
+<td>负</td>
+<td>输</td>
+<td>大</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-02-21</td>
+<td>阿罗卡 3 :0 马德拉国民</td>
+<td>-0.25</td>
+<td>0 : 0</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-02-14</td>
+<td>卡萨比亚 3: 2 阿罗卡</td>
+<td>0</td>
+<td>3: 2</td>
+<td>负</td>
+<td>输</td>
+<td>大</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>26-02-08</td>
+<td>阿罗卡 3 :2 吉马良斯</td>
+<td>0</td>
+<td>1 :2</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+</tbody>
+</table></div>
+<h2>未来赛事 · 阿尔维卡</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 客队</th>
+<th>相隔</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>葡超</td>
+<td>2026-05-03</td>
+<td>波尔图 VS 艾华卡</td>
+<td>8天</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>2026-05-11</td>
+<td>艾华卡 VS 埃斯托里尔</td>
+<td>16天</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>2026-05-18</td>
+<td>法马利康 VS 艾华卡</td>
+<td>23天</td>
+</tr>
+</tbody>
+</table></div>
+<h2>未来赛事 · 阿罗卡</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 客队</th>
+<th>相隔</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>葡超</td>
+<td>2026-05-02</td>
+<td>阿罗卡 VS 圣克拉拉</td>
+<td>7天</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>2026-05-11</td>
+<td>吉尔维森特 VS 阿罗卡</td>
+<td>16天</td>
+</tr>
+<tr>
+<td>葡超</td>
+<td>2026-05-18</td>
+<td>阿罗卡 VS 通德拉</td>
+<td>23天</td>
+</tr>
+</tbody>
+</table></div>
+<h2>预计阵容</h2>
+<h3>阿尔维卡（阵型：未公布）</h3>
+<ul>
+<li><strong>首发</strong>：#10 弗朗西斯科·希基尼奥 (前锋)、#91 桑德罗·利马 (前锋)、#20 卢卡斯·菲格雷多·多斯桑托斯 (前锋)、#12 艾萨克·詹姆斯 (中场)、#18 林肯·恩里克 (中场)、#26 罗纳迪·诺贝托·斯米奥·戈麦斯 (中场)、#2 纳比尔·图艾兹 (中场)、#33 恩德梅尼·巴斯蒂安·谢夫伦·梅皮尤·梅纳朱 (后卫)、#5 塞尔吉·戈麦斯 (后卫)、#4 凯基·马奎斯·内维斯 (后卫)、#31 马泰乌斯·奥利维拉·门德斯 (守门员)</li>
+<li><strong>替补</strong>：#14 史蒂文·巴塞亚 (后卫)、#19 马西斯·克莱里西亚 (前锋)、#6 戴维·让·卡尔·卡蒙·吉 (中场)、#9 马尔科·米洛瓦诺维奇 (前锋)、#17 瓦斯科·达·席尔瓦·莫雷拉 (中场)、#11 塞德里克·诺齐 (前锋)、#82 迪奥戈·斯宾塞 (后卫)、#35 扎卡里亚·凯萨里 (中场)</li>
+</ul>
+<h3>阿罗卡（阵型：未公布）</h3>
+<ul>
+<li><strong>首发</strong>：#17 伊万·马丁内斯·冈萨雷斯 (前锋)、#7 奈斯·杜阿拉 (中场)、#14 李贤珠 (中场)、#10 巴勃罗·戈萨贝兹 (中场)、#22 范伊 (中场)、#21 福井太智 (中场)、#25 巴斯·库伊帕斯 (后卫)、#3 何塞·丰坦 (后卫)、#15 哈维·桑切斯 (后卫)、#28 蒂亚戈·埃斯加约 (后卫)、#12 伊格纳西奥·德·阿鲁亚巴雷纳 (守门员)</li>
+<li><strong>替补</strong>：#30 雅库布·维纳奇克 (守门员)、#19 阿方索·特雷扎 (前锋)、#2 何塞·席尔瓦 (后卫)、#4 马蒂亚斯·埃米利亚诺·罗查·卡尔德隆 (后卫)、#11 米格尔·普切 (前锋)、#9 法利·马尤鲁 (前锋)、#89 佩德罗·卡瓦略·桑托斯 (中场)、#44 阿马杜·丹特 (后卫)、#46 马特奥·弗洛雷斯 (中场)</li>
+</ul>
+<h2>亚盘（16 家）</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>公司</th>
+<th>即时主水</th>
+<th>盘口</th>
+<th>即时客水</th>
+<th>即时时间</th>
+<th>初始主水</th>
+<th>初始盘口</th>
+<th>初始客水</th>
+<th>初始时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>威**尔</td>
+<td>0.890↓</td>
+<td>平手/半球</td>
+<td>0.750↓</td>
+<td>04-23 16:58</td>
+<td>0.940</td>
+<td>平手/半球</td>
+<td>0.840</td>
+<td>04-20 09:57</td>
+</tr>
+<tr>
+<td>*门</td>
+<td>0.920</td>
+<td>平手/半球</td>
+<td>0.860</td>
+<td>04-21 23:12</td>
+<td>0.920</td>
+<td>平手/半球</td>
+<td>0.860</td>
+<td>04-21 23:12</td>
+</tr>
+<tr>
+<td>立*</td>
+<td>1.200</td>
+<td>半球</td>
+<td>0.600</td>
+<td>04-20 23:20</td>
+<td>1.200</td>
+<td>半球</td>
+<td>0.600</td>
+<td>04-20 23:20</td>
+</tr>
+<tr>
+<td>*<em>t3</em>5</td>
+<td>0.970↓</td>
+<td>平手/半球</td>
+<td>0.870↑</td>
+<td>04-24 02:54</td>
+<td>1.000</td>
+<td>平手/半球</td>
+<td>0.850</td>
+<td>04-20 23:04</td>
+</tr>
+<tr>
+<td>I<em><strong>rw</strong>t</em>n</td>
+<td>0.630↓</td>
+<td>平手</td>
+<td>1.200↑</td>
+<td>04-20 01:05</td>
+<td>0.730</td>
+<td>平手</td>
+<td>1.050</td>
+<td>04-19 23:54</td>
+</tr>
+<tr>
+<td>*冠</td>
+<td>0.970↓</td>
+<td>平手/半球</td>
+<td>0.910↑</td>
+<td>04-24 01:44</td>
+<td>1.030</td>
+<td>平手/半球</td>
+<td>0.850</td>
+<td>04-21 05:37</td>
+</tr>
+<tr>
+<td>易*博</td>
+<td>0.990</td>
+<td>平手/半球</td>
+<td>0.850</td>
+<td>04-23 08:16</td>
+<td>0.990</td>
+<td>平手/半球</td>
+<td>0.850</td>
+<td>04-23 08:16</td>
+</tr>
+<tr>
+<td>伟*</td>
+<td>1.000↓</td>
+<td>平手/半球</td>
+<td>0.870↑</td>
+<td>04-24 00:04</td>
+<td>1.010</td>
+<td>平手/半球</td>
+<td>0.860</td>
+<td>04-20 21:08</td>
+</tr>
+<tr>
+<td>on**</td>
+<td>0.900↑</td>
+<td>平手/半球升</td>
+<td>0.770↓</td>
+<td>04-21 16:57</td>
+<td>0.790</td>
+<td>平手</td>
+<td>1.100</td>
+<td>04-20 00:15</td>
+</tr>
+<tr>
+<td>Pi***<em>le平</em></td>
+<td>1.020↑</td>
+<td>平手/半球升</td>
+<td>0.870↓</td>
+<td>04-24 03:19</td>
+<td>0.770</td>
+<td>平手</td>
+<td>1.080</td>
+<td>04-19 23:42</td>
+</tr>
+<tr>
+<td>利*</td>
+<td>1.020↑</td>
+<td>平手/半球</td>
+<td>0.880↑</td>
+<td>04-24 02:34</td>
+<td>1.000</td>
+<td>平手/半球</td>
+<td>0.860</td>
+<td>04-21 18:00</td>
+</tr>
+<tr>
+<td>M***<em>on88 (明</em>)</td>
+<td>1.000↓</td>
+<td>平手/半球</td>
+<td>0.890↑</td>
+<td>04-23 21:59</td>
+<td>1.010</td>
+<td>平手/半球</td>
+<td>0.870</td>
+<td>04-22 17:48</td>
+</tr>
+<tr>
+<td>香**会</td>
+<td>0.950</td>
+<td>平手/半球</td>
+<td>0.820</td>
+<td>04-23 12:02</td>
+<td>0.950</td>
+<td>平手/半球</td>
+<td>0.820</td>
+<td>04-23 12:02</td>
+</tr>
+<tr>
+<td>12*<em>t (壹</em>博)</td>
+<td>1.000↓</td>
+<td>平手/半球</td>
+<td>0.890↑</td>
+<td>04-23 16:38</td>
+<td>1.010</td>
+<td>平手/半球</td>
+<td>0.870</td>
+<td>04-22 17:48</td>
+</tr>
+<tr>
+<td>18**t</td>
+<td>0.950↑</td>
+<td>平手/半球</td>
+<td>0.840↑</td>
+<td>04-23 23:22</td>
+<td>0.930</td>
+<td>平手/半球</td>
+<td>0.820</td>
+<td>04-19 23:54</td>
+</tr>
+<tr>
+<td>W***<em>t (盈</em>)</td>
+<td>1.020</td>
+<td>平手/半球</td>
+<td>0.880↑</td>
+<td>04-24 03:26</td>
+<td>1.020</td>
+<td>平手/半球</td>
+<td>0.860</td>
+<td>04-20 19:20</td>
+</tr>
+</tbody>
+</table></div>
+<h2>欧赔（30 家）</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>公司</th>
+<th>即时 胜/平/负</th>
+<th>初始 胜/平/负</th>
+<th>即时概率</th>
+<th>即时返还</th>
+<th>即时凯利</th>
+<th>更新</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>竞<em>官</em></td>
+<td>2.18/3.18/2.82</td>
+<td>2.18/3.18/2.82</td>
+<td>40.67%/27.88%/31.44%</td>
+<td>88.67%</td>
+<td>0.89/0.92/0.86</td>
+<td>2026-04-23 13:55:15</td>
+</tr>
+<tr>
+<td>威**尔</td>
+<td>2.40/3.10/2.90</td>
+<td>2.25/3.10/3.00</td>
+<td>38.44%/29.76%/31.81%</td>
+<td>92.24%</td>
+<td>0.98/0.89/0.88</td>
+<td>2026-04-23 16:48:55</td>
+</tr>
+<tr>
+<td>*门</td>
+<td>2.13/3.25/2.85</td>
+<td>2.13/3.25/2.85</td>
+<td>41.62%/27.28%/31.10%</td>
+<td>88.65%</td>
+<td>0.87/0.94/0.86</td>
+<td>2026-04-21 23:12:35</td>
+</tr>
+<tr>
+<td>立*</td>
+<td>2.25/3.25/3.10</td>
+<td>2.25/3.30/3.10</td>
+<td>41.35%/28.63%/30.02%</td>
+<td>93.05%</td>
+<td>0.92/0.94/0.94</td>
+<td>2026-04-23 16:32:44</td>
+</tr>
+<tr>
+<td>*<em>t3</em>5</td>
+<td>2.30/3.10/3.20</td>
+<td>2.30/3.20/3.20</td>
+<td>40.64%/30.15%/29.21%</td>
+<td>93.47%</td>
+<td>0.94/0.89/0.97</td>
+<td>2026-04-22 12:09:39</td>
+</tr>
+<tr>
+<td>I<em><strong>rw</strong>t</em>n</td>
+<td>2.45/3.30/2.90</td>
+<td>2.30/3.30/3.15</td>
+<td>38.65%/28.70%/32.65%</td>
+<td>94.70%</td>
+<td>1.00/0.95/0.88</td>
+<td>2026-04-20 00:55:07</td>
+</tr>
+<tr>
+<td>S**I</td>
+<td>2.25/3.15/3.10</td>
+<td>2.25/3.15/3.10</td>
+<td>40.98%/29.27%/29.75%</td>
+<td>92.21%</td>
+<td>0.92/0.91/0.94</td>
+<td>2026-04-23 19:29:51</td>
+</tr>
+<tr>
+<td>*冠</td>
+<td>2.29/3.40/2.88</td>
+<td>2.23/3.30/3.05</td>
+<td>40.51%/27.28%/32.21%</td>
+<td>92.76%</td>
+<td>0.94/0.98/0.87</td>
+<td>2026-04-24 01:44:52</td>
+</tr>
+<tr>
+<td>易*博</td>
+<td>2.18/3.10/3.10</td>
+<td>2.21/3.10/3.00</td>
+<td>41.55%/29.22%/29.22%</td>
+<td>90.59%</td>
+<td>0.89/0.89/0.94</td>
+<td>2026-04-23 18:57:05</td>
+</tr>
+<tr>
+<td>伟*</td>
+<td>2.20/3.30/3.00</td>
+<td>2.25/3.20/3.00</td>
+<td>41.67%/27.78%/30.56%</td>
+<td>91.67%</td>
+<td>0.90/0.95/0.91</td>
+<td>2026-04-21 20:27:59</td>
+</tr>
+<tr>
+<td>B**n</td>
+<td>2.25/3.25/3.10</td>
+<td>2.25/3.30/3.00</td>
+<td>41.35%/28.63%/30.02%</td>
+<td>93.05%</td>
+<td>0.92/0.94/0.94</td>
+<td>2026-04-21 05:37:46</td>
+</tr>
+<tr>
+<td>Pi***<em>le平</em></td>
+<td>2.45/3.27/2.88</td>
+<td>2.36/3.25/3.27</td>
+<td>38.46%/28.82%/32.72%</td>
+<td>94.23%</td>
+<td>1.00/0.94/0.87</td>
+<td>2026-04-24 03:18:15</td>
+</tr>
+<tr>
+<td>10**t</td>
+<td>2.30/3.35/3.00</td>
+<td>2.30/3.30/3.10</td>
+<td>40.76%/27.99%/31.25%</td>
+<td>93.75%</td>
+<td>0.94/0.97/0.91</td>
+<td>2026-04-23 15:15:51</td>
+</tr>
+<tr>
+<td>C***l</td>
+<td>2.30/3.40/3.00</td>
+<td>2.30/3.40/3.10</td>
+<td>40.93%/27.69%/31.38%</td>
+<td>94.14%</td>
+<td>0.94/0.98/0.91</td>
+<td>2026-04-23 17:00:36</td>
+</tr>
+<tr>
+<td>利*</td>
+<td>2.24/3.16/2.95</td>
+<td>2.21/3.17/3.00</td>
+<td>40.52%/28.72%/30.76%</td>
+<td>90.76%</td>
+<td>0.92/0.91/0.89</td>
+<td>2026-04-23 18:56:53</td>
+</tr>
+<tr>
+<td>U***<em>t (优</em>客)</td>
+<td>2.30/3.30/3.00</td>
+<td>2.30/3.25/3.10</td>
+<td>40.59%/28.29%/31.12%</td>
+<td>93.36%</td>
+<td>0.94/0.95/0.91</td>
+<td>2026-04-22 03:50:29</td>
+</tr>
+<tr>
+<td>S<strong><em>t</em>*g</strong>t (博*堂)</td>
+<td>2.25/3.30/3.00</td>
+<td>2.25/3.30/3.00</td>
+<td>41.12%/28.04%/30.84%</td>
+<td>92.52%</td>
+<td>0.92/0.95/0.91</td>
+<td>2026-04-21 05:57:42</td>
+</tr>
+<tr>
+<td>IBC*<em>t (沙</em>)</td>
+<td>2.24/3.25/3.10</td>
+<td>2.25/3.30/3.00</td>
+<td>41.46%/28.58%/29.96%</td>
+<td>92.88%</td>
+<td>0.92/0.94/0.94</td>
+<td>2026-04-23 19:29:09</td>
+</tr>
+<tr>
+<td>M***<em>on88 (明</em>)</td>
+<td>2.24/3.25/3.10</td>
+<td>2.25/3.30/3.00</td>
+<td>41.46%/28.58%/29.96%</td>
+<td>92.88%</td>
+<td>0.92/0.94/0.94</td>
+<td>2026-04-23 16:30:46</td>
+</tr>
+<tr>
+<td>香**会</td>
+<td>2.13/3.10/2.94</td>
+<td>2.13/3.10/2.94</td>
+<td>41.47%/28.49%/30.04%</td>
+<td>88.32%</td>
+<td>0.87/0.89/0.89</td>
+<td>2026-04-23 12:02:46</td>
+</tr>
+<tr>
+<td>12*<em>t (壹</em>博)</td>
+<td>2.24/3.25/3.10</td>
+<td>2.25/3.30/3.00</td>
+<td>41.46%/28.58%/29.96%</td>
+<td>92.88%</td>
+<td>0.92/0.94/0.94</td>
+<td>2026-04-23 16:31:39</td>
+</tr>
+<tr>
+<td>88<strong>*</strong>*</td>
+<td>2.30/3.10/3.10</td>
+<td>2.30/3.10/3.10</td>
+<td>40.26%/29.87%/29.87%</td>
+<td>92.60%</td>
+<td>0.94/0.89/0.94</td>
+<td>2026-04-21 19:51:51</td>
+</tr>
+<tr>
+<td>必*</td>
+<td>2.25/3.20/3.10</td>
+<td>2.38/3.40/3.35</td>
+<td>41.17%/28.95%/29.88%</td>
+<td>92.63%</td>
+<td>0.92/0.92/0.94</td>
+<td>2026-04-23 23:57:42</td>
+</tr>
+<tr>
+<td>18**t</td>
+<td>2.30/3.30/2.85</td>
+<td>2.30/3.35/3.05</td>
+<td>39.94%/27.83%/32.23%</td>
+<td>91.85%</td>
+<td>0.94/0.95/0.86</td>
+<td>2026-04-24 02:23:51</td>
+</tr>
+<tr>
+<td>1x**t</td>
+<td>2.39/3.46/3.09</td>
+<td>2.37/3.29/3.28</td>
+<td>40.58%/28.03%/31.39%</td>
+<td>96.99%</td>
+<td>0.98/1.00/0.94</td>
+<td>2026-04-24 02:10:25</td>
+</tr>
+<tr>
+<td>I**<em>rt</em>ps</td>
+<td>2.25/3.20/3.05</td>
+<td>2.25/3.10/3.10</td>
+<td>40.97%/28.81%/30.22%</td>
+<td>92.18%</td>
+<td>0.92/0.92/0.92</td>
+<td>2026-04-23 20:52:15</td>
+</tr>
+<tr>
+<td><strong>t-at-H</strong>e</td>
+<td>2.30/3.20/3.15</td>
+<td>2.35/3.25/3.15</td>
+<td>40.83%/29.35%/29.82%</td>
+<td>93.92%</td>
+<td>0.94/0.92/0.96</td>
+<td>2026-04-23 03:35:21</td>
+</tr>
+<tr>
+<td><strong>tf</strong>g</td>
+<td>2.25/3.25/3.10</td>
+<td>2.30/3.15/3.15</td>
+<td>41.35%/28.63%/30.02%</td>
+<td>93.05%</td>
+<td>0.92/0.94/0.94</td>
+<td>2026-04-23 15:48:50</td>
+</tr>
+<tr>
+<td>*<em>tway(必</em>)</td>
+<td>2.25/3.20/3.10</td>
+<td>2.30/3.20/3.00</td>
+<td>41.17%/28.95%/29.88%</td>
+<td>92.63%</td>
+<td>0.92/0.92/0.94</td>
+<td>2026-04-21 00:35:07</td>
+</tr>
+<tr>
+<td>B<strong><em>eS</em></strong>ts</td>
+<td>2.25/3.10/3.00</td>
+<td>2.25/3.10/3.00</td>
+<td>40.39%/29.32%/30.29%</td>
+<td>90.88%</td>
+<td>0.92/0.89/0.91</td>
+<td>2026-04-21 17:09:41</td>
+</tr>
+</tbody>
+</table></div>
+</main>
+<footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
+</body>
+</html>
