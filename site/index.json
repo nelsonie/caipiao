@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-23T20:30:17Z",
+  "last_updated_utc": "2026-04-23T20:40:13Z",
   "matches": [
     {
       "xml_id": "2039288",
@@ -92,6 +92,24 @@
       "away_team_id": "1090"
     },
     {
+      "xml_id": "2039295",
+      "matchnum": "5008",
+      "date": "2026-04-25",
+      "dayofweek": "星期六",
+      "league": "法国乙级联赛",
+      "home": "拉瓦勒",
+      "away": "罗德兹",
+      "spf_win": "1.45",
+      "spf_draw": "4.05",
+      "spf_lost": "5.20",
+      "spf_updated": "2026-04-23 13:55:15",
+      "gameid": "1212160",
+      "kickoff_cst": "2026-04-25 02:00",
+      "matchnum_label": "周五008",
+      "home_team_id": "966",
+      "away_team_id": "2155"
+    },
+    {
       "xml_id": "2039297",
       "matchnum": "5010",
       "date": "2026-04-25",
@@ -180,6 +198,24 @@
       "matchnum_label": "周五014",
       "home_team_id": "673",
       "away_team_id": "883"
+    },
+    {
+      "xml_id": "2039302",
+      "matchnum": "5015",
+      "date": "2026-04-25",
+      "dayofweek": "星期六",
+      "league": "葡萄牙超级联赛",
+      "home": "阿尔维卡",
+      "away": "阿罗卡",
+      "spf_win": "4.90",
+      "spf_draw": "3.75",
+      "spf_lost": "1.52",
+      "spf_updated": "2026-04-23 13:55:15",
+      "gameid": "1216305",
+      "kickoff_cst": "2026-04-25 03:15",
+      "matchnum_label": "周五015",
+      "home_team_id": "577",
+      "away_team_id": "5551"
     }
   ]
 }
