@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-04-23T04:40:09Z"
+    "fetched_at_utc": "2026-04-23T04:50:08Z"
   },
   "shuju": {
     "title": "PSV埃因霍温VS兹沃勒(2025/2026荷甲)-数据分析-500彩票网",
@@ -687,22 +687,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↓",
-        "handicap": "两球/两球半",
-        "away_water": "0.850↑",
-        "time": "04-23 09:07"
-      },
-      "init": {
-        "home_water": "1.020",
-        "handicap": "两球/两球半",
-        "away_water": "0.840",
-        "time": "04-17 12:10"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -716,6 +700,22 @@
         "handicap": "两球半",
         "away_water": "0.780",
         "time": "04-06 16:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↓",
+        "handicap": "两球/两球半",
+        "away_water": "0.850↑",
+        "time": "04-23 09:07"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "两球/两球半",
+        "away_water": "0.840",
+        "time": "04-17 12:10"
       }
     },
     {
