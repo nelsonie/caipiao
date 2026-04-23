@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-23T10:50:17Z",
+  "last_updated_utc": "2026-04-23T11:00:16Z",
   "matches": [
     {
       "xml_id": "2039266",
@@ -63,10 +63,10 @@
       "league": "瑞典超级联赛",
       "home": "马尔默",
       "away": "天狼星",
-      "spf_win": "4.32",
-      "spf_draw": "3.90",
-      "spf_lost": "1.56",
-      "spf_updated": "2026-04-23 18:39:27",
+      "spf_win": "4.55",
+      "spf_draw": "3.97",
+      "spf_lost": "1.52",
+      "spf_updated": "2026-04-23 18:56:00",
       "gameid": "1362635",
       "kickoff_cst": "2026-04-24 01:00",
       "matchnum_label": "周四004",
@@ -182,6 +182,24 @@
       "away_team_id": "4577"
     },
     {
+      "xml_id": "2039289",
+      "matchnum": "5002",
+      "date": "2026-04-24",
+      "dayofweek": "星期五",
+      "league": "日本职业联赛",
+      "home": "柏太阳神",
+      "away": "鹿岛鹿角",
+      "spf_win": "4.85",
+      "spf_draw": "3.65",
+      "spf_lost": "1.54",
+      "spf_updated": "2026-04-23 13:55:15",
+      "gameid": "1366363",
+      "kickoff_cst": "2026-04-24 18:00",
+      "matchnum_label": "周五002",
+      "home_team_id": "658",
+      "away_team_id": "1029"
+    },
+    {
       "xml_id": "2039290",
       "matchnum": "5003",
       "date": "2026-04-24",
@@ -198,6 +216,24 @@
       "matchnum_label": "周五003",
       "home_team_id": "415",
       "away_team_id": "2687"
+    },
+    {
+      "xml_id": "2039291",
+      "matchnum": "5004",
+      "date": "2026-04-25",
+      "dayofweek": "星期六",
+      "league": "沙特职业联赛",
+      "home": "拉斯决心",
+      "away": "利雅得",
+      "spf_win": "1.47",
+      "spf_draw": "4.05",
+      "spf_lost": "5.00",
+      "spf_updated": "2026-04-23 13:55:15",
+      "gameid": "1234950",
+      "kickoff_cst": "2026-04-25 00:10",
+      "matchnum_label": "周五004",
+      "home_team_id": "4882",
+      "away_team_id": "7831"
     },
     {
       "xml_id": "2039292",
@@ -234,24 +270,6 @@
       "matchnum_label": "周五008",
       "home_team_id": "966",
       "away_team_id": "2155"
-    },
-    {
-      "xml_id": "2039296",
-      "matchnum": "5009",
-      "date": "2026-04-25",
-      "dayofweek": "星期六",
-      "league": "荷兰乙级联赛",
-      "home": "芬洛",
-      "away": "阿尔梅勒城",
-      "spf_win": "1.59",
-      "spf_draw": "4.15",
-      "spf_lost": "3.85",
-      "spf_updated": "2026-04-23 13:55:15",
-      "gameid": "1390315",
-      "kickoff_cst": "2026-04-25 02:00",
-      "matchnum_label": "周五009",
-      "home_team_id": "435",
-      "away_team_id": "2848"
     },
     {
       "xml_id": "2039297",
