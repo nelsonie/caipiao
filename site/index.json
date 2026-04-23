@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-23T08:30:14Z",
+  "last_updated_utc": "2026-04-23T08:40:16Z",
   "matches": [
     {
       "xml_id": "2039266",
@@ -270,6 +270,24 @@
       "matchnum_label": "周五006",
       "home_team_id": "781",
       "away_team_id": "4654"
+    },
+    {
+      "xml_id": "2039294",
+      "matchnum": "5007",
+      "date": "2026-04-25",
+      "dayofweek": "星期六",
+      "league": "法国乙级联赛",
+      "home": "亚眠",
+      "away": "蒙彼利埃",
+      "spf_win": "1.80",
+      "spf_draw": "3.60",
+      "spf_lost": "3.40",
+      "spf_updated": "2026-04-23 13:55:15",
+      "gameid": "1212053",
+      "kickoff_cst": "2026-04-25 02:00",
+      "matchnum_label": "周五007",
+      "home_team_id": "1307",
+      "away_team_id": "1090"
     },
     {
       "xml_id": "2039295",
