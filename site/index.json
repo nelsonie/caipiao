@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-24T12:20:46Z",
+  "last_updated_utc": "2026-04-24T12:30:50Z",
   "matches": [
     {
       "xml_id": "2039288",
@@ -864,6 +864,24 @@
       "matchnum_label": "周日016",
       "home_team_id": "982",
       "away_team_id": "1084"
+    },
+    {
+      "xml_id": "2039353",
+      "matchnum": "7017",
+      "date": "2026-04-26",
+      "dayofweek": "星期天",
+      "league": "法国甲级联赛",
+      "home": "巴黎FC",
+      "away": "里尔",
+      "spf_win": "1.83",
+      "spf_draw": "3.50",
+      "spf_lost": "3.36",
+      "spf_updated": "2026-04-24 09:58:44",
+      "gameid": "1205642",
+      "kickoff_cst": "2026-04-26 23:15",
+      "matchnum_label": "周日017",
+      "home_team_id": "4599",
+      "away_team_id": "998"
     },
     {
       "xml_id": "2039354",
