@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-24T01:20:09Z",
+  "last_updated_utc": "2026-04-24T01:30:11Z",
   "matches": [
     {
       "xml_id": "2039288",
@@ -144,24 +144,6 @@
       "matchnum_label": "周五008",
       "home_team_id": "966",
       "away_team_id": "2155"
-    },
-    {
-      "xml_id": "2039296",
-      "matchnum": "5009",
-      "date": "2026-04-25",
-      "dayofweek": "星期六",
-      "league": "荷兰乙级联赛",
-      "home": "芬洛",
-      "away": "阿尔梅勒城",
-      "spf_win": "1.59",
-      "spf_draw": "4.15",
-      "spf_lost": "3.85",
-      "spf_updated": "2026-04-23 13:55:15",
-      "gameid": "1390315",
-      "kickoff_cst": "2026-04-25 02:00",
-      "matchnum_label": "周五009",
-      "home_team_id": "435",
-      "away_team_id": "2848"
     },
     {
       "xml_id": "2039297",
