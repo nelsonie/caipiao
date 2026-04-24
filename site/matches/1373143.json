@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "平手",
-      "home_water": "0.770",
-      "away_water": "0.880↑",
+      "home_water": "0.750↓",
+      "away_water": "0.870↑",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "2.65",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-24T13:10:20Z"
+    "fetched_at_utc": "2026-04-24T13:20:16Z"
   },
   "shuju": {
     "title": "江原FCVS首尔FC(2026K1联赛)-数据分析-500彩票网",
@@ -619,10 +619,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.770",
+        "home_water": "0.750↓",
         "handicap": "平手",
-        "away_water": "0.880↑",
-        "time": "04-24 14:11"
+        "away_water": "0.870↑",
+        "time": "04-24 20:56"
       },
       "init": {
         "home_water": "0.770",
