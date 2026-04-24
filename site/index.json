@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-24T00:30:12Z",
+  "last_updated_utc": "2026-04-24T00:40:13Z",
   "matches": [
     {
       "xml_id": "2039288",
@@ -162,6 +162,24 @@
       "matchnum_label": "周五011",
       "home_team_id": "1125",
       "away_team_id": "933"
+    },
+    {
+      "xml_id": "2039299",
+      "matchnum": "5012",
+      "date": "2026-04-25",
+      "dayofweek": "星期六",
+      "league": "法国甲级联赛",
+      "home": "布雷斯特",
+      "away": "朗斯",
+      "spf_win": "2.21",
+      "spf_draw": "3.45",
+      "spf_lost": "2.60",
+      "spf_updated": "2026-04-23 13:55:15",
+      "gameid": "1205637",
+      "kickoff_cst": "2026-04-25 02:45",
+      "matchnum_label": "周五012",
+      "home_team_id": "1593",
+      "away_team_id": "979"
     },
     {
       "xml_id": "2039300",
