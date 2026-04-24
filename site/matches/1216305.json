@@ -24,7 +24,7 @@
       "lost": "2.82",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-24T04:20:16Z"
+    "fetched_at_utc": "2026-04-24T04:30:17Z"
   },
   "shuju": {
     "title": "艾华卡VS阿罗卡(2025/2026葡超)-数据分析-500彩票网",
@@ -571,10 +571,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.970↓",
+        "home_water": "0.950↓",
         "handicap": "平手/半球",
-        "away_water": "0.870↑",
-        "time": "04-24 02:54"
+        "away_water": "0.900↑",
+        "time": "04-24 12:19"
       },
       "init": {
         "home_water": "1.000",
@@ -603,10 +603,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.960↓",
+        "home_water": "0.980↓",
         "handicap": "平手/半球",
-        "away_water": "0.930↑",
-        "time": "04-24 12:15"
+        "away_water": "0.910↑",
+        "time": "04-24 12:16"
       },
       "init": {
         "home_water": "1.030",
@@ -619,16 +619,32 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.980↓",
+        "home_water": "0.950↓",
         "handicap": "平手/半球",
-        "away_water": "0.880↑",
-        "time": "04-24 12:12"
+        "away_water": "0.910↑",
+        "time": "04-24 12:21"
       },
       "init": {
         "home_water": "0.990",
         "handicap": "平手/半球",
         "away_water": "0.850",
         "time": "04-23 08:16"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↓",
+        "handicap": "平手/半球",
+        "away_water": "0.900↑",
+        "time": "04-24 12:18"
+      },
+      "init": {
+        "home_water": "1.010",
+        "handicap": "平手/半球",
+        "away_water": "0.860",
+        "time": "04-20 21:08"
       }
     },
     {
@@ -645,22 +661,6 @@
         "handicap": "平手",
         "away_water": "1.100",
         "time": "04-20 00:15"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↓",
-        "handicap": "平手/半球",
-        "away_water": "0.890↑",
-        "time": "04-24 10:17"
-      },
-      "init": {
-        "home_water": "1.010",
-        "handicap": "平手/半球",
-        "away_water": "0.860",
-        "time": "04-20 21:08"
       }
     },
     {
@@ -683,10 +683,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "0.980↓",
         "handicap": "平手/半球",
-        "away_water": "0.910↑",
-        "time": "04-24 12:06"
+        "away_water": "0.940↑",
+        "time": "04-24 12:17"
       },
       "init": {
         "home_water": "1.000",
@@ -699,10 +699,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.970↓",
+        "home_water": "0.980↓",
         "handicap": "平手/半球",
-        "away_water": "0.920↑",
-        "time": "04-24 11:46"
+        "away_water": "0.940↑",
+        "time": "04-24 12:28"
       },
       "init": {
         "home_water": "1.010",
@@ -731,10 +731,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.970↓",
+        "home_water": "0.980↓",
         "handicap": "平手/半球",
-        "away_water": "0.920↑",
-        "time": "04-24 11:45"
+        "away_water": "0.940↑",
+        "time": "04-24 12:27"
       },
       "init": {
         "home_water": "1.010",
@@ -747,10 +747,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.930",
+        "home_water": "0.940↑",
         "handicap": "平手/半球",
-        "away_water": "0.850↑",
-        "time": "04-24 11:47"
+        "away_water": "0.860↑",
+        "time": "04-24 12:28"
       },
       "init": {
         "home_water": "0.930",
@@ -763,10 +763,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.990↓",
+        "home_water": "0.970↓",
         "handicap": "平手/半球",
-        "away_water": "0.910↑",
-        "time": "04-24 09:05"
+        "away_water": "0.930↑",
+        "time": "04-24 12:18"
       },
       "init": {
         "home_water": "1.020",
