@@ -24,7 +24,7 @@
       "lost": "2.66",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-24T05:20:22Z"
+    "fetched_at_utc": "2026-04-24T05:30:27Z"
   },
   "shuju": {
     "title": "沃尔夫斯堡VS门兴格拉德巴赫(2025/2026德甲)-数据分析-500彩票网",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "平手/半球升",
-        "away_water": "0.890↑",
-        "time": "04-24 09:25"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "平手",
-        "away_water": "0.830",
-        "time": "04-13 00:07"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "平手",
         "away_water": "0.970",
         "time": "04-12 20:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "平手/半球升",
+        "away_water": "0.890↑",
+        "time": "04-24 09:25"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "平手",
+        "away_water": "0.830",
+        "time": "04-13 00:07"
       }
     },
     {
