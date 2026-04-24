@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-24T12:50:49Z",
+  "last_updated_utc": "2026-04-24T13:00:48Z",
   "matches": [
     {
       "xml_id": "2039288",
@@ -380,24 +380,6 @@
       "away_team_id": "555"
     },
     {
-      "xml_id": "2039314",
-      "matchnum": "6008",
-      "date": "2026-04-25",
-      "dayofweek": "星期六",
-      "league": "西班牙甲级联赛",
-      "home": "阿拉维斯",
-      "away": "马洛卡",
-      "spf_win": "4.05",
-      "spf_draw": "3.55",
-      "spf_lost": "1.67",
-      "spf_updated": "2026-04-24 09:58:44",
-      "gameid": "1216081",
-      "kickoff_cst": "2026-04-25 20:00",
-      "matchnum_label": "周六008",
-      "home_team_id": "542",
-      "away_team_id": "1062"
-    },
-    {
       "xml_id": "2039315",
       "matchnum": "6009",
       "date": "2026-04-25",
@@ -414,24 +396,6 @@
       "matchnum_label": "周六009",
       "home_team_id": "1149",
       "away_team_id": "1994"
-    },
-    {
-      "xml_id": "2039316",
-      "matchnum": "6010",
-      "date": "2026-04-25",
-      "dayofweek": "星期六",
-      "league": "德国甲级联赛",
-      "home": "海登海姆",
-      "away": "圣保利",
-      "spf_win": "5.10",
-      "spf_draw": "4.10",
-      "spf_lost": "1.45",
-      "spf_updated": "2026-04-24 09:58:44",
-      "gameid": "1206166",
-      "kickoff_cst": "2026-04-25 21:30",
-      "matchnum_label": "周六010",
-      "home_team_id": "5315",
-      "away_team_id": "495"
     },
     {
       "xml_id": "2039318",
@@ -936,24 +900,6 @@
       "matchnum_label": "周日023",
       "home_team_id": "551",
       "away_team_id": "694"
-    },
-    {
-      "xml_id": "2039361",
-      "matchnum": "7025",
-      "date": "2026-04-27",
-      "dayofweek": "星期一",
-      "league": "意大利甲级联赛",
-      "home": "AC米兰",
-      "away": "尤文图斯",
-      "spf_win": "6.30",
-      "spf_draw": "4.15",
-      "spf_lost": "1.37",
-      "spf_updated": "2026-04-24 11:18:31",
-      "gameid": "1199678",
-      "kickoff_cst": "2026-04-27 02:45",
-      "matchnum_label": "周日025",
-      "home_team_id": "210",
-      "away_team_id": "1330"
     },
     {
       "xml_id": "2039362",
