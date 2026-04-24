@@ -24,7 +24,7 @@
       "lost": "1.59",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-24T18:00:25Z"
+    "fetched_at_utc": "2026-04-24T18:10:17Z"
   },
   "shuju": {
     "title": "狼队VS托特纳姆热刺(2025/2026英超)-数据分析-500彩票网",
@@ -704,22 +704,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "受半球/一球降",
-        "away_water": "0.890↓",
-        "time": "04-25 00:43"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "受平手/半球",
-        "away_water": "0.940",
-        "time": "04-13 00:56"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -733,6 +717,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.900",
         "time": "04-12 02:11"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "受半球/一球降",
+        "away_water": "0.890↓",
+        "time": "04-25 00:43"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "受平手/半球",
+        "away_water": "0.940",
+        "time": "04-13 00:56"
       }
     },
     {
