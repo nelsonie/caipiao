@@ -24,7 +24,7 @@
       "lost": "2.78",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-24T13:50:43Z"
+    "fetched_at_utc": "2026-04-24T14:00:44Z"
   },
   "shuju": {
     "title": "帕德博恩VS沙尔克04(2025/2026德乙)-数据分析-500彩票网",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "平手/半球",
-        "away_water": "0.800↓",
-        "time": "04-24 00:45"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "平手/半球",
-        "away_water": "0.810",
-        "time": "04-20 10:17"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "平手",
         "away_water": "1.250",
         "time": "04-19 19:56"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "平手/半球",
+        "away_water": "0.800↓",
+        "time": "04-24 00:45"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "平手/半球",
+        "away_water": "0.810",
+        "time": "04-20 10:17"
       }
     },
     {
