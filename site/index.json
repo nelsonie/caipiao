@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-24T00:00:12Z",
+  "last_updated_utc": "2026-04-24T00:10:12Z",
   "matches": [
     {
       "xml_id": "2039288",
@@ -72,24 +72,6 @@
       "matchnum_label": "周五004",
       "home_team_id": "4882",
       "away_team_id": "7831"
-    },
-    {
-      "xml_id": "2039292",
-      "matchnum": "5005",
-      "date": "2026-04-25",
-      "dayofweek": "星期六",
-      "league": "德国乙级联赛",
-      "home": "凯泽斯劳滕",
-      "away": "不伦瑞克",
-      "spf_win": "4.25",
-      "spf_draw": "3.95",
-      "spf_lost": "1.56",
-      "spf_updated": "2026-04-23 13:55:15",
-      "gameid": "1222863",
-      "kickoff_cst": "2026-04-25 00:30",
-      "matchnum_label": "周五005",
-      "home_team_id": "928",
-      "away_team_id": "731"
     },
     {
       "xml_id": "2039293",
