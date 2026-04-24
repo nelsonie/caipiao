@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-24T06:30:48Z",
+  "last_updated_utc": "2026-04-24T06:40:49Z",
   "matches": [
     {
       "xml_id": "2039288",
@@ -99,10 +99,10 @@
       "league": "德国乙级联赛",
       "home": "杜塞尔多夫",
       "away": "德累斯顿",
-      "spf_win": "4.60",
-      "spf_draw": "4.07",
-      "spf_lost": "1.50",
-      "spf_updated": "2026-04-24 14:02:02",
+      "spf_win": "4.45",
+      "spf_draw": "4.05",
+      "spf_lost": "1.52",
+      "spf_updated": "2026-04-24 14:36:22",
       "gameid": "1222864",
       "kickoff_cst": "2026-04-25 00:30",
       "matchnum_label": "周五006",
@@ -846,6 +846,24 @@
       "matchnum_label": "周日011",
       "home_team_id": "980",
       "away_team_id": "1194"
+    },
+    {
+      "xml_id": "2039352",
+      "matchnum": "7016",
+      "date": "2026-04-26",
+      "dayofweek": "星期天",
+      "league": "法国甲级联赛",
+      "home": "勒阿弗尔",
+      "away": "梅斯",
+      "spf_win": "2.66",
+      "spf_draw": "3.35",
+      "spf_lost": "2.20",
+      "spf_updated": "2026-04-24 09:58:44",
+      "gameid": "1205638",
+      "kickoff_cst": "2026-04-26 23:15",
+      "matchnum_label": "周日016",
+      "home_team_id": "982",
+      "away_team_id": "1084"
     },
     {
       "xml_id": "2039353",
