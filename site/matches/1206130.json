@@ -24,7 +24,7 @@
       "lost": "2.48",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-24T15:40:25Z"
+    "fetched_at_utc": "2026-04-24T15:50:26Z"
   },
   "shuju": {
     "title": "奥格斯堡VS法兰克福(2025/2026德甲)-数据分析-500彩票网",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "平手",
-        "away_water": "1.000↓",
-        "time": "04-23 16:14"
-      },
-      "init": {
-        "home_water": "0.740",
-        "handicap": "平手",
-        "away_water": "1.260",
-        "time": "04-12 20:51"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "平手/半球",
         "away_water": "0.880",
         "time": "04-13 00:07"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "平手",
+        "away_water": "1.000↓",
+        "time": "04-23 16:14"
+      },
+      "init": {
+        "home_water": "0.740",
+        "handicap": "平手",
+        "away_water": "1.260",
+        "time": "04-12 20:51"
       }
     },
     {
