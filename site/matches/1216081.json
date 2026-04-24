@@ -24,7 +24,7 @@
       "lost": "3.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-24T22:20:10Z"
+    "fetched_at_utc": "2026-04-24T22:30:09Z"
   },
   "shuju": {
     "title": "阿拉维斯VS马洛卡(2025/2026西甲)-数据分析-500彩票网",
@@ -717,10 +717,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.850",
+        "home_water": "0.840↓",
         "handicap": "平手/半球",
-        "away_water": "1.030",
-        "time": "04-24 14:41"
+        "away_water": "1.040↑",
+        "time": "04-25 06:15"
       },
       "init": {
         "home_water": "0.850",
@@ -746,22 +746,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "平手/半球升",
-        "away_water": "1.080↓",
-        "time": "04-25 00:17"
-      },
-      "init": {
-        "home_water": "0.500",
-        "handicap": "平手",
-        "away_water": "1.850",
-        "time": "04-12 21:54"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -775,6 +759,22 @@
         "handicap": "平手/半球",
         "away_water": "0.990",
         "time": "04-13 03:37"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "平手/半球升",
+        "away_water": "1.080↓",
+        "time": "04-25 00:17"
+      },
+      "init": {
+        "home_water": "0.500",
+        "handicap": "平手",
+        "away_water": "1.850",
+        "time": "04-12 21:54"
       }
     },
     {
