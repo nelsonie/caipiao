@@ -24,7 +24,7 @@
       "lost": "6.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-24T23:00:16Z"
+    "fetched_at_utc": "2026-04-24T23:10:13Z"
   },
   "shuju": {
     "title": "利物浦VS水晶宫(2025/2026英超)-数据分析-500彩票网",
@@ -711,22 +711,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "一球降",
-        "away_water": "1.000↑",
-        "time": "04-25 06:10"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "一球/球半",
-        "away_water": "0.820",
-        "time": "04-12 12:02"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -740,6 +724,22 @@
         "handicap": "一球",
         "away_water": "1.040",
         "time": "04-12 01:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "一球降",
+        "away_water": "1.000↑",
+        "time": "04-25 06:10"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "一球/球半",
+        "away_water": "0.820",
+        "time": "04-12 12:02"
       }
     },
     {
