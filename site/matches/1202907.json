@@ -24,7 +24,7 @@
       "lost": "4.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-24T21:00:14Z"
+    "fetched_at_utc": "2026-04-24T21:10:20Z"
   },
   "shuju": {
     "title": "费耶诺德VS格罗宁根(2025/2026荷甲)-数据分析-500彩票网",
@@ -717,6 +717,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "半球/一球降",
+        "away_water": "1.060↑",
+        "time": "04-25 04:54"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "一球",
+        "away_water": "0.840",
+        "time": "04-20 08:17"
+      }
+    },
+    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -730,22 +746,6 @@
         "handicap": "球半",
         "away_water": "0.620",
         "time": "04-06 16:51"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.810↓",
-        "handicap": "半球/一球降",
-        "away_water": "1.060↑",
-        "time": "04-25 04:50"
-      },
-      "init": {
-        "home_water": "1.020",
-        "handicap": "一球",
-        "away_water": "0.840",
-        "time": "04-20 08:17"
       }
     },
     {
@@ -832,10 +832,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.780↓",
+        "home_water": "0.770↓",
         "handicap": "半球/一球降",
-        "away_water": "1.010↑",
-        "time": "04-25 02:41"
+        "away_water": "1.020↑",
+        "time": "04-25 04:55"
       },
       "init": {
         "home_water": "0.870",

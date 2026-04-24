@@ -24,7 +24,7 @@
       "lost": "1.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-24T21:00:14Z"
+    "fetched_at_utc": "2026-04-24T21:10:18Z"
   },
   "shuju": {
     "title": "赫塔费VS巴塞罗那(2025/2026西甲)-数据分析-500彩票网",
@@ -746,22 +746,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.060↑",
-        "handicap": "受半球/一球升",
-        "away_water": "0.820↓",
-        "time": "04-25 01:59"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "受一球",
-        "away_water": "1.020",
-        "time": "04-13 04:06"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -775,6 +759,22 @@
         "handicap": "受一球",
         "away_water": "0.850",
         "time": "04-12 21:54"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.060↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.820↓",
+        "time": "04-25 01:59"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "受一球",
+        "away_water": "1.020",
+        "time": "04-13 04:06"
       }
     },
     {
