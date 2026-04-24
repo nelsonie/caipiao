@@ -24,7 +24,7 @@
       "lost": "3.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-24T06:00:35Z"
+    "fetched_at_utc": "2026-04-24T06:10:33Z"
   },
   "shuju": {
     "title": "巴伦西亚VS赫罗纳(2025/2026西甲)-数据分析-500彩票网",
@@ -741,22 +741,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "半球升",
-        "away_water": "0.840↓",
-        "time": "04-24 12:03"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "平手/半球",
-        "away_water": "1.060",
-        "time": "04-13 03:39"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -770,6 +754,22 @@
         "handicap": "平手",
         "away_water": "1.590",
         "time": "04-12 22:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "半球升",
+        "away_water": "0.840↓",
+        "time": "04-24 12:03"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "平手/半球",
+        "away_water": "1.060",
+        "time": "04-13 03:39"
       }
     },
     {
