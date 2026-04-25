@@ -24,7 +24,7 @@
       "lost": "1.66",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T14:30:50Z"
+    "fetched_at_utc": "2026-04-25T14:40:56Z"
   },
   "shuju": {
     "title": "卡利亚里VS亚特兰大(2025/2026意甲)-数据分析-500彩票网",
@@ -500,22 +500,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "受半球/一球",
-        "away_water": "1.050↑",
-        "time": "04-25 07:14"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "受半球/一球",
-        "away_water": "0.930",
-        "time": "04-13 18:27"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -529,6 +513,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.780",
         "time": "04-13 00:02"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "受半球/一球",
+        "away_water": "1.050↑",
+        "time": "04-25 07:14"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "受半球/一球",
+        "away_water": "0.930",
+        "time": "04-13 18:27"
       }
     },
     {
