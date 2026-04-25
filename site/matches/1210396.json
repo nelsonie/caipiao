@@ -24,7 +24,7 @@
       "lost": "1.90",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T13:10:12Z"
+    "fetched_at_utc": "2026-04-25T13:20:11Z"
   },
   "shuju": {
     "title": "西布罗姆维奇VS伊普斯维奇(2025/2026英冠)-数据分析-500彩票网",
@@ -468,8 +468,8 @@
             "position": "中场"
           },
           {
-            "number": "24",
-            "name": "雅各布·格里夫斯",
+            "number": "20",
+            "name": "凯西·麦卡特",
             "position": "中场"
           },
           {
@@ -483,18 +483,18 @@
             "position": "中场"
           },
           {
-            "number": "20",
-            "name": "凯西·麦卡特",
-            "position": "中场"
-          },
-          {
-            "number": "4",
-            "name": "塞德里克·基普雷",
+            "number": "24",
+            "name": "雅各布·格里夫斯",
             "position": "后卫"
           },
           {
             "number": "26",
             "name": "达拉·奥谢",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "塞德里克·基普雷",
             "position": "后卫"
           },
           {
@@ -674,22 +674,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "受平手/半球",
-        "away_water": "1.010↑",
-        "time": "04-25 19:29"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "受平手/半球",
-        "away_water": "0.810",
-        "time": "04-22 18:02"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -703,6 +687,22 @@
         "handicap": "平手",
         "away_water": "0.610",
         "time": "04-21 09:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.010↑",
+        "time": "04-25 19:29"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "受平手/半球",
+        "away_water": "0.810",
+        "time": "04-22 18:02"
       }
     },
     {
