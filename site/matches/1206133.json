@@ -24,7 +24,7 @@
       "lost": "1.51",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T13:50:15Z"
+    "fetched_at_utc": "2026-04-25T14:00:18Z"
   },
   "shuju": {
     "title": "美因茨VS拜仁慕尼黑(2025/2026德甲)-数据分析-500彩票网",
@@ -447,6 +447,11 @@
             "position": "前锋"
           },
           {
+            "number": "22",
+            "name": "尼古拉斯·威奇尼格",
+            "position": "后卫"
+          },
+          {
             "number": "11",
             "name": "阿明多·西卜",
             "position": "前锋"
@@ -475,11 +480,6 @@
             "number": "14",
             "name": "威廉·博文·维克",
             "position": "前锋"
-          },
-          {
-            "number": "22",
-            "name": "尼古拉斯·威奇尼格",
-            "position": "后卫"
           }
         ],
         "injured": [],
@@ -509,13 +509,13 @@
             "position": "中场"
           },
           {
-            "number": "39",
-            "name": "巴拉·萨波科·恩迪亚耶",
+            "number": "45",
+            "name": "亚历山大·帕夫洛维奇",
             "position": "中场"
           },
           {
-            "number": "45",
-            "name": "亚历山大·帕夫洛维奇",
+            "number": "39",
+            "name": "巴拉·萨波科·恩迪亚耶",
             "position": "中场"
           },
           {
@@ -545,6 +545,16 @@
           }
         ],
         "subs": [
+          {
+            "number": "4",
+            "name": "若纳唐·塔",
+            "position": "后卫"
+          },
+          {
+            "number": "44",
+            "name": "约瑟普·斯坦尼西奇",
+            "position": "后卫"
+          },
           {
             "number": "43",
             "name": "菲利普·帕维奇",
@@ -576,19 +586,9 @@
             "position": "前锋"
           },
           {
-            "number": "44",
-            "name": "约瑟普·斯坦尼西奇",
-            "position": "后卫"
-          },
-          {
             "number": "33",
             "name": "巴斯蒂安·阿索莫",
             "position": "前锋"
-          },
-          {
-            "number": "4",
-            "name": "若纳唐·塔",
-            "position": "后卫"
           }
         ],
         "injured": [],
