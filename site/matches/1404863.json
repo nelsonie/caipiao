@@ -13,9 +13,9 @@
       "lost": "2.25"
     },
     "asia_main": {
-      "handicap": "球半降",
-      "home_water": "0.670↓",
-      "away_water": "1.100↑",
+      "handicap": "球半/两球",
+      "home_water": "0.730↓",
+      "away_water": "0.900↑",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "9.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-04-25T03:10:22Z"
+    "fetched_at_utc": "2026-04-25T03:20:24Z"
   },
   "shuju": {
     "title": "曼彻斯特城VS南安普敦(2025/2026英足总杯)-数据分析-500彩票网",
@@ -589,10 +589,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.670↓",
-        "handicap": "球半降",
-        "away_water": "1.100↑",
-        "time": "04-25 00:32"
+        "home_water": "0.730↓",
+        "handicap": "球半/两球",
+        "away_water": "0.900↑",
+        "time": "04-25 11:14"
       },
       "init": {
         "home_water": "0.760",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.920",
-        "handicap": "两球",
-        "away_water": "0.830",
-        "time": "04-25 09:10"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "两球",
-        "away_water": "0.830",
-        "time": "04-24 17:29"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -730,13 +714,29 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.920",
+        "handicap": "两球",
+        "away_water": "0.830",
+        "time": "04-25 09:10"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "两球",
+        "away_water": "0.830",
+        "time": "04-24 17:29"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "1.040↑",
+        "home_water": "1.030↑",
         "handicap": "两球",
-        "away_water": "0.870↑",
-        "time": "04-25 08:12"
+        "away_water": "0.880↑",
+        "time": "04-25 11:16"
       },
       "init": {
         "home_water": "1.020",
@@ -882,7 +882,7 @@
       "kelly": {
         "live": [
           "0.97",
-          "0.77",
+          "0.78",
           "0.73"
         ],
         "init": [
@@ -1519,7 +1519,7 @@
       "kelly": {
         "live": [
           "0.93",
-          "0.77",
+          "0.78",
           "0.65"
         ],
         "init": [
@@ -1965,7 +1965,7 @@
         ],
         "init": [
           "0.98",
-          "1.01",
+          "1.02",
           "1.14"
         ]
       }
@@ -2009,7 +2009,7 @@
       "kelly": {
         "live": [
           "0.98",
-          "0.77",
+          "0.78",
           "0.71"
         ],
         "init": [
