@@ -24,7 +24,7 @@
       "lost": "9.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-04-25T04:40:25Z"
+    "fetched_at_utc": "2026-04-25T04:50:23Z"
   },
   "shuju": {
     "title": "曼彻斯特城VS南安普敦(2025/2026英足总杯)-数据分析-500彩票网",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930",
-        "handicap": "两球升",
-        "away_water": "0.900",
-        "time": "04-25 12:30"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "球半/两球",
-        "away_water": "0.900",
-        "time": "04-06 14:17"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "两球",
         "away_water": "0.830",
         "time": "04-24 17:29"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930",
+        "handicap": "两球升",
+        "away_water": "0.900",
+        "time": "04-25 12:30"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "球半/两球",
+        "away_water": "0.900",
+        "time": "04-06 14:17"
       }
     },
     {
