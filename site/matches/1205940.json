@@ -24,7 +24,7 @@
       "lost": "2.66",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T14:00:15Z"
+    "fetched_at_utc": "2026-04-25T14:10:17Z"
   },
   "shuju": {
     "title": "沃尔夫斯堡VS门兴格拉德巴赫(2025/2026德甲)-数据分析-500彩票网",
@@ -362,28 +362,18 @@
         "formation": null,
         "starters": [
           {
+            "number": "9",
+            "name": "穆罕默德·阿莫拉",
+            "position": "前锋"
+          },
+          {
             "number": "17",
             "name": "杰南·佩奇诺维奇",
             "position": "前锋"
           },
           {
-            "number": "9",
-            "name": "穆罕默德·阿莫拉",
-            "position": "中场"
-          },
-          {
-            "number": "39",
-            "name": "帕特里克·威默",
-            "position": "中场"
-          },
-          {
             "number": "25",
             "name": "亚伦·泽恩特",
-            "position": "中场"
-          },
-          {
-            "number": "5",
-            "name": "维尼修斯·索萨",
             "position": "中场"
           },
           {
@@ -392,8 +382,18 @@
             "position": "中场"
           },
           {
+            "number": "39",
+            "name": "帕特里克·威默",
+            "position": "中场"
+          },
+          {
             "number": "21",
             "name": "约阿基姆·梅勒",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "维尼修斯·索萨",
             "position": "中场"
           },
           {
@@ -418,6 +418,11 @@
           }
         ],
         "subs": [
+          {
+            "number": "27",
+            "name": "马克西米利安·阿诺德",
+            "position": "中场"
+          },
           {
             "number": "31",
             "name": "扬尼克·格哈特",
@@ -457,11 +462,6 @@
             "number": "11",
             "name": "亚当·达吉姆",
             "position": "前锋"
-          },
-          {
-            "number": "27",
-            "name": "马克西米利安·阿诺德",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -528,6 +528,21 @@
         ],
         "subs": [
           {
+            "number": "26",
+            "name": "卢卡斯·乌尔里希",
+            "position": "后卫"
+          },
+          {
+            "number": "14",
+            "name": "高井幸大",
+            "position": "后卫"
+          },
+          {
+            "number": "13",
+            "name": "吉奥瓦尼·雷纳",
+            "position": "中场"
+          },
+          {
             "number": "23",
             "name": "简·雅各布·奥尔肖夫斯基",
             "position": "守门员"
@@ -555,21 +570,6 @@
           {
             "number": "38",
             "name": "雨果·博林",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "高井幸大",
-            "position": "后卫"
-          },
-          {
-            "number": "26",
-            "name": "卢卡斯·乌尔里希",
-            "position": "后卫"
-          },
-          {
-            "number": "13",
-            "name": "吉奥瓦尼·雷纳",
             "position": "中场"
           }
         ],
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.770↓",
-        "handicap": "平手/半球升",
-        "away_water": "1.020↑",
-        "time": "04-25 21:29"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "平手",
-        "away_water": "0.830",
-        "time": "04-13 00:07"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "平手",
         "away_water": "0.970",
         "time": "04-12 20:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.770↓",
+        "handicap": "平手/半球升",
+        "away_water": "1.020↑",
+        "time": "04-25 21:29"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "平手",
+        "away_water": "0.830",
+        "time": "04-13 00:07"
       }
     },
     {

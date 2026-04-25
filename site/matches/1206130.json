@@ -24,7 +24,7 @@
       "lost": "2.48",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T14:00:18Z"
+    "fetched_at_utc": "2026-04-25T14:10:19Z"
   },
   "shuju": {
     "title": "奥格斯堡VS法兰克福(2025/2026德甲)-数据分析-500彩票网",
@@ -471,13 +471,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "31",
-            "name": "洛夫· 阿尔霍夫",
+            "number": "25",
+            "name": "阿诺·卡利穆恩多",
             "position": "前锋"
           },
           {
-            "number": "25",
-            "name": "阿诺·卡利穆恩多",
+            "number": "31",
+            "name": "洛夫· 阿尔霍夫",
             "position": "中场"
           },
           {
@@ -491,13 +491,13 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "奥斯卡·温瑟·霍伊伦",
+            "number": "16",
+            "name": "雨果·拉尔森",
             "position": "中场"
           },
           {
-            "number": "16",
-            "name": "雨果·拉尔森",
+            "number": "6",
+            "name": "奥斯卡·温瑟·霍伊伦",
             "position": "中场"
           },
           {
@@ -506,13 +506,13 @@
             "position": "后卫"
           },
           {
-            "number": "15",
-            "name": "埃尔耶斯·斯希里",
+            "number": "4",
+            "name": "罗宾·科赫",
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "罗宾·科赫",
+            "number": "15",
+            "name": "埃尔耶斯·斯希里",
             "position": "后卫"
           },
           {
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.810↑",
-        "handicap": "平手",
-        "away_water": "1.090↓",
-        "time": "04-25 21:30"
-      },
-      "init": {
-        "home_water": "0.740",
-        "handicap": "平手",
-        "away_water": "1.260",
-        "time": "04-12 20:51"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "平手/半球",
         "away_water": "0.880",
         "time": "04-13 00:07"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.810↑",
+        "handicap": "平手",
+        "away_water": "1.090↓",
+        "time": "04-25 21:30"
+      },
+      "init": {
+        "home_water": "0.740",
+        "handicap": "平手",
+        "away_water": "1.260",
+        "time": "04-12 20:51"
       }
     },
     {
