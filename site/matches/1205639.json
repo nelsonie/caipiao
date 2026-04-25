@@ -24,7 +24,7 @@
       "lost": "3.02",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T22:00:14Z"
+    "fetched_at_utc": "2026-04-25T22:10:14Z"
   },
   "shuju": {
     "title": "洛里昂VS斯特拉斯堡(2025/2026法甲)-数据分析-500彩票网",
@@ -710,22 +710,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "半球升",
-        "away_water": "0.840↓",
-        "time": "04-26 03:13"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "受平手/半球",
-        "away_water": "0.940",
-        "time": "04-13 07:40"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -739,6 +723,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.880",
         "time": "04-13 06:56"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "半球升",
+        "away_water": "0.840↓",
+        "time": "04-26 03:13"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "受平手/半球",
+        "away_water": "0.940",
+        "time": "04-13 07:40"
       }
     },
     {
