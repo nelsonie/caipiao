@@ -24,7 +24,7 @@
       "lost": "4.82",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T07:20:10Z"
+    "fetched_at_utc": "2026-04-25T07:30:08Z"
   },
   "shuju": {
     "title": "纽卡斯尔喷气机VS中央海岸水手(2025/2026澳超)-数据分析-500彩票网",
@@ -324,11 +324,6 @@
         "formation": null,
         "starters": [
           {
-            "number": "7",
-            "name": "伊莱·亚当斯",
-            "position": "前锋"
-          },
-          {
             "number": "11",
             "name": "本·吉布森",
             "position": "前锋"
@@ -336,11 +331,11 @@
           {
             "number": "13",
             "name": "克莱顿·泰勒",
-            "position": "前锋"
+            "position": "中场"
           },
           {
-            "number": "14",
-            "name": "马克斯·伯吉斯",
+            "number": "8",
+            "name": "拉克兰·贝利斯",
             "position": "中场"
           },
           {
@@ -349,8 +344,13 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "拉克兰·贝利斯",
+            "number": "7",
+            "name": "伊莱·亚当斯",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "马克斯·伯吉斯",
             "position": "中场"
           },
           {
@@ -428,8 +428,8 @@
             "position": "前锋"
           },
           {
-            "number": "72",
-            "name": "阿里·奥格拉",
+            "number": "23",
+            "name": "奥利弗·拉瓦莱",
             "position": "中场"
           },
           {
@@ -448,8 +448,8 @@
             "position": "中场"
           },
           {
-            "number": "23",
-            "name": "奥利弗·拉瓦莱",
+            "number": "72",
+            "name": "阿里·奥格拉",
             "position": "中场"
           },
           {
@@ -634,22 +634,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.950↓",
-        "time": "04-25 15:03"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "一球",
-        "away_water": "1.000",
-        "time": "04-19 11:21"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -663,6 +647,22 @@
         "handicap": "一球/球半",
         "away_water": "0.820",
         "time": "04-20 08:17"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "一球/球半升",
+        "away_water": "0.950↓",
+        "time": "04-25 15:03"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "一球",
+        "away_water": "1.000",
+        "time": "04-19 11:21"
       }
     },
     {
