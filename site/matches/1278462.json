@@ -24,7 +24,7 @@
       "lost": "2.38",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T09:10:57Z"
+    "fetched_at_utc": "2026-04-25T09:20:55Z"
   },
   "shuju": {
     "title": "博莱格尼VS敦刻尔克(2025/2026法乙)-数据分析-500彩票网",
@@ -476,22 +476,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "平手",
-        "away_water": "0.920↑",
-        "time": "04-25 14:06"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "平手",
-        "away_water": "0.810",
-        "time": "04-22 08:17"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -505,6 +489,22 @@
         "handicap": "平手",
         "away_water": "0.900",
         "time": "04-20 21:09"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "平手",
+        "away_water": "0.920↑",
+        "time": "04-25 14:06"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "平手",
+        "away_water": "0.810",
+        "time": "04-22 08:17"
       }
     },
     {
