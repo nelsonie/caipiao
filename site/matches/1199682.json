@@ -24,14 +24,14 @@
       "lost": "1.77",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T18:40:17Z"
+    "fetched_at_utc": "2026-04-25T18:50:13Z"
   },
   "shuju": {
     "title": "热那亚VS科莫(2025/2026意甲)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，热那亚 1胜 4平 1负 ，进8球，失7球，大球2次，小球4次",
     "team_ranks": [
       "热那亚 [意甲14]",
-      "科莫 [意甲5]"
+      "科莫 [意甲6]"
     ],
     "h2h_rows": [
       {
@@ -729,22 +729,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.070↑",
-        "handicap": "受半球升",
-        "away_water": "0.820↓",
-        "time": "04-25 10:26"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "受半球/一球",
-        "away_water": "0.960",
-        "time": "04-13 03:18"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -758,6 +742,22 @@
         "handicap": "受一球",
         "away_water": "1.180",
         "time": "04-13 00:16"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.760↓",
+        "handicap": "受半球/一球",
+        "away_water": "1.030↑",
+        "time": "04-26 02:46"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "受半球/一球",
+        "away_water": "0.960",
+        "time": "04-13 03:18"
       }
     },
     {
