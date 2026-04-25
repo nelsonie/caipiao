@@ -24,7 +24,7 @@
       "lost": "1.16",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T07:40:26Z"
+    "fetched_at_utc": "2026-04-25T07:50:27Z"
   },
   "shuju": {
     "title": "昂热VS巴黎圣日耳曼(2025/2026法甲)-数据分析-500彩票网",
@@ -649,10 +649,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.980↓",
+        "home_water": "0.920↓",
         "handicap": "受球半/两球",
-        "away_water": "0.880↑",
-        "time": "04-25 15:07"
+        "away_water": "0.920↑",
+        "time": "04-25 15:35"
       },
       "init": {
         "home_water": "1.000",
@@ -710,22 +710,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.930↓",
-        "handicap": "受球半/两球",
-        "away_water": "0.870↑",
-        "time": "04-25 15:09"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "受球半/两球",
-        "away_water": "0.780",
-        "time": "04-13 05:38"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -739,6 +723,22 @@
         "handicap": "受球半/两球",
         "away_water": "0.810",
         "time": "04-13 18:06"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.930↓",
+        "handicap": "受球半/两球",
+        "away_water": "0.870↑",
+        "time": "04-25 15:09"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "受球半/两球",
+        "away_water": "0.780",
+        "time": "04-13 05:38"
       }
     },
     {
@@ -2124,7 +2124,7 @@
         ],
         "init": [
           "1.12",
-          "1.02",
+          "1.01",
           "0.97"
         ]
       }
