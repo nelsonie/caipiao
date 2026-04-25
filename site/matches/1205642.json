@@ -24,13 +24,13 @@
       "lost": "1.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T21:40:18Z"
+    "fetched_at_utc": "2026-04-25T21:50:18Z"
   },
   "shuju": {
     "title": "巴黎FCVS里尔(2025/2026法甲)-数据分析-500彩票网",
     "h2h_summary": "双方近 1 次交战，巴黎FC 0胜 0平 1负 ，进2球，失4球，大球1次，小球0次",
     "team_ranks": [
-      "巴黎FC [法甲11]",
+      "巴黎FC [法甲12]",
       "里尔 [法甲4]"
     ],
     "h2h_rows": [
@@ -637,22 +637,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.650↓",
-        "handicap": "受半球/一球降",
-        "away_water": "1.070↑",
-        "time": "04-25 19:11"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "受平手/半球",
-        "away_water": "0.750",
-        "time": "04-13 05:38"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -666,6 +650,22 @@
         "handicap": "受半球",
         "away_water": "1.010",
         "time": "04-13 17:50"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.650↓",
+        "handicap": "受半球/一球降",
+        "away_water": "1.070↑",
+        "time": "04-25 19:11"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "受平手/半球",
+        "away_water": "0.750",
+        "time": "04-13 05:38"
       }
     },
     {
@@ -691,7 +691,7 @@
         "home_water": "0.980↑",
         "handicap": "受半球",
         "away_water": "0.920↓",
-        "time": "04-25 17:37"
+        "time": "04-26 05:18"
       },
       "init": {
         "home_water": "0.850",
