@@ -24,7 +24,7 @@
       "lost": "1.76",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T03:40:15Z"
+    "fetched_at_utc": "2026-04-25T03:50:15Z"
   },
   "shuju": {
     "title": "科隆VS勒沃库森(2025/2026德甲)-数据分析-500彩票网",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "受半球升",
-        "away_water": "0.910↓",
-        "time": "04-25 10:41"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "受半球/一球",
-        "away_water": "0.970",
-        "time": "04-13 00:07"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "受一球",
         "away_water": "1.320",
         "time": "04-12 20:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "受半球升",
+        "away_water": "0.910↓",
+        "time": "04-25 10:41"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "受半球/一球",
+        "away_water": "0.970",
+        "time": "04-13 00:07"
       }
     },
     {
