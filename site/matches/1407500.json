@@ -8,14 +8,14 @@
     "away": "町田泽维亚",
     "kickoff_cst": "2026-04-26 00:15",
     "spf": {
-      "win": "2.75",
+      "win": "2.81",
       "draw": "3.22",
-      "lost": "2.20"
+      "lost": "2.16"
     },
     "asia_main": {
       "handicap": "半球/一球",
-      "home_water": "0.740↓",
-      "away_water": "0.900↑",
+      "home_water": "0.760↓",
+      "away_water": "0.880↑",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "5.65",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T05:50:24Z"
+    "fetched_at_utc": "2026-04-25T06:00:24Z"
   },
   "shuju": {
     "title": "吉达国民VS町田泽维亚(2025/2026亚冠杯)-数据分析-500彩票网",
@@ -576,10 +576,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.740↓",
+        "home_water": "0.760↓",
         "handicap": "半球/一球",
-        "away_water": "0.900↑",
-        "time": "04-24 18:39"
+        "away_water": "0.880↑",
+        "time": "04-25 13:47"
       },
       "init": {
         "home_water": "0.770",
@@ -685,22 +685,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.790↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.870↓",
-        "time": "04-25 13:41"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "一球",
-        "away_water": "0.950",
-        "time": "04-22 20:27"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -714,6 +698,22 @@
         "handicap": "半球/一球",
         "away_water": "1.030",
         "time": "04-23 18:59"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.790↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.870↓",
+        "time": "04-25 13:41"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "一球",
+        "away_water": "0.950",
+        "time": "04-22 20:27"
       }
     },
     {
