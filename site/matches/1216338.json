@@ -24,7 +24,7 @@
       "lost": "1.11",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-04-25T09:50:49Z"
+    "fetched_at_utc": "2026-04-25T10:00:52Z"
   },
   "shuju": {
     "title": "AVSVS里斯本竞技(2025/2026葡超)-数据分析-500彩票网",
@@ -682,22 +682,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "受两球半",
-        "away_water": "1.020↓",
-        "time": "04-25 03:29"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "受两球半",
-        "away_water": "1.070",
-        "time": "04-20 01:28"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -711,6 +695,22 @@
         "handicap": "受两球/两球半",
         "away_water": "0.840",
         "time": "04-21 03:45"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "受两球半",
+        "away_water": "1.020↓",
+        "time": "04-25 03:29"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "受两球半",
+        "away_water": "1.070",
+        "time": "04-20 01:28"
       }
     },
     {

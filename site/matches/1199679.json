@@ -8,9 +8,9 @@
     "away": "罗马",
     "kickoff_cst": "2026-04-26 00:00",
     "spf": {
-      "win": "1.55",
-      "draw": "3.57",
-      "lost": "4.90"
+      "win": "1.58",
+      "draw": "3.50",
+      "lost": "4.75"
     },
     "asia_main": {
       "handicap": "受平手/半球",
@@ -24,7 +24,7 @@
       "lost": "2.25",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T09:50:22Z"
+    "fetched_at_utc": "2026-04-25T10:00:20Z"
   },
   "shuju": {
     "title": "博洛尼亚VS罗马(2025/2026意甲)-数据分析-500彩票网",
@@ -729,22 +729,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "受平手/半球",
-        "away_water": "0.950↓",
-        "time": "04-25 16:40"
-      },
-      "init": {
-        "home_water": "0.730",
-        "handicap": "受平手/半球",
-        "away_water": "1.080",
-        "time": "04-13 17:49"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -758,6 +742,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.820",
         "time": "04-13 00:02"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.950↓",
+        "time": "04-25 16:40"
+      },
+      "init": {
+        "home_water": "0.730",
+        "handicap": "受平手/半球",
+        "away_water": "1.080",
+        "time": "04-13 17:49"
       }
     },
     {
