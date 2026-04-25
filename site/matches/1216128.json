@@ -24,7 +24,7 @@
       "lost": "3.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T16:10:11Z"
+    "fetched_at_utc": "2026-04-25T16:20:10Z"
   },
   "shuju": {
     "title": "巴伦西亚VS赫罗纳(2025/2026西甲)-数据分析-500彩票网",
@@ -691,10 +691,10 @@
       "cid": "4",
       "company": "I***rw**t*n",
       "live": {
-        "home_water": "1.300↑",
-        "handicap": "半球",
-        "away_water": "0.630↓",
-        "time": "04-26 00:04"
+        "home_water": "0.600↓",
+        "handicap": "平手降",
+        "away_water": "1.250↑",
+        "time": "04-26 00:16"
       },
       "init": {
         "home_water": "1.100",
@@ -707,10 +707,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.010↓",
+        "home_water": "1.020↓",
         "handicap": "平手/半球降",
-        "away_water": "0.870↑",
-        "time": "04-26 00:03"
+        "away_water": "0.860↑",
+        "time": "04-26 00:17"
       },
       "init": {
         "home_water": "1.050",
@@ -723,10 +723,10 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "1.040↑",
+        "home_water": "1.060↑",
         "handicap": "平手/半球降",
-        "away_water": "0.910↓",
-        "time": "04-26 00:02"
+        "away_water": "0.890↓",
+        "time": "04-26 00:18"
       },
       "init": {
         "home_water": "0.990",
@@ -739,10 +739,10 @@
       "cid": "1484",
       "company": "on**",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.020↑",
         "handicap": "平手/半球升",
-        "away_water": "0.920↓",
-        "time": "04-25 23:44"
+        "away_water": "0.860↓",
+        "time": "04-26 00:18"
       },
       "init": {
         "home_water": "0.580",
@@ -755,10 +755,10 @@
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "1.010↑",
         "handicap": "平手/半球",
-        "away_water": "0.870↓",
-        "time": "04-25 23:53"
+        "away_water": "0.860↓",
+        "time": "04-26 00:18"
       },
       "init": {
         "home_water": "0.820",
@@ -771,10 +771,10 @@
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "1.030↓",
+        "home_water": "1.040",
         "handicap": "平手/半球降",
         "away_water": "0.890↑",
-        "time": "04-26 00:02"
+        "time": "04-26 00:15"
       },
       "init": {
         "home_water": "1.040",
@@ -787,10 +787,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "1.030↓",
+        "home_water": "1.020↓",
         "handicap": "平手/半球降",
-        "away_water": "0.910↑",
-        "time": "04-26 00:00"
+        "away_water": "0.920↑",
+        "time": "04-26 00:16"
       },
       "init": {
         "home_water": "1.070",
@@ -806,7 +806,7 @@
         "home_water": "1.060",
         "handicap": "平手/半球降",
         "away_water": "0.880↑",
-        "time": "04-25 23:54"
+        "time": "04-26 00:19"
       },
       "init": {
         "home_water": "1.060",
@@ -870,7 +870,7 @@
         "home_water": "1.040↑",
         "handicap": "平手/半球",
         "away_water": "0.880↓",
-        "time": "04-25 23:59"
+        "time": "04-26 00:15"
       },
       "init": {
         "home_water": "0.820",
@@ -1570,7 +1570,7 @@
     {
       "cid": "651",
       "company": "利*",
-      "time": "2026-04-26 00:00:09",
+      "time": "2026-04-26 00:09:54",
       "odds": {
         "live": [
           "2.07",
@@ -1579,7 +1579,7 @@
         ],
         "init": [
           "2.38",
-          "3.28",
+          "3.27",
           "3.06"
         ]
       },
@@ -1590,9 +1590,9 @@
           "27.83%"
         ],
         "init": [
-          "39.95%",
-          "28.99%",
-          "31.07%"
+          "39.91%",
+          "29.05%",
+          "31.04%"
         ]
       },
       "ret": {
@@ -1600,7 +1600,7 @@
           "90.72%"
         ],
         "init": [
-          "95.07%"
+          "94.99%"
         ]
       },
       "kelly": {
