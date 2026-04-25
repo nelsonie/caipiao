@@ -24,7 +24,7 @@
       "lost": "1.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T14:40:23Z"
+    "fetched_at_utc": "2026-04-25T14:50:21Z"
   },
   "shuju": {
     "title": "赫塔费VS巴塞罗那(2025/2026西甲)-数据分析-500彩票网",
@@ -453,28 +453,18 @@
             "position": "后卫"
           },
           {
-            "number": "41",
-            "name": "豪尔赫·蒙特斯·加西亚",
+            "number": "16",
+            "name": "迭戈·里科",
             "position": "后卫"
           },
           {
-            "number": "17",
-            "name": "费梅尼亚斯",
-            "position": "后卫"
+            "number": "44",
+            "name": "阿德里安·里克尔梅·冈萨雷斯",
+            "position": "中场"
           },
           {
-            "number": "11",
-            "name": "阿布·卡马拉",
-            "position": "前锋"
-          },
-          {
-            "number": "1",
-            "name": "吉里·莱塔切克",
-            "position": "守门员"
-          },
-          {
-            "number": "23",
-            "name": "阿德里安·利索",
+            "number": "18",
+            "name": "亚历克斯·桑克里斯",
             "position": "前锋"
           },
           {
@@ -483,23 +473,33 @@
             "position": "前锋"
           },
           {
-            "number": "18",
-            "name": "亚历克斯·桑克里斯",
+            "number": "23",
+            "name": "阿德里安·利索",
             "position": "前锋"
           },
           {
-            "number": "44",
-            "name": "阿德里安·里克尔梅·冈萨雷斯",
-            "position": "中场"
+            "number": "1",
+            "name": "吉里·莱塔切克",
+            "position": "守门员"
+          },
+          {
+            "number": "11",
+            "name": "阿布·卡马拉",
+            "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "费梅尼亚斯",
+            "position": "后卫"
+          },
+          {
+            "number": "41",
+            "name": "豪尔赫·蒙特斯·加西亚",
+            "position": "后卫"
           },
           {
             "number": "3",
             "name": "阿布德尔·阿布卡尔",
-            "position": "后卫"
-          },
-          {
-            "number": "16",
-            "name": "迭戈·里科",
             "position": "后卫"
           }
         ],
@@ -510,19 +510,14 @@
         "formation": null,
         "starters": [
           {
-            "number": "16",
-            "name": "费尔明·洛佩斯",
-            "position": "前锋"
-          },
-          {
             "number": "9",
             "name": "罗伯特·莱万多夫斯基",
             "position": "前锋"
           },
           {
-            "number": "19",
-            "name": "鲁尼·巴尔德吉",
-            "position": "前锋"
+            "number": "16",
+            "name": "费尔明·洛佩斯",
+            "position": "中场"
           },
           {
             "number": "20",
@@ -530,13 +525,18 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "加维",
+            "number": "19",
+            "name": "鲁尼·巴尔德吉",
             "position": "中场"
           },
           {
             "number": "8",
             "name": "佩德里",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "加维",
             "position": "中场"
           },
           {
@@ -567,21 +567,6 @@
         ],
         "subs": [
           {
-            "number": "36",
-            "name": "阿尔瓦罗·科尔特斯",
-            "position": "后卫"
-          },
-          {
-            "number": "17",
-            "name": "马克·卡萨多",
-            "position": "中场"
-          },
-          {
-            "number": "3",
-            "name": "亚历杭德罗·巴尔德",
-            "position": "后卫"
-          },
-          {
             "number": "4",
             "name": "罗纳德·阿劳霍",
             "position": "后卫"
@@ -590,6 +575,21 @@
             "number": "33",
             "name": "埃德尔·阿勒·冈萨雷斯",
             "position": "守门员"
+          },
+          {
+            "number": "17",
+            "name": "马克·卡萨多",
+            "position": "中场"
+          },
+          {
+            "number": "36",
+            "name": "阿尔瓦罗·科尔特斯",
+            "position": "后卫"
+          },
+          {
+            "number": "21",
+            "name": "弗兰基·德容",
+            "position": "中场"
           },
           {
             "number": "42",
@@ -612,14 +612,14 @@
             "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "弗兰基·德容",
-            "position": "中场"
-          },
-          {
             "number": "43",
             "name": "托马斯·诺埃尔·马克斯·莫雷拉",
             "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "亚历杭德罗·巴尔德",
+            "position": "后卫"
           }
         ],
         "injured": [],
