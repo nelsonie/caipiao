@@ -24,7 +24,7 @@
       "lost": "2.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T15:20:16Z"
+    "fetched_at_utc": "2026-04-25T15:30:18Z"
   },
   "shuju": {
     "title": "西汉姆联VS埃弗顿(2025/2026英超)-数据分析-500彩票网",
@@ -704,22 +704,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.130↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.770↓",
-        "time": "04-25 22:00"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "平手",
-        "away_water": "0.960",
-        "time": "04-12 12:02"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -733,6 +717,22 @@
         "handicap": "平手",
         "away_water": "1.020",
         "time": "04-12 01:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.130↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.770↓",
+        "time": "04-25 22:00"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "平手",
+        "away_water": "0.960",
+        "time": "04-12 12:02"
       }
     },
     {

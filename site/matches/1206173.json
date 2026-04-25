@@ -24,7 +24,7 @@
       "lost": "1.76",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T15:20:13Z"
+    "fetched_at_utc": "2026-04-25T15:30:15Z"
   },
   "shuju": {
     "title": "科隆VS勒沃库森(2025/2026德甲)-数据分析-500彩票网",
@@ -362,14 +362,14 @@
         "formation": null,
         "starters": [
           {
-            "number": "30",
-            "name": "马柳斯·巴特勒",
-            "position": "前锋"
-          },
-          {
             "number": "13",
             "name": "赛义德·埃尔·马拉",
             "position": "前锋"
+          },
+          {
+            "number": "30",
+            "name": "马柳斯·巴特勒",
+            "position": "中场"
           },
           {
             "number": "16",
@@ -377,8 +377,8 @@
             "position": "中场"
           },
           {
-            "number": "32",
-            "name": "克里斯托弗·隆德",
+            "number": "37",
+            "name": "林顿·迈纳",
             "position": "中场"
           },
           {
@@ -392,9 +392,9 @@
             "position": "中场"
           },
           {
-            "number": "37",
-            "name": "林顿·迈纳",
-            "position": "中场"
+            "number": "32",
+            "name": "克里斯托弗·隆德",
+            "position": "后卫"
           },
           {
             "number": "39",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.790↑",
-        "handicap": "受半球/一球升",
-        "away_water": "1.110↓",
-        "time": "04-25 21:28"
-      },
-      "init": {
-        "home_water": "0.560",
-        "handicap": "受一球",
-        "away_water": "1.320",
-        "time": "04-12 20:51"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.970",
         "time": "04-13 00:07"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.790↑",
+        "handicap": "受半球/一球升",
+        "away_water": "1.110↓",
+        "time": "04-25 21:28"
+      },
+      "init": {
+        "home_water": "0.560",
+        "handicap": "受一球",
+        "away_water": "1.320",
+        "time": "04-12 20:51"
       }
     },
     {

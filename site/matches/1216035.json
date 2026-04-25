@@ -24,7 +24,7 @@
       "lost": "1.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T15:20:19Z"
+    "fetched_at_utc": "2026-04-25T15:30:19Z"
   },
   "shuju": {
     "title": "赫塔费VS巴塞罗那(2025/2026西甲)-数据分析-500彩票网",
@@ -391,11 +391,6 @@
             "position": "前锋"
           },
           {
-            "number": "6",
-            "name": "马里奥·马丁",
-            "position": "中场"
-          },
-          {
             "number": "8",
             "name": "毛罗·阿兰巴里",
             "position": "中场"
@@ -403,6 +398,11 @@
           {
             "number": "5",
             "name": "路易斯·米拉",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "马里奥·马丁",
             "position": "中场"
           },
           {
@@ -453,28 +453,18 @@
             "position": "后卫"
           },
           {
-            "number": "16",
-            "name": "迭戈·里科",
+            "number": "41",
+            "name": "豪尔赫·蒙特斯·加西亚",
             "position": "后卫"
           },
           {
-            "number": "44",
-            "name": "阿德里安·里克尔梅·冈萨雷斯",
-            "position": "中场"
+            "number": "17",
+            "name": "费梅尼亚斯",
+            "position": "后卫"
           },
           {
-            "number": "18",
-            "name": "亚历克斯·桑克里斯",
-            "position": "前锋"
-          },
-          {
-            "number": "19",
-            "name": "路易斯·巴斯克斯",
-            "position": "前锋"
-          },
-          {
-            "number": "23",
-            "name": "阿德里安·利索",
+            "number": "11",
+            "name": "阿布·卡马拉",
             "position": "前锋"
           },
           {
@@ -483,24 +473,34 @@
             "position": "守门员"
           },
           {
-            "number": "11",
-            "name": "阿布·卡马拉",
-            "position": "前锋"
-          },
-          {
-            "number": "17",
-            "name": "费梅尼亚斯",
-            "position": "后卫"
-          },
-          {
-            "number": "41",
-            "name": "豪尔赫·蒙特斯·加西亚",
-            "position": "后卫"
-          },
-          {
             "number": "3",
             "name": "阿布德尔·阿布卡尔",
             "position": "后卫"
+          },
+          {
+            "number": "19",
+            "name": "路易斯·巴斯克斯",
+            "position": "前锋"
+          },
+          {
+            "number": "18",
+            "name": "亚历克斯·桑克里斯",
+            "position": "前锋"
+          },
+          {
+            "number": "44",
+            "name": "阿德里安·里克尔梅·冈萨雷斯",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "迭戈·里科",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "阿德里安·利索",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -567,6 +567,11 @@
         ],
         "subs": [
           {
+            "number": "3",
+            "name": "亚历杭德罗·巴尔德",
+            "position": "后卫"
+          },
+          {
             "number": "4",
             "name": "罗纳德·阿劳霍",
             "position": "后卫"
@@ -575,11 +580,6 @@
             "number": "33",
             "name": "埃德尔·阿勒·冈萨雷斯",
             "position": "守门员"
-          },
-          {
-            "number": "17",
-            "name": "马克·卡萨多",
-            "position": "中场"
           },
           {
             "number": "36",
@@ -612,14 +612,14 @@
             "position": "前锋"
           },
           {
-            "number": "43",
-            "name": "托马斯·诺埃尔·马克斯·莫雷拉",
+            "number": "17",
+            "name": "马克·卡萨多",
             "position": "中场"
           },
           {
-            "number": "3",
-            "name": "亚历杭德罗·巴尔德",
-            "position": "后卫"
+            "number": "43",
+            "name": "托马斯·诺埃尔·马克斯·莫雷拉",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -741,22 +741,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "受一球",
-        "away_water": "0.990↑",
-        "time": "04-25 22:12"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "受一球",
-        "away_water": "0.850",
-        "time": "04-12 21:54"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -770,6 +754,22 @@
         "handicap": "受一球",
         "away_water": "1.020",
         "time": "04-13 04:06"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "受一球",
+        "away_water": "0.990↑",
+        "time": "04-25 22:12"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "受一球",
+        "away_water": "0.850",
+        "time": "04-12 21:54"
       }
     },
     {
