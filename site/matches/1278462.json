@@ -24,7 +24,7 @@
       "lost": "2.38",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T17:10:35Z"
+    "fetched_at_utc": "2026-04-25T17:20:33Z"
   },
   "shuju": {
     "title": "博莱格尼VS敦刻尔克(2025/2026法乙)-数据分析-500彩票网",
@@ -348,15 +348,199 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "9",
+            "name": "马丁·莱科利尔",
+            "position": "前锋"
+          },
+          {
+            "number": "23",
+            "name": "诺亚·法塔尔",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "桑尼·杜弗洛斯",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "乔佛里·布尔特尔",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "阿明·法里西",
+            "position": "中场"
+          },
+          {
+            "number": "90",
+            "name": "霍纳斯·马丁",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "胡利安·博耶",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "内森·佐霍尔",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "西亚德·古尔维尔",
+            "position": "后卫"
+          },
+          {
+            "number": "18",
+            "name": "登巴·蒂亚姆",
+            "position": "后卫"
+          },
+          {
+            "number": "99",
+            "name": "布隆迪·南·努克",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "28",
+            "name": "索汉·帕亚尔",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "伊布拉西姆·科内",
+            "position": "守门员"
+          },
+          {
+            "number": "17",
+            "name": "科伦丁·法图",
+            "position": "前锋"
+          },
+          {
+            "number": "3",
+            "name": "文森特·伯莱特",
+            "position": "后卫"
+          },
+          {
+            "number": "7",
+            "name": "卢卡·博伊托",
+            "position": "中场"
+          },
+          {
+            "number": "19",
+            "name": "诺兰·比奈",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "阿德里恩·皮诺",
+            "position": "后卫"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "9",
+            "name": "托马斯·罗比内特",
+            "position": "前锋"
+          },
+          {
+            "number": "77",
+            "name": "阿里斯蒂德·佐苏",
+            "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "恩佐·巴德利",
+            "position": "中场"
+          },
+          {
+            "number": "87",
+            "name": "塞娜·马索克",
+            "position": "中场"
+          },
+          {
+            "number": "69",
+            "name": "摩根·博克莱·姆普图",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "罗翰·杜塞特",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "亚历克·若尔让",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "维克多·马耶拉",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "文森特·萨索",
+            "position": "后卫"
+          },
+          {
+            "number": "27",
+            "name": "阿兰·里古埃特",
+            "position": "后卫"
+          },
+          {
+            "number": "60",
+            "name": "马蒂斯·尼弗洛尔",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "7",
+            "name": "埃迪·西尔维斯特",
+            "position": "前锋"
+          },
+          {
+            "number": "1",
+            "name": "马科斯·拉文",
+            "position": "守门员"
+          },
+          {
+            "number": "11",
+            "name": "亚历克斯·达霍",
+            "position": "前锋"
+          },
+          {
+            "number": "24",
+            "name": "伦尼·德齐基·卢西拉霍",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "伊尼哥·埃瓜拉斯",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "马尔科·艾西米",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "阿布巴卡里·坎特",
+            "position": "前锋"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
@@ -476,22 +660,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↓",
-        "handicap": "平手",
-        "away_water": "0.850↑",
-        "time": "04-25 16:13"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "平手",
-        "away_water": "0.810",
-        "time": "04-22 08:17"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -505,6 +673,22 @@
         "handicap": "平手",
         "away_water": "0.900",
         "time": "04-20 21:09"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↓",
+        "handicap": "平手",
+        "away_water": "0.850↑",
+        "time": "04-25 16:13"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "平手",
+        "away_water": "0.810",
+        "time": "04-22 08:17"
       }
     },
     {
