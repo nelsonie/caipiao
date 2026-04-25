@@ -24,7 +24,7 @@
       "lost": "5.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T04:30:29Z"
+    "fetched_at_utc": "2026-04-25T04:40:32Z"
   },
   "shuju": {
     "title": "纳什维尔VS夏洛特FC(2026美职联)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.770↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.900↑",
-        "time": "04-25 01:43"
-      },
-      "init": {
-        "home_water": "1.180",
-        "handicap": "一球",
-        "away_water": "0.630",
-        "time": "04-13 23:50"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球/一球",
         "away_water": "0.910",
         "time": "04-14 03:39"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.770↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.900↑",
+        "time": "04-25 01:43"
+      },
+      "init": {
+        "home_water": "1.180",
+        "handicap": "一球",
+        "away_water": "0.630",
+        "time": "04-13 23:50"
       }
     },
     {
