@@ -8,9 +8,9 @@
     "away": "圣保利",
     "kickoff_cst": "2026-04-25 21:30",
     "spf": {
-      "win": "5.10",
-      "draw": "4.10",
-      "lost": "1.45"
+      "win": "4.95",
+      "draw": "4.05",
+      "lost": "1.47"
     },
     "asia_main": {
       "handicap": "平手/半球升",
@@ -24,7 +24,7 @@
       "lost": "2.62",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T02:10:14Z"
+    "fetched_at_utc": "2026-04-25T02:20:12Z"
   },
   "shuju": {
     "title": "海登海姆VS圣保利(2025/2026德甲)-数据分析-500彩票网",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.040↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.840↑",
-        "time": "04-25 09:31"
-      },
-      "init": {
-        "home_water": "1.010",
-        "handicap": "平手",
-        "away_water": "0.810",
-        "time": "04-13 00:07"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "平手",
         "away_water": "0.900",
         "time": "04-12 20:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.040↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.840↑",
+        "time": "04-25 09:31"
+      },
+      "init": {
+        "home_water": "1.010",
+        "handicap": "平手",
+        "away_water": "0.810",
+        "time": "04-13 00:07"
       }
     },
     {
@@ -809,8 +809,8 @@
       "live": {
         "home_water": "1.010↑",
         "handicap": "平手/半球升",
-        "away_water": "0.780↓",
-        "time": "04-25 09:38"
+        "away_water": "0.790",
+        "time": "04-25 10:10"
       },
       "init": {
         "home_water": "0.990",
