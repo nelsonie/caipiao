@@ -24,7 +24,7 @@
       "lost": "1.76",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T22:40:21Z"
+    "fetched_at_utc": "2026-04-25T22:50:25Z"
   },
   "shuju": {
     "title": "圣克拉拉VS布拉加(2025/2026葡超)-数据分析-500彩票网",
@@ -688,22 +688,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "受平手/半球升",
-        "away_water": "0.910↓",
-        "time": "04-25 17:17"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "受半球",
-        "away_water": "0.920",
-        "time": "04-21 01:19"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -717,6 +701,22 @@
         "handicap": "受半球/一球",
         "away_water": "1.090",
         "time": "04-20 18:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "受平手/半球升",
+        "away_water": "0.910↓",
+        "time": "04-25 17:17"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "受半球",
+        "away_water": "0.920",
+        "time": "04-21 01:19"
       }
     },
     {
