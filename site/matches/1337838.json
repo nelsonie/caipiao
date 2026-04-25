@@ -24,7 +24,7 @@
       "lost": "1.76",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T10:00:07Z"
+    "fetched_at_utc": "2026-04-25T10:10:09Z"
   },
   "shuju": {
     "title": "西悉尼漫步者VS墨尔本胜利(2025/2026澳超)-数据分析-500彩票网",
@@ -329,13 +329,13 @@
             "position": "前锋"
           },
           {
-            "number": "23",
-            "name": "博日达尔·克拉耶夫",
+            "number": "7",
+            "name": "瑞安·弗雷泽",
             "position": "前锋"
           },
           {
-            "number": "7",
-            "name": "瑞安·弗雷泽",
+            "number": "23",
+            "name": "博日达尔·克拉耶夫",
             "position": "中场"
           },
           {
@@ -428,11 +428,6 @@
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "克拉里斯马里奥·桑托斯·罗德里格斯",
-            "position": "中场"
-          },
-          {
             "number": "14",
             "name": "马修·格里马尔迪",
             "position": "中场"
@@ -443,13 +438,23 @@
             "position": "中场"
           },
           {
-            "number": "27",
-            "name": "路易斯·达里戈",
+            "number": "11",
+            "name": "克拉里斯马里奥·桑托斯·罗德里格斯",
             "position": "中场"
           },
           {
             "number": "10",
             "name": "丹尼斯·根罗",
+            "position": "中场"
+          },
+          {
+            "number": "27",
+            "name": "路易斯·达里戈",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "约书亚·詹姆斯·罗林斯",
             "position": "中场"
           },
           {
@@ -465,11 +470,6 @@
           {
             "number": "15",
             "name": "塞巴斯蒂安·埃斯波西托",
-            "position": "后卫"
-          },
-          {
-            "number": "22",
-            "name": "约书亚·詹姆斯·罗林斯",
             "position": "后卫"
           },
           {
@@ -634,22 +634,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "受半球",
-        "away_water": "0.890↓",
-        "time": "04-25 17:36"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "受半球",
-        "away_water": "1.030",
-        "time": "04-24 08:28"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -663,6 +647,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.930",
         "time": "04-18 18:08"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "受半球",
+        "away_water": "0.890↓",
+        "time": "04-25 17:36"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "受半球",
+        "away_water": "1.030",
+        "time": "04-24 08:28"
       }
     },
     {
