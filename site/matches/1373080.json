@@ -24,7 +24,7 @@
       "lost": "4.10",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T04:50:31Z"
+    "fetched_at_utc": "2026-04-25T05:00:31Z"
   },
   "shuju": {
     "title": "全北现代VS浦项制铁(2026K1联赛)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↓",
-        "handicap": "半球",
-        "away_water": "0.790↑",
-        "time": "04-24 02:35"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "半球",
-        "away_water": "0.780",
-        "time": "04-22 15:04"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "1.600",
         "time": "04-21 19:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↓",
+        "handicap": "半球",
+        "away_water": "0.790↑",
+        "time": "04-24 02:35"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "半球",
+        "away_water": "0.780",
+        "time": "04-22 15:04"
       }
     },
     {
