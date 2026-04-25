@@ -24,7 +24,7 @@
       "lost": "2.65",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-25T06:00:56Z"
+    "fetched_at_utc": "2026-04-25T06:10:54Z"
   },
   "shuju": {
     "title": "AIK索尔纳VS马尔默(2026瑞典超)-数据分析-500彩票网",
@@ -492,22 +492,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↑",
-        "handicap": "平手",
-        "away_water": "1.000↓",
-        "time": "04-25 10:29"
-      },
-      "init": {
-        "home_water": "0.790",
-        "handicap": "平手",
-        "away_water": "1.010",
-        "time": "04-22 02:21"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -521,6 +505,22 @@
         "handicap": "平手",
         "away_water": "0.990",
         "time": "04-20 23:29"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↑",
+        "handicap": "平手",
+        "away_water": "1.000↓",
+        "time": "04-25 10:29"
+      },
+      "init": {
+        "home_water": "0.790",
+        "handicap": "平手",
+        "away_water": "1.010",
+        "time": "04-22 02:21"
       }
     },
     {
