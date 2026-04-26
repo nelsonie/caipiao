@@ -1,42 +1,6 @@
 {
-  "last_updated_utc": "2026-04-26T17:00:18Z",
+  "last_updated_utc": "2026-04-26T17:10:17Z",
   "matches": [
-    {
-      "xml_id": "2039358",
-      "matchnum": "7022",
-      "date": "2026-04-27",
-      "dayofweek": "星期一",
-      "league": "葡萄牙超级联赛",
-      "home": "圣克拉拉",
-      "away": "布拉加",
-      "spf_win": "1.58",
-      "spf_draw": "3.65",
-      "spf_lost": "4.50",
-      "spf_updated": "2026-04-26 22:43:25",
-      "gameid": "1216313",
-      "kickoff_cst": "2026-04-27 01:00",
-      "matchnum_label": "周日022",
-      "home_team_id": "470",
-      "away_team_id": "719"
-    },
-    {
-      "xml_id": "2039359",
-      "matchnum": "7023",
-      "date": "2026-04-27",
-      "dayofweek": "星期一",
-      "league": "葡萄牙超级联赛",
-      "home": "阿马多拉",
-      "away": "波尔图",
-      "spf_win": "3.62",
-      "spf_draw": "3.55",
-      "spf_lost": "1.75",
-      "spf_updated": "2026-04-26 17:12:42",
-      "gameid": "1216267",
-      "kickoff_cst": "2026-04-27 01:00",
-      "matchnum_label": "周日023",
-      "home_team_id": "551",
-      "away_team_id": "694"
-    },
     {
       "xml_id": "2039360",
       "matchnum": "7024",
@@ -128,24 +92,6 @@
       "away_team_id": "1000"
     },
     {
-      "xml_id": "2039365",
-      "matchnum": "7029",
-      "date": "2026-04-27",
-      "dayofweek": "星期一",
-      "league": "美国职业大联盟",
-      "home": "洛杉矶银河",
-      "away": "皇家盐湖城",
-      "spf_win": "4.80",
-      "spf_draw": "4.25",
-      "spf_lost": "1.46",
-      "spf_updated": "2026-04-25 09:37:59",
-      "gameid": "1358309",
-      "kickoff_cst": "2026-04-27 07:00",
-      "matchnum_label": "周日029",
-      "home_team_id": "1044",
-      "away_team_id": "2440"
-    },
-    {
       "xml_id": "2039366",
       "matchnum": "1001",
       "date": "2026-04-28",
@@ -162,24 +108,6 @@
       "matchnum_label": "周一001",
       "home_team_id": "917",
       "away_team_id": "1308"
-    },
-    {
-      "xml_id": "2039367",
-      "matchnum": "1002",
-      "date": "2026-04-28",
-      "dayofweek": "星期二",
-      "league": "瑞典超级联赛",
-      "home": "米亚尔比",
-      "away": "哈尔姆斯塔德",
-      "spf_win": "2.00",
-      "spf_draw": "3.50",
-      "spf_lost": "2.91",
-      "spf_updated": "2026-04-25 09:37:59",
-      "gameid": "1362643",
-      "kickoff_cst": "2026-04-28 01:00",
-      "matchnum_label": "周一002",
-      "home_team_id": "2465",
-      "away_team_id": "848"
     },
     {
       "xml_id": "2039368",
