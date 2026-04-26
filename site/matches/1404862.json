@@ -24,7 +24,7 @@
       "lost": "3.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T15:50:16Z"
+    "fetched_at_utc": "2026-04-26T16:00:19Z"
   },
   "shuju": {
     "title": "切尔西VS利兹联(2025/2026英足总杯)-数据分析-500彩票网",
@@ -704,22 +704,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "半球降",
-        "away_water": "0.830↓",
-        "time": "04-26 22:00"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "半球/一球",
-        "away_water": "0.950",
-        "time": "04-06 14:17"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -733,6 +717,22 @@
         "handicap": "一球",
         "away_water": "0.950",
         "time": "04-06 03:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "半球降",
+        "away_water": "0.830↓",
+        "time": "04-26 22:00"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "半球/一球",
+        "away_water": "0.950",
+        "time": "04-06 14:17"
       }
     },
     {
