@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-26T05:40:35Z",
+  "last_updated_utc": "2026-04-26T05:50:37Z",
   "matches": [
     {
       "xml_id": "2039337",
@@ -558,6 +558,24 @@
       "matchnum_label": "周一002",
       "home_team_id": "2465",
       "away_team_id": "848"
+    },
+    {
+      "xml_id": "2039368",
+      "matchnum": "1003",
+      "date": "2026-04-28",
+      "dayofweek": "星期二",
+      "league": "瑞典超级联赛",
+      "home": "赫根",
+      "away": "天狼星",
+      "spf_win": "5.30",
+      "spf_draw": "4.25",
+      "spf_lost": "1.42",
+      "spf_updated": "2026-04-25 09:37:59",
+      "gameid": "1362641",
+      "kickoff_cst": "2026-04-28 01:00",
+      "matchnum_label": "周一003",
+      "home_team_id": "850",
+      "away_team_id": "4067"
     },
     {
       "xml_id": "2039369",

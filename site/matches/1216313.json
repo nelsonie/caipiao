@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "受平手/半球升",
-      "home_water": "0.850↓",
-      "away_water": "0.770↓",
+      "home_water": "0.860↓",
+      "away_water": "0.790↓",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "1.76",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T05:40:25Z"
+    "fetched_at_utc": "2026-04-26T05:50:25Z"
   },
   "shuju": {
     "title": "圣克拉拉VS布拉加(2025/2026葡超)-数据分析-500彩票网",
@@ -595,10 +595,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.860↓",
         "handicap": "受平手/半球升",
-        "away_water": "0.770↓",
-        "time": "04-26 13:15"
+        "away_water": "0.790↓",
+        "time": "04-26 13:45"
       },
       "init": {
         "home_water": "0.880",
@@ -704,6 +704,22 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "受平手/半球升",
+        "away_water": "0.780↓",
+        "time": "04-26 13:34"
+      },
+      "init": {
+        "home_water": "0.630",
+        "handicap": "受半球/一球",
+        "away_water": "1.090",
+        "time": "04-20 18:55"
+      }
+    },
+    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -720,29 +736,13 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "受平手/半球升",
-        "away_water": "0.770↓",
-        "time": "04-26 12:17"
-      },
-      "init": {
-        "home_water": "0.630",
-        "handicap": "受半球/一球",
-        "away_water": "1.090",
-        "time": "04-20 18:55"
-      }
-    },
-    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "0.990↑",
         "handicap": "受平手/半球升",
-        "away_water": "0.910↓",
-        "time": "04-26 13:01"
+        "away_water": "0.920↓",
+        "time": "04-26 13:29"
       },
       "init": {
         "home_water": "0.820",
@@ -771,10 +771,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "0.990↑",
         "handicap": "受平手/半球升",
-        "away_water": "0.920↓",
-        "time": "04-26 13:05"
+        "away_water": "0.930↓",
+        "time": "04-26 13:36"
       },
       "init": {
         "home_water": "0.880",
@@ -821,8 +821,8 @@
       "live": {
         "home_water": "0.950↓",
         "handicap": "受平手/半球",
-        "away_water": "0.850↑",
-        "time": "04-26 13:08"
+        "away_water": "0.860↑",
+        "time": "04-26 13:35"
       },
       "init": {
         "home_water": "1.020",
