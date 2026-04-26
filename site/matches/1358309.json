@@ -24,7 +24,7 @@
       "lost": "2.42",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T07:00:28Z"
+    "fetched_at_utc": "2026-04-26T07:10:27Z"
   },
   "shuju": {
     "title": "洛杉矶银河VS皇家盐湖城(2026美职联)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.020↑",
-        "handicap": "平手/半球降",
-        "away_water": "0.820↓",
-        "time": "04-25 19:10"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "半球",
-        "away_water": "0.850",
-        "time": "04-15 18:33"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球",
         "away_water": "0.450",
         "time": "04-13 23:50"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "平手/半球降",
+        "away_water": "0.820↓",
+        "time": "04-25 19:10"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "半球",
+        "away_water": "0.850",
+        "time": "04-15 18:33"
       }
     },
     {
