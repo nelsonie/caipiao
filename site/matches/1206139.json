@@ -24,7 +24,7 @@
       "lost": "5.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T13:50:17Z"
+    "fetched_at_utc": "2026-04-26T14:00:13Z"
   },
   "shuju": {
     "title": "斯图加特VS云达不莱梅(2025/2026德甲)-数据分析-500彩票网",
@@ -368,9 +368,14 @@
         "formation": null,
         "starters": [
           {
-            "number": "8",
-            "name": "蒂亚戈·巴雷罗斯·德梅洛·托马斯",
+            "number": "26",
+            "name": "德尼兹·昂达夫",
             "position": "前锋"
+          },
+          {
+            "number": "18",
+            "name": "杰米·勒威林",
+            "position": "中场"
           },
           {
             "number": "11",
@@ -378,13 +383,8 @@
             "position": "中场"
           },
           {
-            "number": "26",
-            "name": "德尼兹·昂达夫",
-            "position": "中场"
-          },
-          {
-            "number": "18",
-            "name": "杰米·勒威林",
+            "number": "8",
+            "name": "蒂亚戈·巴雷罗斯·德梅洛·托马斯",
             "position": "中场"
           },
           {
@@ -403,13 +403,13 @@
             "position": "后卫"
           },
           {
-            "number": "14",
-            "name": "卢卡·贾克斯",
+            "number": "23",
+            "name": "丹-阿克塞尔·扎加杜",
             "position": "后卫"
           },
           {
-            "number": "23",
-            "name": "丹-阿克塞尔·扎加杜",
+            "number": "14",
+            "name": "卢卡·贾克斯",
             "position": "后卫"
           },
           {
@@ -487,8 +487,8 @@
             "position": "中场"
           },
           {
-            "number": "18",
-            "name": "卡梅伦·普尔塔斯",
+            "number": "6",
+            "name": "詹斯·斯塔格",
             "position": "中场"
           },
           {
@@ -502,8 +502,8 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "詹斯·斯塔格",
+            "number": "18",
+            "name": "卡梅伦·普尔塔斯",
             "position": "中场"
           },
           {
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.020↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.810↓",
-        "time": "04-26 21:29"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "一球",
-        "away_water": "0.960",
-        "time": "04-12 20:51"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "一球",
         "away_water": "0.990",
         "time": "04-13 04:58"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "一球/球半升",
+        "away_water": "0.810↓",
+        "time": "04-26 21:29"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "一球",
+        "away_water": "0.960",
+        "time": "04-12 20:51"
       }
     },
     {
