@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-26T18:00:16Z",
+  "last_updated_utc": "2026-04-26T18:10:15Z",
   "matches": [
     {
       "xml_id": "2039361",
@@ -108,24 +108,6 @@
       "matchnum_label": "周一001",
       "home_team_id": "917",
       "away_team_id": "1308"
-    },
-    {
-      "xml_id": "2039367",
-      "matchnum": "1002",
-      "date": "2026-04-28",
-      "dayofweek": "星期二",
-      "league": "瑞典超级联赛",
-      "home": "米亚尔比",
-      "away": "哈尔姆斯塔德",
-      "spf_win": "2.00",
-      "spf_draw": "3.50",
-      "spf_lost": "2.91",
-      "spf_updated": "2026-04-25 09:37:59",
-      "gameid": "1362643",
-      "kickoff_cst": "2026-04-28 01:00",
-      "matchnum_label": "周一002",
-      "home_team_id": "2465",
-      "away_team_id": "848"
     },
     {
       "xml_id": "2039368",
