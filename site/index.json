@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-26T12:50:35Z",
+  "last_updated_utc": "2026-04-26T13:00:35Z",
   "matches": [
     {
       "xml_id": "2039337",
@@ -351,10 +351,10 @@
       "league": "意大利甲级联赛",
       "home": "都灵",
       "away": "国际米兰",
-      "spf_win": "2.98",
-      "spf_draw": "3.40",
+      "spf_win": "2.88",
+      "spf_draw": "3.55",
       "spf_lost": "2.00",
-      "spf_updated": "2026-04-26 20:35:24",
+      "spf_updated": "2026-04-26 20:55:07",
       "gameid": "1199686",
       "kickoff_cst": "2026-04-27 00:00",
       "matchnum_label": "周日020",
@@ -578,24 +578,6 @@
       "away_team_id": "4067"
     },
     {
-      "xml_id": "2039369",
-      "matchnum": "1004",
-      "date": "2026-04-28",
-      "dayofweek": "星期二",
-      "league": "瑞典超级联赛",
-      "home": "AIK索尔纳",
-      "away": "马尔默",
-      "spf_win": "5.15",
-      "spf_draw": "4.00",
-      "spf_lost": "1.46",
-      "spf_updated": "2026-04-25 09:37:59",
-      "gameid": "1362638",
-      "kickoff_cst": "2026-04-28 01:00",
-      "matchnum_label": "周一004",
-      "home_team_id": "215",
-      "away_team_id": "1051"
-    },
-    {
       "xml_id": "2039370",
       "matchnum": "1005",
       "date": "2026-04-28",
@@ -612,24 +594,6 @@
       "matchnum_label": "周一005",
       "home_team_id": "964",
       "away_team_id": "1276"
-    },
-    {
-      "xml_id": "2039371",
-      "matchnum": "1006",
-      "date": "2026-04-28",
-      "dayofweek": "星期二",
-      "league": "法国乙级联赛",
-      "home": "布洛涅",
-      "away": "敦刻尔克",
-      "spf_win": "1.43",
-      "spf_draw": "3.90",
-      "spf_lost": "5.75",
-      "spf_updated": "2026-04-25 09:37:59",
-      "gameid": "1278462",
-      "kickoff_cst": "2026-04-28 02:45",
-      "matchnum_label": "周一006",
-      "home_team_id": "706",
-      "away_team_id": "3962"
     },
     {
       "xml_id": "2039372",
