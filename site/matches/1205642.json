@@ -24,7 +24,7 @@
       "lost": "1.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T07:40:20Z"
+    "fetched_at_utc": "2026-04-26T07:50:18Z"
   },
   "shuju": {
     "title": "巴黎FCVS里尔(2025/2026法甲)-数据分析-500彩票网",
@@ -637,22 +637,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.720↓",
-        "handicap": "受半球/一球降",
-        "away_water": "0.980↑",
-        "time": "04-26 13:13"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "受平手/半球",
-        "away_water": "0.750",
-        "time": "04-13 05:38"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -666,6 +650,22 @@
         "handicap": "受半球",
         "away_water": "1.010",
         "time": "04-13 17:50"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.720↓",
+        "handicap": "受半球/一球降",
+        "away_water": "0.980↑",
+        "time": "04-26 13:13"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "受平手/半球",
+        "away_water": "0.750",
+        "time": "04-13 05:38"
       }
     },
     {
@@ -768,10 +768,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "1.040↑",
+        "home_water": "1.050↑",
         "handicap": "受半球",
-        "away_water": "0.860↓",
-        "time": "04-26 15:31"
+        "away_water": "0.850↓",
+        "time": "04-26 15:40"
       },
       "init": {
         "home_water": "0.840",
@@ -2010,7 +2010,7 @@
     {
       "cid": "1259",
       "company": "1x**t",
-      "time": "2026-04-26 13:13:42",
+      "time": "2026-04-26 15:37:38",
       "odds": {
         "live": [
           "3.71",
