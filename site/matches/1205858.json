@@ -24,7 +24,7 @@
       "lost": "7.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T10:00:21Z"
+    "fetched_at_utc": "2026-04-26T10:10:22Z"
   },
   "shuju": {
     "title": "雷恩VS南特(2025/2026法甲)-数据分析-500彩票网",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.050↑",
-        "handicap": "一球/球半",
-        "away_water": "0.830↑",
-        "time": "04-26 16:48"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "一球/球半",
-        "away_water": "0.820",
-        "time": "04-13 06:58"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "一球/球半",
         "away_water": "0.800",
         "time": "04-13 05:38"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.050↑",
+        "handicap": "一球/球半",
+        "away_water": "0.830↑",
+        "time": "04-26 16:48"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "一球/球半",
+        "away_water": "0.820",
+        "time": "04-13 06:58"
       }
     },
     {
@@ -1967,7 +1967,7 @@
     {
       "cid": "18",
       "company": "必*",
-      "time": "2026-04-26 16:40:11",
+      "time": "2026-04-26 18:05:06",
       "odds": {
         "live": [
           "1.44",
