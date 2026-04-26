@@ -24,7 +24,7 @@
       "lost": "3.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T14:30:19Z"
+    "fetched_at_utc": "2026-04-26T14:40:14Z"
   },
   "shuju": {
     "title": "切尔西VS利兹联(2025/2026英足总杯)-数据分析-500彩票网",
@@ -394,13 +394,13 @@
             "position": "中场"
           },
           {
-            "number": "45",
-            "name": "罗密欧·拉维亚",
+            "number": "25",
+            "name": "莫伊塞斯·凯塞多",
             "position": "中场"
           },
           {
-            "number": "25",
-            "name": "莫伊塞斯·凯塞多",
+            "number": "45",
+            "name": "罗密欧·拉维亚",
             "position": "中场"
           },
           {
@@ -540,11 +540,6 @@
         ],
         "subs": [
           {
-            "number": "14",
-            "name": "卢卡斯·恩梅查",
-            "position": "前锋"
-          },
-          {
             "number": "8",
             "name": "肖恩·朗斯塔夫",
             "position": "中场"
@@ -570,6 +565,11 @@
             "position": "守门员"
           },
           {
+            "number": "10",
+            "name": "乔尔·皮罗",
+            "position": "前锋"
+          },
+          {
             "number": "6",
             "name": "乔·罗登",
             "position": "后卫"
@@ -580,8 +580,8 @@
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "乔尔·皮罗",
+            "number": "14",
+            "name": "卢卡斯·恩梅查",
             "position": "前锋"
           }
         ],
@@ -704,22 +704,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.760↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.130↑",
-        "time": "04-26 22:00"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "一球",
-        "away_water": "0.950",
-        "time": "04-06 03:55"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -733,6 +717,22 @@
         "handicap": "半球/一球",
         "away_water": "0.950",
         "time": "04-06 14:17"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.760↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.130↑",
+        "time": "04-26 22:00"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "一球",
+        "away_water": "0.950",
+        "time": "04-06 03:55"
       }
     },
     {
