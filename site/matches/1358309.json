@@ -24,7 +24,7 @@
       "lost": "2.42",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T18:40:11Z"
+    "fetched_at_utc": "2026-04-26T18:50:09Z"
   },
   "shuju": {
     "title": "洛杉矶银河VS皇家盐湖城(2026美职联)-数据分析-500彩票网",
@@ -667,10 +667,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.800↓",
+        "home_water": "0.770↓",
         "handicap": "平手降",
-        "away_water": "1.000↑",
-        "time": "04-27 02:13"
+        "away_water": "1.020↑",
+        "time": "04-27 02:44"
       },
       "init": {
         "home_water": "0.950",
@@ -699,10 +699,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.860↓",
+        "home_water": "0.850↓",
         "handicap": "平手降",
-        "away_water": "1.020↑",
-        "time": "04-27 02:08"
+        "away_water": "1.030↑",
+        "time": "04-27 02:43"
       },
       "init": {
         "home_water": "0.960",
@@ -715,32 +715,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.870↓",
         "handicap": "平手降",
-        "away_water": "1.090↑",
-        "time": "04-27 00:39"
+        "away_water": "1.060↑",
+        "time": "04-27 02:42"
       },
       "init": {
         "home_water": "1.080",
         "handicap": "平手/半球",
         "away_water": "0.830",
         "time": "04-24 08:15"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.790↓",
-        "handicap": "平手降",
-        "away_water": "1.050↑",
-        "time": "04-27 02:13"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "半球",
-        "away_water": "0.850",
-        "time": "04-15 18:33"
       }
     },
     {
@@ -757,6 +741,22 @@
         "handicap": "一球",
         "away_water": "0.450",
         "time": "04-13 23:50"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "平手降",
+        "away_water": "1.040↑",
+        "time": "04-27 02:42"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "半球",
+        "away_water": "0.850",
+        "time": "04-15 18:33"
       }
     },
     {
@@ -779,10 +779,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.830↓",
+        "home_water": "0.860↓",
         "handicap": "平手降",
-        "away_water": "1.090↑",
-        "time": "04-27 00:45"
+        "away_water": "1.060↑",
+        "time": "04-27 02:41"
       },
       "init": {
         "home_water": "0.970",
@@ -795,10 +795,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.870↓",
         "handicap": "平手降",
-        "away_water": "1.070↑",
-        "time": "04-27 02:20"
+        "away_water": "1.050↑",
+        "time": "04-27 02:47"
       },
       "init": {
         "home_water": "0.900",
@@ -827,10 +827,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.870↓",
         "handicap": "平手降",
-        "away_water": "1.080↑",
-        "time": "04-27 01:16"
+        "away_water": "1.050↑",
+        "time": "04-27 02:43"
       },
       "init": {
         "home_water": "1.040",
@@ -843,10 +843,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.790↓",
+        "home_water": "0.800↓",
         "handicap": "平手降",
-        "away_water": "1.020↑",
-        "time": "04-27 01:54"
+        "away_water": "1.010↑",
+        "time": "04-27 02:25"
       },
       "init": {
         "home_water": "0.890",
@@ -862,7 +862,7 @@
         "home_water": "0.860↓",
         "handicap": "平手降",
         "away_water": "1.040↑",
-        "time": "04-27 02:09"
+        "time": "04-27 02:44"
       },
       "init": {
         "home_water": "0.990",
@@ -2003,7 +2003,7 @@
     {
       "cid": "18",
       "company": "必*",
-      "time": "2026-04-27 02:00:55",
+      "time": "2026-04-27 02:42:06",
       "odds": {
         "live": [
           "1.95",
@@ -2011,9 +2011,9 @@
           "3.40"
         ],
         "init": [
-          "2.46",
+          "2.50",
           "3.95",
-          "2.88"
+          "2.84"
         ]
       },
       "prob": {
@@ -2023,9 +2023,9 @@
           "26.92%"
         ],
         "init": [
-          "40.37%",
-          "25.14%",
-          "34.48%"
+          "39.79%",
+          "25.18%",
+          "35.03%"
         ]
       },
       "ret": {
@@ -2033,7 +2033,7 @@
           "91.52%"
         ],
         "init": [
-          "99.32%"
+          "99.48%"
         ]
       },
       "kelly": {
@@ -2043,9 +2043,9 @@
           "1.15"
         ],
         "init": [
-          "1.00",
           "1.01",
-          "0.98"
+          "1.01",
+          "0.96"
         ]
       }
     },
