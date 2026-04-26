@@ -24,13 +24,13 @@
       "lost": "3.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T16:50:18Z"
+    "fetched_at_utc": "2026-04-26T17:00:18Z"
   },
   "shuju": {
     "title": "西班牙人VS莱万特(2025/2026西甲)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，西班牙人 3胜 2平 1负 ，进13球，失10球，大球4次，小球2次",
     "team_ranks": [
-      "西班牙人 [西甲13]",
+      "西班牙人 [西甲14]",
       "莱万特 [西甲19]"
     ],
     "h2h_rows": [
@@ -746,22 +746,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↓",
-        "handicap": "半球降",
-        "away_water": "0.870↑",
-        "time": "04-27 00:08"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "半球/一球",
-        "away_water": "0.830",
-        "time": "04-13 03:37"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -775,6 +759,22 @@
         "handicap": "一球",
         "away_water": "0.540",
         "time": "04-12 22:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↓",
+        "handicap": "半球降",
+        "away_water": "0.870↑",
+        "time": "04-27 00:08"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "半球/一球",
+        "away_water": "0.830",
+        "time": "04-13 03:37"
       }
     },
     {
