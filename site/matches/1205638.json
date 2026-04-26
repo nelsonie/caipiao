@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "一球升",
-      "home_water": "0.910↑",
-      "away_water": "0.750↓",
+      "home_water": "0.920↑",
+      "away_water": "0.730↓",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "5.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T13:40:18Z"
+    "fetched_at_utc": "2026-04-26T13:50:20Z"
   },
   "shuju": {
     "title": "勒阿弗尔VS梅斯(2025/2026法甲)-数据分析-500彩票网",
@@ -578,10 +578,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.920↑",
         "handicap": "一球升",
-        "away_water": "0.750↓",
-        "time": "04-26 21:16"
+        "away_water": "0.730↓",
+        "time": "04-26 21:45"
       },
       "init": {
         "home_water": "0.840",
@@ -626,10 +626,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.980↑",
         "handicap": "一球升",
-        "away_water": "0.900↓",
-        "time": "04-26 21:32"
+        "away_water": "0.880↓",
+        "time": "04-26 21:47"
       },
       "init": {
         "home_water": "0.930",
@@ -642,10 +642,10 @@
       "cid": "4",
       "company": "I***rw**t*n",
       "live": {
-        "home_water": "0.950",
+        "home_water": "0.900↓",
         "handicap": "一球升",
         "away_water": "0.800↓",
-        "time": "04-26 21:24"
+        "time": "04-26 21:43"
       },
       "init": {
         "home_water": "0.950",
@@ -661,7 +661,7 @@
         "home_water": "0.970↑",
         "handicap": "一球升",
         "away_water": "0.910↓",
-        "time": "04-26 21:29"
+        "time": "04-26 21:48"
       },
       "init": {
         "home_water": "0.940",
@@ -687,35 +687,35 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "一球升",
-        "away_water": "0.890↓",
-        "time": "04-26 21:06"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "半球",
-        "away_water": "0.920",
-        "time": "04-13 06:43"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
-        "home_water": "0.950↓",
+        "home_water": "0.940↓",
         "handicap": "一球升",
-        "away_water": "0.850↑",
-        "time": "04-26 21:25"
+        "away_water": "0.860↑",
+        "time": "04-26 21:43"
       },
       "init": {
         "home_water": "1.120",
         "handicap": "半球/一球",
         "away_water": "0.660",
         "time": "04-13 06:56"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "一球升",
+        "away_water": "0.900↓",
+        "time": "04-26 21:41"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "半球",
+        "away_water": "0.920",
+        "time": "04-13 06:43"
       }
     },
     {
@@ -754,10 +754,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.000↑",
         "handicap": "一球升",
-        "away_water": "0.910↓",
-        "time": "04-26 21:29"
+        "away_water": "0.920↓",
+        "time": "04-26 21:44"
       },
       "init": {
         "home_water": "0.950",
@@ -802,10 +802,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.930↑",
         "handicap": "一球升",
-        "away_water": "0.860↑",
-        "time": "04-26 21:29"
+        "away_water": "0.870↑",
+        "time": "04-26 21:45"
       },
       "init": {
         "home_water": "0.910",
@@ -818,10 +818,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.960↑",
         "handicap": "一球升",
-        "away_water": "0.930↓",
-        "time": "04-26 21:34"
+        "away_water": "0.940",
+        "time": "04-26 21:40"
       },
       "init": {
         "home_water": "0.940",
@@ -1073,7 +1073,7 @@
         "init": [
           "0.92",
           "1.02",
-          "0.98"
+          "0.97"
         ]
       }
     },
@@ -1117,12 +1117,12 @@
         "live": [
           "1.16",
           "0.83",
-          "0.70"
+          "0.69"
         ],
         "init": [
           "0.93",
           "0.99",
-          "0.98"
+          "0.97"
         ]
       }
     },
@@ -1562,7 +1562,7 @@
         ],
         "init": [
           "0.92",
-          "0.95",
+          "0.96",
           "0.98"
         ]
       }
@@ -1612,7 +1612,7 @@
         "init": [
           "0.92",
           "0.99",
-          "0.98"
+          "0.97"
         ]
       }
     },
@@ -2004,7 +2004,7 @@
         "init": [
           "0.96",
           "1.01",
-          "1.09"
+          "1.08"
         ]
       }
     },
@@ -2053,7 +2053,7 @@
         "init": [
           "0.94",
           "0.97",
-          "0.98"
+          "0.97"
         ]
       }
     },
