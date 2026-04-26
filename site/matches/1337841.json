@@ -24,7 +24,7 @@
       "lost": "3.56",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T11:00:08Z"
+    "fetched_at_utc": "2026-04-26T11:10:09Z"
   },
   "shuju": {
     "title": "墨尔本城VS阿德莱德联(2025/2026澳超)-数据分析-500彩票网",
@@ -316,7 +316,14 @@
       }
     },
     "future_fixtures": {
-      "home": [],
+      "home": [
+        {
+          "赛事": "澳超",
+          "比赛日期": "2026-05-01",
+          "主队 客队": "奥克兰FC VS 墨尔本城",
+          "相隔": "5天"
+        }
+      ],
       "away": []
     },
     "lineup": {
@@ -634,22 +641,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "平手/半球降",
-        "away_water": "0.970↑",
-        "time": "04-26 15:30"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "半球",
-        "away_water": "0.900",
-        "time": "04-21 08:47"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -663,6 +654,22 @@
         "handicap": "半球/一球",
         "away_water": "0.640",
         "time": "04-19 15:27"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "平手/半球降",
+        "away_water": "0.970↑",
+        "time": "04-26 15:30"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "半球",
+        "away_water": "0.900",
+        "time": "04-21 08:47"
       }
     },
     {
