@@ -9,8 +9,8 @@
     "kickoff_cst": "2026-04-27 03:00",
     "spf": {
       "win": "3.35",
-      "draw": "3.44",
-      "lost": "1.85"
+      "draw": "3.35",
+      "lost": "1.88"
     },
     "asia_main": {
       "handicap": "半球降",
@@ -24,7 +24,7 @@
       "lost": "3.66",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T11:50:29Z"
+    "fetched_at_utc": "2026-04-26T12:00:27Z"
   },
   "shuju": {
     "title": "比利亚雷亚尔VS维戈塞尔塔(2025/2026西甲)-数据分析-500彩票网",
@@ -741,22 +741,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "半球降",
-        "away_water": "0.950↑",
-        "time": "04-26 18:44"
-      },
-      "init": {
-        "home_water": "1.020",
-        "handicap": "半球/一球",
-        "away_water": "0.850",
-        "time": "04-13 03:37"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -770,6 +754,22 @@
         "handicap": "一球",
         "away_water": "0.580",
         "time": "04-12 22:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "半球降",
+        "away_water": "0.950↑",
+        "time": "04-26 18:44"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "半球/一球",
+        "away_water": "0.850",
+        "time": "04-13 03:37"
       }
     },
     {
