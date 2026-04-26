@@ -24,7 +24,7 @@
       "lost": "3.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T06:00:16Z"
+    "fetched_at_utc": "2026-04-26T06:10:23Z"
   },
   "shuju": {
     "title": "莫尔德VS瓦勒伦加(2026挪超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↓",
-        "handicap": "半球",
-        "away_water": "0.900↑",
-        "time": "04-26 11:26"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "半球",
-        "away_water": "0.830",
-        "time": "04-21 08:17"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球",
         "away_water": "0.600",
         "time": "04-20 01:54"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↓",
+        "handicap": "半球",
+        "away_water": "0.900↑",
+        "time": "04-26 11:26"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "半球",
+        "away_water": "0.830",
+        "time": "04-21 08:17"
       }
     },
     {
