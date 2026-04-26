@@ -8,9 +8,9 @@
     "away": "科莫",
     "kickoff_cst": "2026-04-26 21:00",
     "spf": {
-      "win": "2.00",
-      "draw": "3.25",
-      "lost": "3.12"
+      "win": "2.06",
+      "draw": "3.15",
+      "lost": "3.06"
     },
     "asia_main": {
       "handicap": "受半球/一球",
@@ -24,7 +24,7 @@
       "lost": "1.77",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T09:40:13Z"
+    "fetched_at_utc": "2026-04-26T09:50:15Z"
   },
   "shuju": {
     "title": "热那亚VS科莫(2025/2026意甲)-数据分析-500彩票网",
@@ -729,22 +729,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "受半球/一球升",
-        "away_water": "0.990↓",
-        "time": "04-26 16:50"
-      },
-      "init": {
-        "home_water": "0.630",
-        "handicap": "受一球",
-        "away_water": "1.180",
-        "time": "04-13 00:16"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -758,6 +742,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.960",
         "time": "04-13 03:18"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.990↓",
+        "time": "04-26 16:50"
+      },
+      "init": {
+        "home_water": "0.630",
+        "handicap": "受一球",
+        "away_water": "1.180",
+        "time": "04-13 00:16"
       }
     },
     {

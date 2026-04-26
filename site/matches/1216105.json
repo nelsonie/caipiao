@@ -24,7 +24,7 @@
       "lost": "2.43",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T09:40:10Z"
+    "fetched_at_utc": "2026-04-26T09:50:12Z"
   },
   "shuju": {
     "title": "巴列卡诺VS皇家社会(2025/2026西甲)-数据分析-500彩票网",
@@ -747,6 +747,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.070↑",
+        "handicap": "平手",
+        "away_water": "0.810↓",
+        "time": "04-26 17:35"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "平手",
+        "away_water": "1.040",
+        "time": "04-13 03:08"
+      }
+    },
+    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -760,22 +776,6 @@
         "handicap": "平手",
         "away_water": "1.060",
         "time": "04-12 21:54"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.060↑",
-        "handicap": "平手",
-        "away_water": "0.820↓",
-        "time": "04-26 17:22"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "平手",
-        "away_water": "1.040",
-        "time": "04-13 03:08"
       }
     },
     {
@@ -814,10 +814,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "1.080↑",
+        "home_water": "1.090↑",
         "handicap": "平手",
-        "away_water": "0.850↓",
-        "time": "04-26 17:21"
+        "away_water": "0.840↓",
+        "time": "04-26 17:37"
       },
       "init": {
         "home_water": "0.810",
