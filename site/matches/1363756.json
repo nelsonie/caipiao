@@ -24,7 +24,7 @@
       "lost": "3.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T13:10:15Z"
+    "fetched_at_utc": "2026-04-26T13:20:13Z"
   },
   "shuju": {
     "title": "莫尔德VS瓦勒伦加(2026挪超)-数据分析-500彩票网",
@@ -398,11 +398,6 @@
         "formation": null,
         "starters": [
           {
-            "number": "10",
-            "name": "埃米尔·布雷维克",
-            "position": "前锋"
-          },
-          {
             "number": "8",
             "name": "古尔布兰德森",
             "position": "前锋"
@@ -413,8 +408,13 @@
             "position": "中场"
           },
           {
-            "number": "15",
-            "name": "韦乔恩·霍夫",
+            "number": "10",
+            "name": "埃米尔·布雷维克",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "埃里克·赫斯塔德",
             "position": "中场"
           },
           {
@@ -423,8 +423,8 @@
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "埃里克·赫斯塔德",
+            "number": "15",
+            "name": "韦乔恩·霍夫",
             "position": "中场"
           },
           {
@@ -718,22 +718,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.030",
-        "handicap": "半球",
-        "away_water": "0.780↓",
-        "time": "04-26 20:30"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "半球",
-        "away_water": "0.830",
-        "time": "04-21 08:17"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -747,6 +731,22 @@
         "handicap": "一球",
         "away_water": "0.600",
         "time": "04-20 01:54"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.030",
+        "handicap": "半球",
+        "away_water": "0.780↓",
+        "time": "04-26 20:30"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "半球",
+        "away_water": "0.830",
+        "time": "04-21 08:17"
       }
     },
     {

@@ -24,7 +24,7 @@
       "lost": "3.02",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T13:10:16Z"
+    "fetched_at_utc": "2026-04-26T13:20:14Z"
   },
   "shuju": {
     "title": "洛里昂VS斯特拉斯堡(2025/2026法甲)-数据分析-500彩票网",
@@ -380,28 +380,23 @@
         "formation": null,
         "starters": [
           {
-            "number": "10",
-            "name": "巴布罗·帕吉斯",
-            "position": "前锋"
-          },
-          {
             "number": "12",
             "name": "班巴·迪昂",
             "position": "前锋"
           },
           {
+            "number": "10",
+            "name": "巴布罗·帕吉斯",
+            "position": "中场"
+          },
+          {
             "number": "17",
             "name": "让·维克托·玛肯戈",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "43",
             "name": "坎·盖伊·阿尔塞纳·库阿西",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "诺亚·卡迪欧",
             "position": "中场"
           },
           {
@@ -410,18 +405,23 @@
             "position": "中场"
           },
           {
+            "number": "8",
+            "name": "诺亚·卡迪欧",
+            "position": "中场"
+          },
+          {
             "number": "77",
             "name": "帕诺斯·卡瑟里斯",
             "position": "中场"
           },
           {
-            "number": "32",
-            "name": "纳撒尼尔·阿杰",
+            "number": "25",
+            "name": "阿卜杜拉耶·法耶",
             "position": "后卫"
           },
           {
-            "number": "25",
-            "name": "阿卜杜拉耶·法耶",
+            "number": "32",
+            "name": "纳撒尼尔·阿杰",
             "position": "后卫"
           },
           {
@@ -442,9 +442,9 @@
             "position": "中场"
           },
           {
-            "number": "21",
-            "name": "宾古鲁·卡马拉",
-            "position": "守门员"
+            "number": "9",
+            "name": "穆罕默德·班巴",
+            "position": "前锋"
           },
           {
             "number": "29",
@@ -477,9 +477,9 @@
             "position": "后卫"
           },
           {
-            "number": "9",
-            "name": "穆罕默德·班巴",
-            "position": "前锋"
+            "number": "21",
+            "name": "宾古鲁·卡马拉",
+            "position": "守门员"
           }
         ],
         "injured": [],
@@ -494,6 +494,11 @@
             "position": "前锋"
           },
           {
+            "number": "80",
+            "name": "盖西姆·亚辛",
+            "position": "中场"
+          },
+          {
             "number": "11",
             "name": "塞巴斯蒂安·纳纳西",
             "position": "中场"
@@ -504,16 +509,6 @@
             "position": "中场"
           },
           {
-            "number": "80",
-            "name": "盖西姆·亚辛",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "马克西·奥耶德勒",
-            "position": "中场"
-          },
-          {
             "number": "29",
             "name": "萨米尔·埃尔-穆拉贝特",
             "position": "中场"
@@ -521,6 +516,11 @@
           {
             "number": "83",
             "name": "拉斐尔·路易斯",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "马克西·奥耶德勒",
             "position": "后卫"
           },
           {
