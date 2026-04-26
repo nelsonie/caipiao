@@ -24,7 +24,7 @@
       "lost": "3.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T12:00:08Z"
+    "fetched_at_utc": "2026-04-26T12:10:07Z"
   },
   "shuju": {
     "title": "佛罗伦萨VS萨索洛(2025/2026意甲)-数据分析-500彩票网",
@@ -490,7 +490,7 @@
           {
             "number": "45",
             "name": "阿曼德·劳伦特",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "99",
@@ -500,7 +500,7 @@
           {
             "number": "7",
             "name": "克里斯蒂安·沃尔帕托",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "42",
@@ -611,7 +611,7 @@
           },
           {
             "number": "33",
-            "name": "克里斯蒂安·弗兰格拉",
+            "name": "C·弗兰盖拉",
             "position": "中场"
           }
         ],
@@ -734,22 +734,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.740↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.190↑",
-        "time": "04-26 18:31"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "半球/一球",
-        "away_water": "0.840",
-        "time": "04-12 23:49"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -763,6 +747,22 @@
         "handicap": "半球/一球",
         "away_water": "0.910",
         "time": "04-13 03:59"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.740↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.190↑",
+        "time": "04-26 18:31"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "半球/一球",
+        "away_water": "0.840",
+        "time": "04-12 23:49"
       }
     },
     {
