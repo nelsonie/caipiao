@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-26T09:30:34Z",
+  "last_updated_utc": "2026-04-26T09:40:36Z",
   "matches": [
     {
       "xml_id": "2039337",
@@ -578,6 +578,24 @@
       "away_team_id": "4067"
     },
     {
+      "xml_id": "2039369",
+      "matchnum": "1004",
+      "date": "2026-04-28",
+      "dayofweek": "星期二",
+      "league": "瑞典超级联赛",
+      "home": "AIK索尔纳",
+      "away": "马尔默",
+      "spf_win": "5.15",
+      "spf_draw": "4.00",
+      "spf_lost": "1.46",
+      "spf_updated": "2026-04-25 09:37:59",
+      "gameid": "1362638",
+      "kickoff_cst": "2026-04-28 01:00",
+      "matchnum_label": "周一004",
+      "home_team_id": "215",
+      "away_team_id": "1051"
+    },
+    {
       "xml_id": "2039370",
       "matchnum": "1005",
       "date": "2026-04-28",
@@ -614,24 +632,6 @@
       "away_team_id": "3962"
     },
     {
-      "xml_id": "2039372",
-      "matchnum": "1007",
-      "date": "2026-04-28",
-      "dayofweek": "星期二",
-      "league": "英格兰超级联赛",
-      "home": "曼彻斯特联",
-      "away": "布伦特福德",
-      "spf_win": "2.96",
-      "spf_draw": "3.65",
-      "spf_lost": "1.93",
-      "spf_updated": "2026-04-25 11:10:25",
-      "gameid": "1202498",
-      "kickoff_cst": "2026-04-28 03:00",
-      "matchnum_label": "周一007",
-      "home_team_id": "1075",
-      "away_team_id": "1361"
-    },
-    {
       "xml_id": "2039373",
       "matchnum": "1008",
       "date": "2026-04-28",
@@ -648,24 +648,6 @@
       "matchnum_label": "周一008",
       "home_team_id": "1283",
       "away_team_id": "985"
-    },
-    {
-      "xml_id": "2039374",
-      "matchnum": "1009",
-      "date": "2026-04-28",
-      "dayofweek": "星期二",
-      "league": "葡萄牙超级联赛",
-      "home": "吉维森特",
-      "away": "卡萨皮亚",
-      "spf_win": "2.70",
-      "spf_draw": "3.20",
-      "spf_lost": "2.25",
-      "spf_updated": "2026-04-25 09:37:59",
-      "gameid": "1216351",
-      "kickoff_cst": "2026-04-28 03:15",
-      "matchnum_label": "周一009",
-      "home_team_id": "1263",
-      "away_team_id": "3928"
     }
   ]
 }
