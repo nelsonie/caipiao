@@ -24,7 +24,7 @@
       "lost": "2.36",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T15:40:19Z"
+    "fetched_at_utc": "2026-04-26T15:50:17Z"
   },
   "shuju": {
     "title": "哥德堡VS哥德堡盖斯(2026瑞典超)-数据分析-500彩票网",
@@ -465,11 +465,6 @@
             "position": "前锋"
           },
           {
-            "number": "26",
-            "name": "布兰特林德",
-            "position": "中场"
-          },
-          {
             "number": "7",
             "name": "塞巴斯蒂安·克莱门森",
             "position": "前锋"
@@ -498,6 +493,11 @@
             "number": "22",
             "name": "诺亚·托尔夫",
             "position": "后卫"
+          },
+          {
+            "number": "26",
+            "name": "布兰特林德",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -512,13 +512,13 @@
             "position": "前锋"
           },
           {
-            "number": "26",
-            "name": "布莱辛·阿苏芒·丹夸",
+            "number": "20",
+            "name": "萨穆·萨尔特尔",
             "position": "前锋"
           },
           {
-            "number": "20",
-            "name": "萨穆·萨尔特尔",
+            "number": "26",
+            "name": "布莱辛·阿苏芒·丹夸",
             "position": "前锋"
           },
           {
@@ -564,21 +564,6 @@
         ],
         "subs": [
           {
-            "number": "24",
-            "name": "菲利普·贝克曼",
-            "position": "后卫"
-          },
-          {
-            "number": "22",
-            "name": "阿内斯·卡尔达克利亚",
-            "position": "后卫"
-          },
-          {
-            "number": "28",
-            "name": "L·赫德伦德",
-            "position": "前锋"
-          },
-          {
             "number": "25",
             "name": "乔纳斯·林德伯格",
             "position": "中场"
@@ -597,6 +582,21 @@
             "number": "5",
             "name": "罗宾·温丁·托马森",
             "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "阿内斯·卡尔达克利亚",
+            "position": "后卫"
+          },
+          {
+            "number": "24",
+            "name": "菲利普·贝克曼",
+            "position": "后卫"
+          },
+          {
+            "number": "28",
+            "name": "L·赫德伦德",
+            "position": "前锋"
           },
           {
             "number": "27",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "平手",
-        "away_water": "0.900↓",
-        "time": "04-26 22:16"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "平手",
-        "away_water": "0.980",
-        "time": "04-20 23:05"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "1.060",
         "time": "04-21 00:17"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "平手",
+        "away_water": "0.900↓",
+        "time": "04-26 22:16"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "平手",
+        "away_water": "0.980",
+        "time": "04-20 23:05"
       }
     },
     {

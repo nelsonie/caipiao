@@ -24,7 +24,7 @@
       "lost": "7.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T15:40:19Z"
+    "fetched_at_utc": "2026-04-26T15:50:21Z"
   },
   "shuju": {
     "title": "雷恩VS南特(2025/2026法甲)-数据分析-500彩票网",
@@ -374,7 +374,7 @@
           {
             "number": "11",
             "name": "穆萨·塔马里",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "45",
@@ -471,6 +471,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "66",
+            "name": "路易斯·勒鲁",
+            "position": "前锋"
+          },
+          {
             "number": "37",
             "name": "伊戈纳图斯·加纳戈",
             "position": "前锋"
@@ -481,18 +486,13 @@
             "position": "前锋"
           },
           {
-            "number": "66",
-            "name": "路易斯·勒鲁",
+            "number": "8",
+            "name": "约翰·勒彭南",
             "position": "中场"
           },
           {
             "number": "28",
             "name": "易卜拉希马·西索科",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "约翰·勒彭南",
             "position": "中场"
           },
           {
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.070↑",
-        "handicap": "一球/球半",
-        "away_water": "0.820↑",
-        "time": "04-26 23:08"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "一球/球半",
-        "away_water": "0.800",
-        "time": "04-13 05:38"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "一球/球半",
         "away_water": "0.820",
         "time": "04-13 06:58"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.070↑",
+        "handicap": "一球/球半",
+        "away_water": "0.820↑",
+        "time": "04-26 23:08"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "一球/球半",
+        "away_water": "0.800",
+        "time": "04-13 05:38"
       }
     },
     {

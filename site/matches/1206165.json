@@ -24,7 +24,7 @@
       "lost": "6.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T15:40:22Z"
+    "fetched_at_utc": "2026-04-26T15:50:17Z"
   },
   "shuju": {
     "title": "多特蒙德VS弗赖堡(2025/2026德甲)-数据分析-500彩票网",
@@ -379,13 +379,13 @@
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "朱利安·布兰特",
+            "number": "40",
+            "name": "萨缪尔·伊纳西奥",
             "position": "中场"
           },
           {
-            "number": "40",
-            "name": "萨缪尔·伊纳西奥",
+            "number": "10",
+            "name": "朱利安·布兰特",
             "position": "中场"
           },
           {
@@ -518,13 +518,13 @@
             "position": "后卫"
           },
           {
-            "number": "43",
-            "name": "布鲁诺·伊弗丘库·奥格布斯",
+            "number": "3",
+            "name": "菲利普·林哈特",
             "position": "后卫"
           },
           {
-            "number": "3",
-            "name": "菲利普·林哈特",
+            "number": "43",
+            "name": "布鲁诺·伊弗丘库·奥格布斯",
             "position": "后卫"
           },
           {
@@ -699,22 +699,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.940↑",
-        "time": "04-26 23:26"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "一球",
-        "away_water": "0.910",
-        "time": "04-12 20:51"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -728,6 +712,22 @@
         "handicap": "一球",
         "away_water": "0.900",
         "time": "04-13 03:52"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "一球/球半升",
+        "away_water": "0.940↑",
+        "time": "04-26 23:26"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "一球",
+        "away_water": "0.910",
+        "time": "04-12 20:51"
       }
     },
     {

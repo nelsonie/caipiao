@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-26T15:40:35Z",
+  "last_updated_utc": "2026-04-26T15:50:36Z",
   "matches": [
     {
       "xml_id": "2039337",
@@ -90,24 +90,6 @@
       "matchnum_label": "周日008",
       "home_team_id": "1355",
       "away_team_id": "852"
-    },
-    {
-      "xml_id": "2039345",
-      "matchnum": "7009",
-      "date": "2026-04-26",
-      "dayofweek": "星期天",
-      "league": "挪威超级联赛",
-      "home": "莫尔德",
-      "away": "瓦勒伦加",
-      "spf_win": "3.34",
-      "spf_draw": "3.92",
-      "spf_lost": "1.74",
-      "spf_updated": "2026-04-26 20:12:10",
-      "gameid": "1363756",
-      "kickoff_cst": "2026-04-26 20:30",
-      "matchnum_label": "周日009",
-      "home_team_id": "1109",
-      "away_team_id": "1242"
     },
     {
       "xml_id": "2039346",

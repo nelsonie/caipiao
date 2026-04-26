@@ -24,7 +24,7 @@
       "lost": "5.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T15:40:19Z"
+    "fetched_at_utc": "2026-04-26T15:50:20Z"
   },
   "shuju": {
     "title": "勒阿弗尔VS梅斯(2025/2026法甲)-数据分析-500彩票网",
@@ -362,28 +362,28 @@
         "formation": null,
         "starters": [
           {
-            "number": "45",
-            "name": "伊萨·苏马雷",
-            "position": "前锋"
-          },
-          {
             "number": "25",
             "name": "阿利·萨马塔",
             "position": "前锋"
           },
           {
-            "number": "7",
-            "name": "卢瓦克·内戈",
+            "number": "45",
+            "name": "伊萨·苏马雷",
             "position": "中场"
           },
           {
-            "number": "18",
-            "name": "雅尼斯·佐阿维",
+            "number": "8",
+            "name": "亚辛·凯赫塔",
             "position": "中场"
           },
           {
-            "number": "17",
-            "name": "索菲安·布法尔",
+            "number": "13",
+            "name": "福德·杜库雷",
+            "position": "中场"
+          },
+          {
+            "number": "26",
+            "name": "西蒙·埃博诺格",
             "position": "中场"
           },
           {
@@ -392,9 +392,9 @@
             "position": "中场"
           },
           {
-            "number": "13",
-            "name": "福德·杜库雷",
-            "position": "中场"
+            "number": "18",
+            "name": "雅尼斯·佐阿维",
+            "position": "后卫"
           },
           {
             "number": "4",
@@ -407,8 +407,8 @@
             "position": "后卫"
           },
           {
-            "number": "26",
-            "name": "西蒙·埃博诺格",
+            "number": "7",
+            "name": "卢瓦克·内戈",
             "position": "后卫"
           },
           {
@@ -424,23 +424,33 @@
             "position": "后卫"
           },
           {
+            "number": "17",
+            "name": "索菲安·布法尔",
+            "position": "中场"
+          },
+          {
             "number": "19",
             "name": "卢卡斯·古纳·杜阿斯",
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "亚辛·凯赫塔",
-            "position": "中场"
+            "number": "32",
+            "name": "蒂莫西·彭贝莱",
+            "position": "后卫"
+          },
+          {
+            "number": "20",
+            "name": "诺姆·奥布古",
+            "position": "前锋"
+          },
+          {
+            "number": "77",
+            "name": "莱昂内尔·姆帕西-恩扎乌",
+            "position": "守门员"
           },
           {
             "number": "11",
             "name": "凯尔梅赫·古德森",
-            "position": "前锋"
-          },
-          {
-            "number": "10",
-            "name": "菲利克斯·曼比姆比",
             "position": "前锋"
           },
           {
@@ -449,19 +459,9 @@
             "position": "中场"
           },
           {
-            "number": "77",
-            "name": "莱昂内尔·姆帕西-恩扎乌",
-            "position": "守门员"
-          },
-          {
-            "number": "20",
-            "name": "诺姆·奥布古",
+            "number": "10",
+            "name": "菲利克斯·曼比姆比",
             "position": "前锋"
-          },
-          {
-            "number": "32",
-            "name": "蒂莫西·彭贝莱",
-            "position": "后卫"
           }
         ],
         "injured": [],
@@ -476,18 +476,23 @@
             "position": "前锋"
           },
           {
+            "number": "10",
+            "name": "高迪尔·海恩",
+            "position": "前锋"
+          },
+          {
             "number": "7",
             "name": "乔尔希·齐塔伊什维利",
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "高迪尔·海恩",
+            "number": "12",
+            "name": "阿尔法·图雷",
             "position": "中场"
           },
           {
-            "number": "70",
-            "name": "布纳·萨尔",
+            "number": "5",
+            "name": "简-菲利佩·巴明",
             "position": "中场"
           },
           {
@@ -496,8 +501,8 @@
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "简-菲利佩·巴明",
+            "number": "70",
+            "name": "布纳·萨尔",
             "position": "中场"
           },
           {
@@ -516,17 +521,27 @@
             "position": "后卫"
           },
           {
-            "number": "12",
-            "name": "阿尔法·图雷",
-            "position": "后卫"
-          },
-          {
             "number": "61",
             "name": "帕佩·西",
             "position": "守门员"
           }
         ],
         "subs": [
+          {
+            "number": "39",
+            "name": "科菲·夸奥",
+            "position": "后卫"
+          },
+          {
+            "number": "34",
+            "name": "纳丹·姆巴拉",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "卢卡斯·米歇尔",
+            "position": "前锋"
+          },
           {
             "number": "35",
             "name": "贾扬·潘多尔",
@@ -538,34 +553,19 @@
             "position": "中场"
           },
           {
-            "number": "34",
-            "name": "纳丹·姆巴拉",
+            "number": "9",
+            "name": "吉奥吉·阿布什维利",
             "position": "前锋"
           },
           {
-            "number": "39",
-            "name": "科菲·夸奥",
+            "number": "3",
+            "name": "穆斯塔法·迪奥普",
             "position": "后卫"
           },
           {
             "number": "1",
             "name": "乔纳森·费舍尔",
             "position": "守门员"
-          },
-          {
-            "number": "9",
-            "name": "吉奥吉·阿布什维利",
-            "position": "前锋"
-          },
-          {
-            "number": "19",
-            "name": "卢卡斯·米歇尔",
-            "position": "前锋"
-          },
-          {
-            "number": "2",
-            "name": "马克西姆·科林",
-            "position": "后卫"
           }
         ],
         "injured": [],

@@ -24,7 +24,7 @@
       "lost": "5.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-26T15:40:15Z"
+    "fetched_at_utc": "2026-04-26T15:50:16Z"
   },
   "shuju": {
     "title": "斯图加特VS云达不莱梅(2025/2026德甲)-数据分析-500彩票网",
@@ -373,11 +373,6 @@
             "position": "前锋"
           },
           {
-            "number": "18",
-            "name": "杰米·勒威林",
-            "position": "中场"
-          },
-          {
             "number": "11",
             "name": "比拉尔·汉努斯",
             "position": "中场"
@@ -388,6 +383,11 @@
             "position": "中场"
           },
           {
+            "number": "18",
+            "name": "杰米·勒威林",
+            "position": "中场"
+          },
+          {
             "number": "6",
             "name": "安杰洛·斯蒂勒",
             "position": "中场"
@@ -395,6 +395,11 @@
           {
             "number": "30",
             "name": "切玛·安德烈斯",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "劳伦斯·阿森顿",
             "position": "中场"
           },
           {
@@ -410,11 +415,6 @@
           {
             "number": "14",
             "name": "卢卡·贾克斯",
-            "position": "后卫"
-          },
-          {
-            "number": "22",
-            "name": "劳伦斯·阿森顿",
             "position": "后卫"
           },
           {
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "一球",
-        "away_water": "1.010↑",
-        "time": "04-26 21:26"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "一球",
-        "away_water": "0.990",
-        "time": "04-13 04:58"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "一球",
         "away_water": "0.960",
         "time": "04-12 20:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "一球",
+        "away_water": "1.010↑",
+        "time": "04-26 21:26"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "一球",
+        "away_water": "0.990",
+        "time": "04-13 04:58"
       }
     },
     {
