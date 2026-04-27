@@ -24,7 +24,7 @@
       "lost": "3.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-27T18:50:07Z"
+    "fetched_at_utc": "2026-04-27T19:00:07Z"
   },
   "shuju": {
     "title": "西班牙人VS莱万特(2025/2026西甲)-数据分析-500彩票网",
@@ -741,22 +741,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.070↑",
-        "time": "04-28 02:41"
-      },
-      "init": {
-        "home_water": "1.370",
-        "handicap": "一球",
-        "away_water": "0.540",
-        "time": "04-12 22:25"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -770,6 +754,22 @@
         "handicap": "半球/一球",
         "away_water": "0.830",
         "time": "04-13 03:37"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.040↑",
+        "time": "04-28 02:47"
+      },
+      "init": {
+        "home_water": "1.370",
+        "handicap": "一球",
+        "away_water": "0.540",
+        "time": "04-12 22:25"
       }
     },
     {
@@ -792,10 +792,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.830↓",
+        "home_water": "0.840↓",
         "handicap": "平手/半球降",
-        "away_water": "1.120↑",
-        "time": "04-28 02:39"
+        "away_water": "1.110↑",
+        "time": "04-28 02:47"
       },
       "init": {
         "home_water": "0.900",
