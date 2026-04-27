@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-27T17:20:11Z",
+  "last_updated_utc": "2026-04-27T17:30:08Z",
   "matches": [
     {
       "xml_id": "2039370",
@@ -90,6 +90,24 @@
       "matchnum_label": "周一009",
       "home_team_id": "1263",
       "away_team_id": "3928"
+    },
+    {
+      "xml_id": "2039404",
+      "matchnum": "2004",
+      "date": "2026-04-29",
+      "dayofweek": "星期三",
+      "league": "欧洲冠军联赛",
+      "home": "巴黎圣日尔曼",
+      "away": "拜仁慕尼黑",
+      "spf_win": "4.16",
+      "spf_draw": "4.35",
+      "spf_lost": "1.52",
+      "spf_updated": "2026-04-27 16:45:21",
+      "gameid": "1407201",
+      "kickoff_cst": "2026-04-29 03:00",
+      "matchnum_label": "周二004",
+      "home_team_id": "647",
+      "away_team_id": "664"
     }
   ]
 }
