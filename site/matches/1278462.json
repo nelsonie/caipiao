@@ -24,7 +24,7 @@
       "lost": "2.38",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-27T18:20:06Z"
+    "fetched_at_utc": "2026-04-27T18:30:07Z"
   },
   "shuju": {
     "title": "博莱格尼VS敦刻尔克(2025/2026法乙)-数据分析-500彩票网",
@@ -365,8 +365,8 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "乔佛里·布尔特尔",
+            "number": "19",
+            "name": "诺兰·比奈",
             "position": "中场"
           },
           {
@@ -385,8 +385,8 @@
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "内森·佐霍尔",
+            "number": "15",
+            "name": "阿德里恩·皮诺",
             "position": "后卫"
           },
           {
@@ -406,6 +406,11 @@
           }
         ],
         "subs": [
+          {
+            "number": "21",
+            "name": "奥勒利安·普拉特雷",
+            "position": "后卫"
+          },
           {
             "number": "28",
             "name": "索汉·帕亚尔",
@@ -427,18 +432,13 @@
             "position": "后卫"
           },
           {
-            "number": "7",
-            "name": "卢卡·博伊托",
+            "number": "14",
+            "name": "乔佛里·布尔特尔",
             "position": "中场"
           },
           {
-            "number": "19",
-            "name": "诺兰·比奈",
-            "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "阿德里恩·皮诺",
+            "number": "5",
+            "name": "内森·佐霍尔",
             "position": "后卫"
           }
         ],
@@ -449,13 +449,18 @@
         "formation": null,
         "starters": [
           {
-            "number": "9",
-            "name": "托马斯·罗比内特",
+            "number": "77",
+            "name": "阿里斯蒂德·佐苏",
             "position": "前锋"
           },
           {
-            "number": "77",
-            "name": "阿里斯蒂德·佐苏",
+            "number": "10",
+            "name": "马尔科·艾西米",
+            "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "托马斯·罗比内特",
             "position": "中场"
           },
           {
@@ -464,24 +469,14 @@
             "position": "中场"
           },
           {
-            "number": "87",
-            "name": "塞娜·马索克",
+            "number": "6",
+            "name": "帕佩·达乌达·迪翁",
             "position": "中场"
           },
           {
-            "number": "69",
-            "name": "摩根·博克莱·姆普图",
+            "number": "27",
+            "name": "阿兰·里古埃特",
             "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "罗翰·杜塞特",
-            "position": "中场"
-          },
-          {
-            "number": "2",
-            "name": "亚历克·若尔让",
-            "position": "后卫"
           },
           {
             "number": "22",
@@ -494,26 +489,46 @@
             "position": "后卫"
           },
           {
-            "number": "27",
-            "name": "阿兰·里古埃特",
+            "number": "26",
+            "name": "奧柏·桑干特",
             "position": "后卫"
           },
           {
-            "number": "60",
-            "name": "马蒂斯·尼弗洛尔",
-            "position": "守门员"
-          }
-        ],
-        "subs": [
-          {
-            "number": "7",
-            "name": "埃迪·西尔维斯特",
-            "position": "前锋"
+            "number": "2",
+            "name": "亚历克·若尔让",
+            "position": "后卫"
           },
           {
             "number": "1",
             "name": "马科斯·拉文",
             "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "36",
+            "name": "穆罕默德·西索科",
+            "position": "守门员"
+          },
+          {
+            "number": "57",
+            "name": "扎伊德·塞哈",
+            "position": "中场"
+          },
+          {
+            "number": "87",
+            "name": "塞娜·马索克",
+            "position": "中场"
+          },
+          {
+            "number": "42",
+            "name": "麦伊丁·马克卢菲",
+            "position": "后卫"
+          },
+          {
+            "number": "19",
+            "name": "阿布巴卡里·坎特",
+            "position": "前锋"
           },
           {
             "number": "11",
@@ -521,23 +536,8 @@
             "position": "前锋"
           },
           {
-            "number": "24",
-            "name": "伦尼·德齐基·卢西拉霍",
-            "position": "中场"
-          },
-          {
-            "number": "16",
-            "name": "伊尼哥·埃瓜拉斯",
-            "position": "中场"
-          },
-          {
-            "number": "10",
-            "name": "马尔科·艾西米",
-            "position": "前锋"
-          },
-          {
-            "number": "19",
-            "name": "阿布巴卡里·坎特",
+            "number": "7",
+            "name": "埃迪·西尔维斯特",
             "position": "前锋"
           }
         ],
