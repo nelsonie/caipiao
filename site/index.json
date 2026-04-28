@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-28T08:10:12Z",
+  "last_updated_utc": "2026-04-28T08:20:10Z",
   "matches": [
     {
       "xml_id": "2039401",
@@ -81,10 +81,10 @@
       "league": "南美解放者杯",
       "home": "拉努斯",
       "away": "基多体育大学",
-      "spf_win": "2.78",
+      "spf_win": "2.95",
       "spf_draw": "3.07",
-      "spf_lost": "2.25",
-      "spf_updated": "2026-04-28 13:50:56",
+      "spf_lost": "2.15",
+      "spf_updated": "2026-04-28 16:13:30",
       "gameid": "1398857",
       "kickoff_cst": "2026-04-29 06:00",
       "matchnum_label": "周二005",
@@ -162,6 +162,24 @@
       "matchnum_label": "周三004",
       "home_team_id": "4127",
       "away_team_id": "6384"
+    },
+    {
+      "xml_id": "2039410",
+      "matchnum": "3005",
+      "date": "2026-04-29",
+      "dayofweek": "星期三",
+      "league": "日本职业联赛",
+      "home": "柏太阳神",
+      "away": "东京FC",
+      "spf_win": "5.60",
+      "spf_draw": "3.90",
+      "spf_lost": "1.44",
+      "spf_updated": "2026-04-28 09:38:09",
+      "gameid": "1366377",
+      "kickoff_cst": "2026-04-29 15:00",
+      "matchnum_label": "周三005",
+      "home_team_id": "658",
+      "away_team_id": "267"
     },
     {
       "xml_id": "2039414",
