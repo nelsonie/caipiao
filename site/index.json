@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-04-28T18:00:11Z",
+  "last_updated_utc": "2026-04-28T18:10:12Z",
   "matches": [
-    {
-      "xml_id": "2039402",
-      "matchnum": "2002",
-      "date": "2026-04-29",
-      "dayofweek": "星期三",
-      "league": "沙特职业联赛",
-      "home": "利雅得新月",
-      "away": "达马克",
-      "spf_win": "1.92",
-      "spf_draw": "3.90",
-      "spf_lost": "2.85",
-      "spf_updated": "2026-04-28 16:45:58",
-      "gameid": "1234978",
-      "kickoff_cst": "2026-04-29 02:00",
-      "matchnum_label": "周二002",
-      "home_team_id": "2306",
-      "away_team_id": "7943"
-    },
     {
       "xml_id": "2039403",
       "matchnum": "2003",
@@ -144,6 +126,24 @@
       "matchnum_label": "周三004",
       "home_team_id": "4127",
       "away_team_id": "6384"
+    },
+    {
+      "xml_id": "2039410",
+      "matchnum": "3005",
+      "date": "2026-04-29",
+      "dayofweek": "星期三",
+      "league": "日本职业联赛",
+      "home": "柏太阳神",
+      "away": "东京FC",
+      "spf_win": "5.60",
+      "spf_draw": "3.90",
+      "spf_lost": "1.44",
+      "spf_updated": "2026-04-28 09:38:09",
+      "gameid": "1366377",
+      "kickoff_cst": "2026-04-29 15:00",
+      "matchnum_label": "周三005",
+      "home_team_id": "658",
+      "away_team_id": "267"
     }
   ]
 }
