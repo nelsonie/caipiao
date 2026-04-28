@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-04-28T18:40:11Z",
+  "last_updated_utc": "2026-04-28T18:50:08Z",
   "matches": [
-    {
-      "xml_id": "2039403",
-      "matchnum": "2003",
-      "date": "2026-04-29",
-      "dayofweek": "星期三",
-      "league": "英格兰冠军联赛",
-      "home": "南安普敦",
-      "away": "伊普斯维奇",
-      "spf_win": "4.20",
-      "spf_draw": "3.88",
-      "spf_lost": "1.58",
-      "spf_updated": "2026-04-28 09:38:09",
-      "gameid": "1210433",
-      "kickoff_cst": "2026-04-29 02:45",
-      "matchnum_label": "周二003",
-      "home_team_id": "1128",
-      "away_team_id": "1314"
-    },
     {
       "xml_id": "2039404",
       "matchnum": "2004",
@@ -126,6 +108,24 @@
       "matchnum_label": "周三004",
       "home_team_id": "4127",
       "away_team_id": "6384"
+    },
+    {
+      "xml_id": "2039410",
+      "matchnum": "3005",
+      "date": "2026-04-29",
+      "dayofweek": "星期三",
+      "league": "日本职业联赛",
+      "home": "柏太阳神",
+      "away": "东京FC",
+      "spf_win": "5.60",
+      "spf_draw": "3.90",
+      "spf_lost": "1.44",
+      "spf_updated": "2026-04-28 09:38:09",
+      "gameid": "1366377",
+      "kickoff_cst": "2026-04-29 15:00",
+      "matchnum_label": "周三005",
+      "home_team_id": "658",
+      "away_team_id": "267"
     },
     {
       "xml_id": "2039414",
