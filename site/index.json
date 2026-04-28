@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-28T22:10:06Z",
+  "last_updated_utc": "2026-04-28T22:20:11Z",
   "matches": [
     {
       "xml_id": "2039406",
@@ -90,24 +90,6 @@
       "matchnum_label": "周三005",
       "home_team_id": "658",
       "away_team_id": "267"
-    },
-    {
-      "xml_id": "2039414",
-      "matchnum": "3009",
-      "date": "2026-04-30",
-      "dayofweek": "星期四",
-      "league": "欧洲冠军联赛",
-      "home": "马德里竞技",
-      "away": "阿森纳",
-      "spf_win": "1.41",
-      "spf_draw": "4.20",
-      "spf_lost": "5.50",
-      "spf_updated": "2026-04-28 18:34:50",
-      "gameid": "1407200",
-      "kickoff_cst": "2026-04-30 03:00",
-      "matchnum_label": "周三009",
-      "home_team_id": "1046",
-      "away_team_id": "554"
     }
   ]
 }
