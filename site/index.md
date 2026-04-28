@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-04-28T02:50:05Z'
-total_matches: 1
-leagues_covered:
-- 欧洲冠军联赛
+last_updated_utc: '2026-04-28T03:00:06Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 欧洲冠军联赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 2004 | 2026-04-29 星期三 | 巴黎圣日尔曼 vs 拜仁慕尼黑 | 4.30/4.35/1.50 | [1407201](matches/1407201.md) |

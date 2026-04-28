@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>今日全部对阵 (1 场) · caipiao</title>
+<title>今日全部对阵 (0 场) · caipiao</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="alternate" type="text/markdown" href="index.md">
 <style>
@@ -82,73 +82,10 @@ button:disabled { opacity: .5; cursor: default; }
   <a href="/_meta.json">_meta.json</a>
 </nav>
 <main>
-<h1>今日全部对阵 (1 场)</h1>
-<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-04-28T02:50:05Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">1</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v">欧洲冠军联赛</div></div></div>
-
-<section class="quick">
-  <h2>快查（1 场 · 按日期升序）</h2>
-  <ul>
-    <li><span class="meta">2026-04-29 · 欧洲冠军联赛</span><span class="teams">巴黎圣日尔曼 vs 拜仁慕尼黑</span><a class="url" href="/matches/1407201.html">{ORIGIN}/matches/1407201.html</a></li>
-  </ul>
-  <button id="copy-all" type="button">复制全部对阵及链接</button>
-  <p class="hint">点按钮会把每场一行，格式：<code>日期 联赛 主队 vs 客队 URL</code>，复制到剪贴板。</p>
-  <script>
-    (function () {
-      var ITEMS = [{"line": "2026-04-29 欧洲冠军联赛 巴黎圣日尔曼 vs 拜仁慕尼黑 {ORIGIN}/matches/1407201.html"}];
-      var origin = location.origin;
-      // 页面加载时把 li 里的 {ORIGIN} 占位符都换成真实域名
-      document.querySelectorAll('.quick .url').forEach(function (a) {
-        if (a.textContent.indexOf('{ORIGIN}') === 0) {
-          a.textContent = origin + a.textContent.slice('{ORIGIN}'.length);
-        }
-      });
-      var btn = document.getElementById('copy-all');
-      btn.addEventListener('click', function () {
-        var text = ITEMS.map(function (it) { return it.line.replace('{ORIGIN}', origin); }).join('\n');
-        var done = function () {
-          var prev = btn.textContent;
-          btn.textContent = '已复制 ' + ITEMS.length + ' 条 ✓';
-          btn.disabled = true;
-          setTimeout(function () { btn.textContent = prev; btn.disabled = false; }, 2000);
-        };
-        if (navigator.clipboard && window.isSecureContext) {
-          navigator.clipboard.writeText(text).then(done, function (err) {
-            alert('复制失败：' + err);
-          });
-        } else {
-          var ta = document.createElement('textarea');
-          ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
-          document.body.appendChild(ta); ta.select();
-          try { document.execCommand('copy'); done(); } catch (e) { alert('复制失败'); }
-          document.body.removeChild(ta);
-        }
-      });
-    })();
-  </script>
-</section>
+<h1>今日全部对阵 (0 场)</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-04-28T03:00:06Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">0</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v"></div></div></div>
 
 <h1>今日全部对阵</h1>
-<h2>欧洲冠军联赛 (1)</h2>
-<div class="table-wrap"><table>
-<thead>
-<tr>
-<th>编号</th>
-<th>日期</th>
-<th>对阵</th>
-<th>胜/平/负</th>
-<th>gameid</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>2004</td>
-<td>2026-04-29 星期三</td>
-<td>巴黎圣日尔曼 vs 拜仁慕尼黑</td>
-<td>4.30/4.35/1.50</td>
-<td><a href="matches/1407201.html">1407201</a></td>
-</tr>
-</tbody>
-</table></div>
 </main>
 <footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
 </body>
