@@ -24,7 +24,7 @@
       "lost": "2.68",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-28T05:20:08Z"
+    "fetched_at_utc": "2026-04-28T05:30:07Z"
   },
   "shuju": {
     "title": "浦和红钻VS川崎前锋(2026日职)-数据分析-500彩票网",
@@ -716,22 +716,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "平手/半球",
-        "away_water": "0.860↓",
-        "time": "04-27 20:22"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "平手/半球",
-        "away_water": "0.880",
-        "time": "04-26 01:54"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -745,6 +729,22 @@
         "handicap": "平手/半球",
         "away_water": "0.830",
         "time": "04-26 01:11"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "平手/半球",
+        "away_water": "0.860↓",
+        "time": "04-27 20:22"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "平手/半球",
+        "away_water": "0.880",
+        "time": "04-26 01:54"
       }
     },
     {
