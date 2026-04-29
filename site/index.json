@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-29T21:40:07Z",
+  "last_updated_utc": "2026-04-29T21:40:12Z",
   "matches": [
     {
       "xml_id": "2039416",
@@ -18,6 +18,42 @@
       "matchnum_label": "周三011",
       "home_team_id": "569",
       "away_team_id": "1577"
+    },
+    {
+      "xml_id": "2039417",
+      "matchnum": "3012",
+      "date": "2026-04-30",
+      "dayofweek": "星期四",
+      "league": "南美解放者杯",
+      "home": "波特诺山丘",
+      "away": "帕尔梅拉斯",
+      "spf_win": "2.00",
+      "spf_draw": "2.96",
+      "spf_lost": "3.43",
+      "spf_updated": "2026-04-29 20:50:03",
+      "gameid": "1398834",
+      "kickoff_cst": "2026-04-30 08:30",
+      "matchnum_label": "周三012",
+      "home_team_id": "2062",
+      "away_team_id": "1567"
+    },
+    {
+      "xml_id": "2039418",
+      "matchnum": "4001",
+      "date": "2026-05-01",
+      "dayofweek": "星期五",
+      "league": "挪威超级联赛",
+      "home": "博德闪耀",
+      "away": "斯达",
+      "spf_win": "2.66",
+      "spf_draw": "4.70",
+      "spf_lost": "1.85",
+      "spf_updated": "2026-04-29 09:26:04",
+      "gameid": "1363664",
+      "kickoff_cst": "2026-05-01 01:00",
+      "matchnum_label": "周四001",
+      "home_team_id": "703",
+      "away_team_id": "508"
     },
     {
       "xml_id": "2039419",
@@ -54,6 +90,24 @@
       "matchnum_label": "周四003",
       "home_team_id": "719",
       "away_team_id": "804"
+    },
+    {
+      "xml_id": "2039421",
+      "matchnum": "4004",
+      "date": "2026-05-01",
+      "dayofweek": "星期五",
+      "league": "欧罗巴联赛",
+      "home": "诺丁汉森林",
+      "away": "阿斯顿维拉",
+      "spf_win": "5.20",
+      "spf_draw": "3.96",
+      "spf_lost": "1.46",
+      "spf_updated": "2026-04-29 19:33:14",
+      "gameid": "1407209",
+      "kickoff_cst": "2026-05-01 03:00",
+      "matchnum_label": "周四004",
+      "home_team_id": "1142",
+      "away_team_id": "555"
     },
     {
       "xml_id": "2039424",
