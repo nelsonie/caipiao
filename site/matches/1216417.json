@@ -24,7 +24,7 @@
       "lost": "21.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-04-29T16:50:08Z"
+    "fetched_at_utc": "2026-04-29T17:00:07Z"
   },
   "shuju": {
     "title": "里斯本竞技VS通德拉(2025/2026葡超)-数据分析-500彩票网",
@@ -714,22 +714,6 @@
       }
     },
     {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "0.710↓",
-        "handicap": "两球/两球半",
-        "away_water": "1.120↑",
-        "time": "04-30 00:24"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "两球/两球半",
-        "away_water": "0.850",
-        "time": "04-28 18:02"
-      }
-    },
-    {
       "cid": "348",
       "company": "金*博",
       "live": {
@@ -743,6 +727,22 @@
         "handicap": "两球/两球半",
         "away_water": "0.880",
         "time": "03-13 20:08"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "0.710↓",
+        "handicap": "两球/两球半",
+        "away_water": "1.120↑",
+        "time": "04-30 00:24"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "两球/两球半",
+        "away_water": "0.850",
+        "time": "04-28 18:02"
       }
     },
     {
