@@ -24,7 +24,7 @@
       "lost": "2.58",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-29T02:10:07Z"
+    "fetched_at_utc": "2026-04-29T02:20:06Z"
   },
   "shuju": {
     "title": "柏太阳神VS东京FC(2026日职)-数据分析-500彩票网",
@@ -716,22 +716,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.790↓",
-        "handicap": "平手降",
-        "away_water": "0.960↑",
-        "time": "04-29 09:35"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手/半球",
-        "away_water": "0.790",
-        "time": "04-26 00:47"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -745,6 +729,22 @@
         "handicap": "平手/半球",
         "away_water": "0.840",
         "time": "04-26 01:11"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.790↓",
+        "handicap": "平手降",
+        "away_water": "0.960↑",
+        "time": "04-29 09:35"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手/半球",
+        "away_water": "0.790",
+        "time": "04-26 00:47"
       }
     },
     {
@@ -799,10 +799,10 @@
       "cid": "122",
       "company": "香**会",
       "live": {
-        "home_water": "1.080↑",
+        "home_water": "1.060",
         "handicap": "平手/半球",
-        "away_water": "0.740↑",
-        "time": "04-29 09:35"
+        "away_water": "0.730",
+        "time": "04-29 10:12"
       },
       "init": {
         "home_water": "1.060",
@@ -831,10 +831,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.830↓",
+        "home_water": "0.820↓",
         "handicap": "平手降",
         "away_water": "0.980↑",
-        "time": "04-29 09:59"
+        "time": "04-29 10:03"
       },
       "init": {
         "home_water": "0.930",
@@ -2040,7 +2040,7 @@
     {
       "cid": "863",
       "company": "18**t",
-      "time": "2026-04-29 10:01:33",
+      "time": "2026-04-29 10:12:48",
       "odds": {
         "live": [
           "2.25",
