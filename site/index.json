@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-29T08:20:15Z",
+  "last_updated_utc": "2026-04-29T08:30:13Z",
   "matches": [
     {
       "xml_id": "2039406",
@@ -270,6 +270,24 @@
       "matchnum_label": "周四003",
       "home_team_id": "719",
       "away_team_id": "804"
+    },
+    {
+      "xml_id": "2039421",
+      "matchnum": "4004",
+      "date": "2026-05-01",
+      "dayofweek": "星期五",
+      "league": "欧罗巴联赛",
+      "home": "诺丁汉森林",
+      "away": "阿斯顿维拉",
+      "spf_win": "5.10",
+      "spf_draw": "3.90",
+      "spf_lost": "1.48",
+      "spf_updated": "2026-04-29 09:26:04",
+      "gameid": "1407209",
+      "kickoff_cst": "2026-05-01 03:00",
+      "matchnum_label": "周四004",
+      "home_team_id": "1142",
+      "away_team_id": "555"
     },
     {
       "xml_id": "2039423",
