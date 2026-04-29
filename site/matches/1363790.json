@@ -24,7 +24,7 @@
       "lost": "3.40",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-29T14:40:11Z"
+    "fetched_at_utc": "2026-04-29T14:50:09Z"
   },
   "shuju": {
     "title": "特罗姆瑟VS布兰(2026挪超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "半球",
-        "away_water": "0.930↑",
-        "time": "04-29 22:01"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "半球",
-        "away_water": "0.910",
-        "time": "04-27 20:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "1.540",
         "time": "04-23 08:18"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "半球",
+        "away_water": "0.930↑",
+        "time": "04-29 22:01"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "半球",
+        "away_water": "0.910",
+        "time": "04-27 20:48"
       }
     },
     {
