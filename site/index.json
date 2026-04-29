@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-29T04:30:14Z",
+  "last_updated_utc": "2026-04-29T04:40:15Z",
   "matches": [
     {
       "xml_id": "2039406",
@@ -27,10 +27,10 @@
       "league": "日本职业联赛",
       "home": "京都不死鸟",
       "away": "大阪钢巴",
-      "spf_win": "4.80",
+      "spf_win": "5.10",
       "spf_draw": "3.95",
-      "spf_lost": "1.50",
-      "spf_updated": "2026-04-29 11:41:44",
+      "spf_lost": "1.47",
+      "spf_updated": "2026-04-29 12:30:09",
       "gameid": "1366313",
       "kickoff_cst": "2026-04-29 14:00",
       "matchnum_label": "周三002",
@@ -135,10 +135,10 @@
       "league": "沙特职业联赛",
       "home": "利雅得胜利",
       "away": "吉达国民",
-      "spf_win": "2.63",
-      "spf_draw": "3.67",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-04-29 09:26:04",
+      "spf_win": "2.66",
+      "spf_draw": "3.55",
+      "spf_lost": "2.12",
+      "spf_updated": "2026-04-29 12:27:24",
       "gameid": "1234986",
       "kickoff_cst": "2026-04-30 02:00",
       "matchnum_label": "周三008",
@@ -306,24 +306,6 @@
       "matchnum_label": "周四006",
       "home_team_id": "2262",
       "away_team_id": "1578"
-    },
-    {
-      "xml_id": "2039424",
-      "matchnum": "4007",
-      "date": "2026-05-01",
-      "dayofweek": "星期五",
-      "league": "南美解放者杯",
-      "home": "科林蒂安",
-      "away": "佩纳罗尔",
-      "spf_win": "2.72",
-      "spf_draw": "2.98",
-      "spf_lost": "2.35",
-      "spf_updated": "2026-04-29 09:26:04",
-      "gameid": "1398812",
-      "kickoff_cst": "2026-05-01 08:00",
-      "matchnum_label": "周四007",
-      "home_team_id": "1572",
-      "away_team_id": "2061"
     }
   ]
 }
