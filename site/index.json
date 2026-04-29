@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-29T16:40:12Z",
+  "last_updated_utc": "2026-04-29T16:50:11Z",
   "matches": [
     {
       "xml_id": "2039412",
@@ -180,6 +180,24 @@
       "matchnum_label": "周四004",
       "home_team_id": "1142",
       "away_team_id": "555"
+    },
+    {
+      "xml_id": "2039423",
+      "matchnum": "4006",
+      "date": "2026-05-01",
+      "dayofweek": "星期五",
+      "league": "南美解放者杯",
+      "home": "玻利瓦尔",
+      "away": "弗鲁米嫩塞",
+      "spf_win": "3.10",
+      "spf_draw": "3.40",
+      "spf_lost": "1.95",
+      "spf_updated": "2026-04-29 09:26:04",
+      "gameid": "1398769",
+      "kickoff_cst": "2026-05-01 06:00",
+      "matchnum_label": "周四006",
+      "home_team_id": "2262",
+      "away_team_id": "1578"
     },
     {
       "xml_id": "2039424",
