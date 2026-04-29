@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-29T20:40:12Z",
+  "last_updated_utc": "2026-04-29T21:00:08Z",
   "matches": [
     {
       "xml_id": "2039416",
@@ -74,22 +74,22 @@
       "away_team_id": "7829"
     },
     {
-      "xml_id": "2039420",
-      "matchnum": "4003",
+      "xml_id": "2039421",
+      "matchnum": "4004",
       "date": "2026-05-01",
       "dayofweek": "星期五",
       "league": "欧罗巴联赛",
-      "home": "布拉加",
-      "away": "弗赖堡",
-      "spf_win": "4.50",
-      "spf_draw": "3.65",
-      "spf_lost": "1.58",
-      "spf_updated": "2026-04-29 09:26:04",
-      "gameid": "1407208",
+      "home": "诺丁汉森林",
+      "away": "阿斯顿维拉",
+      "spf_win": "5.20",
+      "spf_draw": "3.96",
+      "spf_lost": "1.46",
+      "spf_updated": "2026-04-29 19:33:14",
+      "gameid": "1407209",
       "kickoff_cst": "2026-05-01 03:00",
-      "matchnum_label": "周四003",
-      "home_team_id": "719",
-      "away_team_id": "804"
+      "matchnum_label": "周四004",
+      "home_team_id": "1142",
+      "away_team_id": "555"
     }
   ]
 }
