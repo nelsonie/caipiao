@@ -24,7 +24,7 @@
       "lost": "3.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-29T06:00:07Z"
+    "fetched_at_utc": "2026-04-29T06:10:07Z"
   },
   "shuju": {
     "title": "神户胜利船VS大阪樱花(2026日职)-数据分析-500彩票网",
@@ -449,18 +449,13 @@
         ],
         "subs": [
           {
-            "number": "5",
-            "name": "乡家友太",
-            "position": "中场"
-          },
-          {
             "number": "28",
             "name": "滨崎健斗",
             "position": "中场"
           },
           {
-            "number": "44",
-            "name": "日高光挥",
+            "number": "5",
+            "name": "乡家友太",
             "position": "中场"
           },
           {
@@ -479,6 +474,16 @@
             "position": "前锋"
           },
           {
+            "number": "44",
+            "name": "日高光挥",
+            "position": "中场"
+          },
+          {
+            "number": "80",
+            "name": "博尼法斯·恩杜卡",
+            "position": "后卫"
+          },
+          {
             "number": "25",
             "name": "锹先祐弥",
             "position": "中场"
@@ -487,11 +492,6 @@
             "number": "1",
             "name": "前川黛也",
             "position": "守门员"
-          },
-          {
-            "number": "80",
-            "name": "博尼法斯·恩杜卡",
-            "position": "后卫"
           }
         ],
         "injured": [],
@@ -511,6 +511,11 @@
             "position": "中场"
           },
           {
+            "number": "5",
+            "name": "喜田阳",
+            "position": "中场"
+          },
+          {
             "number": "8",
             "name": "香川真司",
             "position": "中场"
@@ -521,16 +526,6 @@
             "position": "中场"
           },
           {
-            "number": "35",
-            "name": "吉野恭平",
-            "position": "中场"
-          },
-          {
-            "number": "5",
-            "name": "喜田阳",
-            "position": "中场"
-          },
-          {
             "number": "34",
             "name": "大迫塁",
             "position": "后卫"
@@ -538,6 +533,11 @@
           {
             "number": "3",
             "name": "田中隼人",
+            "position": "后卫"
+          },
+          {
+            "number": "35",
+            "name": "吉野恭平",
             "position": "后卫"
           },
           {
@@ -573,11 +573,6 @@
             "position": "中场"
           },
           {
-            "number": "13",
-            "name": "中岛元彦",
-            "position": "前锋"
-          },
-          {
             "number": "23",
             "name": "中村航辅",
             "position": "守门员"
@@ -593,14 +588,19 @@
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "田中骏汰",
-            "position": "中场"
-          },
-          {
             "number": "39",
             "name": "金本毅骑",
             "position": "前锋"
+          },
+          {
+            "number": "13",
+            "name": "中岛元彦",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "田中骏汰",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -722,22 +722,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "一球升",
-        "away_water": "0.970↑",
-        "time": "04-29 12:59"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "半球/一球",
-        "away_water": "0.830",
-        "time": "04-26 00:53"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -751,6 +735,22 @@
         "handicap": "半球/一球",
         "away_water": "0.750",
         "time": "04-26 01:22"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "一球升",
+        "away_water": "0.970↑",
+        "time": "04-29 12:59"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "半球/一球",
+        "away_water": "0.830",
+        "time": "04-26 00:53"
       }
     },
     {
