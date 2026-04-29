@@ -24,7 +24,7 @@
       "lost": "2.38",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-29T05:30:09Z"
+    "fetched_at_utc": "2026-04-29T05:40:08Z"
   },
   "shuju": {
     "title": "马德里竞技VS阿森纳(2025/2026欧冠)-数据分析-500彩票网",
@@ -721,22 +721,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.790↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.970↑",
-        "time": "04-29 13:02"
-      },
-      "init": {
-        "home_water": "1.080",
-        "handicap": "平手",
-        "away_water": "0.860",
-        "time": "04-16 05:43"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -750,6 +734,22 @@
         "handicap": "平手",
         "away_water": "0.790",
         "time": "04-16 06:02"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.790↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.970↑",
+        "time": "04-29 13:02"
+      },
+      "init": {
+        "home_water": "1.080",
+        "handicap": "平手",
+        "away_water": "0.860",
+        "time": "04-16 05:43"
       }
     },
     {
