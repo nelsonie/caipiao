@@ -24,7 +24,7 @@
       "lost": "7.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-30T19:10:07Z"
+    "fetched_at_utc": "2026-04-30T19:20:09Z"
   },
   "shuju": {
     "title": "维京VS罗森博格(2026挪超)-数据分析-500彩票网",
@@ -715,32 +715,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.870↓",
+        "home_water": "0.900↓",
         "handicap": "一球/球半",
-        "away_water": "0.870↓",
-        "time": "05-01 00:00"
+        "away_water": "0.940↑",
+        "time": "05-01 03:16"
       },
       "init": {
         "home_water": "0.910",
         "handicap": "一球/球半",
         "away_water": "0.930",
         "time": "04-28 03:10"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "一球/球半升",
-        "away_water": "0.910↑",
-        "time": "05-01 00:09"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "一球",
-        "away_water": "0.750",
-        "time": "04-26 00:27"
       }
     },
     {
@@ -757,6 +741,22 @@
         "handicap": "一球/球半",
         "away_water": "0.920",
         "time": "04-27 19:35"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "一球/球半升",
+        "away_water": "0.910↑",
+        "time": "05-01 00:09"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "一球",
+        "away_water": "0.750",
+        "time": "04-26 00:27"
       }
     },
     {
