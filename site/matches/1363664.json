@@ -8,9 +8,9 @@
     "away": "斯达",
     "kickoff_cst": "2026-05-01 01:00",
     "spf": {
-      "win": "2.50",
-      "draw": "4.68",
-      "lost": "1.94"
+      "win": "2.44",
+      "draw": "4.60",
+      "lost": "1.99"
     },
     "asia_main": {
       "handicap": "两球半/三球升",
@@ -24,7 +24,7 @@
       "lost": "15.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-04-30T10:20:08Z"
+    "fetched_at_utc": "2026-04-30T10:30:07Z"
   },
   "shuju": {
     "title": "博德闪耀VS斯达(2026挪超)-数据分析-500彩票网",
@@ -718,22 +718,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "两球半/三球升",
-        "away_water": "0.870↓",
-        "time": "04-30 18:12"
-      },
-      "init": {
-        "home_water": "0.040",
-        "handicap": "平手",
-        "away_water": "10.200",
-        "time": "04-27 12:21"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -747,6 +731,22 @@
         "handicap": "两球/两球半",
         "away_water": "1.020",
         "time": "04-27 19:30"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "两球半/三球升",
+        "away_water": "0.870↓",
+        "time": "04-30 18:12"
+      },
+      "init": {
+        "home_water": "0.040",
+        "handicap": "平手",
+        "away_water": "10.200",
+        "time": "04-27 12:21"
       }
     },
     {
