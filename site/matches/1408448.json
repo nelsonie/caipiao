@@ -24,7 +24,7 @@
       "lost": "3.40",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-04-30T11:50:11Z"
+    "fetched_at_utc": "2026-04-30T12:00:11Z"
   },
   "shuju": {
     "title": "瓦尔韦克VS罗达JC(2025/2026荷乙)-数据分析-500彩票网",
@@ -604,22 +604,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.020↑",
-        "handicap": "半球",
-        "away_water": "0.770↓",
-        "time": "04-30 17:19"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "半球",
-        "away_water": "0.900",
-        "time": "04-30 12:11"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -633,6 +617,22 @@
         "handicap": "平手/半球",
         "away_water": "1.070",
         "time": "04-30 12:56"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "半球",
+        "away_water": "0.770↓",
+        "time": "04-30 17:19"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "半球",
+        "away_water": "0.900",
+        "time": "04-30 12:11"
       }
     },
     {
