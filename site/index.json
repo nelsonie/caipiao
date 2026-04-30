@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-30T04:40:13Z",
+  "last_updated_utc": "2026-04-30T04:50:10Z",
   "matches": [
     {
       "xml_id": "2039418",
@@ -9,10 +9,10 @@
       "league": "挪威超级联赛",
       "home": "博德闪耀",
       "away": "斯达",
-      "spf_win": "2.60",
-      "spf_draw": "4.70",
-      "spf_lost": "1.88",
-      "spf_updated": "2026-04-30 10:13:59",
+      "spf_win": "2.50",
+      "spf_draw": "4.68",
+      "spf_lost": "1.94",
+      "spf_updated": "2026-04-30 12:38:15",
       "gameid": "1363664",
       "kickoff_cst": "2026-05-01 01:00",
       "matchnum_label": "周四001",
@@ -90,6 +90,24 @@
       "matchnum_label": "周四005",
       "home_team_id": "650",
       "away_team_id": "1194"
+    },
+    {
+      "xml_id": "2039423",
+      "matchnum": "4006",
+      "date": "2026-05-01",
+      "dayofweek": "星期五",
+      "league": "南美解放者杯",
+      "home": "玻利瓦尔",
+      "away": "弗鲁米嫩塞",
+      "spf_win": "3.30",
+      "spf_draw": "3.50",
+      "spf_lost": "1.85",
+      "spf_updated": "2026-04-30 12:27:58",
+      "gameid": "1398769",
+      "kickoff_cst": "2026-05-01 06:00",
+      "matchnum_label": "周四006",
+      "home_team_id": "2262",
+      "away_team_id": "1578"
     },
     {
       "xml_id": "2039424",
