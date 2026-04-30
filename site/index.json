@@ -1,42 +1,6 @@
 {
-  "last_updated_utc": "2026-04-30T00:30:11Z",
+  "last_updated_utc": "2026-04-30T00:40:10Z",
   "matches": [
-    {
-      "xml_id": "2039416",
-      "matchnum": "3011",
-      "date": "2026-04-30",
-      "dayofweek": "星期四",
-      "league": "南美解放者杯",
-      "home": "拉普拉塔大学生",
-      "away": "弗拉门戈",
-      "spf_win": "1.61",
-      "spf_draw": "3.32",
-      "spf_lost": "4.85",
-      "spf_updated": "2026-04-29 21:18:40",
-      "gameid": "1398725",
-      "kickoff_cst": "2026-04-30 08:30",
-      "matchnum_label": "周三011",
-      "home_team_id": "569",
-      "away_team_id": "1577"
-    },
-    {
-      "xml_id": "2039417",
-      "matchnum": "3012",
-      "date": "2026-04-30",
-      "dayofweek": "星期四",
-      "league": "南美解放者杯",
-      "home": "波特诺山丘",
-      "away": "帕尔梅拉斯",
-      "spf_win": "2.00",
-      "spf_draw": "2.96",
-      "spf_lost": "3.43",
-      "spf_updated": "2026-04-29 20:50:03",
-      "gameid": "1398834",
-      "kickoff_cst": "2026-04-30 08:30",
-      "matchnum_label": "周三012",
-      "home_team_id": "2062",
-      "away_team_id": "1567"
-    },
     {
       "xml_id": "2039418",
       "matchnum": "4001",
@@ -108,24 +72,6 @@
       "matchnum_label": "周四004",
       "home_team_id": "1142",
       "away_team_id": "555"
-    },
-    {
-      "xml_id": "2039424",
-      "matchnum": "4007",
-      "date": "2026-05-01",
-      "dayofweek": "星期五",
-      "league": "南美解放者杯",
-      "home": "科林蒂安",
-      "away": "佩纳罗尔",
-      "spf_win": "2.72",
-      "spf_draw": "2.98",
-      "spf_lost": "2.35",
-      "spf_updated": "2026-04-29 09:26:04",
-      "gameid": "1398812",
-      "kickoff_cst": "2026-05-01 08:00",
-      "matchnum_label": "周四007",
-      "home_team_id": "1572",
-      "away_team_id": "2061"
     }
   ]
 }
