@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-30T06:00:13Z",
+  "last_updated_utc": "2026-04-30T06:10:14Z",
   "matches": [
     {
       "xml_id": "2039418",
@@ -162,24 +162,6 @@
       "matchnum_label": "周五002",
       "home_team_id": "385",
       "away_team_id": "1030"
-    },
-    {
-      "xml_id": "2039439",
-      "matchnum": "5003",
-      "date": "2026-05-02",
-      "dayofweek": "星期六",
-      "league": "意大利甲级联赛",
-      "home": "比萨",
-      "away": "莱切",
-      "spf_win": "1.41",
-      "spf_draw": "3.80",
-      "spf_lost": "6.35",
-      "spf_updated": "2026-04-30 13:25:09",
-      "gameid": "1199695",
-      "kickoff_cst": "2026-05-02 02:45",
-      "matchnum_label": "周五003",
-      "home_team_id": "1994",
-      "away_team_id": "972"
     },
     {
       "xml_id": "2039440",
