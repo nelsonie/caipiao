@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-30T15:40:13Z",
+  "last_updated_utc": "2026-04-30T15:50:14Z",
   "matches": [
     {
       "xml_id": "2039418",
@@ -126,6 +126,24 @@
       "matchnum_label": "周四007",
       "home_team_id": "1572",
       "away_team_id": "2061"
+    },
+    {
+      "xml_id": "2039437",
+      "matchnum": "5001",
+      "date": "2026-05-02",
+      "dayofweek": "星期六",
+      "league": "挪威超级联赛",
+      "home": "维京",
+      "away": "罗森博格",
+      "spf_win": "1.95",
+      "spf_draw": "3.60",
+      "spf_lost": "2.95",
+      "spf_updated": "2026-04-30 13:25:09",
+      "gameid": "1364061",
+      "kickoff_cst": "2026-05-02 00:00",
+      "matchnum_label": "周五001",
+      "home_team_id": "1259",
+      "away_team_id": "1035"
     },
     {
       "xml_id": "2039438",
