@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-30T16:50:16Z",
+  "last_updated_utc": "2026-04-30T17:00:13Z",
   "matches": [
     {
       "xml_id": "2039418",
@@ -180,6 +180,42 @@
       "matchnum_label": "周五003",
       "home_team_id": "1994",
       "away_team_id": "972"
+    },
+    {
+      "xml_id": "2039440",
+      "matchnum": "5004",
+      "date": "2026-05-02",
+      "dayofweek": "星期六",
+      "league": "英格兰超级联赛",
+      "home": "利兹联",
+      "away": "伯恩利",
+      "spf_win": "1.93",
+      "spf_draw": "3.60",
+      "spf_lost": "3.00",
+      "spf_updated": "2026-04-30 13:25:09",
+      "gameid": "1202692",
+      "kickoff_cst": "2026-05-02 03:00",
+      "matchnum_label": "周五004",
+      "home_team_id": "1015",
+      "away_team_id": "700"
+    },
+    {
+      "xml_id": "2039441",
+      "matchnum": "5005",
+      "date": "2026-05-02",
+      "dayofweek": "星期六",
+      "league": "西班牙甲级联赛",
+      "home": "赫罗纳",
+      "away": "马洛卡",
+      "spf_win": "3.57",
+      "spf_draw": "3.60",
+      "spf_lost": "1.75",
+      "spf_updated": "2026-04-30 18:09:34",
+      "gameid": "1216082",
+      "kickoff_cst": "2026-05-02 03:00",
+      "matchnum_label": "周五005",
+      "home_team_id": "2074",
+      "away_team_id": "1062"
     }
   ]
 }
