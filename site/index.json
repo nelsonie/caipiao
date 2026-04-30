@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-30T08:10:16Z",
+  "last_updated_utc": "2026-04-30T08:20:14Z",
   "matches": [
     {
       "xml_id": "2039418",
@@ -81,10 +81,10 @@
       "league": "欧洲协会联赛",
       "home": "巴列卡诺",
       "away": "斯特拉斯堡",
-      "spf_win": "4.30",
-      "spf_draw": "3.40",
-      "spf_lost": "1.66",
-      "spf_updated": "2026-04-30 12:30:02",
+      "spf_win": "4.40",
+      "spf_draw": "3.30",
+      "spf_lost": "1.67",
+      "spf_updated": "2026-04-30 16:15:49",
       "gameid": "1407204",
       "kickoff_cst": "2026-05-01 03:00",
       "matchnum_label": "周四005",
@@ -198,6 +198,24 @@
       "matchnum_label": "周五004",
       "home_team_id": "1015",
       "away_team_id": "700"
+    },
+    {
+      "xml_id": "2039441",
+      "matchnum": "5005",
+      "date": "2026-05-02",
+      "dayofweek": "星期六",
+      "league": "西班牙甲级联赛",
+      "home": "赫罗纳",
+      "away": "马洛卡",
+      "spf_win": "3.45",
+      "spf_draw": "3.56",
+      "spf_lost": "1.79",
+      "spf_updated": "2026-04-30 13:42:24",
+      "gameid": "1216082",
+      "kickoff_cst": "2026-05-02 03:00",
+      "matchnum_label": "周五005",
+      "home_team_id": "2074",
+      "away_team_id": "1062"
     }
   ]
 }
