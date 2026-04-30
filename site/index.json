@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-30T15:20:13Z",
+  "last_updated_utc": "2026-04-30T15:30:15Z",
   "matches": [
     {
       "xml_id": "2039418",
@@ -146,24 +146,6 @@
       "away_team_id": "1035"
     },
     {
-      "xml_id": "2039438",
-      "matchnum": "5002",
-      "date": "2026-05-02",
-      "dayofweek": "星期六",
-      "league": "荷兰乙级联赛",
-      "home": "瓦尔韦克",
-      "away": "罗达JC",
-      "spf_win": "3.50",
-      "spf_draw": "3.60",
-      "spf_lost": "1.77",
-      "spf_updated": "2026-04-30 13:25:09",
-      "gameid": "1408448",
-      "kickoff_cst": "2026-05-02 02:00",
-      "matchnum_label": "周五002",
-      "home_team_id": "385",
-      "away_team_id": "1030"
-    },
-    {
       "xml_id": "2039439",
       "matchnum": "5003",
       "date": "2026-05-02",
@@ -180,24 +162,6 @@
       "matchnum_label": "周五003",
       "home_team_id": "1994",
       "away_team_id": "972"
-    },
-    {
-      "xml_id": "2039440",
-      "matchnum": "5004",
-      "date": "2026-05-02",
-      "dayofweek": "星期六",
-      "league": "英格兰超级联赛",
-      "home": "利兹联",
-      "away": "伯恩利",
-      "spf_win": "1.93",
-      "spf_draw": "3.60",
-      "spf_lost": "3.00",
-      "spf_updated": "2026-04-30 13:25:09",
-      "gameid": "1202692",
-      "kickoff_cst": "2026-05-02 03:00",
-      "matchnum_label": "周五004",
-      "home_team_id": "1015",
-      "away_team_id": "700"
     },
     {
       "xml_id": "2039441",
