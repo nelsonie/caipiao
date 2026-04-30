@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-30T17:50:12Z",
+  "last_updated_utc": "2026-04-30T18:00:12Z",
   "matches": [
     {
       "xml_id": "2039419",
@@ -126,6 +126,24 @@
       "matchnum_label": "周五001",
       "home_team_id": "1259",
       "away_team_id": "1035"
+    },
+    {
+      "xml_id": "2039438",
+      "matchnum": "5002",
+      "date": "2026-05-02",
+      "dayofweek": "星期六",
+      "league": "荷兰乙级联赛",
+      "home": "瓦尔韦克",
+      "away": "罗达JC",
+      "spf_win": "3.50",
+      "spf_draw": "3.60",
+      "spf_lost": "1.77",
+      "spf_updated": "2026-04-30 13:25:09",
+      "gameid": "1408448",
+      "kickoff_cst": "2026-05-02 02:00",
+      "matchnum_label": "周五002",
+      "home_team_id": "385",
+      "away_team_id": "1030"
     },
     {
       "xml_id": "2039439",
