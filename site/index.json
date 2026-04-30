@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-04-30T09:00:14Z",
+  "last_updated_utc": "2026-04-30T09:10:16Z",
   "matches": [
     {
       "xml_id": "2039418",
@@ -99,10 +99,10 @@
       "league": "南美解放者杯",
       "home": "玻利瓦尔",
       "away": "弗鲁米嫩塞",
-      "spf_win": "3.30",
-      "spf_draw": "3.50",
-      "spf_lost": "1.85",
-      "spf_updated": "2026-04-30 12:27:58",
+      "spf_win": "3.40",
+      "spf_draw": "3.53",
+      "spf_lost": "1.81",
+      "spf_updated": "2026-04-30 17:07:13",
       "gameid": "1398769",
       "kickoff_cst": "2026-05-01 06:00",
       "matchnum_label": "周四006",
@@ -162,60 +162,6 @@
       "matchnum_label": "周五002",
       "home_team_id": "385",
       "away_team_id": "1030"
-    },
-    {
-      "xml_id": "2039439",
-      "matchnum": "5003",
-      "date": "2026-05-02",
-      "dayofweek": "星期六",
-      "league": "意大利甲级联赛",
-      "home": "比萨",
-      "away": "莱切",
-      "spf_win": "1.41",
-      "spf_draw": "3.80",
-      "spf_lost": "6.35",
-      "spf_updated": "2026-04-30 13:25:09",
-      "gameid": "1199695",
-      "kickoff_cst": "2026-05-02 02:45",
-      "matchnum_label": "周五003",
-      "home_team_id": "1994",
-      "away_team_id": "972"
-    },
-    {
-      "xml_id": "2039440",
-      "matchnum": "5004",
-      "date": "2026-05-02",
-      "dayofweek": "星期六",
-      "league": "英格兰超级联赛",
-      "home": "利兹联",
-      "away": "伯恩利",
-      "spf_win": "1.93",
-      "spf_draw": "3.60",
-      "spf_lost": "3.00",
-      "spf_updated": "2026-04-30 13:25:09",
-      "gameid": "1202692",
-      "kickoff_cst": "2026-05-02 03:00",
-      "matchnum_label": "周五004",
-      "home_team_id": "1015",
-      "away_team_id": "700"
-    },
-    {
-      "xml_id": "2039441",
-      "matchnum": "5005",
-      "date": "2026-05-02",
-      "dayofweek": "星期六",
-      "league": "西班牙甲级联赛",
-      "home": "赫罗纳",
-      "away": "马洛卡",
-      "spf_win": "3.45",
-      "spf_draw": "3.56",
-      "spf_lost": "1.79",
-      "spf_updated": "2026-04-30 13:42:24",
-      "gameid": "1216082",
-      "kickoff_cst": "2026-05-02 03:00",
-      "matchnum_label": "周五005",
-      "home_team_id": "2074",
-      "away_team_id": "1062"
     }
   ]
 }
