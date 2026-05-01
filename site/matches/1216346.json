@@ -24,7 +24,7 @@
       "lost": "1.94",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T17:10:40Z"
+    "fetched_at_utc": "2026-05-01T17:20:44Z"
   },
   "shuju": {
     "title": "里奥阿维VS吉维森特(2025/2026葡超)-数据分析-500彩票网",
@@ -350,91 +350,14 @@
         "formation": null,
         "starters": [
           {
-            "number": "29",
-            "name": "巴库拉斯",
-            "position": "中场"
-          },
-          {
-            "number": "23",
-            "name": "佩特拉索",
-            "position": "后卫"
-          },
-          {
-            "number": "7",
-            "name": "安德烈·路易斯",
-            "position": "中场"
-          },
-          {
-            "number": "22",
-            "name": "若昂·佩德罗",
-            "position": "后卫"
-          },
-          {
             "number": "11",
-            "name": "蒂亚戈·莫拉伊斯",
-            "position": "中场"
-          },
-          {
-            "number": "9",
-            "name": "克莱顿·费尔南德斯·席尔瓦",
+            "name": "杰伦·阿莱克斯·米勒·布莱萨",
             "position": "前锋"
           },
           {
-            "number": "76",
-            "name": "马蒂姆·内托",
+            "number": "18",
+            "name": "达里奥·斯皮基奇",
             "position": "中场"
-          },
-          {
-            "number": "3",
-            "name": "安德烈亚斯·里卡多斯·恩托伊",
-            "position": "后卫"
-          },
-          {
-            "number": "20",
-            "name": "乔·汤姆·巴普蒂斯塔",
-            "position": "后卫"
-          },
-          {
-            "number": "1",
-            "name": "塞扎里·米斯塔",
-            "position": "门将"
-          },
-          {
-            "number": "8",
-            "name": "维托尔·戈麦斯",
-            "position": "中场"
-          }
-        ],
-        "subs": [
-          {
-            "number": "27",
-            "name": "托比亚斯·梅迪纳",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "卡列姆·佐比",
-            "position": "前锋"
-          },
-          {
-            "number": "17",
-            "name": "马里奥斯·弗鲁萨",
-            "position": "前锋"
-          },
-          {
-            "number": "34",
-            "name": "德米尔·埃格·蒂克纳兹",
-            "position": "中场"
-          },
-          {
-            "number": "19",
-            "name": "弗朗西斯科·塔瓦雷斯",
-            "position": "前锋"
-          },
-          {
-            "number": "95",
-            "name": "马修斯·特谢拉",
-            "position": "门将"
           },
           {
             "number": "80",
@@ -442,14 +365,91 @@
             "position": "中场"
           },
           {
-            "number": "2",
-            "name": "乔纳森·潘佐",
-            "position": "后卫"
+            "number": "7",
+            "name": "迪奥戈·贝泽拉·德奥利维拉",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "安德烈亚斯·恩托伊",
+            "position": "中场"
+          },
+          {
+            "number": "44",
+            "name": "塔马斯·尼基舍",
+            "position": "中场"
           },
           {
             "number": "6",
-            "name": "若奥·诺瓦斯",
+            "name": "尼尔森·艾比",
+            "position": "后卫"
+          },
+          {
+            "number": "39",
+            "name": "曼查·古斯塔沃",
+            "position": "后卫"
+          },
+          {
+            "number": "32",
+            "name": "雅库布·布拉贝茨",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "马里奥斯·弗鲁萨",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "塞扎里·米斯塔",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "54",
+            "name": "乔尔戈斯·里瓦斯",
             "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "塔比莱·蒙泰罗",
+            "position": "前锋"
+          },
+          {
+            "number": "23",
+            "name": "弗朗西斯科·佩特拉索",
+            "position": "后卫"
+          },
+          {
+            "number": "77",
+            "name": "奥玛尔·理查兹",
+            "position": "后卫"
+          },
+          {
+            "number": "8",
+            "name": "瑞安·吉列尔梅·达席尔瓦",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "拉斐尔·吉努伊诺·洛巴托",
+            "position": "前锋"
+          },
+          {
+            "number": "20",
+            "name": "若昂·托梅·巴普蒂斯塔",
+            "position": "后卫"
+          },
+          {
+            "number": "63",
+            "name": "朱利安·隆博托",
+            "position": "后卫"
+          },
+          {
+            "number": "99",
+            "name": "恩尼奥·范德古",
+            "position": "守门员"
           }
         ],
         "injured": [],
@@ -459,18 +459,33 @@
         "formation": null,
         "starters": [
           {
-            "number": "8",
-            "name": "班巴",
+            "number": "23",
+            "name": "赫克托·埃尔南德斯",
+            "position": "前锋"
+          },
+          {
+            "number": "32",
+            "name": "马丁·费尔南德斯",
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "法昆多·卡塞雷斯",
+            "number": "95",
+            "name": "圣地亚哥·加西亚·冈萨雷斯",
             "position": "中场"
           },
           {
-            "number": "33",
-            "name": "若昂·马奎斯",
+            "number": "77",
+            "name": "穆里洛·德索萨·科斯塔",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "路易斯·埃斯特维斯",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "泽卡洛斯",
             "position": "中场"
           },
           {
@@ -484,81 +499,61 @@
             "position": "后卫"
           },
           {
-            "number": "2",
-            "name": "泽·卡洛斯",
-            "position": "后卫"
-          },
-          {
-            "number": "90",
-            "name": "巴勃罗·费利佩·佩雷拉·德·耶稣",
-            "position": "前锋"
-          },
-          {
             "number": "4",
             "name": "马文·埃利比·吉尔伯特",
             "position": "后卫"
           },
           {
+            "number": "2",
+            "name": "泽·卡洛斯",
+            "position": "后卫"
+          },
+          {
             "number": "99",
-            "name": "布莱恩·达罗查·阿劳乔",
-            "position": "门将"
-          },
-          {
-            "number": "22",
-            "name": "塞尔吉奥·贝梅乔·利洛",
-            "position": "中场"
-          },
-          {
-            "number": "71",
-            "name": "菲利克斯·科雷亚",
-            "position": "中场"
+            "name": "丹尼尔·菲盖拉",
+            "position": "守门员"
           }
         ],
         "subs": [
           {
-            "number": "80",
-            "name": "罗德里戈·罗德里格斯",
-            "position": "中场"
-          },
-          {
-            "number": "28",
-            "name": "迪奥戈·佩雷拉",
-            "position": "中场"
-          },
-          {
-            "number": "16",
-            "name": "吉列尔梅·贝莱扎·布拉加·菲格雷多",
-            "position": "中场"
-          },
-          {
             "number": "29",
-            "name": "卡洛斯·爱德华多",
+            "name": "卡洛斯·爱德华多·博尔赫斯·帕伦特",
             "position": "前锋"
           },
           {
-            "number": "9",
-            "name": "豪尔赫·阿吉雷·德·塞斯佩德斯",
-            "position": "前锋"
-          },
-          {
-            "number": "19",
-            "name": "圣地亚哥·加西亚",
-            "position": "中场"
-          },
-          {
-            "number": "88",
-            "name": "克里斯蒂安·我妻贤治·费雷拉",
+            "number": "20",
+            "name": "赫弗顿·西里亚科·桑托斯",
             "position": "后卫"
           },
           {
-            "number": "42",
-            "name": "安德鲁·文图拉",
-            "position": "门将"
+            "number": "48",
+            "name": "安东尼奥·埃斯皮加雷斯",
+            "position": "后卫"
           },
           {
-            "number": "18",
-            "name": "若奥·特谢拉",
-            "position": "中场"
+            "number": "30",
+            "name": "卢克",
+            "position": "守门员"
+          },
+          {
+            "number": "89",
+            "name": "古斯塔沃·瓦雷拉",
+            "position": "前锋"
+          },
+          {
+            "number": "27",
+            "name": "阿古斯丁·莫雷拉",
+            "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "塞尔吉奥·贝尔梅霍·利略",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "乔尔森·费尔南德斯",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -664,22 +659,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.070↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.640↑",
-        "time": "05-01 22:19"
-      },
-      "init": {
-        "home_water": "1.740",
-        "handicap": "平手",
-        "away_water": "0.490",
-        "time": "04-27 18:41"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -693,6 +672,22 @@
         "handicap": "受半球",
         "away_water": "0.980",
         "time": "04-28 08:28"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.070↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.640↑",
+        "time": "05-01 22:19"
+      },
+      "init": {
+        "home_water": "1.740",
+        "handicap": "平手",
+        "away_water": "0.490",
+        "time": "04-27 18:41"
       }
     },
     {
