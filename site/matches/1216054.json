@@ -24,7 +24,7 @@
       "lost": "4.28",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T03:10:38Z"
+    "fetched_at_utc": "2026-05-01T03:20:30Z"
   },
   "shuju": {
     "title": "维戈塞尔塔VS埃尔切(2025/2026西甲)-数据分析-500彩票网",
@@ -734,22 +734,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.930↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.800↑",
-        "time": "04-29 23:01"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "一球",
-        "away_water": "0.780",
-        "time": "04-24 18:24"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -763,6 +747,22 @@
         "handicap": "半球",
         "away_water": "0.840",
         "time": "04-25 00:45"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.930↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.800↑",
+        "time": "04-29 23:01"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "一球",
+        "away_water": "0.780",
+        "time": "04-24 18:24"
       }
     },
     {
