@@ -24,7 +24,7 @@
       "lost": "1.94",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T03:50:39Z"
+    "fetched_at_utc": "2026-05-01T04:00:40Z"
   },
   "shuju": {
     "title": "里奥阿维VS吉维森特(2025/2026葡超)-数据分析-500彩票网",
@@ -664,22 +664,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "受半球",
-        "away_water": "0.990↑",
-        "time": "04-30 15:25"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "受半球",
-        "away_water": "0.980",
-        "time": "04-28 08:28"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -693,6 +677,22 @@
         "handicap": "平手",
         "away_water": "0.490",
         "time": "04-27 18:41"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "受半球",
+        "away_water": "0.990↑",
+        "time": "04-30 15:25"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "受半球",
+        "away_water": "0.980",
+        "time": "04-28 08:28"
       }
     },
     {
