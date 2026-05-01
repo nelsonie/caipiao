@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "球半/两球",
-      "home_water": "0.790↓",
-      "away_water": "0.860↑",
+      "home_water": "0.780↓",
+      "away_water": "0.840↑",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "9.50",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-01T04:00:39Z"
+    "fetched_at_utc": "2026-05-01T04:10:35Z"
   },
   "shuju": {
     "title": "国际米兰VS帕尔马(2025/2026意甲)-数据分析-500彩票网",
@@ -385,10 +385,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.790↓",
+        "home_water": "0.780↓",
         "handicap": "球半/两球",
-        "away_water": "0.860↑",
-        "time": "04-30 19:47"
+        "away_water": "0.840↑",
+        "time": "05-01 10:03"
       },
       "init": {
         "home_water": "0.890",
@@ -494,22 +494,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "球半/两球",
-        "away_water": "1.010↑",
-        "time": "05-01 08:53"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "球半/两球",
-        "away_water": "0.900",
-        "time": "04-20 04:19"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -523,6 +507,22 @@
         "handicap": "球半/两球",
         "away_water": "0.850",
         "time": "04-20 03:35"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "球半/两球",
+        "away_water": "1.010↑",
+        "time": "05-01 08:53"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "球半/两球",
+        "away_water": "0.900",
+        "time": "04-20 04:19"
       }
     },
     {
@@ -548,7 +548,7 @@
         "home_water": "0.840↓",
         "handicap": "球半/两球",
         "away_water": "1.060↑",
-        "time": "05-01 05:21"
+        "time": "05-01 11:43"
       },
       "init": {
         "home_water": "1.020",
