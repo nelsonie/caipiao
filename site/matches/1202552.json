@@ -24,7 +24,7 @@
       "lost": "2.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T05:20:37Z"
+    "fetched_at_utc": "2026-05-01T05:30:44Z"
   },
   "shuju": {
     "title": "曼彻斯特联VS利物浦(2025/2026英超)-数据分析-500彩票网",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.800↓",
-        "time": "04-29 15:11"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "平手",
-        "away_water": "1.030",
-        "time": "04-23 19:28"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "平手",
         "away_water": "1.110",
         "time": "04-19 01:27"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.800↓",
+        "time": "04-29 15:11"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "平手",
+        "away_water": "1.030",
+        "time": "04-23 19:28"
       }
     },
     {

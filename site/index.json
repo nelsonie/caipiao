@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-01T05:20:41Z",
+  "last_updated_utc": "2026-05-01T05:30:48Z",
   "matches": [
     {
       "xml_id": "2039437",
@@ -9,10 +9,10 @@
       "league": "挪威超级联赛",
       "home": "维京",
       "away": "罗森博格",
-      "spf_win": "1.86",
+      "spf_win": "1.84",
       "spf_draw": "3.73",
-      "spf_lost": "3.10",
-      "spf_updated": "2026-05-01 13:05:51",
+      "spf_lost": "3.15",
+      "spf_updated": "2026-05-01 13:23:16",
       "gameid": "1364061",
       "kickoff_cst": "2026-05-02 00:00",
       "matchnum_label": "周五001",
@@ -738,6 +738,42 @@
       "matchnum_label": "周日015",
       "home_team_id": "1075",
       "away_team_id": "1011"
+    },
+    {
+      "xml_id": "2039492",
+      "matchnum": "7016",
+      "date": "2026-05-03",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "阿尔克马尔",
+      "away": "特温特",
+      "spf_win": "1.49",
+      "spf_draw": "4.25",
+      "spf_lost": "4.50",
+      "spf_updated": "2026-05-01 09:41:43",
+      "gameid": "1202909",
+      "kickoff_cst": "2026-05-03 22:45",
+      "matchnum_label": "周日016",
+      "home_team_id": "224",
+      "away_team_id": "1231"
+    },
+    {
+      "xml_id": "2039495",
+      "matchnum": "7019",
+      "date": "2026-05-03",
+      "dayofweek": "星期天",
+      "league": "德国甲级联赛",
+      "home": "门兴格拉德巴赫",
+      "away": "多特蒙德",
+      "spf_win": "1.77",
+      "spf_draw": "3.82",
+      "spf_lost": "3.30",
+      "spf_updated": "2026-05-01 09:41:43",
+      "gameid": "1206145",
+      "kickoff_cst": "2026-05-03 23:30",
+      "matchnum_label": "周日019",
+      "home_team_id": "1089",
+      "away_team_id": "786"
     },
     {
       "xml_id": "2039496",
