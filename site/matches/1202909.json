@@ -24,7 +24,7 @@
       "lost": "2.24",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T10:50:33Z"
+    "fetched_at_utc": "2026-05-01T11:00:34Z"
   },
   "shuju": {
     "title": "阿尔克马尔VS特温特(2025/2026荷甲)-数据分析-500彩票网",
@@ -710,22 +710,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.070↑",
-        "handicap": "平手",
-        "away_water": "0.790↓",
-        "time": "05-01 13:42"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "平手",
-        "away_water": "0.880",
-        "time": "04-28 08:28"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -739,6 +723,22 @@
         "handicap": "平手",
         "away_water": "0.890",
         "time": "04-26 23:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.070↑",
+        "handicap": "平手",
+        "away_water": "0.790↓",
+        "time": "05-01 13:42"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "平手",
+        "away_water": "0.880",
+        "time": "04-28 08:28"
       }
     },
     {
