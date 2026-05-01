@@ -24,7 +24,7 @@
       "lost": "2.18",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T13:10:11Z"
+    "fetched_at_utc": "2026-05-01T13:20:11Z"
   },
   "shuju": {
     "title": "大阪钢巴VS神户胜利船(2026日职)-数据分析-500彩票网",
@@ -710,22 +710,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "平手",
-        "away_water": "0.810↓",
-        "time": "04-30 14:22"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "平手",
-        "away_water": "0.830",
-        "time": "04-29 14:32"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -739,6 +723,22 @@
         "handicap": "平手",
         "away_water": "0.890",
         "time": "04-29 14:27"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "平手",
+        "away_water": "0.810↓",
+        "time": "04-30 14:22"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "平手",
+        "away_water": "0.830",
+        "time": "04-29 14:32"
       }
     },
     {
@@ -764,7 +764,7 @@
         "home_water": "1.060↑",
         "handicap": "平手",
         "away_water": "0.840↓",
-        "time": "05-01 16:48"
+        "time": "05-01 20:06"
       },
       "init": {
         "home_water": "0.960",
@@ -828,7 +828,7 @@
         "home_water": "0.960↑",
         "handicap": "平手",
         "away_water": "0.820↓",
-        "time": "05-01 18:39"
+        "time": "05-01 19:23"
       },
       "init": {
         "home_water": "0.830",
@@ -2034,7 +2034,7 @@
     {
       "cid": "863",
       "company": "18**t",
-      "time": "2026-05-01 18:04:34",
+      "time": "2026-05-01 19:45:32",
       "odds": {
         "live": [
           "2.55",
