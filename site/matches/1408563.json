@@ -24,7 +24,7 @@
       "lost": "3.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T22:50:10Z"
+    "fetched_at_utc": "2026-05-01T23:00:11Z"
   },
   "shuju": {
     "title": "墨尔本胜利VS悉尼FC(2025/2026澳超)-数据分析-500彩票网",
@@ -634,22 +634,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.780↑",
-        "handicap": "平手/半球升",
-        "away_water": "1.100↓",
-        "time": "05-02 06:37"
-      },
-      "init": {
-        "home_water": "0.520",
-        "handicap": "平手",
-        "away_water": "1.630",
-        "time": "04-26 22:55"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -663,6 +647,22 @@
         "handicap": "半球",
         "away_water": "0.810",
         "time": "05-01 08:56"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.780↑",
+        "handicap": "平手/半球升",
+        "away_water": "1.100↓",
+        "time": "05-02 06:37"
+      },
+      "init": {
+        "home_water": "0.520",
+        "handicap": "平手",
+        "away_water": "1.630",
+        "time": "04-26 22:55"
       }
     },
     {
@@ -685,10 +685,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "1.050↓",
+        "home_water": "1.070",
         "handicap": "半球",
-        "away_water": "0.810↓",
-        "time": "05-02 06:42"
+        "away_water": "0.830",
+        "time": "05-02 06:46"
       },
       "init": {
         "home_water": "1.070",
