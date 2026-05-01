@@ -24,7 +24,7 @@
       "lost": "4.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T20:50:28Z"
+    "fetched_at_utc": "2026-05-01T21:00:26Z"
   },
   "shuju": {
     "title": "博洛尼亚VS卡利亚里(2025/2026意甲)-数据分析-500彩票网",
@@ -732,22 +732,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "半球/一球",
-        "away_water": "0.740↓",
-        "time": "04-30 22:19"
-      },
-      "init": {
-        "home_water": "0.720",
-        "handicap": "半球/一球",
-        "away_water": "1.020",
-        "time": "04-20 03:40"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -761,6 +745,22 @@
         "handicap": "半球/一球",
         "away_water": "1.110",
         "time": "04-20 04:22"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "半球/一球",
+        "away_water": "0.740↓",
+        "time": "04-30 22:19"
+      },
+      "init": {
+        "home_water": "0.720",
+        "handicap": "半球/一球",
+        "away_water": "1.020",
+        "time": "04-20 03:40"
       }
     },
     {
