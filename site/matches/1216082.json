@@ -24,7 +24,7 @@
       "lost": "3.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T02:20:08Z"
+    "fetched_at_utc": "2026-05-01T02:30:09Z"
   },
   "shuju": {
     "title": "赫罗纳VS马洛卡(2025/2026西甲)-数据分析-500彩票网",
@@ -724,22 +724,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.050↑",
-        "handicap": "半球",
-        "away_water": "0.830↓",
-        "time": "05-01 03:10"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "半球",
-        "away_water": "0.960",
-        "time": "04-25 00:46"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -753,6 +737,22 @@
         "handicap": "半球/一球",
         "away_water": "0.680",
         "time": "04-24 18:23"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.050↑",
+        "handicap": "半球",
+        "away_water": "0.830↓",
+        "time": "05-01 03:10"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "半球",
+        "away_water": "0.960",
+        "time": "04-25 00:46"
       }
     },
     {
