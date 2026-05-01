@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "半球",
-      "home_water": "0.950↑",
-      "away_water": "0.830↓",
+      "home_water": "0.890↑",
+      "away_water": "0.780↓",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "3.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T11:00:15Z"
+    "fetched_at_utc": "2026-05-01T11:10:18Z"
   },
   "shuju": {
     "title": "云达不莱梅VS奥格斯堡(2025/2026德甲)-数据分析-500彩票网",
@@ -571,10 +571,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.890↑",
         "handicap": "半球",
-        "away_water": "0.830↓",
-        "time": "05-01 17:37"
+        "away_water": "0.780↓",
+        "time": "05-01 18:43"
       },
       "init": {
         "home_water": "0.850",
@@ -680,22 +680,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "半球",
-        "away_water": "0.850↓",
-        "time": "05-01 16:58"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "半球",
-        "away_water": "0.950",
-        "time": "04-20 15:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -712,13 +696,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "半球",
+        "away_water": "0.850↓",
+        "time": "05-01 16:58"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "半球",
+        "away_water": "0.950",
+        "time": "04-20 15:03"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "1.010↑",
         "handicap": "半球",
-        "away_water": "0.910↓",
-        "time": "05-01 16:42"
+        "away_water": "0.900↓",
+        "time": "05-01 18:33"
       },
       "init": {
         "home_water": "0.890",
@@ -734,7 +734,7 @@
         "home_water": "1.000↑",
         "handicap": "半球",
         "away_water": "0.900↓",
-        "time": "05-01 12:26"
+        "time": "05-01 19:03"
       },
       "init": {
         "home_water": "0.930",
@@ -795,10 +795,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.950↑",
         "handicap": "半球",
-        "away_water": "0.820↓",
-        "time": "05-01 18:20"
+        "away_water": "0.830↓",
+        "time": "05-01 18:32"
       },
       "init": {
         "home_water": "0.860",
@@ -1367,7 +1367,7 @@
     {
       "cid": "1055",
       "company": "Pi****le平*",
-      "time": "2026-05-01 16:42:11",
+      "time": "2026-05-01 18:32:51",
       "odds": {
         "live": [
           "1.88",
@@ -1375,9 +1375,9 @@
           "3.72"
         ],
         "init": [
-          "1.99",
+          "2.00",
           "3.89",
-          "3.64"
+          "3.62"
         ]
       },
       "prob": {
@@ -1387,9 +1387,9 @@
           "25.27%"
         ],
         "init": [
-          "48.58%",
-          "24.85%",
-          "26.56%"
+          "48.39%",
+          "24.88%",
+          "26.73%"
         ]
       },
       "ret": {
@@ -1397,7 +1397,7 @@
           "93.99%"
         ],
         "init": [
-          "96.68%"
+          "96.78%"
         ]
       },
       "kelly": {
