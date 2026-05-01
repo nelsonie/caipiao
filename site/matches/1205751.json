@@ -24,7 +24,7 @@
       "lost": "1.72",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T11:20:29Z"
+    "fetched_at_utc": "2026-05-01T11:30:30Z"
   },
   "shuju": {
     "title": "尼斯VS朗斯(2025/2026法甲)-数据分析-500彩票网",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "受半球/一球",
-        "away_water": "0.970↑",
-        "time": "04-30 19:33"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "受半球/一球",
-        "away_water": "0.950",
-        "time": "04-23 20:23"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.870",
         "time": "04-20 03:40"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "受半球/一球",
+        "away_water": "0.970↑",
+        "time": "04-30 19:33"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "受半球/一球",
+        "away_water": "0.950",
+        "time": "04-23 20:23"
       }
     },
     {
