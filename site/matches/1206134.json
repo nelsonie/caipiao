@@ -24,7 +24,7 @@
       "lost": "4.25",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T15:50:14Z"
+    "fetched_at_utc": "2026-05-01T16:00:19Z"
   },
   "shuju": {
     "title": "法兰克福VS汉堡(2025/2026德甲)-数据分析-500彩票网",
@@ -680,22 +680,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "半球/一球",
-        "away_water": "0.860↑",
-        "time": "05-01 20:02"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "半球/一球",
-        "away_water": "0.850",
-        "time": "04-20 03:29"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -709,6 +693,22 @@
         "handicap": "半球/一球",
         "away_water": "0.890",
         "time": "04-20 15:32"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "半球/一球",
+        "away_water": "0.860↑",
+        "time": "05-01 20:02"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "半球/一球",
+        "away_water": "0.850",
+        "time": "04-20 03:29"
       }
     },
     {

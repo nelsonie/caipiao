@@ -24,7 +24,7 @@
       "lost": "7.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-01T15:50:07Z"
+    "fetched_at_utc": "2026-05-01T16:00:09Z"
   },
   "shuju": {
     "title": "维京VS罗森博格(2026挪超)-数据分析-500彩票网",
@@ -398,14 +398,9 @@
         "formation": null,
         "starters": [
           {
-            "number": "10",
-            "name": "扎特拉科·特里皮奇",
+            "number": "26",
+            "name": "西蒙·科维亚·埃格斯科格",
             "position": "前锋"
-          },
-          {
-            "number": "7",
-            "name": "克里斯托弗·阿斯基尔森",
-            "position": "中场"
           },
           {
             "number": "20",
@@ -413,29 +408,19 @@
             "position": "前锋"
           },
           {
-            "number": "25",
-            "name": "亨里克·法尔切纳",
-            "position": "后卫"
+            "number": "10",
+            "name": "扎特拉科·特里皮奇",
+            "position": "中场"
           },
           {
             "number": "23",
             "name": "尼克拉斯·富格莱斯塔",
-            "position": "前锋"
-          },
-          {
-            "number": "28",
-            "name": "克里斯托弗·海根",
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "亨里克·海格海姆",
-            "position": "后卫"
-          },
-          {
-            "number": "26",
-            "name": "西蒙·科维亚·埃格斯科格",
-            "position": "前锋"
+            "number": "7",
+            "name": "克里斯托弗·阿斯基尔森",
+            "position": "中场"
           },
           {
             "number": "29",
@@ -443,8 +428,23 @@
             "position": "中场"
           },
           {
+            "number": "28",
+            "name": "克里斯托弗·海根",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "亨里克·法尔切纳",
+            "position": "后卫"
+          },
+          {
             "number": "6",
             "name": "吉安尼·斯滕斯内斯",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "亨里克·海格海姆",
             "position": "后卫"
           },
           {
@@ -460,23 +460,13 @@
             "position": "后卫"
           },
           {
-            "number": "11",
-            "name": "希尔米尔·拉芬·迈克尔森",
+            "number": "17",
+            "name": "埃德温·奥斯特",
             "position": "前锋"
           },
           {
-            "number": "2",
-            "name": "赫尔曼·约翰·豪根",
-            "position": "后卫"
-          },
-          {
-            "number": "13",
-            "name": "S. 埃斯科巴尔",
-            "position": "守门员"
-          },
-          {
-            "number": "18",
-            "name": "桑德雷·弗莱姆·比约索尔",
+            "number": "21",
+            "name": "安德尔斯·巴尔特尔森",
             "position": "后卫"
           },
           {
@@ -485,19 +475,29 @@
             "position": "中场"
           },
           {
-            "number": "21",
-            "name": "安德尔斯·巴尔特尔森",
+            "number": "18",
+            "name": "桑德雷·弗莱姆·比约索尔",
             "position": "后卫"
           },
           {
-            "number": "17",
-            "name": "埃德温·奥斯特",
+            "number": "2",
+            "name": "赫尔曼·约翰·豪根",
+            "position": "后卫"
+          },
+          {
+            "number": "11",
+            "name": "希尔米尔·拉芬·迈克尔森",
             "position": "前锋"
           },
           {
             "number": "15",
             "name": "奥拉·维斯特德",
             "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "阿恩-塞巴斯蒂安·维克·埃斯科巴尔",
+            "position": "守门员"
           }
         ],
         "injured": [],
@@ -507,34 +507,34 @@
         "formation": null,
         "starters": [
           {
+            "number": "9",
+            "name": "迪诺·伊斯拉莫维奇",
+            "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "马茨·博姆霍尔特",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "诺亚·萨沙",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "约翰·巴克",
+            "position": "中场"
+          },
+          {
             "number": "10",
             "name": "奥莱·塞尔纳斯",
             "position": "中场"
           },
           {
-            "number": "11",
-            "name": "诺亚·萨沙",
-            "position": "前锋"
-          },
-          {
-            "number": "2",
-            "name": "哈孔·罗斯滕",
-            "position": "后卫"
-          },
-          {
             "number": "7",
             "name": "西蒙·博尔坎·努尔利",
-            "position": "前锋"
-          },
-          {
-            "number": "21",
-            "name": "内奇克·托马斯",
-            "position": "后卫"
-          },
-          {
-            "number": "9",
-            "name": "迪诺·伊斯拉莫维奇",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "3",
@@ -542,9 +542,14 @@
             "position": "后卫"
           },
           {
-            "number": "17",
-            "name": "马茨·博姆霍尔特",
-            "position": "中场"
+            "number": "21",
+            "name": "内奇克·托马斯",
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "哈孔·罗斯滕",
+            "position": "后卫"
           },
           {
             "number": "16",
@@ -555,39 +560,9 @@
             "number": "1",
             "name": "利奥波德·瓦尔斯泰特",
             "position": "守门员"
-          },
-          {
-            "number": "25",
-            "name": "约翰·巴克",
-            "position": "中场"
           }
         ],
         "subs": [
-          {
-            "number": "18",
-            "name": "阿明·奇亚卡",
-            "position": "前锋"
-          },
-          {
-            "number": "29",
-            "name": "大卫·杜里斯",
-            "position": "前锋"
-          },
-          {
-            "number": "8",
-            "name": "艾弗·福萨姆",
-            "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "乔纳斯·索加尔·莫尔滕森",
-            "position": "后卫"
-          },
-          {
-            "number": "19",
-            "name": "阿德里安·尼尔森·佩雷拉",
-            "position": "后卫"
-          },
           {
             "number": "12",
             "name": "拉斯马斯·桑德伯格",
@@ -599,13 +574,38 @@
             "position": "中场"
           },
           {
-            "number": "35",
-            "name": "埃米尔·孔拉德森·塞德",
+            "number": "15",
+            "name": "乔纳斯·索加尔·莫尔滕森",
+            "position": "后卫"
+          },
+          {
+            "number": "8",
+            "name": "艾弗·福萨姆",
+            "position": "中场"
+          },
+          {
+            "number": "29",
+            "name": "大卫·杜里斯",
+            "position": "前锋"
+          },
+          {
+            "number": "18",
+            "name": "阿明·奇亚卡",
             "position": "前锋"
           },
           {
             "number": "4",
             "name": "米克尔·康拉德森·塞德",
+            "position": "后卫"
+          },
+          {
+            "number": "35",
+            "name": "埃米尔·孔拉德森·塞德",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "阿德里安·尼尔森·佩雷拉",
             "position": "后卫"
           }
         ],
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.750↓",
-        "handicap": "一球/球半升",
-        "away_water": "0.890↑",
-        "time": "05-01 23:38"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "一球",
-        "away_water": "0.750",
-        "time": "04-26 00:27"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球/球半",
         "away_water": "0.920",
         "time": "04-27 19:35"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.750↓",
+        "handicap": "一球/球半升",
+        "away_water": "0.890↑",
+        "time": "05-01 23:38"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "一球",
+        "away_water": "0.750",
+        "time": "04-26 00:27"
       }
     },
     {
