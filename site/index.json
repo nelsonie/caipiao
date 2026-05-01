@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-01T03:20:40Z",
+  "last_updated_utc": "2026-05-01T03:30:43Z",
   "matches": [
     {
       "xml_id": "2039437",
@@ -45,10 +45,10 @@
       "league": "意大利甲级联赛",
       "home": "比萨",
       "away": "莱切",
-      "spf_win": "1.47",
-      "spf_draw": "3.70",
-      "spf_lost": "5.60",
-      "spf_updated": "2026-05-01 11:08:22",
+      "spf_win": "1.49",
+      "spf_draw": "3.65",
+      "spf_lost": "5.45",
+      "spf_updated": "2026-05-01 11:20:18",
       "gameid": "1199695",
       "kickoff_cst": "2026-05-02 02:45",
       "matchnum_label": "周五003",
@@ -218,6 +218,24 @@
       "away_team_id": "776"
     },
     {
+      "xml_id": "2039456",
+      "matchnum": "6010",
+      "date": "2026-05-02",
+      "dayofweek": "星期六",
+      "league": "德国甲级联赛",
+      "home": "云达不来梅",
+      "away": "奥格斯堡",
+      "spf_win": "3.35",
+      "spf_draw": "3.76",
+      "spf_lost": "1.77",
+      "spf_updated": "2026-05-01 09:41:43",
+      "gameid": "1206149",
+      "kickoff_cst": "2026-05-02 21:30",
+      "matchnum_label": "周六010",
+      "home_team_id": "1334",
+      "away_team_id": "1923"
+    },
+    {
       "xml_id": "2039458",
       "matchnum": "6012",
       "date": "2026-05-02",
@@ -360,6 +378,24 @@
       "matchnum_label": "周六019",
       "home_team_id": "935",
       "away_team_id": "1125"
+    },
+    {
+      "xml_id": "2039468",
+      "matchnum": "6022",
+      "date": "2026-05-03",
+      "dayofweek": "星期天",
+      "league": "德国甲级联赛",
+      "home": "勒沃库森",
+      "away": "莱比锡红牛",
+      "spf_win": "3.75",
+      "spf_draw": "4.13",
+      "spf_lost": "1.61",
+      "spf_updated": "2026-05-01 09:41:43",
+      "gameid": "1206135",
+      "kickoff_cst": "2026-05-03 00:30",
+      "matchnum_label": "周六022",
+      "home_team_id": "986",
+      "away_team_id": "970"
     },
     {
       "xml_id": "2039469",
@@ -612,6 +648,24 @@
       "matchnum_label": "周日007",
       "home_team_id": "457",
       "away_team_id": "564"
+    },
+    {
+      "xml_id": "2039485",
+      "matchnum": "7009",
+      "date": "2026-05-03",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "福图纳锡塔德",
+      "away": "费耶诺德",
+      "spf_win": "2.53",
+      "spf_draw": "3.70",
+      "spf_lost": "2.16",
+      "spf_updated": "2026-05-01 09:41:43",
+      "gameid": "1202906",
+      "kickoff_cst": "2026-05-03 20:30",
+      "matchnum_label": "周日009",
+      "home_team_id": "1303",
+      "away_team_id": "801"
     },
     {
       "xml_id": "2039487",
