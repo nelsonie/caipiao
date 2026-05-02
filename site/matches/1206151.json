@@ -24,7 +24,7 @@
       "lost": "2.41",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T15:30:44Z"
+    "fetched_at_utc": "2026-05-02T15:40:46Z"
   },
   "shuju": {
     "title": "弗赖堡VS沃尔夫斯堡(2025/2026德甲)-数据分析-500彩票网",
@@ -701,22 +701,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "平手降",
-        "away_water": "1.010↑",
-        "time": "05-01 22:40"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "半球/一球",
-        "away_water": "0.750",
-        "time": "04-20 03:29"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -730,6 +714,22 @@
         "handicap": "半球",
         "away_water": "0.950",
         "time": "04-20 15:32"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "平手降",
+        "away_water": "1.010↑",
+        "time": "05-01 22:40"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "半球/一球",
+        "away_water": "0.750",
+        "time": "04-20 03:29"
       }
     },
     {
