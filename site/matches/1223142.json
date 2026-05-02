@@ -24,7 +24,7 @@
       "lost": "2.93",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T01:10:28Z"
+    "fetched_at_utc": "2026-05-02T01:20:29Z"
   },
   "shuju": {
     "title": "马格德堡VS柏林赫塔(2025/2026德乙)-数据分析-500彩票网",
@@ -680,22 +680,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910",
-        "handicap": "平手/半球",
-        "away_water": "0.880",
-        "time": "05-01 08:49"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "平手/半球",
-        "away_water": "0.880",
-        "time": "04-28 08:16"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -709,6 +693,22 @@
         "handicap": "平手/半球",
         "away_water": "0.860",
         "time": "04-26 19:59"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910",
+        "handicap": "平手/半球",
+        "away_water": "0.880",
+        "time": "05-01 08:49"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "平手/半球",
+        "away_water": "0.880",
+        "time": "04-28 08:16"
       }
     },
     {
@@ -734,7 +734,7 @@
         "home_water": "0.860↓",
         "handicap": "平手/半球",
         "away_water": "1.040↑",
-        "time": "05-02 08:05"
+        "time": "05-02 09:07"
       },
       "init": {
         "home_water": "1.030",
