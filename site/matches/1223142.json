@@ -13,9 +13,9 @@
       "lost": "1.66"
     },
     "asia_main": {
-      "handicap": "平手/半球",
-      "home_water": "0.780↓",
-      "away_water": "0.870↑",
+      "handicap": "半球升",
+      "home_water": "1.050↑",
+      "away_water": "0.700",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "2.93",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T18:10:12Z"
+    "fetched_at_utc": "2026-05-02T18:20:12Z"
   },
   "shuju": {
     "title": "马格德堡VS柏林赫塔(2025/2026德乙)-数据分析-500彩票网",
@@ -571,10 +571,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.780↓",
-        "handicap": "平手/半球",
-        "away_water": "0.870↑",
-        "time": "05-03 01:45"
+        "home_water": "1.050↑",
+        "handicap": "半球升",
+        "away_water": "0.700",
+        "time": "05-03 02:00"
       },
       "init": {
         "home_water": "0.930",
@@ -680,22 +680,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "平手/半球",
-        "away_water": "0.970↑",
-        "time": "05-03 01:41"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "平手/半球",
-        "away_water": "0.880",
-        "time": "04-28 08:16"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -709,6 +693,22 @@
         "handicap": "平手/半球",
         "away_water": "0.860",
         "time": "04-26 19:59"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "平手/半球",
+        "away_water": "0.970↑",
+        "time": "05-03 01:41"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "平手/半球",
+        "away_water": "0.880",
+        "time": "04-28 08:16"
       }
     },
     {
@@ -811,10 +811,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.890↓",
+        "home_water": "0.880↓",
         "handicap": "平手/半球",
-        "away_water": "1.010↑",
-        "time": "05-02 19:36"
+        "away_water": "1.020↑",
+        "time": "05-03 01:55"
       },
       "init": {
         "home_water": "1.020",
