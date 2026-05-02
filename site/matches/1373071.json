@@ -24,7 +24,7 @@
       "lost": "2.42",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T07:40:08Z"
+    "fetched_at_utc": "2026-05-02T07:50:08Z"
   },
   "shuju": {
     "title": "仁川联合VS江原FC(2026K1联赛)-数据分析-500彩票网",
@@ -398,19 +398,19 @@
         "formation": null,
         "starters": [
           {
-            "number": "9",
-            "name": "斯特凡·穆戈沙",
-            "position": "前锋"
-          },
-          {
             "number": "99",
             "name": "摩根·费里尔",
             "position": "前锋"
           },
           {
+            "number": "9",
+            "name": "斯特凡·穆戈沙",
+            "position": "前锋"
+          },
+          {
             "number": "72",
             "name": "李青龙",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "15",
@@ -425,7 +425,7 @@
           {
             "number": "10",
             "name": "?同律",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "32",
@@ -445,7 +445,7 @@
           {
             "number": "39",
             "name": "金明淳",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "21",
@@ -455,11 +455,6 @@
         ],
         "subs": [
           {
-            "number": "13",
-            "name": "崔胜究",
-            "position": "后卫"
-          },
-          {
             "number": "11",
             "name": "盖尔索·费尔南德斯",
             "position": "前锋"
@@ -467,7 +462,7 @@
           {
             "number": "23",
             "name": "郑治仁",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "1",
@@ -482,7 +477,7 @@
           {
             "number": "3",
             "name": "李相基",
-            "position": "前锋"
+            "position": "后卫"
           },
           {
             "number": "19",
@@ -497,7 +492,12 @@
           {
             "number": "8",
             "name": "伊克尔·乌达巴雷纳",
-            "position": "中场"
+            "position": "后卫"
+          },
+          {
+            "number": "13",
+            "name": "崔胜究",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -509,7 +509,7 @@
           {
             "number": "11",
             "name": "高映埈",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "96",
@@ -519,7 +519,7 @@
           {
             "number": "7",
             "name": "金大元",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "4",
@@ -529,17 +529,17 @@
           {
             "number": "97",
             "name": "李裕贤",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "10",
             "name": "牟再现",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "27",
             "name": "金道现",
-            "position": "前锋"
+            "position": "后卫"
           },
           {
             "number": "13",
@@ -564,14 +564,9 @@
         ],
         "subs": [
           {
-            "number": "24",
-            "name": "朴昊永",
-            "position": "后卫"
-          },
-          {
             "number": "25",
             "name": "李孝彬",
-            "position": "前锋"
+            "position": "后卫"
           },
           {
             "number": "9",
@@ -607,6 +602,11 @@
             "number": "19",
             "name": "朴相赫",
             "position": "前锋"
+          },
+          {
+            "number": "24",
+            "name": "朴昊永",
+            "position": "后卫"
           }
         ],
         "injured": [],
