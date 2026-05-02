@@ -24,7 +24,7 @@
       "lost": "2.13",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T12:50:17Z"
+    "fetched_at_utc": "2026-05-02T13:00:18Z"
   },
   "shuju": {
     "title": "狼队VS桑德兰(2025/2026英超)-数据分析-500彩票网",
@@ -367,18 +367,23 @@
             "position": "前锋"
           },
           {
-            "number": "36",
-            "name": "马特乌斯·马内",
-            "position": "中场"
+            "number": "14",
+            "name": "特鲁瓦拉瑟·阿罗科达雷",
+            "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "罗德里戈·戈麦斯",
-            "position": "中场"
+            "number": "36",
+            "name": "马特乌斯·马内",
+            "position": "前锋"
           },
           {
             "number": "3",
             "name": "雨果·布埃诺",
+            "position": "后卫"
+          },
+          {
+            "number": "8",
+            "name": "若昂·戈麦斯",
             "position": "中场"
           },
           {
@@ -387,14 +392,9 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "若昂·戈麦斯",
-            "position": "中场"
-          },
-          {
             "number": "17",
             "name": "佩德罗·利马",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "24",
@@ -407,13 +407,13 @@
             "position": "后卫"
           },
           {
-            "number": "2",
-            "name": "马特·多尔蒂",
+            "number": "15",
+            "name": "耶森·莫斯克拉",
             "position": "后卫"
           },
           {
-            "number": "1",
-            "name": "若泽·萨",
+            "number": "25",
+            "name": "丹尼尔.本特利",
             "position": "守门员"
           }
         ],
@@ -471,6 +471,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "7",
+            "name": "切姆斯丁·塔尔比",
+            "position": "中场"
+          },
+          {
             "number": "9",
             "name": "布莱恩·布罗比",
             "position": "前锋"
@@ -481,13 +486,13 @@
             "position": "中场"
           },
           {
-            "number": "19",
-            "name": "哈比卜·迪亚拉",
-            "position": "中场"
+            "number": "17",
+            "name": "雷尼尔多·曼德瓦",
+            "position": "后卫"
           },
           {
-            "number": "11",
-            "name": "克里斯·里格",
+            "number": "34",
+            "name": "格拉尼特·扎卡",
             "position": "中场"
           },
           {
@@ -496,9 +501,9 @@
             "position": "中场"
           },
           {
-            "number": "34",
-            "name": "格拉尼特·扎卡",
-            "position": "中场"
+            "number": "20",
+            "name": "诺尔迪·穆杰莱",
+            "position": "后卫"
           },
           {
             "number": "32",
@@ -516,11 +521,6 @@
             "position": "后卫"
           },
           {
-            "number": "20",
-            "name": "诺尔迪·穆杰莱",
-            "position": "后卫"
-          },
-          {
             "number": "22",
             "name": "罗宾·罗埃夫斯",
             "position": "守门员"
@@ -528,18 +528,33 @@
         ],
         "subs": [
           {
-            "number": "31",
-            "name": "埃尔伯格·梅克尔",
-            "position": "守门员"
+            "number": "18",
+            "name": "威尔逊·伊西多尔",
+            "position": "前锋"
+          },
+          {
+            "number": "12",
+            "name": "埃列塞尔·马延达",
+            "position": "前锋"
+          },
+          {
+            "number": "37",
+            "name": "吉姆贡·乔赛林·塔比",
+            "position": "中场"
+          },
+          {
+            "number": "19",
+            "name": "哈比卜·迪亚拉",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "克里斯·里格",
+            "position": "中场"
           },
           {
             "number": "3",
             "name": "丹尼斯·赛金",
-            "position": "后卫"
-          },
-          {
-            "number": "17",
-            "name": "雷尼尔多·曼德瓦",
             "position": "后卫"
           },
           {
@@ -550,27 +565,12 @@
           {
             "number": "13",
             "name": "卢克.奥尼恩",
-            "position": "中场"
+            "position": "后卫"
           },
           {
-            "number": "7",
-            "name": "切姆斯丁·塔尔比",
-            "position": "前锋"
-          },
-          {
-            "number": "50",
-            "name": "哈里森·琼斯",
-            "position": "中场"
-          },
-          {
-            "number": "12",
-            "name": "埃列塞尔·马延达",
-            "position": "前锋"
-          },
-          {
-            "number": "18",
-            "name": "威尔逊·伊西多尔",
-            "position": "前锋"
+            "number": "31",
+            "name": "埃尔伯格·梅克尔",
+            "position": "守门员"
           }
         ],
         "injured": [],
@@ -743,10 +743,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.900↓",
+        "home_water": "0.890↓",
         "handicap": "受半球降",
-        "away_water": "1.040↑",
-        "time": "05-02 20:46"
+        "away_water": "1.050↑",
+        "time": "05-02 20:49"
       },
       "init": {
         "home_water": "0.950",

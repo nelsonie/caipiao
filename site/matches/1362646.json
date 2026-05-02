@@ -24,7 +24,7 @@
       "lost": "2.05",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T12:50:13Z"
+    "fetched_at_utc": "2026-05-02T13:00:15Z"
   },
   "shuju": {
     "title": "代格福什VS赫根(2026瑞典超)-数据分析-500彩票网",
@@ -398,8 +398,23 @@
         "formation": null,
         "starters": [
           {
+            "number": "14",
+            "name": "费特森",
+            "position": "前锋"
+          },
+          {
             "number": "10",
             "name": "马库斯·拉弗蒂",
+            "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "埃利亚斯·巴苏姆",
+            "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "吉迪恩·亚乌·伊里永",
             "position": "中场"
           },
           {
@@ -408,8 +423,23 @@
             "position": "中场"
           },
           {
+            "number": "22",
+            "name": "纳洪·吉尔迈",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "桑巴迪亚塔拉",
+            "position": "后卫"
+          },
+          {
             "number": "16",
-            "name": "塞巴斯蒂安·奥尔森",
+            "name": "塞巴斯蒂安奥尔森",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "纳西鲁·摩洛",
             "position": "后卫"
           },
           {
@@ -421,39 +451,29 @@
             "number": "38",
             "name": "马特维·伊贡宁",
             "position": "守门员"
-          },
-          {
-            "number": "15",
-            "name": "纳西鲁·摩洛",
-            "position": "后卫"
-          },
-          {
-            "number": "22",
-            "name": "纳洪·吉尔迈",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "费特森",
-            "position": "中场"
-          },
-          {
-            "number": "18",
-            "name": "桑巴迪亚塔拉",
-            "position": "后卫"
-          },
-          {
-            "number": "13",
-            "name": "吉迪恩·亚乌·伊里永",
-            "position": "中场"
-          },
-          {
-            "number": "20",
-            "name": "埃利亚斯·巴苏姆",
-            "position": "中场"
           }
         ],
         "subs": [
+          {
+            "number": "21",
+            "name": "亚历山大·贝里松",
+            "position": "前锋"
+          },
+          {
+            "number": "24",
+            "name": "奥勒·伦纳德松",
+            "position": "前锋"
+          },
+          {
+            "number": "12",
+            "name": "埃里克·林德尔",
+            "position": "后卫"
+          },
+          {
+            "number": "19",
+            "name": "亚历山大·林德格伦",
+            "position": "中场"
+          },
           {
             "number": "25",
             "name": "拉斯穆斯·福塞尔",
@@ -462,22 +482,7 @@
           {
             "number": "28",
             "name": "赫苏斯·埃尔南德斯",
-            "position": "中场"
-          },
-          {
-            "number": "24",
-            "name": "奥勒·伦纳德松",
-            "position": "未知"
-          },
-          {
-            "number": "12",
-            "name": "埃里克·林德尔",
-            "position": "中场"
-          },
-          {
-            "number": "19",
-            "name": "亚历山大·林德格伦",
-            "position": "未知"
+            "position": "后卫"
           },
           {
             "number": "27",
@@ -493,11 +498,6 @@
             "number": "11",
             "name": "迪扬·武科耶维奇",
             "position": "前锋"
-          },
-          {
-            "number": "21",
-            "name": "亚历山大·贝里松",
-            "position": "未知"
           }
         ],
         "injured": [],
@@ -507,8 +507,23 @@
         "formation": null,
         "starters": [
           {
+            "number": "9",
+            "name": "古斯塔夫·林德格伦",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "安德森",
+            "position": "中场"
+          },
+          {
             "number": "20",
             "name": "阿德里安·斯万贝克",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "朱利叶斯·林德伯格",
             "position": "中场"
           },
           {
@@ -517,23 +532,13 @@
             "position": "中场"
           },
           {
+            "number": "6",
+            "name": "阿卜杜拉耶敦比亚",
+            "position": "中场"
+          },
+          {
             "number": "21",
             "name": "亚当·朗奎斯特",
-            "position": "后卫"
-          },
-          {
-            "number": "9",
-            "name": "古斯塔夫·林德格伦",
-            "position": "前锋"
-          },
-          {
-            "number": "11",
-            "name": "朱利叶斯·林德伯格",
-            "position": "前锋"
-          },
-          {
-            "number": "13",
-            "name": "哈里·约阿希姆·希尔维纽斯",
             "position": "后卫"
           },
           {
@@ -542,27 +547,27 @@
             "position": "后卫"
           },
           {
-            "number": "6",
-            "name": "阿卜杜拉耶敦比亚",
-            "position": "未知"
-          },
-          {
-            "number": "8",
-            "name": "安德森",
-            "position": "中场"
-          },
-          {
-            "number": "1",
-            "name": "安德烈亚斯·林德",
-            "position": "守门员"
+            "number": "13",
+            "name": "哈里·约阿希姆·希尔维纽斯",
+            "position": "后卫"
           },
           {
             "number": "5",
             "name": "布莱斯·温班格莫",
             "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "安德烈亚斯·林德",
+            "position": "守门员"
           }
         ],
         "subs": [
+          {
+            "number": "14",
+            "name": "杰里米·阿博尼福",
+            "position": "前锋"
+          },
           {
             "number": "18",
             "name": "达尼洛·阿尔赛义德",
@@ -584,11 +589,6 @@
             "position": "后卫"
           },
           {
-            "number": "24",
-            "name": "阿莫尔·莱奥尼",
-            "position": "前锋"
-          },
-          {
             "number": "7",
             "name": "桑德斯·阿博",
             "position": "中场"
@@ -604,8 +604,8 @@
             "position": "后卫"
           },
           {
-            "number": "14",
-            "name": "杰里米·阿博尼福",
+            "number": "24",
+            "name": "阿莫尔·莱奥尼",
             "position": "前锋"
           }
         ],
@@ -699,10 +699,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.870↑",
+        "home_water": "0.880↑",
         "handicap": "受平手/半球",
-        "away_water": "1.010↓",
-        "time": "05-02 20:46"
+        "away_water": "1.000↓",
+        "time": "05-02 20:48"
       },
       "init": {
         "home_water": "0.800",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.790↓",
-        "handicap": "受平手/半球降",
-        "away_water": "1.010↑",
-        "time": "05-02 20:04"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "平手",
-        "away_water": "0.760",
-        "time": "04-27 17:54"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.720",
         "time": "04-27 13:26"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.790↓",
+        "handicap": "受平手/半球降",
+        "away_water": "1.010↑",
+        "time": "05-02 20:04"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "平手",
+        "away_water": "0.760",
+        "time": "04-27 17:54"
       }
     },
     {
