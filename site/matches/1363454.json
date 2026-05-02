@@ -24,7 +24,7 @@
       "lost": "2.57",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T18:20:23Z"
+    "fetched_at_utc": "2026-05-02T18:30:18Z"
   },
   "shuju": {
     "title": "克里斯蒂安松VS汉坎(2026挪超)-数据分析-500彩票网",
@@ -728,6 +728,22 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "平手",
+        "away_water": "0.920↓",
+        "time": "05-03 01:58"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "平手",
+        "away_water": "1.050",
+        "time": "04-27 16:45"
+      }
+    },
+    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -741,22 +757,6 @@
         "handicap": "平手",
         "away_water": "0.920",
         "time": "04-28 23:20"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "平手",
-        "away_water": "0.920↓",
-        "time": "05-03 00:24"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "平手",
-        "away_water": "1.050",
-        "time": "04-27 16:45"
       }
     },
     {
@@ -1987,7 +1987,7 @@
     {
       "cid": "1259",
       "company": "1x**t",
-      "time": "2026-05-03 00:49:19",
+      "time": "2026-05-03 01:58:53",
       "odds": {
         "live": [
           "2.40",
