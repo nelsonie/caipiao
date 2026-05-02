@@ -24,7 +24,7 @@
       "lost": "9.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T15:20:23Z"
+    "fetched_at_utc": "2026-05-02T15:30:18Z"
   },
   "shuju": {
     "title": "巴黎圣日耳曼VS洛里昂(2025/2026法甲)-数据分析-500彩票网",
@@ -362,13 +362,18 @@
         "formation": null,
         "starters": [
           {
-            "number": "49",
-            "name": "易卜拉希姆·姆巴耶",
+            "number": "29",
+            "name": "布拉德利·巴尔科拉",
             "position": "前锋"
           },
           {
-            "number": "29",
-            "name": "布拉德利·巴尔科拉",
+            "number": "14",
+            "name": "德西雷·杜埃",
+            "position": "前锋"
+          },
+          {
+            "number": "49",
+            "name": "易卜拉希姆·姆巴耶",
             "position": "前锋"
           },
           {
@@ -379,16 +384,6 @@
           {
             "number": "8",
             "name": "法比安·鲁伊斯",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "德西雷·杜埃",
-            "position": "前锋"
-          },
-          {
-            "number": "24",
-            "name": "森尼·马尤鲁",
             "position": "中场"
           },
           {
@@ -412,12 +407,22 @@
             "position": "后卫"
           },
           {
+            "number": "24",
+            "name": "森尼·马尤鲁",
+            "position": "后卫"
+          },
+          {
             "number": "89",
             "name": "雷纳托·马林",
             "position": "守门员"
           }
         ],
         "subs": [
+          {
+            "number": "10",
+            "name": "奥斯曼·登贝莱",
+            "position": "前锋"
+          },
           {
             "number": "7",
             "name": "科维查·克瓦拉茨赫利亚",
@@ -439,9 +444,24 @@
             "position": "后卫"
           },
           {
-            "number": "10",
-            "name": "奥斯曼·登贝莱",
+            "number": "55",
+            "name": "桑巴·库利巴利",
+            "position": "后卫"
+          },
+          {
+            "number": "80",
+            "name": "比拉尔·劳伦登",
+            "position": "守门员"
+          },
+          {
+            "number": "57",
+            "name": "皮埃尔·蒙根格",
             "position": "前锋"
+          },
+          {
+            "number": "53",
+            "name": "科迪尔",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -458,12 +478,12 @@
           {
             "number": "10",
             "name": "巴布罗·帕吉斯",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "62",
             "name": "亚瑟·阿沃姆",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "43",
@@ -471,13 +491,13 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "劳伦特·阿贝格尔",
+            "number": "8",
+            "name": "诺亚·卡迪欧",
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "诺亚·卡迪欧",
+            "number": "6",
+            "name": "劳伦特·阿贝格尔",
             "position": "中场"
           },
           {
@@ -491,13 +511,13 @@
             "position": "后卫"
           },
           {
-            "number": "32",
-            "name": "纳撒尼尔·阿杰",
+            "number": "3",
+            "name": "莫塔萨尔·塔尔比",
             "position": "后卫"
           },
           {
-            "number": "3",
-            "name": "莫塔萨尔·塔尔比",
+            "number": "32",
+            "name": "纳撒尼尔·阿杰",
             "position": "后卫"
           },
           {
@@ -515,6 +535,11 @@
           {
             "number": "44",
             "name": "达兰·永古瓦",
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "伊戈尔·卡里奥卡",
             "position": "后卫"
           },
           {
@@ -546,11 +571,6 @@
             "number": "29",
             "name": "德曼·卡里姆",
             "position": "中场"
-          },
-          {
-            "number": "2",
-            "name": "伊戈尔·卡里奥卡",
-            "position": "后卫"
           }
         ],
         "injured": [],

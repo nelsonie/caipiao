@@ -24,7 +24,7 @@
       "lost": "2.09",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T15:20:20Z"
+    "fetched_at_utc": "2026-05-02T15:30:21Z"
   },
   "shuju": {
     "title": "AC奥卢VS库普斯(2026芬超)-数据分析-500彩票网",
@@ -398,29 +398,29 @@
         "formation": null,
         "starters": [
           {
-            "number": "26",
-            "name": "朱利叶斯·科尔科",
+            "number": "27",
+            "name": "埃利亚斯·卡利奥",
             "position": "前锋"
           },
           {
-            "number": "27",
-            "name": "埃利亚斯·卡利奥",
-            "position": "中场"
-          },
-          {
-            "number": "7",
-            "name": "拉斯穆斯·卡尔亚莱宁",
+            "number": "26",
+            "name": "朱利叶斯·科尔科",
             "position": "中场"
           },
           {
             "number": "11",
             "name": "拉米尼·哥扎利",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "21",
             "name": "伊罗·门多林",
             "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "拉斯穆斯·卡尔亚莱宁",
+            "position": "前锋"
           },
           {
             "number": "6",
@@ -430,7 +430,7 @@
           {
             "number": "22",
             "name": "图马斯·考库亚",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "66",
@@ -462,7 +462,7 @@
           {
             "number": "20",
             "name": "卡利法·贾塔",
-            "position": "前锋"
+            "position": "未知"
           },
           {
             "number": "14",
@@ -509,7 +509,7 @@
           {
             "number": "24",
             "name": "鲍勃·尼·阿玛",
-            "position": "后卫"
+            "position": "前锋"
           },
           {
             "number": "34",
@@ -559,9 +559,14 @@
         ],
         "subs": [
           {
+            "number": "2",
+            "name": "卡尔·沃德",
+            "position": "后卫"
+          },
+          {
             "number": "20",
             "name": "苏莱曼·苏马霍罗",
-            "position": "中场"
+            "position": "未知"
           },
           {
             "number": "12",
@@ -586,7 +591,7 @@
           {
             "number": "3",
             "name": "萨库·海斯卡宁",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "17",
@@ -718,22 +723,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "受平手/半球",
-        "away_water": "1.020↑",
-        "time": "05-02 21:37"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "受平手/半球",
-        "away_water": "0.910",
-        "time": "04-30 00:13"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -747,6 +736,22 @@
         "handicap": "平手",
         "away_water": "0.690",
         "time": "04-26 21:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.020↑",
+        "time": "05-02 21:37"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "受平手/半球",
+        "away_water": "0.910",
+        "time": "04-30 00:13"
       }
     },
     {

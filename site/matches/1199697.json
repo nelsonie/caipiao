@@ -24,7 +24,7 @@
       "lost": "3.15",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T15:20:12Z"
+    "fetched_at_utc": "2026-05-02T15:30:11Z"
   },
   "shuju": {
     "title": "乌迪内斯VS都灵(2025/2026意甲)-数据分析-500彩票网",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.020↑",
-        "handicap": "半球升",
-        "away_water": "0.870↓",
-        "time": "05-02 21:01"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "平手/半球",
-        "away_water": "0.950",
-        "time": "04-23 20:18"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "平手/半球",
         "away_water": "0.950",
         "time": "04-20 03:33"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "半球升",
+        "away_water": "0.870↓",
+        "time": "05-02 21:01"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "平手/半球",
+        "away_water": "0.950",
+        "time": "04-23 20:18"
       }
     },
     {

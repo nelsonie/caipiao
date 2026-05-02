@@ -24,7 +24,7 @@
       "lost": "4.25",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T15:20:18Z"
+    "fetched_at_utc": "2026-05-02T15:30:15Z"
   },
   "shuju": {
     "title": "法兰克福VS汉堡(2025/2026德甲)-数据分析-500彩票网",
@@ -365,11 +365,6 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "安斯加尔·克纳夫",
-            "position": "中场"
-          },
-          {
             "number": "16",
             "name": "雨果·拉尔森",
             "position": "中场"
@@ -377,6 +372,11 @@
           {
             "number": "42",
             "name": "坎·伊尔马兹·乌尊",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "安斯加尔·克纳夫",
             "position": "中场"
           },
           {
@@ -516,11 +516,6 @@
         ],
         "subs": [
           {
-            "number": "8",
-            "name": "丹尼尔·埃尔法利",
-            "position": "中场"
-          },
-          {
             "number": "16",
             "name": "乔尔基·戈霍利什维利",
             "position": "后卫"
@@ -551,14 +546,19 @@
             "position": "后卫"
           },
           {
+            "number": "19",
+            "name": "达米恩·唐斯",
+            "position": "前锋"
+          },
+          {
             "number": "7",
             "name": "吉恩-卢克·多佩",
             "position": "前锋"
           },
           {
-            "number": "19",
-            "name": "达米恩·唐斯",
-            "position": "前锋"
+            "number": "8",
+            "name": "丹尼尔·埃尔法利",
+            "position": "中场"
           }
         ],
         "injured": [],
