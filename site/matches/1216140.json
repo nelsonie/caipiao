@@ -24,7 +24,7 @@
       "lost": "4.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T14:40:17Z"
+    "fetched_at_utc": "2026-05-02T14:50:20Z"
   },
   "shuju": {
     "title": "巴伦西亚VS马德里竞技(2025/2026西甲)-数据分析-500彩票网",
@@ -380,6 +380,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "17",
+            "name": "拉吉·拉马扎尼",
+            "position": "前锋"
+          },
+          {
             "number": "6",
             "name": "乌马尔·萨迪克",
             "position": "前锋"
@@ -387,11 +392,6 @@
           {
             "number": "23",
             "name": "菲利普·乌格里尼奇",
-            "position": "前锋"
-          },
-          {
-            "number": "17",
-            "name": "拉吉·拉马扎尼",
             "position": "中场"
           },
           {
@@ -415,13 +415,13 @@
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "塞萨尔·塔雷加",
+            "number": "18",
+            "name": "佩佩卢",
             "position": "后卫"
           },
           {
-            "number": "18",
-            "name": "佩佩卢",
+            "number": "5",
+            "name": "塞萨尔·塔雷加",
             "position": "后卫"
           },
           {
@@ -504,18 +504,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "11",
-            "name": "蒂亚戈·阿尔马达",
-            "position": "前锋"
-          },
-          {
             "number": "29",
             "name": "雷亚内·伯莱德",
             "position": "前锋"
           },
           {
-            "number": "47",
-            "name": "哈维尔·莫西洛",
+            "number": "11",
+            "name": "蒂亚戈·阿尔马达",
             "position": "中场"
           },
           {
@@ -524,13 +519,13 @@
             "position": "中场"
           },
           {
-            "number": "4",
-            "name": "罗德里戈·门多萨",
+            "number": "47",
+            "name": "哈维尔·莫西洛",
             "position": "中场"
           },
           {
-            "number": "16",
-            "name": "纳韦尔·莫利纳",
+            "number": "4",
+            "name": "罗德里戈·门多萨",
             "position": "中场"
           },
           {
@@ -554,6 +549,11 @@
             "position": "后卫"
           },
           {
+            "number": "16",
+            "name": "纳韦尔·莫利纳",
+            "position": "后卫"
+          },
+          {
             "number": "1",
             "name": "胡安·穆索",
             "position": "守门员"
@@ -566,43 +566,8 @@
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "乔·卡多索",
-            "position": "中场"
-          },
-          {
-            "number": "30",
-            "name": "马丁内斯",
-            "position": "后卫"
-          },
-          {
-            "number": "37",
-            "name": "伊克尔·卢克",
-            "position": "前锋"
-          },
-          {
-            "number": "3",
-            "name": "马特奥·鲁杰里",
-            "position": "后卫"
-          },
-          {
-            "number": "40",
-            "name": "阿莱克萨·普里克",
-            "position": "后卫"
-          },
-          {
-            "number": "18",
-            "name": "马克·普比尔",
-            "position": "后卫"
-          },
-          {
-            "number": "13",
-            "name": "简·奥布拉克",
-            "position": "守门员"
-          },
-          {
-            "number": "22",
-            "name": "阿德默拉·卢克曼",
+            "number": "7",
+            "name": "安托万·格列兹曼",
             "position": "前锋"
           },
           {
@@ -611,14 +576,49 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "安托万·格列兹曼",
+            "number": "22",
+            "name": "阿德默拉·卢克曼",
             "position": "前锋"
+          },
+          {
+            "number": "13",
+            "name": "简·奥布拉克",
+            "position": "守门员"
           },
           {
             "number": "61",
             "name": "米格尔·略伦特·库博",
             "position": "前锋"
+          },
+          {
+            "number": "40",
+            "name": "阿莱克萨·普里克",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "马特奥·鲁杰里",
+            "position": "后卫"
+          },
+          {
+            "number": "37",
+            "name": "伊克尔·卢克",
+            "position": "前锋"
+          },
+          {
+            "number": "30",
+            "name": "马丁内斯",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "乔·卡多索",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "马克·普比尔",
+            "position": "后卫"
           }
         ],
         "injured": [],

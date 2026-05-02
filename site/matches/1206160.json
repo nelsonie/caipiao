@@ -24,7 +24,7 @@
       "lost": "8.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T14:40:12Z"
+    "fetched_at_utc": "2026-05-02T14:50:17Z"
   },
   "shuju": {
     "title": "拜仁慕尼黑VS海登海姆(2025/2026德甲)-数据分析-500彩票网",
@@ -368,14 +368,14 @@
         "formation": null,
         "starters": [
           {
-            "number": "11",
-            "name": "尼古拉斯·杰克逊",
+            "number": "10",
+            "name": "贾马尔·穆西亚拉",
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "贾马尔·穆西亚拉",
-            "position": "中场"
+            "number": "11",
+            "name": "尼古拉斯·杰克逊",
+            "position": "前锋"
           },
           {
             "number": "8",
@@ -388,13 +388,13 @@
             "position": "中场"
           },
           {
-            "number": "45",
-            "name": "亚历山大·帕夫洛维奇",
+            "number": "39",
+            "name": "巴拉·萨波科·恩迪亚耶",
             "position": "中场"
           },
           {
-            "number": "39",
-            "name": "巴拉·萨波科·恩迪亚耶",
+            "number": "45",
+            "name": "亚历山大·帕夫洛维奇",
             "position": "中场"
           },
           {
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.020↑",
-        "handicap": "两球降",
-        "away_water": "0.850↑",
-        "time": "05-02 21:27"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "两球半/三球",
-        "away_water": "0.840",
-        "time": "04-20 15:32"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "两球半/三球",
         "away_water": "1.060",
         "time": "04-20 03:29"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "两球降",
+        "away_water": "0.850↑",
+        "time": "05-02 21:27"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "两球半/三球",
+        "away_water": "0.840",
+        "time": "04-20 15:32"
       }
     },
     {
