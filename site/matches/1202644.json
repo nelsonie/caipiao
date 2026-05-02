@@ -24,7 +24,7 @@
       "lost": "2.13",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T01:40:15Z"
+    "fetched_at_utc": "2026-05-02T01:50:11Z"
   },
   "shuju": {
     "title": "狼队VS桑德兰(2025/2026英超)-数据分析-500彩票网",
@@ -631,10 +631,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.750↓",
-        "handicap": "受半球降",
-        "away_water": "1.050",
-        "time": "05-02 09:33"
+        "home_water": "1.050↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.800↓",
+        "time": "05-02 09:39"
       },
       "init": {
         "home_water": "0.800",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "受平手/半球",
-        "away_water": "0.750↓",
-        "time": "05-02 01:50"
-      },
-      "init": {
-        "home_water": "0.760",
-        "handicap": "受平手/半球",
-        "away_water": "0.970",
-        "time": "04-19 01:17"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "受平手/半球",
         "away_water": "1.030",
         "time": "04-19 04:48"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.750↓",
+        "time": "05-02 01:50"
+      },
+      "init": {
+        "home_water": "0.760",
+        "handicap": "受平手/半球",
+        "away_water": "0.970",
+        "time": "04-19 01:17"
       }
     },
     {
