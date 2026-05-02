@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "半球",
-      "home_water": "0.780↑",
-      "away_water": "0.850↓",
+      "home_water": "0.850↑",
+      "away_water": "0.910↑",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "3.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T12:10:19Z"
+    "fetched_at_utc": "2026-05-02T12:20:18Z"
   },
   "shuju": {
     "title": "布伦特福德VS西汉姆联(2025/2026英超)-数据分析-500彩票网",
@@ -583,10 +583,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.780↑",
+        "home_water": "0.850↑",
         "handicap": "半球",
-        "away_water": "0.850↓",
-        "time": "05-02 19:21"
+        "away_water": "0.910↑",
+        "time": "05-02 20:06"
       },
       "init": {
         "home_water": "0.760",
@@ -631,10 +631,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.920↓",
+        "home_water": "0.870↓",
         "handicap": "半球降",
-        "away_water": "0.920↑",
-        "time": "05-02 19:54"
+        "away_water": "0.970↑",
+        "time": "05-02 20:09"
       },
       "init": {
         "home_water": "1.000",
@@ -666,7 +666,7 @@
         "home_water": "0.920↑",
         "handicap": "半球",
         "away_water": "0.960↓",
-        "time": "05-02 19:33"
+        "time": "05-02 20:09"
       },
       "init": {
         "home_water": "0.900",
@@ -727,10 +727,10 @@
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "0.930↑",
+        "home_water": "0.920↑",
         "handicap": "半球",
         "away_water": "1.000↑",
-        "time": "05-02 18:54"
+        "time": "05-02 20:06"
       },
       "init": {
         "home_water": "0.870",
@@ -2016,7 +2016,7 @@
     {
       "cid": "863",
       "company": "18**t",
-      "time": "2026-05-02 18:56:24",
+      "time": "2026-05-02 20:06:40",
       "odds": {
         "live": [
           "1.78",

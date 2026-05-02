@@ -24,7 +24,7 @@
       "lost": "4.40",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T12:10:12Z"
+    "fetched_at_utc": "2026-05-02T12:20:11Z"
   },
   "shuju": {
     "title": "比利亚雷亚尔VS莱万特(2025/2026西甲)-数据分析-500彩票网",
@@ -384,6 +384,11 @@
             "position": "前锋"
           },
           {
+            "number": "20",
+            "name": "阿尔贝托·莫里罗",
+            "position": "中场"
+          },
+          {
             "number": "10",
             "name": "达尼·帕雷霍",
             "position": "中场"
@@ -391,11 +396,6 @@
           {
             "number": "14",
             "name": "桑蒂·科梅萨尼亚",
-            "position": "中场"
-          },
-          {
-            "number": "20",
-            "name": "阿尔贝托·莫里罗",
             "position": "中场"
           },
           {
@@ -498,18 +498,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "9",
-            "name": "伊万·罗梅罗",
-            "position": "前锋"
-          },
-          {
             "number": "19",
             "name": "卡洛斯·埃斯皮",
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "巴勃罗·马丁内斯",
+            "number": "9",
+            "name": "伊万·罗梅罗",
             "position": "中场"
           },
           {
@@ -518,13 +513,18 @@
             "position": "中场"
           },
           {
-            "number": "16",
-            "name": "凯文·阿里亚加",
+            "number": "10",
+            "name": "巴勃罗·马丁内斯",
             "position": "中场"
           },
           {
             "number": "24",
             "name": "卡洛斯·阿尔瓦雷斯",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "凯文·阿里亚加",
             "position": "中场"
           },
           {
@@ -734,22 +734,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "半球/一球降",
-        "away_water": "0.920↑",
-        "time": "05-02 19:59"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "一球/球半",
-        "away_water": "0.860",
-        "time": "04-24 18:23"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -763,6 +747,22 @@
         "handicap": "一球",
         "away_water": "0.890",
         "time": "04-25 01:26"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "半球/一球降",
+        "away_water": "0.920↑",
+        "time": "05-02 19:59"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "一球/球半",
+        "away_water": "0.860",
+        "time": "04-24 18:23"
       }
     },
     {
