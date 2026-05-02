@@ -24,7 +24,7 @@
       "lost": "4.40",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T11:00:47Z"
+    "fetched_at_utc": "2026-05-02T11:10:45Z"
   },
   "shuju": {
     "title": "布拉加VS埃斯托里尔(2025/2026葡超)-数据分析-500彩票网",
@@ -685,22 +685,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.800↑",
-        "time": "05-01 13:04"
-      },
-      "init": {
-        "home_water": "1.180",
-        "handicap": "球半",
-        "away_water": "0.740",
-        "time": "04-27 02:19"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -714,6 +698,22 @@
         "handicap": "一球",
         "away_water": "1.030",
         "time": "04-28 08:28"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.800↑",
+        "time": "05-01 13:04"
+      },
+      "init": {
+        "home_water": "1.180",
+        "handicap": "球半",
+        "away_water": "0.740",
+        "time": "04-27 02:19"
       }
     },
     {
