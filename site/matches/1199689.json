@@ -24,7 +24,7 @@
       "lost": "5.25",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T08:30:27Z"
+    "fetched_at_utc": "2026-05-02T08:40:27Z"
   },
   "shuju": {
     "title": "亚特兰大VS热那亚(2025/2026意甲)-数据分析-500彩票网",
@@ -737,22 +737,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "一球升",
-        "away_water": "0.980↓",
-        "time": "05-02 16:07"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "半球/一球",
-        "away_water": "1.070",
-        "time": "04-23 20:28"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -766,6 +750,22 @@
         "handicap": "一球",
         "away_water": "0.810",
         "time": "04-20 03:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "一球升",
+        "away_water": "0.980↓",
+        "time": "05-02 16:07"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "半球/一球",
+        "away_water": "1.070",
+        "time": "04-23 20:28"
       }
     },
     {
