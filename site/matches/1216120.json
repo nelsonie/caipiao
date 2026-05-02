@@ -24,7 +24,7 @@
       "lost": "4.40",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T08:10:41Z"
+    "fetched_at_utc": "2026-05-02T08:20:41Z"
   },
   "shuju": {
     "title": "赫塔费VS巴列卡诺(2025/2026西甲)-数据分析-500彩票网",
@@ -725,22 +725,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "半球升",
-        "away_water": "0.940↓",
-        "time": "05-02 10:15"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "平手/半球",
-        "away_water": "1.010",
-        "time": "04-25 00:45"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,13 +741,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "半球升",
+        "away_water": "0.930↓",
+        "time": "05-02 15:39"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "平手/半球",
+        "away_water": "1.010",
+        "time": "04-25 00:45"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "0.940↑",
+        "home_water": "0.970↑",
         "handicap": "半球升",
-        "away_water": "0.960↑",
-        "time": "05-02 10:02"
+        "away_water": "0.930↑",
+        "time": "05-02 15:28"
       },
       "init": {
         "home_water": "0.920",
@@ -792,10 +792,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.930↑",
+        "home_water": "0.940↑",
         "handicap": "半球升",
-        "away_water": "0.970↓",
-        "time": "05-02 13:10"
+        "away_water": "0.960↓",
+        "time": "05-02 15:45"
       },
       "init": {
         "home_water": "0.790",
