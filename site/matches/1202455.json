@@ -24,7 +24,7 @@
       "lost": "1.36",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T11:40:57Z"
+    "fetched_at_utc": "2026-05-02T11:50:53Z"
   },
   "shuju": {
     "title": "埃弗顿VS曼彻斯特城(2025/2026英超)-数据分析-500彩票网",
@@ -739,22 +739,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.770↓",
-        "handicap": "受一球/球半降",
-        "away_water": "1.040↑",
-        "time": "05-02 03:08"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "受一球",
-        "away_water": "0.890",
-        "time": "04-23 19:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -768,6 +752,22 @@
         "handicap": "受一球",
         "away_water": "1.000",
         "time": "04-19 01:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.770↓",
+        "handicap": "受一球/球半降",
+        "away_water": "1.040↑",
+        "time": "05-02 03:08"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "受一球",
+        "away_water": "0.890",
+        "time": "04-23 19:03"
       }
     },
     {
