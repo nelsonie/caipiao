@@ -24,7 +24,7 @@
       "lost": "4.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T04:00:21Z"
+    "fetched_at_utc": "2026-05-02T04:10:19Z"
   },
   "shuju": {
     "title": "巴伦西亚VS马德里竞技(2025/2026西甲)-数据分析-500彩票网",
@@ -740,22 +740,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↓",
-        "handicap": "半球/一球升",
-        "away_water": "0.880↑",
-        "time": "05-02 02:14"
-      },
-      "init": {
-        "home_water": "1.010",
-        "handicap": "平手/半球",
-        "away_water": "0.860",
-        "time": "04-25 00:45"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -769,6 +753,22 @@
         "handicap": "平手/半球",
         "away_water": "0.830",
         "time": "04-24 18:26"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↓",
+        "handicap": "半球/一球升",
+        "away_water": "0.880↑",
+        "time": "05-02 02:14"
+      },
+      "init": {
+        "home_water": "1.010",
+        "handicap": "平手/半球",
+        "away_water": "0.860",
+        "time": "04-25 00:45"
       }
     },
     {

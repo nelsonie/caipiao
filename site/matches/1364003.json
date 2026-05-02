@@ -24,7 +24,7 @@
       "lost": "7.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T04:00:57Z"
+    "fetched_at_utc": "2026-05-02T04:10:57Z"
   },
   "shuju": {
     "title": "博德闪耀VS莫尔德(2026挪超)-数据分析-500彩票网",
@@ -508,22 +508,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "球半",
-        "away_water": "0.910↑",
-        "time": "05-01 01:41"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "球半",
-        "away_water": "0.880",
-        "time": "04-27 17:15"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -537,6 +521,22 @@
         "handicap": "球半",
         "away_water": "0.920",
         "time": "04-30 01:10"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "球半",
+        "away_water": "0.910↑",
+        "time": "05-01 01:41"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "球半",
+        "away_water": "0.880",
+        "time": "04-27 17:15"
       }
     },
     {
@@ -607,10 +607,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.870↓",
+        "home_water": "0.880↓",
         "handicap": "球半",
         "away_water": "0.890↑",
-        "time": "05-02 08:25"
+        "time": "05-02 09:30"
       },
       "init": {
         "home_water": "0.930",
@@ -1767,7 +1767,7 @@
     {
       "cid": "863",
       "company": "18**t",
-      "time": "2026-05-02 08:28:57",
+      "time": "2026-05-02 11:27:48",
       "odds": {
         "live": [
           "1.36",
