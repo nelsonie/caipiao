@@ -24,7 +24,7 @@
       "lost": "1.18",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-02T17:20:09Z"
+    "fetched_at_utc": "2026-05-02T17:30:06Z"
   },
   "shuju": {
     "title": "艾哈斯姆VS利雅得新月(2025/2026沙特联)-数据分析-500彩票网",
@@ -374,9 +374,24 @@
         "formation": null,
         "starters": [
           {
+            "number": "70",
+            "name": "艾哈迈德·沙姆拉尼",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "奥马尔·索马",
             "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "伊莱亚斯·莫克瓦纳",
+            "position": "前锋"
+          },
+          {
+            "number": "32",
+            "name": "洛伦茨·罗西尔",
+            "position": "中场"
           },
           {
             "number": "10",
@@ -386,21 +401,6 @@
           {
             "number": "24",
             "name": "阿布巴卡尔·巴赫",
-            "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "阿卜杜拉赫曼·海巴里",
-            "position": "中场"
-          },
-          {
-            "number": "17",
-            "name": "伊莱亚斯·莫克瓦纳",
-            "position": "中场"
-          },
-          {
-            "number": "32",
-            "name": "洛伦茨·罗西尔",
             "position": "中场"
           },
           {
@@ -414,13 +414,13 @@
             "position": "后卫"
           },
           {
-            "number": "13",
-            "name": "阿卜杜拉·萨奇蒂",
+            "number": "4",
+            "name": "苏尔坦·坦克尔",
             "position": "后卫"
           },
           {
-            "number": "82",
-            "name": "阿卜杜勒阿齐兹·哈比",
+            "number": "2",
+            "name": "沙特·拉希德",
             "position": "后卫"
           },
           {
@@ -431,19 +431,24 @@
         ],
         "subs": [
           {
-            "number": "4",
-            "name": "苏尔坦·坦克尔",
+            "number": "8",
+            "name": "阿卜杜勒哈迪·哈拉金",
+            "position": "中场"
+          },
+          {
+            "number": "82",
+            "name": "阿卜杜勒阿齐兹·哈比",
             "position": "后卫"
           },
           {
-            "number": "80",
-            "name": "米格尔·卡瓦略·维亚纳",
-            "position": "中场"
+            "number": "7",
+            "name": "优素福·沙马里",
+            "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "阿马杜·班巴·迪恩",
-            "position": "中场"
+            "number": "13",
+            "name": "阿卜杜拉·萨奇蒂",
+            "position": "后卫"
           },
           {
             "number": "5",
@@ -451,14 +456,9 @@
             "position": "后卫"
           },
           {
-            "number": "70",
-            "name": "艾哈迈德·沙姆拉尼",
+            "number": "80",
+            "name": "米格尔·卡瓦略·维亚纳",
             "position": "中场"
-          },
-          {
-            "number": "2",
-            "name": "沙特·拉希德",
-            "position": "后卫"
           },
           {
             "number": "33",
@@ -468,6 +468,11 @@
           {
             "number": "26",
             "name": "阿卜杜勒阿齐兹·杜赫",
+            "position": "中场"
+          },
+          {
+            "number": "19",
+            "name": "纳瓦夫·哈巴什",
             "position": "中场"
           }
         ],
@@ -483,8 +488,18 @@
             "position": "前锋"
           },
           {
+            "number": "10",
+            "name": "马尔科姆",
+            "position": "前锋"
+          },
+          {
             "number": "29",
             "name": "萨利姆·多萨里",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "鲁本·内维斯",
             "position": "中场"
           },
           {
@@ -498,28 +513,18 @@
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "马尔科姆",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "鲁本·内维斯",
-            "position": "中场"
-          },
-          {
             "number": "19",
             "name": "特奥·埃尔南德斯",
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "优素福·阿克切克",
+            "number": "87",
+            "name": "哈桑·坦巴蒂",
             "position": "后卫"
           },
           {
-            "number": "87",
-            "name": "哈桑·坦巴蒂",
+            "number": "4",
+            "name": "优素福·阿克切克",
             "position": "后卫"
           },
           {
@@ -540,19 +545,9 @@
             "position": "守门员"
           },
           {
-            "number": "16",
-            "name": "纳赛尔·多萨里",
-            "position": "中场"
-          },
-          {
             "number": "18",
             "name": "穆拉德·豪萨维",
             "position": "中场"
-          },
-          {
-            "number": "9",
-            "name": "马科斯·莱昂纳多·桑托斯·阿尔梅达",
-            "position": "前锋"
           },
           {
             "number": "17",
@@ -573,6 +568,16 @@
             "number": "23",
             "name": "苏丹·曼达什",
             "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "马科斯·莱昂纳多·桑托斯·阿尔梅达",
+            "position": "前锋"
+          },
+          {
+            "number": "16",
+            "name": "纳赛尔·多萨里",
+            "position": "中场"
           }
         ],
         "injured": [],
