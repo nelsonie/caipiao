@@ -24,7 +24,7 @@
       "lost": "3.13",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T06:30:09Z"
+    "fetched_at_utc": "2026-05-02T06:40:08Z"
   },
   "shuju": {
     "title": "奥克兰FCVS墨尔本城(2025/2026澳超)-数据分析-500彩票网",
@@ -307,13 +307,18 @@
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "吉列尔莫·梅",
-            "position": "前锋"
-          },
-          {
             "number": "27",
             "name": "洛根·罗杰森",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "吉列尔莫·梅",
+            "position": "中场"
+          },
+          {
+            "number": "77",
+            "name": "拉克兰·布鲁克",
             "position": "中场"
           },
           {
@@ -324,11 +329,6 @@
           {
             "number": "6",
             "name": "路易斯·弗拉斯特",
-            "position": "中场"
-          },
-          {
-            "number": "77",
-            "name": "拉克兰·布鲁克",
             "position": "中场"
           },
           {
@@ -612,22 +612,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "平手/半球",
-        "away_water": "0.810↓",
-        "time": "05-02 12:56"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "平手/半球",
-        "away_water": "0.930",
-        "time": "04-27 17:54"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -641,6 +625,22 @@
         "handicap": "平手",
         "away_water": "1.290",
         "time": "04-26 22:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "平手/半球",
+        "away_water": "0.810↓",
+        "time": "05-02 12:56"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "平手/半球",
+        "away_water": "0.930",
+        "time": "04-27 17:54"
       }
     },
     {
