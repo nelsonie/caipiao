@@ -24,7 +24,7 @@
       "lost": "2.66",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T03:10:26Z"
+    "fetched_at_utc": "2026-05-02T03:20:26Z"
   },
   "shuju": {
     "title": "勒芒VS兰斯(2025/2026法乙)-数据分析-500彩票网",
@@ -648,22 +648,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.760↓",
-        "handicap": "平手",
-        "away_water": "1.000↑",
-        "time": "05-02 04:35"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "平手",
-        "away_water": "0.940",
-        "time": "04-26 03:25"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -677,6 +661,22 @@
         "handicap": "平手",
         "away_water": "1.030",
         "time": "04-28 02:55"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.760↓",
+        "handicap": "平手",
+        "away_water": "1.000↑",
+        "time": "05-02 04:35"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "平手",
+        "away_water": "0.940",
+        "time": "04-26 03:25"
       }
     },
     {
@@ -763,10 +763,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.770↓",
+        "home_water": "0.780↓",
         "handicap": "平手",
-        "away_water": "1.020↑",
-        "time": "05-02 10:58"
+        "away_water": "1.040↑",
+        "time": "05-02 11:04"
       },
       "init": {
         "home_water": "0.870",
