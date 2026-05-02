@@ -24,7 +24,7 @@
       "lost": "1.64",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T12:40:50Z"
+    "fetched_at_utc": "2026-05-02T12:50:48Z"
   },
   "shuju": {
     "title": "西班牙人VS皇家马德里(2025/2026西甲)-数据分析-500彩票网",
@@ -734,22 +734,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.930↓",
-        "handicap": "受半球/一球升",
-        "away_water": "1.000↑",
-        "time": "05-02 14:08"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "受一球",
-        "away_water": "0.850",
-        "time": "04-24 18:26"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -763,6 +747,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.840",
         "time": "04-25 00:59"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.930↓",
+        "handicap": "受半球/一球升",
+        "away_water": "1.000↑",
+        "time": "05-02 14:08"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "受一球",
+        "away_water": "0.850",
+        "time": "04-24 18:26"
       }
     },
     {
