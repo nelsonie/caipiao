@@ -24,7 +24,7 @@
       "lost": "1.47",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T14:50:26Z"
+    "fetched_at_utc": "2026-05-02T15:00:25Z"
   },
   "shuju": {
     "title": "法马利康VS本菲卡(2025/2026葡超)-数据分析-500彩票网",
@@ -680,22 +680,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.810↓",
-        "handicap": "受一球",
-        "away_water": "1.070↑",
-        "time": "05-02 22:32"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "受一球",
-        "away_water": "1.010",
-        "time": "04-27 20:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -712,13 +696,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↓",
+        "handicap": "受一球",
+        "away_water": "1.070↑",
+        "time": "05-02 22:32"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "受一球",
+        "away_water": "1.010",
+        "time": "04-27 20:48"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.830↓",
         "handicap": "受一球",
         "away_water": "1.100↑",
-        "time": "05-02 21:33"
+        "time": "05-02 22:45"
       },
       "init": {
         "home_water": "1.040",
