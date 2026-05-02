@@ -24,7 +24,7 @@
       "lost": "2.32",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T13:20:11Z"
+    "fetched_at_utc": "2026-05-02T13:30:11Z"
   },
   "shuju": {
     "title": "雷克斯汉姆VS米德尔斯堡(2025/2026英冠)-数据分析-500彩票网",
@@ -274,6 +274,11 @@
             "position": "前锋"
           },
           {
+            "number": "20",
+            "name": "奥利弗·拉斯伯尼",
+            "position": "中场"
+          },
+          {
             "number": "10",
             "name": "乔什·温达斯",
             "position": "中场"
@@ -284,18 +289,13 @@
             "position": "中场"
           },
           {
-            "number": "20",
-            "name": "奥利弗·拉斯伯尼",
+            "number": "15",
+            "name": "乔治·多比森",
             "position": "中场"
           },
           {
             "number": "37",
             "name": "马修-詹姆斯",
-            "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "乔治·多比森",
             "position": "中场"
           },
           {
@@ -435,9 +435,9 @@
         ],
         "subs": [
           {
-            "number": "22",
-            "name": "塞缪尔·西尔维拉",
-            "position": "前锋"
+            "number": "32",
+            "name": "乔·维尔德史密斯",
+            "position": "守门员"
           },
           {
             "number": "20",
@@ -475,9 +475,9 @@
             "position": "中场"
           },
           {
-            "number": "32",
-            "name": "乔·维尔德史密斯",
-            "position": "守门员"
+            "number": "22",
+            "name": "塞缪尔·西尔维拉",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -599,22 +599,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "受平手/半球降",
-        "away_water": "0.890↓",
-        "time": "05-02 19:14"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "平手",
-        "away_water": "0.930",
-        "time": "04-27 08:11"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -628,6 +612,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.900",
         "time": "04-26 19:21"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "受平手/半球降",
+        "away_water": "0.890↓",
+        "time": "05-02 19:14"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "平手",
+        "away_water": "0.930",
+        "time": "04-27 08:11"
       }
     },
     {
