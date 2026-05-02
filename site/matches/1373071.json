@@ -24,7 +24,7 @@
       "lost": "2.42",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T00:20:07Z"
+    "fetched_at_utc": "2026-05-02T00:30:09Z"
   },
   "shuju": {
     "title": "仁川联合VS江原FC(2026K1联赛)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.040↓",
-        "handicap": "平手",
-        "away_water": "0.720",
-        "time": "05-02 04:24"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "平手",
-        "away_water": "0.720",
-        "time": "04-25 16:30"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.760",
         "time": "04-28 15:56"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.040↓",
+        "handicap": "平手",
+        "away_water": "0.720",
+        "time": "05-02 04:24"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "平手",
+        "away_water": "0.720",
+        "time": "04-25 16:30"
       }
     },
     {
