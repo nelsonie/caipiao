@@ -24,7 +24,7 @@
       "lost": "4.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T17:10:32Z"
+    "fetched_at_utc": "2026-05-02T17:20:32Z"
   },
   "shuju": {
     "title": "纽约城VS华盛顿联(2026美职联)-数据分析-500彩票网",
@@ -718,22 +718,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.930↑",
-        "time": "05-02 01:37"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "一球",
-        "away_water": "0.890",
-        "time": "04-20 15:54"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -747,6 +731,22 @@
         "handicap": "一球",
         "away_water": "0.860",
         "time": "04-20 05:05"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.930↑",
+        "time": "05-02 01:37"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "一球",
+        "away_water": "0.890",
+        "time": "04-20 15:54"
       }
     },
     {

@@ -24,7 +24,7 @@
       "lost": "6.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T17:10:37Z"
+    "fetched_at_utc": "2026-05-02T17:20:39Z"
   },
   "shuju": {
     "title": "吉达联合VS阿尔科鲁德(2025/2026沙特联)-数据分析-500彩票网",
@@ -361,15 +361,214 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "34",
+            "name": "史蒂文·贝尔温",
+            "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "尤瑟夫·恩-内斯里",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "侯赛姆·奥亚尔",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "马里奥·米塔伊",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "法比尼奥·恩里克·塔瓦雷斯",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "阿瓦德·纳什利",
+            "position": "中场"
+          },
+          {
+            "number": "78",
+            "name": "罗杰·费尔南德斯",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "哈桑·卡迪什",
+            "position": "后卫"
+          },
+          {
+            "number": "20",
+            "name": "艾哈迈德·沙拉赫利",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "扬-卡洛·西米奇",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "普雷德拉格·拉伊科维奇",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "66",
+            "name": "穆罕默德·巴纳维",
+            "position": "后卫"
+          },
+          {
+            "number": "88",
+            "name": "奥萨马·马鲁什",
+            "position": "守门员"
+          },
+          {
+            "number": "32",
+            "name": "艾哈迈德·朱莱丹",
+            "position": "后卫"
+          },
+          {
+            "number": "80",
+            "name": "哈梅德·加姆迪",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "费萨尔·加姆迪",
+            "position": "中场"
+          },
+          {
+            "number": "50",
+            "name": "穆罕默德·阿布西",
+            "position": "守门员"
+          },
+          {
+            "number": "22",
+            "name": "阿卜杜勒阿齐兹·比西",
+            "position": "前锋"
+          },
+          {
+            "number": "27",
+            "name": "艾哈迈德·加姆迪",
+            "position": "前锋"
+          },
+          {
+            "number": "41",
+            "name": "穆罕默德·艾哈迈德·法拉塔",
+            "position": "中场"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "99",
+            "name": "古斯塔沃·古维亚·罗德里格斯·克鲁斯",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "哈坦·巴赫布里",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "伊克尔·科塔哈雷纳",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "约翰·巴克利",
+            "position": "中场"
+          },
+          {
+            "number": "96",
+            "name": "凯文·恩多鲁姆",
+            "position": "中场"
+          },
+          {
+            "number": "46",
+            "name": "阿卜杜勒阿齐兹·阿利瓦",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "苏丹··谢赫里",
+            "position": "后卫"
+          },
+          {
+            "number": "38",
+            "name": "沙奎尔·皮纳斯",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "埃德加拉斯·乌托库斯",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "诺伯特·真贝尔",
+            "position": "后卫"
+          },
+          {
+            "number": "31",
+            "name": "胡安·科扎尼",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "24",
+            "name": "奥代·侯赛因·阿卜杜勒加尼",
+            "position": "中场"
+          },
+          {
+            "number": "34",
+            "name": "法雷斯·班达尔·阿尔扎赫拉尼",
+            "position": "守门员"
+          },
+          {
+            "number": "70",
+            "name": "穆罕默德·萨瓦安",
+            "position": "中场"
+          },
+          {
+            "number": "52",
+            "name": "拉坎·贾曼",
+            "position": "中场"
+          },
+          {
+            "number": "30",
+            "name": "穆罕默德·马齐亚德·沙姆马里",
+            "position": "守门员"
+          },
+          {
+            "number": "4",
+            "name": "贾曼·多萨里",
+            "position": "后卫"
+          },
+          {
+            "number": "39",
+            "name": "阿卜杜勒拉曼·多萨里",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "哈桑·阿斯玛里",
+            "position": "后卫"
+          }
+        ],
         "injured": [],
         "suspended": []
       }

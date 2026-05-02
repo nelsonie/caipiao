@@ -24,7 +24,7 @@
       "lost": "1.36",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T17:10:39Z"
+    "fetched_at_utc": "2026-05-02T17:20:40Z"
   },
   "shuju": {
     "title": "埃弗顿VS曼彻斯特城(2025/2026英超)-数据分析-500彩票网",
@@ -374,116 +374,106 @@
         "formation": null,
         "starters": [
           {
-            "number": "0",
+            "number": "11",
+            "name": "蒂埃诺·巴里",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
             "name": "伊利曼·恩迪亚耶",
             "position": "中场"
           },
           {
-            "number": "0",
-            "name": "贾拉德·布兰斯韦特",
+            "number": "22",
+            "name": "基尔南·德斯伯里·霍尔",
             "position": "中场"
           },
           {
-            "number": "0",
+            "number": "7",
             "name": "德怀特·麦克尼尔",
             "position": "中场"
           },
           {
-            "number": "0",
-            "name": "内森·帕特森",
-            "position": "后卫"
-          },
-          {
-            "number": "0",
-            "name": "杰克·奥布莱恩",
-            "position": "后卫"
-          },
-          {
-            "number": "0",
-            "name": "卡洛斯·阿尔卡拉斯",
-            "position": "中场"
-          },
-          {
-            "number": "0",
-            "name": "贝托",
-            "position": "前锋"
-          },
-          {
-            "number": "0",
+            "number": "37",
             "name": "詹姆斯·加纳",
             "position": "中场"
           },
           {
-            "number": "0",
+            "number": "27",
+            "name": "伊德里萨·盖耶",
+            "position": "中场"
+          },
+          {
+            "number": "16",
             "name": "维塔利·米科伦科",
             "position": "后卫"
           },
           {
-            "number": "0",
-            "name": "马克·特拉弗斯",
-            "position": "门将"
+            "number": "5",
+            "name": "迈克尔·基恩",
+            "position": "后卫"
           },
           {
-            "number": "0",
-            "name": "伊德里萨·盖耶",
-            "position": "中场"
+            "number": "6",
+            "name": "詹姆斯·塔尔科夫斯基",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "杰克·奥布莱恩",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "乔丹·皮克福德",
+            "position": "守门员"
           }
         ],
         "subs": [
           {
-            "number": "0",
-            "name": "贾斯汀·克拉克",
-            "position": "未知"
-          },
-          {
-            "number": "0",
-            "name": "乔治·芬尼",
-            "position": "中场"
-          },
-          {
-            "number": "0",
-            "name": "哈里森·阿梅冈",
-            "position": "后卫"
-          },
-          {
-            "number": "0",
-            "name": "阿莱德·托马斯",
-            "position": "中场"
-          },
-          {
-            "number": "0",
-            "name": "艾萨克·西斯",
-            "position": "中场"
-          },
-          {
-            "number": "0",
-            "name": "优素福·切尔米蒂",
+            "number": "19",
+            "name": "泰瑞克·乔治",
             "position": "前锋"
           },
           {
-            "number": "0",
-            "name": "泰勒·奥尼安戈",
+            "number": "12",
+            "name": "马克·特拉弗斯",
+            "position": "守门员"
+          },
+          {
+            "number": "2",
+            "name": "内森·帕特森",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "谢默斯·科尔曼",
+            "position": "后卫"
+          },
+          {
+            "number": "20",
+            "name": "泰勒·迪布林",
             "position": "中场"
           },
           {
-            "number": "0",
-            "name": "梅特卡夫",
+            "number": "24",
+            "name": "卡洛斯·阿尔卡拉斯",
             "position": "中场"
           },
           {
-            "number": "0",
+            "number": "34",
+            "name": "梅林·罗尔",
+            "position": "中场"
+          },
+          {
+            "number": "42",
             "name": "蒂姆·伊罗格布南",
             "position": "中场"
           },
           {
-            "number": "0",
-            "name": "哈里·泰勒",
-            "position": "门将"
-          },
-          {
-            "number": "0",
-            "name": "迈克尔·基恩",
-            "position": "后卫"
+            "number": "45",
+            "name": "哈里森·阿姆斯特朗",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -492,93 +482,6 @@
       "away": {
         "formation": null,
         "starters": [
-          {
-            "number": "31",
-            "name": "埃德森",
-            "position": "门将"
-          },
-          {
-            "number": "11",
-            "name": "杰里米·多库",
-            "position": "中场"
-          },
-          {
-            "number": "26",
-            "name": "萨维尼奥",
-            "position": "中场"
-          },
-          {
-            "number": "24",
-            "name": "约什科·格瓦迪奥尔",
-            "position": "后卫"
-          },
-          {
-            "number": "27",
-            "name": "马修斯·努内斯",
-            "position": "后卫"
-          },
-          {
-            "number": "21",
-            "name": "瑞安·艾特·努里",
-            "position": "后卫"
-          },
-          {
-            "number": "4",
-            "name": "蒂贾尼·赖因德斯",
-            "position": "中场"
-          },
-          {
-            "number": "9",
-            "name": "埃林·布朗特·哈兰德",
-            "position": "前锋"
-          },
-          {
-            "number": "3",
-            "name": "鲁本·迪亚斯",
-            "position": "后卫"
-          },
-          {
-            "number": "19",
-            "name": "伊尔凯·京多安",
-            "position": "中场"
-          },
-          {
-            "number": "20",
-            "name": "贝尔纳多·席尔瓦",
-            "position": "中场"
-          }
-        ],
-        "subs": [
-          {
-            "number": "22",
-            "name": "维托尔·雷斯",
-            "position": "后卫"
-          },
-          {
-            "number": "45",
-            "name": "阿卜杜科迪尔·胡桑诺夫",
-            "position": "后卫"
-          },
-          {
-            "number": "75",
-            "name": "尼科·奥莱利",
-            "position": "中场"
-          },
-          {
-            "number": "52",
-            "name": "奥斯卡·鲍伯",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "尼科·冈萨雷斯",
-            "position": "中场"
-          },
-          {
-            "number": "29",
-            "name": "拉扬·切尔基",
-            "position": "中场"
-          },
           {
             "number": "7",
             "name": "奥马尔·马尔穆什",
@@ -590,24 +493,29 @@
             "position": "中场"
           },
           {
-            "number": "16",
-            "name": "罗德里·埃尔南德斯",
+            "number": "10",
+            "name": "拉延·谢尔基",
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "约翰·斯通斯",
-            "position": "后卫"
+            "number": "8",
+            "name": "马特奥·科瓦契奇",
+            "position": "中场"
           },
           {
-            "number": "25",
-            "name": "曼努埃尔·阿坎吉",
-            "position": "后卫"
+            "number": "14",
+            "name": "尼科·冈萨雷斯",
+            "position": "中场"
           },
           {
-            "number": "13",
-            "name": "马库斯·贝蒂内利",
-            "position": "门将"
+            "number": "4",
+            "name": "蒂贾尼·赖因德斯",
+            "position": "中场"
+          },
+          {
+            "number": "21",
+            "name": "拉延·艾特·努里",
+            "position": "后卫"
           },
           {
             "number": "6",
@@ -615,9 +523,66 @@
             "position": "后卫"
           },
           {
-            "number": "18",
-            "name": "斯特凡·奥尔特加",
-            "position": "门将"
+            "number": "5",
+            "name": "约翰·斯通斯",
+            "position": "后卫"
+          },
+          {
+            "number": "27",
+            "name": "马修斯·努内斯",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "詹姆斯·特拉福德",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "25",
+            "name": "吉安路易吉·多纳鲁马",
+            "position": "守门员"
+          },
+          {
+            "number": "11",
+            "name": "杰里米·多库",
+            "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "埃尔林·哈兰德",
+            "position": "前锋"
+          },
+          {
+            "number": "15",
+            "name": "马克·格伊",
+            "position": "后卫"
+          },
+          {
+            "number": "45",
+            "name": "阿卜杜科迪尔·胡桑诺夫",
+            "position": "后卫"
+          },
+          {
+            "number": "82",
+            "name": "里科·刘易斯",
+            "position": "后卫"
+          },
+          {
+            "number": "26",
+            "name": "萨维尼奥",
+            "position": "前锋"
+          },
+          {
+            "number": "20",
+            "name": "贝尔纳多·席尔瓦",
+            "position": "中场"
+          },
+          {
+            "number": "33",
+            "name": "尼科·奥赖利",
+            "position": "中场"
           }
         ],
         "injured": [],
