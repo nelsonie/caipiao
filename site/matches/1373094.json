@@ -24,7 +24,7 @@
       "lost": "3.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-02T05:50:07Z"
+    "fetched_at_utc": "2026-05-02T06:00:08Z"
   },
   "shuju": {
     "title": "蔚山现代VS浦项制铁(2026K1联赛)-数据分析-500彩票网",
@@ -507,8 +507,8 @@
         "formation": null,
         "starters": [
           {
-            "number": "70",
-            "name": "黄庶雄",
+            "number": "10",
+            "name": "雅各布·特兰齐斯卡",
             "position": "前锋"
           },
           {
@@ -517,8 +517,8 @@
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "雅各布·特兰齐斯卡",
+            "number": "70",
+            "name": "黄庶雄",
             "position": "前锋"
           },
           {
@@ -527,13 +527,13 @@
             "position": "中场"
           },
           {
-            "number": "40",
-            "name": "奇诚庸",
+            "number": "16",
+            "name": "金东进",
             "position": "中场"
           },
           {
-            "number": "16",
-            "name": "金东进",
+            "number": "40",
+            "name": "奇诚庸",
             "position": "中场"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890↑",
-        "handicap": "平手/半球",
-        "away_water": "0.900↓",
-        "time": "05-02 12:56"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "平手/半球",
-        "away_water": "0.910",
-        "time": "04-28 14:02"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "1.000",
         "time": "04-26 16:52"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.890↑",
+        "handicap": "平手/半球",
+        "away_water": "0.900↓",
+        "time": "05-02 12:56"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "平手/半球",
+        "away_water": "0.910",
+        "time": "04-28 14:02"
       }
     },
     {
