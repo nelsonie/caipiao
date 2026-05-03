@@ -24,7 +24,7 @@
       "lost": "4.28",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-03T03:10:11Z"
+    "fetched_at_utc": "2026-05-03T03:20:11Z"
   },
   "shuju": {
     "title": "维戈塞尔塔VS埃尔切(2025/2026西甲)-数据分析-500彩票网",
@@ -691,8 +691,8 @@
       "live": {
         "home_water": "0.750↓",
         "handicap": "半球",
-        "away_water": "1.100↑",
-        "time": "05-03 10:11"
+        "away_water": "1.050",
+        "time": "05-03 11:11"
       },
       "init": {
         "home_water": "0.770",
@@ -721,16 +721,32 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.950↓",
+        "home_water": "0.930↓",
         "handicap": "半球/一球",
-        "away_water": "0.890↑",
-        "time": "05-03 05:05"
+        "away_water": "0.910↑",
+        "time": "05-03 10:53"
       },
       "init": {
         "home_water": "1.090",
         "handicap": "半球/一球",
         "away_water": "0.820",
         "time": "04-27 19:49"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.890↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.830↑",
+        "time": "05-03 10:58"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "一球",
+        "away_water": "0.780",
+        "time": "04-24 18:24"
       }
     },
     {
@@ -747,22 +763,6 @@
         "handicap": "半球",
         "away_water": "0.840",
         "time": "04-25 00:45"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.890↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.830↑",
-        "time": "05-03 08:59"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "一球",
-        "away_water": "0.780",
-        "time": "04-24 18:24"
       }
     },
     {
@@ -849,10 +849,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.930↑",
+        "home_water": "0.940↑",
         "handicap": "半球/一球",
         "away_water": "0.850↓",
-        "time": "05-03 10:51"
+        "time": "05-03 10:52"
       },
       "init": {
         "home_water": "0.830",
