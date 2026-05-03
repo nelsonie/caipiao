@@ -24,13 +24,13 @@
       "lost": "7.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-03T15:00:32Z"
+    "fetched_at_utc": "2026-05-03T15:10:35Z"
   },
   "shuju": {
     "title": "博德闪耀VS莫尔德(2026挪超)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，博德闪耀 3胜 3平 0负 ，进14球，失9球，大球5次，小球1次",
     "team_ranks": [
-      "博德闪耀 [挪超3]",
+      "博德闪耀 [挪超4]",
       "莫尔德 [挪超6]"
     ],
     "h2h_rows": [
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "球半",
-        "away_water": "0.910↑",
-        "time": "05-01 01:41"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "球半",
-        "away_water": "0.880",
-        "time": "04-27 17:15"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "球半",
         "away_water": "0.920",
         "time": "04-30 01:10"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "球半",
+        "away_water": "0.910↑",
+        "time": "05-01 01:41"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "球半",
+        "away_water": "0.880",
+        "time": "04-27 17:15"
       }
     },
     {
