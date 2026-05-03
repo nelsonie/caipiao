@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-03T14:50:33Z",
+  "last_updated_utc": "2026-05-03T15:00:35Z",
   "matches": [
     {
       "xml_id": "2039477",
@@ -92,22 +92,22 @@
       "away_team_id": "659"
     },
     {
-      "xml_id": "2039483",
-      "matchnum": "7007",
+      "xml_id": "2039482",
+      "matchnum": "7006",
       "date": "2026-05-03",
       "dayofweek": "星期天",
-      "league": "西班牙甲级联赛",
-      "home": "维戈塞尔塔",
-      "away": "埃尔切",
-      "spf_win": "2.94",
-      "spf_draw": "3.20",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-05-03 19:25:32",
-      "gameid": "1216054",
-      "kickoff_cst": "2026-05-03 20:00",
-      "matchnum_label": "周日007",
-      "home_team_id": "457",
-      "away_team_id": "564"
+      "league": "德国乙级联赛",
+      "home": "埃尔沃斯堡",
+      "away": "帕德博恩",
+      "spf_win": "4.12",
+      "spf_draw": "4.00",
+      "spf_lost": "1.57",
+      "spf_updated": "2026-05-03 19:16:38",
+      "gameid": "1223065",
+      "kickoff_cst": "2026-05-03 19:30",
+      "matchnum_label": "周日006",
+      "home_team_id": "1862",
+      "away_team_id": "1922"
     },
     {
       "xml_id": "2039485",
@@ -261,10 +261,10 @@
       "league": "挪威超级联赛",
       "home": "克里斯蒂安松",
       "away": "汉坎",
-      "spf_win": "4.75",
-      "spf_draw": "4.05",
-      "spf_lost": "1.49",
-      "spf_updated": "2026-05-02 09:29:52",
+      "spf_win": "5.00",
+      "spf_draw": "4.17",
+      "spf_lost": "1.45",
+      "spf_updated": "2026-05-03 22:51:12",
       "gameid": "1363454",
       "kickoff_cst": "2026-05-03 23:00",
       "matchnum_label": "周日017",
