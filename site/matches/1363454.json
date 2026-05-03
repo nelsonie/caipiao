@@ -24,7 +24,7 @@
       "lost": "2.57",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-03T12:40:21Z"
+    "fetched_at_utc": "2026-05-03T12:50:20Z"
   },
   "shuju": {
     "title": "克里斯蒂安松VS汉坎(2026挪超)-数据分析-500彩票网",
@@ -667,10 +667,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.850↓",
         "handicap": "平手降",
-        "away_water": "0.930↑",
-        "time": "05-03 20:28"
+        "away_water": "0.950↑",
+        "time": "05-03 20:38"
       },
       "init": {
         "home_water": "0.930",
@@ -699,10 +699,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.920",
+        "home_water": "0.900↓",
         "handicap": "平手",
-        "away_water": "0.960",
-        "time": "05-03 20:26"
+        "away_water": "0.980↑",
+        "time": "05-03 20:43"
       },
       "init": {
         "home_water": "0.920",
@@ -715,16 +715,32 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.890↑",
+        "home_water": "0.820↓",
         "handicap": "平手",
-        "away_water": "0.970↑",
-        "time": "05-03 20:19"
+        "away_water": "0.920↑",
+        "time": "05-03 20:40"
       },
       "init": {
         "home_water": "0.870",
         "handicap": "平手",
         "away_water": "0.870",
         "time": "04-27 21:59"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.890↑",
+        "handicap": "平手",
+        "away_water": "0.930↓",
+        "time": "05-03 20:44"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "平手",
+        "away_water": "1.050",
+        "time": "04-27 16:45"
       }
     },
     {
@@ -741,22 +757,6 @@
         "handicap": "平手",
         "away_water": "0.920",
         "time": "04-28 23:20"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "平手",
-        "away_water": "0.940↓",
-        "time": "05-03 18:46"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "平手",
-        "away_water": "1.050",
-        "time": "04-27 16:45"
       }
     },
     {
@@ -829,8 +829,8 @@
       "live": {
         "home_water": "0.880↑",
         "handicap": "平手",
-        "away_water": "0.930↓",
-        "time": "05-03 19:34"
+        "away_water": "0.920↓",
+        "time": "05-03 20:38"
       },
       "init": {
         "home_water": "0.740",
@@ -843,10 +843,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.930↑",
+        "home_water": "0.910↑",
         "handicap": "平手",
-        "away_water": "0.970↓",
-        "time": "05-03 20:29"
+        "away_water": "0.990↓",
+        "time": "05-03 20:39"
       },
       "init": {
         "home_water": "0.840",
