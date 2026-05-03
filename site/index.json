@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-03T06:30:43Z",
+  "last_updated_utc": "2026-05-03T06:40:35Z",
   "matches": [
     {
       "xml_id": "2039477",
@@ -524,6 +524,24 @@
       "away_team_id": "881"
     },
     {
+      "xml_id": "2039506",
+      "matchnum": "7030",
+      "date": "2026-05-04",
+      "dayofweek": "星期一",
+      "league": "葡萄牙超级联赛",
+      "home": "里奥阿维",
+      "away": "吉维森特",
+      "spf_win": "1.66",
+      "spf_draw": "3.60",
+      "spf_lost": "4.05",
+      "spf_updated": "2026-05-01 09:41:43",
+      "gameid": "1216346",
+      "kickoff_cst": "2026-05-04 03:30",
+      "matchnum_label": "周日030",
+      "home_team_id": "1002",
+      "away_team_id": "1263"
+    },
+    {
       "xml_id": "2039507",
       "matchnum": "1001",
       "date": "2026-05-04",
@@ -648,6 +666,24 @@
       "matchnum_label": "周一007",
       "home_team_id": "8310",
       "away_team_id": "10406"
+    },
+    {
+      "xml_id": "2039514",
+      "matchnum": "1008",
+      "date": "2026-05-05",
+      "dayofweek": "星期二",
+      "league": "意大利甲级联赛",
+      "home": "罗马",
+      "away": "佛罗伦萨",
+      "spf_win": "2.76",
+      "spf_draw": "3.25",
+      "spf_lost": "2.18",
+      "spf_updated": "2026-05-02 09:29:52",
+      "gameid": "1199688",
+      "kickoff_cst": "2026-05-05 02:45",
+      "matchnum_label": "周一008",
+      "home_team_id": "1032",
+      "away_team_id": "803"
     },
     {
       "xml_id": "2039515",
