@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-05-03T17:00:20Z",
+  "last_updated_utc": "2026-05-03T17:10:16Z",
   "matches": [
-    {
-      "xml_id": "2039498",
-      "matchnum": "7022",
-      "date": "2026-05-04",
-      "dayofweek": "星期一",
-      "league": "葡萄牙超级联赛",
-      "home": "布拉加",
-      "away": "埃斯托里尔",
-      "spf_win": "2.86",
-      "spf_draw": "3.40",
-      "spf_lost": "2.06",
-      "spf_updated": "2026-05-03 18:39:55",
-      "gameid": "1216310",
-      "kickoff_cst": "2026-05-04 01:00",
-      "matchnum_label": "周日022",
-      "home_team_id": "719",
-      "away_team_id": "1616"
-    },
     {
       "xml_id": "2039499",
       "matchnum": "7023",
@@ -144,24 +126,6 @@
       "matchnum_label": "周日029",
       "home_team_id": "7947",
       "away_team_id": "881"
-    },
-    {
-      "xml_id": "2039506",
-      "matchnum": "7030",
-      "date": "2026-05-04",
-      "dayofweek": "星期一",
-      "league": "葡萄牙超级联赛",
-      "home": "里奥阿维",
-      "away": "吉维森特",
-      "spf_win": "1.72",
-      "spf_draw": "3.35",
-      "spf_lost": "4.00",
-      "spf_updated": "2026-05-03 22:24:20",
-      "gameid": "1216346",
-      "kickoff_cst": "2026-05-04 03:30",
-      "matchnum_label": "周日030",
-      "home_team_id": "1002",
-      "away_team_id": "1263"
     },
     {
       "xml_id": "2039507",
