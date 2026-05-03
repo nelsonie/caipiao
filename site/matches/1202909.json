@@ -24,7 +24,7 @@
       "lost": "2.24",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-03T15:10:21Z"
+    "fetched_at_utc": "2026-05-03T15:20:18Z"
   },
   "shuju": {
     "title": "阿尔克马尔VS特温特(2025/2026荷甲)-数据分析-500彩票网",
@@ -370,13 +370,13 @@
             "position": "中场"
           },
           {
-            "number": "26",
-            "name": "基斯·史密特",
+            "number": "8",
+            "name": "约尔迪·克拉西",
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "约尔迪·克拉西",
+            "number": "26",
+            "name": "基斯·史密特",
             "position": "中场"
           },
           {
@@ -710,22 +710,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.860↓",
-        "time": "05-03 22:39"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "平手",
-        "away_water": "0.880",
-        "time": "04-28 08:28"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -739,6 +723,22 @@
         "handicap": "平手",
         "away_water": "0.890",
         "time": "04-26 23:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.860↓",
+        "time": "05-03 22:39"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "平手",
+        "away_water": "0.880",
+        "time": "04-28 08:28"
       }
     },
     {

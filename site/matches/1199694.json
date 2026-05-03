@@ -24,7 +24,7 @@
       "lost": "12.80",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-03T15:10:23Z"
+    "fetched_at_utc": "2026-05-03T15:20:22Z"
   },
   "shuju": {
     "title": "尤文图斯VS维罗纳(2025/2026意甲)-数据分析-500彩票网",
@@ -362,33 +362,18 @@
         "formation": null,
         "starters": [
           {
-            "number": "30",
-            "name": "乔纳森·戴维",
+            "number": "6",
+            "name": "劳埃德·凯利",
+            "position": "后卫"
+          },
+          {
+            "number": "10",
+            "name": "凯南·伊尔迪兹",
             "position": "前锋"
-          },
-          {
-            "number": "13",
-            "name": "杰雷米·博加",
-            "position": "中场"
-          },
-          {
-            "number": "7",
-            "name": "弗朗西斯科·孔塞桑",
-            "position": "中场"
-          },
-          {
-            "number": "27",
-            "name": "安德里亚·坎比亚索",
-            "position": "中场"
           },
           {
             "number": "19",
             "name": "凯夫伦·图拉姆",
-            "position": "中场"
-          },
-          {
-            "number": "5",
-            "name": "曼努埃尔·洛卡特利",
             "position": "中场"
           },
           {
@@ -397,14 +382,9 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "劳埃德·凯利",
-            "position": "后卫"
-          },
-          {
-            "number": "3",
-            "name": "格雷森·布雷默",
-            "position": "后卫"
+            "number": "5",
+            "name": "曼努埃尔·洛卡特利",
+            "position": "中场"
           },
           {
             "number": "15",
@@ -415,12 +395,37 @@
             "number": "16",
             "name": "米歇尔·迪·格雷戈里奥",
             "position": "守门员"
+          },
+          {
+            "number": "27",
+            "name": "安德里亚·坎比亚索",
+            "position": "后卫"
+          },
+          {
+            "number": "7",
+            "name": "弗朗西斯科·孔塞桑",
+            "position": "前锋"
+          },
+          {
+            "number": "30",
+            "name": "乔纳森·戴维",
+            "position": "前锋"
+          },
+          {
+            "number": "3",
+            "name": "格雷森·布雷默",
+            "position": "后卫"
           }
         ],
         "subs": [
           {
-            "number": "11",
-            "name": "埃顿·泽格罗瓦",
+            "number": "17",
+            "name": "瓦西里耶·阿季奇",
+            "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "杰雷米·博加",
             "position": "前锋"
           },
           {
@@ -431,7 +436,7 @@
           {
             "number": "2",
             "name": "埃米尔·霍尔姆",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "8",
@@ -469,14 +474,9 @@
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "凯南·伊尔迪兹",
+            "number": "11",
+            "name": "埃顿·泽格罗瓦",
             "position": "前锋"
-          },
-          {
-            "number": "17",
-            "name": "瓦西里耶·阿季奇",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -486,29 +486,9 @@
         "formation": null,
         "starters": [
           {
-            "number": "18",
-            "name": "基隆·鲍伊",
-            "position": "前锋"
-          },
-          {
-            "number": "10",
-            "name": "托马斯·索洛夫",
-            "position": "中场"
-          },
-          {
-            "number": "3",
-            "name": "马丁·弗雷塞",
-            "position": "中场"
-          },
-          {
-            "number": "24",
-            "name": "安托万·伯内德",
-            "position": "中场"
-          },
-          {
-            "number": "63",
-            "name": "罗伯托·加利亚尔迪尼",
-            "position": "中场"
+            "number": "1",
+            "name": "洛伦佐.蒙蒂普",
+            "position": "守门员"
           },
           {
             "number": "11",
@@ -518,7 +498,22 @@
           {
             "number": "7",
             "name": "拉菲克·贝尔加利",
+            "position": "后卫"
+          },
+          {
+            "number": "24",
+            "name": "安托万·伯内德",
             "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "基隆·鲍伊",
+            "position": "前锋"
+          },
+          {
+            "number": "12",
+            "name": "多马戈吉·布拉达里克",
+            "position": "后卫"
           },
           {
             "number": "5",
@@ -526,9 +521,9 @@
             "position": "后卫"
           },
           {
-            "number": "37",
-            "name": "阿米尔·贝拉-科沙",
-            "position": "后卫"
+            "number": "63",
+            "name": "罗伯托·加利亚尔迪尼",
+            "position": "中场"
           },
           {
             "number": "15",
@@ -536,9 +531,14 @@
             "position": "后卫"
           },
           {
-            "number": "1",
-            "name": "洛伦佐.蒙蒂普",
-            "position": "守门员"
+            "number": "10",
+            "name": "托马斯·索洛夫",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "马丁·弗雷塞",
+            "position": "后卫"
           }
         ],
         "subs": [
@@ -732,22 +732,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "两球升",
-        "away_water": "0.800↓",
-        "time": "05-03 22:46"
-      },
-      "init": {
-        "home_water": "1.010",
-        "handicap": "球半",
-        "away_water": "0.920",
-        "time": "04-20 03:33"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -761,6 +745,22 @@
         "handicap": "球半",
         "away_water": "0.860",
         "time": "04-20 04:22"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "两球升",
+        "away_water": "0.800↓",
+        "time": "05-03 22:46"
+      },
+      "init": {
+        "home_water": "1.010",
+        "handicap": "球半",
+        "away_water": "0.920",
+        "time": "04-20 03:33"
       }
     },
     {
