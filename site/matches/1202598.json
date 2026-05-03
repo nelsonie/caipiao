@@ -24,7 +24,7 @@
       "lost": "4.80",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-03T12:10:15Z"
+    "fetched_at_utc": "2026-05-03T12:20:13Z"
   },
   "shuju": {
     "title": "伯恩茅斯VS水晶宫(2025/2026英超)-数据分析-500彩票网",
@@ -389,13 +389,13 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "大卫·布鲁克斯",
+            "number": "37",
+            "name": "拉扬·维托尔",
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "瑞安·克里斯蒂",
+            "number": "12",
+            "name": "泰勒·亚当斯",
             "position": "中场"
           },
           {
@@ -446,24 +446,24 @@
             "position": "后卫"
           },
           {
+            "number": "7",
+            "name": "大卫·布鲁克斯",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "瑞安·克里斯蒂",
+            "position": "中场"
+          },
+          {
             "number": "11",
             "name": "本·多克",
             "position": "前锋"
           },
           {
-            "number": "12",
-            "name": "泰勒·亚当斯",
-            "position": "中场"
-          },
-          {
             "number": "27",
             "name": "亚历克斯·托特",
             "position": "中场"
-          },
-          {
-            "number": "37",
-            "name": "拉扬·维托尔",
-            "position": "前锋"
           },
           {
             "number": "21",
@@ -488,78 +488,6 @@
             "position": "前锋"
           },
           {
-            "number": "14",
-            "name": "让-菲利普·马特塔",
-            "position": "前锋"
-          },
-          {
-            "number": "7",
-            "name": "伊斯梅拉·萨尔",
-            "position": "前锋"
-          },
-          {
-            "number": "3",
-            "name": "泰里克·米切尔",
-            "position": "中场"
-          },
-          {
-            "number": "18",
-            "name": "镰田大地",
-            "position": "中场"
-          },
-          {
-            "number": "20",
-            "name": "亚当·沃顿",
-            "position": "中场"
-          },
-          {
-            "number": "2",
-            "name": "丹尼尔·穆尼奥斯",
-            "position": "中场"
-          },
-          {
-            "number": "23",
-            "name": "杰迪·坎沃特",
-            "position": "后卫"
-          },
-          {
-            "number": "5",
-            "name": "马克尚斯·拉克鲁瓦",
-            "position": "后卫"
-          },
-          {
-            "number": "26",
-            "name": "克里斯·理查兹",
-            "position": "后卫"
-          },
-          {
-            "number": "1",
-            "name": "迪恩·亨德森",
-            "position": "守门员"
-          }
-        ],
-        "subs": [
-          {
-            "number": "24",
-            "name": "博尔纳·索萨",
-            "position": "后卫"
-          },
-          {
-            "number": "34",
-            "name": "查迪·里亚德",
-            "position": "后卫"
-          },
-          {
-            "number": "31",
-            "name": "雷米·马修斯",
-            "position": "守门员"
-          },
-          {
-            "number": "8",
-            "name": "杰弗森·莱尔马",
-            "position": "中场"
-          },
-          {
             "number": "22",
             "name": "约根·斯特兰德·拉森",
             "position": "前锋"
@@ -570,14 +498,56 @@
             "position": "前锋"
           },
           {
-            "number": "19",
-            "name": "威尔·休斯",
+            "number": "55",
+            "name": "贾斯汀·德文尼",
             "position": "中场"
           },
           {
-            "number": "17",
-            "name": "克莱因",
+            "number": "18",
+            "name": "镰田大地",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "杰弗森·莱尔马",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "丹尼尔·穆尼奥斯",
+            "position": "中场"
+          },
+          {
+            "number": "34",
+            "name": "查迪·里亚德",
             "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "马克尚斯·拉克鲁瓦",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "杰迪·坎沃特",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "迪恩·亨德森",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "14",
+            "name": "让-菲利普·马特塔",
+            "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "伊斯梅拉·萨尔",
+            "position": "前锋"
           },
           {
             "number": "59",
@@ -585,14 +555,34 @@
             "position": "中场"
           },
           {
+            "number": "20",
+            "name": "亚当·沃顿",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "泰里克·米切尔",
+            "position": "后卫"
+          },
+          {
+            "number": "26",
+            "name": "克里斯·理查兹",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "克莱因",
+            "position": "后卫"
+          },
+          {
             "number": "44",
             "name": "沃尔特·贝尼特斯",
             "position": "守门员"
           },
           {
-            "number": "55",
-            "name": "贾斯汀·德文尼",
-            "position": "中场"
+            "number": "31",
+            "name": "雷米·马修斯",
+            "position": "守门员"
           }
         ],
         "injured": [],
