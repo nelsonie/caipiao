@@ -24,7 +24,7 @@
       "lost": "2.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-03T14:40:19Z"
+    "fetched_at_utc": "2026-05-03T14:50:15Z"
   },
   "shuju": {
     "title": "曼彻斯特联VS利物浦(2025/2026英超)-数据分析-500彩票网",
@@ -430,11 +430,6 @@
             "position": "前锋"
           },
           {
-            "number": "15",
-            "name": "莱尼·约罗",
-            "position": "后卫"
-          },
-          {
             "number": "25",
             "name": "曼努埃尔·乌加特",
             "position": "中场"
@@ -468,6 +463,11 @@
             "number": "1",
             "name": "阿尔泰·巴因迪尔",
             "position": "守门员"
+          },
+          {
+            "number": "15",
+            "name": "莱尼·约罗",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -477,18 +477,18 @@
         "formation": null,
         "starters": [
           {
-            "number": "18",
-            "name": "科迪·加克波",
-            "position": "前锋"
-          },
-          {
             "number": "7",
             "name": "弗洛里安·维尔茨",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "8",
             "name": "多米尼克·索博斯洛伊",
+            "position": "前锋"
+          },
+          {
+            "number": "18",
+            "name": "科迪·加克波",
             "position": "中场"
           },
           {

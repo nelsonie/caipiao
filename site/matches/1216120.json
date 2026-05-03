@@ -24,7 +24,7 @@
       "lost": "4.40",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-03T14:40:18Z"
+    "fetched_at_utc": "2026-05-03T14:50:15Z"
   },
   "shuju": {
     "title": "赫塔费VS巴列卡诺(2025/2026西甲)-数据分析-500彩票网",
@@ -380,13 +380,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "19",
-            "name": "路易斯·巴斯克斯",
+            "number": "10",
+            "name": "马丁·萨特里亚诺",
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "马丁·萨特里亚诺",
+            "number": "19",
+            "name": "路易斯·巴斯克斯",
             "position": "前锋"
           },
           {
@@ -402,7 +402,7 @@
           {
             "number": "23",
             "name": "阿德里安·利索",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "26",
@@ -412,7 +412,7 @@
           {
             "number": "21",
             "name": "胡安·伊格莱西亚斯",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "22",
@@ -437,19 +437,24 @@
         ],
         "subs": [
           {
+            "number": "44",
+            "name": "阿德里安·里克尔梅·冈萨雷斯",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "亚历克斯·桑克里斯",
+            "position": "前锋"
+          },
+          {
             "number": "20",
             "name": "韦利科·比曼切维奇",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "15",
             "name": "胡安·塞巴斯蒂安·博斯利·格拉夫",
             "position": "后卫"
-          },
-          {
-            "number": "46",
-            "name": "达米安",
-            "position": "中场"
           },
           {
             "number": "14",
@@ -472,24 +477,19 @@
             "position": "前锋"
           },
           {
+            "number": "46",
+            "name": "达米安·卡塞雷斯",
+            "position": "中场"
+          },
+          {
             "number": "12",
             "name": "阿伦·尼约姆",
             "position": "后卫"
           },
           {
-            "number": "18",
-            "name": "亚历克斯·桑克里斯",
-            "position": "前锋"
-          },
-          {
             "number": "16",
             "name": "迭戈·里科",
             "position": "后卫"
-          },
-          {
-            "number": "44",
-            "name": "阿德里安·里克尔梅",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -501,7 +501,7 @@
           {
             "number": "22",
             "name": "阿方索·埃斯皮诺",
-            "position": "后卫"
+            "position": "前锋"
           },
           {
             "number": "9",
@@ -526,7 +526,7 @@
           {
             "number": "10",
             "name": "塞吉奥·卡梅略",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "33",
@@ -568,7 +568,7 @@
           {
             "number": "14",
             "name": "卡洛斯·马丁",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "16",
@@ -583,7 +583,7 @@
           {
             "number": "21",
             "name": "弗兰·佩雷兹",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "2",
