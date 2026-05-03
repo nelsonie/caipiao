@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-03T02:20:36Z",
+  "last_updated_utc": "2026-05-03T02:30:36Z",
   "matches": [
     {
       "xml_id": "2039477",
@@ -9,10 +9,10 @@
       "league": "日本职业联赛",
       "home": "大阪樱花",
       "away": "福冈黄蜂",
-      "spf_win": "3.55",
+      "spf_win": "3.42",
       "spf_draw": "3.35",
-      "spf_lost": "1.82",
-      "spf_updated": "2026-05-01 09:41:43",
+      "spf_lost": "1.86",
+      "spf_updated": "2026-05-03 10:18:36",
       "gameid": "1366325",
       "kickoff_cst": "2026-05-03 14:00",
       "matchnum_label": "周日001",
@@ -306,24 +306,6 @@
       "matchnum_label": "周日017",
       "home_team_id": "4338",
       "away_team_id": "861"
-    },
-    {
-      "xml_id": "2039494",
-      "matchnum": "7018",
-      "date": "2026-05-03",
-      "dayofweek": "星期天",
-      "league": "法国甲级联赛",
-      "home": "斯特拉斯堡",
-      "away": "图卢兹",
-      "spf_win": "4.95",
-      "spf_draw": "4.20",
-      "spf_lost": "1.45",
-      "spf_updated": "2026-05-02 18:34:33",
-      "gameid": "1205706",
-      "kickoff_cst": "2026-05-03 23:15",
-      "matchnum_label": "周日018",
-      "home_team_id": "1194",
-      "away_team_id": "1233"
     },
     {
       "xml_id": "2039495",
