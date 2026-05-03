@@ -8,9 +8,9 @@
     "away": "特温特",
     "kickoff_cst": "2026-05-03 22:45",
     "spf": {
-      "win": "1.49",
-      "draw": "4.25",
-      "lost": "4.50"
+      "win": "1.43",
+      "draw": "4.65",
+      "lost": "4.65"
     },
     "asia_main": {
       "handicap": "平手",
@@ -24,7 +24,7 @@
       "lost": "2.24",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-03T12:50:18Z"
+    "fetched_at_utc": "2026-05-03T13:00:16Z"
   },
   "shuju": {
     "title": "阿尔克马尔VS特温特(2025/2026荷甲)-数据分析-500彩票网",
@@ -710,22 +710,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "平手",
-        "away_water": "0.910↑",
-        "time": "05-03 19:47"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "平手",
-        "away_water": "0.880",
-        "time": "04-28 08:28"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -739,6 +723,22 @@
         "handicap": "平手",
         "away_water": "0.890",
         "time": "04-26 23:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "平手",
+        "away_water": "0.910↑",
+        "time": "05-03 19:47"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "平手",
+        "away_water": "0.880",
+        "time": "04-28 08:28"
       }
     },
     {
@@ -777,10 +777,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.980↑",
+        "home_water": "0.970↑",
         "handicap": "平手",
-        "away_water": "0.940↓",
-        "time": "05-03 19:47"
+        "away_water": "0.950",
+        "time": "05-03 20:48"
       },
       "init": {
         "home_water": "0.930",
