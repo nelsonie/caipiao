@@ -24,7 +24,7 @@
       "lost": "1.78",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-03T10:50:07Z"
+    "fetched_at_utc": "2026-05-03T11:00:05Z"
   },
   "shuju": {
     "title": null,
@@ -157,22 +157,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.960",
-        "handicap": "受平手/半球",
-        "away_water": "0.920↑",
-        "time": "05-03 18:16"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "受平手/半球",
-        "away_water": "0.700",
-        "time": "04-26 21:49"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -186,6 +170,22 @@
         "handicap": "受半球",
         "away_water": "1.030",
         "time": "04-28 08:28"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.960",
+        "handicap": "受平手/半球",
+        "away_water": "0.920↑",
+        "time": "05-03 18:16"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "受平手/半球",
+        "away_water": "0.700",
+        "time": "04-26 21:49"
       }
     },
     {

@@ -24,7 +24,7 @@
       "lost": "2.83",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-03T10:50:10Z"
+    "fetched_at_utc": "2026-05-03T11:00:10Z"
   },
   "shuju": {
     "title": "埃沃斯堡VS帕德博恩(2025/2026德乙)-数据分析-500彩票网",
@@ -379,13 +379,13 @@
             "position": "后卫"
           },
           {
-            "number": "19",
-            "name": "卢卡斯·芬恩·平克特",
+            "number": "3",
+            "name": "勒容库尔",
             "position": "后卫"
           },
           {
-            "number": "43",
-            "name": "费利克斯·凯德尔",
+            "number": "30",
+            "name": "扬·伽玛拉",
             "position": "后卫"
           },
           {
@@ -396,19 +396,14 @@
         ],
         "subs": [
           {
-            "number": "24",
-            "name": "卢卡·帕斯卡·施内尔巴赫",
+            "number": "14",
+            "name": "贾兹尼奥·马兰加",
             "position": "中场"
           },
           {
-            "number": "16",
-            "name": "卢卡·菲弗",
+            "number": "15",
+            "name": "亚当·鲁尔夫",
             "position": "前锋"
-          },
-          {
-            "number": "23",
-            "name": "卡洛·西辛格",
-            "position": "中场"
           },
           {
             "number": "28",
@@ -416,18 +411,8 @@
             "position": "守门员"
           },
           {
-            "number": "17",
-            "name": "弗雷德里克·施马尔",
-            "position": "中场"
-          },
-          {
-            "number": "30",
-            "name": "扬·伽玛拉",
-            "position": "后卫"
-          },
-          {
-            "number": "14",
-            "name": "贾兹尼奥·马兰加",
+            "number": "10",
+            "name": "班巴斯·孔蒂",
             "position": "中场"
           },
           {
@@ -436,9 +421,24 @@
             "position": "后卫"
           },
           {
-            "number": "15",
-            "name": "亚当·鲁尔夫",
+            "number": "16",
+            "name": "卢卡·菲弗",
             "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "弗雷德里克·施马尔",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "卢卡·帕斯卡·施内尔巴赫",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "卡洛·西辛格",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -448,23 +448,23 @@
         "formation": null,
         "starters": [
           {
-            "number": "2",
-            "name": "鲁本·穆勒",
-            "position": "前锋"
-          },
-          {
             "number": "30",
             "name": "斯特凡诺·马里诺",
             "position": "前锋"
           },
           {
-            "number": "3",
-            "name": "约拿·斯特克",
+            "number": "7",
+            "name": "菲利普·比尔比亚",
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "菲利普·比尔比亚",
+            "number": "2",
+            "name": "鲁本·穆勒",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "约拿·斯特克",
             "position": "中场"
           },
           {
@@ -505,8 +505,13 @@
         ],
         "subs": [
           {
-            "number": "9",
-            "name": "尼克·巴兹纳",
+            "number": "22",
+            "name": "马特斯·汉森",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "大卫·金索比",
             "position": "中场"
           },
           {
@@ -520,6 +525,11 @@
             "position": "守门员"
           },
           {
+            "number": "10",
+            "name": "肯尼迪·奥克帕拉",
+            "position": "前锋"
+          },
+          {
             "number": "24",
             "name": "尼克拉斯·莫尔",
             "position": "后卫"
@@ -530,24 +540,14 @@
             "position": "前锋"
           },
           {
+            "number": "9",
+            "name": "尼克·巴兹纳",
+            "position": "中场"
+          },
+          {
             "number": "26",
             "name": "塞巴斯蒂安·克拉斯",
             "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "大卫·金索比",
-            "position": "中场"
-          },
-          {
-            "number": "22",
-            "name": "马特斯·汉森",
-            "position": "中场"
-          },
-          {
-            "number": "10",
-            "name": "肯尼迪·奥克帕拉",
-            "position": "前锋"
           }
         ],
         "injured": [],
@@ -669,22 +669,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↑",
-        "handicap": "平手/半球",
-        "away_water": "0.880↓",
-        "time": "05-03 18:46"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "平手/半球",
-        "away_water": "0.960",
-        "time": "04-28 08:16"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -698,6 +682,22 @@
         "handicap": "平手/半球",
         "away_water": "0.870",
         "time": "04-26 20:02"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "平手/半球",
+        "away_water": "0.880↓",
+        "time": "05-03 18:46"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "平手/半球",
+        "away_water": "0.960",
+        "time": "04-28 08:16"
       }
     },
     {
@@ -720,10 +720,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.990↑",
         "handicap": "平手/半球",
-        "away_water": "0.950↓",
-        "time": "05-03 18:41"
+        "away_water": "0.930↓",
+        "time": "05-03 18:48"
       },
       "init": {
         "home_water": "0.870",
@@ -736,10 +736,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "1.010↓",
+        "home_water": "1.020↓",
         "handicap": "平手/半球降",
-        "away_water": "0.910↑",
-        "time": "05-03 18:42"
+        "away_water": "0.900↑",
+        "time": "05-03 18:48"
       },
       "init": {
         "home_water": "1.120",
@@ -768,10 +768,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.020↑",
         "handicap": "平手/半球",
-        "away_water": "0.910↓",
-        "time": "05-03 18:42"
+        "away_water": "0.900↓",
+        "time": "05-03 18:47"
       },
       "init": {
         "home_water": "0.870",
@@ -800,10 +800,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.980↑",
+        "home_water": "0.990↑",
         "handicap": "平手/半球",
-        "away_water": "0.920↓",
-        "time": "05-03 18:35"
+        "away_water": "0.910↓",
+        "time": "05-03 18:48"
       },
       "init": {
         "home_water": "0.880",
