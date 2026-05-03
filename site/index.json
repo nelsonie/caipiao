@@ -1,6 +1,24 @@
 {
-  "last_updated_utc": "2026-05-03T22:20:13Z",
+  "last_updated_utc": "2026-05-03T22:30:12Z",
   "matches": [
+    {
+      "xml_id": "2039507",
+      "matchnum": "1001",
+      "date": "2026-05-04",
+      "dayofweek": "星期一",
+      "league": "英格兰超级联赛",
+      "home": "切尔西",
+      "away": "诺丁汉森林",
+      "spf_win": "2.60",
+      "spf_draw": "3.45",
+      "spf_lost": "2.20",
+      "spf_updated": "2026-05-02 09:29:52",
+      "gameid": "1202739",
+      "kickoff_cst": "2026-05-04 22:00",
+      "matchnum_label": "周一001",
+      "home_team_id": "1173",
+      "away_team_id": "1142"
+    },
     {
       "xml_id": "2039508",
       "matchnum": "1002",
@@ -56,42 +74,6 @@
       "away_team_id": "823"
     },
     {
-      "xml_id": "2039511",
-      "matchnum": "1005",
-      "date": "2026-05-05",
-      "dayofweek": "星期二",
-      "league": "瑞典超级联赛",
-      "home": "哈尔姆斯塔德",
-      "away": "布鲁马波卡纳",
-      "spf_win": "1.50",
-      "spf_draw": "3.80",
-      "spf_lost": "5.00",
-      "spf_updated": "2026-05-02 09:29:52",
-      "gameid": "1362650",
-      "kickoff_cst": "2026-05-05 01:00",
-      "matchnum_label": "周一005",
-      "home_team_id": "848",
-      "away_team_id": "1764"
-    },
-    {
-      "xml_id": "2039512",
-      "matchnum": "1006",
-      "date": "2026-05-05",
-      "dayofweek": "星期二",
-      "league": "挪威超级联赛",
-      "home": "博德闪耀",
-      "away": "莫尔德",
-      "spf_win": "1.75",
-      "spf_draw": "4.10",
-      "spf_lost": "3.18",
-      "spf_updated": "2026-05-02 09:29:52",
-      "gameid": "1364003",
-      "kickoff_cst": "2026-05-05 01:00",
-      "matchnum_label": "周一006",
-      "home_team_id": "703",
-      "away_team_id": "1109"
-    },
-    {
       "xml_id": "2039514",
       "matchnum": "1008",
       "date": "2026-05-05",
@@ -108,6 +90,24 @@
       "matchnum_label": "周一008",
       "home_team_id": "1032",
       "away_team_id": "803"
+    },
+    {
+      "xml_id": "2039515",
+      "matchnum": "1009",
+      "date": "2026-05-05",
+      "dayofweek": "星期二",
+      "league": "英格兰超级联赛",
+      "home": "埃弗顿",
+      "away": "曼彻斯特城",
+      "spf_win": "2.65",
+      "spf_draw": "3.70",
+      "spf_lost": "2.08",
+      "spf_updated": "2026-05-03 12:31:26",
+      "gameid": "1202455",
+      "kickoff_cst": "2026-05-05 03:00",
+      "matchnum_label": "周一009",
+      "home_team_id": "565",
+      "away_team_id": "1072"
     },
     {
       "xml_id": "2039516",
