@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-05-03T16:30:21Z",
+  "last_updated_utc": "2026-05-03T16:40:18Z",
   "matches": [
-    {
-      "xml_id": "2039497",
-      "matchnum": "7021",
-      "date": "2026-05-04",
-      "dayofweek": "星期一",
-      "league": "西班牙甲级联赛",
-      "home": "皇家贝蒂斯",
-      "away": "皇家奥维耶多",
-      "spf_win": "2.48",
-      "spf_draw": "3.05",
-      "spf_lost": "2.51",
-      "spf_updated": "2026-05-03 21:49:48",
-      "gameid": "1215835",
-      "kickoff_cst": "2026-05-04 00:30",
-      "matchnum_label": "周日021",
-      "home_team_id": "673",
-      "away_team_id": "629"
-    },
     {
       "xml_id": "2039498",
       "matchnum": "7022",
@@ -144,24 +126,6 @@
       "matchnum_label": "周日028",
       "home_team_id": "1283",
       "away_team_id": "883"
-    },
-    {
-      "xml_id": "2039505",
-      "matchnum": "7029",
-      "date": "2026-05-04",
-      "dayofweek": "星期一",
-      "league": "美国职业大联盟",
-      "home": "纽约城",
-      "away": "华盛顿联",
-      "spf_win": "2.92",
-      "spf_draw": "3.40",
-      "spf_lost": "2.03",
-      "spf_updated": "2026-05-03 16:34:11",
-      "gameid": "1358347",
-      "kickoff_cst": "2026-05-04 03:00",
-      "matchnum_label": "周日029",
-      "home_team_id": "7947",
-      "away_team_id": "881"
     },
     {
       "xml_id": "2039506",
