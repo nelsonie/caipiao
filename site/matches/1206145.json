@@ -24,7 +24,7 @@
       "lost": "1.81",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-03T06:00:21Z"
+    "fetched_at_utc": "2026-05-03T06:10:21Z"
   },
   "shuju": {
     "title": "门兴格拉德巴赫VS多特蒙德(2025/2026德甲)-数据分析-500彩票网",
@@ -586,7 +586,7 @@
         "home_water": "0.800↓",
         "handicap": "受半球",
         "away_water": "0.830↓",
-        "time": "05-03 02:19"
+        "time": "05-03 14:06"
       },
       "init": {
         "home_water": "0.910",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890↓",
-        "handicap": "受半球",
-        "away_water": "0.980↑",
-        "time": "05-03 12:20"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "受半球",
-        "away_water": "0.860",
-        "time": "04-20 15:32"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "受半球/一球",
         "away_water": "1.170",
         "time": "04-20 03:29"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.890↓",
+        "handicap": "受半球",
+        "away_water": "0.980↑",
+        "time": "05-03 12:20"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "受半球",
+        "away_water": "0.860",
+        "time": "04-20 15:32"
       }
     },
     {
