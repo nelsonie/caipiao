@@ -8,9 +8,9 @@
     "away": "曼彻斯特城",
     "kickoff_cst": "2026-05-05 03:00",
     "spf": {
-      "win": "2.69",
+      "win": "2.74",
       "draw": "3.74",
-      "lost": "2.04"
+      "lost": "2.01"
     },
     "asia_main": {
       "handicap": "受一球",
@@ -24,7 +24,7 @@
       "lost": "1.36",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-04T11:20:12Z"
+    "fetched_at_utc": "2026-05-04T11:30:14Z"
   },
   "shuju": {
     "title": "埃弗顿VS曼彻斯特城(2025/2026英超)-数据分析-500彩票网",
@@ -643,10 +643,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "1.050↑",
-        "handicap": "受一球",
-        "away_water": "0.800↓",
-        "time": "05-04 19:02"
+        "home_water": "0.800↓",
+        "handicap": "受一球/球半降",
+        "away_water": "1.050↑",
+        "time": "05-04 19:27"
       },
       "init": {
         "home_water": "0.830",
@@ -675,10 +675,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.830↓",
+        "home_water": "0.800↓",
         "handicap": "受一球/球半降",
-        "away_water": "1.050↑",
-        "time": "05-04 19:00"
+        "away_water": "1.080↑",
+        "time": "05-04 19:28"
       },
       "init": {
         "home_water": "1.060",
@@ -691,32 +691,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.800↑",
+        "home_water": "0.790",
         "handicap": "受一球/球半",
-        "away_water": "1.100↑",
-        "time": "05-04 18:15"
+        "away_water": "1.110↑",
+        "time": "05-04 19:17"
       },
       "init": {
         "home_water": "0.790",
         "handicap": "受一球/球半",
         "away_water": "1.050",
         "time": "04-28 12:08"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.850↑",
-        "handicap": "受一球/球半降",
-        "away_water": "1.100↑",
-        "time": "05-04 18:43"
-      },
-      "init": {
-        "home_water": "0.790",
-        "handicap": "受一球",
-        "away_water": "1.000",
-        "time": "04-19 01:17"
       }
     },
     {
@@ -736,13 +720,29 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.850↑",
+        "handicap": "受一球/球半降",
+        "away_water": "1.100↑",
+        "time": "05-04 18:43"
+      },
+      "init": {
+        "home_water": "0.790",
+        "handicap": "受一球",
+        "away_water": "1.000",
+        "time": "04-19 01:17"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "0.840↓",
-        "handicap": "受一球/球半降",
-        "away_water": "1.100↑",
-        "time": "05-04 18:45"
+        "home_water": "1.100↑",
+        "handicap": "受一球降",
+        "away_water": "0.840↑",
+        "time": "05-04 19:24"
       },
       "init": {
         "home_water": "1.030",
@@ -755,10 +755,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.830↓",
+        "home_water": "0.840↓",
         "handicap": "受一球/球半降",
-        "away_water": "1.110↑",
-        "time": "05-04 18:57"
+        "away_water": "1.090↑",
+        "time": "05-04 19:22"
       },
       "init": {
         "home_water": "1.090",
@@ -771,10 +771,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.850↑",
+        "home_water": "0.830↑",
         "handicap": "受一球/球半降",
-        "away_water": "1.080↑",
-        "time": "05-04 18:58"
+        "away_water": "1.110↑",
+        "time": "05-04 19:28"
       },
       "init": {
         "home_water": "0.820",
@@ -803,10 +803,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.850↑",
+        "home_water": "0.830↑",
         "handicap": "受一球/球半降",
-        "away_water": "1.080↑",
-        "time": "05-04 18:57"
+        "away_water": "1.110↑",
+        "time": "05-04 19:27"
       },
       "init": {
         "home_water": "0.820",
@@ -835,10 +835,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.840↓",
         "handicap": "受一球/球半降",
-        "away_water": "1.070↑",
-        "time": "05-04 19:01"
+        "away_water": "1.080↑",
+        "time": "05-04 19:04"
       },
       "init": {
         "home_water": "0.890",
@@ -852,7 +852,7 @@
     {
       "cid": "1",
       "company": "竞*官*",
-      "time": "2026-05-04 12:23:40",
+      "time": "2026-05-04 19:18:30",
       "odds": {
         "live": [
           "6.10",
@@ -860,9 +860,9 @@
           "1.36"
         ],
         "init": [
-          "6.45",
-          "4.50",
-          "1.33"
+          "6.55",
+          "4.58",
+          "1.32"
         ]
       },
       "prob": {
@@ -872,9 +872,9 @@
           "65.12%"
         ],
         "init": [
-          "13.73%",
-          "19.68%",
-          "66.59%"
+          "13.53%",
+          "19.35%",
+          "67.13%"
         ]
       },
       "ret": {
@@ -882,7 +882,7 @@
           "88.57%"
         ],
         "init": [
-          "88.56%"
+          "88.61%"
         ]
       },
       "kelly": {
@@ -892,9 +892,9 @@
           "0.88"
         ],
         "init": [
-          "0.97",
-          "0.93",
-          "0.86"
+          "0.98",
+          "0.94",
+          "0.85"
         ]
       }
     },
