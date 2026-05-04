@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-04T18:50:07Z"
+    "fetched_at_utc": "2026-05-04T19:00:07Z"
   },
   "shuju": {
     "title": "里斯本竞技VS吉马良斯(2025/2026葡超)-数据分析-500彩票网",
@@ -356,8 +356,38 @@
         "formation": null,
         "starters": [
           {
-            "number": "72",
-            "name": "爱德华多·夸雷斯马",
+            "number": "97",
+            "name": "路易斯·苏亚雷斯",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "佩德罗·贡萨尔维斯",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "弗朗西斯科·特林康",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "盖尼·卡塔莫",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "丹尼尔·布拉甘萨",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "守田英正",
+            "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "马克西米利亚诺·阿劳霍",
             "position": "后卫"
           },
           {
@@ -366,60 +396,40 @@
             "position": "后卫"
           },
           {
-            "number": "8",
-            "name": "佩德罗·贡萨尔维斯",
-            "position": "中场"
-          },
-          {
-            "number": "97",
-            "name": "路易斯·苏亚雷斯",
-            "position": "前锋"
-          },
-          {
-            "number": "1",
-            "name": "鲁伊·席尔瓦",
-            "position": "守门员"
-          },
-          {
-            "number": "5",
-            "name": "守田英正",
-            "position": "中场"
-          },
-          {
             "number": "6",
             "name": "芝诺·德巴斯特",
             "position": "后卫"
           },
           {
-            "number": "10",
-            "name": "盖尼·卡塔莫",
-            "position": "前锋"
+            "number": "72",
+            "name": "爱德华多·夸雷斯马",
+            "position": "后卫"
           },
           {
-            "number": "23",
-            "name": "丹尼尔·布拉甘萨",
-            "position": "中场"
-          },
-          {
-            "number": "17",
-            "name": "弗朗西斯科·特林康",
-            "position": "前锋"
-          },
-          {
-            "number": "20",
-            "name": "马克西米利亚诺·阿劳霍",
-            "position": "前锋"
+            "number": "1",
+            "name": "鲁伊·席尔瓦",
+            "position": "守门员"
           }
         ],
         "subs": [
           {
-            "number": "14",
-            "name": "乔治·科科拉什维利",
+            "number": "13",
+            "name": "乔治·瓦贾尼迪斯",
+            "position": "后卫"
+          },
+          {
+            "number": "11",
+            "name": "努诺·桑托斯",
+            "position": "后卫"
+          },
+          {
+            "number": "7",
+            "name": "乔瓦尼·昆达",
             "position": "中场"
           },
           {
-            "number": "31",
-            "name": "路易斯·吉列尔梅",
+            "number": "90",
+            "name": "拉斐尔·内尔",
             "position": "前锋"
           },
           {
@@ -428,34 +438,24 @@
             "position": "后卫"
           },
           {
-            "number": "90",
-            "name": "拉斐尔·内尔",
+            "number": "31",
+            "name": "路易斯·吉列尔梅",
             "position": "前锋"
           },
           {
-            "number": "7",
-            "name": "乔瓦尼·昆达",
-            "position": "前锋"
+            "number": "14",
+            "name": "乔治·科科拉什维利",
+            "position": "中场"
           },
           {
-            "number": "11",
-            "name": "努诺·桑托斯",
-            "position": "前锋"
-          },
-          {
-            "number": "13",
-            "name": "乔治·瓦贾尼迪斯",
+            "number": "26",
+            "name": "奥斯曼·迪奥曼德",
             "position": "后卫"
           },
           {
             "number": "12",
             "name": "若昂·弗吉尼亚",
             "position": "守门员"
-          },
-          {
-            "number": "26",
-            "name": "奥斯曼·迪奥曼德",
-            "position": "后卫"
           }
         ],
         "injured": [],
@@ -465,19 +465,14 @@
         "formation": null,
         "starters": [
           {
-            "number": "66",
-            "name": "托尼·斯特拉塔",
-            "position": "后卫"
-          },
-          {
-            "number": "23",
-            "name": "迭戈·洛邦·德·索萨",
-            "position": "中场"
+            "number": "11",
+            "name": "古斯塔沃·席尔瓦",
+            "position": "前锋"
           },
           {
             "number": "48",
             "name": "诺亚·萨维奥洛",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "20",
@@ -485,13 +480,18 @@
             "position": "中场"
           },
           {
-            "number": "4",
-            "name": "奥斯卡·里瓦斯·维昂迪",
-            "position": "后卫"
-          },
-          {
             "number": "88",
             "name": "若昂·米格尔·科斯塔·诺盖拉",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "迭戈·洛邦·德·索萨",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "本尼迪托·曼布恩·穆肯迪",
             "position": "中场"
           },
           {
@@ -500,24 +500,24 @@
             "position": "后卫"
           },
           {
-            "number": "11",
-            "name": "古斯塔沃·席尔瓦",
-            "position": "前锋"
+            "number": "28",
+            "name": "巴利耶罗·蒂亚戈",
+            "position": "后卫"
           },
           {
-            "number": "16",
-            "name": "本尼迪托·曼布恩·穆肯迪",
-            "position": "中场"
+            "number": "4",
+            "name": "奥斯卡·里瓦斯·维昂迪",
+            "position": "后卫"
+          },
+          {
+            "number": "66",
+            "name": "托尼·斯特拉塔",
+            "position": "后卫"
           },
           {
             "number": "27",
             "name": "查尔斯·马塞洛·达席尔瓦",
             "position": "守门员"
-          },
-          {
-            "number": "28",
-            "name": "巴利耶罗·蒂亚戈",
-            "position": "后卫"
           }
         ],
         "subs": [
@@ -549,7 +549,7 @@
           {
             "number": "90",
             "name": "阿利奥内·恩多耶",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "30",
@@ -721,10 +721,10 @@
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.000↑",
         "handicap": "球半/两球升",
-        "away_water": "0.880↓",
-        "time": "05-05 02:45"
+        "away_water": "0.890↓",
+        "time": "05-05 02:47"
       },
       "init": {
         "home_water": "0.850",
