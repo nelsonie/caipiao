@@ -24,7 +24,7 @@
       "lost": "9.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-05T04:20:06Z"
+    "fetched_at_utc": "2026-05-05T04:30:06Z"
   },
   "shuju": {
     "title": "全北现代VS光州FC(2026K1联赛)-数据分析-500彩票网",
@@ -403,9 +403,9 @@
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "李昇祐",
-            "position": "中场"
+            "number": "11",
+            "name": "金承燮",
+            "position": "前锋"
           },
           {
             "number": "13",
@@ -428,8 +428,8 @@
             "position": "中场"
           },
           {
-            "number": "66",
-            "name": "崔禹进",
+            "number": "15",
+            "name": "金河俊",
             "position": "后卫"
           },
           {
@@ -443,8 +443,8 @@
             "position": "后卫"
           },
           {
-            "number": "24",
-            "name": "李相明",
+            "number": "77",
+            "name": "金泰贤",
             "position": "后卫"
           },
           {
@@ -470,29 +470,29 @@
             "position": "中场"
           },
           {
+            "number": "10",
+            "name": "李昇祐",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "李相明",
+            "position": "后卫"
+          },
+          {
             "number": "1",
             "name": "李周贤",
             "position": "守门员"
           },
           {
-            "number": "77",
-            "name": "金泰贤",
-            "position": "后卫"
-          },
-          {
-            "number": "11",
-            "name": "金承燮",
-            "position": "前锋"
-          },
-          {
-            "number": "15",
-            "name": "金河俊",
-            "position": "后卫"
-          },
-          {
             "number": "16",
             "name": "若奥·甘博亚",
             "position": "中场"
+          },
+          {
+            "number": "66",
+            "name": "崔禹进",
+            "position": "后卫"
           },
           {
             "number": "3",
@@ -507,8 +507,8 @@
         "formation": null,
         "starters": [
           {
-            "number": "13",
-            "name": "朴正仁",
+            "number": "11",
+            "name": "霍姆伯特·阿隆·弗里德约森",
             "position": "前锋"
           },
           {
@@ -517,9 +517,14 @@
             "position": "前锋"
           },
           {
-            "number": "22",
-            "name": "权成尹",
+            "number": "16",
+            "name": "郑支训",
             "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "金永赫",
+            "position": "后卫"
           },
           {
             "number": "88",
@@ -527,18 +532,13 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "朱世钟",
-            "position": "中场"
+            "number": "13",
+            "name": "朴正仁",
+            "position": "前锋"
           },
           {
-            "number": "16",
-            "name": "郑支训",
-            "position": "中场"
-          },
-          {
-            "number": "3",
-            "name": "?旼气",
+            "number": "27",
+            "name": "金进晧",
             "position": "后卫"
           },
           {
@@ -552,30 +552,30 @@
             "position": "后卫"
           },
           {
-            "number": "9",
-            "name": "河胜云",
+            "number": "3",
+            "name": "?旼气",
             "position": "后卫"
           },
           {
-            "number": "1",
-            "name": "金耿民",
+            "number": "21",
+            "name": "卢熙东",
             "position": "守门员"
           }
         ],
         "subs": [
           {
-            "number": "6",
-            "name": "安泳奎",
-            "position": "后卫"
-          },
-          {
-            "number": "11",
-            "name": "霍姆伯特·阿隆·弗里德约森",
+            "number": "9",
+            "name": "河胜云",
             "position": "前锋"
           },
           {
-            "number": "99",
-            "name": "洪永俊",
+            "number": "79",
+            "name": "郑圭敏",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "朱世钟",
             "position": "中场"
           },
           {
@@ -584,13 +584,8 @@
             "position": "中场"
           },
           {
-            "number": "27",
-            "name": "金进晧",
-            "position": "后卫"
-          },
-          {
-            "number": "21",
-            "name": "卢熙东",
+            "number": "23",
+            "name": "金东华",
             "position": "守门员"
           },
           {
@@ -599,14 +594,19 @@
             "position": "前锋"
           },
           {
-            "number": "24",
-            "name": "金永旭",
-            "position": "后卫"
+            "number": "22",
+            "name": "权成尹",
+            "position": "前锋"
           },
           {
             "number": "28",
-            "name": "朴成贤",
+            "name": "朴贤成",
             "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "安泳奎",
+            "position": "后卫"
           }
         ],
         "injured": [],
