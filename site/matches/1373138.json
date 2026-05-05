@@ -24,7 +24,7 @@
       "lost": "4.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-05T07:30:09Z"
+    "fetched_at_utc": "2026-05-05T07:40:08Z"
   },
   "shuju": {
     "title": "江原FCVS浦项制铁(2026K1联赛)-数据分析-500彩票网",
@@ -400,7 +400,7 @@
           {
             "number": "11",
             "name": "高映埈",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "96",
@@ -410,7 +410,7 @@
           {
             "number": "7",
             "name": "金大元",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "4",
@@ -420,17 +420,17 @@
           {
             "number": "97",
             "name": "李裕贤",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "10",
             "name": "牟再现",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "27",
             "name": "金道现",
-            "position": "前锋"
+            "position": "后卫"
           },
           {
             "number": "13",
@@ -482,7 +482,7 @@
           {
             "number": "25",
             "name": "李孝彬",
-            "position": "前锋"
+            "position": "后卫"
           },
           {
             "number": "24",
@@ -509,7 +509,7 @@
           {
             "number": "2",
             "name": "鱼祯元",
-            "position": "后卫"
+            "position": "前锋"
           },
           {
             "number": "18",
@@ -554,7 +554,7 @@
           {
             "number": "17",
             "name": "申光勋",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "21",
@@ -601,7 +601,7 @@
           {
             "number": "11",
             "name": "儒尼尼奥·罗查",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "9",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "半球升",
-        "away_water": "0.910↓",
-        "time": "05-05 15:17"
-      },
-      "init": {
-        "home_water": "0.770",
-        "handicap": "平手/半球",
-        "away_water": "1.040",
-        "time": "05-02 17:47"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "1.620",
         "time": "05-02 17:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "半球升",
+        "away_water": "0.910↓",
+        "time": "05-05 15:17"
+      },
+      "init": {
+        "home_water": "0.770",
+        "handicap": "平手/半球",
+        "away_water": "1.040",
+        "time": "05-02 17:47"
       }
     },
     {
