@@ -8,9 +8,9 @@
     "away": "帕尔梅拉斯",
     "kickoff_cst": "2026-05-06 06:00",
     "spf": {
-      "win": "2.32",
-      "draw": "3.10",
-      "lost": "2.66"
+      "win": "2.35",
+      "draw": "3.00",
+      "lost": "2.70"
     },
     "asia_main": {
       "handicap": "受半球/一球降",
@@ -24,7 +24,7 @@
       "lost": "1.46",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-05T08:30:10Z"
+    "fetched_at_utc": "2026-05-05T08:40:09Z"
   },
   "shuju": {
     "title": "水晶体育VS帕尔梅拉斯(2026解放者杯)-数据分析-500彩票网",
@@ -732,22 +732,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.050↑",
-        "handicap": "受半球/一球升",
-        "away_water": "0.800↓",
-        "time": "05-05 15:52"
-      },
-      "init": {
-        "home_water": "0.480",
-        "handicap": "受一球",
-        "away_water": "1.500",
-        "time": "04-29 11:53"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -761,6 +745,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.850",
         "time": "05-04 20:02"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.050↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.800↓",
+        "time": "05-05 15:52"
+      },
+      "init": {
+        "home_water": "0.480",
+        "handicap": "受一球",
+        "away_water": "1.500",
+        "time": "04-29 11:53"
       }
     },
     {
