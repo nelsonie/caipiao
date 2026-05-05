@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-05T06:40:11Z",
+  "last_updated_utc": "2026-05-05T06:50:15Z",
   "matches": [
     {
       "xml_id": "2039538",
@@ -117,10 +117,10 @@
       "league": "欧洲冠军联赛",
       "home": "阿森纳",
       "away": "马德里竞技",
-      "spf_win": "2.73",
+      "spf_win": "2.69",
       "spf_draw": "3.20",
-      "spf_lost": "2.22",
-      "spf_updated": "2026-05-05 12:05:41",
+      "spf_lost": "2.25",
+      "spf_updated": "2026-05-05 14:42:55",
       "gameid": "1407202",
       "kickoff_cst": "2026-05-06 03:00",
       "matchnum_label": "周二007",
@@ -182,24 +182,6 @@
       "away_team_id": "492"
     },
     {
-      "xml_id": "2039548",
-      "matchnum": "3002",
-      "date": "2026-05-06",
-      "dayofweek": "星期三",
-      "league": "日本职业联赛",
-      "home": "町田泽维亚",
-      "away": "横滨水手",
-      "spf_win": "2.98",
-      "spf_draw": "3.25",
-      "spf_lost": "2.06",
-      "spf_updated": "2026-05-05 09:44:46",
-      "gameid": "1366413",
-      "kickoff_cst": "2026-05-06 15:00",
-      "matchnum_label": "周三002",
-      "home_team_id": "6384",
-      "away_team_id": "870"
-    },
-    {
       "xml_id": "2039549",
       "matchnum": "3003",
       "date": "2026-05-06",
@@ -216,24 +198,6 @@
       "matchnum_label": "周三003",
       "home_team_id": "2272",
       "away_team_id": "775"
-    },
-    {
-      "xml_id": "2039550",
-      "matchnum": "3004",
-      "date": "2026-05-06",
-      "dayofweek": "星期三",
-      "league": "日本职业联赛",
-      "home": "柏太阳神",
-      "away": "浦和红钻",
-      "spf_win": "4.60",
-      "spf_draw": "3.60",
-      "spf_lost": "1.58",
-      "spf_updated": "2026-05-05 09:44:46",
-      "gameid": "1366408",
-      "kickoff_cst": "2026-05-06 18:00",
-      "matchnum_label": "周三004",
-      "home_team_id": "658",
-      "away_team_id": "1164"
     },
     {
       "xml_id": "2039551",
@@ -288,24 +252,6 @@
       "matchnum_label": "周三008",
       "home_team_id": "4620",
       "away_team_id": "1578"
-    },
-    {
-      "xml_id": "2039555",
-      "matchnum": "3009",
-      "date": "2026-05-07",
-      "dayofweek": "星期四",
-      "league": "南美解放者杯",
-      "home": "圣菲独立",
-      "away": "科林蒂安",
-      "spf_win": "6.60",
-      "spf_draw": "4.05",
-      "spf_lost": "1.37",
-      "spf_updated": "2026-05-05 09:44:46",
-      "gameid": "1398816",
-      "kickoff_cst": "2026-05-07 08:30",
-      "matchnum_label": "周三009",
-      "home_team_id": "2829",
-      "away_team_id": "1572"
     }
   ]
 }
