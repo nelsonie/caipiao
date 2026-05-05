@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-05T08:00:11Z",
+  "last_updated_utc": "2026-05-05T08:10:14Z",
   "matches": [
     {
       "xml_id": "2039538",
@@ -180,24 +180,6 @@
       "matchnum_label": "周三001",
       "home_team_id": "845",
       "away_team_id": "492"
-    },
-    {
-      "xml_id": "2039548",
-      "matchnum": "3002",
-      "date": "2026-05-06",
-      "dayofweek": "星期三",
-      "league": "日本职业联赛",
-      "home": "町田泽维亚",
-      "away": "横滨水手",
-      "spf_win": "2.98",
-      "spf_draw": "3.25",
-      "spf_lost": "2.06",
-      "spf_updated": "2026-05-05 09:44:46",
-      "gameid": "1366413",
-      "kickoff_cst": "2026-05-06 15:00",
-      "matchnum_label": "周三002",
-      "home_team_id": "6384",
-      "away_team_id": "870"
     },
     {
       "xml_id": "2039549",
