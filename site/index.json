@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-05T06:30:16Z",
+  "last_updated_utc": "2026-05-05T06:40:11Z",
   "matches": [
     {
       "xml_id": "2039538",
@@ -218,6 +218,24 @@
       "away_team_id": "775"
     },
     {
+      "xml_id": "2039550",
+      "matchnum": "3004",
+      "date": "2026-05-06",
+      "dayofweek": "星期三",
+      "league": "日本职业联赛",
+      "home": "柏太阳神",
+      "away": "浦和红钻",
+      "spf_win": "4.60",
+      "spf_draw": "3.60",
+      "spf_lost": "1.58",
+      "spf_updated": "2026-05-05 09:44:46",
+      "gameid": "1366408",
+      "kickoff_cst": "2026-05-06 18:00",
+      "matchnum_label": "周三004",
+      "home_team_id": "658",
+      "away_team_id": "1164"
+    },
+    {
       "xml_id": "2039551",
       "matchnum": "3005",
       "date": "2026-05-07",
@@ -252,6 +270,24 @@
       "matchnum_label": "周三007",
       "home_team_id": "664",
       "away_team_id": "647"
+    },
+    {
+      "xml_id": "2039554",
+      "matchnum": "3008",
+      "date": "2026-05-07",
+      "dayofweek": "星期四",
+      "league": "南美解放者杯",
+      "home": "里瓦达维亚独立",
+      "away": "弗鲁米嫩塞",
+      "spf_win": "5.10",
+      "spf_draw": "3.75",
+      "spf_lost": "1.50",
+      "spf_updated": "2026-05-05 09:44:46",
+      "gameid": "1398772",
+      "kickoff_cst": "2026-05-07 08:30",
+      "matchnum_label": "周三008",
+      "home_team_id": "4620",
+      "away_team_id": "1578"
     },
     {
       "xml_id": "2039555",
