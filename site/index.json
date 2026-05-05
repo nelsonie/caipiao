@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-05T08:20:12Z",
+  "last_updated_utc": "2026-05-05T08:30:14Z",
   "matches": [
     {
       "xml_id": "2039538",
@@ -153,15 +153,33 @@
       "league": "南美解放者杯",
       "home": "瓜亚基尔巴塞罗那",
       "away": "博卡青年",
-      "spf_win": "1.80",
-      "spf_draw": "3.20",
-      "spf_lost": "3.82",
-      "spf_updated": "2026-05-05 15:44:10",
+      "spf_win": "1.84",
+      "spf_draw": "3.15",
+      "spf_lost": "3.72",
+      "spf_updated": "2026-05-05 16:25:45",
       "gameid": "1398794",
       "kickoff_cst": "2026-05-06 08:00",
       "matchnum_label": "周二009",
       "home_team_id": "3588",
       "away_team_id": "705"
+    },
+    {
+      "xml_id": "2039547",
+      "matchnum": "3001",
+      "date": "2026-05-06",
+      "dayofweek": "星期三",
+      "league": "日本职业联赛",
+      "home": "广岛三箭",
+      "away": "神户胜利船",
+      "spf_win": "4.15",
+      "spf_draw": "3.60",
+      "spf_lost": "1.64",
+      "spf_updated": "2026-05-05 09:44:46",
+      "gameid": "1366345",
+      "kickoff_cst": "2026-05-06 14:00",
+      "matchnum_label": "周三001",
+      "home_team_id": "845",
+      "away_team_id": "492"
     },
     {
       "xml_id": "2039548",

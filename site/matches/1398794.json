@@ -8,9 +8,9 @@
     "away": "博卡青年",
     "kickoff_cst": "2026-05-06 08:00",
     "spf": {
-      "win": "1.80",
-      "draw": "3.20",
-      "lost": "3.82"
+      "win": "1.84",
+      "draw": "3.15",
+      "lost": "3.72"
     },
     "asia_main": {
       "handicap": "受平手/半球",
@@ -24,7 +24,7 @@
       "lost": "1.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-05T08:20:09Z"
+    "fetched_at_utc": "2026-05-05T08:30:11Z"
   },
   "shuju": {
     "title": "瓜亚基尔VS博卡青年(2026解放者杯)-数据分析-500彩票网",
@@ -729,22 +729,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "受半球降",
-        "away_water": "0.980↑",
-        "time": "05-05 15:34"
-      },
-      "init": {
-        "home_water": "1.040",
-        "handicap": "受平手/半球",
-        "away_water": "0.770",
-        "time": "05-04 20:56"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -758,6 +742,22 @@
         "handicap": "平手",
         "away_water": "0.730",
         "time": "04-29 11:53"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "受半球降",
+        "away_water": "0.980↑",
+        "time": "05-05 15:34"
+      },
+      "init": {
+        "home_water": "1.040",
+        "handicap": "受平手/半球",
+        "away_water": "0.770",
+        "time": "05-04 20:56"
       }
     },
     {
