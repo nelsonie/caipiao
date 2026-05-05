@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-05-05T02:50:07Z'
-total_matches: 1
-leagues_covered:
-- 欧洲冠军联赛
+last_updated_utc: '2026-05-05T03:00:06Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 欧洲冠军联赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 2007 | 2026-05-06 星期三 | 阿森纳 vs 马德里竞技 | 2.70/3.20/2.24 | [1407202](matches/1407202.md) |
