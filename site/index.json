@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-05T05:10:13Z",
+  "last_updated_utc": "2026-05-05T05:20:11Z",
   "matches": [
     {
       "xml_id": "2039538",
@@ -63,10 +63,10 @@
       "league": "芬兰超级联赛",
       "home": "赫尔辛基火花",
       "away": "国际图尔库",
-      "spf_win": "2.06",
+      "spf_win": "2.10",
       "spf_draw": "3.35",
-      "spf_lost": "2.90",
-      "spf_updated": "2026-05-05 12:17:00",
+      "spf_lost": "2.82",
+      "spf_updated": "2026-05-05 13:17:45",
       "gameid": "1363314",
       "kickoff_cst": "2026-05-06 00:00",
       "matchnum_label": "周二004",
@@ -234,6 +234,24 @@
       "matchnum_label": "周三004",
       "home_team_id": "658",
       "away_team_id": "1164"
+    },
+    {
+      "xml_id": "2039551",
+      "matchnum": "3005",
+      "date": "2026-05-07",
+      "dayofweek": "星期四",
+      "league": "荷兰乙级联赛",
+      "home": "阿尔梅勒城",
+      "away": "格拉夫夏普",
+      "spf_win": "3.45",
+      "spf_draw": "4.10",
+      "spf_lost": "1.68",
+      "spf_updated": "2026-05-05 09:44:46",
+      "gameid": "1409658",
+      "kickoff_cst": "2026-05-07 00:45",
+      "matchnum_label": "周三005",
+      "home_team_id": "2848",
+      "away_team_id": "782"
     },
     {
       "xml_id": "2039553",
