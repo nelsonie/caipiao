@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-05T17:40:10Z",
+  "last_updated_utc": "2026-05-05T17:50:11Z",
   "matches": [
     {
       "xml_id": "2039543",
@@ -108,6 +108,24 @@
       "matchnum_label": "周三002",
       "home_team_id": "6384",
       "away_team_id": "870"
+    },
+    {
+      "xml_id": "2039549",
+      "matchnum": "3003",
+      "date": "2026-05-06",
+      "dayofweek": "星期三",
+      "league": "日本职业联赛",
+      "home": "川崎前锋",
+      "away": "东京绿茵",
+      "spf_win": "3.85",
+      "spf_draw": "3.45",
+      "spf_lost": "1.73",
+      "spf_updated": "2026-05-05 09:44:46",
+      "gameid": "1366410",
+      "kickoff_cst": "2026-05-06 16:00",
+      "matchnum_label": "周三003",
+      "home_team_id": "2272",
+      "away_team_id": "775"
     },
     {
       "xml_id": "2039550",
