@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-05T13:50:12Z",
+  "last_updated_utc": "2026-05-05T14:00:17Z",
   "matches": [
     {
       "xml_id": "2039538",
@@ -63,10 +63,10 @@
       "league": "芬兰超级联赛",
       "home": "赫尔辛基火花",
       "away": "国际图尔库",
-      "spf_win": "2.15",
+      "spf_win": "2.19",
       "spf_draw": "3.35",
-      "spf_lost": "2.73",
-      "spf_updated": "2026-05-05 20:36:14",
+      "spf_lost": "2.68",
+      "spf_updated": "2026-05-05 21:54:33",
       "gameid": "1363314",
       "kickoff_cst": "2026-05-06 00:00",
       "matchnum_label": "周二004",
@@ -270,42 +270,6 @@
       "matchnum_label": "周三007",
       "home_team_id": "664",
       "away_team_id": "647"
-    },
-    {
-      "xml_id": "2039554",
-      "matchnum": "3008",
-      "date": "2026-05-07",
-      "dayofweek": "星期四",
-      "league": "南美解放者杯",
-      "home": "里瓦达维亚独立",
-      "away": "弗鲁米嫩塞",
-      "spf_win": "5.10",
-      "spf_draw": "3.75",
-      "spf_lost": "1.50",
-      "spf_updated": "2026-05-05 09:44:46",
-      "gameid": "1398772",
-      "kickoff_cst": "2026-05-07 08:30",
-      "matchnum_label": "周三008",
-      "home_team_id": "4620",
-      "away_team_id": "1578"
-    },
-    {
-      "xml_id": "2039555",
-      "matchnum": "3009",
-      "date": "2026-05-07",
-      "dayofweek": "星期四",
-      "league": "南美解放者杯",
-      "home": "圣菲独立",
-      "away": "科林蒂安",
-      "spf_win": "6.60",
-      "spf_draw": "4.05",
-      "spf_lost": "1.37",
-      "spf_updated": "2026-05-05 09:44:46",
-      "gameid": "1398816",
-      "kickoff_cst": "2026-05-07 08:30",
-      "matchnum_label": "周三009",
-      "home_team_id": "2829",
-      "away_team_id": "1572"
     }
   ]
 }
