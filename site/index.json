@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-05-05T16:40:12Z",
+  "last_updated_utc": "2026-05-05T16:50:11Z",
   "matches": [
-    {
-      "xml_id": "2039542",
-      "matchnum": "2005",
-      "date": "2026-05-06",
-      "dayofweek": "星期三",
-      "league": "荷兰乙级联赛",
-      "home": "瓦尔韦克",
-      "away": "威廉二世",
-      "spf_win": "4.70",
-      "spf_draw": "4.15",
-      "spf_lost": "1.48",
-      "spf_updated": "2026-05-05 12:36:10",
-      "gameid": "1409657",
-      "kickoff_cst": "2026-05-06 00:45",
-      "matchnum_label": "周二005",
-      "home_team_id": "385",
-      "away_team_id": "1248"
-    },
     {
       "xml_id": "2039543",
       "matchnum": "2006",
@@ -162,6 +144,24 @@
       "matchnum_label": "周三004",
       "home_team_id": "658",
       "away_team_id": "1164"
+    },
+    {
+      "xml_id": "2039551",
+      "matchnum": "3005",
+      "date": "2026-05-07",
+      "dayofweek": "星期四",
+      "league": "荷兰乙级联赛",
+      "home": "阿尔梅勒城",
+      "away": "格拉夫夏普",
+      "spf_win": "3.45",
+      "spf_draw": "4.10",
+      "spf_lost": "1.68",
+      "spf_updated": "2026-05-05 09:44:46",
+      "gameid": "1409658",
+      "kickoff_cst": "2026-05-07 00:45",
+      "matchnum_label": "周三005",
+      "home_team_id": "2848",
+      "away_team_id": "782"
     },
     {
       "xml_id": "2039553",
