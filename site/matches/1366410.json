@@ -24,7 +24,7 @@
       "lost": "3.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-06T00:20:08Z"
+    "fetched_at_utc": "2026-05-06T00:30:08Z"
   },
   "shuju": {
     "title": "川崎前锋VS东京绿茵(2026日职)-数据分析-500彩票网",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.730↑",
-        "handicap": "平手/半球",
-        "away_water": "1.020↓",
-        "time": "05-06 07:07"
-      },
-      "init": {
-        "home_water": "0.710",
-        "handicap": "平手/半球",
-        "away_water": "1.050",
-        "time": "05-05 04:01"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "半球",
         "away_water": "0.800",
         "time": "05-05 04:48"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.730↑",
+        "handicap": "平手/半球",
+        "away_water": "1.020↓",
+        "time": "05-06 07:07"
+      },
+      "init": {
+        "home_water": "0.710",
+        "handicap": "平手/半球",
+        "away_water": "1.050",
+        "time": "05-05 04:01"
       }
     },
     {
