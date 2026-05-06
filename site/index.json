@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-06T11:00:10Z",
+  "last_updated_utc": "2026-05-06T11:10:12Z",
   "matches": [
     {
       "xml_id": "2039547",
@@ -180,24 +180,6 @@
       "matchnum_label": "周四001",
       "home_team_id": "2320",
       "away_team_id": "4889"
-    },
-    {
-      "xml_id": "2039557",
-      "matchnum": "4002",
-      "date": "2026-05-08",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "弗赖堡",
-      "away": "布拉加",
-      "spf_win": "3.10",
-      "spf_draw": "3.22",
-      "spf_lost": "2.02",
-      "spf_updated": "2026-05-06 09:33:59",
-      "gameid": "1407210",
-      "kickoff_cst": "2026-05-08 03:00",
-      "matchnum_label": "周四002",
-      "home_team_id": "804",
-      "away_team_id": "719"
     },
     {
       "xml_id": "2039558",
