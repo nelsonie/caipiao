@@ -24,7 +24,7 @@
       "lost": "3.15",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-06T01:00:08Z"
+    "fetched_at_utc": "2026-05-06T01:10:06Z"
   },
   "shuju": {
     "title": "广岛三箭VS神户胜利船(2026日职)-数据分析-500彩票网",
@@ -698,6 +698,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.030↑",
+        "time": "05-06 09:05"
+      },
+      "init": {
+        "home_water": "1.060",
+        "handicap": "半球",
+        "away_water": "0.800",
+        "time": "05-05 04:48"
+      }
+    },
+    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -711,22 +727,6 @@
         "handicap": "平手/半球",
         "away_water": "0.990",
         "time": "05-05 14:15"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.040↑",
-        "time": "05-06 08:42"
-      },
-      "init": {
-        "home_water": "1.060",
-        "handicap": "半球",
-        "away_water": "0.800",
-        "time": "05-05 04:48"
       }
     },
     {
@@ -749,10 +749,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.840↑",
+        "home_water": "0.860↑",
         "handicap": "平手/半球",
         "away_water": "1.060↓",
-        "time": "05-06 04:59"
+        "time": "05-06 09:04"
       },
       "init": {
         "home_water": "0.820",
