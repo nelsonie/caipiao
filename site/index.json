@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-06T15:40:13Z",
+  "last_updated_utc": "2026-05-06T15:50:15Z",
   "matches": [
     {
       "xml_id": "2039547",
@@ -162,6 +162,42 @@
       "matchnum_label": "周三009",
       "home_team_id": "2829",
       "away_team_id": "1572"
+    },
+    {
+      "xml_id": "2039556",
+      "matchnum": "4001",
+      "date": "2026-05-08",
+      "dayofweek": "星期五",
+      "league": "沙特职业联赛",
+      "home": "利雅得青年",
+      "away": "利雅得胜利",
+      "spf_win": "1.95",
+      "spf_draw": "4.10",
+      "spf_lost": "2.68",
+      "spf_updated": "2026-05-06 09:33:59",
+      "gameid": "1234964",
+      "kickoff_cst": "2026-05-08 02:00",
+      "matchnum_label": "周四001",
+      "home_team_id": "2320",
+      "away_team_id": "4889"
+    },
+    {
+      "xml_id": "2039557",
+      "matchnum": "4002",
+      "date": "2026-05-08",
+      "dayofweek": "星期五",
+      "league": "欧罗巴联赛",
+      "home": "弗赖堡",
+      "away": "布拉加",
+      "spf_win": "3.10",
+      "spf_draw": "3.22",
+      "spf_lost": "2.02",
+      "spf_updated": "2026-05-06 09:33:59",
+      "gameid": "1407210",
+      "kickoff_cst": "2026-05-08 03:00",
+      "matchnum_label": "周四002",
+      "home_team_id": "804",
+      "away_team_id": "719"
     },
     {
       "xml_id": "2039560",
