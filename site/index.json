@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-06T13:10:12Z",
+  "last_updated_utc": "2026-05-06T13:20:13Z",
   "matches": [
     {
       "xml_id": "2039547",
@@ -81,10 +81,10 @@
       "league": "荷兰乙级联赛",
       "home": "阿尔梅勒城",
       "away": "格拉夫夏普",
-      "spf_win": "3.75",
-      "spf_draw": "4.02",
-      "spf_lost": "1.63",
-      "spf_updated": "2026-05-06 13:53:08",
+      "spf_win": "3.65",
+      "spf_draw": "3.95",
+      "spf_lost": "1.66",
+      "spf_updated": "2026-05-06 21:14:21",
       "gameid": "1409658",
       "kickoff_cst": "2026-05-07 00:45",
       "matchnum_label": "周三005",
@@ -162,24 +162,6 @@
       "matchnum_label": "周三009",
       "home_team_id": "2829",
       "away_team_id": "1572"
-    },
-    {
-      "xml_id": "2039556",
-      "matchnum": "4001",
-      "date": "2026-05-08",
-      "dayofweek": "星期五",
-      "league": "沙特职业联赛",
-      "home": "利雅得青年",
-      "away": "利雅得胜利",
-      "spf_win": "1.95",
-      "spf_draw": "4.10",
-      "spf_lost": "2.68",
-      "spf_updated": "2026-05-06 09:33:59",
-      "gameid": "1234964",
-      "kickoff_cst": "2026-05-08 02:00",
-      "matchnum_label": "周四001",
-      "home_team_id": "2320",
-      "away_team_id": "4889"
     },
     {
       "xml_id": "2039557",
