@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-06T08:50:13Z",
+  "last_updated_utc": "2026-05-06T09:00:10Z",
   "matches": [
     {
       "xml_id": "2039547",
@@ -63,10 +63,10 @@
       "league": "日本职业联赛",
       "home": "柏太阳神",
       "away": "浦和红钻",
-      "spf_win": "5.00",
+      "spf_win": "4.90",
       "spf_draw": "3.75",
-      "spf_lost": "1.51",
-      "spf_updated": "2026-05-06 15:59:53",
+      "spf_lost": "1.52",
+      "spf_updated": "2026-05-06 16:52:43",
       "gameid": "1366408",
       "kickoff_cst": "2026-05-06 18:00",
       "matchnum_label": "周三004",
@@ -216,6 +216,24 @@
       "matchnum_label": "周四003",
       "home_team_id": "555",
       "away_team_id": "1142"
+    },
+    {
+      "xml_id": "2039560",
+      "matchnum": "4005",
+      "date": "2026-05-08",
+      "dayofweek": "星期五",
+      "league": "南美解放者杯",
+      "home": "米拉索尔",
+      "away": "基多体育大学",
+      "spf_win": "2.37",
+      "spf_draw": "3.20",
+      "spf_lost": "2.55",
+      "spf_updated": "2026-05-06 09:33:59",
+      "gameid": "1398863",
+      "kickoff_cst": "2026-05-08 06:00",
+      "matchnum_label": "周四005",
+      "home_team_id": "5164",
+      "away_team_id": "2232"
     },
     {
       "xml_id": "2039561",
