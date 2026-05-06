@@ -8,9 +8,9 @@
     "away": "横滨水手",
     "kickoff_cst": "2026-05-06 15:00",
     "spf": {
-      "win": "3.62",
-      "draw": "3.30",
-      "lost": "1.82"
+      "win": "3.60",
+      "draw": "3.25",
+      "lost": "1.84"
     },
     "asia_main": {
       "handicap": "半球降",
@@ -24,7 +24,7 @@
       "lost": "4.55",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-06T05:20:06Z"
+    "fetched_at_utc": "2026-05-06T05:30:06Z"
   },
   "shuju": {
     "title": "町田泽维亚VS横滨水手(2026日职)-数据分析-500彩票网",
@@ -368,13 +368,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "99",
-            "name": "泰特·扬吉",
+            "number": "9",
+            "name": "藤尾翔太",
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "罗相浩",
+            "number": "8",
+            "name": "仙头启矢",
             "position": "中场"
           },
           {
@@ -383,75 +383,8 @@
             "position": "中场"
           },
           {
-            "number": "26",
-            "name": "林幸多郎",
-            "position": "中场"
-          },
-          {
-            "number": "31",
-            "name": "内塔·拉维",
-            "position": "中场"
-          },
-          {
-            "number": "16",
-            "name": "前宽之",
-            "position": "中场"
-          },
-          {
-            "number": "88",
-            "name": "中村帆高",
-            "position": "中场"
-          },
-          {
-            "number": "19",
-            "name": "中山雄太",
-            "position": "后卫"
-          },
-          {
-            "number": "50",
-            "name": "冈村大八",
-            "position": "后卫"
-          },
-          {
-            "number": "3",
-            "name": "昌子源",
-            "position": "后卫"
-          },
-          {
-            "number": "1",
-            "name": "谷晃生",
-            "position": "守门员"
-          }
-        ],
-        "subs": [
-          {
-            "number": "5",
-            "name": "易卜拉欣·德雷舍维奇",
-            "position": "后卫"
-          },
-          {
-            "number": "9",
-            "name": "藤尾翔太",
-            "position": "前锋"
-          },
-          {
-            "number": "11",
-            "name": "增山朝阳",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "望月海辉",
-            "position": "后卫"
-          },
-          {
-            "number": "13",
-            "name": "守田达弥",
-            "position": "守门员"
-          },
-          {
-            "number": "8",
-            "name": "仙头启矢",
+            "number": "34",
+            "name": "德村枫大",
             "position": "中场"
           },
           {
@@ -465,9 +398,76 @@
             "position": "中场"
           },
           {
-            "number": "34",
-            "name": "德村枫大",
+            "number": "11",
+            "name": "增山朝阳",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "昌子源",
+            "position": "后卫"
+          },
+          {
+            "number": "50",
+            "name": "冈村大八",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "易卜拉欣·德雷舍维奇",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "谷晃生",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "39",
+            "name": "巴龙·巴斯克斯",
+            "position": "中场"
+          },
+          {
+            "number": "88",
+            "name": "中村帆高",
+            "position": "后卫"
+          },
+          {
+            "number": "10",
+            "name": "罗相浩",
             "position": "前锋"
+          },
+          {
+            "number": "13",
+            "name": "守田达弥",
+            "position": "守门员"
+          },
+          {
+            "number": "60",
+            "name": "真也加·楚·大梦",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "前宽之",
+            "position": "中场"
+          },
+          {
+            "number": "49",
+            "name": "桑山侃士",
+            "position": "前锋"
+          },
+          {
+            "number": "2",
+            "name": "今井智基",
+            "position": "后卫"
+          },
+          {
+            "number": "24",
+            "name": "金眠泰",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -477,28 +477,28 @@
         "formation": null,
         "starters": [
           {
+            "number": "24",
+            "name": "近藤友喜",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "谷村海那",
             "position": "前锋"
           },
           {
-            "number": "46",
-            "name": "浅田大翔",
+            "number": "11",
+            "name": "约迪·克鲁克斯",
+            "position": "前锋"
+          },
+          {
+            "number": "6",
+            "name": "渡边皓太",
             "position": "中场"
           },
           {
-            "number": "19",
-            "name": "特维斯·加布里埃尔·阿尔维斯·桑托斯",
-            "position": "中场"
-          },
-          {
-            "number": "18",
-            "name": "奥奈乌·情滋",
-            "position": "中场"
-          },
-          {
-            "number": "29",
-            "name": "樋口有斗",
+            "number": "40",
+            "name": "天野纯",
             "position": "中场"
           },
           {
@@ -507,23 +507,23 @@
             "position": "中场"
           },
           {
-            "number": "35",
-            "name": "关富贯太",
+            "number": "2",
+            "name": "加藤莲",
             "position": "后卫"
           },
           {
-            "number": "33",
-            "name": "诹访间幸成",
+            "number": "17",
+            "name": "杰森·基尼奥内斯",
+            "position": "后卫"
+          },
+          {
+            "number": "13",
+            "name": "井上太圣",
             "position": "后卫"
           },
           {
             "number": "44",
             "name": "托马斯·登",
-            "position": "后卫"
-          },
-          {
-            "number": "2",
-            "name": "加藤莲",
             "position": "后卫"
           },
           {
@@ -534,49 +534,24 @@
         ],
         "subs": [
           {
-            "number": "6",
-            "name": "渡边皓太",
+            "number": "29",
+            "name": "樋口有斗",
             "position": "中场"
           },
           {
-            "number": "17",
-            "name": "杰森·基尼奥内斯",
-            "position": "后卫"
-          },
-          {
-            "number": "49",
-            "name": "村上庆",
-            "position": "后卫"
-          },
-          {
-            "number": "23",
-            "name": "宫市亮",
+            "number": "19",
+            "name": "特维斯·加布里埃尔·阿尔维斯·桑托斯",
             "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "饭仓大树",
-            "position": "守门员"
+            "number": "46",
+            "name": "浅田大翔",
+            "position": "前锋"
           },
           {
             "number": "26",
             "name": "迪恩·大卫",
             "position": "前锋"
-          },
-          {
-            "number": "11",
-            "name": "约迪·克鲁克斯",
-            "position": "前锋"
-          },
-          {
-            "number": "40",
-            "name": "天野纯",
-            "position": "中场"
-          },
-          {
-            "number": "32",
-            "name": "田中雄大",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -637,10 +612,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.900↓",
+        "home_water": "0.930↓",
         "handicap": "半球降",
-        "away_water": "0.900↑",
-        "time": "05-06 13:06"
+        "away_water": "0.880↑",
+        "time": "05-06 13:17"
       },
       "init": {
         "home_water": "1.000",
@@ -698,22 +673,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "半球/一球",
-        "away_water": "0.660↓",
-        "time": "05-06 13:17"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.760",
-        "time": "05-05 04:01"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -727,6 +686,22 @@
         "handicap": "半球/一球",
         "away_water": "0.820",
         "time": "05-05 04:48"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "半球/一球",
+        "away_water": "0.660↓",
+        "time": "05-06 13:17"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.760",
+        "time": "05-05 04:01"
       }
     },
     {
@@ -749,10 +724,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.940↓",
+        "home_water": "0.970↓",
         "handicap": "半球降",
-        "away_water": "0.980↑",
-        "time": "05-06 13:07"
+        "away_water": "0.950↑",
+        "time": "05-06 13:18"
       },
       "init": {
         "home_water": "1.070",
@@ -829,10 +804,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.940↓",
+        "home_water": "0.970↓",
         "handicap": "半球降",
-        "away_water": "0.960↑",
-        "time": "05-06 13:16"
+        "away_water": "0.930↑",
+        "time": "05-06 13:17"
       },
       "init": {
         "home_water": "1.040",
@@ -846,7 +821,7 @@
     {
       "cid": "1",
       "company": "竞*官*",
-      "time": "2026-05-06 13:05:30",
+      "time": "2026-05-06 13:25:10",
       "odds": {
         "live": [
           "1.58",
@@ -855,8 +830,8 @@
         ],
         "init": [
           "1.74",
-          "3.35",
-          "3.90"
+          "3.28",
+          "4.00"
         ]
       },
       "prob": {
@@ -867,8 +842,8 @@
         ],
         "init": [
           "50.88%",
-          "26.43%",
-          "22.70%"
+          "26.99%",
+          "22.13%"
         ]
       },
       "ret": {
@@ -876,7 +851,7 @@
           "88.58%"
         ],
         "init": [
-          "88.52%"
+          "88.53%"
         ]
       },
       "kelly": {
@@ -887,8 +862,8 @@
         ],
         "init": [
           "0.85",
-          "0.90",
-          "0.95"
+          "0.88",
+          "0.97"
         ]
       }
     },
@@ -932,10 +907,10 @@
         "live": [
           "0.85",
           "0.91",
-          "1.10"
+          "1.09"
         ],
         "init": [
-          "0.91",
+          "0.90",
           "0.91",
           "0.92"
         ]
@@ -1033,7 +1008,7 @@
           "0.97"
         ],
         "init": [
-          "0.91",
+          "0.90",
           "0.87",
           "0.90"
         ]
@@ -1079,7 +1054,7 @@
         "live": [
           "0.82",
           "0.88",
-          "1.10"
+          "1.09"
         ],
         "init": [
           "0.93",
@@ -1523,7 +1498,7 @@
           "0.97"
         ],
         "init": [
-          "0.91",
+          "0.90",
           "0.87",
           "0.90"
         ]
@@ -2059,7 +2034,7 @@
         "live": [
           "0.87",
           "0.92",
-          "1.10"
+          "1.09"
         ],
         "init": [
           "0.93",
@@ -2113,7 +2088,7 @@
         "init": [
           "0.91",
           "0.94",
-          "1.01"
+          "1.00"
         ]
       }
     },
@@ -2307,7 +2282,7 @@
           "1.07"
         ],
         "init": [
-          "0.92",
+          "0.91",
           "0.94",
           "0.92"
         ]
