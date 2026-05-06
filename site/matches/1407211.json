@@ -24,7 +24,7 @@
       "lost": "4.90",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-06T21:20:07Z"
+    "fetched_at_utc": "2026-05-06T21:30:08Z"
   },
   "shuju": {
     "title": "阿斯顿维拉VS诺丁汉森林(2025/2026欧罗巴)-数据分析-500彩票网",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "半球/一球",
-        "away_water": "0.850↑",
-        "time": "05-07 01:31"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "半球/一球",
-        "away_water": "0.770",
-        "time": "05-01 05:12"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "半球",
         "away_water": "1.020",
         "time": "05-01 06:47"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "半球/一球",
+        "away_water": "0.850↑",
+        "time": "05-07 01:31"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "半球/一球",
+        "away_water": "0.770",
+        "time": "05-01 05:12"
       }
     },
     {
