@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-06T20:30:09Z",
+  "last_updated_utc": "2026-05-06T20:40:12Z",
   "matches": [
     {
       "xml_id": "2039554",
@@ -72,60 +72,6 @@
       "matchnum_label": "周四002",
       "home_team_id": "804",
       "away_team_id": "719"
-    },
-    {
-      "xml_id": "2039558",
-      "matchnum": "4003",
-      "date": "2026-05-08",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "阿斯顿维拉",
-      "away": "诺丁汉森林",
-      "spf_win": "2.82",
-      "spf_draw": "3.32",
-      "spf_lost": "2.11",
-      "spf_updated": "2026-05-06 11:23:07",
-      "gameid": "1407211",
-      "kickoff_cst": "2026-05-08 03:00",
-      "matchnum_label": "周四003",
-      "home_team_id": "555",
-      "away_team_id": "1142"
-    },
-    {
-      "xml_id": "2039560",
-      "matchnum": "4005",
-      "date": "2026-05-08",
-      "dayofweek": "星期五",
-      "league": "南美解放者杯",
-      "home": "米拉索尔",
-      "away": "基多体育大学",
-      "spf_win": "2.37",
-      "spf_draw": "3.20",
-      "spf_lost": "2.55",
-      "spf_updated": "2026-05-06 09:33:59",
-      "gameid": "1398863",
-      "kickoff_cst": "2026-05-08 06:00",
-      "matchnum_label": "周四005",
-      "home_team_id": "5164",
-      "away_team_id": "2232"
-    },
-    {
-      "xml_id": "2039561",
-      "matchnum": "4006",
-      "date": "2026-05-08",
-      "dayofweek": "星期五",
-      "league": "南美解放者杯",
-      "home": "麦德林独立",
-      "away": "弗拉门戈",
-      "spf_win": "1.93",
-      "spf_draw": "3.15",
-      "spf_lost": "3.40",
-      "spf_updated": "2026-05-06 09:33:59",
-      "gameid": "1398728",
-      "kickoff_cst": "2026-05-08 08:30",
-      "matchnum_label": "周四006",
-      "home_team_id": "2257",
-      "away_team_id": "1577"
     }
   ]
 }
