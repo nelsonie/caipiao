@@ -24,7 +24,7 @@
       "lost": "3.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-07T14:40:07Z"
+    "fetched_at_utc": "2026-05-07T14:50:08Z"
   },
   "shuju": {
     "title": "斯特拉斯堡VS巴列卡诺(2025/2026欧协联)-数据分析-500彩票网",
@@ -658,22 +658,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930↓",
-        "handicap": "半球",
-        "away_water": "0.880↑",
-        "time": "05-07 21:42"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "半球",
-        "away_water": "0.850",
-        "time": "05-01 08:49"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -687,6 +671,22 @@
         "handicap": "平手/半球",
         "away_water": "0.880",
         "time": "05-01 05:12"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↓",
+        "handicap": "半球",
+        "away_water": "0.880↑",
+        "time": "05-07 21:42"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "半球",
+        "away_water": "0.850",
+        "time": "05-01 08:49"
       }
     },
     {
