@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-07T14:10:15Z",
+  "last_updated_utc": "2026-05-07T14:20:15Z",
   "matches": [
     {
       "xml_id": "2039556",
@@ -254,24 +254,6 @@
       "away_team_id": "791"
     },
     {
-      "xml_id": "2039581",
-      "matchnum": "5009",
-      "date": "2026-05-09",
-      "dayofweek": "星期六",
-      "league": "意大利甲级联赛",
-      "home": "都灵",
-      "away": "萨索洛",
-      "spf_win": "5.40",
-      "spf_draw": "4.00",
-      "spf_lost": "1.44",
-      "spf_updated": "2026-05-07 14:00:10",
-      "gameid": "1199706",
-      "kickoff_cst": "2026-05-09 02:45",
-      "matchnum_label": "周五009",
-      "home_team_id": "776",
-      "away_team_id": "3656"
-    },
-    {
       "xml_id": "2039582",
       "matchnum": "5010",
       "date": "2026-05-09",
@@ -306,24 +288,6 @@
       "matchnum_label": "周五011",
       "home_team_id": "872",
       "away_team_id": "1097"
-    },
-    {
-      "xml_id": "2039584",
-      "matchnum": "5012",
-      "date": "2026-05-09",
-      "dayofweek": "星期六",
-      "league": "西班牙甲级联赛",
-      "home": "莱万特",
-      "away": "奥萨苏纳",
-      "spf_win": "5.10",
-      "spf_draw": "3.90",
-      "spf_lost": "1.48",
-      "spf_updated": "2026-05-07 14:00:10",
-      "gameid": "1216122",
-      "kickoff_cst": "2026-05-09 03:00",
-      "matchnum_label": "周五012",
-      "home_team_id": "985",
-      "away_team_id": "622"
     }
   ]
 }
