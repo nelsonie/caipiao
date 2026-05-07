@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-07T09:10:19Z",
+  "last_updated_utc": "2026-05-07T09:20:12Z",
   "matches": [
     {
       "xml_id": "2039556",
@@ -28,9 +28,9 @@
       "home": "弗赖堡",
       "away": "布拉加",
       "spf_win": "3.26",
-      "spf_draw": "3.02",
-      "spf_lost": "2.04",
-      "spf_updated": "2026-05-07 16:41:26",
+      "spf_draw": "2.95",
+      "spf_lost": "2.07",
+      "spf_updated": "2026-05-07 17:07:21",
       "gameid": "1407210",
       "kickoff_cst": "2026-05-08 03:00",
       "matchnum_label": "周四002",
@@ -182,22 +182,22 @@
       "away_team_id": "682"
     },
     {
-      "xml_id": "2039578",
-      "matchnum": "5006",
+      "xml_id": "2039577",
+      "matchnum": "5005",
       "date": "2026-05-09",
       "dayofweek": "星期六",
-      "league": "挪威超级联赛",
-      "home": "汉坎",
-      "away": "瓦勒伦加",
-      "spf_win": "1.57",
-      "spf_draw": "3.85",
-      "spf_lost": "4.30",
+      "league": "瑞典超级联赛",
+      "home": "埃尔夫斯堡",
+      "away": "布鲁马波卡纳",
+      "spf_win": "3.67",
+      "spf_draw": "3.50",
+      "spf_lost": "1.75",
       "spf_updated": "2026-05-07 14:00:10",
-      "gameid": "1363740",
+      "gameid": "1362656",
       "kickoff_cst": "2026-05-09 01:00",
-      "matchnum_label": "周五006",
-      "home_team_id": "861",
-      "away_team_id": "1242"
+      "matchnum_label": "周五005",
+      "home_team_id": "563",
+      "away_team_id": "1764"
     },
     {
       "xml_id": "2039579",
@@ -216,6 +216,24 @@
       "matchnum_label": "周五007",
       "home_team_id": "841",
       "away_team_id": "6492"
+    },
+    {
+      "xml_id": "2039580",
+      "matchnum": "5008",
+      "date": "2026-05-09",
+      "dayofweek": "星期六",
+      "league": "德国甲级联赛",
+      "home": "多特蒙德",
+      "away": "法兰克福",
+      "spf_win": "2.19",
+      "spf_draw": "3.90",
+      "spf_lost": "2.40",
+      "spf_updated": "2026-05-07 14:00:10",
+      "gameid": "1206140",
+      "kickoff_cst": "2026-05-09 02:30",
+      "matchnum_label": "周五008",
+      "home_team_id": "786",
+      "away_team_id": "791"
     },
     {
       "xml_id": "2039581",
