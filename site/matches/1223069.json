@@ -24,7 +24,7 @@
       "lost": "6.65",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-07T20:00:08Z"
+    "fetched_at_utc": "2026-05-07T20:10:07Z"
   },
   "shuju": {
     "title": "帕德博恩VS卡尔斯鲁厄(2025/2026德乙)-数据分析-500彩票网",
@@ -610,7 +610,7 @@
         "home_water": "1.000",
         "handicap": "球半",
         "away_water": "0.800",
-        "time": "05-08 03:13"
+        "time": "05-08 04:01"
       },
       "init": {
         "home_water": "1.000",
@@ -668,22 +668,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "一球/球半",
-        "away_water": "1.000↑",
-        "time": "05-07 13:08"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "一球/球半",
-        "away_water": "0.900",
-        "time": "05-03 21:38"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -697,6 +681,22 @@
         "handicap": "球半",
         "away_water": "0.690",
         "time": "05-02 05:27"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "一球/球半",
+        "away_water": "1.000↑",
+        "time": "05-07 13:08"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "一球/球半",
+        "away_water": "0.900",
+        "time": "05-03 21:38"
       }
     },
     {
