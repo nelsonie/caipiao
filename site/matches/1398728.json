@@ -24,7 +24,7 @@
       "lost": "1.67",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-07T02:10:07Z"
+    "fetched_at_utc": "2026-05-07T02:20:07Z"
   },
   "shuju": {
     "title": "麦德林独立VS弗拉门戈(2026解放者杯)-数据分析-500彩票网",
@@ -688,22 +688,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.790↓",
-        "handicap": "受半球/一球降",
-        "away_water": "1.010↑",
-        "time": "05-07 07:02"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "受平手/半球",
-        "away_water": "0.760",
-        "time": "05-04 20:35"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -717,6 +701,22 @@
         "handicap": "受半球/一球",
         "away_water": "1.090",
         "time": "04-29 18:36"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.790↓",
+        "handicap": "受半球/一球降",
+        "away_water": "1.010↑",
+        "time": "05-07 07:02"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "受平手/半球",
+        "away_water": "0.760",
+        "time": "05-04 20:35"
       }
     },
     {
