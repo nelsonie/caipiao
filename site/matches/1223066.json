@@ -24,7 +24,7 @@
       "lost": "1.82",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-07T13:10:10Z"
+    "fetched_at_utc": "2026-05-07T13:20:12Z"
   },
   "shuju": {
     "title": "凯泽斯劳滕VS比勒费尔德(2025/2026德乙)-数据分析-500彩票网",
@@ -663,22 +663,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.840↑",
-        "time": "05-07 19:20"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "平手",
-        "away_water": "0.760",
-        "time": "05-02 20:54"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -692,6 +676,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.940",
         "time": "05-03 19:19"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.840↑",
+        "time": "05-07 19:20"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "平手",
+        "away_water": "0.760",
+        "time": "05-02 20:54"
       }
     },
     {
