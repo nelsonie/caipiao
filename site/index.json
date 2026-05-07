@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-07T23:30:10Z",
+  "last_updated_utc": "2026-05-07T23:40:11Z",
   "matches": [
     {
       "xml_id": "2039561",
@@ -180,42 +180,6 @@
       "matchnum_label": "周五009",
       "home_team_id": "776",
       "away_team_id": "3656"
-    },
-    {
-      "xml_id": "2039582",
-      "matchnum": "5010",
-      "date": "2026-05-09",
-      "dayofweek": "星期六",
-      "league": "法国甲级联赛",
-      "home": "朗斯",
-      "away": "南特",
-      "spf_win": "1.99",
-      "spf_draw": "3.70",
-      "spf_lost": "2.80",
-      "spf_updated": "2026-05-07 14:00:10",
-      "gameid": "1205752",
-      "kickoff_cst": "2026-05-09 02:45",
-      "matchnum_label": "周五010",
-      "home_team_id": "979",
-      "away_team_id": "1129"
-    },
-    {
-      "xml_id": "2039583",
-      "matchnum": "5011",
-      "date": "2026-05-09",
-      "dayofweek": "星期六",
-      "league": "英格兰冠军联赛",
-      "home": "赫尔城",
-      "away": "米尔沃尔",
-      "spf_win": "1.48",
-      "spf_draw": "3.85",
-      "spf_lost": "5.15",
-      "spf_updated": "2026-05-07 14:00:10",
-      "gameid": "1409625",
-      "kickoff_cst": "2026-05-09 03:00",
-      "matchnum_label": "周五011",
-      "home_team_id": "872",
-      "away_team_id": "1097"
     },
     {
       "xml_id": "2039584",
