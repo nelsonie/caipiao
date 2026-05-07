@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-07T09:50:18Z",
+  "last_updated_utc": "2026-05-07T10:00:14Z",
   "matches": [
     {
       "xml_id": "2039556",
@@ -234,6 +234,24 @@
       "matchnum_label": "周五007",
       "home_team_id": "841",
       "away_team_id": "6492"
+    },
+    {
+      "xml_id": "2039580",
+      "matchnum": "5008",
+      "date": "2026-05-09",
+      "dayofweek": "星期六",
+      "league": "德国甲级联赛",
+      "home": "多特蒙德",
+      "away": "法兰克福",
+      "spf_win": "2.19",
+      "spf_draw": "3.90",
+      "spf_lost": "2.40",
+      "spf_updated": "2026-05-07 14:00:10",
+      "gameid": "1206140",
+      "kickoff_cst": "2026-05-09 02:30",
+      "matchnum_label": "周五008",
+      "home_team_id": "786",
+      "away_team_id": "791"
     },
     {
       "xml_id": "2039583",
