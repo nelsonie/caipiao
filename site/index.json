@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-07T16:20:13Z",
+  "last_updated_utc": "2026-05-07T16:30:11Z",
   "matches": [
     {
       "xml_id": "2039556",
@@ -92,6 +92,24 @@
       "away_team_id": "2232"
     },
     {
+      "xml_id": "2039561",
+      "matchnum": "4006",
+      "date": "2026-05-08",
+      "dayofweek": "星期五",
+      "league": "南美解放者杯",
+      "home": "麦德林独立",
+      "away": "弗拉门戈",
+      "spf_win": "2.12",
+      "spf_draw": "2.82",
+      "spf_lost": "3.30",
+      "spf_updated": "2026-05-07 21:18:16",
+      "gameid": "1398728",
+      "kickoff_cst": "2026-05-08 08:30",
+      "matchnum_label": "周四006",
+      "home_team_id": "2257",
+      "away_team_id": "1577"
+    },
+    {
       "xml_id": "2039573",
       "matchnum": "5001",
       "date": "2026-05-08",
@@ -110,6 +128,42 @@
       "away_team_id": "866"
     },
     {
+      "xml_id": "2039574",
+      "matchnum": "5002",
+      "date": "2026-05-08",
+      "dayofweek": "星期五",
+      "league": "芬兰超级联赛",
+      "home": "坦佩雷山猫",
+      "away": "AC奥卢",
+      "spf_win": "5.15",
+      "spf_draw": "4.25",
+      "spf_lost": "1.43",
+      "spf_updated": "2026-05-07 14:00:10",
+      "gameid": "1363315",
+      "kickoff_cst": "2026-05-08 23:00",
+      "matchnum_label": "周五002",
+      "home_team_id": "2667",
+      "away_team_id": "363"
+    },
+    {
+      "xml_id": "2039575",
+      "matchnum": "5003",
+      "date": "2026-05-09",
+      "dayofweek": "星期六",
+      "league": "德国乙级联赛",
+      "home": "帕德博恩",
+      "away": "卡尔斯鲁厄",
+      "spf_win": "1.82",
+      "spf_draw": "3.96",
+      "spf_lost": "3.05",
+      "spf_updated": "2026-05-07 14:00:10",
+      "gameid": "1223069",
+      "kickoff_cst": "2026-05-09 00:30",
+      "matchnum_label": "周五003",
+      "home_team_id": "1922",
+      "away_team_id": "914"
+    },
+    {
       "xml_id": "2039576",
       "matchnum": "5004",
       "date": "2026-05-09",
@@ -126,6 +180,24 @@
       "matchnum_label": "周五004",
       "home_team_id": "928",
       "away_team_id": "682"
+    },
+    {
+      "xml_id": "2039577",
+      "matchnum": "5005",
+      "date": "2026-05-09",
+      "dayofweek": "星期六",
+      "league": "瑞典超级联赛",
+      "home": "埃尔夫斯堡",
+      "away": "布鲁马波卡纳",
+      "spf_win": "3.41",
+      "spf_draw": "3.45",
+      "spf_lost": "1.83",
+      "spf_updated": "2026-05-07 19:04:27",
+      "gameid": "1362656",
+      "kickoff_cst": "2026-05-09 01:00",
+      "matchnum_label": "周五005",
+      "home_team_id": "563",
+      "away_team_id": "1764"
     },
     {
       "xml_id": "2039578",
