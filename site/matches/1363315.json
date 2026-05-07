@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "平手降",
-      "home_water": "0.850↓",
-      "away_water": "0.750",
+      "home_water": "0.770↓",
+      "away_water": "0.820↑",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "2.41",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-07T17:30:10Z"
+    "fetched_at_utc": "2026-05-07T17:40:08Z"
   },
   "shuju": {
     "title": "埃尔维斯VSAC奥卢(2026芬超)-数据分析-500彩票网",
@@ -619,10 +619,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.770↓",
         "handicap": "平手降",
-        "away_water": "0.750",
-        "time": "05-07 23:33"
+        "away_water": "0.820↑",
+        "time": "05-08 01:20"
       },
       "init": {
         "home_water": "1.050",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "平手",
-        "away_water": "0.880↓",
-        "time": "05-08 01:08"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "平手",
-        "away_water": "1.000",
-        "time": "05-03 00:23"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.940",
         "time": "05-05 23:41"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "平手",
+        "away_water": "0.880↓",
+        "time": "05-08 01:08"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "平手",
+        "away_water": "1.000",
+        "time": "05-03 00:23"
       }
     },
     {
@@ -782,7 +782,7 @@
         "home_water": "0.950↑",
         "handicap": "平手",
         "away_water": "0.950↑",
-        "time": "05-07 18:04"
+        "time": "05-08 01:22"
       },
       "init": {
         "home_water": "0.930",
