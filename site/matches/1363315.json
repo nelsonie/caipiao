@@ -24,7 +24,7 @@
       "lost": "2.41",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T14:20:09Z"
+    "fetched_at_utc": "2026-05-08T14:30:18Z"
   },
   "shuju": {
     "title": "埃尔维斯VSAC奥卢(2026芬超)-数据分析-500彩票网",
@@ -413,18 +413,23 @@
             "position": "前锋"
           },
           {
+            "number": "25",
+            "name": "塞巴斯蒂安·苏瓦纳",
+            "position": "中场"
+          },
+          {
             "number": "6",
             "name": "扬德罗·拉普",
             "position": "中场"
           },
           {
-            "number": "30",
-            "name": "贾德尔·坎加",
+            "number": "22",
+            "name": "奥斯卡·穆尔塔拉",
             "position": "中场"
           },
           {
-            "number": "22",
-            "name": "奥斯卡·穆尔塔拉",
+            "number": "4",
+            "name": "奥利弗·彼得森",
             "position": "中场"
           },
           {
@@ -443,11 +448,6 @@
             "position": "后卫"
           },
           {
-            "number": "13",
-            "name": "卡尔·沃利乌斯",
-            "position": "后卫"
-          },
-          {
             "number": "12",
             "name": "法里斯·科尔卡里克",
             "position": "守门员"
@@ -455,29 +455,9 @@
         ],
         "subs": [
           {
-            "number": "19",
-            "name": "古杜斯·班巴",
-            "position": "后卫"
-          },
-          {
-            "number": "17",
-            "name": "斯坦尼斯拉夫·巴拉诺夫",
-            "position": "前锋"
-          },
-          {
-            "number": "31",
-            "name": "拉斯姆斯·雷斯拉赫蒂",
+            "number": "1",
+            "name": "奥佐·维塔宁",
             "position": "守门员"
-          },
-          {
-            "number": "4",
-            "name": "奥利弗·彼得森",
-            "position": "后卫"
-          },
-          {
-            "number": "25",
-            "name": "塞巴斯蒂安·苏瓦纳",
-            "position": "后卫"
           },
           {
             "number": "20",
@@ -485,18 +465,33 @@
             "position": "中场"
           },
           {
-            "number": "1",
-            "name": "奥佐·维塔宁",
+            "number": "23",
+            "name": "安德烈·雷蒙德",
+            "position": "后卫"
+          },
+          {
+            "number": "31",
+            "name": "拉斯姆斯·雷斯拉赫蒂",
             "position": "守门员"
+          },
+          {
+            "number": "30",
+            "name": "贾德尔·坎加",
+            "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "斯坦尼斯拉夫·巴拉诺夫",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "古杜斯·班巴",
+            "position": "后卫"
           },
           {
             "number": "33",
             "name": "奥斯卡里·塔皮奥·帕沃拉",
-            "position": "前锋"
-          },
-          {
-            "number": "45",
-            "name": "埃利亚斯·塔米宁",
             "position": "前锋"
           }
         ],
@@ -569,23 +564,13 @@
             "position": "后卫"
           },
           {
-            "number": "2",
-            "name": "萨米·西波拉",
-            "position": "后卫"
+            "number": "20",
+            "name": "卡利法·贾塔",
+            "position": "前锋"
           },
           {
-            "number": "29",
-            "name": "桑特里·西兰德",
-            "position": "后卫"
-          },
-          {
-            "number": "99",
-            "name": "尼克拉斯·舒尔茨",
-            "position": "守门员"
-          },
-          {
-            "number": "8",
-            "name": "马蒂亚斯·奥亚拉",
+            "number": "14",
+            "name": "尼古拉斯·约克莱宁",
             "position": "中场"
           },
           {
@@ -594,19 +579,29 @@
             "position": "后卫"
           },
           {
-            "number": "14",
-            "name": "尼古拉斯·约克莱宁",
+            "number": "30",
+            "name": "尤索·马凯莱宁",
             "position": "中场"
           },
           {
-            "number": "20",
-            "name": "卡利法·贾塔",
-            "position": "前锋"
+            "number": "8",
+            "name": "马蒂亚斯·奥亚拉",
+            "position": "中场"
           },
           {
-            "number": "32",
-            "name": "阿卜杜拉耶·科内",
-            "position": "前锋"
+            "number": "99",
+            "name": "尼克拉斯·舒尔茨",
+            "position": "守门员"
+          },
+          {
+            "number": "29",
+            "name": "桑特里·西兰德",
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "萨米·西波拉",
+            "position": "后卫"
           }
         ],
         "injured": [],
