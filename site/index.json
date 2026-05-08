@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-08T09:00:45Z",
+  "last_updated_utc": "2026-05-08T09:10:45Z",
   "matches": [
     {
       "xml_id": "2039573",
@@ -45,10 +45,10 @@
       "league": "德国乙级联赛",
       "home": "帕德博恩",
       "away": "卡尔斯鲁厄",
-      "spf_win": "1.82",
+      "spf_win": "1.85",
       "spf_draw": "3.96",
-      "spf_lost": "3.05",
-      "spf_updated": "2026-05-07 14:00:10",
+      "spf_lost": "2.97",
+      "spf_updated": "2026-05-08 16:59:20",
       "gameid": "1223069",
       "kickoff_cst": "2026-05-09 00:30",
       "matchnum_label": "周五003",
@@ -82,9 +82,9 @@
       "home": "埃尔夫斯堡",
       "away": "布鲁马波卡纳",
       "spf_win": "3.25",
-      "spf_draw": "3.35",
-      "spf_lost": "1.91",
-      "spf_updated": "2026-05-08 14:54:10",
+      "spf_draw": "3.24",
+      "spf_lost": "1.95",
+      "spf_updated": "2026-05-08 16:59:43",
       "gameid": "1362656",
       "kickoff_cst": "2026-05-09 01:00",
       "matchnum_label": "周五005",
@@ -704,24 +704,6 @@
       "away_team_id": "1862"
     },
     {
-      "xml_id": "2039630",
-      "matchnum": "7007",
-      "date": "2026-05-10",
-      "dayofweek": "星期天",
-      "league": "西班牙甲级联赛",
-      "home": "马洛卡",
-      "away": "比利亚雷亚尔",
-      "spf_win": "4.45",
-      "spf_draw": "4.00",
-      "spf_lost": "1.53",
-      "spf_updated": "2026-05-08 09:42:26",
-      "gameid": "1216117",
-      "kickoff_cst": "2026-05-10 20:00",
-      "matchnum_label": "周日007",
-      "home_team_id": "1062",
-      "away_team_id": "683"
-    },
-    {
       "xml_id": "2039635",
       "matchnum": "7012",
       "date": "2026-05-10",
@@ -756,24 +738,6 @@
       "matchnum_label": "周日013",
       "home_team_id": "803",
       "away_team_id": "1179"
-    },
-    {
-      "xml_id": "2039638",
-      "matchnum": "7015",
-      "date": "2026-05-10",
-      "dayofweek": "星期天",
-      "league": "西班牙甲级联赛",
-      "home": "毕尔巴鄂竞技",
-      "away": "巴伦西亚",
-      "spf_win": "3.08",
-      "spf_draw": "3.35",
-      "spf_lost": "1.98",
-      "spf_updated": "2026-05-08 09:42:26",
-      "gameid": "1216154",
-      "kickoff_cst": "2026-05-10 22:15",
-      "matchnum_label": "周日015",
-      "home_team_id": "690",
-      "away_team_id": "1243"
     },
     {
       "xml_id": "2039639",
