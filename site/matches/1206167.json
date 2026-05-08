@@ -24,7 +24,7 @@
       "lost": "4.28",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T07:40:43Z"
+    "fetched_at_utc": "2026-05-08T07:50:44Z"
   },
   "shuju": {
     "title": "美因茨VS柏林联合(2025/2026德甲)-数据分析-500彩票网",
@@ -673,22 +673,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↓",
-        "handicap": "半球/一球",
-        "away_water": "0.860↑",
-        "time": "05-07 06:00"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "半球/一球",
-        "away_water": "0.800",
-        "time": "04-27 20:52"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -702,6 +686,22 @@
         "handicap": "半球/一球",
         "away_water": "0.760",
         "time": "04-27 04:49"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↓",
+        "handicap": "半球/一球",
+        "away_water": "0.860↑",
+        "time": "05-07 06:00"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "半球/一球",
+        "away_water": "0.800",
+        "time": "04-27 20:52"
       }
     },
     {
