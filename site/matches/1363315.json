@@ -24,7 +24,7 @@
       "lost": "2.41",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T15:40:08Z"
+    "fetched_at_utc": "2026-05-08T15:50:10Z"
   },
   "shuju": {
     "title": "埃尔维斯VSAC奥卢(2026芬超)-数据分析-500彩票网",
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "受平手/半球降",
-        "away_water": "0.910↓",
-        "time": "05-08 22:47"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "平手",
-        "away_water": "0.940",
-        "time": "05-05 23:41"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "平手",
         "away_water": "1.000",
         "time": "05-03 00:23"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "受平手/半球降",
+        "away_water": "0.910↓",
+        "time": "05-08 22:47"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "平手",
+        "away_water": "0.940",
+        "time": "05-05 23:41"
       }
     },
     {

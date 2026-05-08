@@ -24,7 +24,7 @@
       "lost": "7.10",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T15:40:26Z"
+    "fetched_at_utc": "2026-05-08T15:50:29Z"
   },
   "shuju": {
     "title": "曼彻斯特城VS布伦特福德(2025/2026英超)-数据分析-500彩票网",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "球半",
-        "away_water": "0.830↓",
-        "time": "05-08 21:07"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "球半",
-        "away_water": "0.920",
-        "time": "04-27 18:52"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "球半",
         "away_water": "1.000",
         "time": "04-27 04:41"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "球半",
+        "away_water": "0.830↓",
+        "time": "05-08 21:07"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "球半",
+        "away_water": "0.920",
+        "time": "04-27 18:52"
       }
     },
     {
