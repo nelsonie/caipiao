@@ -24,7 +24,7 @@
       "lost": "4.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T02:00:09Z"
+    "fetched_at_utc": "2026-05-08T02:10:07Z"
   },
   "shuju": {
     "title": "多特蒙德VS法兰克福(2025/2026德甲)-数据分析-500彩票网",
@@ -675,22 +675,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.800↓",
-        "time": "05-08 08:55"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "一球",
-        "away_water": "1.010",
-        "time": "04-27 04:49"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -704,6 +688,22 @@
         "handicap": "一球",
         "away_water": "0.990",
         "time": "04-27 21:30"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "一球/球半升",
+        "away_water": "0.800↓",
+        "time": "05-08 08:55"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "一球",
+        "away_water": "1.010",
+        "time": "04-27 04:49"
       }
     },
     {
