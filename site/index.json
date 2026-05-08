@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-08T11:20:46Z",
+  "last_updated_utc": "2026-05-08T11:30:47Z",
   "matches": [
     {
       "xml_id": "2039573",
@@ -153,10 +153,10 @@
       "league": "意大利甲级联赛",
       "home": "都灵",
       "away": "萨索洛",
-      "spf_win": "5.45",
-      "spf_draw": "4.05",
-      "spf_lost": "1.43",
-      "spf_updated": "2026-05-08 18:09:42",
+      "spf_win": "5.66",
+      "spf_draw": "4.10",
+      "spf_lost": "1.41",
+      "spf_updated": "2026-05-08 19:22:36",
       "gameid": "1199706",
       "kickoff_cst": "2026-05-09 02:45",
       "matchnum_label": "周五009",
@@ -216,6 +216,60 @@
       "matchnum_label": "周五012",
       "home_team_id": "985",
       "away_team_id": "622"
+    },
+    {
+      "xml_id": "2039594",
+      "matchnum": "6001",
+      "date": "2026-05-09",
+      "dayofweek": "星期六",
+      "league": "澳大利亚超级联赛",
+      "home": "奥克兰FC",
+      "away": "阿德莱德联",
+      "spf_win": "3.95",
+      "spf_draw": "3.75",
+      "spf_lost": "1.64",
+      "spf_updated": "2026-05-08 15:41:44",
+      "gameid": "1409579",
+      "kickoff_cst": "2026-05-09 14:00",
+      "matchnum_label": "周六001",
+      "home_team_id": "15153",
+      "away_team_id": "3986"
+    },
+    {
+      "xml_id": "2039595",
+      "matchnum": "6002",
+      "date": "2026-05-09",
+      "dayofweek": "星期六",
+      "league": "日本职业联赛",
+      "home": "大阪樱花",
+      "away": "长崎航海",
+      "spf_win": "3.02",
+      "spf_draw": "3.50",
+      "spf_lost": "1.95",
+      "spf_updated": "2026-05-08 09:42:26",
+      "gameid": "1366353",
+      "kickoff_cst": "2026-05-09 15:00",
+      "matchnum_label": "周六002",
+      "home_team_id": "753",
+      "away_team_id": "6072"
+    },
+    {
+      "xml_id": "2039596",
+      "matchnum": "6003",
+      "date": "2026-05-09",
+      "dayofweek": "星期六",
+      "league": "韩国职业联赛",
+      "home": "光州FC",
+      "away": "江原FC",
+      "spf_win": "2.82",
+      "spf_draw": "3.25",
+      "spf_lost": "2.14",
+      "spf_updated": "2026-05-08 09:42:26",
+      "gameid": "1373070",
+      "kickoff_cst": "2026-05-09 15:30",
+      "matchnum_label": "周六003",
+      "home_team_id": "6477",
+      "away_team_id": "5739"
     },
     {
       "xml_id": "2039597",
@@ -288,6 +342,24 @@
       "matchnum_label": "周六008",
       "home_team_id": "564",
       "away_team_id": "542"
+    },
+    {
+      "xml_id": "2039604",
+      "matchnum": "6011",
+      "date": "2026-05-09",
+      "dayofweek": "星期六",
+      "league": "意大利甲级联赛",
+      "home": "卡利亚里",
+      "away": "乌迪内斯",
+      "spf_win": "5.70",
+      "spf_draw": "3.85",
+      "spf_lost": "1.44",
+      "spf_updated": "2026-05-08 09:42:26",
+      "gameid": "1199699",
+      "kickoff_cst": "2026-05-09 21:00",
+      "matchnum_label": "周六011",
+      "home_team_id": "917",
+      "away_team_id": "1276"
     },
     {
       "xml_id": "2039607",
@@ -468,6 +540,24 @@
       "matchnum_label": "周六023",
       "home_team_id": "1072",
       "away_team_id": "1361"
+    },
+    {
+      "xml_id": "2039621",
+      "matchnum": "6028",
+      "date": "2026-05-10",
+      "dayofweek": "星期天",
+      "league": "法国乙级联赛",
+      "home": "阿纳西",
+      "away": "罗德兹",
+      "spf_win": "4.30",
+      "spf_draw": "3.70",
+      "spf_lost": "1.60",
+      "spf_updated": "2026-05-08 09:42:26",
+      "gameid": "1212114",
+      "kickoff_cst": "2026-05-10 02:00",
+      "matchnum_label": "周六028",
+      "home_team_id": "5091",
+      "away_team_id": "2155"
     },
     {
       "xml_id": "2039622",
@@ -900,6 +990,24 @@
       "matchnum_label": "周日028",
       "home_team_id": "647",
       "away_team_id": "1593"
+    },
+    {
+      "xml_id": "2039652",
+      "matchnum": "7029",
+      "date": "2026-05-11",
+      "dayofweek": "星期一",
+      "league": "法国甲级联赛",
+      "home": "摩纳哥",
+      "away": "里尔",
+      "spf_win": "4.45",
+      "spf_draw": "4.00",
+      "spf_lost": "1.53",
+      "spf_updated": "2026-05-08 09:42:26",
+      "gameid": "1205831",
+      "kickoff_cst": "2026-05-11 03:00",
+      "matchnum_label": "周日029",
+      "home_team_id": "1105",
+      "away_team_id": "998"
     }
   ]
 }
