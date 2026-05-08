@@ -24,7 +24,7 @@
       "lost": "1.84",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T17:00:16Z"
+    "fetched_at_utc": "2026-05-08T17:10:11Z"
   },
   "shuju": {
     "title": "波鸿VS汉诺威96(2025/2026德乙)-数据分析-500彩票网",
@@ -668,22 +668,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.810↑",
-        "time": "05-08 17:28"
-      },
-      "init": {
-        "home_water": "1.250",
-        "handicap": "平手",
-        "away_water": "0.590",
-        "time": "05-03 19:49"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -697,6 +681,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.880",
         "time": "05-04 14:44"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.810↑",
+        "time": "05-08 17:28"
+      },
+      "init": {
+        "home_water": "1.250",
+        "handicap": "平手",
+        "away_water": "0.590",
+        "time": "05-03 19:49"
       }
     },
     {
