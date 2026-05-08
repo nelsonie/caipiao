@@ -24,7 +24,7 @@
       "lost": "13.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-08T05:20:44Z"
+    "fetched_at_utc": "2026-05-08T05:30:48Z"
   },
   "shuju": {
     "title": "巴黎圣日耳曼VS布雷斯特(2025/2026法甲)-数据分析-500彩票网",
@@ -690,22 +690,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.750↓",
-        "handicap": "两球降",
-        "away_water": "0.990↑",
-        "time": "05-07 14:42"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "两球/两球半",
-        "away_water": "0.860",
-        "time": "04-27 20:53"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -719,6 +703,22 @@
         "handicap": "两球/两球半",
         "away_water": "0.940",
         "time": "04-27 04:53"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.750↓",
+        "handicap": "两球降",
+        "away_water": "0.990↑",
+        "time": "05-07 14:42"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "两球/两球半",
+        "away_water": "0.860",
+        "time": "04-27 20:53"
       }
     },
     {
