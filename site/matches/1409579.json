@@ -24,7 +24,7 @@
       "lost": "3.32",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T04:40:18Z"
+    "fetched_at_utc": "2026-05-08T04:50:13Z"
   },
   "shuju": {
     "title": "奥克兰FCVS阿德莱德联(2025/2026澳超)-数据分析-500彩票网",
@@ -626,22 +626,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.010↑",
-        "time": "05-08 12:02"
-      },
-      "init": {
-        "home_water": "1.040",
-        "handicap": "半球/一球",
-        "away_water": "0.690",
-        "time": "05-03 00:49"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -655,6 +639,22 @@
         "handicap": "平手/半球",
         "away_water": "1.020",
         "time": "05-08 08:18"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.010↑",
+        "time": "05-08 12:02"
+      },
+      "init": {
+        "home_water": "1.040",
+        "handicap": "半球/一球",
+        "away_water": "0.690",
+        "time": "05-03 00:49"
       }
     },
     {
