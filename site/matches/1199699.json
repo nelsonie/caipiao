@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "平手降",
-      "home_water": "0.680↓",
-      "away_water": "0.990↑",
+      "home_water": "0.710↓",
+      "away_water": "0.950↑",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "2.80",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T14:10:19Z"
+    "fetched_at_utc": "2026-05-08T14:20:20Z"
   },
   "shuju": {
     "title": "卡利亚里VS乌迪内斯(2025/2026意甲)-数据分析-500彩票网",
@@ -586,10 +586,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.680↓",
+        "home_water": "0.710↓",
         "handicap": "平手降",
-        "away_water": "0.990↑",
-        "time": "05-07 00:31"
+        "away_water": "0.950↑",
+        "time": "05-08 22:04"
       },
       "init": {
         "home_water": "1.060",
@@ -695,22 +695,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "平手降",
-        "away_water": "1.100↑",
-        "time": "05-08 21:28"
-      },
-      "init": {
-        "home_water": "1.120",
-        "handicap": "平手/半球",
-        "away_water": "0.830",
-        "time": "04-27 05:50"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -724,6 +708,22 @@
         "handicap": "平手",
         "away_water": "1.110",
         "time": "04-28 03:02"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "平手降",
+        "away_water": "1.100↑",
+        "time": "05-08 21:28"
+      },
+      "init": {
+        "home_water": "1.120",
+        "handicap": "平手/半球",
+        "away_water": "0.830",
+        "time": "04-27 05:50"
       }
     },
     {
