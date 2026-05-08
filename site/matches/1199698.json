@@ -24,7 +24,7 @@
       "lost": "3.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T08:10:42Z"
+    "fetched_at_utc": "2026-05-08T08:20:45Z"
   },
   "shuju": {
     "title": "AC米兰VS亚特兰大(2025/2026意甲)-数据分析-500彩票网",
@@ -482,22 +482,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.080↑",
-        "time": "05-07 22:05"
-      },
-      "init": {
-        "home_water": "1.080",
-        "handicap": "半球",
-        "away_water": "0.820",
-        "time": "04-27 19:13"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -511,6 +495,22 @@
         "handicap": "平手/半球",
         "away_water": "1.160",
         "time": "04-27 05:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.080↑",
+        "time": "05-07 22:05"
+      },
+      "init": {
+        "home_water": "1.080",
+        "handicap": "半球",
+        "away_water": "0.820",
+        "time": "04-27 19:13"
       }
     },
     {
