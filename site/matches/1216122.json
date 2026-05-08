@@ -24,7 +24,7 @@
       "lost": "2.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T14:00:15Z"
+    "fetched_at_utc": "2026-05-08T14:10:13Z"
   },
   "shuju": {
     "title": "莱万特VS奥萨苏纳(2025/2026西甲)-数据分析-500彩票网",
@@ -661,10 +661,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.800↓",
+        "home_water": "0.830↓",
         "handicap": "平手",
-        "away_water": "1.050↑",
-        "time": "05-08 21:36"
+        "away_water": "1.030↑",
+        "time": "05-08 21:57"
       },
       "init": {
         "home_water": "0.900",
@@ -693,10 +693,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.830↓",
         "handicap": "平手",
-        "away_water": "1.040↑",
-        "time": "05-08 21:32"
+        "away_water": "1.050↑",
+        "time": "05-08 21:51"
       },
       "init": {
         "home_water": "0.940",
@@ -722,35 +722,35 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "平手",
-        "away_water": "1.060↑",
-        "time": "05-08 21:28"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "平手",
-        "away_water": "0.980",
-        "time": "04-27 20:27"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
         "home_water": "0.860↓",
         "handicap": "平手",
         "away_water": "1.080↑",
-        "time": "05-08 21:24"
+        "time": "05-08 22:07"
       },
       "init": {
         "home_water": "0.880",
         "handicap": "平手",
         "away_water": "1.060",
         "time": "04-27 05:04"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "平手",
+        "away_water": "1.050↑",
+        "time": "05-08 21:56"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "平手",
+        "away_water": "0.980",
+        "time": "04-27 20:27"
       }
     },
     {
@@ -773,10 +773,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.870↓",
         "handicap": "平手",
-        "away_water": "1.090↑",
-        "time": "05-08 21:35"
+        "away_water": "1.070↑",
+        "time": "05-08 22:07"
       },
       "init": {
         "home_water": "0.890",
@@ -789,10 +789,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.860↓",
         "handicap": "平手",
-        "away_water": "1.090↑",
-        "time": "05-08 21:34"
+        "away_water": "1.080↑",
+        "time": "05-08 21:55"
       },
       "init": {
         "home_water": "0.870",
@@ -821,10 +821,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.860↓",
         "handicap": "平手",
-        "away_water": "1.090↑",
-        "time": "05-08 21:34"
+        "away_water": "1.080↑",
+        "time": "05-08 21:55"
       },
       "init": {
         "home_water": "0.870",
@@ -837,10 +837,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.820↑",
+        "home_water": "0.810↑",
         "handicap": "平手",
-        "away_water": "0.990↑",
-        "time": "05-08 21:12"
+        "away_water": "1.000↑",
+        "time": "05-08 21:44"
       },
       "init": {
         "home_water": "0.790",
@@ -853,10 +853,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.840↓",
         "handicap": "平手",
-        "away_water": "1.070↑",
-        "time": "05-08 21:32"
+        "away_water": "1.080↑",
+        "time": "05-08 21:53"
       },
       "init": {
         "home_water": "0.860",
@@ -1556,7 +1556,7 @@
     {
       "cid": "651",
       "company": "利*",
-      "time": "2026-05-08 21:31:35",
+      "time": "2026-05-08 21:57:10",
       "odds": {
         "live": [
           "2.49",
@@ -1565,8 +1565,8 @@
         ],
         "init": [
           "2.56",
-          "3.27",
-          "2.82"
+          "3.26",
+          "2.83"
         ]
       },
       "prob": {
@@ -1576,9 +1576,9 @@
           "34.64%"
         ],
         "init": [
-          "37.17%",
-          "29.10%",
-          "33.74%"
+          "37.18%",
+          "29.19%",
+          "33.63%"
         ]
       },
       "ret": {
@@ -1586,7 +1586,7 @@
           "90.76%"
         ],
         "init": [
-          "95.14%"
+          "95.17%"
         ]
       },
       "kelly": {
