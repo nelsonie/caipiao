@@ -24,7 +24,7 @@
       "lost": "1.32",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T19:00:23Z"
+    "fetched_at_utc": "2026-05-08T19:10:19Z"
   },
   "shuju": {
     "title": "莱切VS尤文图斯(2025/2026意甲)-数据分析-500彩票网",
@@ -643,10 +643,10 @@
       "cid": "2",
       "company": "立*",
       "live": {
-        "home_water": "0.550",
+        "home_water": "0.610↑",
         "handicap": "受球半",
-        "away_water": "1.300",
-        "time": "05-07 08:11"
+        "away_water": "1.150↓",
+        "time": "05-09 03:00"
       },
       "init": {
         "home_water": "0.550",
@@ -720,22 +720,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "受一球/球半降",
-        "away_water": "0.990↑",
-        "time": "05-08 23:50"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "受一球",
-        "away_water": "0.810",
-        "time": "04-27 05:47"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -749,6 +733,22 @@
         "handicap": "受一球",
         "away_water": "0.900",
         "time": "04-27 21:25"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "受一球/球半降",
+        "away_water": "0.990↑",
+        "time": "05-08 23:50"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "受一球",
+        "away_water": "0.810",
+        "time": "04-27 05:47"
       }
     },
     {
@@ -835,10 +835,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.790↓",
+        "home_water": "0.810↓",
         "handicap": "受一球/球半降",
-        "away_water": "1.000↑",
-        "time": "05-08 22:31"
+        "away_water": "0.970↑",
+        "time": "05-09 01:48"
       },
       "init": {
         "home_water": "0.980",
@@ -851,10 +851,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.850↓",
         "handicap": "受一球/球半降",
-        "away_water": "1.040↑",
-        "time": "05-08 22:34"
+        "away_water": "1.050↑",
+        "time": "05-09 02:58"
       },
       "init": {
         "home_water": "1.010",
@@ -2044,7 +2044,7 @@
     {
       "cid": "863",
       "company": "18**t",
-      "time": "2026-05-08 06:48:20",
+      "time": "2026-05-09 02:48:55",
       "odds": {
         "live": [
           "6.00",

@@ -24,7 +24,7 @@
       "lost": "2.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T19:00:14Z"
+    "fetched_at_utc": "2026-05-08T19:10:13Z"
   },
   "shuju": {
     "title": "斯图加特VS勒沃库森(2025/2026德甲)-数据分析-500彩票网",
@@ -674,22 +674,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "平手/半球",
-        "away_water": "0.890↓",
-        "time": "05-08 05:26"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手/半球",
-        "away_water": "0.990",
-        "time": "04-27 21:30"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -703,6 +687,22 @@
         "handicap": "平手/半球",
         "away_water": "1.050",
         "time": "04-27 04:49"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↑",
+        "handicap": "平手/半球",
+        "away_water": "0.890↓",
+        "time": "05-08 05:26"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手/半球",
+        "away_water": "0.990",
+        "time": "04-27 21:30"
       }
     },
     {
