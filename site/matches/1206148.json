@@ -24,7 +24,7 @@
       "lost": "8.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T19:20:13Z"
+    "fetched_at_utc": "2026-05-08T19:30:14Z"
   },
   "shuju": {
     "title": "莱比锡红牛VS圣保利(2025/2026德甲)-数据分析-500彩票网",
@@ -668,29 +668,13 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.890↑",
-        "handicap": "球半升",
-        "away_water": "1.050↑",
-        "time": "05-09 01:55"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "一球/球半",
-        "away_water": "0.850",
-        "time": "04-27 04:51"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.830↓",
         "handicap": "球半升",
-        "away_water": "1.000↑",
-        "time": "05-09 02:00"
+        "away_water": "0.990↑",
+        "time": "05-09 03:03"
       },
       "init": {
         "home_water": "0.900",
@@ -700,13 +684,29 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "球半升",
+        "away_water": "1.040↑",
+        "time": "05-09 03:01"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "一球/球半",
+        "away_water": "0.850",
+        "time": "04-27 04:51"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "0.870↓",
+        "home_water": "0.880↓",
         "handicap": "球半升",
         "away_water": "1.040↑",
-        "time": "05-09 02:07"
+        "time": "05-09 02:56"
       },
       "init": {
         "home_water": "0.900",
