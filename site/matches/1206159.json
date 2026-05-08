@@ -24,7 +24,7 @@
       "lost": "5.40",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T08:30:23Z"
+    "fetched_at_utc": "2026-05-08T08:40:23Z"
   },
   "shuju": {
     "title": "霍芬海姆VS云达不莱梅(2025/2026德甲)-数据分析-500彩票网",
@@ -668,22 +668,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "一球/球半升",
-        "away_water": "0.890↑",
-        "time": "05-08 04:27"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "一球",
-        "away_water": "0.880",
-        "time": "04-27 21:30"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -697,6 +681,22 @@
         "handicap": "一球",
         "away_water": "0.920",
         "time": "04-27 04:49"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "一球/球半升",
+        "away_water": "0.890↑",
+        "time": "05-08 04:27"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "一球",
+        "away_water": "0.880",
+        "time": "04-27 21:30"
       }
     },
     {
