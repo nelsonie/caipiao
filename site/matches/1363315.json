@@ -24,7 +24,7 @@
       "lost": "2.41",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T15:30:11Z"
+    "fetched_at_utc": "2026-05-08T15:40:08Z"
   },
   "shuju": {
     "title": "埃尔维斯VSAC奥卢(2026芬超)-数据分析-500彩票网",
@@ -502,19 +502,19 @@
         "formation": null,
         "starters": [
           {
-            "number": "27",
-            "name": "埃利亚斯·卡利奥",
-            "position": "前锋"
-          },
-          {
             "number": "26",
             "name": "朱利叶斯·科尔科",
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "拉米尼·哥扎利",
+            "number": "7",
+            "name": "拉斯穆斯·卡尔亚莱宁",
             "position": "前锋"
+          },
+          {
+            "number": "27",
+            "name": "埃利亚斯·卡利奥",
+            "position": "中场"
           },
           {
             "number": "6",
@@ -527,8 +527,8 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "拉斯穆斯·卡尔亚莱宁",
+            "number": "11",
+            "name": "拉米尼·哥扎利",
             "position": "中场"
           },
           {
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "受平手/半球降",
-        "away_water": "0.900↓",
-        "time": "05-08 22:46"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "平手",
-        "away_water": "1.000",
-        "time": "05-03 00:23"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "平手",
         "away_water": "0.940",
         "time": "05-05 23:41"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "受平手/半球降",
+        "away_water": "0.900↓",
+        "time": "05-08 22:46"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "平手",
+        "away_water": "1.000",
+        "time": "05-03 00:23"
       }
     },
     {
