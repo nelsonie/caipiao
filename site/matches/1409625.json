@@ -24,7 +24,7 @@
       "lost": "2.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T08:40:15Z"
+    "fetched_at_utc": "2026-05-08T08:50:13Z"
   },
   "shuju": {
     "title": "赫尔城VS米尔沃尔(2025/2026英冠)-数据分析-500彩票网",
@@ -668,22 +668,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.720↓",
-        "handicap": "受平手/半球",
-        "away_water": "1.020↑",
-        "time": "05-08 15:59"
-      },
-      "init": {
-        "home_water": "0.740",
-        "handicap": "受平手/半球",
-        "away_water": "0.980",
-        "time": "05-03 03:10"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -697,6 +681,22 @@
         "handicap": "受平手/半球",
         "away_water": "1.080",
         "time": "05-04 09:31"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.720↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.020↑",
+        "time": "05-08 15:59"
+      },
+      "init": {
+        "home_water": "0.740",
+        "handicap": "受平手/半球",
+        "away_water": "0.980",
+        "time": "05-03 03:10"
       }
     },
     {
