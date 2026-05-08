@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "半球",
-      "home_water": "0.740↓",
-      "away_water": "0.830↑",
+      "home_water": "0.850↓",
+      "away_water": "0.850↑",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "4.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T05:00:17Z"
+    "fetched_at_utc": "2026-05-08T05:10:17Z"
   },
   "shuju": {
     "title": "大阪樱花VS长崎航海(2026日职)-数据分析-500彩票网",
@@ -577,10 +577,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.740↓",
+        "home_water": "0.850↓",
         "handicap": "半球",
-        "away_water": "0.830↑",
-        "time": "05-08 00:52"
+        "away_water": "0.850↑",
+        "time": "05-08 12:56"
       },
       "init": {
         "home_water": "0.950",
@@ -686,22 +686,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850",
-        "handicap": "半球",
-        "away_water": "1.000",
-        "time": "05-08 04:38"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "半球",
-        "away_water": "1.000",
-        "time": "05-08 04:38"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -715,6 +699,22 @@
         "handicap": "半球/一球",
         "away_water": "0.660",
         "time": "05-08 04:27"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850",
+        "handicap": "半球",
+        "away_water": "1.000",
+        "time": "05-08 04:38"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "半球",
+        "away_water": "1.000",
+        "time": "05-08 04:38"
       }
     },
     {
@@ -740,7 +740,7 @@
         "home_water": "0.860↑",
         "handicap": "半球",
         "away_water": "1.040↑",
-        "time": "05-08 12:02"
+        "time": "05-08 12:24"
       },
       "init": {
         "home_water": "0.840",
