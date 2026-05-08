@@ -13,10 +13,10 @@
       "lost": "1.70"
     },
     "asia_main": {
-      "handicap": "平手/半球",
-      "home_water": "0.710",
-      "away_water": "1.050",
-      "company": "on**"
+      "handicap": "半球",
+      "home_water": "1.010",
+      "away_water": "0.840",
+      "company": "伟*"
     },
     "euro_main": {
       "win": "1.90",
@@ -24,7 +24,7 @@
       "lost": "3.15",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T05:30:28Z"
+    "fetched_at_utc": "2026-05-08T05:40:28Z"
   },
   "shuju": {
     "title": "威廉二世VS瓦尔韦克(2025/2026荷乙)-数据分析-500彩票网",
@@ -562,22 +562,6 @@
   },
   "yazhi": [
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.710",
-        "handicap": "平手/半球",
-        "away_water": "1.050",
-        "time": "05-08 12:48"
-      },
-      "init": {
-        "home_water": "0.710",
-        "handicap": "平手/半球",
-        "away_water": "1.050",
-        "time": "05-08 12:48"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -591,6 +575,22 @@
         "handicap": "半球",
         "away_water": "0.840",
         "time": "05-08 13:10"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.710",
+        "handicap": "平手/半球",
+        "away_water": "1.050",
+        "time": "05-08 12:48"
+      },
+      "init": {
+        "home_water": "0.710",
+        "handicap": "平手/半球",
+        "away_water": "1.050",
+        "time": "05-08 12:48"
       }
     },
     {
