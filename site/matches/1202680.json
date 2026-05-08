@@ -24,7 +24,7 @@
       "lost": "3.40",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-08T16:10:16Z"
+    "fetched_at_utc": "2026-05-08T16:20:18Z"
   },
   "shuju": {
     "title": "利物浦VS切尔西(2025/2026英超)-数据分析-500彩票网",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "半球",
-        "away_water": "1.030↑",
-        "time": "05-08 20:13"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "半球",
-        "away_water": "0.930",
-        "time": "04-27 18:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -724,13 +708,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "半球",
+        "away_water": "1.030↑",
+        "time": "05-08 20:13"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "半球",
+        "away_water": "0.930",
+        "time": "04-27 18:05"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
         "home_water": "0.880↓",
         "handicap": "半球降",
-        "away_water": "1.030↑",
-        "time": "05-08 19:30"
+        "away_water": "1.040↑",
+        "time": "05-09 00:12"
       },
       "init": {
         "home_water": "0.950",
@@ -823,10 +823,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.870↓",
+        "home_water": "0.860↓",
         "handicap": "半球",
-        "away_water": "1.030↑",
-        "time": "05-08 19:59"
+        "away_water": "1.040↑",
+        "time": "05-09 00:03"
       },
       "init": {
         "home_water": "0.900",
