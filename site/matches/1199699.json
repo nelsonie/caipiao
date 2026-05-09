@@ -24,7 +24,7 @@
       "lost": "2.80",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T14:00:15Z"
+    "fetched_at_utc": "2026-05-09T14:10:16Z"
   },
   "shuju": {
     "title": "卡利亚里VS乌迪内斯(2025/2026意甲)-数据分析-500彩票网",
@@ -375,11 +375,6 @@
             "position": "中场"
           },
           {
-            "number": "2",
-            "name": "马可·帕莱斯特拉",
-            "position": "中场"
-          },
-          {
             "number": "33",
             "name": "亚当·奥伯特",
             "position": "后卫"
@@ -400,6 +395,11 @@
             "position": "后卫"
           },
           {
+            "number": "2",
+            "name": "马可·帕莱斯特拉",
+            "position": "后卫"
+          },
+          {
             "number": "1",
             "name": "埃里亚·卡普里莱",
             "position": "守门员"
@@ -417,11 +417,6 @@
             "position": "后卫"
           },
           {
-            "number": "28",
-            "name": "加布里埃尔·扎帕",
-            "position": "后卫"
-          },
-          {
             "number": "37",
             "name": "耶尔·特雷佩",
             "position": "前锋"
@@ -435,6 +430,11 @@
             "number": "12",
             "name": "艾伦·谢利",
             "position": "守门员"
+          },
+          {
+            "number": "28",
+            "name": "加布里埃尔·扎帕",
+            "position": "后卫"
           },
           {
             "number": "18",
@@ -710,22 +710,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.770↓",
-        "handicap": "平手",
-        "away_water": "1.150↑",
-        "time": "05-09 21:01"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "平手",
-        "away_water": "1.110",
-        "time": "04-28 03:02"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -739,6 +723,22 @@
         "handicap": "平手/半球",
         "away_water": "0.830",
         "time": "04-27 05:50"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.770↓",
+        "handicap": "平手",
+        "away_water": "1.150↑",
+        "time": "05-09 21:01"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "平手",
+        "away_water": "1.110",
+        "time": "04-28 03:02"
       }
     },
     {

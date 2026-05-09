@@ -24,7 +24,7 @@
       "lost": "3.15",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T14:00:23Z"
+    "fetched_at_utc": "2026-05-09T14:10:24Z"
   },
   "shuju": {
     "title": "威廉二世VS瓦尔韦克(2025/2026荷乙)-数据分析-500彩票网",
@@ -334,8 +334,8 @@
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "阿明·库伦",
+            "number": "20",
+            "name": "莫尼尔·阿卢奇",
             "position": "中场"
           },
           {
@@ -354,8 +354,8 @@
             "position": "中场"
           },
           {
-            "number": "22",
-            "name": "佩尔·范龙",
+            "number": "24",
+            "name": "周亚安",
             "position": "后卫"
           },
           {
@@ -386,34 +386,19 @@
             "position": "前锋"
           },
           {
-            "number": "15",
-            "name": "艾曼·伊特-泰比",
-            "position": "后卫"
-          },
-          {
             "number": "14",
             "name": "延斯·马泰森",
-            "position": "后卫"
-          },
-          {
-            "number": "23",
-            "name": "莱塞·阿尔德加德",
-            "position": "前锋"
-          },
-          {
-            "number": "48",
-            "name": "朱尼尔·波特维利特",
-            "position": "后卫"
-          },
-          {
-            "number": "24",
-            "name": "周亚安",
             "position": "后卫"
           },
           {
             "number": "28",
             "name": "托马斯·维海德",
             "position": "前锋"
+          },
+          {
+            "number": "49",
+            "name": "米卡·德·容格",
+            "position": "中场"
           },
           {
             "number": "31",
@@ -431,14 +416,29 @@
             "position": "中场"
           },
           {
+            "number": "22",
+            "name": "佩尔·范龙",
+            "position": "中场"
+          },
+          {
             "number": "21",
             "name": "沃特·范德斯特恩",
             "position": "守门员"
           },
           {
-            "number": "20",
-            "name": "莫尼尔·阿卢奇",
-            "position": "中场"
+            "number": "11",
+            "name": "阿明·库伦",
+            "position": "前锋"
+          },
+          {
+            "number": "23",
+            "name": "拉塞·阿比尔德加德",
+            "position": "前锋"
+          },
+          {
+            "number": "15",
+            "name": "艾曼·伊特-泰比",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -448,38 +448,38 @@
         "formation": null,
         "starters": [
           {
-            "number": "9",
-            "name": "杰斯帕·乌内肯",
+            "number": "5",
+            "name": "胡安·法米奥·卡斯蒂略",
             "position": "前锋"
           },
           {
-            "number": "12",
-            "name": "瑞安·菲奇",
-            "position": "中场"
-          },
-          {
-            "number": "20",
-            "name": "哈里·库斯特",
-            "position": "中场"
+            "number": "29",
+            "name": "米希尔·克拉默",
+            "position": "前锋"
           },
           {
             "number": "7",
             "name": "丹尼尔霍·克莱奥尼斯",
+            "position": "前锋"
+          },
+          {
+            "number": "14",
+            "name": "吉安-保罗·波蒂乌斯",
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "戈弗里德·罗默拉托",
+            "number": "10",
+            "name": "理查德·范德文",
             "position": "中场"
           },
           {
-            "number": "18",
-            "name": "R·范赫德尔",
+            "number": "8",
+            "name": "丹尼尔·范卡姆",
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "胡安·法米奥·卡斯蒂略",
+            "number": "55",
+            "name": "纳兹吉尔·赫尔德",
             "position": "后卫"
           },
           {
@@ -493,8 +493,8 @@
             "position": "后卫"
           },
           {
-            "number": "55",
-            "name": "纳兹吉尔·赫尔德",
+            "number": "19",
+            "name": "纳瓦霍·巴布罗德",
             "position": "后卫"
           },
           {
@@ -505,23 +505,28 @@
         ],
         "subs": [
           {
-            "number": "10",
-            "name": "理查德·范德文",
+            "number": "21",
+            "name": "马塞尔·沙普曼",
             "position": "中场"
           },
           {
-            "number": "30",
-            "name": "约拉姆·范德维恩",
-            "position": "前锋"
-          },
-          {
-            "number": "8",
-            "name": "丹尼尔·范卡姆",
+            "number": "20",
+            "name": "哈里·库斯特",
             "position": "中场"
           },
           {
-            "number": "25",
-            "name": "梅勒·维特芬",
+            "number": "12",
+            "name": "瑞安·菲奇",
+            "position": "中场"
+          },
+          {
+            "number": "26",
+            "name": "汤姆·布拉梅尔",
+            "position": "守门员"
+          },
+          {
+            "number": "6",
+            "name": "戈弗里德·罗默拉托",
             "position": "中场"
           },
           {
@@ -530,29 +535,29 @@
             "position": "守门员"
           },
           {
-            "number": "21",
-            "name": "马塞尔·沙普曼",
+            "number": "25",
+            "name": "梅勒·维特芬",
             "position": "中场"
           },
           {
-            "number": "29",
-            "name": "米希尔·克拉默",
-            "position": "前锋"
-          },
-          {
-            "number": "26",
-            "name": "汤姆·布拉梅尔",
-            "position": "守门员"
-          },
-          {
-            "number": "14",
-            "name": "吉安-保罗·波蒂乌斯",
+            "number": "28",
+            "name": "昆汀·范·贝克维尔德",
             "position": "中场"
           },
           {
-            "number": "19",
-            "name": "纳瓦霍·巴布罗德",
+            "number": "3",
+            "name": "罗森·范艾玛",
             "position": "后卫"
+          },
+          {
+            "number": "18",
+            "name": "R·范赫德尔",
+            "position": "中场"
+          },
+          {
+            "number": "30",
+            "name": "约拉姆·范德维恩",
+            "position": "前锋"
           }
         ],
         "injured": [],

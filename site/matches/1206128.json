@@ -24,7 +24,7 @@
       "lost": "3.15",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T14:00:18Z"
+    "fetched_at_utc": "2026-05-09T14:10:18Z"
   },
   "shuju": {
     "title": "奥格斯堡VS门兴格拉德巴赫(2025/2026德甲)-数据分析-500彩票网",
@@ -447,23 +447,28 @@
         "formation": null,
         "starters": [
           {
-            "number": "18",
-            "name": "町野修斗",
-            "position": "前锋"
-          },
-          {
             "number": "36",
             "name": "瓦埃勒·莫希亚",
             "position": "前锋"
           },
           {
-            "number": "29",
-            "name": "乔·斯凯利",
-            "position": "中场"
+            "number": "18",
+            "name": "町野修斗",
+            "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "弗兰克·霍诺拉特",
+            "position": "前锋"
           },
           {
             "number": "7",
             "name": "凯文·斯托格",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "扬尼克·恩格哈特",
             "position": "中场"
           },
           {
@@ -472,14 +477,9 @@
             "position": "中场"
           },
           {
-            "number": "9",
-            "name": "弗兰克·霍诺拉特",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "扬尼克·恩格哈特",
-            "position": "中场"
+            "number": "29",
+            "name": "乔·斯凯利",
+            "position": "后卫"
           },
           {
             "number": "2",
@@ -668,22 +668,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "半球升",
-        "away_water": "0.940↑",
-        "time": "05-09 21:17"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "平手/半球",
-        "away_water": "0.830",
-        "time": "04-27 20:53"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -697,6 +681,22 @@
         "handicap": "平手/半球",
         "away_water": "0.900",
         "time": "04-27 04:49"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "半球升",
+        "away_water": "0.940↑",
+        "time": "05-09 21:17"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "平手/半球",
+        "away_water": "0.830",
+        "time": "04-27 20:53"
       }
     },
     {
