@@ -24,7 +24,7 @@
       "lost": "3.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T22:00:23Z"
+    "fetched_at_utc": "2026-05-09T22:10:23Z"
   },
   "shuju": {
     "title": "AC米兰VS亚特兰大(2025/2026意甲)-数据分析-500彩票网",
@@ -645,10 +645,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "1.050",
-        "handicap": "半球",
-        "away_water": "0.800",
-        "time": "05-10 02:55"
+        "home_water": "0.800↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.050↑",
+        "time": "05-10 05:39"
       },
       "init": {
         "home_water": "1.050",
@@ -677,10 +677,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.070↑",
-        "handicap": "半球",
-        "away_water": "0.810↓",
-        "time": "05-07 15:46"
+        "home_water": "0.840↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.040↑",
+        "time": "05-10 05:36"
       },
       "init": {
         "home_water": "1.060",
@@ -706,22 +706,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "平手/半球",
-        "away_water": "1.080↓",
-        "time": "05-06 06:02"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "平手/半球",
-        "away_water": "1.160",
-        "time": "04-27 05:32"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -735,6 +719,22 @@
         "handicap": "半球",
         "away_water": "0.820",
         "time": "04-27 19:13"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "平手/半球",
+        "away_water": "1.080↓",
+        "time": "05-06 06:02"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "平手/半球",
+        "away_water": "1.160",
+        "time": "04-27 05:32"
       }
     },
     {
@@ -821,10 +821,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.790↓",
+        "home_water": "0.800↓",
         "handicap": "平手/半球降",
-        "away_water": "1.000↑",
-        "time": "05-09 21:11"
+        "away_water": "0.990↑",
+        "time": "05-10 05:40"
       },
       "init": {
         "home_water": "1.020",
@@ -837,10 +837,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "1.070↑",
-        "handicap": "半球升",
-        "away_water": "0.830↓",
-        "time": "05-10 02:52"
+        "home_water": "0.840↑",
+        "handicap": "平手/半球",
+        "away_water": "1.060↑",
+        "time": "05-10 05:43"
       },
       "init": {
         "home_water": "0.830",
