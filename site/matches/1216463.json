@@ -24,7 +24,7 @@
       "lost": "7.40",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T07:40:53Z"
+    "fetched_at_utc": "2026-05-09T07:51:00Z"
   },
   "shuju": {
     "title": "本菲卡VS布拉加(2025/2026葡超)-数据分析-500彩票网",
@@ -464,22 +464,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "一球/球半",
-        "away_water": "0.890↓",
-        "time": "05-08 09:46"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "一球/球半",
-        "away_water": "1.030",
-        "time": "05-06 14:18"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -493,6 +477,22 @@
         "handicap": "一球",
         "away_water": "1.070",
         "time": "05-04 01:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "一球/球半",
+        "away_water": "0.890↓",
+        "time": "05-08 09:46"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "一球/球半",
+        "away_water": "1.030",
+        "time": "05-06 14:18"
       }
     },
     {
