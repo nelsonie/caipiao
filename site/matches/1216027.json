@@ -8,9 +8,9 @@
     "away": "维戈塞尔塔",
     "kickoff_cst": "2026-05-10 00:30",
     "spf": {
-      "win": "3.90",
-      "draw": "3.70",
-      "lost": "1.66"
+      "win": "3.85",
+      "draw": "3.60",
+      "lost": "1.69"
     },
     "asia_main": {
       "handicap": "平手/半球降",
@@ -24,7 +24,7 @@
       "lost": "3.10",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T10:00:24Z"
+    "fetched_at_utc": "2026-05-09T10:10:25Z"
   },
   "shuju": {
     "title": "马德里竞技VS维戈塞尔塔(2025/2026西甲)-数据分析-500彩票网",
@@ -722,22 +722,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.910↑",
-        "handicap": "平手/半球降",
-        "away_water": "1.020↑",
-        "time": "05-09 15:56"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.830",
-        "time": "04-27 05:04"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -751,6 +735,22 @@
         "handicap": "半球/一球",
         "away_water": "0.830",
         "time": "04-27 22:42"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "平手/半球降",
+        "away_water": "1.020↑",
+        "time": "05-09 15:56"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.830",
+        "time": "04-27 05:04"
       }
     },
     {
