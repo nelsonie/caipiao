@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-09T15:50:59Z",
+  "last_updated_utc": "2026-05-09T16:00:52Z",
   "matches": [
     {
       "xml_id": "2039594",
@@ -110,6 +110,24 @@
       "away_team_id": "1173"
     },
     {
+      "xml_id": "2039600",
+      "matchnum": "6007",
+      "date": "2026-05-09",
+      "dayofweek": "星期六",
+      "league": "英格兰冠军联赛",
+      "home": "米德尔斯堡",
+      "away": "南安普敦",
+      "spf_win": "4.15",
+      "spf_draw": "3.70",
+      "spf_lost": "1.62",
+      "spf_updated": "2026-05-09 19:09:07",
+      "gameid": "1409628",
+      "kickoff_cst": "2026-05-09 19:30",
+      "matchnum_label": "周六007",
+      "home_team_id": "1095",
+      "away_team_id": "1128"
+    },
+    {
       "xml_id": "2039601",
       "matchnum": "6008",
       "date": "2026-05-09",
@@ -126,6 +144,60 @@
       "matchnum_label": "周六008",
       "home_team_id": "564",
       "away_team_id": "542"
+    },
+    {
+      "xml_id": "2039602",
+      "matchnum": "6009",
+      "date": "2026-05-09",
+      "dayofweek": "星期六",
+      "league": "挪威超级联赛",
+      "home": "萨尔普斯堡",
+      "away": "腓特烈斯塔",
+      "spf_win": "3.48",
+      "spf_draw": "3.70",
+      "spf_lost": "1.75",
+      "spf_updated": "2026-05-09 09:34:57",
+      "gameid": "1363875",
+      "kickoff_cst": "2026-05-09 20:00",
+      "matchnum_label": "周六009",
+      "home_team_id": "3418",
+      "away_team_id": "1362"
+    },
+    {
+      "xml_id": "2039603",
+      "matchnum": "6010",
+      "date": "2026-05-09",
+      "dayofweek": "星期六",
+      "league": "芬兰超级联赛",
+      "home": "国际图尔库",
+      "away": "雅罗",
+      "spf_win": "2.38",
+      "spf_draw": "3.15",
+      "spf_lost": "2.55",
+      "spf_updated": "2026-05-09 09:34:57",
+      "gameid": "1363318",
+      "kickoff_cst": "2026-05-09 20:00",
+      "matchnum_label": "周六010",
+      "home_team_id": "1327",
+      "away_team_id": "743"
+    },
+    {
+      "xml_id": "2039604",
+      "matchnum": "6011",
+      "date": "2026-05-09",
+      "dayofweek": "星期六",
+      "league": "意大利甲级联赛",
+      "home": "卡利亚里",
+      "away": "乌迪内斯",
+      "spf_win": "5.95",
+      "spf_draw": "3.90",
+      "spf_lost": "1.42",
+      "spf_updated": "2026-05-09 20:55:28",
+      "gameid": "1199699",
+      "kickoff_cst": "2026-05-09 21:00",
+      "matchnum_label": "周六011",
+      "home_team_id": "917",
+      "away_team_id": "1276"
     },
     {
       "xml_id": "2039605",
@@ -216,24 +288,6 @@
       "matchnum_label": "周六016",
       "home_team_id": "1195",
       "away_team_id": "986"
-    },
-    {
-      "xml_id": "2039610",
-      "matchnum": "6017",
-      "date": "2026-05-09",
-      "dayofweek": "星期六",
-      "league": "德国甲级联赛",
-      "home": "莱比锡红牛",
-      "away": "圣保利",
-      "spf_win": "2.73",
-      "spf_draw": "3.80",
-      "spf_lost": "2.00",
-      "spf_updated": "2026-05-09 20:14:13",
-      "gameid": "1206148",
-      "kickoff_cst": "2026-05-09 21:30",
-      "matchnum_label": "周六017",
-      "home_team_id": "970",
-      "away_team_id": "495"
     },
     {
       "xml_id": "2039611",
@@ -776,24 +830,6 @@
       "away_team_id": "1275"
     },
     {
-      "xml_id": "2039641",
-      "matchnum": "7018",
-      "date": "2026-05-10",
-      "dayofweek": "星期天",
-      "league": "荷兰甲级联赛",
-      "home": "格罗宁根",
-      "away": "奈梅亨",
-      "spf_win": "1.56",
-      "spf_draw": "4.15",
-      "spf_lost": "4.05",
-      "spf_updated": "2026-05-08 09:42:26",
-      "gameid": "1202921",
-      "kickoff_cst": "2026-05-10 22:45",
-      "matchnum_label": "周日018",
-      "home_team_id": "834",
-      "away_team_id": "353"
-    },
-    {
       "xml_id": "2039642",
       "matchnum": "7019",
       "date": "2026-05-10",
@@ -1010,6 +1046,24 @@
       "away_team_id": "821"
     },
     {
+      "xml_id": "2039654",
+      "matchnum": "1001",
+      "date": "2026-05-12",
+      "dayofweek": "星期二",
+      "league": "沙特职业联赛",
+      "home": "新未来SC",
+      "away": "利雅得青年",
+      "spf_win": "3.90",
+      "spf_draw": "3.75",
+      "spf_lost": "1.65",
+      "spf_updated": "2026-05-09 09:34:57",
+      "gameid": "1234937",
+      "kickoff_cst": "2026-05-12 00:50",
+      "matchnum_label": "周一001",
+      "home_team_id": "15541",
+      "away_team_id": "2320"
+    },
+    {
       "xml_id": "2039655",
       "matchnum": "1002",
       "date": "2026-05-12",
@@ -1026,6 +1080,24 @@
       "matchnum_label": "周一002",
       "home_team_id": "4067",
       "away_team_id": "606"
+    },
+    {
+      "xml_id": "2039656",
+      "matchnum": "1003",
+      "date": "2026-05-12",
+      "dayofweek": "星期二",
+      "league": "沙特职业联赛",
+      "home": "布赖代合作",
+      "away": "吉达国民",
+      "spf_win": "1.89",
+      "spf_draw": "3.60",
+      "spf_lost": "3.10",
+      "spf_updated": "2026-05-09 09:34:57",
+      "gameid": "1234960",
+      "kickoff_cst": "2026-05-12 02:00",
+      "matchnum_label": "周一003",
+      "home_team_id": "6759",
+      "away_team_id": "2311"
     },
     {
       "xml_id": "2039660",
@@ -1080,6 +1152,24 @@
       "matchnum_label": "周一009",
       "home_team_id": "551",
       "away_team_id": "261"
+    },
+    {
+      "xml_id": "2039663",
+      "matchnum": "1010",
+      "date": "2026-05-12",
+      "dayofweek": "星期二",
+      "league": "葡萄牙超级联赛",
+      "home": "本菲卡",
+      "away": "布拉加",
+      "spf_win": "1.95",
+      "spf_draw": "3.65",
+      "spf_lost": "2.92",
+      "spf_updated": "2026-05-09 09:34:57",
+      "gameid": "1216463",
+      "kickoff_cst": "2026-05-12 03:15",
+      "matchnum_label": "周一010",
+      "home_team_id": "678",
+      "away_team_id": "719"
     }
   ]
 }
