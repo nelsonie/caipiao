@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-09T07:30:56Z",
+  "last_updated_utc": "2026-05-09T07:40:55Z",
   "matches": [
     {
       "xml_id": "2039594",
@@ -596,42 +596,6 @@
       "away_team_id": "2272"
     },
     {
-      "xml_id": "2039627",
-      "matchnum": "7004",
-      "date": "2026-05-10",
-      "dayofweek": "星期天",
-      "league": "日本职业联赛",
-      "home": "千叶市原",
-      "away": "町田泽维亚",
-      "spf_win": "2.05",
-      "spf_draw": "3.35",
-      "spf_lost": "2.92",
-      "spf_updated": "2026-05-08 09:42:26",
-      "gameid": "1366418",
-      "kickoff_cst": "2026-05-10 16:00",
-      "matchnum_label": "周日004",
-      "home_team_id": "842",
-      "away_team_id": "6384"
-    },
-    {
-      "xml_id": "2039628",
-      "matchnum": "7005",
-      "date": "2026-05-10",
-      "dayofweek": "星期天",
-      "league": "意大利甲级联赛",
-      "home": "维罗纳",
-      "away": "科莫",
-      "spf_win": "3.02",
-      "spf_draw": "3.40",
-      "spf_lost": "1.99",
-      "spf_updated": "2026-05-08 09:42:26",
-      "gameid": "1199707",
-      "kickoff_cst": "2026-05-10 18:30",
-      "matchnum_label": "周日005",
-      "home_team_id": "1261",
-      "away_team_id": "935"
-    },
-    {
       "xml_id": "2039629",
       "matchnum": "7006",
       "date": "2026-05-10",
@@ -864,24 +828,6 @@
       "matchnum_label": "周日018",
       "home_team_id": "834",
       "away_team_id": "353"
-    },
-    {
-      "xml_id": "2039642",
-      "matchnum": "7019",
-      "date": "2026-05-10",
-      "dayofweek": "星期天",
-      "league": "英格兰超级联赛",
-      "home": "西汉姆联",
-      "away": "阿森纳",
-      "spf_win": "2.40",
-      "spf_draw": "3.40",
-      "spf_lost": "2.40",
-      "spf_updated": "2026-05-08 09:42:26",
-      "gameid": "1202628",
-      "kickoff_cst": "2026-05-10 23:30",
-      "matchnum_label": "周日019",
-      "home_team_id": "1286",
-      "away_team_id": "554"
     },
     {
       "xml_id": "2039643",
@@ -1170,24 +1116,6 @@
       "matchnum_label": "周一005",
       "home_team_id": "1238",
       "away_team_id": "1015"
-    },
-    {
-      "xml_id": "2039660",
-      "matchnum": "1007",
-      "date": "2026-05-12",
-      "dayofweek": "星期二",
-      "league": "西班牙甲级联赛",
-      "home": "巴列卡诺",
-      "away": "赫罗纳",
-      "spf_win": "4.82",
-      "spf_draw": "3.85",
-      "spf_lost": "1.51",
-      "spf_updated": "2026-05-09 09:34:57",
-      "gameid": "1215807",
-      "kickoff_cst": "2026-05-12 03:00",
-      "matchnum_label": "周一007",
-      "home_team_id": "650",
-      "away_team_id": "2074"
     },
     {
       "xml_id": "2039661",
