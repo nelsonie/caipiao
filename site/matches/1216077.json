@@ -24,14 +24,14 @@
       "lost": "2.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T21:10:21Z"
+    "fetched_at_utc": "2026-05-09T21:20:24Z"
   },
   "shuju": {
     "title": "皇家奥维耶多VS赫塔费(2025/2026西甲)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，皇家奥维耶多 1胜 2平 3负 ，进8球，失11球，大球3次，小球3次",
     "team_ranks": [
       "皇家奥维耶多 [西甲20]",
-      "赫塔菲 [西甲7]"
+      "赫塔菲 [西甲8]"
     ],
     "h2h_rows": [
       {
@@ -717,22 +717,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.060↑",
-        "handicap": "平手",
-        "away_water": "0.820↓",
-        "time": "05-10 03:03"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "平手",
-        "away_water": "0.990",
-        "time": "04-27 17:54"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -746,6 +730,22 @@
         "handicap": "平手",
         "away_water": "1.120",
         "time": "04-27 05:04"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.060↑",
+        "handicap": "平手",
+        "away_water": "0.820↓",
+        "time": "05-10 03:03"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "平手",
+        "away_water": "0.990",
+        "time": "04-27 17:54"
       }
     },
     {
