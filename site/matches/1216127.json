@@ -24,7 +24,7 @@
       "lost": "2.90",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T12:20:11Z"
+    "fetched_at_utc": "2026-05-09T12:30:12Z"
   },
   "shuju": {
     "title": "埃尔切VS阿拉维斯(2025/2026西甲)-数据分析-500彩票网",
@@ -722,22 +722,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↓",
-        "handicap": "平手/半球",
-        "away_water": "0.920↑",
-        "time": "05-09 20:01"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "平手/半球",
-        "away_water": "0.900",
-        "time": "04-27 18:52"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -751,6 +735,22 @@
         "handicap": "平手/半球",
         "away_water": "0.990",
         "time": "04-27 05:06"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↓",
+        "handicap": "平手/半球",
+        "away_water": "0.920↑",
+        "time": "05-09 20:01"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "平手/半球",
+        "away_water": "0.900",
+        "time": "04-27 18:52"
       }
     },
     {
