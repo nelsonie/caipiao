@@ -24,14 +24,14 @@
       "lost": "4.42",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T17:30:20Z"
+    "fetched_at_utc": "2026-05-09T17:40:20Z"
   },
   "shuju": {
     "title": "毕尔巴鄂竞技VS巴伦西亚(2025/2026西甲)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，毕尔巴鄂 3胜 1平 2负 ，进6球，失6球，大球2次，小球4次",
     "team_ranks": [
       "毕尔巴鄂 [西甲8]",
-      "瓦伦西亚 [西甲13]"
+      "瓦伦西亚 [西甲14]"
     ],
     "h2h_rows": [
       {
@@ -664,7 +664,7 @@
         "home_water": "0.900↑",
         "handicap": "半球/一球升",
         "away_water": "0.950↓",
-        "time": "05-10 01:19"
+        "time": "05-10 01:35"
       },
       "init": {
         "home_water": "0.830",
@@ -722,22 +722,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.940↓",
-        "time": "05-08 23:34"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "半球",
-        "away_water": "1.060",
-        "time": "04-27 18:42"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -751,6 +735,22 @@
         "handicap": "半球/一球",
         "away_water": "0.750",
         "time": "04-27 05:04"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.940↓",
+        "time": "05-08 23:34"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "半球",
+        "away_water": "1.060",
+        "time": "04-27 18:42"
       }
     },
     {
