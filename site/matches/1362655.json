@@ -24,7 +24,7 @@
       "lost": "1.92",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T15:10:15Z"
+    "fetched_at_utc": "2026-05-09T15:20:13Z"
   },
   "shuju": {
     "title": "代格福什VS米亚尔比(2026瑞典超)-数据分析-500彩票网",
@@ -398,23 +398,23 @@
         "formation": null,
         "starters": [
           {
+            "number": "20",
+            "name": "埃利亚斯·巴苏姆",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "马库斯·拉弗蒂",
+            "position": "前锋"
+          },
+          {
             "number": "14",
             "name": "费特森",
             "position": "前锋"
           },
           {
-            "number": "20",
-            "name": "埃利亚斯·巴苏姆",
-            "position": "中场"
-          },
-          {
-            "number": "10",
-            "name": "马库斯·拉弗蒂",
-            "position": "中场"
-          },
-          {
-            "number": "13",
-            "name": "吉迪恩·亚乌·伊里永",
+            "number": "4",
+            "name": "卡兹珀·卡尔松",
             "position": "中场"
           },
           {
@@ -423,8 +423,8 @@
             "position": "中场"
           },
           {
-            "number": "4",
-            "name": "卡兹珀·卡尔松",
+            "number": "13",
+            "name": "吉迪恩·亚乌·伊里永",
             "position": "中场"
           },
           {
@@ -490,14 +490,14 @@
             "position": "守门员"
           },
           {
-            "number": "28",
-            "name": "赫苏斯·埃尔南德斯",
-            "position": "后卫"
-          },
-          {
             "number": "21",
             "name": "亚历山大·贝里松",
             "position": "前锋"
+          },
+          {
+            "number": "28",
+            "name": "赫苏斯·埃尔南德斯",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -564,11 +564,6 @@
         ],
         "subs": [
           {
-            "number": "27",
-            "name": "路德维格·泰斯特兰德",
-            "position": "中场"
-          },
-          {
             "number": "23",
             "name": "阿基·萨穆埃尔森",
             "position": "前锋"
@@ -602,6 +597,11 @@
             "number": "11",
             "name": "蒂莫·斯塔维奇",
             "position": "前锋"
+          },
+          {
+            "number": "27",
+            "name": "路德维格·泰斯特兰德",
+            "position": "中场"
           },
           {
             "number": "2",

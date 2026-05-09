@@ -24,7 +24,7 @@
       "lost": "2.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T15:10:17Z"
+    "fetched_at_utc": "2026-05-09T15:20:16Z"
   },
   "shuju": {
     "title": "斯图加特VS勒沃库森(2025/2026德甲)-数据分析-500彩票网",
@@ -344,23 +344,23 @@
         "formation": null,
         "starters": [
           {
+            "number": "26",
+            "name": "德尼兹·昂达夫",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "埃梅丁·德米洛维奇",
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "克里斯·弗赖奇",
-            "position": "中场"
-          },
-          {
-            "number": "26",
-            "name": "德尼兹·昂达夫",
-            "position": "中场"
-          },
-          {
             "number": "28",
             "name": "尼古拉斯·纳尔泰",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "克里斯·弗赖奇",
             "position": "中场"
           },
           {
@@ -371,6 +371,11 @@
           {
             "number": "30",
             "name": "切玛·安德烈斯",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "杰米·勒威林",
             "position": "中场"
           },
           {
@@ -389,11 +394,6 @@
             "position": "后卫"
           },
           {
-            "number": "18",
-            "name": "杰米·勒威林",
-            "position": "后卫"
-          },
-          {
             "number": "33",
             "name": "亚历山大·努贝尔",
             "position": "守门员"
@@ -406,8 +406,8 @@
             "position": "后卫"
           },
           {
-            "number": "27",
-            "name": "巴德雷丁·布瓦纳尼",
+            "number": "8",
+            "name": "蒂亚戈·巴雷罗斯·德梅洛·托马斯",
             "position": "前锋"
           },
           {
@@ -441,8 +441,8 @@
             "position": "后卫"
           },
           {
-            "number": "8",
-            "name": "蒂亚戈·巴雷罗斯·德梅洛·托马斯",
+            "number": "27",
+            "name": "巴德雷丁·布瓦纳尼",
             "position": "前锋"
           }
         ],
