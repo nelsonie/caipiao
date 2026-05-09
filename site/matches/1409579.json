@@ -24,7 +24,7 @@
       "lost": "3.32",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T06:20:07Z"
+    "fetched_at_utc": "2026-05-09T06:30:07Z"
   },
   "shuju": {
     "title": "奥克兰FCVS阿德莱德联(2025/2026澳超)-数据分析-500彩票网",
@@ -415,18 +415,23 @@
         "formation": null,
         "starters": [
           {
+            "number": "12",
+            "name": "乔尼·尤尔",
+            "position": "前锋"
+          },
+          {
             "number": "87",
             "name": "安塞尔莫·德·莫赖斯",
             "position": "前锋"
           },
           {
-            "number": "12",
-            "name": "乔尼·尤尔",
-            "position": "中场"
+            "number": "58",
+            "name": "哈里·克劳福德",
+            "position": "前锋"
           },
           {
-            "number": "44",
-            "name": "赖安·怀特",
+            "number": "55",
+            "name": "伊桑·阿拉吉奇",
             "position": "中场"
           },
           {
@@ -435,18 +440,13 @@
             "position": "中场"
           },
           {
+            "number": "44",
+            "name": "赖安·怀特",
+            "position": "中场"
+          },
+          {
             "number": "19",
             "name": "亚亚·杜库利",
-            "position": "中场"
-          },
-          {
-            "number": "55",
-            "name": "伊桑·阿拉吉奇",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "杰伊·巴内特",
             "position": "后卫"
           },
           {
@@ -460,8 +460,8 @@
             "position": "后卫"
           },
           {
-            "number": "58",
-            "name": "哈里·克劳福德",
+            "number": "14",
+            "name": "杰伊·巴内特",
             "position": "后卫"
           },
           {
