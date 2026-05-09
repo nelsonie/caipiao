@@ -24,7 +24,7 @@
       "lost": "8.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-09T03:20:46Z"
+    "fetched_at_utc": "2026-05-09T03:30:47Z"
   },
   "shuju": {
     "title": "天狼星VS奥尔格里特(2026瑞典超)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890↓",
-        "handicap": "球半/两球",
-        "away_water": "0.900↑",
-        "time": "05-06 13:03"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "球半/两球",
-        "away_water": "0.890",
-        "time": "05-06 08:24"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "球半/两球",
         "away_water": "0.800",
         "time": "05-04 19:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.890↓",
+        "handicap": "球半/两球",
+        "away_water": "0.900↑",
+        "time": "05-06 13:03"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "球半/两球",
+        "away_water": "0.890",
+        "time": "05-06 08:24"
       }
     },
     {
