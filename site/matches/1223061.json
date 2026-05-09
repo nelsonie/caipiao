@@ -24,7 +24,7 @@
       "lost": "1.84",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T11:20:13Z"
+    "fetched_at_utc": "2026-05-09T11:30:10Z"
   },
   "shuju": {
     "title": "波鸿VS汉诺威96(2025/2026德乙)-数据分析-500彩票网",
@@ -368,13 +368,8 @@
             "position": "中场"
           },
           {
-            "number": "39",
-            "name": "莱安德罗·莫加拉",
-            "position": "后卫"
-          },
-          {
-            "number": "4",
-            "name": "埃尔汗·马索维奇",
+            "number": "13",
+            "name": "奥利弗·奥尔森",
             "position": "后卫"
           },
           {
@@ -383,8 +378,13 @@
             "position": "后卫"
           },
           {
-            "number": "13",
-            "name": "奥利弗·奥尔森",
+            "number": "4",
+            "name": "埃尔汗·马索维奇",
+            "position": "后卫"
+          },
+          {
+            "number": "39",
+            "name": "莱安德罗·莫加拉",
             "position": "后卫"
           },
           {
@@ -504,14 +504,9 @@
         ],
         "subs": [
           {
-            "number": "20",
-            "name": "伊梅·奥康",
-            "position": "后卫"
-          },
-          {
-            "number": "19",
-            "name": "威廉姆斯·科科洛",
-            "position": "后卫"
+            "number": "29",
+            "name": "科尔贾·欧登",
+            "position": "中场"
           },
           {
             "number": "5",
@@ -519,13 +514,8 @@
             "position": "后卫"
           },
           {
-            "number": "30",
-            "name": "莱奥·魏因考夫",
-            "position": "守门员"
-          },
-          {
-            "number": "26",
-            "name": "瓦尼斯·泰比",
+            "number": "13",
+            "name": "弗朗兹·洛格",
             "position": "中场"
           },
           {
@@ -534,9 +524,19 @@
             "position": "前锋"
           },
           {
-            "number": "13",
-            "name": "弗朗兹·洛格",
+            "number": "26",
+            "name": "瓦尼斯·泰比",
             "position": "中场"
+          },
+          {
+            "number": "30",
+            "name": "莱奥·魏因考夫",
+            "position": "守门员"
+          },
+          {
+            "number": "19",
+            "name": "威廉姆斯·科科洛",
+            "position": "后卫"
           },
           {
             "number": "27",
@@ -544,9 +544,9 @@
             "position": "后卫"
           },
           {
-            "number": "29",
-            "name": "科尔贾·欧登",
-            "position": "中场"
+            "number": "20",
+            "name": "伊梅·奥康",
+            "position": "后卫"
           }
         ],
         "injured": [],
