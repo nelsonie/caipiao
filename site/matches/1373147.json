@@ -24,7 +24,7 @@
       "lost": "4.90",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T19:10:07Z"
+    "fetched_at_utc": "2026-05-09T19:20:08Z"
   },
   "shuju": {
     "title": "蔚山现代VS富川FC(2026K1联赛)-数据分析-500彩票网",
@@ -626,7 +626,7 @@
         "home_water": "0.880↓",
         "handicap": "半球/一球",
         "away_water": "0.930↑",
-        "time": "05-10 02:33"
+        "time": "05-10 03:13"
       },
       "init": {
         "home_water": "0.900",
@@ -684,22 +684,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "半球/一球",
-        "away_water": "0.830↑",
-        "time": "05-09 15:26"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.770",
-        "time": "05-05 16:51"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -713,6 +697,22 @@
         "handicap": "半球/一球",
         "away_water": "0.890",
         "time": "05-06 13:38"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "半球/一球",
+        "away_water": "0.830↑",
+        "time": "05-09 15:26"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.770",
+        "time": "05-05 16:51"
       }
     },
     {
