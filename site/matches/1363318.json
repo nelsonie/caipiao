@@ -24,7 +24,7 @@
       "lost": "6.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-09T12:40:13Z"
+    "fetched_at_utc": "2026-05-09T12:50:14Z"
   },
   "shuju": {
     "title": "国际图尔库VS查路(2026芬超)-数据分析-500彩票网",
@@ -413,8 +413,8 @@
             "position": "前锋"
           },
           {
-            "number": "8",
-            "name": "约翰内斯·伊利科科",
+            "number": "35",
+            "name": "埃利·基斯基拉",
             "position": "中场"
           },
           {
@@ -423,8 +423,8 @@
             "position": "中场"
           },
           {
-            "number": "35",
-            "name": "埃利·基斯基拉",
+            "number": "8",
+            "name": "约翰内斯·伊利科科",
             "position": "中场"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↑",
-        "handicap": "一球",
-        "away_water": "0.960↓",
-        "time": "05-09 19:59"
-      },
-      "init": {
-        "home_water": "0.790",
-        "handicap": "一球",
-        "away_water": "1.030",
-        "time": "05-06 20:11"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "球半",
         "away_water": "0.720",
         "time": "05-04 19:24"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↑",
+        "handicap": "一球",
+        "away_water": "0.960↓",
+        "time": "05-09 19:59"
+      },
+      "init": {
+        "home_water": "0.790",
+        "handicap": "一球",
+        "away_water": "1.030",
+        "time": "05-06 20:11"
       }
     },
     {
