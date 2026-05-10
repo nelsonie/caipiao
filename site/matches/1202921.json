@@ -24,7 +24,7 @@
       "lost": "2.09",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T15:10:22Z"
+    "fetched_at_utc": "2026-05-10T15:20:19Z"
   },
   "shuju": {
     "title": "格罗宁根VS奈梅亨(2025/2026荷甲)-数据分析-500彩票网",
@@ -348,13 +348,13 @@
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "尤努斯·塔哈·伊德里斯",
+            "number": "17",
+            "name": "大卫·范德沃夫",
             "position": "中场"
           },
           {
-            "number": "17",
-            "name": "大卫·范德沃夫",
+            "number": "10",
+            "name": "尤努斯·塔哈·伊德里斯",
             "position": "中场"
           },
           {
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.070↑",
-        "handicap": "平手升",
-        "away_water": "0.800↓",
-        "time": "05-10 22:44"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "受平手/半球",
-        "away_water": "1.000",
-        "time": "05-05 08:47"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.950",
         "time": "05-03 23:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.070↑",
+        "handicap": "平手升",
+        "away_water": "0.800↓",
+        "time": "05-10 22:44"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "受平手/半球",
+        "away_water": "1.000",
+        "time": "05-05 08:47"
       }
     },
     {
