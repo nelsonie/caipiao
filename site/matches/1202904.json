@@ -24,7 +24,7 @@
       "lost": "4.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T06:50:17Z"
+    "fetched_at_utc": "2026-05-10T07:00:20Z"
   },
   "shuju": {
     "title": "阿贾克斯VS乌德勒支(2025/2026荷甲)-数据分析-500彩票网",
@@ -688,22 +688,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "一球升",
-        "away_water": "0.840↓",
-        "time": "05-10 14:03"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "半球/一球",
-        "away_water": "1.060",
-        "time": "05-05 08:47"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -717,6 +701,22 @@
         "handicap": "一球",
         "away_water": "0.700",
         "time": "05-03 23:24"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "一球升",
+        "away_water": "0.840↓",
+        "time": "05-10 14:03"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "半球/一球",
+        "away_water": "1.060",
+        "time": "05-05 08:47"
       }
     },
     {
