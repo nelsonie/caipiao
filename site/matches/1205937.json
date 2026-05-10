@@ -24,7 +24,7 @@
       "lost": "2.31",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T14:00:19Z"
+    "fetched_at_utc": "2026-05-10T14:10:19Z"
   },
   "shuju": {
     "title": "汉堡VS弗赖堡(2025/2026德甲)-数据分析-500彩票网",
@@ -477,8 +477,8 @@
             "position": "中场"
           },
           {
-            "number": "17",
-            "name": "卢卡斯·库伯勒",
+            "number": "29",
+            "name": "菲利普·特雷",
             "position": "后卫"
           },
           {
@@ -492,8 +492,8 @@
             "position": "后卫"
           },
           {
-            "number": "29",
-            "name": "菲利普·特雷",
+            "number": "17",
+            "name": "卢卡斯·库伯勒",
             "position": "后卫"
           },
           {
@@ -668,22 +668,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.960↑",
-        "time": "05-10 21:28"
-      },
-      "init": {
-        "home_water": "1.100",
-        "handicap": "平手",
-        "away_water": "0.850",
-        "time": "04-27 04:51"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -697,6 +681,22 @@
         "handicap": "平手",
         "away_water": "0.790",
         "time": "04-27 21:30"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.960↑",
+        "time": "05-10 21:28"
+      },
+      "init": {
+        "home_water": "1.100",
+        "handicap": "平手",
+        "away_water": "0.850",
+        "time": "04-27 04:51"
       }
     },
     {
