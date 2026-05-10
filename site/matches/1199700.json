@@ -24,7 +24,7 @@
       "lost": "4.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T13:20:15Z"
+    "fetched_at_utc": "2026-05-10T13:30:15Z"
   },
   "shuju": {
     "title": "克雷莫纳VS比萨(2025/2026意甲)-数据分析-500彩票网",
@@ -365,13 +365,13 @@
             "position": "中场"
           },
           {
-            "number": "33",
-            "name": "阿尔贝托·格拉西",
+            "number": "29",
+            "name": "优素福·马勒",
             "position": "中场"
           },
           {
-            "number": "29",
-            "name": "优素福·马勒",
+            "number": "33",
+            "name": "阿尔贝托·格拉西",
             "position": "中场"
           },
           {
@@ -474,18 +474,23 @@
         "formation": null,
         "starters": [
           {
-            "number": "32",
-            "name": "斯特法诺·莫雷诺",
-            "position": "前锋"
-          },
-          {
             "number": "81",
             "name": "菲利普·斯托季尔科维奇",
             "position": "前锋"
           },
           {
+            "number": "32",
+            "name": "斯特法诺·莫雷诺",
+            "position": "前锋"
+          },
+          {
             "number": "7",
             "name": "迈赫迪·莱里斯",
+            "position": "中场"
+          },
+          {
+            "number": "21",
+            "name": "伊萨克·武拉尔",
             "position": "中场"
           },
           {
@@ -496,11 +501,6 @@
           {
             "number": "14",
             "name": "埃比尼泽·阿金桑米罗",
-            "position": "中场"
-          },
-          {
-            "number": "21",
-            "name": "伊萨克·武拉尔",
             "position": "中场"
           },
           {
@@ -541,38 +541,23 @@
             "position": "中场"
           },
           {
-            "number": "33",
-            "name": "阿图罗·卡拉布雷西",
+            "number": "39",
+            "name": "劳尔·阿尔比奥尔",
             "position": "后卫"
           },
           {
-            "number": "3",
-            "name": "塞缪尔·安戈里",
-            "position": "后卫"
-          },
-          {
-            "number": "9",
-            "name": "亨利克·温德尔·迈斯特",
-            "position": "前锋"
-          },
-          {
-            "number": "22",
-            "name": "西蒙尼·斯库菲特",
+            "number": "12",
+            "name": "尼古拉斯",
             "position": "守门员"
           },
           {
-            "number": "36",
-            "name": "加布里埃尔·皮奇尼尼",
+            "number": "11",
+            "name": "胡安·吉列尔莫·夸德拉多",
             "position": "中场"
           },
           {
-            "number": "99",
-            "name": "洛兰·卢卡斯",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "马吕斯·马林",
+            "number": "8",
+            "name": "马尔斯·霍霍尔特",
             "position": "中场"
           },
           {
@@ -581,23 +566,38 @@
             "position": "前锋"
           },
           {
-            "number": "8",
-            "name": "马尔斯·霍霍尔特",
+            "number": "6",
+            "name": "马吕斯·马林",
             "position": "中场"
           },
           {
-            "number": "11",
-            "name": "胡安·吉列尔莫·夸德拉多",
+            "number": "99",
+            "name": "洛兰·卢卡斯",
             "position": "中场"
           },
           {
-            "number": "12",
-            "name": "尼古拉斯",
+            "number": "36",
+            "name": "加布里埃尔·皮奇尼尼",
+            "position": "中场"
+          },
+          {
+            "number": "33",
+            "name": "阿图罗·卡拉布雷西",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "西蒙尼·斯库菲特",
             "position": "守门员"
           },
           {
-            "number": "39",
-            "name": "劳尔·阿尔比奥尔",
+            "number": "9",
+            "name": "亨利克·温德尔·迈斯特",
+            "position": "前锋"
+          },
+          {
+            "number": "3",
+            "name": "塞缪尔·安戈里",
             "position": "后卫"
           }
         ],
