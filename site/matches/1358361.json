@@ -24,7 +24,7 @@
       "lost": "2.59",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T06:30:29Z"
+    "fetched_at_utc": "2026-05-10T06:40:30Z"
   },
   "shuju": {
     "title": "纽约城VS哥伦布机员(2026美职联)-数据分析-500彩票网",
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "平手降",
-        "away_water": "0.950↓",
-        "time": "05-10 13:47"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "平手/半球",
-        "away_water": "0.960",
-        "time": "05-04 01:38"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "平手/半球",
         "away_water": "0.810",
         "time": "05-04 04:04"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "平手降",
+        "away_water": "0.950↓",
+        "time": "05-10 13:47"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "平手/半球",
+        "away_water": "0.960",
+        "time": "05-04 01:38"
       }
     },
     {
