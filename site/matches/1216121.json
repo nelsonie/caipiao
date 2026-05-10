@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "一球升",
-      "home_water": "0.850↓",
-      "away_water": "0.780↑",
+      "home_water": "0.870↓",
+      "away_water": "0.760↑",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "3.96",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T12:00:26Z"
+    "fetched_at_utc": "2026-05-10T12:10:26Z"
   },
   "shuju": {
     "title": "巴塞罗那VS皇家马德里(2025/2026西甲)-数据分析-500彩票网",
@@ -603,10 +603,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.870↓",
         "handicap": "一球升",
-        "away_water": "0.780↑",
-        "time": "05-10 18:11"
+        "away_water": "0.760↑",
+        "time": "05-10 19:26"
       },
       "init": {
         "home_water": "0.900",
@@ -651,10 +651,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "1.020↓",
+        "home_water": "0.980↓",
         "handicap": "一球升",
-        "away_water": "0.820↓",
-        "time": "05-10 19:09"
+        "away_water": "0.880↑",
+        "time": "05-10 20:04"
       },
       "init": {
         "home_water": "1.030",
@@ -667,10 +667,10 @@
       "cid": "4",
       "company": "I***rw**t*n",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.970↑",
         "handicap": "一球升",
         "away_water": "0.750↓",
-        "time": "05-10 18:44"
+        "time": "05-10 19:26"
       },
       "init": {
         "home_water": "0.800",
@@ -683,10 +683,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.000↓",
+        "home_water": "1.010↓",
         "handicap": "一球升",
-        "away_water": "0.880↑",
-        "time": "05-10 18:02"
+        "away_water": "0.870↑",
+        "time": "05-10 19:42"
       },
       "init": {
         "home_water": "1.020",
@@ -712,29 +712,13 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↓",
-        "handicap": "一球升",
-        "away_water": "0.890↑",
-        "time": "05-10 18:19"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "半球/一球",
-        "away_water": "0.840",
-        "time": "04-27 18:27"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
-        "home_water": "0.950↓",
+        "home_water": "0.970↓",
         "handicap": "一球升",
-        "away_water": "0.880↑",
-        "time": "05-10 18:09"
+        "away_water": "0.860↑",
+        "time": "05-10 19:49"
       },
       "init": {
         "home_water": "0.990",
@@ -744,13 +728,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↓",
+        "handicap": "一球升",
+        "away_water": "0.870↑",
+        "time": "05-10 19:49"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "半球/一球",
+        "away_water": "0.840",
+        "time": "04-27 18:27"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.020↑",
         "handicap": "一球升",
         "away_water": "0.910↓",
-        "time": "05-10 19:11"
+        "time": "05-10 19:41"
       },
       "init": {
         "home_water": "0.880",
@@ -763,10 +763,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "1.020↓",
+        "home_water": "1.030↓",
         "handicap": "一球升",
-        "away_water": "0.910↑",
-        "time": "05-10 19:09"
+        "away_water": "0.900↑",
+        "time": "05-10 19:20"
       },
       "init": {
         "home_water": "1.070",
@@ -779,10 +779,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "1.030↑",
         "handicap": "一球升",
-        "away_water": "0.910↓",
-        "time": "05-10 18:59"
+        "away_water": "0.900↓",
+        "time": "05-10 19:42"
       },
       "init": {
         "home_water": "0.860",
@@ -814,7 +814,7 @@
         "home_water": "1.030↑",
         "handicap": "一球升",
         "away_water": "0.900↓",
-        "time": "05-10 19:11"
+        "time": "05-10 19:41"
       },
       "init": {
         "home_water": "0.860",
@@ -827,10 +827,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.970↑",
         "handicap": "一球升",
         "away_water": "0.840↓",
-        "time": "05-10 19:07"
+        "time": "05-10 20:02"
       },
       "init": {
         "home_water": "0.820",
@@ -843,10 +843,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "1.010↓",
+        "home_water": "1.020↓",
         "handicap": "一球升",
-        "away_water": "0.910↑",
-        "time": "05-10 19:02"
+        "away_water": "0.900↑",
+        "time": "05-10 19:44"
       },
       "init": {
         "home_water": "1.040",
