@@ -24,7 +24,7 @@
       "lost": "4.42",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T14:30:21Z"
+    "fetched_at_utc": "2026-05-10T14:40:16Z"
   },
   "shuju": {
     "title": "毕尔巴鄂竞技VS巴伦西亚(2025/2026西甲)-数据分析-500彩票网",
@@ -496,8 +496,8 @@
             "position": "中场"
           },
           {
-            "number": "16",
-            "name": "迭戈·洛佩斯",
+            "number": "11",
+            "name": "路易斯·里奥哈",
             "position": "中场"
           },
           {
@@ -511,8 +511,8 @@
             "position": "中场"
           },
           {
-            "number": "11",
-            "name": "路易斯·里奥哈",
+            "number": "16",
+            "name": "迭戈·洛佩斯",
             "position": "中场"
           },
           {
@@ -521,13 +521,13 @@
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "塞萨尔·塔雷加",
+            "number": "24",
+            "name": "埃雷·科默特",
             "position": "后卫"
           },
           {
-            "number": "24",
-            "name": "埃雷·科默特",
+            "number": "5",
+            "name": "塞萨尔·塔雷加",
             "position": "后卫"
           },
           {
@@ -583,13 +583,13 @@
             "position": "守门员"
           },
           {
-            "number": "21",
-            "name": "赫苏斯·巴斯克斯",
+            "number": "26",
+            "name": "鲁本·伊兰佐",
             "position": "后卫"
           },
           {
-            "number": "26",
-            "name": "鲁本·伊兰佐",
+            "number": "21",
+            "name": "赫苏斯·巴斯克斯",
             "position": "后卫"
           },
           {
@@ -722,22 +722,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "半球/一球",
-        "away_water": "0.990↑",
-        "time": "05-10 22:17"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "半球/一球",
-        "away_water": "0.750",
-        "time": "04-27 05:04"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -751,6 +735,22 @@
         "handicap": "半球",
         "away_water": "1.060",
         "time": "04-27 18:42"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "半球/一球",
+        "away_water": "0.990↑",
+        "time": "05-10 22:17"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "半球/一球",
+        "away_water": "0.750",
+        "time": "04-27 05:04"
       }
     },
     {
