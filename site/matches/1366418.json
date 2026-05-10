@@ -24,7 +24,7 @@
       "lost": "1.59",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T08:20:08Z"
+    "fetched_at_utc": "2026-05-10T08:30:09Z"
   },
   "shuju": {
     "title": "千叶市原VS町田泽维亚(2026日职)-数据分析-500彩票网",
@@ -500,8 +500,8 @@
             "position": "中场"
           },
           {
-            "number": "3",
-            "name": "昌子源",
+            "number": "5",
+            "name": "易卜拉欣·德雷舍维奇",
             "position": "后卫"
           },
           {
@@ -510,8 +510,8 @@
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "易卜拉欣·德雷舍维奇",
+            "number": "3",
+            "name": "昌子源",
             "position": "后卫"
           },
           {
@@ -686,22 +686,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.700↓",
-        "handicap": "受半球/一球",
-        "away_water": "1.170↑",
-        "time": "05-10 16:01"
-      },
-      "init": {
-        "home_water": "0.710",
-        "handicap": "受半球/一球",
-        "away_water": "0.940",
-        "time": "05-08 04:09"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -715,6 +699,22 @@
         "handicap": "受半球/一球",
         "away_water": "1.060",
         "time": "05-08 04:16"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.700↓",
+        "handicap": "受半球/一球",
+        "away_water": "1.170↑",
+        "time": "05-10 16:01"
+      },
+      "init": {
+        "home_water": "0.710",
+        "handicap": "受半球/一球",
+        "away_water": "0.940",
+        "time": "05-08 04:09"
       }
     },
     {
