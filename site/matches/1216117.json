@@ -24,7 +24,7 @@
       "lost": "2.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T08:50:11Z"
+    "fetched_at_utc": "2026-05-10T09:00:11Z"
   },
   "shuju": {
     "title": "马洛卡VS比利亚雷亚尔(2025/2026西甲)-数据分析-500彩票网",
@@ -663,8 +663,8 @@
       "live": {
         "home_water": "1.100↑",
         "handicap": "平手/半球升",
-        "away_water": "0.780↓",
-        "time": "05-10 16:25"
+        "away_water": "0.770↓",
+        "time": "05-10 16:47"
       },
       "init": {
         "home_water": "0.880",
@@ -722,22 +722,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.810↓",
-        "handicap": "平手",
-        "away_water": "1.070↑",
-        "time": "05-10 16:15"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "平手",
-        "away_water": "1.010",
-        "time": "04-27 22:42"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -751,6 +735,22 @@
         "handicap": "平手",
         "away_water": "0.830",
         "time": "04-27 05:04"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↓",
+        "handicap": "平手",
+        "away_water": "1.070↑",
+        "time": "05-10 16:15"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "平手",
+        "away_water": "1.010",
+        "time": "04-27 22:42"
       }
     },
     {
@@ -773,10 +773,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.830↓",
+        "home_water": "0.820↓",
         "handicap": "平手",
-        "away_water": "1.110↑",
-        "time": "05-10 16:27"
+        "away_water": "1.090↑",
+        "time": "05-10 16:47"
       },
       "init": {
         "home_water": "0.840",
