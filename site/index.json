@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-10T06:40:35Z",
+  "last_updated_utc": "2026-05-10T06:50:33Z",
   "matches": [
     {
       "xml_id": "2039624",
@@ -279,10 +279,10 @@
       "league": "荷兰甲级联赛",
       "home": "费耶诺德",
       "away": "阿尔克马尔",
-      "spf_win": "2.83",
+      "spf_win": "2.95",
       "spf_draw": "3.80",
-      "spf_lost": "1.95",
-      "spf_updated": "2026-05-10 14:09:29",
+      "spf_lost": "1.90",
+      "spf_updated": "2026-05-10 14:42:01",
       "gameid": "1202925",
       "kickoff_cst": "2026-05-10 22:45",
       "matchnum_label": "周日016",
@@ -612,6 +612,24 @@
       "matchnum_label": "周一004",
       "home_team_id": "1125",
       "away_team_id": "707"
+    },
+    {
+      "xml_id": "2039660",
+      "matchnum": "1007",
+      "date": "2026-05-12",
+      "dayofweek": "星期二",
+      "league": "西班牙甲级联赛",
+      "home": "巴列卡诺",
+      "away": "赫罗纳",
+      "spf_win": "4.82",
+      "spf_draw": "3.85",
+      "spf_lost": "1.51",
+      "spf_updated": "2026-05-09 09:34:57",
+      "gameid": "1215807",
+      "kickoff_cst": "2026-05-12 03:00",
+      "matchnum_label": "周一007",
+      "home_team_id": "650",
+      "away_team_id": "2074"
     },
     {
       "xml_id": "2039661",
