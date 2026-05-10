@@ -24,7 +24,7 @@
       "lost": "4.90",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T05:50:07Z"
+    "fetched_at_utc": "2026-05-10T06:00:08Z"
   },
   "shuju": {
     "title": "蔚山现代VS富川FC(2026K1联赛)-数据分析-500彩票网",
@@ -411,18 +411,23 @@
         ],
         "subs": [
           {
-            "number": "6",
-            "name": "达里詹·博贾尼奇",
-            "position": "中场"
+            "number": "77",
+            "name": "沈相旼",
+            "position": "后卫"
           },
           {
-            "number": "33",
-            "name": "张时荣",
+            "number": "13",
+            "name": "柳成民",
+            "position": "守门员"
+          },
+          {
+            "number": "91",
+            "name": "本吉·米歇尔",
             "position": "前锋"
           },
           {
-            "number": "43",
-            "name": "赵珉瑞",
+            "number": "14",
+            "name": "李镇贤",
             "position": "中场"
           },
           {
@@ -431,24 +436,19 @@
             "position": "后卫"
           },
           {
-            "number": "14",
-            "name": "李镇贤",
+            "number": "43",
+            "name": "赵珉瑞",
             "position": "中场"
           },
           {
-            "number": "91",
-            "name": "本吉·米歇尔",
+            "number": "33",
+            "name": "张时荣",
             "position": "前锋"
           },
           {
-            "number": "13",
-            "name": "柳成民",
-            "position": "守门员"
-          },
-          {
-            "number": "77",
-            "name": "沈相旼",
-            "position": "后卫"
+            "number": "6",
+            "name": "达里詹·博贾尼奇",
+            "position": "中场"
           },
           {
             "number": "99",
@@ -463,13 +463,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "18",
-            "name": "李宜炯",
+            "number": "8",
+            "name": "尹比加兰",
             "position": "前锋"
           },
           {
-            "number": "8",
-            "name": "尹比加兰",
+            "number": "18",
+            "name": "李宜炯",
             "position": "前锋"
           },
           {
@@ -561,7 +561,7 @@
           },
           {
             "number": "50",
-            "name": "金赞英",
+            "name": "金灿荣",
             "position": "守门员"
           }
         ],
@@ -684,22 +684,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "半球/一球",
-        "away_water": "1.000↑",
-        "time": "05-10 13:00"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.890",
-        "time": "05-06 13:38"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -713,6 +697,22 @@
         "handicap": "半球/一球",
         "away_water": "0.770",
         "time": "05-05 16:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "半球/一球",
+        "away_water": "1.000↑",
+        "time": "05-10 13:00"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.890",
+        "time": "05-06 13:38"
       }
     },
     {
