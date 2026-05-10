@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-10T22:20:15Z",
+  "last_updated_utc": "2026-05-10T22:30:11Z",
   "matches": [
     {
       "xml_id": "2039654",
@@ -108,6 +108,24 @@
       "matchnum_label": "周一007",
       "home_team_id": "650",
       "away_team_id": "2074"
+    },
+    {
+      "xml_id": "2039661",
+      "matchnum": "1008",
+      "date": "2026-05-12",
+      "dayofweek": "星期二",
+      "league": "葡萄牙超级联赛",
+      "home": "里奥阿维",
+      "away": "里斯本竞技",
+      "spf_win": "2.16",
+      "spf_draw": "4.00",
+      "spf_lost": "2.40",
+      "spf_updated": "2026-05-09 09:34:57",
+      "gameid": "1216447",
+      "kickoff_cst": "2026-05-12 03:15",
+      "matchnum_label": "周一008",
+      "home_team_id": "1002",
+      "away_team_id": "1000"
     },
     {
       "xml_id": "2039662",
