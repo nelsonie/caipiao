@@ -24,7 +24,7 @@
       "lost": "3.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T09:00:17Z"
+    "fetched_at_utc": "2026-05-10T09:10:16Z"
   },
   "shuju": {
     "title": "费耶诺德VS阿尔克马尔(2025/2026荷甲)-数据分析-500彩票网",
@@ -688,22 +688,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.740↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.140↑",
-        "time": "05-10 15:58"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "半球/一球",
-        "away_water": "0.810",
-        "time": "05-03 23:25"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -717,6 +701,22 @@
         "handicap": "半球/一球",
         "away_water": "0.830",
         "time": "05-05 08:47"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.740↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.140↑",
+        "time": "05-10 15:58"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "半球/一球",
+        "away_water": "0.810",
+        "time": "05-03 23:25"
       }
     },
     {
