@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-10T08:10:36Z",
+  "last_updated_utc": "2026-05-10T08:20:34Z",
   "matches": [
     {
       "xml_id": "2039624",
@@ -261,10 +261,10 @@
       "league": "西班牙甲级联赛",
       "home": "毕尔巴鄂竞技",
       "away": "巴伦西亚",
-      "spf_win": "3.04",
-      "spf_draw": "3.25",
-      "spf_lost": "2.03",
-      "spf_updated": "2026-05-10 10:15:03",
+      "spf_win": "3.00",
+      "spf_draw": "3.20",
+      "spf_lost": "2.07",
+      "spf_updated": "2026-05-10 16:13:45",
       "gameid": "1216154",
       "kickoff_cst": "2026-05-10 22:15",
       "matchnum_label": "周日015",
@@ -666,6 +666,24 @@
       "matchnum_label": "周一008",
       "home_team_id": "1002",
       "away_team_id": "1000"
+    },
+    {
+      "xml_id": "2039663",
+      "matchnum": "1010",
+      "date": "2026-05-12",
+      "dayofweek": "星期二",
+      "league": "葡萄牙超级联赛",
+      "home": "本菲卡",
+      "away": "布拉加",
+      "spf_win": "1.95",
+      "spf_draw": "3.65",
+      "spf_lost": "2.92",
+      "spf_updated": "2026-05-09 09:34:57",
+      "gameid": "1216463",
+      "kickoff_cst": "2026-05-12 03:15",
+      "matchnum_label": "周一010",
+      "home_team_id": "678",
+      "away_team_id": "719"
     }
   ]
 }
