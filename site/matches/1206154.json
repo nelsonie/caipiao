@@ -24,7 +24,7 @@
       "lost": "3.12",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T05:30:20Z"
+    "fetched_at_utc": "2026-05-10T05:40:19Z"
   },
   "shuju": {
     "title": "科隆VS海登海姆(2025/2026德甲)-数据分析-500彩票网",
@@ -596,10 +596,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "1.030↑",
-        "handicap": "半球降",
-        "away_water": "0.830↓",
-        "time": "05-10 12:06"
+        "home_water": "0.750↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.050↑",
+        "time": "05-10 13:33"
       },
       "init": {
         "home_water": "0.880",
@@ -628,10 +628,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.850↓",
         "handicap": "平手/半球降",
-        "away_water": "1.040↑",
-        "time": "05-10 13:08"
+        "away_water": "1.030↑",
+        "time": "05-10 13:36"
       },
       "init": {
         "home_water": "0.900",
@@ -657,22 +657,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "半球降",
-        "away_water": "0.840↓",
-        "time": "05-10 13:13"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "半球/一球",
-        "away_water": "0.920",
-        "time": "04-27 21:30"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -686,6 +670,22 @@
         "handicap": "半球/一球",
         "away_water": "0.860",
         "time": "04-27 04:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "半球降",
+        "away_water": "0.770↓",
+        "time": "05-10 13:35"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "半球/一球",
+        "away_water": "0.920",
+        "time": "04-27 21:30"
       }
     },
     {
