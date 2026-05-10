@@ -24,7 +24,7 @@
       "lost": "3.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-10T09:40:09Z"
+    "fetched_at_utc": "2026-05-10T09:50:07Z"
   },
   "shuju": {
     "title": "柏太阳神VS川崎前锋(2026日职)-数据分析-500彩票网",
@@ -459,23 +459,23 @@
         "formation": null,
         "starters": [
           {
+            "number": "14",
+            "name": "胁坂泰斗",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "埃里松",
             "position": "前锋"
           },
           {
-            "number": "13",
-            "name": "三浦飒太",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "胁坂泰斗",
-            "position": "中场"
-          },
-          {
             "number": "34",
             "name": "长璃喜",
+            "position": "前锋"
+          },
+          {
+            "number": "13",
+            "name": "三浦飒太",
             "position": "中场"
           },
           {
@@ -486,6 +486,11 @@
           {
             "number": "8",
             "name": "橘田健人",
+            "position": "中场"
+          },
+          {
+            "number": "29",
+            "name": "山原怜音",
             "position": "中场"
           },
           {
@@ -504,22 +509,12 @@
             "position": "后卫"
           },
           {
-            "number": "29",
-            "name": "山原怜音",
-            "position": "后卫"
-          },
-          {
             "number": "49",
             "name": "斯文德·布罗德森",
             "position": "守门员"
           }
         ],
         "subs": [
-          {
-            "number": "22",
-            "name": "费利佩·乌雷莫维奇",
-            "position": "后卫"
-          },
           {
             "number": "1",
             "name": "山口瑠伊",
@@ -558,6 +553,11 @@
           {
             "number": "32",
             "name": "林骏佑",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "费利佩·乌雷莫维奇",
             "position": "后卫"
           }
         ],
