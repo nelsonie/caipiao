@@ -8,8 +8,8 @@
     "away": "博洛尼亚",
     "kickoff_cst": "2026-05-12 02:45",
     "spf": {
-      "win": "2.37",
-      "draw": "3.30",
+      "win": "2.42",
+      "draw": "3.20",
       "lost": "2.48"
     },
     "asia_main": {
@@ -24,7 +24,7 @@
       "lost": "6.10",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-11T03:10:09Z"
+    "fetched_at_utc": "2026-05-11T03:20:07Z"
   },
   "shuju": {
     "title": "那不勒斯VS博洛尼亚(2025/2026意甲)-数据分析-500彩票网",
@@ -690,22 +690,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↓",
-        "handicap": "一球",
-        "away_water": "0.900↑",
-        "time": "05-11 09:31"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "一球",
-        "away_water": "0.890",
-        "time": "04-27 22:43"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -719,6 +703,22 @@
         "handicap": "一球",
         "away_water": "0.860",
         "time": "04-27 05:34"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↓",
+        "handicap": "一球",
+        "away_water": "0.900↑",
+        "time": "05-11 09:31"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "一球",
+        "away_water": "0.890",
+        "time": "04-27 22:43"
       }
     },
     {
