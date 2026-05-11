@@ -8,9 +8,9 @@
     "away": "赫罗纳",
     "kickoff_cst": "2026-05-12 03:00",
     "spf": {
-      "win": "4.90",
-      "draw": "4.00",
-      "lost": "1.48"
+      "win": "5.05",
+      "draw": "4.05",
+      "lost": "1.46"
     },
     "asia_main": {
       "handicap": "平手降",
@@ -24,7 +24,7 @@
       "lost": "2.81",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-11T10:20:09Z"
+    "fetched_at_utc": "2026-05-11T10:30:11Z"
   },
   "shuju": {
     "title": "巴列卡诺VS赫罗纳(2025/2026西甲)-数据分析-500彩票网",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "平手降",
-        "away_water": "1.080↑",
-        "time": "05-11 17:44"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "平手/半球",
-        "away_water": "0.950",
-        "time": "04-27 05:04"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "平手/半球",
         "away_water": "0.880",
         "time": "04-27 21:09"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "平手降",
+        "away_water": "1.080↑",
+        "time": "05-11 17:44"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "平手/半球",
+        "away_water": "0.950",
+        "time": "04-27 05:04"
       }
     },
     {
