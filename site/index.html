@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>今日全部对阵 (3 场) · caipiao</title>
+<title>今日全部对阵 (0 场) · caipiao</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="alternate" type="text/markdown" href="index.md">
 <style>
@@ -82,89 +82,10 @@ button:disabled { opacity: .5; cursor: default; }
   <a href="/_meta.json">_meta.json</a>
 </nav>
 <main>
-<h1>今日全部对阵 (3 场)</h1>
-<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-05-11T19:10:08Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">3</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v">葡萄牙超级联赛</div></div></div>
-
-<section class="quick">
-  <h2>快查（3 场 · 按日期升序）</h2>
-  <ul>
-    <li><span class="meta">2026-05-12 · 葡萄牙超级联赛</span><span class="teams">里奥阿维 vs 里斯本竞技</span><a class="url" href="/matches/1216447.html">{ORIGIN}/matches/1216447.html</a></li>
-<li><span class="meta">2026-05-12 · 葡萄牙超级联赛</span><span class="teams">阿马多拉 vs 法马利康</span><a class="url" href="/matches/1216370.html">{ORIGIN}/matches/1216370.html</a></li>
-<li><span class="meta">2026-05-12 · 葡萄牙超级联赛</span><span class="teams">本菲卡 vs 布拉加</span><a class="url" href="/matches/1216463.html">{ORIGIN}/matches/1216463.html</a></li>
-  </ul>
-  <button id="copy-all" type="button">复制全部对阵及链接</button>
-  <p class="hint">点按钮会把每场一行，格式：<code>日期 联赛 主队 vs 客队 URL</code>，复制到剪贴板。</p>
-  <script>
-    (function () {
-      var ITEMS = [{"line": "2026-05-12 葡萄牙超级联赛 里奥阿维 vs 里斯本竞技 {ORIGIN}/matches/1216447.html"}, {"line": "2026-05-12 葡萄牙超级联赛 阿马多拉 vs 法马利康 {ORIGIN}/matches/1216370.html"}, {"line": "2026-05-12 葡萄牙超级联赛 本菲卡 vs 布拉加 {ORIGIN}/matches/1216463.html"}];
-      var origin = location.origin;
-      // 页面加载时把 li 里的 {ORIGIN} 占位符都换成真实域名
-      document.querySelectorAll('.quick .url').forEach(function (a) {
-        if (a.textContent.indexOf('{ORIGIN}') === 0) {
-          a.textContent = origin + a.textContent.slice('{ORIGIN}'.length);
-        }
-      });
-      var btn = document.getElementById('copy-all');
-      btn.addEventListener('click', function () {
-        var text = ITEMS.map(function (it) { return it.line.replace('{ORIGIN}', origin); }).join('\n');
-        var done = function () {
-          var prev = btn.textContent;
-          btn.textContent = '已复制 ' + ITEMS.length + ' 条 ✓';
-          btn.disabled = true;
-          setTimeout(function () { btn.textContent = prev; btn.disabled = false; }, 2000);
-        };
-        if (navigator.clipboard && window.isSecureContext) {
-          navigator.clipboard.writeText(text).then(done, function (err) {
-            alert('复制失败：' + err);
-          });
-        } else {
-          var ta = document.createElement('textarea');
-          ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
-          document.body.appendChild(ta); ta.select();
-          try { document.execCommand('copy'); done(); } catch (e) { alert('复制失败'); }
-          document.body.removeChild(ta);
-        }
-      });
-    })();
-  </script>
-</section>
+<h1>今日全部对阵 (0 场)</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-05-11T19:20:04Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">0</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v"></div></div></div>
 
 <h1>今日全部对阵</h1>
-<h2>葡萄牙超级联赛 (3)</h2>
-<div class="table-wrap"><table>
-<thead>
-<tr>
-<th>编号</th>
-<th>日期</th>
-<th>对阵</th>
-<th>胜/平/负</th>
-<th>gameid</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1008</td>
-<td>2026-05-12 星期二</td>
-<td>里奥阿维 vs 里斯本竞技</td>
-<td>2.28/3.70/2.38</td>
-<td><a href="matches/1216447.html">1216447</a></td>
-</tr>
-<tr>
-<td>1009</td>
-<td>2026-05-12 星期二</td>
-<td>阿马多拉 vs 法马利康</td>
-<td>1.62/3.65/4.20</td>
-<td><a href="matches/1216370.html">1216370</a></td>
-</tr>
-<tr>
-<td>1010</td>
-<td>2026-05-12 星期二</td>
-<td>本菲卡 vs 布拉加</td>
-<td>2.04/3.25/3.02</td>
-<td><a href="matches/1216463.html">1216463</a></td>
-</tr>
-</tbody>
-</table></div>
 </main>
 <footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
 </body>
