@@ -8,8 +8,8 @@
     "away": "赫尔城",
     "kickoff_cst": "2026-05-12 03:00",
     "spf": {
-      "win": "3.00",
-      "draw": "3.45",
+      "win": "3.07",
+      "draw": "3.35",
       "lost": "1.98"
     },
     "asia_main": {
@@ -24,7 +24,7 @@
       "lost": "4.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-11T04:20:13Z"
+    "fetched_at_utc": "2026-05-11T04:30:09Z"
   },
   "shuju": {
     "title": "米尔沃尔VS赫尔城(2025/2026英冠)-数据分析-500彩票网",
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "半球/一球",
-        "away_water": "0.770↓",
-        "time": "05-11 10:52"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.800",
-        "time": "05-09 18:16"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -683,6 +667,22 @@
         "handicap": "半球/一球",
         "away_water": "0.850",
         "time": "05-09 16:40"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "半球/一球",
+        "away_water": "0.770↓",
+        "time": "05-11 10:52"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.800",
+        "time": "05-09 18:16"
       }
     },
     {
