@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-12T11:30:14Z",
+  "last_updated_utc": "2026-05-12T11:40:17Z",
   "matches": [
     {
       "xml_id": "2039693",
@@ -288,24 +288,6 @@
       "matchnum_label": "周三009",
       "home_team_id": "542",
       "away_team_id": "653"
-    },
-    {
-      "xml_id": "2039709",
-      "matchnum": "3010",
-      "date": "2026-05-14",
-      "dayofweek": "星期四",
-      "league": "西班牙甲级联赛",
-      "home": "赫塔费",
-      "away": "马洛卡",
-      "spf_win": "4.75",
-      "spf_draw": "3.40",
-      "spf_lost": "1.60",
-      "spf_updated": "2026-05-12 09:48:51",
-      "gameid": "1216111",
-      "kickoff_cst": "2026-05-14 03:30",
-      "matchnum_label": "周三010",
-      "home_team_id": "838",
-      "away_team_id": "1062"
     },
     {
       "xml_id": "2039717",
