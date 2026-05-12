@@ -24,7 +24,7 @@
       "lost": "5.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-12T17:50:08Z"
+    "fetched_at_utc": "2026-05-12T18:00:07Z"
   },
   "shuju": {
     "title": "皇家贝蒂斯VS埃尔切(2025/2026西甲)-数据分析-500彩票网",
@@ -413,13 +413,18 @@
         ],
         "subs": [
           {
-            "number": "22",
-            "name": "伊斯科",
+            "number": "25",
+            "name": "保罗·洛佩兹",
+            "position": "守门员"
+          },
+          {
+            "number": "15",
+            "name": "阿尔瓦罗·菲达尔戈",
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "塞尔吉·阿尔蒂米拉",
+            "number": "18",
+            "name": "纳尔逊·德奥萨",
             "position": "中场"
           },
           {
@@ -428,19 +433,14 @@
             "position": "前锋"
           },
           {
-            "number": "18",
-            "name": "纳尔逊·德奥萨",
+            "number": "6",
+            "name": "塞尔吉·阿尔蒂米拉",
             "position": "中场"
           },
           {
-            "number": "15",
-            "name": "阿尔瓦罗·菲达尔戈",
+            "number": "22",
+            "name": "伊斯科",
             "position": "中场"
-          },
-          {
-            "number": "25",
-            "name": "保罗·洛佩兹",
-            "position": "守门员"
           },
           {
             "number": "17",
@@ -463,14 +463,14 @@
             "position": "后卫"
           },
           {
-            "number": "9",
-            "name": "伊泽奎尔·阿维拉",
-            "position": "前锋"
-          },
-          {
             "number": "4",
             "name": "纳坦",
             "position": "后卫"
+          },
+          {
+            "number": "9",
+            "name": "伊泽奎尔·阿维拉",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -537,11 +537,6 @@
         ],
         "subs": [
           {
-            "number": "46",
-            "name": "胡安·皮埃拉",
-            "position": "前锋"
-          },
-          {
             "number": "5",
             "name": "费德里科·雷东多",
             "position": "中场"
@@ -550,11 +545,6 @@
             "number": "20",
             "name": "阿尔瓦罗·罗德里格斯",
             "position": "前锋"
-          },
-          {
-            "number": "16",
-            "name": "马蒂姆·内托",
-            "position": "中场"
           },
           {
             "number": "6",
@@ -595,6 +585,16 @@
             "number": "13",
             "name": "伊纳基·佩尼亚",
             "position": "守门员"
+          },
+          {
+            "number": "16",
+            "name": "马蒂姆·内托",
+            "position": "中场"
+          },
+          {
+            "number": "46",
+            "name": "胡安·皮耶拉",
+            "position": "前锋"
           }
         ],
         "injured": [],
