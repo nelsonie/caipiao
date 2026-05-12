@@ -24,7 +24,7 @@
       "lost": "3.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-12T04:10:12Z"
+    "fetched_at_utc": "2026-05-12T04:20:14Z"
   },
   "shuju": {
     "title": "圣旺红星VS罗德兹(2025/2026法乙)-数据分析-500彩票网",
@@ -573,10 +573,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.870↓",
+        "home_water": "0.880↓",
         "handicap": "半球降",
-        "away_water": "0.970↑",
-        "time": "05-12 12:04"
+        "away_water": "0.980↑",
+        "time": "05-12 12:07"
       },
       "init": {
         "home_water": "1.000",
@@ -634,22 +634,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "半球降",
-        "away_water": "0.940↑",
-        "time": "05-12 10:52"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "半球/一球",
-        "away_water": "0.830",
-        "time": "05-11 22:24"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -666,13 +650,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "半球降",
+        "away_water": "0.940↑",
+        "time": "05-12 10:52"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "半球/一球",
+        "away_water": "0.830",
+        "time": "05-11 22:24"
+      }
+    },
+    {
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.900↑",
+        "home_water": "0.920↑",
         "handicap": "半球",
         "away_water": "1.000↓",
-        "time": "05-12 09:17"
+        "time": "05-12 12:08"
       },
       "init": {
         "home_water": "0.840",
