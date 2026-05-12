@@ -24,7 +24,7 @@
       "lost": "2.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-12T15:30:08Z"
+    "fetched_at_utc": "2026-05-12T15:40:10Z"
   },
   "shuju": {
     "title": "南安普敦VS米德尔斯堡(2025/2026英冠)-数据分析-500彩票网",
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.780↓",
-        "handicap": "平手降",
-        "away_water": "1.100↑",
-        "time": "05-12 23:01"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "平手/半球",
-        "away_water": "0.910",
-        "time": "05-10 01:18"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -683,6 +667,22 @@
         "handicap": "平手/半球",
         "away_water": "0.900",
         "time": "05-10 01:45"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.780↓",
+        "handicap": "平手降",
+        "away_water": "1.100↑",
+        "time": "05-12 23:01"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "平手/半球",
+        "away_water": "0.910",
+        "time": "05-10 01:18"
       }
     },
     {
