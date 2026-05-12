@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-05-12T16:50:15Z'
+last_updated_utc: '2026-05-12T17:00:12Z'
 total_matches: 16
 leagues_covered:
 - 意大利杯
