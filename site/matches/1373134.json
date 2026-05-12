@@ -24,7 +24,7 @@
       "lost": "1.32",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-12T12:00:08Z"
+    "fetched_at_utc": "2026-05-12T12:10:08Z"
   },
   "shuju": {
     "title": "光州FCVS首尔FC(2026K1联赛)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "受一球/球半降",
-        "away_water": "0.980↑",
-        "time": "05-12 18:29"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "受一球",
-        "away_water": "0.920",
-        "time": "05-09 17:14"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受一球",
         "away_water": "0.900",
         "time": "05-09 16:00"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "受一球/球半降",
+        "away_water": "0.980↑",
+        "time": "05-12 18:29"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "受一球",
+        "away_water": "0.920",
+        "time": "05-09 17:14"
       }
     },
     {
