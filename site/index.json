@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-13T12:30:14Z",
+  "last_updated_utc": "2026-05-13T12:40:14Z",
   "matches": [
     {
       "xml_id": "2039700",
@@ -252,24 +252,6 @@
       "matchnum_label": "周四002",
       "home_team_id": "4880",
       "away_team_id": "8310"
-    },
-    {
-      "xml_id": "2039714",
-      "matchnum": "4003",
-      "date": "2026-05-15",
-      "dayofweek": "星期五",
-      "league": "沙特职业联赛",
-      "home": "胡巴尔卡德西亚",
-      "away": "拉斯决心",
-      "spf_win": "2.25",
-      "spf_draw": "4.00",
-      "spf_lost": "2.30",
-      "spf_updated": "2026-05-13 09:39:05",
-      "gameid": "1234932",
-      "kickoff_cst": "2026-05-15 02:00",
-      "matchnum_label": "周四003",
-      "home_team_id": "4890",
-      "away_team_id": "4882"
     },
     {
       "xml_id": "2039715",
