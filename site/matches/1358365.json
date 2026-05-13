@@ -24,7 +24,7 @@
       "lost": "2.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-13T09:40:12Z"
+    "fetched_at_utc": "2026-05-13T09:50:12Z"
   },
   "shuju": {
     "title": "辛辛那提FCVS迈阿密国际(2026美职联)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "受平手/半球",
-        "away_water": "0.790↓",
-        "time": "05-13 16:16"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "受平手/半球",
-        "away_water": "0.810",
-        "time": "05-10 08:00"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.840",
         "time": "05-10 07:57"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "受平手/半球",
+        "away_water": "0.790↓",
+        "time": "05-13 16:16"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "受平手/半球",
+        "away_water": "0.810",
+        "time": "05-10 08:00"
       }
     },
     {
