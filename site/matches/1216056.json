@@ -24,7 +24,7 @@
       "lost": "2.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-13T01:20:11Z"
+    "fetched_at_utc": "2026-05-13T01:30:10Z"
   },
   "shuju": {
     "title": "阿拉维斯VS巴塞罗那(2025/2026西甲)-数据分析-500彩票网",
@@ -694,22 +694,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "受平手/半球升",
-        "away_water": "0.790↓",
-        "time": "05-13 07:44"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "受一球",
-        "away_water": "0.890",
-        "time": "05-04 04:23"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -723,6 +707,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.910",
         "time": "05-04 20:41"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "受平手/半球升",
+        "away_water": "0.790↓",
+        "time": "05-13 07:44"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "受一球",
+        "away_water": "0.890",
+        "time": "05-04 04:23"
       }
     },
     {
@@ -745,10 +745,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.050↑",
         "handicap": "受平手/半球升",
-        "away_water": "0.890↓",
-        "time": "05-13 07:15"
+        "away_water": "0.850↓",
+        "time": "05-13 09:23"
       },
       "init": {
         "home_water": "0.950",
@@ -761,10 +761,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "0.980↑",
         "handicap": "受平手/半球升",
-        "away_water": "0.900↓",
-        "time": "05-13 07:42"
+        "away_water": "0.920↓",
+        "time": "05-13 09:12"
       },
       "init": {
         "home_water": "0.930",
@@ -793,10 +793,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "0.980↑",
         "handicap": "受平手/半球升",
-        "away_water": "0.900↓",
-        "time": "05-13 07:42"
+        "away_water": "0.920↓",
+        "time": "05-13 09:12"
       },
       "init": {
         "home_water": "0.900",
@@ -811,8 +811,8 @@
       "live": {
         "home_water": "0.940↓",
         "handicap": "受平手/半球升",
-        "away_water": "0.840↑",
-        "time": "05-13 08:48"
+        "away_water": "0.850↑",
+        "time": "05-13 09:12"
       },
       "init": {
         "home_water": "1.220",
