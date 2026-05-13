@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-13T06:50:16Z",
+  "last_updated_utc": "2026-05-13T07:00:12Z",
   "matches": [
     {
       "xml_id": "2039700",
@@ -100,9 +100,9 @@
       "home": "曼彻斯特城",
       "away": "水晶宫",
       "spf_win": "2.26",
-      "spf_draw": "3.75",
-      "spf_lost": "2.38",
-      "spf_updated": "2026-05-13 12:36:42",
+      "spf_draw": "3.65",
+      "spf_lost": "2.42",
+      "spf_updated": "2026-05-13 14:48:39",
       "gameid": "1202685",
       "kickoff_cst": "2026-05-14 03:00",
       "matchnum_label": "周三006",
@@ -234,6 +234,42 @@
       "matchnum_label": "周四001",
       "home_team_id": "1243",
       "away_team_id": "650"
+    },
+    {
+      "xml_id": "2039713",
+      "matchnum": "4002",
+      "date": "2026-05-15",
+      "dayofweek": "星期五",
+      "league": "沙特职业联赛",
+      "home": "达曼协定",
+      "away": "吉达联合",
+      "spf_win": "1.78",
+      "spf_draw": "3.65",
+      "spf_lost": "3.40",
+      "spf_updated": "2026-05-13 09:39:05",
+      "gameid": "1234922",
+      "kickoff_cst": "2026-05-15 02:00",
+      "matchnum_label": "周四002",
+      "home_team_id": "4880",
+      "away_team_id": "8310"
+    },
+    {
+      "xml_id": "2039714",
+      "matchnum": "4003",
+      "date": "2026-05-15",
+      "dayofweek": "星期五",
+      "league": "沙特职业联赛",
+      "home": "胡巴尔卡德西亚",
+      "away": "拉斯决心",
+      "spf_win": "2.25",
+      "spf_draw": "4.00",
+      "spf_lost": "2.30",
+      "spf_updated": "2026-05-13 09:39:05",
+      "gameid": "1234932",
+      "kickoff_cst": "2026-05-15 02:00",
+      "matchnum_label": "周四003",
+      "home_team_id": "4890",
+      "away_team_id": "4882"
     },
     {
       "xml_id": "2039715",
