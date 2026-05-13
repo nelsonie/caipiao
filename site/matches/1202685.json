@@ -24,7 +24,7 @@
       "lost": "9.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-13T12:20:08Z"
+    "fetched_at_utc": "2026-05-13T12:30:10Z"
   },
   "shuju": {
     "title": "曼彻斯特城VS水晶宫(2025/2026英超)-数据分析-500彩票网",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "两球升",
-        "away_water": "0.960↑",
-        "time": "05-13 19:57"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "球半/两球",
-        "away_water": "0.840",
-        "time": "05-05 08:19"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "两球",
         "away_water": "0.850",
         "time": "05-11 16:38"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "两球升",
+        "away_water": "0.960↑",
+        "time": "05-13 19:57"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "球半/两球",
+        "away_water": "0.840",
+        "time": "05-05 08:19"
       }
     },
     {
