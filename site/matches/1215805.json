@@ -24,7 +24,7 @@
       "lost": "3.18",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-14T16:20:09Z"
+    "fetched_at_utc": "2026-05-14T16:30:07Z"
   },
   "shuju": {
     "title": "巴伦西亚VS巴列卡诺(2025/2026西甲)-数据分析-500彩票网",
@@ -361,14 +361,9 @@
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "路易斯·里奥哈",
-            "position": "中场"
-          },
-          {
             "number": "8",
             "name": "哈维·格拉",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "16",
@@ -386,18 +381,23 @@
             "position": "中场"
           },
           {
+            "number": "11",
+            "name": "路易斯·里奥哈",
+            "position": "中场"
+          },
+          {
             "number": "14",
             "name": "何塞·加亚",
             "position": "后卫"
           },
           {
-            "number": "24",
-            "name": "埃雷·科默特",
+            "number": "5",
+            "name": "塞萨尔·塔雷加",
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "塞萨尔·塔雷加",
+            "number": "24",
+            "name": "埃雷·科默特",
             "position": "后卫"
           },
           {
@@ -413,49 +413,9 @@
         ],
         "subs": [
           {
-            "number": "10",
-            "name": "安德烈·阿尔梅达",
-            "position": "中场"
-          },
-          {
-            "number": "23",
-            "name": "菲利普·乌格里尼奇",
-            "position": "中场"
-          },
-          {
-            "number": "7",
-            "name": "阿芒特·丹朱玛",
-            "position": "前锋"
-          },
-          {
-            "number": "22",
-            "name": "巴蒂斯特·桑塔玛利亚",
-            "position": "中场"
-          },
-          {
-            "number": "4",
-            "name": "乌奈·努涅斯",
-            "position": "后卫"
-          },
-          {
             "number": "25",
             "name": "尤伦·阿吉雷扎巴拉",
             "position": "守门员"
-          },
-          {
-            "number": "17",
-            "name": "拉吉·拉马扎尼",
-            "position": "前锋"
-          },
-          {
-            "number": "13",
-            "name": "克里斯蒂安·里维罗",
-            "position": "守门员"
-          },
-          {
-            "number": "26",
-            "name": "鲁本·伊兰佐",
-            "position": "后卫"
           },
           {
             "number": "21",
@@ -463,13 +423,53 @@
             "position": "后卫"
           },
           {
+            "number": "23",
+            "name": "菲利普·乌格里尼奇",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "巴蒂斯特·桑塔玛利亚",
+            "position": "中场"
+          },
+          {
             "number": "6",
             "name": "乌马尔·萨迪克",
             "position": "前锋"
           },
           {
+            "number": "10",
+            "name": "安德烈·阿尔梅达",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "蒂埃里·科雷亚",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "拉吉·拉马扎尼",
+            "position": "前锋"
+          },
+          {
             "number": "19",
             "name": "丹尼·拉瓦",
+            "position": "前锋"
+          },
+          {
+            "number": "4",
+            "name": "乌奈·努涅斯",
+            "position": "后卫"
+          },
+          {
+            "number": "26",
+            "name": "鲁本·伊兰佐",
+            "position": "后卫"
+          },
+          {
+            "number": "7",
+            "name": "阿芒特·丹朱玛",
             "position": "前锋"
           }
         ],
@@ -480,23 +480,23 @@
         "formation": null,
         "starters": [
           {
+            "number": "22",
+            "name": "阿方索·埃斯皮诺",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "兰迪·恩特卡",
+            "position": "前锋"
+          },
+          {
             "number": "21",
             "name": "弗兰·佩雷兹",
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "塞吉奥·卡梅略",
-            "position": "前锋"
-          },
-          {
-            "number": "19",
-            "name": "豪尔赫·德弗鲁托斯",
-            "position": "前锋"
-          },
-          {
-            "number": "17",
-            "name": "乌奈·洛佩兹",
+            "number": "15",
+            "name": "杰拉德·贡巴乌",
             "position": "中场"
           },
           {
@@ -515,18 +515,18 @@
             "position": "后卫"
           },
           {
+            "number": "32",
+            "name": "诺贝尔·门迪",
+            "position": "后卫"
+          },
+          {
             "number": "24",
             "name": "弗洛里安·勒戎",
             "position": "后卫"
           },
           {
-            "number": "6",
-            "name": "帕特·西塞",
-            "position": "后卫"
-          },
-          {
-            "number": "2",
-            "name": "安德烈·拉蒂乌",
+            "number": "20",
+            "name": "伊万·巴利乌",
             "position": "后卫"
           },
           {
@@ -537,54 +537,14 @@
         ],
         "subs": [
           {
-            "number": "20",
-            "name": "伊万·巴利乌",
-            "position": "后卫"
+            "number": "1",
+            "name": "丹尼·卡尔德纳斯",
+            "position": "守门员"
           },
           {
-            "number": "22",
-            "name": "阿方索·埃斯皮诺",
-            "position": "后卫"
-          },
-          {
-            "number": "18",
-            "name": "阿尔瓦罗·加西亚",
-            "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "杰拉德·贡巴乌",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "卡洛斯·马丁",
-            "position": "前锋"
-          },
-          {
-            "number": "32",
-            "name": "诺贝尔·门迪",
-            "position": "后卫"
-          },
-          {
-            "number": "16",
-            "name": "阿卜杜勒·穆明",
-            "position": "后卫"
-          },
-          {
-            "number": "11",
-            "name": "兰迪·恩特卡",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "奥斯卡·特雷霍",
-            "position": "中场"
-          },
-          {
-            "number": "33",
-            "name": "约夏·维特劳德",
-            "position": "后卫"
+            "number": "30",
+            "name": "胡安佩",
+            "position": "守门员"
           },
           {
             "number": "9",
@@ -592,9 +552,49 @@
             "position": "前锋"
           },
           {
-            "number": "1",
-            "name": "丹尼·卡尔德纳斯",
-            "position": "守门员"
+            "number": "19",
+            "name": "豪尔赫·德弗鲁托斯",
+            "position": "前锋"
+          },
+          {
+            "number": "14",
+            "name": "卡洛斯·马丁",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "塞吉奥·卡梅略",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "奥斯卡·特雷霍",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "乌奈·洛佩兹",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "帕特·西塞",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "安德烈·拉蒂乌",
+            "position": "后卫"
+          },
+          {
+            "number": "33",
+            "name": "约夏·维特劳德",
+            "position": "后卫"
+          },
+          {
+            "number": "16",
+            "name": "阿卜杜勒·穆明",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -687,10 +687,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.900",
+        "home_water": "0.890↓",
         "handicap": "平手/半球",
-        "away_water": "0.980",
-        "time": "05-15 00:07"
+        "away_water": "0.990↑",
+        "time": "05-15 00:18"
       },
       "init": {
         "home_water": "0.900",
@@ -705,14 +705,30 @@
       "live": {
         "home_water": "0.890↓",
         "handicap": "平手/半球",
-        "away_water": "1.000↑",
-        "time": "05-15 00:06"
+        "away_water": "1.010↑",
+        "time": "05-15 00:19"
       },
       "init": {
         "home_water": "0.920",
         "handicap": "平手/半球",
         "away_water": "0.970",
         "time": "05-12 04:52"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "平手/半球",
+        "away_water": "1.070↑",
+        "time": "05-15 00:20"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "平手/半球",
+        "away_water": "1.030",
+        "time": "05-04 04:31"
       }
     },
     {
@@ -732,29 +748,13 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "平手/半球",
-        "away_water": "1.070↑",
-        "time": "05-15 00:15"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "平手/半球",
-        "away_water": "1.030",
-        "time": "05-04 04:31"
-      }
-    },
-    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "0.890↑",
+        "home_water": "0.900↑",
         "handicap": "平手/半球",
-        "away_water": "1.030↑",
-        "time": "05-15 00:16"
+        "away_water": "1.020↑",
+        "time": "05-15 00:20"
       },
       "init": {
         "home_water": "0.850",
@@ -767,10 +767,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.910↓",
+        "home_water": "0.900↓",
         "handicap": "平手/半球",
-        "away_water": "1.030↑",
-        "time": "05-15 00:10"
+        "away_water": "1.020↑",
+        "time": "05-15 00:20"
       },
       "init": {
         "home_water": "1.020",
@@ -847,10 +847,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.920↑",
         "handicap": "平手/半球",
-        "away_water": "1.010↑",
-        "time": "05-15 00:14"
+        "away_water": "1.000↑",
+        "time": "05-15 00:19"
       },
       "init": {
         "home_water": "0.900",
@@ -1158,7 +1158,7 @@
     {
       "cid": "280",
       "company": "*冠",
-      "time": "2026-05-15 00:14:10",
+      "time": "2026-05-15 00:19:54",
       "odds": {
         "live": [
           "2.18",
@@ -1167,8 +1167,8 @@
         ],
         "init": [
           "2.23",
-          "3.05",
-          "3.75"
+          "3.10",
+          "3.70"
         ]
       },
       "prob": {
@@ -1178,9 +1178,9 @@
           "28.62%"
         ],
         "init": [
-          "43.00%",
-          "31.44%",
-          "25.57%"
+          "43.07%",
+          "30.98%",
+          "25.96%"
         ]
       },
       "ret": {
@@ -1188,7 +1188,7 @@
           "95.88%"
         ],
         "init": [
-          "95.88%"
+          "96.04%"
         ]
       },
       "kelly": {
@@ -1199,8 +1199,8 @@
         ],
         "init": [
           "0.95",
-          "0.94",
-          "0.99"
+          "0.96",
+          "0.98"
         ]
       }
     },
@@ -1354,7 +1354,7 @@
     {
       "cid": "1055",
       "company": "Pi****le平*",
-      "time": "2026-05-15 00:15:44",
+      "time": "2026-05-15 00:18:31",
       "odds": {
         "live": [
           "2.15",
@@ -1362,9 +1362,9 @@
           "3.41"
         ],
         "init": [
-          "2.23",
-          "3.13",
-          "3.83"
+          "2.24",
+          "3.11",
+          "3.84"
         ]
       },
       "prob": {
@@ -1374,9 +1374,9 @@
           "27.61%"
         ],
         "init": [
-          "43.58%",
-          "31.05%",
-          "25.37%"
+          "43.41%",
+          "31.27%",
+          "25.32%"
         ]
       },
       "ret": {
@@ -1384,7 +1384,7 @@
           "94.13%"
         ],
         "init": [
-          "97.18%"
+          "97.24%"
         ]
       },
       "kelly": {
@@ -1394,9 +1394,9 @@
           "0.90"
         ],
         "init": [
-          "0.95",
-          "0.97",
-          "1.01"
+          "0.96",
+          "0.96",
+          "1.02"
         ]
       }
     },
