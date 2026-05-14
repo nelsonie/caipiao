@@ -24,7 +24,7 @@
       "lost": "4.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-14T14:40:10Z"
+    "fetched_at_utc": "2026-05-14T14:50:08Z"
   },
   "shuju": {
     "title": "布赖代塔文VS利雅得体育(2025/2026沙特联)-数据分析-500彩票网",
@@ -596,10 +596,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.930↑",
+        "home_water": "0.920↑",
         "handicap": "半球/一球升",
-        "away_water": "0.880↓",
-        "time": "05-14 20:13"
+        "away_water": "0.870↓",
+        "time": "05-14 22:42"
       },
       "init": {
         "home_water": "0.830",
@@ -641,22 +641,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.790↑",
-        "time": "05-14 19:53"
-      },
-      "init": {
-        "home_water": "1.350",
-        "handicap": "一球",
-        "away_water": "0.520",
-        "time": "05-12 02:20"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -670,6 +654,22 @@
         "handicap": "半球/一球",
         "away_water": "0.850",
         "time": "05-14 14:17"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.790↑",
+        "time": "05-14 19:53"
+      },
+      "init": {
+        "home_water": "1.350",
+        "handicap": "一球",
+        "away_water": "0.520",
+        "time": "05-12 02:20"
       }
     },
     {
@@ -695,7 +695,7 @@
         "home_water": "0.940",
         "handicap": "半球/一球",
         "away_water": "0.880",
-        "time": "05-14 21:00"
+        "time": "05-14 22:43"
       },
       "init": {
         "home_water": "0.940",
