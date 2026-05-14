@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-14T08:00:09Z",
+  "last_updated_utc": "2026-05-14T08:10:19Z",
   "matches": [
     {
       "xml_id": "2039712",
@@ -63,10 +63,10 @@
       "league": "西班牙甲级联赛",
       "home": "赫罗纳",
       "away": "皇家社会",
-      "spf_win": "3.65",
+      "spf_win": "3.52",
       "spf_draw": "3.45",
-      "spf_lost": "1.77",
-      "spf_updated": "2026-05-14 15:58:09",
+      "spf_lost": "1.80",
+      "spf_updated": "2026-05-14 16:07:40",
       "gameid": "1216129",
       "kickoff_cst": "2026-05-15 02:00",
       "matchnum_label": "周四004",
@@ -144,24 +144,6 @@
       "matchnum_label": "周五003",
       "home_team_id": "6759",
       "away_team_id": "7831"
-    },
-    {
-      "xml_id": "2039744",
-      "matchnum": "5004",
-      "date": "2026-05-16",
-      "dayofweek": "星期六",
-      "league": "法国甲级联赛",
-      "home": "圣埃蒂安",
-      "away": "罗德兹",
-      "spf_win": "2.90",
-      "spf_draw": "3.45",
-      "spf_lost": "2.02",
-      "spf_updated": "2026-05-14 13:15:01",
-      "gameid": "1411377",
-      "kickoff_cst": "2026-05-16 02:30",
-      "matchnum_label": "周五004",
-      "home_team_id": "494",
-      "away_team_id": "2155"
     },
     {
       "xml_id": "2039745",
