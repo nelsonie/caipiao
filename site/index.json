@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-14T01:10:08Z",
+  "last_updated_utc": "2026-05-14T01:20:12Z",
   "matches": [
     {
       "xml_id": "2039711",
@@ -90,24 +90,6 @@
       "matchnum_label": "周四004",
       "home_team_id": "2074",
       "away_team_id": "885"
-    },
-    {
-      "xml_id": "2039716",
-      "matchnum": "4005",
-      "date": "2026-05-15",
-      "dayofweek": "星期五",
-      "league": "西班牙甲级联赛",
-      "home": "皇家马德里",
-      "away": "皇家奥维耶多",
-      "spf_win": "2.63",
-      "spf_draw": "4.10",
-      "spf_lost": "1.98",
-      "spf_updated": "2026-05-13 09:39:05",
-      "gameid": "1215804",
-      "kickoff_cst": "2026-05-15 03:30",
-      "matchnum_label": "周四005",
-      "home_team_id": "883",
-      "away_team_id": "629"
     }
   ]
 }
