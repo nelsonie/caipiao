@@ -8,8 +8,8 @@
     "away": "罗德兹",
     "kickoff_cst": "2026-05-16 02:30",
     "spf": {
-      "win": "2.90",
-      "draw": "3.45",
+      "win": "2.98",
+      "draw": "3.35",
       "lost": "2.02"
     },
     "asia_main": {
@@ -24,7 +24,7 @@
       "lost": "4.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T03:10:08Z"
+    "fetched_at_utc": "2026-05-15T03:20:08Z"
   },
   "shuju": {
     "title": "圣埃蒂安VS罗德兹(2025/2026法乙)-数据分析-500彩票网",
@@ -634,22 +634,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "半球/一球",
-        "away_water": "0.890↓",
-        "time": "05-15 09:19"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "半球/一球",
-        "away_water": "1.020",
-        "time": "05-13 20:18"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -663,6 +647,22 @@
         "handicap": "半球/一球",
         "away_water": "0.950",
         "time": "05-13 19:58"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↑",
+        "handicap": "半球/一球",
+        "away_water": "0.890↓",
+        "time": "05-15 09:19"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "半球/一球",
+        "away_water": "1.020",
+        "time": "05-13 20:18"
       }
     },
     {
