@@ -24,7 +24,7 @@
       "lost": "2.52",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T17:40:30Z"
+    "fetched_at_utc": "2026-05-15T17:50:32Z"
   },
   "shuju": {
     "title": "萨索洛VS莱切(2025/2026意甲)-数据分析-500彩票网",
@@ -336,15 +336,264 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "45",
+            "name": "阿曼德·劳伦特",
+            "position": "前锋"
+          },
+          {
+            "number": "99",
+            "name": "安德烈亚·皮纳蒙蒂",
+            "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "克里斯蒂安·沃尔帕托",
+            "position": "前锋"
+          },
+          {
+            "number": "42",
+            "name": "克里斯蒂安·索斯特维德",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "内马尼亚·马蒂奇",
+            "position": "中场"
+          },
+          {
+            "number": "35",
+            "name": "卢卡·里帕尼",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "乔什·多伊格",
+            "position": "后卫"
+          },
+          {
+            "number": "80",
+            "name": "穆哈雷莫维奇",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "塞巴斯蒂安·瓦卢克维茨",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "沃约·库利巴利",
+            "position": "后卫"
+          },
+          {
+            "number": "49",
+            "name": "阿里贾尼特·穆里奇",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "10",
+            "name": "多梅尼科·贝拉尔迪",
+            "position": "前锋"
+          },
+          {
+            "number": "50",
+            "name": "达里尔·巴科拉",
+            "position": "中场"
+          },
+          {
+            "number": "44",
+            "name": "爱德华多·伊诺尼",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "乌利赛斯-加西亚",
+            "position": "后卫"
+          },
+          {
+            "number": "90",
+            "name": "伊斯梅尔·科内",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "卢卡·莫罗",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "姆巴拉·恩佐拉",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "菲利波·罗马涅",
+            "position": "后卫"
+          },
+          {
+            "number": "12",
+            "name": "吉亚科莫·萨塔里诺",
+            "position": "守门员"
+          },
+          {
+            "number": "40",
+            "name": "艾斯特·弗兰克斯",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "乔尔·扎基",
+            "position": "守门员"
+          },
+          {
+            "number": "33",
+            "name": "C·弗兰盖拉",
+            "position": "中场"
+          },
+          {
+            "number": "66",
+            "name": "佩德罗·费利佩",
+            "position": "后卫"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "99",
+            "name": "瓦利德·切蒂拉",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "拉姆克·班达",
+            "position": "中场"
+          },
+          {
+            "number": "29",
+            "name": "拉萨那·库利巴里",
+            "position": "中场"
+          },
+          {
+            "number": "50",
+            "name": "圣地亚哥·皮耶罗蒂",
+            "position": "中场"
+          },
+          {
+            "number": "79",
+            "name": "奥马尔·恩戈姆",
+            "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "伊博尔·拉马达尼",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "安东尼奥·加洛",
+            "position": "后卫"
+          },
+          {
+            "number": "44",
+            "name": "蒂亚戈·加布里埃尔",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "贾米尔·西伯特",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "达尼洛·维加",
+            "position": "后卫"
+          },
+          {
+            "number": "30",
+            "name": "法尔科内",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "22",
+            "name": "卡马尔达",
+            "position": "前锋"
+          },
+          {
+            "number": "1",
+            "name": "克里斯蒂安·弗吕希特尔",
+            "position": "守门员"
+          },
+          {
+            "number": "16",
+            "name": "奥姆里·甘德尔曼",
+            "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "奥拉夫·戈特",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "约翰·托里·赫尔加松",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "加比·吉恩",
+            "position": "后卫"
+          },
+          {
+            "number": "11",
+            "name": "科南·恩德里",
+            "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "尼古拉·斯图利奇",
+            "position": "前锋"
+          },
+          {
+            "number": "32",
+            "name": "贾斯帕·萨莫亚",
+            "position": "守门员"
+          },
+          {
+            "number": "6",
+            "name": "亚历克斯·萨拉",
+            "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "马蒂亚斯·佩雷斯",
+            "position": "后卫"
+          },
+          {
+            "number": "36",
+            "name": "菲利普·马奇温斯基",
+            "position": "中场"
+          },
+          {
+            "number": "80",
+            "name": "尼科·科瓦茨",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "科里·纳德巴",
+            "position": "后卫"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
@@ -464,22 +713,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.990↓",
-        "handicap": "平手降",
-        "away_water": "0.940↑",
-        "time": "05-15 23:58"
-      },
-      "init": {
-        "home_water": "1.010",
-        "handicap": "平手/半球",
-        "away_water": "0.920",
-        "time": "05-04 04:32"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -493,6 +726,22 @@
         "handicap": "平手/半球",
         "away_water": "0.890",
         "time": "05-04 13:51"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.990↓",
+        "handicap": "平手降",
+        "away_water": "0.940↑",
+        "time": "05-15 23:58"
+      },
+      "init": {
+        "home_water": "1.010",
+        "handicap": "平手/半球",
+        "away_water": "0.920",
+        "time": "05-04 04:32"
       }
     },
     {
