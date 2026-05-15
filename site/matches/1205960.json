@@ -24,7 +24,7 @@
       "lost": "8.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T06:20:10Z"
+    "fetched_at_utc": "2026-05-15T06:30:11Z"
   },
   "shuju": {
     "title": "勒沃库森VS汉堡(2025/2026德甲)-数据分析-500彩票网",
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "球半/两球升",
-        "away_water": "0.990↑",
-        "time": "05-15 13:55"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "球半",
-        "away_water": "0.950",
-        "time": "05-10 22:28"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -683,6 +667,22 @@
         "handicap": "球半",
         "away_water": "0.880",
         "time": "05-04 16:41"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "球半/两球升",
+        "away_water": "0.990↑",
+        "time": "05-15 13:55"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "球半",
+        "away_water": "0.950",
+        "time": "05-10 22:28"
       }
     },
     {
