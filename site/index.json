@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-15T13:00:34Z",
+  "last_updated_utc": "2026-05-15T13:10:34Z",
   "matches": [
     {
       "xml_id": "2039741",
@@ -180,24 +180,6 @@
       "matchnum_label": "周六005",
       "home_team_id": "3617",
       "away_team_id": "3302"
-    },
-    {
-      "xml_id": "2039757",
-      "matchnum": "6006",
-      "date": "2026-05-16",
-      "dayofweek": "星期六",
-      "league": "韩国职业联赛",
-      "home": "仁川联",
-      "away": "光州FC",
-      "spf_win": "2.43",
-      "spf_draw": "3.15",
-      "spf_lost": "2.50",
-      "spf_updated": "2026-05-15 09:44:46",
-      "gameid": "1373090",
-      "kickoff_cst": "2026-05-16 18:00",
-      "matchnum_label": "周六006",
-      "home_team_id": "1612",
-      "away_team_id": "6477"
     },
     {
       "xml_id": "2039762",
@@ -504,24 +486,6 @@
       "matchnum_label": "周日003",
       "home_team_id": "2272",
       "away_team_id": "6384"
-    },
-    {
-      "xml_id": "2039785",
-      "matchnum": "7004",
-      "date": "2026-05-17",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "富川FC",
-      "away": "浦项制铁",
-      "spf_win": "1.55",
-      "spf_draw": "3.45",
-      "spf_lost": "5.15",
-      "spf_updated": "2026-05-15 09:44:46",
-      "gameid": "1373116",
-      "kickoff_cst": "2026-05-17 18:00",
-      "matchnum_label": "周日004",
-      "home_team_id": "7075",
-      "away_team_id": "1608"
     },
     {
       "xml_id": "2039790",
