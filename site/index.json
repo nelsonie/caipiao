@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-15T07:50:33Z",
+  "last_updated_utc": "2026-05-15T08:00:35Z",
   "matches": [
     {
       "xml_id": "2039741",
@@ -162,6 +162,24 @@
       "matchnum_label": "周六004",
       "home_team_id": "870",
       "away_team_id": "658"
+    },
+    {
+      "xml_id": "2039756",
+      "matchnum": "6005",
+      "date": "2026-05-16",
+      "dayofweek": "星期六",
+      "league": "澳大利亚超级联赛",
+      "home": "纽卡斯尔喷气机",
+      "away": "悉尼FC",
+      "spf_win": "3.97",
+      "spf_draw": "3.90",
+      "spf_lost": "1.61",
+      "spf_updated": "2026-05-15 09:44:46",
+      "gameid": "1409691",
+      "kickoff_cst": "2026-05-16 17:40",
+      "matchnum_label": "周六005",
+      "home_team_id": "3617",
+      "away_team_id": "3302"
     },
     {
       "xml_id": "2039762",
@@ -468,6 +486,24 @@
       "matchnum_label": "周日003",
       "home_team_id": "2272",
       "away_team_id": "6384"
+    },
+    {
+      "xml_id": "2039785",
+      "matchnum": "7004",
+      "date": "2026-05-17",
+      "dayofweek": "星期天",
+      "league": "韩国职业联赛",
+      "home": "富川FC",
+      "away": "浦项制铁",
+      "spf_win": "1.55",
+      "spf_draw": "3.45",
+      "spf_lost": "5.15",
+      "spf_updated": "2026-05-15 09:44:46",
+      "gameid": "1373116",
+      "kickoff_cst": "2026-05-17 18:00",
+      "matchnum_label": "周日004",
+      "home_team_id": "7075",
+      "away_team_id": "1608"
     },
     {
       "xml_id": "2039790",
