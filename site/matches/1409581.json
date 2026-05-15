@@ -24,7 +24,7 @@
       "lost": "2.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T09:40:07Z"
+    "fetched_at_utc": "2026-05-15T09:50:07Z"
   },
   "shuju": {
     "title": "阿德莱德联VS奥克兰FC(2025/2026澳超)-数据分析-500彩票网",
@@ -419,19 +419,14 @@
         "formation": null,
         "starters": [
           {
-            "number": "21",
-            "name": "杰西·兰德尔",
-            "position": "前锋"
-          },
-          {
             "number": "9",
             "name": "山姆·科斯格罗夫",
             "position": "前锋"
           },
           {
-            "number": "77",
-            "name": "拉克兰·布鲁克",
-            "position": "中场"
+            "number": "21",
+            "name": "杰西·兰德尔",
+            "position": "前锋"
           },
           {
             "number": "7",
@@ -444,14 +439,19 @@
             "position": "中场"
           },
           {
-            "number": "3",
-            "name": "杰克·麦克斯·戈德伍德-赖希",
+            "number": "77",
+            "name": "拉克兰·布鲁克",
             "position": "中场"
           },
           {
             "number": "17",
             "name": "卡伦·埃利奥特",
             "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "杰克·麦克斯·戈德伍德-赖希",
+            "position": "中场"
           },
           {
             "number": "4",
@@ -630,22 +630,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "平手/半球",
-        "away_water": "0.980↑",
-        "time": "05-15 17:31"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "平手/半球",
-        "away_water": "0.930",
-        "time": "05-10 07:27"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -659,6 +643,22 @@
         "handicap": "平手/半球",
         "away_water": "0.810",
         "time": "05-14 08:37"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "平手/半球",
+        "away_water": "0.980↑",
+        "time": "05-15 17:31"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "平手/半球",
+        "away_water": "0.930",
+        "time": "05-10 07:27"
       }
     },
     {
