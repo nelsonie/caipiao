@@ -24,7 +24,7 @@
       "lost": "2.13",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T07:30:16Z"
+    "fetched_at_utc": "2026-05-15T07:40:20Z"
   },
   "shuju": {
     "title": "柏林联合VS奥格斯堡(2025/2026德甲)-数据分析-500彩票网",
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "平手",
-        "away_water": "0.840↓",
-        "time": "05-15 14:41"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "平手",
-        "away_water": "0.950",
-        "time": "05-11 05:34"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -683,6 +667,22 @@
         "handicap": "平手",
         "away_water": "0.960",
         "time": "05-04 16:41"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "平手",
+        "away_water": "0.840↓",
+        "time": "05-15 14:41"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "平手",
+        "away_water": "0.950",
+        "time": "05-11 05:34"
       }
     },
     {

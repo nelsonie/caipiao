@@ -24,7 +24,7 @@
       "lost": "3.15",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T07:30:15Z"
+    "fetched_at_utc": "2026-05-15T07:40:16Z"
   },
   "shuju": {
     "title": "海登海姆VS美因茨(2025/2026德甲)-数据分析-500彩票网",
@@ -643,22 +643,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "半球",
-        "away_water": "0.930↑",
-        "time": "05-15 12:01"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "半球",
-        "away_water": "0.860",
-        "time": "05-11 17:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -672,6 +656,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.970",
         "time": "05-04 16:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "半球",
+        "away_water": "0.930↑",
+        "time": "05-15 12:01"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "半球",
+        "away_water": "0.860",
+        "time": "05-11 17:05"
       }
     },
     {
