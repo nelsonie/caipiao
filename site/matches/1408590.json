@@ -24,7 +24,7 @@
       "lost": "1.61",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T09:00:22Z"
+    "fetched_at_utc": "2026-05-15T09:10:19Z"
   },
   "shuju": {
     "title": "切尔西VS曼彻斯特城(2025/2026英足总杯)-数据分析-500彩票网",
@@ -710,6 +710,22 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.950↓",
+        "handicap": "受半球/一球",
+        "away_water": "0.870↓",
+        "time": "05-15 16:16"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "受半球/一球",
+        "away_water": "0.970",
+        "time": "04-27 01:31"
+      }
+    },
+    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -723,22 +739,6 @@
         "handicap": "受半球/一球",
         "away_water": "0.970",
         "time": "04-27 18:22"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.930↓",
-        "handicap": "受半球/一球",
-        "away_water": "0.870↓",
-        "time": "05-15 15:17"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "受半球/一球",
-        "away_water": "0.970",
-        "time": "04-27 01:31"
       }
     },
     {
@@ -809,10 +809,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "1.050↑",
+        "home_water": "1.030↑",
         "handicap": "受半球/一球",
-        "away_water": "0.850↓",
-        "time": "05-15 14:49"
+        "away_water": "0.870↓",
+        "time": "05-15 16:21"
       },
       "init": {
         "home_water": "0.940",
