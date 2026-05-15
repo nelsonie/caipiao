@@ -24,7 +24,7 @@
       "lost": "4.10",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T01:40:06Z"
+    "fetched_at_utc": "2026-05-15T01:50:08Z"
   },
   "shuju": {
     "title": "达马克VS费哈(2025/2026沙特联)-数据分析-500彩票网",
@@ -652,22 +652,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.790↓",
-        "handicap": "半球降",
-        "away_water": "1.020↑",
-        "time": "05-15 09:12"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "半球/一球",
-        "away_water": "0.840",
-        "time": "05-14 12:42"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -681,6 +665,22 @@
         "handicap": "平手/半球",
         "away_water": "0.710",
         "time": "05-11 02:27"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.790↓",
+        "handicap": "半球降",
+        "away_water": "1.020↑",
+        "time": "05-15 09:12"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "半球/一球",
+        "away_water": "0.840",
+        "time": "05-14 12:42"
       }
     },
     {
