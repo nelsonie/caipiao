@@ -24,7 +24,7 @@
       "lost": "4.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T10:20:33Z"
+    "fetched_at_utc": "2026-05-15T10:30:29Z"
   },
   "shuju": {
     "title": "亚特兰大VS博洛尼亚(2025/2026意甲)-数据分析-500彩票网",
@@ -703,22 +703,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.790↑",
-        "handicap": "半球/一球",
-        "away_water": "0.940↓",
-        "time": "05-15 00:12"
-      },
-      "init": {
-        "home_water": "0.760",
-        "handicap": "半球/一球",
-        "away_water": "0.970",
-        "time": "05-04 04:32"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -732,6 +716,22 @@
         "handicap": "半球/一球",
         "away_water": "1.070",
         "time": "05-04 13:51"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.790↑",
+        "handicap": "半球/一球",
+        "away_water": "0.940↓",
+        "time": "05-15 00:12"
+      },
+      "init": {
+        "home_water": "0.760",
+        "handicap": "半球/一球",
+        "away_water": "0.970",
+        "time": "05-04 04:32"
       }
     },
     {

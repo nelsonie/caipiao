@@ -24,7 +24,7 @@
       "lost": "2.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T10:20:09Z"
+    "fetched_at_utc": "2026-05-15T10:30:07Z"
   },
   "shuju": {
     "title": "阿德莱德联VS奥克兰FC(2025/2026澳超)-数据分析-500彩票网",
@@ -320,23 +320,8 @@
         "formation": null,
         "starters": [
           {
-            "number": "87",
-            "name": "安塞尔莫·德·莫赖斯",
-            "position": "前锋"
-          },
-          {
             "number": "19",
             "name": "亚亚·杜库利",
-            "position": "中场"
-          },
-          {
-            "number": "12",
-            "name": "乔尼·尤尔",
-            "position": "中场"
-          },
-          {
-            "number": "44",
-            "name": "赖安·怀特",
             "position": "中场"
           },
           {
@@ -345,8 +330,23 @@
             "position": "中场"
           },
           {
+            "number": "87",
+            "name": "安塞尔莫·德·莫赖斯",
+            "position": "前锋"
+          },
+          {
+            "number": "12",
+            "name": "乔尼·尤尔",
+            "position": "中场"
+          },
+          {
             "number": "55",
             "name": "伊桑·阿拉吉奇",
+            "position": "中场"
+          },
+          {
+            "number": "44",
+            "name": "赖安·怀特",
             "position": "中场"
           },
           {
@@ -377,24 +377,9 @@
         ],
         "subs": [
           {
-            "number": "23",
-            "name": "卢克·杜泽尔",
-            "position": "中场"
-          },
-          {
-            "number": "52",
-            "name": "索蒂里·菲利斯",
-            "position": "后卫"
-          },
-          {
-            "number": "10",
-            "name": "胡安·穆尼兹",
-            "position": "中场"
-          },
-          {
-            "number": "9",
-            "name": "卢卡·约万诺维奇",
-            "position": "前锋"
+            "number": "40",
+            "name": "伊桑·考克斯",
+            "position": "守门员"
           },
           {
             "number": "11",
@@ -407,9 +392,24 @@
             "position": "前锋"
           },
           {
-            "number": "40",
-            "name": "伊桑·考克斯",
-            "position": "守门员"
+            "number": "10",
+            "name": "胡安·穆尼兹",
+            "position": "中场"
+          },
+          {
+            "number": "52",
+            "name": "索蒂里·菲利斯",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "卢克·杜泽尔",
+            "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "卢卡·约万诺维奇",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -449,11 +449,6 @@
             "position": "后卫"
           },
           {
-            "number": "3",
-            "name": "杰克·麦克斯·戈德伍德-赖希",
-            "position": "中场"
-          },
-          {
             "number": "4",
             "name": "南多·派纳克",
             "position": "后卫"
@@ -462,6 +457,11 @@
             "number": "23",
             "name": "丹尼尔·霍尔",
             "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "杰克·麦克斯·戈德伍德-赖希",
+            "position": "中场"
           },
           {
             "number": "2",
@@ -476,11 +476,6 @@
         ],
         "subs": [
           {
-            "number": "57",
-            "name": "范·菲茨哈里斯",
-            "position": "中场"
-          },
-          {
             "number": "15",
             "name": "弗朗西斯·德弗里斯",
             "position": "后卫"
@@ -491,14 +486,9 @@
             "position": "后卫"
           },
           {
-            "number": "27",
-            "name": "洛根·罗杰森",
+            "number": "14",
+            "name": "利亚姆·吉利翁",
             "position": "前锋"
-          },
-          {
-            "number": "18",
-            "name": "芬·麦肯莱",
-            "position": "中场"
           },
           {
             "number": "12",
@@ -506,9 +496,19 @@
             "position": "守门员"
           },
           {
-            "number": "14",
-            "name": "利亚姆·吉利翁",
+            "number": "18",
+            "name": "芬·麦肯莱",
+            "position": "中场"
+          },
+          {
+            "number": "27",
+            "name": "洛根·罗杰森",
             "position": "前锋"
+          },
+          {
+            "number": "57",
+            "name": "范·菲茨哈里斯",
+            "position": "中场"
           }
         ],
         "injured": [],
