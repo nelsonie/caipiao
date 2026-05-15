@@ -24,7 +24,7 @@
       "lost": "2.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T05:20:12Z"
+    "fetched_at_utc": "2026-05-15T05:30:14Z"
   },
   "shuju": {
     "title": "圣保利VS沃尔夫斯堡(2025/2026德甲)-数据分析-500彩票网",
@@ -644,22 +644,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.790↓",
-        "handicap": "受平手/半球降",
-        "away_water": "1.030↑",
-        "time": "05-15 10:05"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "平手",
-        "away_water": "0.900",
-        "time": "05-11 04:14"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -673,6 +657,22 @@
         "handicap": "平手",
         "away_water": "0.960",
         "time": "05-04 16:41"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.790↓",
+        "handicap": "受平手/半球降",
+        "away_water": "1.030↑",
+        "time": "05-15 10:05"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "平手",
+        "away_water": "0.900",
+        "time": "05-11 04:14"
       }
     },
     {
