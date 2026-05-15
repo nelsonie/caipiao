@@ -24,7 +24,7 @@
       "lost": "10.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-15T20:20:13Z"
+    "fetched_at_utc": "2026-05-15T20:30:09Z"
   },
   "shuju": {
     "title": "拜仁慕尼黑VS科隆(2025/2026德甲)-数据分析-500彩票网",
@@ -618,10 +618,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.880↓",
         "handicap": "两球半升",
-        "away_water": "1.000↑",
-        "time": "05-16 02:44"
+        "away_water": "0.980↑",
+        "time": "05-16 04:19"
       },
       "init": {
         "home_water": "1.030",
@@ -650,10 +650,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.920↓",
+        "home_water": "0.880↓",
         "handicap": "两球半升",
-        "away_water": "0.960↑",
-        "time": "05-16 00:52"
+        "away_water": "1.000↑",
+        "time": "05-16 04:21"
       },
       "init": {
         "home_water": "1.020",
@@ -679,22 +679,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "两球半升",
-        "away_water": "0.980↑",
-        "time": "05-16 02:55"
-      },
-      "init": {
-        "home_water": "1.010",
-        "handicap": "两球/两球半",
-        "away_water": "0.810",
-        "time": "05-11 04:06"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -708,6 +692,22 @@
         "handicap": "两球/两球半",
         "away_water": "0.880",
         "time": "05-04 17:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "两球半升",
+        "away_water": "0.980↑",
+        "time": "05-16 02:55"
+      },
+      "init": {
+        "home_water": "1.010",
+        "handicap": "两球/两球半",
+        "away_water": "0.810",
+        "time": "05-11 04:06"
       }
     },
     {
