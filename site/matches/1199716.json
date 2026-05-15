@@ -24,7 +24,7 @@
       "lost": "2.52",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T16:10:32Z"
+    "fetched_at_utc": "2026-05-15T16:20:33Z"
   },
   "shuju": {
     "title": "萨索洛VS莱切(2025/2026意甲)-数据分析-500彩票网",
@@ -451,32 +451,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.960↓",
+        "home_water": "0.950↓",
         "handicap": "平手",
         "away_water": "0.910↑",
-        "time": "05-15 22:21"
+        "time": "05-16 00:10"
       },
       "init": {
         "home_water": "1.010",
         "handicap": "平手",
         "away_water": "0.860",
         "time": "05-14 16:25"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↓",
-        "handicap": "平手降",
-        "away_water": "0.920↑",
-        "time": "05-16 00:02"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "平手/半球",
-        "away_water": "0.890",
-        "time": "05-04 13:51"
       }
     },
     {
@@ -493,6 +477,22 @@
         "handicap": "平手/半球",
         "away_water": "0.920",
         "time": "05-04 04:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↓",
+        "handicap": "平手降",
+        "away_water": "0.920↑",
+        "time": "05-16 00:02"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "平手/半球",
+        "away_water": "0.890",
+        "time": "05-04 13:51"
       }
     },
     {
