@@ -24,7 +24,7 @@
       "lost": "3.65",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-15T03:30:32Z"
+    "fetched_at_utc": "2026-05-15T03:40:35Z"
   },
   "shuju": {
     "title": "里昂VS朗斯(2025/2026法甲)-数据分析-500彩票网",
@@ -661,22 +661,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.870↓",
-        "time": "05-15 04:11"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "半球",
-        "away_water": "1.020",
-        "time": "05-11 18:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -690,6 +674,22 @@
         "handicap": "平手",
         "away_water": "0.960",
         "time": "05-04 17:31"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.870↓",
+        "time": "05-15 04:11"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "半球",
+        "away_water": "1.020",
+        "time": "05-11 18:05"
       }
     },
     {
