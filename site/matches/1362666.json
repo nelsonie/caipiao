@@ -24,13 +24,13 @@
       "lost": "5.10",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T15:30:32Z"
+    "fetched_at_utc": "2026-05-16T15:40:31Z"
   },
   "shuju": {
     "title": "哈马比VS马尔默(2026瑞典超)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，哈马比 2胜 1平 3负 ，进10球，失12球，大球4次，小球2次",
     "team_ranks": [
-      "哈马比 [瑞典超2]",
+      "哈马比 [瑞典超3]",
       "马尔默 [瑞典超7]"
     ],
     "h2h_rows": [
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.760↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.900↑",
-        "time": "05-16 10:33"
-      },
-      "init": {
-        "home_water": "1.440",
-        "handicap": "球半",
-        "away_water": "0.490",
-        "time": "05-10 22:47"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "半球/一球",
         "away_water": "1.030",
         "time": "05-12 08:27"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.760↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.900↑",
+        "time": "05-16 10:33"
+      },
+      "init": {
+        "home_water": "1.440",
+        "handicap": "球半",
+        "away_water": "0.490",
+        "time": "05-10 22:47"
       }
     },
     {
