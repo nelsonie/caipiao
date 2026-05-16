@@ -24,7 +24,7 @@
       "lost": "2.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T13:50:14Z"
+    "fetched_at_utc": "2026-05-16T14:00:13Z"
   },
   "shuju": {
     "title": "圣保利VS沃尔夫斯堡(2025/2026德甲)-数据分析-500彩票网",
@@ -359,8 +359,8 @@
             "position": "中场"
           },
           {
-            "number": "25",
-            "name": "亚当·德维加拉",
+            "number": "15",
+            "name": "安藤智哉",
             "position": "后卫"
           },
           {
@@ -369,8 +369,8 @@
             "position": "后卫"
           },
           {
-            "number": "15",
-            "name": "安藤智哉",
+            "number": "25",
+            "name": "亚当·德维加拉",
             "position": "后卫"
           },
           {
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "平手",
-        "away_water": "0.940↓",
-        "time": "05-16 21:16"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "平手",
-        "away_water": "0.960",
-        "time": "05-04 16:41"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -683,6 +667,22 @@
         "handicap": "平手",
         "away_water": "0.900",
         "time": "05-11 04:14"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "平手",
+        "away_water": "0.940↓",
+        "time": "05-16 21:16"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "平手",
+        "away_water": "0.960",
+        "time": "05-04 16:41"
       }
     },
     {
