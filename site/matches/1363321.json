@@ -24,7 +24,7 @@
       "lost": "4.55",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T11:20:09Z"
+    "fetched_at_utc": "2026-05-16T11:30:12Z"
   },
   "shuju": {
     "title": "赫尔辛基VS埃尔维斯(2026芬超)-数据分析-500彩票网",
@@ -398,6 +398,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "7",
+            "name": "阿尔菲·西卡莱",
+            "position": "前锋"
+          },
+          {
             "number": "20",
             "name": "特姆·普基",
             "position": "前锋"
@@ -420,11 +425,6 @@
           {
             "number": "15",
             "name": "杰里·卡利宁",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "皮里·门图",
             "position": "中场"
           },
           {
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "一球",
-        "away_water": "0.760↓",
-        "time": "05-16 18:47"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "一球",
-        "away_water": "0.830",
-        "time": "05-09 19:43"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "半球/一球",
         "away_water": "0.940",
         "time": "05-13 19:29"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "一球",
+        "away_water": "0.760↓",
+        "time": "05-16 18:47"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "一球",
+        "away_water": "0.830",
+        "time": "05-09 19:43"
       }
     },
     {
