@@ -24,7 +24,7 @@
       "lost": "1.71",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T19:30:15Z"
+    "fetched_at_utc": "2026-05-16T19:40:17Z"
   },
   "shuju": {
     "title": "狼队VS富勒姆(2025/2026英超)-数据分析-500彩票网",
@@ -668,22 +668,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.660↓",
-        "handicap": "受半球/一球降",
-        "away_water": "1.060↑",
-        "time": "05-16 23:08"
-      },
-      "init": {
-        "home_water": "1.120",
-        "handicap": "受平手/半球",
-        "away_water": "0.660",
-        "time": "05-04 04:32"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -697,6 +681,22 @@
         "handicap": "受半球",
         "away_water": "0.930",
         "time": "05-04 14:35"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.660↓",
+        "handicap": "受半球/一球降",
+        "away_water": "1.060↑",
+        "time": "05-16 23:08"
+      },
+      "init": {
+        "home_water": "1.120",
+        "handicap": "受平手/半球",
+        "away_water": "0.660",
+        "time": "05-04 04:32"
       }
     },
     {
