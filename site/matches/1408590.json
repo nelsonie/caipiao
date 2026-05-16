@@ -24,7 +24,7 @@
       "lost": "1.61",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T14:20:17Z"
+    "fetched_at_utc": "2026-05-16T14:30:21Z"
   },
   "shuju": {
     "title": "切尔西VS曼彻斯特城(2025/2026英足总杯)-数据分析-500彩票网",
@@ -385,11 +385,6 @@
             "position": "前锋"
           },
           {
-            "number": "3",
-            "name": "马克·库库雷利亚",
-            "position": "中场"
-          },
-          {
             "number": "8",
             "name": "恩佐·费尔南德斯",
             "position": "中场"
@@ -400,6 +395,11 @@
             "position": "中场"
           },
           {
+            "number": "3",
+            "name": "马克·库库雷利亚",
+            "position": "中场"
+          },
+          {
             "number": "25",
             "name": "莫伊塞斯·凯塞多",
             "position": "中场"
@@ -407,6 +407,11 @@
           {
             "number": "24",
             "name": "里斯·詹姆斯",
+            "position": "中场"
+          },
+          {
+            "number": "27",
+            "name": "马洛·古斯托",
             "position": "中场"
           },
           {
@@ -425,22 +430,12 @@
             "position": "后卫"
           },
           {
-            "number": "27",
-            "name": "马洛·古斯托",
-            "position": "后卫"
-          },
-          {
             "number": "1",
             "name": "罗伯特·桑切斯",
             "position": "守门员"
           }
         ],
         "subs": [
-          {
-            "number": "12",
-            "name": "菲利普·约恩森",
-            "position": "守门员"
-          },
           {
             "number": "34",
             "name": "乔希·阿昌庞",
@@ -480,6 +475,11 @@
             "number": "9",
             "name": "利亚姆·德拉普",
             "position": "前锋"
+          },
+          {
+            "number": "12",
+            "name": "菲利普·约恩森",
+            "position": "守门员"
           }
         ],
         "injured": [],
@@ -494,13 +494,13 @@
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "杰里米·多库",
-            "position": "中场"
-          },
-          {
             "number": "7",
             "name": "奥马尔·马尔穆什",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "杰里米·多库",
             "position": "中场"
           },
           {
@@ -546,6 +546,16 @@
         ],
         "subs": [
           {
+            "number": "3",
+            "name": "鲁本·迪亚斯",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "吉安路易吉·多纳鲁马",
+            "position": "守门员"
+          },
+          {
             "number": "4",
             "name": "蒂贾尼·赖因德斯",
             "position": "中场"
@@ -571,23 +581,13 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "内森·阿克",
-            "position": "后卫"
-          },
-          {
             "number": "5",
             "name": "约翰·斯通斯",
             "position": "后卫"
           },
           {
-            "number": "25",
-            "name": "吉安路易吉·多纳鲁马",
-            "position": "守门员"
-          },
-          {
-            "number": "3",
-            "name": "鲁本·迪亚斯",
+            "number": "6",
+            "name": "内森·阿克",
             "position": "后卫"
           }
         ],
@@ -710,22 +710,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860",
-        "handicap": "受半球/一球",
-        "away_water": "0.970",
-        "time": "05-16 22:01"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "受半球/一球",
-        "away_water": "0.970",
-        "time": "04-27 18:22"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -739,6 +723,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.970",
         "time": "04-27 01:31"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860",
+        "handicap": "受半球/一球",
+        "away_water": "0.970",
+        "time": "05-16 22:01"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "受半球/一球",
+        "away_water": "0.970",
+        "time": "04-27 18:22"
       }
     },
     {
