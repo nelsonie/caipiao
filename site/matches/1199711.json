@@ -24,7 +24,7 @@
       "lost": "12.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T18:00:12Z"
+    "fetched_at_utc": "2026-05-16T18:10:12Z"
   },
   "shuju": {
     "title": "科莫VS帕尔马(2025/2026意甲)-数据分析-500彩票网",
@@ -703,22 +703,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.060↑",
-        "handicap": "球半/两球升",
-        "away_water": "0.840↓",
-        "time": "05-16 23:57"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "球半",
-        "away_water": "0.860",
-        "time": "05-04 06:13"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -732,6 +716,22 @@
         "handicap": "球半",
         "away_water": "0.900",
         "time": "05-04 04:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.060↑",
+        "handicap": "球半/两球升",
+        "away_water": "0.840↓",
+        "time": "05-16 23:57"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "球半",
+        "away_water": "0.860",
+        "time": "05-04 06:13"
       }
     },
     {
