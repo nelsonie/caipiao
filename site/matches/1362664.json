@@ -24,7 +24,7 @@
       "lost": "4.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T13:20:14Z"
+    "fetched_at_utc": "2026-05-16T13:30:12Z"
   },
   "shuju": {
     "title": "哥德堡盖斯VS代格福什(2026瑞典超)-数据分析-500彩票网",
@@ -733,22 +733,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "半球/一球",
-        "away_water": "0.860↓",
-        "time": "05-16 20:55"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "半球/一球",
-        "away_water": "1.000",
-        "time": "05-11 10:22"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -762,6 +746,22 @@
         "handicap": "一球",
         "away_water": "0.620",
         "time": "05-09 21:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "半球/一球",
+        "away_water": "0.860↓",
+        "time": "05-16 20:55"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "半球/一球",
+        "away_water": "1.000",
+        "time": "05-11 10:22"
       }
     },
     {
