@@ -24,7 +24,7 @@
       "lost": "1.76",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T11:00:34Z"
+    "fetched_at_utc": "2026-05-16T11:10:36Z"
   },
   "shuju": {
     "title": "达姆施塔特VS帕德博恩(2025/2026德乙)-数据分析-500彩票网",
@@ -639,22 +639,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↑",
-        "handicap": "受半球",
-        "away_water": "0.840↓",
-        "time": "05-15 20:06"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "受半球",
-        "away_water": "0.880",
-        "time": "05-12 08:21"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -668,6 +652,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.700",
         "time": "05-10 21:56"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↑",
+        "handicap": "受半球",
+        "away_water": "0.840↓",
+        "time": "05-15 20:06"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "受半球",
+        "away_water": "0.880",
+        "time": "05-12 08:21"
       }
     },
     {
