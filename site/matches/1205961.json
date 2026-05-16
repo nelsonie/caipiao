@@ -24,7 +24,7 @@
       "lost": "2.13",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T12:20:14Z"
+    "fetched_at_utc": "2026-05-16T12:30:19Z"
   },
   "shuju": {
     "title": "柏林联合VS奥格斯堡(2025/2026德甲)-数据分析-500彩票网",
@@ -643,30 +643,14 @@
       "live": {
         "home_water": "0.830↓",
         "handicap": "受平手/半球降",
-        "away_water": "1.070↑",
-        "time": "05-16 20:15"
+        "away_water": "1.080↑",
+        "time": "05-16 20:19"
       },
       "init": {
         "home_water": "1.000",
         "handicap": "平手",
         "away_water": "0.860",
         "time": "05-11 23:59"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "受平手/半球降",
-        "away_water": "1.050↑",
-        "time": "05-16 20:17"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "平手",
-        "away_water": "0.950",
-        "time": "05-11 05:34"
       }
     },
     {
@@ -683,6 +667,22 @@
         "handicap": "平手",
         "away_water": "0.960",
         "time": "05-04 16:41"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "受平手/半球降",
+        "away_water": "1.050↑",
+        "time": "05-16 20:17"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "平手",
+        "away_water": "0.950",
+        "time": "05-11 05:34"
       }
     },
     {
@@ -705,10 +705,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.840↓",
         "handicap": "受平手/半球降",
-        "away_water": "1.090↑",
-        "time": "05-16 20:12"
+        "away_water": "1.110↑",
+        "time": "05-16 20:19"
       },
       "init": {
         "home_water": "0.990",
@@ -1864,7 +1864,7 @@
     {
       "cid": "18",
       "company": "必*",
-      "time": "2026-05-16 19:52:26",
+      "time": "2026-05-16 20:18:22",
       "odds": {
         "live": [
           "2.40",
