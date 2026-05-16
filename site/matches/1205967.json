@@ -24,7 +24,7 @@
       "lost": "1.74",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T15:00:16Z"
+    "fetched_at_utc": "2026-05-16T15:10:17Z"
   },
   "shuju": {
     "title": "法兰克福VS斯图加特(2025/2026德甲)-数据分析-500彩票网",
@@ -354,13 +354,18 @@
             "position": "中场"
           },
           {
-            "number": "27",
-            "name": "马里奥·格策",
+            "number": "42",
+            "name": "坎·伊尔马兹·乌尊",
             "position": "中场"
           },
           {
-            "number": "20",
-            "name": "堂安律",
+            "number": "21",
+            "name": "纳撒尼尔·布朗",
+            "position": "中场"
+          },
+          {
+            "number": "27",
+            "name": "马里奥·格策",
             "position": "中场"
           },
           {
@@ -369,14 +374,9 @@
             "position": "中场"
           },
           {
-            "number": "42",
-            "name": "坎·伊尔马兹·乌尊",
+            "number": "20",
+            "name": "堂安律",
             "position": "中场"
-          },
-          {
-            "number": "21",
-            "name": "纳撒尼尔·布朗",
-            "position": "后卫"
           },
           {
             "number": "5",
@@ -674,22 +674,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "受半球/一球降",
-        "away_water": "1.020↑",
-        "time": "05-16 21:32"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "受半球",
-        "away_water": "0.870",
-        "time": "05-11 17:55"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -703,6 +687,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.920",
         "time": "05-04 16:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "受半球/一球降",
+        "away_water": "1.020↑",
+        "time": "05-16 21:32"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "受半球",
+        "away_water": "0.870",
+        "time": "05-11 17:55"
       }
     },
     {

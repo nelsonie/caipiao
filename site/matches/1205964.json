@@ -24,7 +24,7 @@
       "lost": "1.78",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T15:00:17Z"
+    "fetched_at_utc": "2026-05-16T15:10:18Z"
   },
   "shuju": {
     "title": "云达不莱梅VS多特蒙德(2025/2026德甲)-数据分析-500彩票网",
@@ -352,11 +352,6 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "塞恩·林恩",
-            "position": "中场"
-          },
-          {
             "number": "6",
             "name": "詹斯·斯塔格",
             "position": "中场"
@@ -364,6 +359,11 @@
           {
             "number": "11",
             "name": "贾斯汀·金马",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "塞恩·林恩",
             "position": "中场"
           },
           {
@@ -399,13 +399,23 @@
             "position": "后卫"
           },
           {
-            "number": "19",
-            "name": "约万·米洛舍维奇",
-            "position": "前锋"
+            "number": "10",
+            "name": "莱昂纳多·比滕考特",
+            "position": "中场"
           },
           {
-            "number": "7",
-            "name": "塞缪尔·姆班古拉·西丰达",
+            "number": "24",
+            "name": "帕特里斯·科维奇",
+            "position": "中场"
+          },
+          {
+            "number": "32",
+            "name": "马尔科·弗里德尔",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "马克·格鲁尔",
             "position": "前锋"
           },
           {
@@ -414,29 +424,19 @@
             "position": "守门员"
           },
           {
-            "number": "17",
-            "name": "马克·格鲁尔",
+            "number": "7",
+            "name": "塞缪尔·姆班古拉·西丰达",
             "position": "前锋"
           },
           {
-            "number": "32",
-            "name": "马尔科·弗里德尔",
-            "position": "后卫"
-          },
-          {
-            "number": "24",
-            "name": "帕特里斯·科维奇",
-            "position": "中场"
+            "number": "19",
+            "name": "约万·米洛舍维奇",
+            "position": "前锋"
           },
           {
             "number": "4",
             "name": "尼克拉斯·施塔克",
             "position": "后卫"
-          },
-          {
-            "number": "10",
-            "name": "莱昂纳多·比滕考特",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -503,21 +503,6 @@
         ],
         "subs": [
           {
-            "number": "2",
-            "name": "扬库托",
-            "position": "后卫"
-          },
-          {
-            "number": "33",
-            "name": "亚历山大·迈尔",
-            "position": "守门员"
-          },
-          {
-            "number": "6",
-            "name": "萨利赫·厄兹詹",
-            "position": "中场"
-          },
-          {
             "number": "20",
             "name": "马塞尔·萨比策",
             "position": "中场"
@@ -533,6 +518,21 @@
             "position": "后卫"
           },
           {
+            "number": "33",
+            "name": "亚历山大·迈尔",
+            "position": "守门员"
+          },
+          {
+            "number": "2",
+            "name": "扬库托",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "卡尔尼·丘库埃梅卡",
+            "position": "中场"
+          },
+          {
             "number": "10",
             "name": "朱利安·布兰特",
             "position": "中场"
@@ -543,8 +543,8 @@
             "position": "前锋"
           },
           {
-            "number": "17",
-            "name": "卡尔尼·丘库埃梅卡",
+            "number": "6",
+            "name": "萨利赫·厄兹詹",
             "position": "中场"
           }
         ],
