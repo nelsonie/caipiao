@@ -24,7 +24,7 @@
       "lost": "2.92",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T18:40:21Z"
+    "fetched_at_utc": "2026-05-16T18:50:21Z"
   },
   "shuju": {
     "title": "纽卡斯尔联VS西汉姆联(2025/2026英超)-数据分析-500彩票网",
@@ -668,22 +668,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "平手/半球降",
-        "away_water": "0.930",
-        "time": "05-17 00:54"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "半球",
-        "away_water": "0.930",
-        "time": "05-04 06:09"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -697,6 +681,22 @@
         "handicap": "半球/一球",
         "away_water": "0.710",
         "time": "05-04 04:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "平手/半球降",
+        "away_water": "0.930",
+        "time": "05-17 00:54"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "半球",
+        "away_water": "0.930",
+        "time": "05-04 06:09"
       }
     },
     {
