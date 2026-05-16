@@ -24,7 +24,7 @@
       "lost": "1.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T13:10:09Z"
+    "fetched_at_utc": "2026-05-16T13:20:13Z"
   },
   "shuju": {
     "title": "哈尔姆VS埃尔夫斯堡(2026瑞典超)-数据分析-500彩票网",
@@ -398,13 +398,18 @@
         "formation": null,
         "starters": [
           {
+            "number": "19",
+            "name": "马文·伊拉里",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "奥马尔·法拉杰",
             "position": "前锋"
           },
           {
-            "number": "27",
-            "name": "罗科·阿斯科内",
+            "number": "11",
+            "name": "艾里克·路德维格·阿维德森",
             "position": "前锋"
           },
           {
@@ -413,29 +418,19 @@
             "position": "中场"
           },
           {
+            "number": "27",
+            "name": "罗科·阿斯科内",
+            "position": "中场"
+          },
+          {
             "number": "6",
             "name": "乔尔·阿兰森",
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "帕斯卡尔",
-            "position": "中场"
-          },
-          {
-            "number": "11",
-            "name": "艾里克·路德维格·阿维德森",
-            "position": "中场"
-          },
-          {
-            "number": "17",
-            "name": "安德烈·博曼",
-            "position": "后卫"
-          },
-          {
             "number": "14",
             "name": "侯赛因·卡尼尔",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "16",
@@ -443,8 +438,13 @@
             "position": "后卫"
           },
           {
-            "number": "19",
-            "name": "马文·伊拉里",
+            "number": "5",
+            "name": "帕斯卡尔",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "安德烈·博曼",
             "position": "后卫"
           },
           {
@@ -458,11 +458,6 @@
             "number": "25",
             "name": "亚历山大·尼尔森",
             "position": "中场"
-          },
-          {
-            "number": "22",
-            "name": "奥利弗·卡普西马利斯",
-            "position": "前锋"
           },
           {
             "number": "20",
@@ -498,6 +493,11 @@
             "number": "3",
             "name": "加布里埃尔·瓦伦丁",
             "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "奥利弗·卡普西马利斯",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -507,8 +507,8 @@
         "formation": null,
         "starters": [
           {
-            "number": "19",
-            "name": "朱利叶斯·贝克",
+            "number": "21",
+            "name": "利奥·哈坎·奥斯特曼",
             "position": "前锋"
           },
           {
@@ -517,8 +517,8 @@
             "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "利奥·哈坎·奥斯特曼",
+            "number": "19",
+            "name": "朱利叶斯·贝克",
             "position": "前锋"
           },
           {
@@ -547,13 +547,13 @@
             "position": "后卫"
           },
           {
-            "number": "2",
-            "name": "鲁法伊·穆罕默德",
+            "number": "3",
+            "name": "易卜拉欣·布哈里",
             "position": "后卫"
           },
           {
-            "number": "3",
-            "name": "易卜拉欣·布哈里",
+            "number": "2",
+            "name": "鲁法伊·穆罕默德",
             "position": "后卫"
           },
           {
@@ -563,16 +563,6 @@
           }
         ],
         "subs": [
-          {
-            "number": "28",
-            "name": "弗洛德·阿伦森",
-            "position": "后卫"
-          },
-          {
-            "number": "1",
-            "name": "T.埃兰德松",
-            "position": "守门员"
-          },
           {
             "number": "16",
             "name": "阿尔蒂·海勒玛",
@@ -602,6 +592,16 @@
             "number": "9",
             "name": "阿巴·泽内里",
             "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "弗洛德·阿伦森",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "T.埃兰德松",
+            "position": "守门员"
           },
           {
             "number": "29",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.090↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.750↑",
-        "time": "05-16 20:59"
-      },
-      "init": {
-        "home_water": "1.500",
-        "handicap": "平手",
-        "away_water": "0.470",
-        "time": "05-10 20:17"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受半球",
         "away_water": "1.010",
         "time": "05-11 08:19"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.090↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.750↑",
+        "time": "05-16 20:59"
+      },
+      "init": {
+        "home_water": "1.500",
+        "handicap": "平手",
+        "away_water": "0.470",
+        "time": "05-10 20:17"
       }
     },
     {
