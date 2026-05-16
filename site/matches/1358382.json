@@ -24,7 +24,7 @@
       "lost": "2.23",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T18:10:08Z"
+    "fetched_at_utc": "2026-05-16T18:20:10Z"
   },
   "shuju": {
     "title": "纽约红牛VS纽约城(2026美职联)-数据分析-500彩票网",
@@ -667,10 +667,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.970↓",
+        "home_water": "1.000",
         "handicap": "平手降",
-        "away_water": "0.820↑",
-        "time": "05-17 01:45"
+        "away_water": "0.800",
+        "time": "05-17 02:15"
       },
       "init": {
         "home_water": "1.000",
@@ -699,10 +699,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.040↑",
+        "home_water": "1.050↑",
         "handicap": "平手",
         "away_water": "0.830↓",
-        "time": "05-17 01:51"
+        "time": "05-17 02:08"
       },
       "init": {
         "home_water": "0.800",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↓",
-        "handicap": "平手降",
-        "away_water": "0.830↑",
-        "time": "05-17 01:37"
-      },
-      "init": {
-        "home_water": "1.020",
-        "handicap": "平手/半球",
-        "away_water": "0.820",
-        "time": "05-11 04:42"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "1.160",
         "time": "05-11 04:21"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↓",
+        "handicap": "平手降",
+        "away_water": "0.830↑",
+        "time": "05-17 01:37"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "平手/半球",
+        "away_water": "0.820",
+        "time": "05-11 04:42"
       }
     },
     {
