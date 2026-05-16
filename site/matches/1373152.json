@@ -24,7 +24,7 @@
       "lost": "3.90",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T00:20:19Z"
+    "fetched_at_utc": "2026-05-16T00:30:20Z"
   },
   "shuju": {
     "title": "全北现代VS金泉尚武(2026K1联赛)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "半球/一球",
-        "away_water": "0.850↓",
-        "time": "05-16 04:04"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.890",
-        "time": "05-15 07:35"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球/一球",
         "away_water": "0.810",
         "time": "05-13 19:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "半球/一球",
+        "away_water": "0.850↓",
+        "time": "05-16 04:04"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.890",
+        "time": "05-15 07:35"
       }
     },
     {
