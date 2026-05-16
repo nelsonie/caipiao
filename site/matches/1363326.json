@@ -13,9 +13,9 @@
       "lost": "1.53"
     },
     "asia_main": {
-      "handicap": "平手/半球",
-      "home_water": "0.820↓",
-      "away_water": "0.770↓",
+      "handicap": "半球升",
+      "home_water": "1.150↑",
+      "away_water": "0.650↓",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "3.02",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T11:50:22Z"
+    "fetched_at_utc": "2026-05-16T12:00:22Z"
   },
   "shuju": {
     "title": "格尼斯坦VS查路(2026芬超)-数据分析-500彩票网",
@@ -614,10 +614,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.820↓",
-        "handicap": "平手/半球",
-        "away_water": "0.770↓",
-        "time": "05-16 16:44"
+        "home_water": "1.150↑",
+        "handicap": "半球升",
+        "away_water": "0.650↓",
+        "time": "05-16 19:45"
       },
       "init": {
         "home_water": "0.930",
@@ -662,10 +662,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.900↓",
+        "home_water": "0.880↓",
         "handicap": "平手/半球",
-        "away_water": "0.900↑",
-        "time": "05-16 19:42"
+        "away_water": "0.930↑",
+        "time": "05-16 19:45"
       },
       "init": {
         "home_water": "0.950",
@@ -710,32 +710,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.910↓",
+        "home_water": "0.920↓",
         "handicap": "平手/半球",
-        "away_water": "0.990↑",
-        "time": "05-16 19:41"
+        "away_water": "0.980↑",
+        "time": "05-16 19:53"
       },
       "init": {
         "home_water": "0.950",
         "handicap": "平手/半球",
         "away_water": "0.890",
         "time": "05-13 16:42"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890↓",
-        "handicap": "平手/半球",
-        "away_water": "0.920↑",
-        "time": "05-16 19:41"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手/半球",
-        "away_water": "0.870",
-        "time": "05-14 00:26"
       }
     },
     {
@@ -752,6 +736,22 @@
         "handicap": "平手/半球",
         "away_water": "0.890",
         "time": "05-10 00:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "平手/半球",
+        "away_water": "0.940↑",
+        "time": "05-16 19:51"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手/半球",
+        "away_water": "0.870",
+        "time": "05-14 00:26"
       }
     },
     {
@@ -774,10 +774,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.920↓",
+        "home_water": "0.930↓",
         "handicap": "平手/半球",
-        "away_water": "1.000↑",
-        "time": "05-16 19:32"
+        "away_water": "0.990↑",
+        "time": "05-16 19:53"
       },
       "init": {
         "home_water": "0.970",
@@ -822,10 +822,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.920↓",
+        "home_water": "0.930↓",
         "handicap": "平手/半球",
-        "away_water": "1.000↑",
-        "time": "05-16 19:41"
+        "away_water": "0.990↑",
+        "time": "05-16 19:50"
       },
       "init": {
         "home_water": "0.960",
@@ -838,10 +838,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.860↓",
+        "home_water": "0.870↓",
         "handicap": "平手/半球",
-        "away_water": "0.910↑",
-        "time": "05-16 19:35"
+        "away_water": "0.900↑",
+        "time": "05-16 19:52"
       },
       "init": {
         "home_water": "0.930",
@@ -854,10 +854,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.950",
+        "home_water": "0.930↓",
         "handicap": "平手/半球",
-        "away_water": "0.950↑",
-        "time": "05-16 19:44"
+        "away_water": "0.970↑",
+        "time": "05-16 19:52"
       },
       "init": {
         "home_water": "0.950",
@@ -1263,7 +1263,7 @@
     {
       "cid": "6",
       "company": "伟*",
-      "time": "2026-05-16 19:00:25",
+      "time": "2026-05-16 19:46:29",
       "odds": {
         "live": [
           "2.20",
@@ -1271,9 +1271,9 @@
           "3.00"
         ],
         "init": [
-          "2.15",
+          "2.10",
           "3.30",
-          "3.10"
+          "3.20"
         ]
       },
       "prob": {
@@ -1283,9 +1283,9 @@
           "30.56%"
         ],
         "init": [
-          "42.64%",
-          "27.78%",
-          "29.57%"
+          "43.62%",
+          "27.76%",
+          "28.62%"
         ]
       },
       "ret": {
@@ -1293,7 +1293,7 @@
           "91.67%"
         ],
         "init": [
-          "91.68%"
+          "91.60%"
         ]
       },
       "kelly": {
@@ -1303,9 +1303,9 @@
           "0.91"
         ],
         "init": [
+          "0.89",
           "0.91",
-          "0.91",
-          "0.94"
+          "0.97"
         ]
       }
     },
