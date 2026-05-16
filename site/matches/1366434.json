@@ -24,7 +24,7 @@
       "lost": "2.23",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T00:30:07Z"
+    "fetched_at_utc": "2026-05-16T00:40:07Z"
   },
   "shuju": {
     "title": "浦和红钻VS东京FC(2026日职)-数据分析-500彩票网",
@@ -613,10 +613,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "1.000↓",
+        "home_water": "1.020↓",
         "handicap": "平手",
-        "away_water": "0.800↑",
-        "time": "05-16 06:18"
+        "away_water": "0.770↓",
+        "time": "05-16 08:23"
       },
       "init": {
         "home_water": "1.030",
@@ -674,22 +674,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.030↓",
-        "handicap": "平手",
-        "away_water": "0.820↑",
-        "time": "05-16 06:21"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "平手",
-        "away_water": "0.810",
-        "time": "05-11 10:27"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -703,6 +687,22 @@
         "handicap": "平手",
         "away_water": "0.770",
         "time": "05-11 10:31"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.030↓",
+        "handicap": "平手",
+        "away_water": "0.820↑",
+        "time": "05-16 06:21"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "平手",
+        "away_water": "0.810",
+        "time": "05-11 10:27"
       }
     },
     {
@@ -1998,7 +1998,7 @@
     {
       "cid": "1259",
       "company": "1x**t",
-      "time": "2026-05-16 08:13:33",
+      "time": "2026-05-16 08:31:49",
       "odds": {
         "live": [
           "2.55",
