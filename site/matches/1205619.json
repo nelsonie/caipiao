@@ -24,7 +24,7 @@
       "lost": "7.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T02:40:33Z"
+    "fetched_at_utc": "2026-05-16T02:50:29Z"
   },
   "shuju": {
     "title": "里尔VS欧塞尔(2025/2026法甲)-数据分析-500彩票网",
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "一球/球半",
-        "away_water": "1.000↑",
-        "time": "05-14 02:46"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "一球/球半",
-        "away_water": "0.840",
-        "time": "05-11 14:55"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -683,6 +667,22 @@
         "handicap": "球半",
         "away_water": "0.880",
         "time": "05-04 17:45"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "一球/球半",
+        "away_water": "1.000↑",
+        "time": "05-14 02:46"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "一球/球半",
+        "away_water": "0.840",
+        "time": "05-11 14:55"
       }
     },
     {
