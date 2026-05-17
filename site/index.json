@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-17T15:00:38Z",
+  "last_updated_utc": "2026-05-17T15:10:36Z",
   "matches": [
     {
       "xml_id": "2039782",
@@ -110,42 +110,6 @@
       "away_team_id": "803"
     },
     {
-      "xml_id": "2039788",
-      "matchnum": "7007",
-      "date": "2026-05-17",
-      "dayofweek": "星期天",
-      "league": "意大利甲级联赛",
-      "home": "罗马",
-      "away": "拉齐奥",
-      "spf_win": "2.36",
-      "spf_draw": "3.15",
-      "spf_lost": "2.58",
-      "spf_updated": "2026-05-17 15:49:00",
-      "gameid": "1199708",
-      "kickoff_cst": "2026-05-17 18:00",
-      "matchnum_label": "周日007",
-      "home_team_id": "1032",
-      "away_team_id": "964"
-    },
-    {
-      "xml_id": "2039789",
-      "matchnum": "7008",
-      "date": "2026-05-17",
-      "dayofweek": "星期天",
-      "league": "意大利甲级联赛",
-      "home": "科莫",
-      "away": "帕尔马",
-      "spf_win": "2.80",
-      "spf_draw": "3.85",
-      "spf_lost": "1.95",
-      "spf_updated": "2026-05-17 17:32:27",
-      "gameid": "1199711",
-      "kickoff_cst": "2026-05-17 18:00",
-      "matchnum_label": "周日008",
-      "home_team_id": "935",
-      "away_team_id": "1149"
-    },
-    {
       "xml_id": "2039790",
       "matchnum": "7009",
       "date": "2026-05-17",
@@ -236,24 +200,6 @@
       "away_team_id": "1922"
     },
     {
-      "xml_id": "2039795",
-      "matchnum": "7014",
-      "date": "2026-05-17",
-      "dayofweek": "星期天",
-      "league": "英格兰超级联赛",
-      "home": "狼队",
-      "away": "富勒姆",
-      "spf_win": "1.86",
-      "spf_draw": "3.50",
-      "spf_lost": "3.27",
-      "spf_updated": "2026-05-17 21:15:13",
-      "gameid": "1202734",
-      "kickoff_cst": "2026-05-17 22:00",
-      "matchnum_label": "周日014",
-      "home_team_id": "978",
-      "away_team_id": "811"
-    },
-    {
       "xml_id": "2039796",
       "matchnum": "7015",
       "date": "2026-05-17",
@@ -270,24 +216,6 @@
       "matchnum_label": "周日015",
       "home_team_id": "565",
       "away_team_id": "466"
-    },
-    {
-      "xml_id": "2039797",
-      "matchnum": "7016",
-      "date": "2026-05-17",
-      "dayofweek": "星期天",
-      "league": "英格兰超级联赛",
-      "home": "布伦特福德",
-      "away": "水晶宫",
-      "spf_win": "2.86",
-      "spf_draw": "3.35",
-      "spf_lost": "2.08",
-      "spf_updated": "2026-05-17 21:12:42",
-      "gameid": "1202748",
-      "kickoff_cst": "2026-05-17 22:00",
-      "matchnum_label": "周日016",
-      "home_team_id": "1361",
-      "away_team_id": "516"
     },
     {
       "xml_id": "2039798",
