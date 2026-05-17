@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-17T03:10:33Z",
+  "last_updated_utc": "2026-05-17T03:20:32Z",
   "matches": [
     {
       "xml_id": "2039782",
@@ -200,6 +200,24 @@
       "away_team_id": "1799"
     },
     {
+      "xml_id": "2039793",
+      "matchnum": "7012",
+      "date": "2026-05-17",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "海伦芬",
+      "away": "阿贾克斯",
+      "spf_win": "1.70",
+      "spf_draw": "4.05",
+      "spf_lost": "3.40",
+      "spf_updated": "2026-05-17 10:41:47",
+      "gameid": "1202961",
+      "kickoff_cst": "2026-05-17 20:30",
+      "matchnum_label": "周日012",
+      "home_team_id": "857",
+      "away_team_id": "540"
+    },
+    {
       "xml_id": "2039794",
       "matchnum": "7013",
       "date": "2026-05-17",
@@ -300,7 +318,7 @@
       "spf_win": "4.15",
       "spf_draw": "4.00",
       "spf_lost": "1.57",
-      "spf_updated": "2026-05-17 10:35:22",
+      "spf_updated": "2026-05-17 11:09:04",
       "gameid": "1202662",
       "kickoff_cst": "2026-05-18 00:30",
       "matchnum_label": "周日018",
@@ -441,10 +459,10 @@
       "league": "西班牙甲级联赛",
       "home": "塞维利亚",
       "away": "皇家马德里",
-      "spf_win": "1.59",
-      "spf_draw": "3.85",
-      "spf_lost": "4.15",
-      "spf_updated": "2026-05-16 09:43:47",
+      "spf_win": "1.63",
+      "spf_draw": "3.80",
+      "spf_lost": "3.95",
+      "spf_updated": "2026-05-17 11:09:32",
       "gameid": "1215812",
       "kickoff_cst": "2026-05-18 01:00",
       "matchnum_label": "周日026",
