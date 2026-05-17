@@ -24,7 +24,7 @@
       "lost": "2.94",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-17T12:30:29Z"
+    "fetched_at_utc": "2026-05-17T12:40:30Z"
   },
   "shuju": {
     "title": "马赛VS雷恩(2025/2026法甲)-数据分析-500彩票网",
@@ -654,6 +654,22 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.770↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.210↑",
+        "time": "05-17 20:26"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.830",
+        "time": "05-09 21:49"
+      }
+    },
+    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -670,29 +686,13 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.770↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.210↑",
-        "time": "05-17 18:18"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.830",
-        "time": "05-09 21:49"
-      }
-    },
-    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
         "home_water": "1.060↑",
         "handicap": "半球",
         "away_water": "0.870↑",
-        "time": "05-17 18:12"
+        "time": "05-17 20:19"
       },
       "init": {
         "home_water": "0.970",
@@ -785,10 +785,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "1.040↑",
+        "home_water": "1.050↑",
         "handicap": "半球降",
-        "away_water": "0.860↓",
-        "time": "05-17 19:29"
+        "away_water": "0.850↓",
+        "time": "05-17 20:19"
       },
       "init": {
         "home_water": "0.910",
