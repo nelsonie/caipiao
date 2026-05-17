@@ -24,7 +24,7 @@
       "lost": "1.81",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-17T13:00:16Z"
+    "fetched_at_utc": "2026-05-17T13:10:19Z"
   },
   "shuju": {
     "title": "海伦芬VS阿贾克斯(2025/2026荷甲)-数据分析-500彩票网",
@@ -344,13 +344,13 @@
             "position": "中场"
           },
           {
-            "number": "16",
-            "name": "马库斯·林戴",
+            "number": "6",
+            "name": "约里斯·范奥弗里姆",
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "约里斯·范奥弗里姆",
+            "number": "16",
+            "name": "马库斯·林戴",
             "position": "中场"
           },
           {
@@ -463,8 +463,8 @@
             "position": "前锋"
           },
           {
-            "number": "48",
-            "name": "肖恩·斯图尔",
+            "number": "18",
+            "name": "达维·克拉森",
             "position": "中场"
           },
           {
@@ -473,8 +473,8 @@
             "position": "中场"
           },
           {
-            "number": "18",
-            "name": "达维·克拉森",
+            "number": "48",
+            "name": "肖恩·斯图尔",
             "position": "中场"
           },
           {
@@ -684,22 +684,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.190↑",
-        "handicap": "受平手/半球升",
-        "away_water": "0.740↓",
-        "time": "05-17 20:30"
-      },
-      "init": {
-        "home_water": "0.520",
-        "handicap": "受一球",
-        "away_water": "1.450",
-        "time": "05-10 23:20"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -713,6 +697,22 @@
         "handicap": "受半球",
         "away_water": "0.970",
         "time": "05-12 08:36"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.190↑",
+        "handicap": "受平手/半球升",
+        "away_water": "0.740↓",
+        "time": "05-17 20:30"
+      },
+      "init": {
+        "home_water": "0.520",
+        "handicap": "受一球",
+        "away_water": "1.450",
+        "time": "05-10 23:20"
       }
     },
     {

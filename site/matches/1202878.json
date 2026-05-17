@@ -24,7 +24,7 @@
       "lost": "2.24",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-17T13:00:12Z"
+    "fetched_at_utc": "2026-05-17T13:10:16Z"
   },
   "shuju": {
     "title": "福伦丹VS特尔斯达(2025/2026荷甲)-数据分析-500彩票网",
@@ -339,8 +339,8 @@
             "position": "前锋"
           },
           {
-            "number": "18",
-            "name": "诺丁·布卡拉",
+            "number": "8",
+            "name": "吉布森·奥萨胡门",
             "position": "中场"
           },
           {
@@ -349,8 +349,8 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "吉布森·奥萨胡门",
+            "number": "18",
+            "name": "诺丁·布卡拉",
             "position": "中场"
           },
           {
@@ -468,13 +468,13 @@
             "position": "中场"
           },
           {
-            "number": "4",
-            "name": "古斯·奥弗豪斯",
+            "number": "17",
+            "name": "尼尔斯·罗森",
             "position": "中场"
           },
           {
-            "number": "17",
-            "name": "尼尔斯·罗森",
+            "number": "4",
+            "name": "古斯·奥弗豪斯",
             "position": "中场"
           },
           {
@@ -674,22 +674,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930↓",
-        "handicap": "平手",
-        "away_water": "0.920↑",
-        "time": "05-17 20:29"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "平手",
-        "away_water": "0.890",
-        "time": "05-12 08:36"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -703,6 +687,22 @@
         "handicap": "平手",
         "away_water": "0.890",
         "time": "05-10 23:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↓",
+        "handicap": "平手",
+        "away_water": "0.920↑",
+        "time": "05-17 20:29"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "平手",
+        "away_water": "0.890",
+        "time": "05-12 08:36"
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-17T13:00:35Z",
+  "last_updated_utc": "2026-05-17T13:10:39Z",
   "matches": [
     {
       "xml_id": "2039782",
@@ -36,6 +36,24 @@
       "matchnum_label": "周日002",
       "home_team_id": "1609",
       "away_team_id": "1615"
+    },
+    {
+      "xml_id": "2039784",
+      "matchnum": "7003",
+      "date": "2026-05-17",
+      "dayofweek": "星期天",
+      "league": "日本职业联赛",
+      "home": "川崎前锋",
+      "away": "町田泽维亚",
+      "spf_win": "1.56",
+      "spf_draw": "3.47",
+      "spf_lost": "5.00",
+      "spf_updated": "2026-05-17 17:34:25",
+      "gameid": "1366430",
+      "kickoff_cst": "2026-05-17 18:00",
+      "matchnum_label": "周日003",
+      "home_team_id": "2272",
+      "away_team_id": "6384"
     },
     {
       "xml_id": "2039785",
@@ -207,10 +225,10 @@
       "league": "英格兰超级联赛",
       "home": "狼队",
       "away": "富勒姆",
-      "spf_win": "1.86",
-      "spf_draw": "3.50",
-      "spf_lost": "3.27",
-      "spf_updated": "2026-05-15 12:43:11",
+      "spf_win": "1.82",
+      "spf_draw": "3.55",
+      "spf_lost": "3.35",
+      "spf_updated": "2026-05-17 21:05:42",
       "gameid": "1202734",
       "kickoff_cst": "2026-05-17 22:00",
       "matchnum_label": "周日014",
