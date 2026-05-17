@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-17T18:50:12Z",
+  "last_updated_utc": "2026-05-17T19:00:11Z",
   "matches": [
     {
       "xml_id": "2039811",
@@ -126,6 +126,24 @@
       "matchnum_label": "周一002",
       "home_team_id": "1355",
       "away_team_id": "4067"
+    },
+    {
+      "xml_id": "2039818",
+      "matchnum": "1003",
+      "date": "2026-05-19",
+      "dayofweek": "星期二",
+      "league": "瑞典超级联赛",
+      "home": "厄尔格里特",
+      "away": "IFK哥德堡",
+      "spf_win": "1.87",
+      "spf_draw": "3.55",
+      "spf_lost": "3.20",
+      "spf_updated": "2026-05-17 16:07:46",
+      "gameid": "1362668",
+      "kickoff_cst": "2026-05-19 01:00",
+      "matchnum_label": "周一003",
+      "home_team_id": "606",
+      "away_team_id": "823"
     },
     {
       "xml_id": "2039819",
