@@ -24,7 +24,7 @@
       "lost": "1.57",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-17T11:10:13Z"
+    "fetched_at_utc": "2026-05-17T11:20:12Z"
   },
   "shuju": {
     "title": "热那亚VSAC米兰(2025/2026意甲)-数据分析-500彩票网",
@@ -386,11 +386,6 @@
             "position": "中场"
           },
           {
-            "number": "77",
-            "name": "米卡尔·埃勒特森",
-            "position": "中场"
-          },
-          {
             "number": "22",
             "name": "约翰·巴斯克斯",
             "position": "后卫"
@@ -403,6 +398,11 @@
           {
             "number": "27",
             "name": "亚历山德罗·马坎达利",
+            "position": "后卫"
+          },
+          {
+            "number": "77",
+            "name": "米卡尔·埃勒特森",
             "position": "后卫"
           },
           {
@@ -542,16 +542,6 @@
         ],
         "subs": [
           {
-            "number": "14",
-            "name": "卢卡·莫德里奇",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "鲁宾·洛夫图斯·奇克",
-            "position": "中场"
-          },
-          {
             "number": "9",
             "name": "尼古拉斯·菲尔克鲁格",
             "position": "前锋"
@@ -559,6 +549,16 @@
           {
             "number": "5",
             "name": "柯尼·德温特",
+            "position": "后卫"
+          },
+          {
+            "number": "14",
+            "name": "卢卡·莫德里奇",
+            "position": "中场"
+          },
+          {
+            "number": "27",
+            "name": "大卫·奥杜古",
             "position": "后卫"
           },
           {
@@ -572,24 +572,19 @@
             "position": "中场"
           },
           {
-            "number": "45",
-            "name": "雅各布·萨尔多",
-            "position": "中场"
-          },
-          {
             "number": "25",
             "name": "切维约·巴伦蒂恩",
             "position": "前锋"
           },
           {
+            "number": "45",
+            "name": "雅各布·萨尔多",
+            "position": "中场"
+          },
+          {
             "number": "1",
             "name": "埃特罗·泰拉恰诺",
             "position": "守门员"
-          },
-          {
-            "number": "27",
-            "name": "大卫·奥杜古",
-            "position": "后卫"
           },
           {
             "number": "96",
@@ -600,6 +595,11 @@
             "number": "34",
             "name": "瓦列里·弗拉基米罗夫",
             "position": "后卫"
+          },
+          {
+            "number": "8",
+            "name": "鲁宾·洛夫图斯·奇克",
+            "position": "中场"
           }
         ],
         "injured": [],
