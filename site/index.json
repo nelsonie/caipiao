@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-17T05:20:35Z",
+  "last_updated_utc": "2026-05-17T05:30:32Z",
   "matches": [
     {
       "xml_id": "2039782",
@@ -135,10 +135,10 @@
       "league": "意大利甲级联赛",
       "home": "科莫",
       "away": "帕尔马",
-      "spf_win": "2.75",
-      "spf_draw": "3.95",
+      "spf_win": "2.80",
+      "spf_draw": "3.85",
       "spf_lost": "1.95",
-      "spf_updated": "2026-05-16 09:43:47",
+      "spf_updated": "2026-05-17 13:17:12",
       "gameid": "1199711",
       "kickoff_cst": "2026-05-17 18:00",
       "matchnum_label": "周日008",
@@ -216,6 +216,24 @@
       "matchnum_label": "周日012",
       "home_team_id": "857",
       "away_team_id": "540"
+    },
+    {
+      "xml_id": "2039794",
+      "matchnum": "7013",
+      "date": "2026-05-17",
+      "dayofweek": "星期天",
+      "league": "德国乙级联赛",
+      "home": "达姆施塔特",
+      "away": "帕德博恩",
+      "spf_win": "1.83",
+      "spf_draw": "4.00",
+      "spf_lost": "3.00",
+      "spf_updated": "2026-05-15 09:44:46",
+      "gameid": "1223072",
+      "kickoff_cst": "2026-05-17 21:30",
+      "matchnum_label": "周日013",
+      "home_team_id": "1926",
+      "away_team_id": "1922"
     },
     {
       "xml_id": "2039795",
