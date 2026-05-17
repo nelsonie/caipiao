@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-05-17T20:30:08Z",
+  "last_updated_utc": "2026-05-17T20:40:11Z",
   "matches": [
-    {
-      "xml_id": "2039815",
-      "matchnum": "7034",
-      "date": "2026-05-18",
-      "dayofweek": "星期一",
-      "league": "美国职业大联盟",
-      "home": "纳什维尔",
-      "away": "洛杉矶FC",
-      "spf_win": "4.25",
-      "spf_draw": "3.78",
-      "spf_lost": "1.59",
-      "spf_updated": "2026-05-17 22:46:01",
-      "gameid": "1358392",
-      "kickoff_cst": "2026-05-18 08:00",
-      "matchnum_label": "周日034",
-      "home_team_id": "10715",
-      "away_team_id": "10525"
-    },
     {
       "xml_id": "2039816",
       "matchnum": "1001",
@@ -72,24 +54,6 @@
       "matchnum_label": "周一003",
       "home_team_id": "606",
       "away_team_id": "823"
-    },
-    {
-      "xml_id": "2039819",
-      "matchnum": "1004",
-      "date": "2026-05-19",
-      "dayofweek": "星期二",
-      "league": "英格兰超级联赛",
-      "home": "阿森纳",
-      "away": "伯恩利",
-      "spf_win": "2.55",
-      "spf_draw": "4.30",
-      "spf_lost": "1.98",
-      "spf_updated": "2026-05-16 09:43:47",
-      "gameid": "1202518",
-      "kickoff_cst": "2026-05-19 03:00",
-      "matchnum_label": "周一004",
-      "home_team_id": "554",
-      "away_team_id": "700"
     }
   ]
 }
