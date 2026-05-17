@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-17T18:30:13Z",
+  "last_updated_utc": "2026-05-17T18:40:12Z",
   "matches": [
     {
       "xml_id": "2039809",
@@ -108,42 +108,6 @@
       "matchnum_label": "周日033",
       "home_team_id": "653",
       "away_team_id": "673"
-    },
-    {
-      "xml_id": "2039815",
-      "matchnum": "7034",
-      "date": "2026-05-18",
-      "dayofweek": "星期一",
-      "league": "美国职业大联盟",
-      "home": "纳什维尔",
-      "away": "洛杉矶FC",
-      "spf_win": "4.25",
-      "spf_draw": "3.78",
-      "spf_lost": "1.59",
-      "spf_updated": "2026-05-17 22:46:01",
-      "gameid": "1358392",
-      "kickoff_cst": "2026-05-18 08:00",
-      "matchnum_label": "周日034",
-      "home_team_id": "10715",
-      "away_team_id": "10525"
-    },
-    {
-      "xml_id": "2039816",
-      "matchnum": "1001",
-      "date": "2026-05-18",
-      "dayofweek": "星期一",
-      "league": "芬兰超级联赛",
-      "home": "拉赫蒂",
-      "away": "瓦萨",
-      "spf_win": "4.50",
-      "spf_draw": "3.45",
-      "spf_lost": "1.62",
-      "spf_updated": "2026-05-16 09:43:47",
-      "gameid": "1363328",
-      "kickoff_cst": "2026-05-18 23:00",
-      "matchnum_label": "周一001",
-      "home_team_id": "956",
-      "away_team_id": "434"
     },
     {
       "xml_id": "2039817",
