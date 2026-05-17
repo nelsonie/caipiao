@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-17T06:50:30Z",
+  "last_updated_utc": "2026-05-17T07:00:36Z",
   "matches": [
     {
       "xml_id": "2039782",
@@ -81,10 +81,10 @@
       "league": "意大利甲级联赛",
       "home": "热那亚",
       "away": "AC米兰",
-      "spf_win": "2.11",
-      "spf_draw": "3.22",
-      "spf_lost": "2.90",
-      "spf_updated": "2026-05-17 11:50:34",
+      "spf_win": "2.15",
+      "spf_draw": "3.15",
+      "spf_lost": "2.88",
+      "spf_updated": "2026-05-17 14:51:34",
       "gameid": "1199712",
       "kickoff_cst": "2026-05-17 18:00",
       "matchnum_label": "周日005",
@@ -396,6 +396,24 @@
       "matchnum_label": "周日022",
       "home_team_id": "1046",
       "away_team_id": "2074"
+    },
+    {
+      "xml_id": "2039804",
+      "matchnum": "7023",
+      "date": "2026-05-18",
+      "dayofweek": "星期一",
+      "league": "西班牙甲级联赛",
+      "home": "莱万特",
+      "away": "马洛卡",
+      "spf_win": "3.95",
+      "spf_draw": "3.60",
+      "spf_lost": "1.67",
+      "spf_updated": "2026-05-16 09:43:47",
+      "gameid": "1216057",
+      "kickoff_cst": "2026-05-18 01:00",
+      "matchnum_label": "周日023",
+      "home_team_id": "985",
+      "away_team_id": "1062"
     },
     {
       "xml_id": "2039805",
