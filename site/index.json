@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-17T16:10:21Z",
+  "last_updated_utc": "2026-05-17T16:20:18Z",
   "matches": [
     {
       "xml_id": "2039799",
@@ -72,24 +72,6 @@
       "matchnum_label": "周日021",
       "home_team_id": "629",
       "away_team_id": "542"
-    },
-    {
-      "xml_id": "2039803",
-      "matchnum": "7022",
-      "date": "2026-05-18",
-      "dayofweek": "星期一",
-      "league": "西班牙甲级联赛",
-      "home": "马德里竞技",
-      "away": "赫罗纳",
-      "spf_win": "2.83",
-      "spf_draw": "3.34",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-05-17 22:30:33",
-      "gameid": "1216119",
-      "kickoff_cst": "2026-05-18 01:00",
-      "matchnum_label": "周日022",
-      "home_team_id": "1046",
-      "away_team_id": "2074"
     },
     {
       "xml_id": "2039804",
