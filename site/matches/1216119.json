@@ -24,7 +24,7 @@
       "lost": "3.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-17T03:50:22Z"
+    "fetched_at_utc": "2026-05-17T04:00:22Z"
   },
   "shuju": {
     "title": "马德里竞技VS赫罗纳(2025/2026西甲)-数据分析-500彩票网",
@@ -694,22 +694,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.840↓",
-        "time": "05-17 11:33"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "半球",
-        "away_water": "0.930",
-        "time": "05-12 08:16"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -723,6 +707,22 @@
         "handicap": "一球",
         "away_water": "1.000",
         "time": "05-05 20:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.050↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.830↓",
+        "time": "05-17 11:44"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "半球",
+        "away_water": "0.930",
+        "time": "05-12 08:16"
       }
     },
     {
@@ -825,10 +825,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "1.030↑",
+        "home_water": "1.050↑",
         "handicap": "半球/一球降",
-        "away_water": "0.870↓",
-        "time": "05-17 11:26"
+        "away_water": "0.850↓",
+        "time": "05-17 11:41"
       },
       "init": {
         "home_water": "0.910",
