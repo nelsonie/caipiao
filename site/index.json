@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-17T21:00:08Z",
+  "last_updated_utc": "2026-05-17T21:10:11Z",
   "matches": [
     {
       "xml_id": "2039815",
@@ -72,24 +72,6 @@
       "matchnum_label": "周一003",
       "home_team_id": "606",
       "away_team_id": "823"
-    },
-    {
-      "xml_id": "2039819",
-      "matchnum": "1004",
-      "date": "2026-05-19",
-      "dayofweek": "星期二",
-      "league": "英格兰超级联赛",
-      "home": "阿森纳",
-      "away": "伯恩利",
-      "spf_win": "2.55",
-      "spf_draw": "4.30",
-      "spf_lost": "1.98",
-      "spf_updated": "2026-05-16 09:43:47",
-      "gameid": "1202518",
-      "kickoff_cst": "2026-05-19 03:00",
-      "matchnum_label": "周一004",
-      "home_team_id": "554",
-      "away_team_id": "700"
     }
   ]
 }
