@@ -24,7 +24,7 @@
       "lost": "3.55",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-16T23:50:23Z"
+    "fetched_at_utc": "2026-05-17T00:00:26Z"
   },
   "shuju": {
     "title": "埃尔切VS赫塔费(2025/2026西甲)-数据分析-500彩票网",
@@ -693,22 +693,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "平手/半球",
-        "away_water": "0.940↑",
-        "time": "05-15 19:53"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "平手/半球",
-        "away_water": "0.860",
-        "time": "05-12 08:16"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -722,6 +706,22 @@
         "handicap": "平手/半球",
         "away_water": "0.930",
         "time": "05-04 04:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "平手/半球",
+        "away_water": "0.940↑",
+        "time": "05-15 19:53"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "平手/半球",
+        "away_water": "0.860",
+        "time": "05-12 08:16"
       }
     },
     {
