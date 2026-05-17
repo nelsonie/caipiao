@@ -24,7 +24,7 @@
       "lost": "1.71",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-17T15:20:20Z"
+    "fetched_at_utc": "2026-05-17T15:30:17Z"
   },
   "shuju": {
     "title": "狼队VS富勒姆(2025/2026英超)-数据分析-500彩票网",
@@ -338,9 +338,14 @@
         "formation": null,
         "starters": [
           {
+            "number": "9",
+            "name": "亚当.阿姆斯特朗",
+            "position": "前锋"
+          },
+          {
             "number": "11",
             "name": "黄喜灿",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "36",
@@ -348,13 +353,8 @@
             "position": "中场"
           },
           {
-            "number": "9",
-            "name": "亚当.阿姆斯特朗",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "大卫·默勒·沃尔费",
+            "number": "21",
+            "name": "罗德里戈·戈麦斯",
             "position": "中场"
           },
           {
@@ -368,9 +368,9 @@
             "position": "中场"
           },
           {
-            "number": "21",
-            "name": "罗德里戈·戈麦斯",
-            "position": "中场"
+            "number": "6",
+            "name": "大卫·默勒·沃尔费",
+            "position": "后卫"
           },
           {
             "number": "37",
@@ -668,22 +668,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "受半球/一球降",
-        "away_water": "1.100↑",
-        "time": "05-17 21:56"
-      },
-      "init": {
-        "home_water": "1.120",
-        "handicap": "受平手/半球",
-        "away_water": "0.660",
-        "time": "05-04 04:32"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -697,6 +681,22 @@
         "handicap": "受半球",
         "away_water": "0.930",
         "time": "05-04 14:35"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "受半球/一球降",
+        "away_water": "1.100↑",
+        "time": "05-17 21:56"
+      },
+      "init": {
+        "home_water": "1.120",
+        "handicap": "受平手/半球",
+        "away_water": "0.660",
+        "time": "05-04 04:32"
       }
     },
     {
