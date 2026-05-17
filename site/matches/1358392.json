@@ -24,14 +24,14 @@
       "lost": "2.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-17T04:50:31Z"
+    "fetched_at_utc": "2026-05-17T05:00:35Z"
   },
   "shuju": {
     "title": "纳什维尔VS洛杉矶FC(2026美职联)-数据分析-500彩票网",
     "h2h_summary": "双方近 4 次交战，纳什维尔SC 1胜 1平 2负 ，进3球，失8球，大球2次，小球2次",
     "team_ranks": [
       "纳什维尔SC [美职联3]",
-      "洛杉矶FC [美职联9]"
+      "洛杉矶FC [美职联10]"
     ],
     "h2h_rows": [
       {
@@ -706,22 +706,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.040↑",
-        "handicap": "半球升",
-        "away_water": "0.800↓",
-        "time": "05-17 12:26"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "平手/半球",
-        "away_water": "0.860",
-        "time": "05-11 04:47"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -735,6 +719,22 @@
         "handicap": "平手/半球",
         "away_water": "0.880",
         "time": "05-11 04:45"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.040↑",
+        "handicap": "半球升",
+        "away_water": "0.800↓",
+        "time": "05-17 12:26"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "平手/半球",
+        "away_water": "0.860",
+        "time": "05-11 04:47"
       }
     },
     {
