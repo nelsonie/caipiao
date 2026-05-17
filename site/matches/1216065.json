@@ -24,7 +24,7 @@
       "lost": "1.73",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-17T14:50:22Z"
+    "fetched_at_utc": "2026-05-17T15:00:25Z"
   },
   "shuju": {
     "title": "皇家奥维耶多VS阿拉维斯(2025/2026西甲)-数据分析-500彩票网",
@@ -627,10 +627,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.880↓",
         "handicap": "受半球",
-        "away_water": "1.000↑",
-        "time": "05-17 22:34"
+        "away_water": "0.980↑",
+        "time": "05-17 22:51"
       },
       "init": {
         "home_water": "0.900",
@@ -659,10 +659,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.860↑",
+        "home_water": "0.870↑",
         "handicap": "受半球",
-        "away_water": "1.020↑",
-        "time": "05-17 22:40"
+        "away_water": "1.010↑",
+        "time": "05-17 22:49"
       },
       "init": {
         "home_water": "0.850",
@@ -675,32 +675,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.870↓",
+        "home_water": "0.880↓",
         "handicap": "受半球",
         "away_water": "1.020↑",
-        "time": "05-17 22:24"
+        "time": "05-17 22:47"
       },
       "init": {
         "home_water": "0.980",
         "handicap": "受半球",
         "away_water": "0.870",
         "time": "05-14 15:27"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "受半球",
-        "away_water": "1.010↑",
-        "time": "05-17 22:36"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "受半球",
-        "away_water": "0.980",
-        "time": "05-12 08:16"
       }
     },
     {
@@ -717,6 +701,22 @@
         "handicap": "平手",
         "away_water": "1.030",
         "time": "05-04 04:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "受半球",
+        "away_water": "1.010↑",
+        "time": "05-17 22:36"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "受半球",
+        "away_water": "0.980",
+        "time": "05-12 08:16"
       }
     },
     {
@@ -739,10 +739,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.900↑",
+        "home_water": "0.910↑",
         "handicap": "受半球",
-        "away_water": "1.040↑",
-        "time": "05-17 22:18"
+        "away_water": "1.030",
+        "time": "05-17 22:45"
       },
       "init": {
         "home_water": "0.870",
@@ -790,7 +790,7 @@
         "home_water": "0.850↑",
         "handicap": "受半球降",
         "away_water": "0.960↑",
-        "time": "05-17 22:31"
+        "time": "05-17 22:47"
       },
       "init": {
         "home_water": "0.830",
@@ -806,7 +806,7 @@
         "home_water": "0.890↑",
         "handicap": "受半球降",
         "away_water": "1.030↑",
-        "time": "05-17 22:36"
+        "time": "05-17 22:45"
       },
       "init": {
         "home_water": "0.860",
