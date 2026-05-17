@@ -24,7 +24,7 @@
       "lost": "1.73",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-17T04:20:22Z"
+    "fetched_at_utc": "2026-05-17T04:30:20Z"
   },
   "shuju": {
     "title": "皇家奥维耶多VS阿拉维斯(2025/2026西甲)-数据分析-500彩票网",
@@ -659,10 +659,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.960↑",
         "handicap": "受半球",
         "away_water": "0.920↓",
-        "time": "05-17 12:07"
+        "time": "05-17 12:12"
       },
       "init": {
         "home_water": "0.850",
@@ -688,22 +688,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "受半球",
-        "away_water": "0.900↓",
-        "time": "05-17 12:05"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "受半球",
-        "away_water": "0.980",
-        "time": "05-12 08:16"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -717,6 +701,22 @@
         "handicap": "平手",
         "away_water": "1.030",
         "time": "05-04 04:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "受半球",
+        "away_water": "0.900↓",
+        "time": "05-17 12:05"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "受半球",
+        "away_water": "0.980",
+        "time": "05-12 08:16"
       }
     },
     {
@@ -803,10 +803,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.980↑",
         "handicap": "受半球降",
-        "away_water": "0.930↓",
-        "time": "05-17 11:55"
+        "away_water": "0.920↓",
+        "time": "05-17 12:19"
       },
       "init": {
         "home_water": "0.860",
