@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>今日全部对阵 (4 场) · caipiao</title>
+<title>今日全部对阵 (0 场) · caipiao</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="alternate" type="text/markdown" href="index.md">
 <style>
@@ -82,125 +82,10 @@ button:disabled { opacity: .5; cursor: default; }
   <a href="/_meta.json">_meta.json</a>
 </nav>
 <main>
-<h1>今日全部对阵 (4 场)</h1>
-<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-05-18T02:50:09Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">4</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v">瑞典超级联赛、芬兰超级联赛、英格兰超级联赛</div></div></div>
-
-<section class="quick">
-  <h2>快查（4 场 · 按日期升序）</h2>
-  <ul>
-    <li><span class="meta">2026-05-18 · 芬兰超级联赛</span><span class="teams">拉赫蒂 vs 瓦萨</span><a class="url" href="/matches/1363328.html">{ORIGIN}/matches/1363328.html</a></li>
-<li><span class="meta">2026-05-19 · 瑞典超级联赛</span><span class="teams">佐加顿斯 vs 天狼星</span><a class="url" href="/matches/1362663.html">{ORIGIN}/matches/1362663.html</a></li>
-<li><span class="meta">2026-05-19 · 瑞典超级联赛</span><span class="teams">厄尔格里特 vs IFK哥德堡</span><a class="url" href="/matches/1362668.html">{ORIGIN}/matches/1362668.html</a></li>
-<li><span class="meta">2026-05-19 · 英格兰超级联赛</span><span class="teams">阿森纳 vs 伯恩利</span><a class="url" href="/matches/1202518.html">{ORIGIN}/matches/1202518.html</a></li>
-  </ul>
-  <button id="copy-all" type="button">复制全部对阵及链接</button>
-  <p class="hint">点按钮会把每场一行，格式：<code>日期 联赛 主队 vs 客队 URL</code>，复制到剪贴板。</p>
-  <script>
-    (function () {
-      var ITEMS = [{"line": "2026-05-18 芬兰超级联赛 拉赫蒂 vs 瓦萨 {ORIGIN}/matches/1363328.html"}, {"line": "2026-05-19 瑞典超级联赛 佐加顿斯 vs 天狼星 {ORIGIN}/matches/1362663.html"}, {"line": "2026-05-19 瑞典超级联赛 厄尔格里特 vs IFK哥德堡 {ORIGIN}/matches/1362668.html"}, {"line": "2026-05-19 英格兰超级联赛 阿森纳 vs 伯恩利 {ORIGIN}/matches/1202518.html"}];
-      var origin = location.origin;
-      // 页面加载时把 li 里的 {ORIGIN} 占位符都换成真实域名
-      document.querySelectorAll('.quick .url').forEach(function (a) {
-        if (a.textContent.indexOf('{ORIGIN}') === 0) {
-          a.textContent = origin + a.textContent.slice('{ORIGIN}'.length);
-        }
-      });
-      var btn = document.getElementById('copy-all');
-      btn.addEventListener('click', function () {
-        var text = ITEMS.map(function (it) { return it.line.replace('{ORIGIN}', origin); }).join('\n');
-        var done = function () {
-          var prev = btn.textContent;
-          btn.textContent = '已复制 ' + ITEMS.length + ' 条 ✓';
-          btn.disabled = true;
-          setTimeout(function () { btn.textContent = prev; btn.disabled = false; }, 2000);
-        };
-        if (navigator.clipboard && window.isSecureContext) {
-          navigator.clipboard.writeText(text).then(done, function (err) {
-            alert('复制失败：' + err);
-          });
-        } else {
-          var ta = document.createElement('textarea');
-          ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
-          document.body.appendChild(ta); ta.select();
-          try { document.execCommand('copy'); done(); } catch (e) { alert('复制失败'); }
-          document.body.removeChild(ta);
-        }
-      });
-    })();
-  </script>
-</section>
+<h1>今日全部对阵 (0 场)</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-05-18T03:00:05Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">0</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v"></div></div></div>
 
 <h1>今日全部对阵</h1>
-<h2>瑞典超级联赛 (2)</h2>
-<div class="table-wrap"><table>
-<thead>
-<tr>
-<th>编号</th>
-<th>日期</th>
-<th>对阵</th>
-<th>胜/平/负</th>
-<th>gameid</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1002</td>
-<td>2026-05-19 星期二</td>
-<td>佐加顿斯 vs 天狼星</td>
-<td>4.26/4.00/1.55</td>
-<td><a href="matches/1362663.html">1362663</a></td>
-</tr>
-<tr>
-<td>1003</td>
-<td>2026-05-19 星期二</td>
-<td>厄尔格里特 vs IFK哥德堡</td>
-<td>1.87/3.55/3.20</td>
-<td><a href="matches/1362668.html">1362668</a></td>
-</tr>
-</tbody>
-</table></div>
-<h2>芬兰超级联赛 (1)</h2>
-<div class="table-wrap"><table>
-<thead>
-<tr>
-<th>编号</th>
-<th>日期</th>
-<th>对阵</th>
-<th>胜/平/负</th>
-<th>gameid</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1001</td>
-<td>2026-05-18 星期一</td>
-<td>拉赫蒂 vs 瓦萨</td>
-<td>4.65/3.50/1.59</td>
-<td><a href="matches/1363328.html">1363328</a></td>
-</tr>
-</tbody>
-</table></div>
-<h2>英格兰超级联赛 (1)</h2>
-<div class="table-wrap"><table>
-<thead>
-<tr>
-<th>编号</th>
-<th>日期</th>
-<th>对阵</th>
-<th>胜/平/负</th>
-<th>gameid</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1004</td>
-<td>2026-05-19 星期二</td>
-<td>阿森纳 vs 伯恩利</td>
-<td>2.55/4.30/1.98</td>
-<td><a href="matches/1202518.html">1202518</a></td>
-</tr>
-</tbody>
-</table></div>
 </main>
 <footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
 </body>
