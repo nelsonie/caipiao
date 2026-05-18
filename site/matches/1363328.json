@@ -24,7 +24,7 @@
       "lost": "3.38",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-18T15:10:07Z"
+    "fetched_at_utc": "2026-05-18T15:20:08Z"
   },
   "shuju": {
     "title": "拉赫蒂VS瓦萨(2026芬超)-数据分析-500彩票网",
@@ -433,13 +433,13 @@
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "何塞·穆勒",
+            "number": "6",
+            "name": "瓦伊诺·韦科宁",
             "position": "后卫"
           },
           {
-            "number": "6",
-            "name": "瓦伊诺·韦科宁",
+            "number": "4",
+            "name": "何塞·穆勒",
             "position": "后卫"
           },
           {
@@ -507,8 +507,8 @@
         "formation": null,
         "starters": [
           {
-            "number": "14",
-            "name": "西蒙·林德霍尔姆",
+            "number": "11",
+            "name": "乔纳森·穆津加",
             "position": "前锋"
           },
           {
@@ -517,13 +517,13 @@
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "乔纳森·穆津加",
-            "position": "前锋"
+            "number": "14",
+            "name": "西蒙·林德霍尔姆",
+            "position": "中场"
           },
           {
-            "number": "23",
-            "name": "米卡·涅米",
+            "number": "24",
+            "name": "亚辛·道西",
             "position": "中场"
           },
           {
@@ -532,8 +532,8 @@
             "position": "中场"
           },
           {
-            "number": "24",
-            "name": "亚辛·道西",
+            "number": "2",
+            "name": "拉萨纳·曼纳尔",
             "position": "中场"
           },
           {
@@ -552,8 +552,8 @@
             "position": "后卫"
           },
           {
-            "number": "2",
-            "name": "拉萨纳·曼纳尔",
+            "number": "23",
+            "name": "米卡·涅米",
             "position": "后卫"
           },
           {
@@ -563,6 +563,11 @@
           }
         ],
         "subs": [
+          {
+            "number": "35",
+            "name": "奥拉维·凯图里",
+            "position": "前锋"
+          },
           {
             "number": "10",
             "name": "贾比尔·阿卜迪哈基姆·阿里",
@@ -602,11 +607,6 @@
             "number": "12",
             "name": "卢卡斯·维吕宁",
             "position": "守门员"
-          },
-          {
-            "number": "35",
-            "name": "奥拉维·凯图里",
-            "position": "前锋"
           }
         ],
         "injured": [],
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.810↓",
-        "handicap": "平手降",
-        "away_water": "1.000↑",
-        "time": "05-18 22:58"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "平手/半球",
-        "away_water": "0.850",
-        "time": "05-11 19:48"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.810",
         "time": "05-17 06:48"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.810↓",
+        "handicap": "平手降",
+        "away_water": "1.000↑",
+        "time": "05-18 22:58"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "平手/半球",
+        "away_water": "0.850",
+        "time": "05-11 19:48"
       }
     },
     {
