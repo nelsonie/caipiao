@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-05-18T19:00:07Z'
-total_matches: 1
-leagues_covered:
-- 英格兰超级联赛
+last_updated_utc: '2026-05-18T19:10:04Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 英格兰超级联赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 1004 | 2026-05-19 星期二 | 阿森纳 vs 伯恩利 | 3.10/4.25/1.75 | [1202518](matches/1202518.md) |
