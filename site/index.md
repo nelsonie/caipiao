@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-05-18T16:30:14Z'
+last_updated_utc: '2026-05-18T16:40:06Z'
 total_matches: 3
 leagues_covered:
 - 瑞典超级联赛
