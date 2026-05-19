@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>今日全部对阵 (0 场) · caipiao</title>
+<title>今日全部对阵 (8 场) · caipiao</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="alternate" type="text/markdown" href="index.md">
 <style>
@@ -82,10 +82,157 @@ button:disabled { opacity: .5; cursor: default; }
   <a href="/_meta.json">_meta.json</a>
 </nav>
 <main>
-<h1>今日全部对阵 (0 场)</h1>
-<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-05-19T03:00:05Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">0</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v"></div></div></div>
+<h1>今日全部对阵 (8 场)</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-05-19T03:10:08Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">8</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v">南美解放者杯、欧罗巴联赛、英格兰超级联赛</div></div></div>
+
+<section class="quick">
+  <h2>快查（8 场 · 按日期升序）</h2>
+  <ul>
+    <li><span class="meta">2026-05-20 · 英格兰超级联赛</span><span class="teams">伯恩茅斯 vs 曼彻斯特城</span><a class="url" href="/matches/1202682.html">{ORIGIN}/matches/1202682.html</a></li>
+<li><span class="meta">2026-05-20 · 英格兰超级联赛</span><span class="teams">切尔西 vs 托特纳姆热刺</span><a class="url" href="/matches/1202694.html">{ORIGIN}/matches/1202694.html</a></li>
+<li><span class="meta">2026-05-20 · 南美解放者杯</span><span class="teams">弗鲁米嫩塞 vs 玻利瓦尔</span><a class="url" href="/matches/1398777.html">{ORIGIN}/matches/1398777.html</a></li>
+<li><span class="meta">2026-05-20 · 南美解放者杯</span><span class="teams">罗萨里奥中央 vs 委内瑞拉中央大学</span><a class="url" href="/matches/1398890.html">{ORIGIN}/matches/1398890.html</a></li>
+<li><span class="meta">2026-05-20 · 南美解放者杯</span><span class="teams">时刻准备 vs 米拉索尔</span><a class="url" href="/matches/1398867.html">{ORIGIN}/matches/1398867.html</a></li>
+<li><span class="meta">2026-05-21 · 欧罗巴联赛</span><span class="teams">弗赖堡 vs 阿斯顿维拉</span><a class="url" href="/matches/1410976.html">{ORIGIN}/matches/1410976.html</a></li>
+<li><span class="meta">2026-05-21 · 南美解放者杯</span><span class="teams">弗拉门戈 vs 拉普拉塔大学生</span><a class="url" href="/matches/1398730.html">{ORIGIN}/matches/1398730.html</a></li>
+<li><span class="meta">2026-05-21 · 南美解放者杯</span><span class="teams">帕尔梅拉斯 vs 波特诺山丘</span><a class="url" href="/matches/1398841.html">{ORIGIN}/matches/1398841.html</a></li>
+  </ul>
+  <button id="copy-all" type="button">复制全部对阵及链接</button>
+  <p class="hint">点按钮会把每场一行，格式：<code>日期 联赛 主队 vs 客队 URL</code>，复制到剪贴板。</p>
+  <script>
+    (function () {
+      var ITEMS = [{"line": "2026-05-20 英格兰超级联赛 伯恩茅斯 vs 曼彻斯特城 {ORIGIN}/matches/1202682.html"}, {"line": "2026-05-20 英格兰超级联赛 切尔西 vs 托特纳姆热刺 {ORIGIN}/matches/1202694.html"}, {"line": "2026-05-20 南美解放者杯 弗鲁米嫩塞 vs 玻利瓦尔 {ORIGIN}/matches/1398777.html"}, {"line": "2026-05-20 南美解放者杯 罗萨里奥中央 vs 委内瑞拉中央大学 {ORIGIN}/matches/1398890.html"}, {"line": "2026-05-20 南美解放者杯 时刻准备 vs 米拉索尔 {ORIGIN}/matches/1398867.html"}, {"line": "2026-05-21 欧罗巴联赛 弗赖堡 vs 阿斯顿维拉 {ORIGIN}/matches/1410976.html"}, {"line": "2026-05-21 南美解放者杯 弗拉门戈 vs 拉普拉塔大学生 {ORIGIN}/matches/1398730.html"}, {"line": "2026-05-21 南美解放者杯 帕尔梅拉斯 vs 波特诺山丘 {ORIGIN}/matches/1398841.html"}];
+      var origin = location.origin;
+      // 页面加载时把 li 里的 {ORIGIN} 占位符都换成真实域名
+      document.querySelectorAll('.quick .url').forEach(function (a) {
+        if (a.textContent.indexOf('{ORIGIN}') === 0) {
+          a.textContent = origin + a.textContent.slice('{ORIGIN}'.length);
+        }
+      });
+      var btn = document.getElementById('copy-all');
+      btn.addEventListener('click', function () {
+        var text = ITEMS.map(function (it) { return it.line.replace('{ORIGIN}', origin); }).join('\n');
+        var done = function () {
+          var prev = btn.textContent;
+          btn.textContent = '已复制 ' + ITEMS.length + ' 条 ✓';
+          btn.disabled = true;
+          setTimeout(function () { btn.textContent = prev; btn.disabled = false; }, 2000);
+        };
+        if (navigator.clipboard && window.isSecureContext) {
+          navigator.clipboard.writeText(text).then(done, function (err) {
+            alert('复制失败：' + err);
+          });
+        } else {
+          var ta = document.createElement('textarea');
+          ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+          document.body.appendChild(ta); ta.select();
+          try { document.execCommand('copy'); done(); } catch (e) { alert('复制失败'); }
+          document.body.removeChild(ta);
+        }
+      });
+    })();
+  </script>
+</section>
 
 <h1>今日全部对阵</h1>
+<h2>南美解放者杯 (5)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2003</td>
+<td>2026-05-20 星期三</td>
+<td>弗鲁米嫩塞 vs 玻利瓦尔</td>
+<td>1.70/3.65/3.75</td>
+<td><a href="matches/1398777.html">1398777</a></td>
+</tr>
+<tr>
+<td>2004</td>
+<td>2026-05-20 星期三</td>
+<td>罗萨里奥中央 vs 委内瑞拉中央大学</td>
+<td>2.07/3.80/2.61</td>
+<td><a href="matches/1398890.html">1398890</a></td>
+</tr>
+<tr>
+<td>2005</td>
+<td>2026-05-20 星期三</td>
+<td>时刻准备 vs 米拉索尔</td>
+<td>2.56/3.40/2.25</td>
+<td><a href="matches/1398867.html">1398867</a></td>
+</tr>
+<tr>
+<td>3009</td>
+<td>2026-05-21 星期四</td>
+<td>弗拉门戈 vs 拉普拉塔大学生</td>
+<td>2.24/3.20/2.70</td>
+<td><a href="matches/1398730.html">1398730</a></td>
+</tr>
+<tr>
+<td>3010</td>
+<td>2026-05-21 星期四</td>
+<td>帕尔梅拉斯 vs 波特诺山丘</td>
+<td>1.70/3.55/3.85</td>
+<td><a href="matches/1398841.html">1398841</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2>欧罗巴联赛 (1)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3008</td>
+<td>2026-05-21 星期四</td>
+<td>弗赖堡 vs 阿斯顿维拉</td>
+<td>2.13/3.35/2.77</td>
+<td><a href="matches/1410976.html">1410976</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2>英格兰超级联赛 (2)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2001</td>
+<td>2026-05-20 星期三</td>
+<td>伯恩茅斯 vs 曼彻斯特城</td>
+<td>2.08/3.70/2.65</td>
+<td><a href="matches/1202682.html">1202682</a></td>
+</tr>
+<tr>
+<td>2002</td>
+<td>2026-05-20 星期三</td>
+<td>切尔西 vs 托特纳姆热刺</td>
+<td>3.65/3.75/1.70</td>
+<td><a href="matches/1202694.html">1202694</a></td>
+</tr>
+</tbody>
+</table></div>
 </main>
 <footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
 </body>
