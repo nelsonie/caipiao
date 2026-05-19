@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-19T18:40:11Z",
+  "last_updated_utc": "2026-05-19T18:50:10Z",
   "matches": [
     {
       "xml_id": "2039844",
@@ -72,6 +72,42 @@
       "matchnum_label": "周二005",
       "home_team_id": "11094",
       "away_team_id": "5164"
+    },
+    {
+      "xml_id": "2039855",
+      "matchnum": "3008",
+      "date": "2026-05-21",
+      "dayofweek": "星期四",
+      "league": "欧罗巴联赛",
+      "home": "弗赖堡",
+      "away": "阿斯顿维拉",
+      "spf_win": "2.16",
+      "spf_draw": "3.30",
+      "spf_lost": "2.75",
+      "spf_updated": "2026-05-19 13:57:52",
+      "gameid": "1410976",
+      "kickoff_cst": "2026-05-21 03:00",
+      "matchnum_label": "周三008",
+      "home_team_id": "804",
+      "away_team_id": "555"
+    },
+    {
+      "xml_id": "2039856",
+      "matchnum": "3009",
+      "date": "2026-05-21",
+      "dayofweek": "星期四",
+      "league": "南美解放者杯",
+      "home": "弗拉门戈",
+      "away": "拉普拉塔大学生",
+      "spf_win": "2.24",
+      "spf_draw": "3.20",
+      "spf_lost": "2.70",
+      "spf_updated": "2026-05-19 09:41:51",
+      "gameid": "1398730",
+      "kickoff_cst": "2026-05-21 08:30",
+      "matchnum_label": "周三009",
+      "home_team_id": "1577",
+      "away_team_id": "569"
     }
   ]
 }
