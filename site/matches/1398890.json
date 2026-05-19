@@ -24,7 +24,7 @@
       "lost": "10.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-19T10:30:07Z"
+    "fetched_at_utc": "2026-05-19T10:40:06Z"
   },
   "shuju": {
     "title": "罗萨里奥中央VS委内瑞拉中央大学(2026解放者杯)-数据分析-500彩票网",
@@ -656,10 +656,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.900↑",
+        "home_water": "0.850↑",
         "handicap": "两球升",
-        "away_water": "0.920↓",
-        "time": "05-19 18:18"
+        "away_water": "0.970↓",
+        "time": "05-19 18:27"
       },
       "init": {
         "home_water": "0.820",
@@ -685,22 +685,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "两球升",
-        "away_water": "0.890↓",
-        "time": "05-19 18:08"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "球半",
-        "away_water": "0.970",
-        "time": "05-07 05:25"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -714,6 +698,22 @@
         "handicap": "两球",
         "away_water": "0.900",
         "time": "05-18 20:21"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "两球升",
+        "away_water": "0.890↓",
+        "time": "05-19 18:08"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "球半",
+        "away_water": "0.970",
+        "time": "05-07 05:25"
       }
     },
     {
@@ -800,10 +800,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.910↑",
         "handicap": "两球升",
-        "away_water": "0.930↓",
-        "time": "05-19 18:19"
+        "away_water": "0.970↓",
+        "time": "05-19 18:27"
       },
       "init": {
         "home_water": "0.880",
@@ -1888,7 +1888,7 @@
         "init": [
           "0.95",
           "1.07",
-          "1.21"
+          "1.20"
         ]
       }
     },
@@ -1932,7 +1932,7 @@
         "live": [
           "1.04",
           "0.67",
-          "0.55"
+          "0.54"
         ],
         "init": [
           "0.95",
