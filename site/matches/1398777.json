@@ -24,7 +24,7 @@
       "lost": "10.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-19T09:50:06Z"
+    "fetched_at_utc": "2026-05-19T10:00:07Z"
   },
   "shuju": {
     "title": "弗鲁米嫩塞VS玻利瓦尔(2026解放者杯)-数据分析-500彩票网",
@@ -703,22 +703,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "球半/两球",
-        "away_water": "0.940↑",
-        "time": "05-19 17:37"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "球半/两球",
-        "away_water": "0.920",
-        "time": "05-18 20:06"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -732,6 +716,22 @@
         "handicap": "球半",
         "away_water": "1.000",
         "time": "05-07 11:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "球半/两球",
+        "away_water": "0.940↑",
+        "time": "05-19 17:37"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "球半/两球",
+        "away_water": "0.920",
+        "time": "05-18 20:06"
       }
     },
     {
@@ -754,10 +754,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.870↑",
+        "home_water": "0.850↑",
         "handicap": "球半/两球升",
-        "away_water": "1.030",
-        "time": "05-19 17:37"
+        "away_water": "1.010↓",
+        "time": "05-19 17:58"
       },
       "init": {
         "home_water": "0.750",
