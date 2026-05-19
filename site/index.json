@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-19T11:50:09Z",
+  "last_updated_utc": "2026-05-19T12:00:13Z",
   "matches": [
     {
       "xml_id": "2039843",
@@ -63,10 +63,10 @@
       "league": "南美解放者杯",
       "home": "罗萨里奥中央",
       "away": "委内瑞拉中央大学",
-      "spf_win": "2.14",
-      "spf_draw": "3.60",
-      "spf_lost": "2.61",
-      "spf_updated": "2026-05-19 16:25:59",
+      "spf_win": "2.20",
+      "spf_draw": "3.54",
+      "spf_lost": "2.55",
+      "spf_updated": "2026-05-19 19:51:16",
       "gameid": "1398890",
       "kickoff_cst": "2026-05-20 06:00",
       "matchnum_label": "周二004",
@@ -126,24 +126,6 @@
       "matchnum_label": "周三009",
       "home_team_id": "1577",
       "away_team_id": "569"
-    },
-    {
-      "xml_id": "2039857",
-      "matchnum": "3010",
-      "date": "2026-05-21",
-      "dayofweek": "星期四",
-      "league": "南美解放者杯",
-      "home": "帕尔梅拉斯",
-      "away": "波特诺山丘",
-      "spf_win": "1.70",
-      "spf_draw": "3.55",
-      "spf_lost": "3.85",
-      "spf_updated": "2026-05-19 09:41:51",
-      "gameid": "1398841",
-      "kickoff_cst": "2026-05-21 08:30",
-      "matchnum_label": "周三010",
-      "home_team_id": "1567",
-      "away_team_id": "2062"
     }
   ]
 }
