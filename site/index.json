@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-20T17:30:13Z",
+  "last_updated_utc": "2026-05-20T17:40:13Z",
   "matches": [
     {
       "xml_id": "2039853",
@@ -108,24 +108,6 @@
       "matchnum_label": "周四001",
       "home_team_id": "563",
       "away_team_id": "2465"
-    },
-    {
-      "xml_id": "2039861",
-      "matchnum": "4004",
-      "date": "2026-05-22",
-      "dayofweek": "星期五",
-      "league": "沙特职业联赛",
-      "home": "利雅得胜利",
-      "away": "达马克",
-      "spf_win": "1.85",
-      "spf_draw": "4.00",
-      "spf_lost": "2.95",
-      "spf_updated": "2026-05-20 09:34:24",
-      "gameid": "1234943",
-      "kickoff_cst": "2026-05-22 02:00",
-      "matchnum_label": "周四004",
-      "home_team_id": "4889",
-      "away_team_id": "7943"
     },
     {
       "xml_id": "2039868",
