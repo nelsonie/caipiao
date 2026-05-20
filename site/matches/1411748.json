@@ -24,7 +24,7 @@
       "lost": "3.83",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-20T09:50:13Z"
+    "fetched_at_utc": "2026-05-20T10:00:14Z"
   },
   "shuju": {
     "title": "沃尔夫斯堡VS帕德博恩(2025/2026德乙)-数据分析-500彩票网",
@@ -636,22 +636,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "半球/一球",
-        "away_water": "0.890↑",
-        "time": "05-20 05:03"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "半球/一球",
-        "away_water": "0.850",
-        "time": "05-18 16:31"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -665,6 +649,22 @@
         "handicap": "平手/半球",
         "away_water": "1.150",
         "time": "05-18 10:21"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "半球/一球",
+        "away_water": "0.890↑",
+        "time": "05-20 05:03"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "半球/一球",
+        "away_water": "0.850",
+        "time": "05-18 16:31"
       }
     },
     {
