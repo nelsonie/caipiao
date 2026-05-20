@@ -24,7 +24,7 @@
       "lost": "1.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-20T16:20:07Z"
+    "fetched_at_utc": "2026-05-20T16:30:08Z"
   },
   "shuju": {
     "title": "塞哈特海湾VS吉达国民(2025/2026沙特联)-数据分析-500彩票网",
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↑",
-        "handicap": "受一球升",
-        "away_water": "0.880↓",
-        "time": "05-20 23:35"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "受一球/球半",
-        "away_water": "0.990",
-        "time": "05-19 14:06"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -683,6 +667,22 @@
         "handicap": "受一球/球半",
         "away_water": "0.980",
         "time": "05-17 15:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "受一球升",
+        "away_water": "0.880↓",
+        "time": "05-20 23:35"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "受一球/球半",
+        "away_water": "0.990",
+        "time": "05-19 14:06"
       }
     },
     {
@@ -769,10 +769,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.920↑",
         "handicap": "受一球升",
         "away_water": "0.850↓",
-        "time": "05-21 00:10"
+        "time": "05-21 00:20"
       },
       "init": {
         "home_water": "0.750",
