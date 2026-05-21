@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-21T10:40:13Z",
+  "last_updated_utc": "2026-05-21T10:50:12Z",
   "matches": [
     {
       "xml_id": "2039858",
@@ -45,10 +45,10 @@
       "league": "沙特职业联赛",
       "home": "吉达联合",
       "away": "胡巴尔卡德西亚",
-      "spf_win": "1.52",
-      "spf_draw": "4.15",
-      "spf_lost": "4.35",
-      "spf_updated": "2026-05-21 18:04:23",
+      "spf_win": "1.50",
+      "spf_draw": "4.20",
+      "spf_lost": "4.45",
+      "spf_updated": "2026-05-21 18:43:41",
       "gameid": "1234918",
       "kickoff_cst": "2026-05-22 02:00",
       "matchnum_label": "周四003",
@@ -216,6 +216,42 @@
       "matchnum_label": "周五005",
       "home_team_id": "803",
       "away_team_id": "1308"
+    },
+    {
+      "xml_id": "2039885",
+      "matchnum": "5006",
+      "date": "2026-05-23",
+      "dayofweek": "星期六",
+      "league": "法国杯",
+      "home": "朗斯",
+      "away": "尼斯",
+      "spf_win": "2.30",
+      "spf_draw": "3.45",
+      "spf_lost": "2.47",
+      "spf_updated": "2026-05-21 13:35:12",
+      "gameid": "1407954",
+      "kickoff_cst": "2026-05-23 03:00",
+      "matchnum_label": "周五006",
+      "home_team_id": "979",
+      "away_team_id": "1134"
+    },
+    {
+      "xml_id": "2039886",
+      "matchnum": "5004",
+      "date": "2026-05-23",
+      "dayofweek": "星期六",
+      "league": "德国乙级联赛",
+      "home": "埃森",
+      "away": "菲尔特",
+      "spf_win": "1.51",
+      "spf_draw": "4.05",
+      "spf_lost": "4.55",
+      "spf_updated": "2026-05-21 13:35:12",
+      "gameid": "1411750",
+      "kickoff_cst": "2026-05-23 02:30",
+      "matchnum_label": "周五004",
+      "home_team_id": "568",
+      "away_team_id": "794"
     }
   ]
 }
