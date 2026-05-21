@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-21T09:40:13Z",
+  "last_updated_utc": "2026-05-21T09:50:13Z",
   "matches": [
     {
       "xml_id": "2039858",
@@ -180,24 +180,6 @@
       "matchnum_label": "周五002",
       "home_team_id": "434",
       "away_team_id": "866"
-    },
-    {
-      "xml_id": "2039883",
-      "matchnum": "5003",
-      "date": "2026-05-23",
-      "dayofweek": "星期六",
-      "league": "瑞典超级联赛",
-      "home": "佐加顿斯",
-      "away": "布鲁马波卡纳",
-      "spf_win": "2.06",
-      "spf_draw": "3.60",
-      "spf_lost": "2.73",
-      "spf_updated": "2026-05-21 13:35:12",
-      "gameid": "1362670",
-      "kickoff_cst": "2026-05-23 01:00",
-      "matchnum_label": "周五003",
-      "home_team_id": "1355",
-      "away_team_id": "1764"
     },
     {
       "xml_id": "2039884",
