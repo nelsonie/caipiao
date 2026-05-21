@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-21T13:10:15Z",
+  "last_updated_utc": "2026-05-21T13:20:14Z",
   "matches": [
     {
       "xml_id": "2039858",
@@ -216,6 +216,24 @@
       "matchnum_label": "周五005",
       "home_team_id": "803",
       "away_team_id": "1308"
+    },
+    {
+      "xml_id": "2039885",
+      "matchnum": "5006",
+      "date": "2026-05-23",
+      "dayofweek": "星期六",
+      "league": "法国杯",
+      "home": "朗斯",
+      "away": "尼斯",
+      "spf_win": "2.30",
+      "spf_draw": "3.45",
+      "spf_lost": "2.47",
+      "spf_updated": "2026-05-21 13:35:12",
+      "gameid": "1407954",
+      "kickoff_cst": "2026-05-23 03:00",
+      "matchnum_label": "周五006",
+      "home_team_id": "979",
+      "away_team_id": "1134"
     },
     {
       "xml_id": "2039886",
