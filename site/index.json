@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-21T22:00:09Z",
+  "last_updated_utc": "2026-05-21T22:10:10Z",
   "matches": [
     {
       "xml_id": "2039862",
@@ -38,24 +38,6 @@
       "away_team_id": "1164"
     },
     {
-      "xml_id": "2039882",
-      "matchnum": "5002",
-      "date": "2026-05-23",
-      "dayofweek": "星期六",
-      "league": "芬兰超级联赛",
-      "home": "瓦萨",
-      "away": "赫尔辛基",
-      "spf_win": "1.77",
-      "spf_draw": "3.53",
-      "spf_lost": "3.55",
-      "spf_updated": "2026-05-21 13:35:12",
-      "gameid": "1363332",
-      "kickoff_cst": "2026-05-23 00:00",
-      "matchnum_label": "周五002",
-      "home_team_id": "434",
-      "away_team_id": "866"
-    },
-    {
       "xml_id": "2039883",
       "matchnum": "5003",
       "date": "2026-05-23",
@@ -90,42 +72,6 @@
       "matchnum_label": "周五005",
       "home_team_id": "803",
       "away_team_id": "1308"
-    },
-    {
-      "xml_id": "2039885",
-      "matchnum": "5006",
-      "date": "2026-05-23",
-      "dayofweek": "星期六",
-      "league": "法国杯",
-      "home": "朗斯",
-      "away": "尼斯",
-      "spf_win": "2.30",
-      "spf_draw": "3.45",
-      "spf_lost": "2.47",
-      "spf_updated": "2026-05-21 13:35:12",
-      "gameid": "1407954",
-      "kickoff_cst": "2026-05-23 03:00",
-      "matchnum_label": "周五006",
-      "home_team_id": "979",
-      "away_team_id": "1134"
-    },
-    {
-      "xml_id": "2039886",
-      "matchnum": "5004",
-      "date": "2026-05-23",
-      "dayofweek": "星期六",
-      "league": "德国乙级联赛",
-      "home": "埃森",
-      "away": "菲尔特",
-      "spf_win": "1.51",
-      "spf_draw": "4.05",
-      "spf_lost": "4.55",
-      "spf_updated": "2026-05-21 13:35:12",
-      "gameid": "1411750",
-      "kickoff_cst": "2026-05-23 02:30",
-      "matchnum_label": "周五004",
-      "home_team_id": "568",
-      "away_team_id": "794"
     }
   ]
 }
