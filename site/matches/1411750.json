@@ -24,7 +24,7 @@
       "lost": "2.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-21T11:50:12Z"
+    "fetched_at_utc": "2026-05-21T12:00:11Z"
   },
   "shuju": {
     "title": "埃森VS菲尔特(2025/2026德丙联)-数据分析-500彩票网",
@@ -646,22 +646,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "平手升",
-        "away_water": "0.790↓",
-        "time": "05-21 00:18"
-      },
-      "init": {
-        "home_water": "0.770",
-        "handicap": "受平手/半球",
-        "away_water": "1.040",
-        "time": "05-19 21:19"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -675,6 +659,22 @@
         "handicap": "平手",
         "away_water": "0.710",
         "time": "05-18 19:12"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "平手升",
+        "away_water": "0.790↓",
+        "time": "05-21 00:18"
+      },
+      "init": {
+        "home_water": "0.770",
+        "handicap": "受平手/半球",
+        "away_water": "1.040",
+        "time": "05-19 21:19"
       }
     },
     {
