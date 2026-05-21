@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-21T08:40:13Z",
+  "last_updated_utc": "2026-05-21T08:50:11Z",
   "matches": [
     {
       "xml_id": "2039858",
@@ -9,10 +9,10 @@
       "league": "瑞典超级联赛",
       "home": "埃尔夫斯堡",
       "away": "米亚尔比",
-      "spf_win": "1.47",
-      "spf_draw": "3.81",
-      "spf_lost": "5.35",
-      "spf_updated": "2026-05-21 13:05:06",
+      "spf_win": "1.46",
+      "spf_draw": "3.85",
+      "spf_lost": "5.40",
+      "spf_updated": "2026-05-21 16:45:14",
       "gameid": "1362723",
       "kickoff_cst": "2026-05-22 01:00",
       "matchnum_label": "周四001",
@@ -198,6 +198,24 @@
       "matchnum_label": "周五003",
       "home_team_id": "1355",
       "away_team_id": "1764"
+    },
+    {
+      "xml_id": "2039884",
+      "matchnum": "5005",
+      "date": "2026-05-23",
+      "dayofweek": "星期六",
+      "league": "意大利甲级联赛",
+      "home": "佛罗伦萨",
+      "away": "亚特兰大",
+      "spf_win": "1.55",
+      "spf_draw": "4.00",
+      "spf_lost": "4.27",
+      "spf_updated": "2026-05-21 13:35:12",
+      "gameid": "1199721",
+      "kickoff_cst": "2026-05-23 02:45",
+      "matchnum_label": "周五005",
+      "home_team_id": "803",
+      "away_team_id": "1308"
     },
     {
       "xml_id": "2039885",
