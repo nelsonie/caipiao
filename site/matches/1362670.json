@@ -24,13 +24,13 @@
       "lost": "6.05",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-21T19:20:08Z"
+    "fetched_at_utc": "2026-05-21T19:30:08Z"
   },
   "shuju": {
     "title": "佐加顿斯VS布鲁马波卡纳(2026瑞典超)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，尤尔加登 3胜 1平 2负 ，进8球，失7球，大球2次，小球4次",
     "team_ranks": [
-      "尤尔加登 [瑞典超5]",
+      "尤尔加登 [瑞典超6]",
       "布洛马波卡纳 [瑞典超8]"
     ],
     "h2h_rows": [
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "一球/球半",
-        "away_water": "0.890↑",
-        "time": "05-21 14:41"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "一球/球半",
-        "away_water": "0.840",
-        "time": "05-19 01:20"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球",
         "away_water": "0.900",
         "time": "05-19 00:02"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "一球/球半",
+        "away_water": "0.890↑",
+        "time": "05-21 14:41"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "一球/球半",
+        "away_water": "0.840",
+        "time": "05-19 01:20"
       }
     },
     {
