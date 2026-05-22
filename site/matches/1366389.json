@@ -24,7 +24,7 @@
       "lost": "4.05",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-22T06:10:10Z"
+    "fetched_at_utc": "2026-05-22T06:20:10Z"
   },
   "shuju": {
     "title": "广岛三箭VS名古屋鲸八(2026日职)-数据分析-500彩票网",
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "半球/一球",
-        "away_water": "0.910↓",
-        "time": "05-22 13:32"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.950",
-        "time": "05-18 05:50"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -683,6 +667,22 @@
         "handicap": "半球/一球",
         "away_water": "0.860",
         "time": "05-18 05:05"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "半球/一球",
+        "away_water": "0.910↓",
+        "time": "05-22 13:32"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.950",
+        "time": "05-18 05:50"
       }
     },
     {
