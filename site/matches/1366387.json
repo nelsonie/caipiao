@@ -24,7 +24,7 @@
       "lost": "3.55",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-22T22:00:07Z"
+    "fetched_at_utc": "2026-05-22T22:10:08Z"
   },
   "shuju": {
     "title": "京都不死鸟VS长崎航海(2026日职)-数据分析-500彩票网",
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "半球",
-        "away_water": "0.890↓",
-        "time": "05-23 02:45"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "半球",
-        "away_water": "0.910",
-        "time": "05-18 05:23"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -686,13 +670,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "半球",
+        "away_water": "0.890↓",
+        "time": "05-23 02:45"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "半球",
+        "away_water": "0.910",
+        "time": "05-18 05:23"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "0.980↑",
+        "home_water": "0.990↑",
         "handicap": "半球",
-        "away_water": "0.910↓",
-        "time": "05-23 03:01"
+        "away_water": "0.920↓",
+        "time": "05-23 06:05"
       },
       "init": {
         "home_water": "0.880",
@@ -721,10 +721,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.960↑",
         "handicap": "半球",
-        "away_water": "0.920↓",
-        "time": "05-23 03:05"
+        "away_water": "0.930",
+        "time": "05-23 06:06"
       },
       "init": {
         "home_water": "0.950",
@@ -785,10 +785,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.990↑",
+        "home_water": "0.980↑",
         "handicap": "半球",
-        "away_water": "0.910↑",
-        "time": "05-23 03:06"
+        "away_water": "0.920↑",
+        "time": "05-23 06:07"
       },
       "init": {
         "home_water": "0.960",
