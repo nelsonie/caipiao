@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-05-22T00:30:08Z",
+  "last_updated_utc": "2026-05-22T00:40:10Z",
   "matches": [
-    {
-      "xml_id": "2039862",
-      "matchnum": "4005",
-      "date": "2026-05-22",
-      "dayofweek": "星期五",
-      "league": "南美解放者杯",
-      "home": "佩纳罗尔",
-      "away": "科林蒂安",
-      "spf_win": "1.36",
-      "spf_draw": "4.05",
-      "spf_lost": "6.80",
-      "spf_updated": "2026-05-21 21:53:02",
-      "gameid": "1398821",
-      "kickoff_cst": "2026-05-22 08:30",
-      "matchnum_label": "周四005",
-      "home_team_id": "2061",
-      "away_team_id": "1572"
-    },
     {
       "xml_id": "2039881",
       "matchnum": "5001",
@@ -108,24 +90,6 @@
       "matchnum_label": "周五006",
       "home_team_id": "979",
       "away_team_id": "1134"
-    },
-    {
-      "xml_id": "2039886",
-      "matchnum": "5004",
-      "date": "2026-05-23",
-      "dayofweek": "星期六",
-      "league": "德国乙级联赛",
-      "home": "埃森",
-      "away": "菲尔特",
-      "spf_win": "1.51",
-      "spf_draw": "4.05",
-      "spf_lost": "4.55",
-      "spf_updated": "2026-05-21 13:35:12",
-      "gameid": "1411750",
-      "kickoff_cst": "2026-05-23 02:30",
-      "matchnum_label": "周五004",
-      "home_team_id": "568",
-      "away_team_id": "794"
     }
   ]
 }
