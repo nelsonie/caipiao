@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-22T07:30:31Z",
+  "last_updated_utc": "2026-05-22T07:40:29Z",
   "matches": [
     {
       "xml_id": "2039881",
@@ -558,24 +558,6 @@
       "matchnum_label": "周日013",
       "home_team_id": "700",
       "away_team_id": "978"
-    },
-    {
-      "xml_id": "2039938",
-      "matchnum": "7014",
-      "date": "2026-05-24",
-      "dayofweek": "星期天",
-      "league": "英格兰超级联赛",
-      "home": "水晶宫",
-      "away": "阿森纳",
-      "spf_win": "1.92",
-      "spf_draw": "3.50",
-      "spf_lost": "3.10",
-      "spf_updated": "2026-05-22 10:12:30",
-      "gameid": "1202735",
-      "kickoff_cst": "2026-05-24 23:00",
-      "matchnum_label": "周日014",
-      "home_team_id": "516",
-      "away_team_id": "554"
     },
     {
       "xml_id": "2039939",
