@@ -24,7 +24,7 @@
       "lost": "2.09",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-22T10:30:09Z"
+    "fetched_at_utc": "2026-05-22T10:40:07Z"
   },
   "shuju": {
     "title": "佛罗伦萨VS亚特兰大(2025/2026意甲)-数据分析-500彩票网",
@@ -655,10 +655,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.000↑",
         "handicap": "平手升",
-        "away_water": "0.870↓",
-        "time": "05-22 18:19"
+        "away_water": "0.880↓",
+        "time": "05-22 18:32"
       },
       "init": {
         "home_water": "0.860",
@@ -684,35 +684,35 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "平手升",
-        "away_water": "0.900↓",
-        "time": "05-22 18:17"
-      },
-      "init": {
-        "home_water": "0.790",
-        "handicap": "受平手/半球",
-        "away_water": "0.940",
-        "time": "05-18 16:10"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "1.010↑",
         "handicap": "平手升",
         "away_water": "0.870↓",
-        "time": "05-22 18:20"
+        "time": "05-22 18:30"
       },
       "init": {
         "home_water": "0.870",
         "handicap": "受平手/半球",
         "away_water": "1.020",
         "time": "05-18 17:19"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "平手升",
+        "away_water": "0.910↓",
+        "time": "05-22 18:23"
+      },
+      "init": {
+        "home_water": "0.790",
+        "handicap": "受平手/半球",
+        "away_water": "0.940",
+        "time": "05-18 16:10"
       }
     },
     {
@@ -818,7 +818,7 @@
         "home_water": "1.020↑",
         "handicap": "平手升",
         "away_water": "0.880↓",
-        "time": "05-22 18:19"
+        "time": "05-22 18:28"
       },
       "init": {
         "home_water": "0.850",
@@ -1028,7 +1028,7 @@
     {
       "cid": "3",
       "company": "**t3*5",
-      "time": "2026-05-22 18:23:58",
+      "time": "2026-05-22 18:32:14",
       "odds": {
         "live": [
           "3.00",
