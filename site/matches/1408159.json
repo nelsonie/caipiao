@@ -24,7 +24,7 @@
       "lost": "6.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-22T07:50:13Z"
+    "fetched_at_utc": "2026-05-22T08:00:12Z"
   },
   "shuju": {
     "title": "拜仁慕尼黑VS斯图加特(2025/2026德国杯)-数据分析-500彩票网",
@@ -673,22 +673,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "球半",
-        "away_water": "0.970↑",
-        "time": "05-22 13:45"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "球半",
-        "away_water": "0.930",
-        "time": "04-29 20:45"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -702,6 +686,22 @@
         "handicap": "一球/球半",
         "away_water": "0.940",
         "time": "04-24 06:07"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "球半",
+        "away_water": "0.970↑",
+        "time": "05-22 13:45"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "球半",
+        "away_water": "0.930",
+        "time": "04-29 20:45"
       }
     },
     {
