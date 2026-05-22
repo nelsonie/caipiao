@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-22T01:40:09Z",
+  "last_updated_utc": "2026-05-22T01:50:10Z",
   "matches": [
     {
       "xml_id": "2039881",
@@ -9,10 +9,10 @@
       "league": "日本职业联赛",
       "home": "町田泽维亚",
       "away": "浦和红钻",
-      "spf_win": "5.30",
-      "spf_draw": "3.65",
-      "spf_lost": "1.50",
-      "spf_updated": "2026-05-21 13:35:12",
+      "spf_win": "5.60",
+      "spf_draw": "3.70",
+      "spf_lost": "1.47",
+      "spf_updated": "2026-05-22 09:38:56",
       "gameid": "1366442",
       "kickoff_cst": "2026-05-22 18:30",
       "matchnum_label": "周五001",
@@ -72,24 +72,6 @@
       "matchnum_label": "周五005",
       "home_team_id": "803",
       "away_team_id": "1308"
-    },
-    {
-      "xml_id": "2039885",
-      "matchnum": "5006",
-      "date": "2026-05-23",
-      "dayofweek": "星期六",
-      "league": "法国杯",
-      "home": "朗斯",
-      "away": "尼斯",
-      "spf_win": "2.30",
-      "spf_draw": "3.45",
-      "spf_lost": "2.47",
-      "spf_updated": "2026-05-21 13:35:12",
-      "gameid": "1407954",
-      "kickoff_cst": "2026-05-23 03:00",
-      "matchnum_label": "周五006",
-      "home_team_id": "979",
-      "away_team_id": "1134"
     },
     {
       "xml_id": "2039886",
