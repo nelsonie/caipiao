@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-22T14:30:33Z",
+  "last_updated_utc": "2026-05-22T14:40:37Z",
   "matches": [
     {
       "xml_id": "2039881",
@@ -468,6 +468,24 @@
       "matchnum_label": "周日006",
       "home_team_id": "1149",
       "away_team_id": "3656"
+    },
+    {
+      "xml_id": "2039933",
+      "matchnum": "7009",
+      "date": "2026-05-24",
+      "dayofweek": "星期天",
+      "league": "英格兰超级联赛",
+      "home": "富勒姆",
+      "away": "纽卡斯尔联",
+      "spf_win": "1.48",
+      "spf_draw": "4.20",
+      "spf_lost": "4.65",
+      "spf_updated": "2026-05-22 10:12:30",
+      "gameid": "1202670",
+      "kickoff_cst": "2026-05-24 23:00",
+      "matchnum_label": "周日009",
+      "home_team_id": "811",
+      "away_team_id": "1137"
     },
     {
       "xml_id": "2039934",
