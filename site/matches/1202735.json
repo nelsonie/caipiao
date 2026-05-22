@@ -24,7 +24,7 @@
       "lost": "1.67",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-22T17:10:28Z"
+    "fetched_at_utc": "2026-05-22T17:20:24Z"
   },
   "shuju": {
     "title": "水晶宫VS阿森纳(2025/2026英超)-数据分析-500彩票网",
@@ -619,10 +619,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.880",
+        "home_water": "0.850↓",
         "handicap": "受半球/一球升",
-        "away_water": "0.980",
-        "time": "05-23 00:15"
+        "away_water": "1.000↑",
+        "time": "05-23 01:08"
       },
       "init": {
         "home_water": "0.880",
@@ -680,22 +680,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "受半球/一球升",
-        "away_water": "0.880↑",
-        "time": "05-22 22:19"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "受一球",
-        "away_water": "0.800",
-        "time": "05-14 23:17"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -709,6 +693,22 @@
         "handicap": "受一球/球半",
         "away_water": "0.970",
         "time": "05-18 16:32"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "受半球/一球升",
+        "away_water": "0.880↑",
+        "time": "05-22 22:19"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "受一球",
+        "away_water": "0.800",
+        "time": "05-14 23:17"
       }
     },
     {
