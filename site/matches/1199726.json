@@ -24,7 +24,7 @@
       "lost": "1.26",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-22T03:30:21Z"
+    "fetched_at_utc": "2026-05-22T03:40:24Z"
   },
   "shuju": {
     "title": "都灵VS尤文图斯(2025/2026意甲)-数据分析-500彩票网",
@@ -475,22 +475,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.900",
-        "handicap": "受一球/球半",
-        "away_water": "0.980",
-        "time": "05-22 00:36"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "受一球/球半",
-        "away_water": "0.980",
-        "time": "05-18 17:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -504,6 +488,22 @@
         "handicap": "受一球",
         "away_water": "1.000",
         "time": "05-15 00:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.900",
+        "handicap": "受一球/球半",
+        "away_water": "0.980",
+        "time": "05-22 00:36"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "受一球/球半",
+        "away_water": "0.980",
+        "time": "05-18 17:03"
       }
     },
     {
