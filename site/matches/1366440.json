@@ -24,7 +24,7 @@
       "lost": "6.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-22T14:00:13Z"
+    "fetched_at_utc": "2026-05-22T14:10:12Z"
   },
   "shuju": {
     "title": "柏太阳神VS千叶市原(2026日职)-数据分析-500彩票网",
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "一球",
-        "away_water": "0.940↑",
-        "time": "05-21 23:35"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "一球",
-        "away_water": "0.930",
-        "time": "05-18 05:50"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -683,6 +667,22 @@
         "handicap": "一球",
         "away_water": "0.880",
         "time": "05-18 22:02"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "一球",
+        "away_water": "0.940↑",
+        "time": "05-21 23:35"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "一球",
+        "away_water": "0.930",
+        "time": "05-18 05:50"
       }
     },
     {
@@ -708,7 +708,7 @@
         "home_water": "0.970↑",
         "handicap": "一球",
         "away_water": "0.930",
-        "time": "05-22 20:45"
+        "time": "05-22 21:26"
       },
       "init": {
         "home_water": "0.930",

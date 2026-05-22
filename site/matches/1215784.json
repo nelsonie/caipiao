@@ -24,7 +24,7 @@
       "lost": "2.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-22T14:00:21Z"
+    "fetched_at_utc": "2026-05-22T14:10:18Z"
   },
   "shuju": {
     "title": "阿拉维斯VS巴列卡诺(2025/2026西甲)-数据分析-500彩票网",
@@ -691,22 +691,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.070↑",
-        "handicap": "平手/半球",
-        "away_water": "0.730↓",
-        "time": "05-22 16:46"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "平手/半球",
-        "away_water": "0.830",
-        "time": "05-18 16:35"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -720,6 +704,22 @@
         "handicap": "平手/半球",
         "away_water": "0.820",
         "time": "05-18 17:06"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.070↑",
+        "handicap": "平手/半球",
+        "away_water": "0.730↓",
+        "time": "05-22 16:46"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "平手/半球",
+        "away_water": "0.830",
+        "time": "05-18 16:35"
       }
     },
     {
