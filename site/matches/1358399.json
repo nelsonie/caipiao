@@ -24,7 +24,7 @@
       "lost": "2.84",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T10:00:22Z"
+    "fetched_at_utc": "2026-05-23T10:10:21Z"
   },
   "shuju": {
     "title": "明尼苏达联VS皇家盐湖城(2026美职联)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "平手/半球",
-        "away_water": "1.010↑",
-        "time": "05-23 17:38"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "平手/半球",
-        "away_water": "0.940",
-        "time": "05-17 19:36"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.940",
         "time": "05-17 18:58"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "平手/半球",
+        "away_water": "1.010↑",
+        "time": "05-23 17:38"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "平手/半球",
+        "away_water": "0.940",
+        "time": "05-17 19:36"
       }
     },
     {

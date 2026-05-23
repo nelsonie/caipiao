@@ -24,7 +24,7 @@
       "lost": "5.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T10:00:26Z"
+    "fetched_at_utc": "2026-05-23T10:10:26Z"
   },
   "shuju": {
     "title": "哈马比VSAIK索尔纳(2026瑞典超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.760↓",
-        "time": "05-23 16:07"
-      },
-      "init": {
-        "home_water": "0.160",
-        "handicap": "平手",
-        "away_water": "3.400",
-        "time": "05-18 22:38"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球/球半",
         "away_water": "0.780",
         "time": "05-23 07:21"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "一球/球半升",
+        "away_water": "0.760↓",
+        "time": "05-23 16:07"
+      },
+      "init": {
+        "home_water": "0.160",
+        "handicap": "平手",
+        "away_water": "3.400",
+        "time": "05-18 22:38"
       }
     },
     {
