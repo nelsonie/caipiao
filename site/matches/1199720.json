@@ -24,7 +24,7 @@
       "lost": "1.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T23:10:19Z"
+    "fetched_at_utc": "2026-05-23T23:20:21Z"
   },
   "shuju": {
     "title": "克雷莫纳VS科莫(2025/2026意甲)-数据分析-500彩票网",
@@ -633,10 +633,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.870↓",
+        "home_water": "0.850↓",
         "handicap": "受一球",
-        "away_water": "0.970↓",
-        "time": "05-21 22:07"
+        "away_water": "1.000↑",
+        "time": "05-24 07:07"
       },
       "init": {
         "home_water": "0.880",
@@ -665,10 +665,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.880↑",
         "handicap": "受一球",
-        "away_water": "0.970↓",
-        "time": "05-22 16:24"
+        "away_water": "1.000↓",
+        "time": "05-24 07:05"
       },
       "init": {
         "home_water": "0.860",
@@ -694,6 +694,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "受一球",
+        "away_water": "1.010",
+        "time": "05-24 07:11"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "受一球",
+        "away_water": "1.010",
+        "time": "05-18 17:03"
+      }
+    },
+    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -707,22 +723,6 @@
         "handicap": "受一球",
         "away_water": "0.930",
         "time": "05-18 17:06"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890↑",
-        "handicap": "受一球",
-        "away_water": "1.000↓",
-        "time": "05-23 06:00"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "受一球",
-        "away_water": "1.010",
-        "time": "05-18 17:03"
       }
     },
     {
@@ -825,10 +825,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.900↑",
+        "home_water": "0.880↑",
         "handicap": "受一球",
-        "away_water": "1.000↓",
-        "time": "05-24 02:52"
+        "away_water": "1.020↑",
+        "time": "05-24 07:07"
       },
       "init": {
         "home_water": "0.870",
