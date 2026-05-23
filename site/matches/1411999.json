@@ -24,7 +24,7 @@
       "lost": "1.62",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T14:50:14Z"
+    "fetched_at_utc": "2026-05-23T15:00:15Z"
   },
   "shuju": {
     "title": "赫尔城VS米德尔斯堡(2025/2026英冠)-数据分析-500彩票网",
@@ -338,17 +338,17 @@
           {
             "number": "7",
             "name": "利亚姆·米拉尔",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "10",
             "name": "穆罕默德·贝鲁米",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "3",
             "name": "瑞恩·贾尔斯",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "25",
@@ -363,7 +363,7 @@
           {
             "number": "2",
             "name": "路易·科伊尔",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "4",
@@ -405,7 +405,7 @@
           {
             "number": "36",
             "name": "刘易斯·库马斯",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "13",
@@ -452,16 +452,11 @@
           {
             "number": "11",
             "name": "摩根·惠特克",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "3",
             "name": "马特·塔格特",
-            "position": "后卫"
-          },
-          {
-            "number": "16",
-            "name": "阿兰·布朗恩",
             "position": "中场"
           },
           {
@@ -470,9 +465,14 @@
             "position": "中场"
           },
           {
+            "number": "16",
+            "name": "阿兰·布朗恩",
+            "position": "中场"
+          },
+          {
             "number": "2",
             "name": "卡勒姆·布里坦",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "29",
@@ -509,11 +509,6 @@
           {
             "number": "45",
             "name": "杰里米·萨缅托",
-            "position": "前锋"
-          },
-          {
-            "number": "44",
-            "name": "克鲁兹·伊贝",
             "position": "中场"
           },
           {
@@ -529,7 +524,7 @@
           {
             "number": "14",
             "name": "阿莱克斯·吉尔伯特",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "25",
@@ -539,6 +534,11 @@
           {
             "number": "23",
             "name": "里奥·卡斯尔丁",
+            "position": "中场"
+          },
+          {
+            "number": "44",
+            "name": "克鲁兹·伊贝",
             "position": "中场"
           }
         ],
@@ -661,22 +661,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↓",
-        "handicap": "受半球降",
-        "away_water": "0.890↑",
-        "time": "05-23 22:29"
-      },
-      "init": {
-        "home_water": "1.060",
-        "handicap": "受平手/半球",
-        "away_water": "0.790",
-        "time": "05-20 04:01"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -690,6 +674,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.740",
         "time": "05-20 03:53"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↓",
+        "handicap": "受半球降",
+        "away_water": "0.890↑",
+        "time": "05-23 22:29"
+      },
+      "init": {
+        "home_water": "1.060",
+        "handicap": "受平手/半球",
+        "away_water": "0.790",
+        "time": "05-20 04:01"
       }
     },
     {
