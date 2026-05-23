@@ -24,7 +24,7 @@
       "lost": "3.55",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T10:10:07Z"
+    "fetched_at_utc": "2026-05-23T10:20:08Z"
   },
   "shuju": {
     "title": "京都不死鸟VS长崎航海(2026日职)-数据分析-500彩票网",
@@ -324,8 +324,8 @@
         "formation": null,
         "starters": [
           {
-            "number": "7",
-            "name": "奥川雅也",
+            "number": "77",
+            "name": "新井晴树",
             "position": "前锋"
           },
           {
@@ -334,8 +334,8 @@
             "position": "前锋"
           },
           {
-            "number": "77",
-            "name": "新井晴树",
+            "number": "7",
+            "name": "奥川雅也",
             "position": "前锋"
           },
           {
@@ -391,23 +391,18 @@
             "position": "前锋"
           },
           {
-            "number": "19",
-            "name": "大卫·席尔瓦",
-            "position": "前锋"
-          },
-          {
             "number": "21",
             "name": "围谦太朗",
             "position": "守门员"
           },
           {
-            "number": "17",
-            "name": "亚历克斯·索萨",
-            "position": "前锋"
+            "number": "40",
+            "name": "石田侑资",
+            "position": "后卫"
           },
           {
-            "number": "10",
-            "name": "福冈慎平",
+            "number": "99",
+            "name": "本田风智",
             "position": "中场"
           },
           {
@@ -416,14 +411,19 @@
             "position": "中场"
           },
           {
-            "number": "99",
-            "name": "本田风智",
+            "number": "19",
+            "name": "大卫·席尔瓦",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "福冈慎平",
             "position": "中场"
           },
           {
-            "number": "40",
-            "name": "石田侑资",
-            "position": "后卫"
+            "number": "17",
+            "name": "亚历克斯·索萨",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "平手/半球降",
-        "away_water": "0.960↑",
-        "time": "05-23 18:02"
-      },
-      "init": {
-        "home_water": "1.090",
-        "handicap": "半球/一球",
-        "away_water": "0.630",
-        "time": "05-18 06:58"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -683,6 +667,22 @@
         "handicap": "半球",
         "away_water": "0.910",
         "time": "05-18 05:23"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "平手/半球降",
+        "away_water": "0.960↑",
+        "time": "05-23 18:02"
+      },
+      "init": {
+        "home_water": "1.090",
+        "handicap": "半球/一球",
+        "away_water": "0.630",
+        "time": "05-18 06:58"
       }
     },
     {
