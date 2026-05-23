@@ -24,7 +24,7 @@
       "lost": "3.65",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T20:40:16Z"
+    "fetched_at_utc": "2026-05-23T20:50:18Z"
   },
   "shuju": {
     "title": "西汉姆联VS利兹联(2025/2026英超)-数据分析-500彩票网",
@@ -679,22 +679,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.880↓",
-        "time": "05-24 03:05"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "平手/半球",
-        "away_water": "0.900",
-        "time": "05-19 10:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -708,6 +692,22 @@
         "handicap": "平手/半球",
         "away_water": "0.990",
         "time": "05-18 19:12"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.880↓",
+        "time": "05-24 03:05"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "平手/半球",
+        "away_water": "0.900",
+        "time": "05-19 10:05"
       }
     },
     {
