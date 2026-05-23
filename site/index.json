@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-23T06:20:47Z",
+  "last_updated_utc": "2026-05-23T06:30:46Z",
   "matches": [
     {
       "xml_id": "2039895",
@@ -45,10 +45,10 @@
       "league": "日本职业联赛",
       "home": "柏太阳神",
       "away": "千叶市原",
-      "spf_win": "2.58",
+      "spf_win": "2.68",
       "spf_draw": "2.95",
-      "spf_lost": "2.48",
-      "spf_updated": "2026-05-23 13:05:31",
+      "spf_lost": "2.40",
+      "spf_updated": "2026-05-23 14:18:52",
       "gameid": "1366440",
       "kickoff_cst": "2026-05-23 17:00",
       "matchnum_label": "周六003",
@@ -848,6 +848,24 @@
       "away_team_id": "667"
     },
     {
+      "xml_id": "2039942",
+      "matchnum": "7018",
+      "date": "2026-05-25",
+      "dayofweek": "星期一",
+      "league": "意大利甲级联赛",
+      "home": "那不勒斯",
+      "away": "乌迪内斯",
+      "spf_win": "2.17",
+      "spf_draw": "3.45",
+      "spf_lost": "2.65",
+      "spf_updated": "2026-05-22 10:12:30",
+      "gameid": "1199724",
+      "kickoff_cst": "2026-05-25 00:00",
+      "matchnum_label": "周日018",
+      "home_team_id": "1125",
+      "away_team_id": "1276"
+    },
+    {
       "xml_id": "2039943",
       "matchnum": "7019",
       "date": "2026-05-25",
@@ -1080,6 +1098,24 @@
       "matchnum_label": "周一004",
       "home_team_id": "5263",
       "away_team_id": "1035"
+    },
+    {
+      "xml_id": "2039956",
+      "matchnum": "1005",
+      "date": "2026-05-25",
+      "dayofweek": "星期一",
+      "league": "挪威超级联赛",
+      "home": "萨尔普斯堡",
+      "away": "莫尔德",
+      "spf_win": "5.00",
+      "spf_draw": "4.25",
+      "spf_lost": "1.44",
+      "spf_updated": "2026-05-23 09:36:36",
+      "gameid": "1363613",
+      "kickoff_cst": "2026-05-25 23:00",
+      "matchnum_label": "周一005",
+      "home_team_id": "3418",
+      "away_team_id": "1109"
     },
     {
       "xml_id": "2039958",
