@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "平手升",
-      "home_water": "0.680↓",
-      "away_water": "0.950↓",
+      "home_water": "0.690↓",
+      "away_water": "0.960↓",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "2.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T22:40:09Z"
+    "fetched_at_utc": "2026-05-23T22:50:10Z"
   },
   "shuju": {
     "title": "博尔顿VS斯托克港(2025/2026英甲)-数据分析-500彩票网",
@@ -525,10 +525,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.680↓",
+        "home_water": "0.690↓",
         "handicap": "平手升",
-        "away_water": "0.950↓",
-        "time": "05-24 05:43"
+        "away_water": "0.960↓",
+        "time": "05-24 06:42"
       },
       "init": {
         "home_water": "0.760",
@@ -618,22 +618,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.750↓",
-        "handicap": "平手",
-        "away_water": "1.010↑",
-        "time": "05-23 21:04"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "平手",
-        "away_water": "0.900",
-        "time": "05-15 15:39"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -647,6 +631,22 @@
         "handicap": "平手",
         "away_water": "0.950",
         "time": "05-18 18:00"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.750↓",
+        "handicap": "平手",
+        "away_water": "1.010↑",
+        "time": "05-23 21:04"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "平手",
+        "away_water": "0.900",
+        "time": "05-15 15:39"
       }
     },
     {
@@ -1942,7 +1942,7 @@
     {
       "cid": "1259",
       "company": "1x**t",
-      "time": "2026-05-24 03:11:18",
+      "time": "2026-05-24 06:44:15",
       "odds": {
         "live": [
           "2.79",
