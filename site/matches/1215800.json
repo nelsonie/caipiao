@@ -24,7 +24,7 @@
       "lost": "4.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T01:00:15Z"
+    "fetched_at_utc": "2026-05-23T01:10:13Z"
   },
   "shuju": {
     "title": "维戈塞尔塔VS塞维利亚(2025/2026西甲)-数据分析-500彩票网",
@@ -655,10 +655,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.940↓",
+        "home_water": "0.950↓",
         "handicap": "半球/一球",
-        "away_water": "0.940↑",
-        "time": "05-23 05:39"
+        "away_water": "0.930↑",
+        "time": "05-23 08:13"
       },
       "init": {
         "home_water": "1.060",
@@ -684,22 +684,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.900↓",
-        "time": "05-23 03:22"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "半球",
-        "away_water": "0.940",
-        "time": "05-18 16:16"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -713,6 +697,22 @@
         "handicap": "平手/半球",
         "away_water": "1.240",
         "time": "05-18 17:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.900↓",
+        "time": "05-23 03:22"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "半球",
+        "away_water": "0.940",
+        "time": "05-18 16:16"
       }
     },
     {
@@ -815,10 +815,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.950↓",
+        "home_water": "0.960",
         "handicap": "半球/一球升",
-        "away_water": "0.950↑",
-        "time": "05-23 05:42"
+        "away_water": "0.940↑",
+        "time": "05-23 08:20"
       },
       "init": {
         "home_water": "0.960",
@@ -1959,7 +1959,7 @@
     {
       "cid": "863",
       "company": "18**t",
-      "time": "2026-05-23 03:37:38",
+      "time": "2026-05-23 08:10:50",
       "odds": {
         "live": [
           "1.95",
