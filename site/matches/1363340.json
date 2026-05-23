@@ -24,7 +24,7 @@
       "lost": "3.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T14:10:12Z"
+    "fetched_at_utc": "2026-05-23T14:20:12Z"
   },
   "shuju": {
     "title": "埃尔维斯VS格尼斯坦(2026芬超)-数据分析-500彩票网",
@@ -438,13 +438,13 @@
             "position": "后卫"
           },
           {
-            "number": "24",
-            "name": "维尔·昆普",
+            "number": "16",
+            "name": "塔图·米图宁",
             "position": "后卫"
           },
           {
-            "number": "16",
-            "name": "塔图·米图宁",
+            "number": "24",
+            "name": "维尔·昆普",
             "position": "后卫"
           },
           {
@@ -502,11 +502,6 @@
         "formation": null,
         "starters": [
           {
-            "number": "23",
-            "name": "萨库·于拉图帕",
-            "position": "前锋"
-          },
-          {
             "number": "17",
             "name": "阿黛勒克·阿基诺拉·阿基涅米",
             "position": "前锋"
@@ -517,9 +512,14 @@
             "position": "中场"
           },
           {
-            "number": "20",
-            "name": "马克斯·赫尔曼·比尤斯特罗姆",
-            "position": "后卫"
+            "number": "27",
+            "name": "奥托·汉努拉",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "萨库·于拉图帕",
+            "position": "前锋"
           },
           {
             "number": "14",
@@ -527,13 +527,13 @@
             "position": "中场"
           },
           {
-            "number": "15",
-            "name": "加布里埃尔·欧罗帕乌斯",
-            "position": "中场"
+            "number": "20",
+            "name": "马克斯·赫尔曼·比尤斯特罗姆",
+            "position": "后卫"
           },
           {
-            "number": "27",
-            "name": "奥托·汉努拉",
+            "number": "15",
+            "name": "加布里埃尔·欧罗帕乌斯",
             "position": "中场"
           },
           {
@@ -713,22 +713,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.000↑",
-        "time": "05-23 21:57"
-      },
-      "init": {
-        "home_water": "1.020",
-        "handicap": "半球",
-        "away_water": "0.800",
-        "time": "05-21 19:56"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -742,6 +726,22 @@
         "handicap": "半球/一球",
         "away_water": "0.930",
         "time": "05-18 21:05"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.000↑",
+        "time": "05-23 21:57"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "半球",
+        "away_water": "0.800",
+        "time": "05-21 19:56"
       }
     },
     {

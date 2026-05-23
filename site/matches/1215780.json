@@ -24,7 +24,7 @@
       "lost": "3.15",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T14:10:19Z"
+    "fetched_at_utc": "2026-05-23T14:20:23Z"
   },
   "shuju": {
     "title": "赫塔费VS奥萨苏纳(2025/2026西甲)-数据分析-500彩票网",
@@ -679,22 +679,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "平手降",
-        "away_water": "1.050↑",
-        "time": "05-23 22:02"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "平手/半球",
-        "away_water": "0.890",
-        "time": "05-18 15:08"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -708,6 +692,22 @@
         "handicap": "平手/半球",
         "away_water": "0.920",
         "time": "05-18 17:06"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "平手降",
+        "away_water": "1.050↑",
+        "time": "05-23 22:02"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "平手/半球",
+        "away_water": "0.890",
+        "time": "05-18 15:08"
       }
     },
     {
@@ -810,10 +810,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.860↓",
+        "home_water": "0.850↓",
         "handicap": "平手降",
-        "away_water": "1.060↑",
-        "time": "05-23 21:58"
+        "away_water": "1.070↑",
+        "time": "05-23 22:11"
       },
       "init": {
         "home_water": "1.040",
@@ -1366,7 +1366,7 @@
     {
       "cid": "16",
       "company": "10**t",
-      "time": "2026-05-23 20:18:45",
+      "time": "2026-05-23 22:10:22",
       "odds": {
         "live": [
           "2.36",

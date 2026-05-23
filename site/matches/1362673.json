@@ -24,7 +24,7 @@
       "lost": "3.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T14:10:11Z"
+    "fetched_at_utc": "2026-05-23T14:20:12Z"
   },
   "shuju": {
     "title": "哈尔姆VS奥尔格里特(2026瑞典超)-数据分析-500彩票网",
@@ -413,13 +413,13 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "乔尔·阿兰森",
+            "number": "27",
+            "name": "罗科·阿斯科内",
             "position": "中场"
           },
           {
-            "number": "27",
-            "name": "罗科·阿斯科内",
+            "number": "6",
+            "name": "乔尔·阿兰森",
             "position": "中场"
           },
           {
@@ -569,28 +569,8 @@
             "position": "前锋"
           },
           {
-            "number": "23",
-            "name": "欧文·帕克·普赖斯",
-            "position": "中场"
-          },
-          {
-            "number": "34",
-            "name": "亚历克斯·拉姆",
-            "position": "守门员"
-          },
-          {
-            "number": "33",
-            "name": "拉格伦德",
-            "position": "后卫"
-          },
-          {
-            "number": "21",
-            "name": "威廉·肯达尔",
-            "position": "中场"
-          },
-          {
-            "number": "29",
-            "name": "马龙·埃比托梅雷",
+            "number": "19",
+            "name": "A·安德里亚森",
             "position": "后卫"
           },
           {
@@ -599,14 +579,34 @@
             "position": "后卫"
           },
           {
-            "number": "19",
-            "name": "A·安德里亚森",
+            "number": "29",
+            "name": "马龙·埃比托梅雷",
             "position": "后卫"
+          },
+          {
+            "number": "21",
+            "name": "威廉·肯达尔",
+            "position": "中场"
+          },
+          {
+            "number": "33",
+            "name": "拉格伦德",
+            "position": "后卫"
+          },
+          {
+            "number": "34",
+            "name": "亚历克斯·拉姆",
+            "position": "守门员"
           },
           {
             "number": "24",
             "name": "威廉·斯文森",
             "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "欧文·帕克·普赖斯",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.730↑",
-        "handicap": "平手/半球升",
-        "away_water": "1.130↓",
-        "time": "05-23 21:00"
-      },
-      "init": {
-        "home_water": "0.650",
-        "handicap": "平手",
-        "away_water": "1.150",
-        "time": "05-18 17:10"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.970",
         "time": "05-21 19:50"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.730↑",
+        "handicap": "平手/半球升",
+        "away_water": "1.130↓",
+        "time": "05-23 21:00"
+      },
+      "init": {
+        "home_water": "0.650",
+        "handicap": "平手",
+        "away_water": "1.150",
+        "time": "05-18 17:10"
       }
     },
     {
