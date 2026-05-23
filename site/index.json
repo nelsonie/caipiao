@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-23T15:20:53Z",
+  "last_updated_utc": "2026-05-23T15:30:52Z",
   "matches": [
     {
       "xml_id": "2039895",
@@ -110,6 +110,24 @@
       "away_team_id": "606"
     },
     {
+      "xml_id": "2039901",
+      "matchnum": "6007",
+      "date": "2026-05-23",
+      "dayofweek": "星期六",
+      "league": "瑞典超级联赛",
+      "home": "卡尔马",
+      "away": "代格福什",
+      "spf_win": "3.80",
+      "spf_draw": "3.28",
+      "spf_lost": "1.78",
+      "spf_updated": "2026-05-23 20:06:48",
+      "gameid": "1362675",
+      "kickoff_cst": "2026-05-23 21:00",
+      "matchnum_label": "周六007",
+      "home_team_id": "913",
+      "away_team_id": "245"
+    },
+    {
       "xml_id": "2039902",
       "matchnum": "6008",
       "date": "2026-05-23",
@@ -162,24 +180,6 @@
       "matchnum_label": "周六010",
       "home_team_id": "841",
       "away_team_id": "956"
-    },
-    {
-      "xml_id": "2039905",
-      "matchnum": "6011",
-      "date": "2026-05-23",
-      "dayofweek": "星期六",
-      "league": "芬兰超级联赛",
-      "home": "雅罗",
-      "away": "玛丽港",
-      "spf_win": "3.60",
-      "spf_draw": "3.45",
-      "spf_lost": "1.78",
-      "spf_updated": "2026-05-23 21:09:39",
-      "gameid": "1363345",
-      "kickoff_cst": "2026-05-23 22:00",
-      "matchnum_label": "周六011",
-      "home_team_id": "743",
-      "away_team_id": "2326"
     },
     {
       "xml_id": "2039906",
@@ -1098,24 +1098,6 @@
       "matchnum_label": "周一005",
       "home_team_id": "3418",
       "away_team_id": "1109"
-    },
-    {
-      "xml_id": "2039957",
-      "matchnum": "1006",
-      "date": "2026-05-26",
-      "dayofweek": "星期二",
-      "league": "瑞典超级联赛",
-      "home": "IFK哥德堡",
-      "away": "米亚尔比",
-      "spf_win": "1.47",
-      "spf_draw": "3.95",
-      "spf_lost": "5.10",
-      "spf_updated": "2026-05-23 09:36:36",
-      "gameid": "1362672",
-      "kickoff_cst": "2026-05-26 01:00",
-      "matchnum_label": "周一006",
-      "home_team_id": "823",
-      "away_team_id": "2465"
     },
     {
       "xml_id": "2039959",

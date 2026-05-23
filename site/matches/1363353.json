@@ -24,7 +24,7 @@
       "lost": "2.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T15:20:15Z"
+    "fetched_at_utc": "2026-05-23T15:30:11Z"
   },
   "shuju": {
     "title": "塞那乔恩VSAC奥卢(2026芬超)-数据分析-500彩票网",
@@ -403,13 +403,13 @@
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "卡斯帕·帕纳宁",
+            "number": "47",
+            "name": "穆罕默德·苏索",
             "position": "中场"
           },
           {
-            "number": "47",
-            "name": "穆罕默德·苏索",
+            "number": "10",
+            "name": "卡斯帕·帕纳宁",
             "position": "中场"
           },
           {
@@ -418,13 +418,13 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "阿波·博斯特罗姆",
+            "number": "18",
+            "name": "马库斯·阿尔萨洛",
             "position": "中场"
           },
           {
-            "number": "18",
-            "name": "马库斯·阿尔萨洛",
+            "number": "8",
+            "name": "阿波·博斯特罗姆",
             "position": "中场"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "平手",
-        "away_water": "1.010↑",
-        "time": "05-23 22:00"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "平手",
-        "away_water": "0.850",
-        "time": "05-17 00:48"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.820",
         "time": "05-21 19:45"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "平手",
+        "away_water": "1.010↑",
+        "time": "05-23 22:00"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "平手",
+        "away_water": "0.850",
+        "time": "05-17 00:48"
       }
     },
     {
