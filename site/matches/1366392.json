@@ -24,7 +24,7 @@
       "lost": "2.13",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T18:00:18Z"
+    "fetched_at_utc": "2026-05-23T18:10:19Z"
   },
   "shuju": {
     "title": "清水鼓动VS大阪钢巴(2026日职)-数据分析-500彩票网",
@@ -611,7 +611,7 @@
         "home_water": "1.050↑",
         "handicap": "平手升",
         "away_water": "0.750↓",
-        "time": "05-24 01:37"
+        "time": "05-24 02:07"
       },
       "init": {
         "home_water": "0.750",
@@ -669,22 +669,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.090↑",
-        "handicap": "平手",
-        "away_water": "0.780↓",
-        "time": "05-24 00:01"
-      },
-      "init": {
-        "home_water": "1.080",
-        "handicap": "平手",
-        "away_water": "0.790",
-        "time": "05-18 11:36"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -698,6 +682,22 @@
         "handicap": "平手",
         "away_water": "0.750",
         "time": "05-18 14:15"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.090↑",
+        "handicap": "平手",
+        "away_water": "0.780↓",
+        "time": "05-24 00:01"
+      },
+      "init": {
+        "home_water": "1.080",
+        "handicap": "平手",
+        "away_water": "0.790",
+        "time": "05-18 11:36"
       }
     },
     {

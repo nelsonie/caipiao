@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-05-23T18:00:44Z",
+  "last_updated_utc": "2026-05-23T18:10:40Z",
   "matches": [
-    {
-      "xml_id": "2039908",
-      "matchnum": "6014",
-      "date": "2026-05-24",
-      "dayofweek": "星期天",
-      "league": "德国杯",
-      "home": "拜仁慕尼黑",
-      "away": "斯图加特",
-      "spf_win": "1.70",
-      "spf_draw": "4.50",
-      "spf_lost": "3.13",
-      "spf_updated": "2026-05-23 21:48:27",
-      "gameid": "1408159",
-      "kickoff_cst": "2026-05-24 02:00",
-      "matchnum_label": "周六014",
-      "home_team_id": "664",
-      "away_team_id": "1195"
-    },
     {
       "xml_id": "2039910",
       "matchnum": "6016",
@@ -416,24 +398,6 @@
       "away_team_id": "722"
     },
     {
-      "xml_id": "2039932",
-      "matchnum": "7008",
-      "date": "2026-05-24",
-      "dayofweek": "星期天",
-      "league": "瑞典超级联赛",
-      "home": "马尔默",
-      "away": "韦斯特罗斯",
-      "spf_win": "2.53",
-      "spf_draw": "3.45",
-      "spf_lost": "2.25",
-      "spf_updated": "2026-05-23 09:36:36",
-      "gameid": "1362676",
-      "kickoff_cst": "2026-05-24 22:30",
-      "matchnum_label": "周日008",
-      "home_team_id": "1051",
-      "away_team_id": "1253"
-    },
-    {
       "xml_id": "2039933",
       "matchnum": "7009",
       "date": "2026-05-24",
@@ -468,24 +432,6 @@
       "matchnum_label": "周日010",
       "home_team_id": "1011",
       "away_team_id": "1361"
-    },
-    {
-      "xml_id": "2039935",
-      "matchnum": "7011",
-      "date": "2026-05-24",
-      "dayofweek": "星期天",
-      "league": "英格兰超级联赛",
-      "home": "曼彻斯特城",
-      "away": "阿斯顿维拉",
-      "spf_win": "2.60",
-      "spf_draw": "4.10",
-      "spf_lost": "2.00",
-      "spf_updated": "2026-05-22 10:12:30",
-      "gameid": "1202461",
-      "kickoff_cst": "2026-05-24 23:00",
-      "matchnum_label": "周日011",
-      "home_team_id": "1072",
-      "away_team_id": "555"
     },
     {
       "xml_id": "2039936",
@@ -596,42 +542,6 @@
       "away_team_id": "667"
     },
     {
-      "xml_id": "2039942",
-      "matchnum": "7018",
-      "date": "2026-05-25",
-      "dayofweek": "星期一",
-      "league": "意大利甲级联赛",
-      "home": "那不勒斯",
-      "away": "乌迪内斯",
-      "spf_win": "2.17",
-      "spf_draw": "3.45",
-      "spf_lost": "2.65",
-      "spf_updated": "2026-05-22 10:12:30",
-      "gameid": "1199724",
-      "kickoff_cst": "2026-05-25 00:00",
-      "matchnum_label": "周日018",
-      "home_team_id": "1125",
-      "away_team_id": "1276"
-    },
-    {
-      "xml_id": "2039943",
-      "matchnum": "7019",
-      "date": "2026-05-25",
-      "dayofweek": "星期一",
-      "league": "挪威超级联赛",
-      "home": "克里斯蒂安松",
-      "away": "维京",
-      "spf_win": "2.85",
-      "spf_draw": "3.80",
-      "spf_lost": "1.94",
-      "spf_updated": "2026-05-23 09:36:36",
-      "gameid": "1364030",
-      "kickoff_cst": "2026-05-25 00:00",
-      "matchnum_label": "周日019",
-      "home_team_id": "4338",
-      "away_team_id": "1259"
-    },
-    {
       "xml_id": "2039944",
       "matchnum": "7020",
       "date": "2026-05-25",
@@ -648,24 +558,6 @@
       "matchnum_label": "周日020",
       "home_team_id": "972",
       "away_team_id": "1179"
-    },
-    {
-      "xml_id": "2039945",
-      "matchnum": "7021",
-      "date": "2026-05-25",
-      "dayofweek": "星期一",
-      "league": "意大利甲级联赛",
-      "home": "维罗纳",
-      "away": "罗马",
-      "spf_win": "3.28",
-      "spf_draw": "3.50",
-      "spf_lost": "1.86",
-      "spf_updated": "2026-05-22 10:12:30",
-      "gameid": "1199727",
-      "kickoff_cst": "2026-05-25 02:45",
-      "matchnum_label": "周日021",
-      "home_team_id": "1261",
-      "away_team_id": "1032"
     },
     {
       "xml_id": "2039946",
@@ -900,6 +792,42 @@
       "matchnum_label": "周一008",
       "home_team_id": "3470",
       "away_team_id": "1362"
+    },
+    {
+      "xml_id": "2039960",
+      "matchnum": "1009",
+      "date": "2026-05-26",
+      "dayofweek": "星期二",
+      "league": "德国甲级联赛",
+      "home": "帕德博恩",
+      "away": "沃尔夫斯堡",
+      "spf_win": "1.63",
+      "spf_draw": "3.65",
+      "spf_lost": "4.15",
+      "spf_updated": "2026-05-23 11:22:19",
+      "gameid": "1411749",
+      "kickoff_cst": "2026-05-26 02:30",
+      "matchnum_label": "周一009",
+      "home_team_id": "1922",
+      "away_team_id": "1269"
+    },
+    {
+      "xml_id": "2039970",
+      "matchnum": "7028",
+      "date": "2026-05-25",
+      "dayofweek": "星期一",
+      "league": "荷兰甲级联赛",
+      "home": "阿贾克斯",
+      "away": "乌德勒支",
+      "spf_win": "3.32",
+      "spf_draw": "3.80",
+      "spf_lost": "1.77",
+      "spf_updated": "2026-05-23 09:36:36",
+      "gameid": "1412453",
+      "kickoff_cst": "2026-05-25 00:00",
+      "matchnum_label": "周日028",
+      "home_team_id": "540",
+      "away_team_id": "1275"
     }
   ]
 }
