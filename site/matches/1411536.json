@@ -24,7 +24,7 @@
       "lost": "2.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T17:30:21Z"
+    "fetched_at_utc": "2026-05-23T17:40:18Z"
   },
   "shuju": {
     "title": "博尔顿VS斯托克港(2025/2026英甲)-数据分析-500彩票网",
@@ -618,22 +618,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.770↓",
-        "handicap": "平手",
-        "away_water": "1.080↑",
-        "time": "05-23 21:15"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "平手",
-        "away_water": "0.950",
-        "time": "05-18 18:00"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -647,6 +631,22 @@
         "handicap": "平手",
         "away_water": "0.900",
         "time": "05-15 15:39"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.770↓",
+        "handicap": "平手",
+        "away_water": "1.080↑",
+        "time": "05-23 21:15"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "平手",
+        "away_water": "0.950",
+        "time": "05-18 18:00"
       }
     },
     {
