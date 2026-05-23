@@ -24,7 +24,7 @@
       "lost": "3.82",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T03:30:11Z"
+    "fetched_at_utc": "2026-05-23T03:40:09Z"
   },
   "shuju": {
     "title": "卡尔马VS代格福什(2026瑞典超)-数据分析-500彩票网",
@@ -657,10 +657,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.900↑",
+        "home_water": "0.880↑",
         "handicap": "半球升",
-        "away_water": "0.900↓",
-        "time": "05-23 09:47"
+        "away_water": "0.930↓",
+        "time": "05-23 11:26"
       },
       "init": {
         "home_water": "0.780",
@@ -692,7 +692,7 @@
         "home_water": "0.920↓",
         "handicap": "半球",
         "away_water": "0.960↑",
-        "time": "05-23 08:54"
+        "time": "05-23 11:23"
       },
       "init": {
         "home_water": "1.060",
@@ -718,22 +718,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.060↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.630↓",
-        "time": "05-23 07:51"
-      },
-      "init": {
-        "home_water": "0.740",
-        "handicap": "平手/半球",
-        "away_water": "1.010",
-        "time": "05-17 21:40"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -747,6 +731,22 @@
         "handicap": "半球",
         "away_water": "0.840",
         "time": "05-21 19:50"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.060↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.630↓",
+        "time": "05-23 07:51"
+      },
+      "init": {
+        "home_water": "0.740",
+        "handicap": "平手/半球",
+        "away_water": "1.010",
+        "time": "05-17 21:40"
       }
     },
     {
