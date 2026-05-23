@@ -24,7 +24,7 @@
       "lost": "3.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T08:10:12Z"
+    "fetched_at_utc": "2026-05-23T08:20:11Z"
   },
   "shuju": {
     "title": "哈尔姆VS奥尔格里特(2026瑞典超)-数据分析-500彩票网",
@@ -702,7 +702,7 @@
         "home_water": "0.870↑",
         "handicap": "平手/半球",
         "away_water": "1.010↓",
-        "time": "05-23 15:46"
+        "time": "05-23 16:11"
       },
       "init": {
         "home_water": "0.850",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "平手/半球",
-        "away_water": "0.930↓",
-        "time": "05-23 15:55"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手/半球",
-        "away_water": "0.970",
-        "time": "05-21 19:50"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "1.150",
         "time": "05-18 17:10"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↑",
+        "handicap": "平手/半球",
+        "away_water": "0.940↓",
+        "time": "05-23 16:11"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手/半球",
+        "away_water": "0.970",
+        "time": "05-21 19:50"
       }
     },
     {
@@ -846,7 +846,7 @@
         "home_water": "0.890↑",
         "handicap": "平手/半球",
         "away_water": "1.010↓",
-        "time": "05-23 15:49"
+        "time": "05-23 16:17"
       },
       "init": {
         "home_water": "0.820",
