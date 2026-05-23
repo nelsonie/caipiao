@@ -24,7 +24,7 @@
       "lost": "3.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T13:50:45Z"
+    "fetched_at_utc": "2026-05-23T14:00:46Z"
   },
   "shuju": {
     "title": "洛杉矶FCVS西雅图海湾人(2026美职联)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910",
-        "handicap": "半球",
-        "away_water": "0.920",
-        "time": "05-22 20:10"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "半球",
-        "away_water": "0.920",
-        "time": "05-18 09:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球/一球",
         "away_water": "0.620",
         "time": "05-17 19:21"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910",
+        "handicap": "半球",
+        "away_water": "0.920",
+        "time": "05-22 20:10"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "半球",
+        "away_water": "0.920",
+        "time": "05-18 09:48"
       }
     },
     {
