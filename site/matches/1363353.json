@@ -24,7 +24,7 @@
       "lost": "2.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T04:20:12Z"
+    "fetched_at_utc": "2026-05-23T04:30:12Z"
   },
   "shuju": {
     "title": "塞那乔恩VSAC奥卢(2026芬超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.890↓",
-        "handicap": "平手",
-        "away_water": "0.850",
-        "time": "05-23 12:15"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "平手",
-        "away_water": "0.850",
-        "time": "05-17 00:48"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.820",
         "time": "05-21 19:45"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.890↓",
+        "handicap": "平手",
+        "away_water": "0.850",
+        "time": "05-23 12:15"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "平手",
+        "away_water": "0.850",
+        "time": "05-17 00:48"
       }
     },
     {
@@ -859,10 +859,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.980↑",
+        "home_water": "1.010↑",
         "handicap": "平手",
-        "away_water": "0.920↓",
-        "time": "05-23 12:04"
+        "away_water": "0.890↓",
+        "time": "05-23 12:17"
       },
       "init": {
         "home_water": "0.860",

@@ -24,7 +24,7 @@
       "lost": "4.95",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T04:20:13Z"
+    "fetched_at_utc": "2026-05-23T04:30:13Z"
   },
   "shuju": {
     "title": "库普斯VS拉赫蒂(2026芬超)-数据分析-500彩票网",
@@ -667,10 +667,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "1.030",
-        "handicap": "一球",
-        "away_water": "0.780",
-        "time": "05-23 12:12"
+        "home_water": "0.780↓",
+        "handicap": "半球/一球降",
+        "away_water": "1.030↑",
+        "time": "05-23 12:17"
       },
       "init": {
         "home_water": "1.030",
@@ -728,6 +728,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "一球",
+        "away_water": "0.790↓",
+        "time": "05-23 12:19"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "一球",
+        "away_water": "0.800",
+        "time": "05-21 19:51"
+      }
+    },
+    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -741,22 +757,6 @@
         "handicap": "半球/一球",
         "away_water": "0.950",
         "time": "05-18 21:05"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.020",
-        "handicap": "一球",
-        "away_water": "0.800",
-        "time": "05-23 11:23"
-      },
-      "init": {
-        "home_water": "1.020",
-        "handicap": "一球",
-        "away_water": "0.800",
-        "time": "05-21 19:51"
       }
     },
     {
