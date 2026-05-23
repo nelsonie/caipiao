@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-23T13:20:55Z",
+  "last_updated_utc": "2026-05-23T13:30:51Z",
   "matches": [
     {
       "xml_id": "2039895",
@@ -279,10 +279,10 @@
       "league": "意大利甲级联赛",
       "home": "拉齐奥",
       "away": "比萨",
-      "spf_win": "2.62",
-      "spf_draw": "3.60",
+      "spf_win": "2.70",
+      "spf_draw": "3.45",
       "spf_lost": "2.13",
-      "spf_updated": "2026-05-23 14:08:16",
+      "spf_updated": "2026-05-23 21:23:41",
       "gameid": "1199722",
       "kickoff_cst": "2026-05-24 02:45",
       "matchnum_label": "周六016",
@@ -1010,24 +1010,6 @@
       "away_team_id": "6186"
     },
     {
-      "xml_id": "2039951",
-      "matchnum": "7027",
-      "date": "2026-05-25",
-      "dayofweek": "星期一",
-      "league": "美国职业大联盟",
-      "home": "洛杉矶FC",
-      "away": "西雅图海湾人",
-      "spf_win": "3.12",
-      "spf_draw": "3.65",
-      "spf_lost": "1.87",
-      "spf_updated": "2026-05-23 09:36:36",
-      "gameid": "1358407",
-      "kickoff_cst": "2026-05-25 09:00",
-      "matchnum_label": "周日027",
-      "home_team_id": "10525",
-      "away_team_id": "4286"
-    },
-    {
       "xml_id": "2039952",
       "matchnum": "1001",
       "date": "2026-05-25",
@@ -1188,6 +1170,24 @@
       "matchnum_label": "周一009",
       "home_team_id": "1922",
       "away_team_id": "1269"
+    },
+    {
+      "xml_id": "2039970",
+      "matchnum": "7028",
+      "date": "2026-05-25",
+      "dayofweek": "星期一",
+      "league": "荷兰甲级联赛",
+      "home": "阿贾克斯",
+      "away": "乌德勒支",
+      "spf_win": "3.32",
+      "spf_draw": "3.80",
+      "spf_lost": "1.77",
+      "spf_updated": "2026-05-23 09:36:36",
+      "gameid": "1412453",
+      "kickoff_cst": "2026-05-25 00:00",
+      "matchnum_label": "周日028",
+      "home_team_id": "540",
+      "away_team_id": "1275"
     }
   ]
 }
