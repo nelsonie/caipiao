@@ -24,7 +24,7 @@
       "lost": "2.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T08:30:22Z"
+    "fetched_at_utc": "2026-05-23T08:40:23Z"
   },
   "shuju": {
     "title": "皇家贝蒂斯VS莱万特(2025/2026西甲)-数据分析-500彩票网",
@@ -620,10 +620,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "0.970↓",
         "handicap": "平手/半球降",
-        "away_water": "0.850↓",
-        "time": "05-23 16:02"
+        "away_water": "0.870↓",
+        "time": "05-23 16:35"
       },
       "init": {
         "home_water": "0.980",
@@ -655,7 +655,7 @@
         "home_water": "0.990↑",
         "handicap": "平手/半球",
         "away_water": "0.890↓",
-        "time": "05-23 16:01"
+        "time": "05-23 16:24"
       },
       "init": {
         "home_water": "0.940",
@@ -668,32 +668,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.000↑",
         "handicap": "平手/半球",
         "away_water": "0.880↓",
-        "time": "05-23 16:21"
+        "time": "05-23 16:27"
       },
       "init": {
         "home_water": "0.930",
         "handicap": "平手/半球",
         "away_water": "0.920",
         "time": "05-18 19:12"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "平手/半球",
-        "away_water": "0.860↓",
-        "time": "05-23 16:22"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手/半球",
-        "away_water": "1.050",
-        "time": "05-18 15:54"
       }
     },
     {
@@ -710,6 +694,22 @@
         "handicap": "平手/半球",
         "away_water": "1.070",
         "time": "05-18 17:06"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "平手/半球",
+        "away_water": "0.870↓",
+        "time": "05-23 16:32"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手/半球",
+        "away_water": "1.050",
+        "time": "05-18 15:54"
       }
     },
     {
@@ -732,10 +732,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "1.030↑",
+        "home_water": "1.020↑",
         "handicap": "平手/半球",
-        "away_water": "0.900↑",
-        "time": "05-23 16:17"
+        "away_water": "0.910↑",
+        "time": "05-23 16:24"
       },
       "init": {
         "home_water": "0.990",
@@ -799,7 +799,7 @@
         "home_water": "1.010↓",
         "handicap": "平手/半球降",
         "away_water": "0.890↑",
-        "time": "05-23 15:53"
+        "time": "05-23 16:28"
       },
       "init": {
         "home_water": "1.020",
