@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-23T14:31:02Z",
+  "last_updated_utc": "2026-05-23T14:40:53Z",
   "matches": [
     {
       "xml_id": "2039895",
@@ -477,10 +477,10 @@
       "league": "美国职业大联盟",
       "home": "夏洛特FC",
       "away": "新英格兰革命",
-      "spf_win": "3.55",
+      "spf_win": "3.35",
       "spf_draw": "3.65",
-      "spf_lost": "1.75",
-      "spf_updated": "2026-05-23 09:36:36",
+      "spf_lost": "1.80",
+      "spf_updated": "2026-05-23 22:32:00",
       "gameid": "1358394",
       "kickoff_cst": "2026-05-24 07:30",
       "matchnum_label": "周六027",
@@ -560,24 +560,6 @@
       "away_team_id": "2272"
     },
     {
-      "xml_id": "2039926",
-      "matchnum": "7002",
-      "date": "2026-05-24",
-      "dayofweek": "星期天",
-      "league": "日本职业联赛",
-      "home": "清水鼓动",
-      "away": "大阪钢巴",
-      "spf_win": "1.53",
-      "spf_draw": "3.75",
-      "spf_lost": "4.80",
-      "spf_updated": "2026-05-22 10:12:30",
-      "gameid": "1366392",
-      "kickoff_cst": "2026-05-24 16:00",
-      "matchnum_label": "周日002",
-      "home_team_id": "1178",
-      "away_team_id": "752"
-    },
-    {
       "xml_id": "2039927",
       "matchnum": "7003",
       "date": "2026-05-24",
@@ -594,24 +576,6 @@
       "matchnum_label": "周日003",
       "home_team_id": "704",
       "away_team_id": "1198"
-    },
-    {
-      "xml_id": "2039928",
-      "matchnum": "7004",
-      "date": "2026-05-24",
-      "dayofweek": "星期天",
-      "league": "瑞典超级联赛",
-      "home": "哈马比",
-      "away": "AIK索尔纳",
-      "spf_win": "2.27",
-      "spf_draw": "3.55",
-      "spf_lost": "2.46",
-      "spf_updated": "2026-05-23 09:36:36",
-      "gameid": "1362674",
-      "kickoff_cst": "2026-05-24 20:00",
-      "matchnum_label": "周日004",
-      "home_team_id": "852",
-      "away_team_id": "215"
     },
     {
       "xml_id": "2039929",
