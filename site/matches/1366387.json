@@ -24,7 +24,7 @@
       "lost": "3.55",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T00:10:07Z"
+    "fetched_at_utc": "2026-05-23T00:20:07Z"
   },
   "shuju": {
     "title": "京都不死鸟VS长崎航海(2026日职)-数据分析-500彩票网",
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.590↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.100↑",
-        "time": "05-23 03:06"
-      },
-      "init": {
-        "home_water": "1.090",
-        "handicap": "半球/一球",
-        "away_water": "0.630",
-        "time": "05-18 06:58"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -683,6 +667,22 @@
         "handicap": "半球",
         "away_water": "0.910",
         "time": "05-18 05:23"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.590↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.100↑",
+        "time": "05-23 03:06"
+      },
+      "init": {
+        "home_water": "1.090",
+        "handicap": "半球/一球",
+        "away_water": "0.630",
+        "time": "05-18 06:58"
       }
     },
     {
