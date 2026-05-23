@@ -24,7 +24,7 @@
       "lost": "2.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T03:20:15Z"
+    "fetched_at_utc": "2026-05-23T03:30:15Z"
   },
   "shuju": {
     "title": "博洛尼亚VS国际米兰(2025/2026意甲)-数据分析-500彩票网",
@@ -718,22 +718,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "受平手/半球升",
-        "away_water": "0.960↑",
-        "time": "05-23 09:39"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "受半球/一球",
-        "away_water": "0.930",
-        "time": "05-18 17:19"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -747,6 +731,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.870",
         "time": "05-18 16:10"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "受平手/半球升",
+        "away_water": "0.960↑",
+        "time": "05-23 09:39"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "受半球/一球",
+        "away_water": "0.930",
+        "time": "05-18 17:19"
       }
     },
     {
