@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-23T12:00:46Z",
+  "last_updated_utc": "2026-05-23T12:10:46Z",
   "matches": [
     {
       "xml_id": "2039895",
@@ -117,10 +117,10 @@
       "league": "瑞典超级联赛",
       "home": "卡尔马",
       "away": "代格福什",
-      "spf_win": "3.63",
+      "spf_win": "3.80",
       "spf_draw": "3.28",
-      "spf_lost": "1.82",
-      "spf_updated": "2026-05-23 13:48:08",
+      "spf_lost": "1.78",
+      "spf_updated": "2026-05-23 20:06:48",
       "gameid": "1362675",
       "kickoff_cst": "2026-05-23 21:00",
       "matchnum_label": "周六007",
@@ -938,6 +938,24 @@
       "away_team_id": "1330"
     },
     {
+      "xml_id": "2039947",
+      "matchnum": "7023",
+      "date": "2026-05-25",
+      "dayofweek": "星期一",
+      "league": "意大利甲级联赛",
+      "home": "克雷莫纳",
+      "away": "科莫",
+      "spf_win": "2.32",
+      "spf_draw": "3.45",
+      "spf_lost": "2.45",
+      "spf_updated": "2026-05-22 10:12:30",
+      "gameid": "1199720",
+      "kickoff_cst": "2026-05-25 02:45",
+      "matchnum_label": "周日023",
+      "home_team_id": "933",
+      "away_team_id": "935"
+    },
+    {
       "xml_id": "2039948",
       "matchnum": "7024",
       "date": "2026-05-25",
@@ -1008,24 +1026,6 @@
       "matchnum_label": "周日027",
       "home_team_id": "10525",
       "away_team_id": "4286"
-    },
-    {
-      "xml_id": "2039952",
-      "matchnum": "1001",
-      "date": "2026-05-25",
-      "dayofweek": "星期一",
-      "league": "挪威超级联赛",
-      "home": "斯达",
-      "away": "瓦勒伦加",
-      "spf_win": "1.63",
-      "spf_draw": "3.80",
-      "spf_lost": "3.95",
-      "spf_updated": "2026-05-23 09:36:36",
-      "gameid": "1364015",
-      "kickoff_cst": "2026-05-25 20:30",
-      "matchnum_label": "周一001",
-      "home_team_id": "508",
-      "away_team_id": "1242"
     },
     {
       "xml_id": "2039953",
