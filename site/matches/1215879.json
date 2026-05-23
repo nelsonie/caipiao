@@ -24,7 +24,7 @@
       "lost": "1.79",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T15:10:22Z"
+    "fetched_at_utc": "2026-05-23T15:20:23Z"
   },
   "shuju": {
     "title": "巴伦西亚VS巴塞罗那(2025/2026西甲)-数据分析-500彩票网",
@@ -623,10 +623,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.850↓",
         "handicap": "受半球升",
-        "away_water": "1.020↑",
-        "time": "05-23 23:01"
+        "away_water": "1.000↑",
+        "time": "05-23 23:10"
       },
       "init": {
         "home_water": "0.880",
@@ -684,22 +684,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "受半球",
-        "away_water": "1.050↑",
-        "time": "05-23 23:01"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "受半球",
-        "away_water": "0.880",
-        "time": "05-18 16:16"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -713,6 +697,22 @@
         "handicap": "受半球/一球",
         "away_water": "1.160",
         "time": "05-18 17:06"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "受半球",
+        "away_water": "1.030↑",
+        "time": "05-23 23:06"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "受半球",
+        "away_water": "0.880",
+        "time": "05-18 16:16"
       }
     },
     {
