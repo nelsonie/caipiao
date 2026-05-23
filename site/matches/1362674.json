@@ -24,14 +24,14 @@
       "lost": "5.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T15:40:31Z"
+    "fetched_at_utc": "2026-05-23T15:50:31Z"
   },
   "shuju": {
     "title": "哈马比VSAIK索尔纳(2026瑞典超)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，哈马比 3胜 1平 2负 ，进8球，失7球，大球3次，小球3次",
     "team_ranks": [
       "哈马比 [瑞典超2]",
-      "索尔纳 [瑞典超10]"
+      "索尔纳 [瑞典超11]"
     ],
     "h2h_rows": [
       {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.760↓",
-        "time": "05-23 19:51"
-      },
-      "init": {
-        "home_water": "0.160",
-        "handicap": "平手",
-        "away_water": "3.400",
-        "time": "05-18 22:38"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球/球半",
         "away_water": "0.780",
         "time": "05-23 07:21"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "一球/球半升",
+        "away_water": "0.760↓",
+        "time": "05-23 19:51"
+      },
+      "init": {
+        "home_water": "0.160",
+        "handicap": "平手",
+        "away_water": "3.400",
+        "time": "05-18 22:38"
       }
     },
     {

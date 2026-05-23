@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-23T15:40:53Z",
+  "last_updated_utc": "2026-05-23T15:50:54Z",
   "matches": [
     {
       "xml_id": "2039895",
@@ -90,6 +90,24 @@
       "matchnum_label": "周六005",
       "home_team_id": "1327",
       "away_team_id": "415"
+    },
+    {
+      "xml_id": "2039900",
+      "matchnum": "6006",
+      "date": "2026-05-23",
+      "dayofweek": "星期六",
+      "league": "瑞典超级联赛",
+      "home": "哈尔姆斯塔德",
+      "away": "厄尔格里特",
+      "spf_win": "4.10",
+      "spf_draw": "3.55",
+      "spf_lost": "1.66",
+      "spf_updated": "2026-05-23 20:14:44",
+      "gameid": "1362673",
+      "kickoff_cst": "2026-05-23 21:00",
+      "matchnum_label": "周六006",
+      "home_team_id": "848",
+      "away_team_id": "606"
     },
     {
       "xml_id": "2039901",
