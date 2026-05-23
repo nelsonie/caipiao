@@ -24,7 +24,7 @@
       "lost": "2.07",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T17:40:44Z"
+    "fetched_at_utc": "2026-05-23T17:50:41Z"
   },
   "shuju": {
     "title": "帕德博恩VS沃尔夫斯堡(2025/2026德乙)-数据分析-500彩票网",
@@ -322,15 +322,219 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "30",
+            "name": "斯特凡诺·马里诺",
+            "position": "前锋"
+          },
+          {
+            "number": "26",
+            "name": "塞巴斯蒂安·克拉斯",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "鲁本·穆勒",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "约拿·斯特克",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "圣地亚哥·卡斯特内达",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "菲利普·比尔比亚",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "拉林·柯达",
+            "position": "中场"
+          },
+          {
+            "number": "4",
+            "name": "卡尔文·布拉克尔曼",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "查克·拉斯·谢勒",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "马特斯·汉森",
+            "position": "后卫"
+          },
+          {
+            "number": "41",
+            "name": "丹尼·赛门",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "9",
+            "name": "尼克·巴兹纳",
+            "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "费利克斯·格策",
+            "position": "后卫"
+          },
+          {
+            "number": "33",
+            "name": "马塞尔·霍夫迈尔",
+            "position": "后卫"
+          },
+          {
+            "number": "8",
+            "name": "大卫·金索比",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "斯文·米歇尔",
+            "position": "前锋"
+          },
+          {
+            "number": "24",
+            "name": "尼克拉斯·莫尔",
+            "position": "后卫"
+          },
+          {
+            "number": "10",
+            "name": "肯尼迪·奥克帕拉",
+            "position": "前锋"
+          },
+          {
+            "number": "1",
+            "name": "马库斯·舒伯特",
+            "position": "守门员"
+          },
+          {
+            "number": "27",
+            "name": "斯特芬·蒂格斯",
+            "position": "前锋"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "11",
+            "name": "亚当·达吉姆",
+            "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "杰南·佩奇诺维奇",
+            "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "约阿基姆·梅勒",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "克里斯蒂安·埃里克森",
+            "position": "中场"
+          },
+          {
+            "number": "31",
+            "name": "扬尼克·格哈特",
+            "position": "中场"
+          },
+          {
+            "number": "26",
+            "name": "萨埃尔·库姆贝迪·恩塞克",
+            "position": "中场"
+          },
+          {
+            "number": "32",
+            "name": "马蒂亚斯·斯万贝里",
+            "position": "中场"
+          },
+          {
+            "number": "4",
+            "name": "康斯坦丁诺斯·库利埃拉基斯",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "丹尼斯·瓦夫罗",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "杰努尔·贝洛西安",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "卡米尔·格拉巴拉",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "7",
+            "name": "盐贝健人",
+            "position": "前锋"
+          },
+          {
+            "number": "12",
+            "name": "帕瓦奥·佩尔万",
+            "position": "守门员"
+          },
+          {
+            "number": "40",
+            "name": "凯文·帕雷德斯",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "洛夫罗·马耶尔",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "莫里茨·詹兹",
+            "position": "后卫"
+          },
+          {
+            "number": "19",
+            "name": "杰斯佩·林德斯特罗姆",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "乔纳斯·阿杰泰·阿杰",
+            "position": "后卫"
+          },
+          {
+            "number": "9",
+            "name": "穆罕默德·阿莫拉",
+            "position": "前锋"
+          },
+          {
+            "number": "25",
+            "name": "亚伦·泽恩特",
+            "position": "后卫"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
@@ -434,22 +638,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "受平手/半球",
-        "away_water": "0.750↓",
-        "time": "05-23 11:16"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "受平手/半球",
-        "away_water": "0.860",
-        "time": "05-22 05:06"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -463,6 +651,22 @@
         "handicap": "受半球",
         "away_water": "1.020",
         "time": "05-22 15:29"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.750↓",
+        "time": "05-23 11:16"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "受平手/半球",
+        "away_water": "0.860",
+        "time": "05-22 05:06"
       }
     },
     {
