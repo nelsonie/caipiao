@@ -24,7 +24,7 @@
       "lost": "3.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T13:40:11Z"
+    "fetched_at_utc": "2026-05-23T13:50:10Z"
   },
   "shuju": {
     "title": "哈尔姆VS奥尔格里特(2026瑞典超)-数据分析-500彩票网",
@@ -532,18 +532,8 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "丹尼尔·保尔森",
-            "position": "后卫"
-          },
-          {
-            "number": "5",
-            "name": "克里斯托弗·斯蒂夫",
-            "position": "后卫"
-          },
-          {
-            "number": "6",
-            "name": "米克尔·迪雷斯坦",
+            "number": "16",
+            "name": "汉普斯·达尔奎斯特",
             "position": "后卫"
           },
           {
@@ -552,8 +542,18 @@
             "position": "后卫"
           },
           {
-            "number": "16",
-            "name": "汉普斯·达尔奎斯特",
+            "number": "6",
+            "name": "米克尔·迪雷斯坦",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "克里斯托弗·斯蒂夫",
+            "position": "后卫"
+          },
+          {
+            "number": "14",
+            "name": "丹尼尔·保尔森",
             "position": "后卫"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.730↑",
-        "handicap": "平手/半球升",
-        "away_water": "1.130↓",
-        "time": "05-23 21:00"
-      },
-      "init": {
-        "home_water": "0.650",
-        "handicap": "平手",
-        "away_water": "1.150",
-        "time": "05-18 17:10"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.970",
         "time": "05-21 19:50"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.730↑",
+        "handicap": "平手/半球升",
+        "away_water": "1.130↓",
+        "time": "05-23 21:00"
+      },
+      "init": {
+        "home_water": "0.650",
+        "handicap": "平手",
+        "away_water": "1.150",
+        "time": "05-18 17:10"
       }
     },
     {

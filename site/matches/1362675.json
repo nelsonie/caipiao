@@ -24,7 +24,7 @@
       "lost": "3.82",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T13:40:11Z"
+    "fetched_at_utc": "2026-05-23T13:50:11Z"
   },
   "shuju": {
     "title": "卡尔马VS代格福什(2026瑞典超)-数据分析-500彩票网",
@@ -403,9 +403,9 @@
             "position": "前锋"
           },
           {
-            "number": "7",
-            "name": "纳赛夫·乔拉克",
-            "position": "中场"
+            "number": "13",
+            "name": "查理·罗森奎斯特",
+            "position": "前锋"
           },
           {
             "number": "24",
@@ -418,13 +418,13 @@
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "梅克尔·荷尔贝治",
+            "number": "7",
+            "name": "纳赛夫·乔拉克",
             "position": "中场"
           },
           {
-            "number": "13",
-            "name": "查理·罗森奎斯特",
+            "number": "5",
+            "name": "梅克尔·荷尔贝治",
             "position": "中场"
           },
           {
@@ -460,9 +460,9 @@
             "position": "前锋"
           },
           {
-            "number": "14",
-            "name": "埃利昂·伊梅里",
-            "position": "前锋"
+            "number": "30",
+            "name": "雅各布·金伯格",
+            "position": "守门员"
           },
           {
             "number": "21",
@@ -495,9 +495,9 @@
             "position": "前锋"
           },
           {
-            "number": "30",
-            "name": "雅各布·金伯格",
-            "position": "守门员"
+            "number": "14",
+            "name": "埃利昂·伊梅里",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -564,38 +564,13 @@
         ],
         "subs": [
           {
-            "number": "25",
-            "name": "拉斯穆斯·福塞尔",
-            "position": "守门员"
-          },
-          {
-            "number": "20",
-            "name": "埃利亚斯·巴苏姆",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "比拉尔·侯赛因",
-            "position": "中场"
-          },
-          {
             "number": "17",
             "name": "阿尔曼·塔拉尼斯",
             "position": "前锋"
           },
           {
-            "number": "24",
-            "name": "奥勒·伦纳德松",
-            "position": "前锋"
-          },
-          {
             "number": "15",
             "name": "纳西鲁·摩洛",
-            "position": "后卫"
-          },
-          {
-            "number": "28",
-            "name": "赫苏斯·埃尔南德斯",
             "position": "后卫"
           },
           {
@@ -606,6 +581,31 @@
           {
             "number": "12",
             "name": "埃里克·林德尔",
+            "position": "后卫"
+          },
+          {
+            "number": "24",
+            "name": "奥勒·伦纳德松",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "比拉尔·侯赛因",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "拉斯穆斯·福塞尔",
+            "position": "守门员"
+          },
+          {
+            "number": "20",
+            "name": "埃利亚斯·巴苏姆",
+            "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "赫苏斯·埃尔南德斯",
             "position": "后卫"
           }
         ],
