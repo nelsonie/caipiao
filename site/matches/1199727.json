@@ -24,7 +24,7 @@
       "lost": "1.24",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T13:00:39Z"
+    "fetched_at_utc": "2026-05-23T13:10:38Z"
   },
   "shuju": {
     "title": "维罗纳VS罗马(2025/2026意甲)-数据分析-500彩票网",
@@ -694,22 +694,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930↓",
-        "handicap": "受球半降",
-        "away_water": "0.950↑",
-        "time": "05-23 13:14"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "受一球/球半",
-        "away_water": "0.860",
-        "time": "05-18 17:19"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -723,6 +707,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.910",
         "time": "05-15 00:52"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↓",
+        "handicap": "受球半降",
+        "away_water": "0.950↑",
+        "time": "05-23 13:14"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "受一球/球半",
+        "away_water": "0.860",
+        "time": "05-18 17:19"
       }
     },
     {
