@@ -24,7 +24,7 @@
       "lost": "2.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-23T04:30:20Z"
+    "fetched_at_utc": "2026-05-23T04:40:20Z"
   },
   "shuju": {
     "title": "皇家贝蒂斯VS莱万特(2025/2026西甲)-数据分析-500彩票网",
@@ -623,7 +623,7 @@
         "home_water": "0.980",
         "handicap": "平手/半球降",
         "away_water": "0.880",
-        "time": "05-23 10:40"
+        "time": "05-23 12:25"
       },
       "init": {
         "home_water": "0.980",
@@ -652,10 +652,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.990↑",
+        "home_water": "0.980↑",
         "handicap": "平手/半球",
         "away_water": "0.900↓",
-        "time": "05-23 12:06"
+        "time": "05-23 12:30"
       },
       "init": {
         "home_water": "0.940",
@@ -670,14 +670,30 @@
       "live": {
         "home_water": "0.980↑",
         "handicap": "平手/半球",
-        "away_water": "0.900↓",
-        "time": "05-23 12:09"
+        "away_water": "0.890↓",
+        "time": "05-23 12:29"
       },
       "init": {
         "home_water": "0.930",
         "handicap": "平手/半球",
         "away_water": "0.920",
         "time": "05-18 19:12"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "平手/半球",
+        "away_water": "0.910↓",
+        "time": "05-23 12:29"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "平手/半球",
+        "away_water": "1.070",
+        "time": "05-18 17:06"
       }
     },
     {
@@ -697,29 +713,13 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "平手/半球",
-        "away_water": "0.920↓",
-        "time": "05-23 09:20"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "平手/半球",
-        "away_water": "1.070",
-        "time": "05-18 17:06"
-      }
-    },
-    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "0.990↓",
+        "home_water": "1.010↑",
         "handicap": "平手/半球降",
-        "away_water": "0.920↑",
-        "time": "05-23 09:15"
+        "away_water": "0.890↑",
+        "time": "05-23 12:23"
       },
       "init": {
         "home_water": "1.000",
@@ -735,7 +735,7 @@
         "home_water": "1.000↑",
         "handicap": "平手/半球",
         "away_water": "0.920↑",
-        "time": "05-23 12:10"
+        "time": "05-23 12:36"
       },
       "init": {
         "home_water": "0.990",
@@ -748,10 +748,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "1.010↑",
         "handicap": "平手/半球",
-        "away_water": "0.900↓",
-        "time": "05-23 12:06"
+        "away_water": "0.910↓",
+        "time": "05-23 12:24"
       },
       "init": {
         "home_water": "0.890",
@@ -780,10 +780,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.940↑",
+        "home_water": "0.950↑",
         "handicap": "平手/半球降",
         "away_water": "0.840↓",
-        "time": "05-23 12:09"
+        "time": "05-23 12:25"
       },
       "init": {
         "home_water": "0.810",
@@ -796,10 +796,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "1.010↓",
+        "home_water": "0.980↓",
         "handicap": "平手/半球降",
-        "away_water": "0.890↑",
-        "time": "05-23 12:09"
+        "away_water": "0.920↑",
+        "time": "05-23 12:30"
       },
       "init": {
         "home_water": "1.020",
