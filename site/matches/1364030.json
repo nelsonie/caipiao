@@ -24,7 +24,7 @@
       "lost": "1.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T10:10:18Z"
+    "fetched_at_utc": "2026-05-24T10:20:17Z"
   },
   "shuju": {
     "title": "克里斯蒂安松VS维京(2026挪超)-数据分析-500彩票网",
@@ -646,10 +646,10 @@
       "cid": "2",
       "company": "立*",
       "live": {
-        "home_water": "0.700",
+        "home_water": "0.650↓",
         "handicap": "受球半",
-        "away_water": "1.050",
-        "time": "05-24 00:18"
+        "away_water": "1.150↑",
+        "time": "05-24 18:08"
       },
       "init": {
         "home_water": "0.700",
@@ -662,10 +662,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.800↓",
+        "home_water": "0.770↓",
         "handicap": "受一球/球半升",
-        "away_water": "1.000↑",
-        "time": "05-24 17:56"
+        "away_water": "1.020↑",
+        "time": "05-24 18:08"
       },
       "init": {
         "home_water": "0.880",
@@ -723,6 +723,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↓",
+        "handicap": "受一球/球半",
+        "away_water": "1.050↑",
+        "time": "05-24 18:09"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "受一球/球半",
+        "away_water": "0.870",
+        "time": "05-22 19:39"
+      }
+    },
+    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -736,22 +752,6 @@
         "handicap": "受球半",
         "away_water": "0.910",
         "time": "05-17 17:24"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "受一球/球半",
-        "away_water": "1.040↑",
-        "time": "05-24 18:01"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "受一球/球半",
-        "away_water": "0.870",
-        "time": "05-22 19:39"
       }
     },
     {
