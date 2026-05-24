@@ -24,7 +24,7 @@
       "lost": "2.11",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T03:40:09Z"
+    "fetched_at_utc": "2026-05-24T03:50:08Z"
   },
   "shuju": {
     "title": "水户蜀葵VS川崎前锋(2026日职)-数据分析-500彩票网",
@@ -291,14 +291,9 @@
         "formation": null,
         "starters": [
           {
-            "number": "9",
-            "name": "根本凌",
-            "position": "前锋"
-          },
-          {
             "number": "10",
             "name": "渡边新太",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "11",
@@ -306,19 +301,24 @@
             "position": "中场"
           },
           {
+            "number": "14",
+            "name": "新井瑞樹",
+            "position": "前锋"
+          },
+          {
             "number": "19",
             "name": "仙波大志",
             "position": "中场"
           },
           {
-            "number": "3",
-            "name": "大崎航诗",
+            "number": "8",
+            "name": "加藤千寻",
             "position": "中场"
           },
           {
             "number": "70",
             "name": "马特乌斯·莱里亚",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "7",
@@ -336,8 +336,8 @@
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "牛泽健",
+            "number": "25",
+            "name": "真濑拓海",
             "position": "后卫"
           },
           {
@@ -348,24 +348,29 @@
         ],
         "subs": [
           {
+            "number": "33",
+            "name": "安藤晃希",
+            "position": "中场"
+          },
+          {
             "number": "5",
             "name": "井上圣也",
             "position": "后卫"
           },
           {
-            "number": "8",
-            "name": "加藤千寻",
-            "position": "中场"
-          },
-          {
-            "number": "82",
-            "name": "川上航立",
-            "position": "中场"
-          },
-          {
             "number": "21",
             "name": "松原修平",
             "position": "守门员"
+          },
+          {
+            "number": "15",
+            "name": "长尾优斗",
+            "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "根本凌",
+            "position": "前锋"
           },
           {
             "number": "20",
@@ -378,19 +383,14 @@
             "position": "前锋"
           },
           {
+            "number": "4",
+            "name": "牛泽健",
+            "position": "后卫"
+          },
+          {
             "number": "39",
             "name": "山本隼大",
-            "position": "中场"
-          },
-          {
-            "number": "24",
-            "name": "山﨑希一",
-            "position": "中场"
-          },
-          {
-            "number": "33",
-            "name": "安藤晃希",
-            "position": "中场"
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -407,7 +407,7 @@
           {
             "number": "24",
             "name": "宫城天",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "14",
@@ -417,7 +417,7 @@
           {
             "number": "17",
             "name": "伊藤达哉",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "6",
@@ -440,8 +440,8 @@
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "佐佐木旭",
+            "number": "2",
+            "name": "松长根悠仁",
             "position": "后卫"
           },
           {
@@ -457,24 +457,39 @@
         ],
         "subs": [
           {
-            "number": "22",
-            "name": "费利佩·乌雷莫维奇",
-            "position": "后卫"
+            "number": "34",
+            "name": "长璃喜",
+            "position": "中场"
           },
           {
-            "number": "2",
-            "name": "松长根悠仁",
-            "position": "后卫"
+            "number": "30",
+            "name": "野田裕人",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "名愿斗哉",
+            "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "持山匡佑",
+            "position": "前锋"
           },
           {
             "number": "23",
             "name": "马尔西尼奥",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "19",
             "name": "河原创",
             "position": "中场"
+          },
+          {
+            "number": "38",
+            "name": "神田奏真",
+            "position": "前锋"
           },
           {
             "number": "32",
@@ -485,21 +500,6 @@
             "number": "49",
             "name": "斯文德·布罗德森",
             "position": "守门员"
-          },
-          {
-            "number": "20",
-            "name": "持山匡佑",
-            "position": "前锋"
-          },
-          {
-            "number": "34",
-            "name": "长璃喜",
-            "position": "中场"
-          },
-          {
-            "number": "38",
-            "name": "神田奏真",
-            "position": "前锋"
           }
         ],
         "injured": [],
@@ -592,10 +592,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.920↑",
+        "home_water": "0.910↑",
         "handicap": "受平手/半球",
-        "away_water": "0.960↓",
-        "time": "05-24 11:21"
+        "away_water": "0.970↓",
+        "time": "05-24 11:47"
       },
       "init": {
         "home_water": "0.860",
@@ -624,10 +624,10 @@
       "cid": "1484",
       "company": "on**",
       "live": {
-        "home_water": "0.830↑",
+        "home_water": "0.820↑",
         "handicap": "受平手/半球",
-        "away_water": "0.830↓",
-        "time": "05-24 10:59"
+        "away_water": "0.840↓",
+        "time": "05-24 11:38"
       },
       "init": {
         "home_water": "0.780",
@@ -688,10 +688,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.930↑",
+        "home_water": "0.920↑",
         "handicap": "受平手/半球",
-        "away_water": "0.990",
-        "time": "05-24 11:27"
+        "away_water": "1.000↑",
+        "time": "05-24 11:45"
       },
       "init": {
         "home_water": "0.890",
@@ -720,10 +720,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.920↑",
+        "home_water": "0.930↑",
         "handicap": "受平手/半球",
-        "away_water": "0.970↓",
-        "time": "05-24 08:02"
+        "away_water": "0.990",
+        "time": "05-24 11:37"
       },
       "init": {
         "home_water": "0.890",
@@ -738,8 +738,8 @@
       "live": {
         "home_water": "0.890↑",
         "handicap": "受平手/半球",
-        "away_water": "0.910↓",
-        "time": "05-24 11:28"
+        "away_water": "0.920↓",
+        "time": "05-24 11:44"
       },
       "init": {
         "home_water": "0.750",
@@ -755,7 +755,7 @@
         "home_water": "0.920↑",
         "handicap": "受平手/半球",
         "away_water": "0.980↓",
-        "time": "05-24 11:27"
+        "time": "05-24 11:44"
       },
       "init": {
         "home_water": "0.840",
@@ -965,7 +965,7 @@
     {
       "cid": "3",
       "company": "**t3*5",
-      "time": "2026-05-24 10:58:28",
+      "time": "2026-05-24 11:38:41",
       "odds": {
         "live": [
           "2.85",
@@ -1847,7 +1847,7 @@
     {
       "cid": "18",
       "company": "必*",
-      "time": "2026-05-24 11:01:36",
+      "time": "2026-05-24 11:43:16",
       "odds": {
         "live": [
           "3.15",
@@ -1855,9 +1855,9 @@
           "2.30"
         ],
         "init": [
-          "3.40",
-          "3.45",
-          "2.30"
+          "3.35",
+          "3.50",
+          "2.32"
         ]
       },
       "prob": {
@@ -1867,9 +1867,9 @@
           "39.97%"
         ],
         "init": [
-          "28.87%",
-          "28.45%",
-          "42.68%"
+          "29.40%",
+          "28.14%",
+          "42.46%"
         ]
       },
       "ret": {
@@ -1877,7 +1877,7 @@
           "91.93%"
         ],
         "init": [
-          "98.16%"
+          "98.50%"
         ]
       },
       "kelly": {
@@ -1887,9 +1887,9 @@
           "0.97"
         ],
         "init": [
-          "1.02",
-          "0.95",
-          "0.97"
+          "1.01",
+          "0.97",
+          "0.98"
         ]
       }
     },
