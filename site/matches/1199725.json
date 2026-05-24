@@ -24,7 +24,7 @@
       "lost": "2.42",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T13:30:09Z"
+    "fetched_at_utc": "2026-05-24T13:40:11Z"
   },
   "shuju": {
     "title": "帕尔马VS萨索洛(2025/2026意甲)-数据分析-500彩票网",
@@ -324,28 +324,18 @@
         "formation": null,
         "starters": [
           {
-            "number": "9",
-            "name": "马特奥·佩莱格里诺·卡桑吉拉",
-            "position": "前锋"
-          },
-          {
             "number": "76",
             "name": "丹尼尔·米科瓦耶夫斯基",
             "position": "前锋"
           },
           {
+            "number": "9",
+            "name": "马特奥·佩莱格里诺·卡桑吉拉",
+            "position": "前锋"
+          },
+          {
             "number": "14",
             "name": "伊曼纽尔·瓦莱里",
-            "position": "后卫"
-          },
-          {
-            "number": "24",
-            "name": "克里斯蒂安·奥多内斯",
-            "position": "中场"
-          },
-          {
-            "number": "41",
-            "name": "汉斯·尼科卢西·卡维利亚",
             "position": "中场"
           },
           {
@@ -354,9 +344,19 @@
             "position": "中场"
           },
           {
+            "number": "41",
+            "name": "汉斯·尼科卢西·卡维利亚",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "克里斯蒂安·奥多内斯",
+            "position": "中场"
+          },
+          {
             "number": "27",
-            "name": "萨沙·布里奇吉",
-            "position": "后卫"
+            "name": "萨沙·布里奇",
+            "position": "中场"
           },
           {
             "number": "5",
@@ -406,11 +406,6 @@
             "position": "后卫"
           },
           {
-            "number": "60",
-            "name": "亚历山德罗·马佐基",
-            "position": "守门员"
-          },
-          {
             "number": "8",
             "name": "纳乌艾·埃斯特維斯",
             "position": "中场"
@@ -426,11 +421,6 @@
             "position": "后卫"
           },
           {
-            "number": "63",
-            "name": "马龙·梅纳",
-            "position": "后卫"
-          },
-          {
             "number": "75",
             "name": "亚历山德罗·卡尔达利",
             "position": "前锋"
@@ -438,7 +428,17 @@
           {
             "number": "11",
             "name": "阿尔姆奎斯特",
-            "position": "中场"
+            "position": "前锋"
+          },
+          {
+            "number": "60",
+            "name": "亚历山德罗·马佐基",
+            "position": "守门员"
+          },
+          {
+            "number": "63",
+            "name": "马龙·梅纳·马丁内斯",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -450,7 +450,7 @@
           {
             "number": "45",
             "name": "阿曼德·劳伦特",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "99",
@@ -483,13 +483,13 @@
             "position": "后卫"
           },
           {
-            "number": "31",
-            "name": "托马索·马基奥尼",
+            "number": "21",
+            "name": "杰伊·伊泽斯",
             "position": "后卫"
           },
           {
-            "number": "21",
-            "name": "杰伊·伊泽斯",
+            "number": "31",
+            "name": "T·马基奥尼",
             "position": "后卫"
           },
           {
@@ -515,11 +515,6 @@
             "position": "守门员"
           },
           {
-            "number": "33",
-            "name": "克里斯蒂安·弗兰格拉",
-            "position": "中场"
-          },
-          {
             "number": "44",
             "name": "爱德华多·伊诺尼",
             "position": "中场"
@@ -538,11 +533,6 @@
             "number": "80",
             "name": "塔里克·穆哈雷莫维奇",
             "position": "后卫"
-          },
-          {
-            "number": "49",
-            "name": "阿里贾尼特·穆里奇",
-            "position": "守门员"
           },
           {
             "number": "8",
@@ -573,6 +563,21 @@
             "number": "66",
             "name": "佩德罗·费利佩",
             "position": "后卫"
+          },
+          {
+            "number": "37",
+            "name": "杰弗里·巴福·纳纳",
+            "position": "中场"
+          },
+          {
+            "number": "33",
+            "name": "C·弗兰盖拉",
+            "position": "中场"
+          },
+          {
+            "number": "49",
+            "name": "阿里贾尼特·穆里奇",
+            "position": "守门员"
           }
         ],
         "injured": [],
