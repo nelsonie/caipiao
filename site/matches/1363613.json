@@ -24,7 +24,7 @@
       "lost": "2.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T18:00:13Z"
+    "fetched_at_utc": "2026-05-24T18:10:14Z"
   },
   "shuju": {
     "title": "萨尔普斯堡VS莫尔德(2026挪超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "平手",
-        "away_water": "0.880↓",
-        "time": "05-24 13:07"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "平手",
-        "away_water": "0.940",
-        "time": "05-20 23:21"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.820",
         "time": "05-17 17:40"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "平手",
+        "away_water": "0.880↓",
+        "time": "05-24 13:07"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "平手",
+        "away_water": "0.940",
+        "time": "05-20 23:21"
       }
     },
     {
