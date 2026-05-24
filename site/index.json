@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-24T06:40:31Z",
+  "last_updated_utc": "2026-05-24T06:50:30Z",
   "matches": [
     {
       "xml_id": "2039925",
@@ -612,6 +612,24 @@
       "matchnum_label": "周一007",
       "home_team_id": "563",
       "away_team_id": "850"
+    },
+    {
+      "xml_id": "2039959",
+      "matchnum": "1008",
+      "date": "2026-05-26",
+      "dayofweek": "星期二",
+      "league": "挪威超级联赛",
+      "home": "桑纳菲尤尔",
+      "away": "腓特烈斯塔",
+      "spf_win": "3.30",
+      "spf_draw": "3.55",
+      "spf_lost": "1.84",
+      "spf_updated": "2026-05-23 09:36:36",
+      "gameid": "1363933",
+      "kickoff_cst": "2026-05-26 01:15",
+      "matchnum_label": "周一008",
+      "home_team_id": "3470",
+      "away_team_id": "1362"
     },
     {
       "xml_id": "2039960",
