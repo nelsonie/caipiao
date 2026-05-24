@@ -24,7 +24,7 @@
       "lost": "2.11",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T07:40:10Z"
+    "fetched_at_utc": "2026-05-24T07:50:10Z"
   },
   "shuju": {
     "title": "水户蜀葵VS川崎前锋(2026日职)-数据分析-500彩票网",
@@ -621,22 +621,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.070↑",
-        "handicap": "平手升",
-        "away_water": "0.730↓",
-        "time": "05-24 13:02"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "受平手/半球",
-        "away_water": "0.990",
-        "time": "05-19 21:39"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -650,6 +634,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.890",
         "time": "05-18 17:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.070↑",
+        "handicap": "平手升",
+        "away_water": "0.730↓",
+        "time": "05-24 13:02"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "受平手/半球",
+        "away_water": "0.990",
+        "time": "05-19 21:39"
       }
     },
     {
