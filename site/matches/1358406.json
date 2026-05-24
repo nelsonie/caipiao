@@ -24,7 +24,7 @@
       "lost": "5.95",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T04:50:24Z"
+    "fetched_at_utc": "2026-05-24T05:00:24Z"
   },
   "shuju": {
     "title": "迈阿密国际VS费城联合(2026美职联)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "一球/球半降",
-        "away_water": "0.980↑",
-        "time": "05-24 12:06"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "球半",
-        "away_water": "0.850",
-        "time": "05-18 07:52"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球/球半",
         "away_water": "0.920",
         "time": "05-17 19:21"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "一球/球半降",
+        "away_water": "0.980↑",
+        "time": "05-24 12:06"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "球半",
+        "away_water": "0.850",
+        "time": "05-18 07:52"
       }
     },
     {
