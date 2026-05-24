@@ -24,7 +24,7 @@
       "lost": "4.28",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T14:30:10Z"
+    "fetched_at_utc": "2026-05-24T14:40:11Z"
   },
   "shuju": {
     "title": "天狼星VS哥德堡盖斯(2026瑞典超)-数据分析-500彩票网",
@@ -418,14 +418,19 @@
             "position": "中场"
           },
           {
+            "number": "24",
+            "name": "维克多·斯文森",
+            "position": "中场"
+          },
+          {
             "number": "10",
             "name": "梅尔克·海尔",
             "position": "中场"
           },
           {
-            "number": "24",
-            "name": "维克多·斯文森",
-            "position": "中场"
+            "number": "22",
+            "name": "克鲁斯尼尔",
+            "position": "后卫"
           },
           {
             "number": "5",
@@ -435,11 +440,6 @@
           {
             "number": "2",
             "name": "穆罕默德·苏玛",
-            "position": "后卫"
-          },
-          {
-            "number": "22",
-            "name": "克鲁斯尼尔",
             "position": "后卫"
           },
           {
@@ -458,11 +458,6 @@
             "number": "1",
             "name": "伊斯梅尔·迪瓦拉",
             "position": "守门员"
-          },
-          {
-            "number": "35",
-            "name": "埃利奥特·埃尔德",
-            "position": "后卫"
           },
           {
             "number": "27",
@@ -498,6 +493,11 @@
             "number": "26",
             "name": "雨果·安德森·梅拉",
             "position": "中场"
+          },
+          {
+            "number": "35",
+            "name": "埃利奥特·埃尔德",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -564,11 +564,6 @@
         ],
         "subs": [
           {
-            "number": "10",
-            "name": "亨利·斯莱茨乔",
-            "position": "中场"
-          },
-          {
             "number": "13",
             "name": "基斯·西姆斯",
             "position": "守门员"
@@ -599,14 +594,19 @@
             "position": "后卫"
           },
           {
-            "number": "27",
-            "name": "穆罕默德·巴瓦",
-            "position": "中场"
-          },
-          {
             "number": "4",
             "name": "奥斯卡·阿格伦",
             "position": "后卫"
+          },
+          {
+            "number": "10",
+            "name": "亨利·斯莱茨乔",
+            "position": "中场"
+          },
+          {
+            "number": "27",
+            "name": "穆罕默德·巴瓦",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.940↓",
-        "time": "05-24 20:00"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "半球",
-        "away_water": "0.990",
-        "time": "05-21 20:22"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "1.770",
         "time": "05-18 11:05"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.940↓",
+        "time": "05-24 20:00"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "半球",
+        "away_water": "0.990",
+        "time": "05-21 20:22"
       }
     },
     {

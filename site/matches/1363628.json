@@ -24,7 +24,7 @@
       "lost": "7.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T14:30:11Z"
+    "fetched_at_utc": "2026-05-24T14:40:12Z"
   },
   "shuju": {
     "title": "博德闪耀VS布兰(2026挪超)-数据分析-500彩票网",
@@ -455,6 +455,11 @@
         ],
         "subs": [
           {
+            "number": "8",
+            "name": "桑德雷·奥克伦德",
+            "position": "中场"
+          },
+          {
             "number": "24",
             "name": "丹尼尔·巴希",
             "position": "前锋"
@@ -493,11 +498,6 @@
             "number": "14",
             "name": "乌尔里克·萨尔特尼斯",
             "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "桑德雷·奥克伦德",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -522,13 +522,13 @@
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "克里斯塔尔·玛尼·英加森",
+            "number": "8",
+            "name": "费利克斯·胡尔·迈尔",
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "费利克斯·胡尔·迈尔",
+            "number": "10",
+            "name": "克里斯塔尔·玛尼·英加森",
             "position": "中场"
           },
           {
@@ -542,11 +542,6 @@
             "position": "后卫"
           },
           {
-            "number": "20",
-            "name": "维特·德拉格斯内斯",
-            "position": "后卫"
-          },
-          {
             "number": "6",
             "name": "姆巴克·迪奥普",
             "position": "后卫"
@@ -557,12 +552,22 @@
             "position": "后卫"
           },
           {
+            "number": "20",
+            "name": "维特·德拉格斯内斯",
+            "position": "后卫"
+          },
+          {
             "number": "12",
             "name": "西蒙·维登森·尼尔森",
             "position": "守门员"
           }
         ],
         "subs": [
+          {
+            "number": "15",
+            "name": "乔纳斯·特维伯格·托斯维克",
+            "position": "后卫"
+          },
           {
             "number": "26",
             "name": "拉比·马东多",
@@ -602,11 +607,6 @@
             "number": "40",
             "name": "杰斯帕·尼胡斯·埃克雷姆",
             "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "乔纳斯·特维伯格·托斯维克",
-            "position": "后卫"
           }
         ],
         "injured": [],
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.850↑",
-        "handicap": "球半/两球升",
-        "away_water": "0.960↑",
-        "time": "05-24 21:56"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "一球/球半",
-        "away_water": "0.840",
-        "time": "05-17 17:03"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "球半",
         "away_water": "1.010",
         "time": "05-22 20:14"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.850↑",
+        "handicap": "球半/两球升",
+        "away_water": "0.960↑",
+        "time": "05-24 21:56"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "一球/球半",
+        "away_water": "0.840",
+        "time": "05-17 17:03"
       }
     },
     {
