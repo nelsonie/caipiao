@@ -24,7 +24,7 @@
       "lost": "8.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T00:20:16Z"
+    "fetched_at_utc": "2026-05-24T00:30:14Z"
   },
   "shuju": {
     "title": "曼彻斯特城VS阿斯顿维拉(2025/2026英超)-数据分析-500彩票网",
@@ -634,10 +634,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.870↓",
+        "home_water": "0.900↓",
         "handicap": "球半/两球升",
-        "away_water": "0.970↑",
-        "time": "05-24 07:21"
+        "away_water": "0.950↑",
+        "time": "05-24 08:23"
       },
       "init": {
         "home_water": "0.950",
@@ -695,22 +695,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "球半/两球升",
-        "away_water": "0.990↑",
-        "time": "05-24 05:00"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "球半",
-        "away_water": "0.960",
-        "time": "05-18 14:52"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -724,6 +708,22 @@
         "handicap": "一球/球半",
         "away_water": "0.980",
         "time": "05-15 00:10"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "球半/两球升",
+        "away_water": "0.990↑",
+        "time": "05-24 05:00"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "球半",
+        "away_water": "0.960",
+        "time": "05-18 14:52"
       }
     },
     {
