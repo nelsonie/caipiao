@@ -24,7 +24,7 @@
       "lost": "3.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T12:00:24Z"
+    "fetched_at_utc": "2026-05-24T12:10:25Z"
   },
   "shuju": {
     "title": "洛杉矶FCVS西雅图海湾人(2026美职联)-数据分析-500彩票网",
@@ -670,7 +670,7 @@
         "home_water": "0.870↓",
         "handicap": "半球",
         "away_water": "0.920↑",
-        "time": "05-24 19:02"
+        "time": "05-24 20:05"
       },
       "init": {
         "home_water": "0.930",
@@ -699,10 +699,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.910↓",
+        "home_water": "0.940",
         "handicap": "半球",
-        "away_water": "0.960↑",
-        "time": "05-24 19:27"
+        "away_water": "0.930↓",
+        "time": "05-24 20:07"
       },
       "init": {
         "home_water": "0.940",
@@ -718,13 +718,29 @@
         "home_water": "0.930↑",
         "handicap": "半球",
         "away_water": "0.950↓",
-        "time": "05-24 18:33"
+        "time": "05-24 20:01"
       },
       "init": {
         "home_water": "0.890",
         "handicap": "半球",
         "away_water": "0.970",
         "time": "05-21 03:50"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "半球",
+        "away_water": "0.930↑",
+        "time": "05-24 20:03"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "半球",
+        "away_water": "0.920",
+        "time": "05-18 09:48"
       }
     },
     {
@@ -741,22 +757,6 @@
         "handicap": "半球/一球",
         "away_water": "0.620",
         "time": "05-17 19:21"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "半球",
-        "away_water": "0.930↑",
-        "time": "05-24 19:04"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "半球",
-        "away_water": "0.920",
-        "time": "05-18 09:48"
       }
     },
     {
@@ -859,10 +859,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.930↓",
+        "home_water": "0.950↓",
         "handicap": "半球",
-        "away_water": "0.970↑",
-        "time": "05-24 17:31"
+        "away_water": "0.950↑",
+        "time": "05-24 19:50"
       },
       "init": {
         "home_water": "0.970",
