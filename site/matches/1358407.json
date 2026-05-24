@@ -24,13 +24,13 @@
       "lost": "3.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T05:20:23Z"
+    "fetched_at_utc": "2026-05-24T05:30:24Z"
   },
   "shuju": {
     "title": "洛杉矶FCVS西雅图海湾人(2026美职联)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，洛杉矶FC 5胜 0平 1负 ，进14球，失5球，大球4次，小球2次",
     "team_ranks": [
-      "洛杉矶FC [美职联12]",
+      "洛杉矶FC [美职联13]",
       "西雅图海湾人 [美职联9]"
     ],
     "h2h_rows": [
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.060↓",
-        "handicap": "半球/一球",
-        "away_water": "0.650↑",
-        "time": "05-22 19:18"
-      },
-      "init": {
-        "home_water": "1.100",
-        "handicap": "半球/一球",
-        "away_water": "0.620",
-        "time": "05-17 19:21"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球",
         "away_water": "0.920",
         "time": "05-18 09:48"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.060↓",
+        "handicap": "半球/一球",
+        "away_water": "0.650↑",
+        "time": "05-22 19:18"
+      },
+      "init": {
+        "home_water": "1.100",
+        "handicap": "半球/一球",
+        "away_water": "0.620",
+        "time": "05-17 19:21"
       }
     },
     {
