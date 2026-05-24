@@ -24,7 +24,7 @@
       "lost": "1.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T14:00:22Z"
+    "fetched_at_utc": "2026-05-24T14:10:23Z"
   },
   "shuju": {
     "title": "克雷莫纳VS科莫(2025/2026意甲)-数据分析-500彩票网",
@@ -633,10 +633,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.800↓",
+        "home_water": "0.750↓",
         "handicap": "受一球/球半降",
         "away_water": "1.050↑",
-        "time": "05-24 21:48"
+        "time": "05-24 22:00"
       },
       "init": {
         "home_water": "0.880",
@@ -694,22 +694,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "受一球/球半降",
-        "away_water": "1.080↑",
-        "time": "05-24 19:35"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "受一球",
-        "away_water": "1.010",
-        "time": "05-18 17:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -723,6 +707,22 @@
         "handicap": "受一球",
         "away_water": "0.930",
         "time": "05-18 17:06"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "受一球/球半降",
+        "away_water": "1.080↑",
+        "time": "05-24 19:35"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "受一球",
+        "away_water": "1.010",
+        "time": "05-18 17:03"
       }
     },
     {
