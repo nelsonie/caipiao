@@ -24,7 +24,7 @@
       "lost": "1.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T12:30:19Z"
+    "fetched_at_utc": "2026-05-24T12:40:19Z"
   },
   "shuju": {
     "title": "克里斯蒂安松VS维京(2026挪超)-数据分析-500彩票网",
@@ -697,7 +697,7 @@
         "home_water": "1.060↑",
         "handicap": "受一球升",
         "away_water": "0.810↓",
-        "time": "05-24 20:15"
+        "time": "05-24 20:30"
       },
       "init": {
         "home_water": "0.980",
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.810↓",
-        "handicap": "受一球/球半",
-        "away_water": "1.050↑",
-        "time": "05-24 20:03"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "受一球/球半",
-        "away_water": "0.870",
-        "time": "05-22 19:39"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "受球半",
         "away_water": "0.910",
         "time": "05-17 17:24"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↓",
+        "handicap": "受一球/球半",
+        "away_water": "1.050↑",
+        "time": "05-24 20:03"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "受一球/球半",
+        "away_water": "0.870",
+        "time": "05-22 19:39"
       }
     },
     {

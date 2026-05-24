@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-24T12:30:32Z",
+  "last_updated_utc": "2026-05-24T12:40:29Z",
   "matches": [
     {
       "xml_id": "2039925",
@@ -189,10 +189,10 @@
       "league": "英格兰超级联赛",
       "home": "曼彻斯特城",
       "away": "阿斯顿维拉",
-      "spf_win": "2.90",
+      "spf_win": "3.18",
       "spf_draw": "4.10",
-      "spf_lost": "1.85",
-      "spf_updated": "2026-05-24 20:28:31",
+      "spf_lost": "1.75",
+      "spf_updated": "2026-05-24 20:32:36",
       "gameid": "1202461",
       "kickoff_cst": "2026-05-24 23:00",
       "matchnum_label": "周日011",
@@ -297,10 +297,10 @@
       "league": "英格兰超级联赛",
       "home": "诺丁汉森林",
       "away": "伯恩茅斯",
-      "spf_win": "1.76",
-      "spf_draw": "3.64",
+      "spf_win": "1.78",
+      "spf_draw": "3.55",
       "spf_lost": "3.50",
-      "spf_updated": "2026-05-24 13:52:19",
+      "spf_updated": "2026-05-24 20:33:34",
       "gameid": "1202655",
       "kickoff_cst": "2026-05-24 23:00",
       "matchnum_label": "周日017",
@@ -648,6 +648,24 @@
       "matchnum_label": "周一009",
       "home_team_id": "1922",
       "away_team_id": "1269"
+    },
+    {
+      "xml_id": "2039970",
+      "matchnum": "7028",
+      "date": "2026-05-24",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "阿贾克斯",
+      "away": "乌德勒支",
+      "spf_win": "3.90",
+      "spf_draw": "4.00",
+      "spf_lost": "1.61",
+      "spf_updated": "2026-05-24 17:46:03",
+      "gameid": "1412453",
+      "kickoff_cst": "2026-05-24 18:15",
+      "matchnum_label": "周日028",
+      "home_team_id": "540",
+      "away_team_id": "1275"
     }
   ]
 }
