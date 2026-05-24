@@ -24,7 +24,7 @@
       "lost": "2.26",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T15:10:14Z"
+    "fetched_at_utc": "2026-05-24T15:20:10Z"
   },
   "shuju": {
     "title": "富勒姆VS纽卡斯尔联(2025/2026英超)-数据分析-500彩票网",
@@ -433,9 +433,19 @@
         "formation": null,
         "starters": [
           {
+            "number": "27",
+            "name": "尼克·沃尔特马德",
+            "position": "前锋"
+          },
+          {
             "number": "18",
             "name": "威廉·奥苏拉",
             "position": "前锋"
+          },
+          {
+            "number": "3",
+            "name": "刘易斯·霍尔",
+            "position": "中场"
           },
           {
             "number": "41",
@@ -443,23 +453,18 @@
             "position": "中场"
           },
           {
-            "number": "27",
-            "name": "尼克·沃尔特马德",
+            "number": "39",
+            "name": "布鲁诺·吉马良斯",
+            "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "乔·威洛克",
             "position": "中场"
           },
           {
             "number": "23",
             "name": "雅各布·墨菲",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "桑德罗·托纳利",
-            "position": "中场"
-          },
-          {
-            "number": "39",
-            "name": "布鲁诺·吉马良斯",
             "position": "中场"
           },
           {
@@ -478,27 +483,12 @@
             "position": "后卫"
           },
           {
-            "number": "3",
-            "name": "刘易斯·霍尔",
-            "position": "后卫"
-          },
-          {
             "number": "1",
             "name": "尼克·波普",
             "position": "守门员"
           }
         ],
         "subs": [
-          {
-            "number": "9",
-            "name": "约内·维萨",
-            "position": "前锋"
-          },
-          {
-            "number": "28",
-            "name": "乔·威洛克",
-            "position": "中场"
-          },
           {
             "number": "2",
             "name": "基兰·特里皮尔",
@@ -533,6 +523,16 @@
             "number": "11",
             "name": "哈维·巴恩斯",
             "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "约内·维萨",
+            "position": "前锋"
+          },
+          {
+            "number": "26",
+            "name": "约翰·鲁迪",
+            "position": "守门员"
           }
         ],
         "injured": [],

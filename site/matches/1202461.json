@@ -24,7 +24,7 @@
       "lost": "8.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T15:10:15Z"
+    "fetched_at_utc": "2026-05-24T15:20:11Z"
   },
   "shuju": {
     "title": "曼彻斯特城VS阿斯顿维拉(2025/2026英超)-数据分析-500彩票网",
@@ -355,13 +355,13 @@
             "position": "前锋"
           },
           {
-            "number": "42",
-            "name": "安托万·塞梅尼奥",
-            "position": "前锋"
-          },
-          {
             "number": "20",
             "name": "贝尔纳多·席尔瓦",
+            "position": "中场"
+          },
+          {
+            "number": "42",
+            "name": "安托万·塞梅尼奥",
             "position": "中场"
           },
           {
@@ -370,13 +370,13 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "尼科·冈萨雷斯",
+            "number": "4",
+            "name": "蒂贾尼·赖因德斯",
             "position": "中场"
           },
           {
-            "number": "4",
-            "name": "蒂贾尼·赖因德斯",
+            "number": "14",
+            "name": "尼科·冈萨雷斯",
             "position": "中场"
           },
           {
@@ -469,8 +469,8 @@
             "position": "中场"
           },
           {
-            "number": "21",
-            "name": "道格拉斯·路易斯",
+            "number": "6",
+            "name": "罗斯·巴克利",
             "position": "中场"
           },
           {
@@ -479,8 +479,8 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "罗斯·巴克利",
+            "number": "21",
+            "name": "道格拉斯·路易斯",
             "position": "中场"
           },
           {
@@ -680,22 +680,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "一球/球半",
-        "away_water": "0.990↑",
-        "time": "05-24 22:59"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "一球/球半",
-        "away_water": "0.980",
-        "time": "05-15 00:10"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -709,6 +693,22 @@
         "handicap": "球半",
         "away_water": "0.960",
         "time": "05-18 14:52"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "一球/球半",
+        "away_water": "0.990↑",
+        "time": "05-24 22:59"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "一球/球半",
+        "away_water": "0.980",
+        "time": "05-15 00:10"
       }
     },
     {

@@ -24,7 +24,7 @@
       "lost": "3.65",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-24T15:10:17Z"
+    "fetched_at_utc": "2026-05-24T15:20:14Z"
   },
   "shuju": {
     "title": "西汉姆联VS利兹联(2025/2026英超)-数据分析-500彩票网",
@@ -468,11 +468,6 @@
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "布兰登·阿伦森",
-            "position": "中场"
-          },
-          {
             "number": "24",
             "name": "詹姆斯·贾斯汀",
             "position": "中场"
@@ -485,6 +480,11 @@
           {
             "number": "4",
             "name": "伊桑·阿姆帕杜",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "布兰登·阿伦森",
             "position": "中场"
           },
           {
@@ -679,22 +679,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "半球/一球升",
-        "away_water": "0.960↓",
-        "time": "05-24 23:00"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手/半球",
-        "away_water": "0.990",
-        "time": "05-18 19:12"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -708,6 +692,22 @@
         "handicap": "平手/半球",
         "away_water": "0.900",
         "time": "05-19 10:05"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "半球/一球升",
+        "away_water": "0.960↓",
+        "time": "05-24 23:00"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手/半球",
+        "away_water": "0.990",
+        "time": "05-18 19:12"
       }
     },
     {
