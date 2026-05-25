@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-05-25T22:20:06Z'
+last_updated_utc: '2026-05-25T22:30:07Z'
 total_matches: 0
 leagues_covered: []
 ---
