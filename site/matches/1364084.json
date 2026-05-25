@@ -24,7 +24,7 @@
       "lost": "2.90",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-25T15:20:10Z"
+    "fetched_at_utc": "2026-05-25T15:30:08Z"
   },
   "shuju": {
     "title": "KFUM奥斯陆VS罗森博格(2026挪超)-数据分析-500彩票网",
@@ -376,13 +376,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "10",
-            "name": "比拉尔·内吉",
+            "number": "28",
+            "name": "马格纳斯·格罗登",
             "position": "前锋"
           },
           {
-            "number": "28",
-            "name": "马格纳斯·格罗登",
+            "number": "10",
+            "name": "比拉尔·内吉",
             "position": "前锋"
           },
           {
@@ -391,8 +391,8 @@
             "position": "前锋"
           },
           {
-            "number": "13",
-            "name": "布雷格·斯卡莱特",
+            "number": "42",
+            "name": "大卫·希克森",
             "position": "中场"
           },
           {
@@ -416,8 +416,8 @@
             "position": "后卫"
           },
           {
-            "number": "42",
-            "name": "大卫·希克森",
+            "number": "13",
+            "name": "布雷格·斯卡莱特",
             "position": "后卫"
           },
           {
@@ -438,28 +438,8 @@
             "position": "中场"
           },
           {
-            "number": "25",
-            "name": "哈瓦尔·詹森",
-            "position": "守门员"
-          },
-          {
-            "number": "22",
-            "name": "比约恩·马丁·克里斯滕森",
-            "position": "前锋"
-          },
-          {
-            "number": "4",
-            "name": "莫莫杜·莱恩·恩杰",
-            "position": "后卫"
-          },
-          {
-            "number": "21",
-            "name": "桑德·汉森·约克维斯特",
-            "position": "后卫"
-          },
-          {
-            "number": "29",
-            "name": "以赛亚·锡安·卡比·斯科夫高",
+            "number": "18",
+            "name": "拉斯穆斯·埃根·文吉",
             "position": "前锋"
           },
           {
@@ -468,9 +448,29 @@
             "position": "中场"
           },
           {
-            "number": "18",
-            "name": "拉斯穆斯·埃根·文吉",
+            "number": "29",
+            "name": "以赛亚·锡安·卡比·斯科夫高",
             "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "桑德·汉森·约克维斯特",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "莫莫杜·莱恩·恩杰",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "比约恩·马丁·克里斯滕森",
+            "position": "前锋"
+          },
+          {
+            "number": "25",
+            "name": "哈瓦尔·詹森",
+            "position": "守门员"
           },
           {
             "number": "9",
@@ -542,6 +542,21 @@
         ],
         "subs": [
           {
+            "number": "29",
+            "name": "大卫·杜里斯",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "艾弗·福萨姆",
+            "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "迪诺·伊斯拉莫维奇",
+            "position": "前锋"
+          },
+          {
             "number": "15",
             "name": "乔纳斯·索加尔·莫尔滕森",
             "position": "后卫"
@@ -562,29 +577,14 @@
             "position": "后卫"
           },
           {
-            "number": "8",
-            "name": "艾弗·福萨姆",
-            "position": "中场"
-          },
-          {
-            "number": "29",
-            "name": "大卫·杜里斯",
-            "position": "前锋"
-          },
-          {
-            "number": "4",
-            "name": "米克尔·康拉德森·塞德",
-            "position": "后卫"
-          },
-          {
             "number": "25",
             "name": "约翰·巴克",
             "position": "中场"
           },
           {
-            "number": "9",
-            "name": "迪诺·伊斯拉莫维奇",
-            "position": "前锋"
+            "number": "4",
+            "name": "米克尔·康拉德森·塞德",
+            "position": "后卫"
           }
         ],
         "injured": [],

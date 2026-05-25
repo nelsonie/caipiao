@@ -24,7 +24,7 @@
       "lost": "6.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-25T15:20:10Z"
+    "fetched_at_utc": "2026-05-25T15:30:08Z"
   },
   "shuju": {
     "title": "特罗姆瑟VS奥勒松(2026挪超)-数据分析-500彩票网",
@@ -455,34 +455,9 @@
         ],
         "subs": [
           {
-            "number": "19",
-            "name": "亚历山大·利勒顿·埃尔韦布",
-            "position": "中场"
-          },
-          {
-            "number": "9",
-            "name": "丹尼尔·布劳特",
-            "position": "前锋"
-          },
-          {
-            "number": "24",
-            "name": "胡塞伯",
+            "number": "30",
+            "name": "伊萨克·瓦德布",
             "position": "后卫"
-          },
-          {
-            "number": "7",
-            "name": "拉尔斯·奥尔登·拉森",
-            "position": "前锋"
-          },
-          {
-            "number": "12",
-            "name": "奥莱-克里斯蒂安-拉弗利",
-            "position": "守门员"
-          },
-          {
-            "number": "27",
-            "name": "麦斯·米科尔森",
-            "position": "中场"
           },
           {
             "number": "3",
@@ -490,8 +465,38 @@
             "position": "后卫"
           },
           {
-            "number": "30",
-            "name": "伊萨克·瓦德布",
+            "number": "14",
+            "name": "雅各布森·普雷斯特莫",
+            "position": "前锋"
+          },
+          {
+            "number": "27",
+            "name": "麦斯·米科尔森",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "奥莱-克里斯蒂安-拉弗利",
+            "position": "守门员"
+          },
+          {
+            "number": "7",
+            "name": "拉尔斯·奥尔登·拉森",
+            "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "丹尼尔·布劳特",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "亚历山大·利勒顿·埃尔韦布",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "胡塞伯",
             "position": "后卫"
           }
         ],
@@ -559,31 +564,6 @@
         ],
         "subs": [
           {
-            "number": "16",
-            "name": "雅各布·尼兰·奥萨",
-            "position": "后卫"
-          },
-          {
-            "number": "7",
-            "name": "克里斯托弗·内索",
-            "position": "中场"
-          },
-          {
-            "number": "17",
-            "name": "埃利亚斯·赫格兰德·迈立德",
-            "position": "前锋"
-          },
-          {
-            "number": "26",
-            "name": "托尔·埃里克·瓦尔德豪格·拉森",
-            "position": "守门员"
-          },
-          {
-            "number": "6",
-            "name": "哈肯·布特利·哈默",
-            "position": "中场"
-          },
-          {
             "number": "22",
             "name": "埃米尔·恩格奎斯特",
             "position": "后卫"
@@ -592,6 +572,36 @@
             "number": "20",
             "name": "伊万·詹图",
             "position": "前锋"
+          },
+          {
+            "number": "6",
+            "name": "哈肯·布特利·哈默",
+            "position": "中场"
+          },
+          {
+            "number": "26",
+            "name": "托尔·埃里克·瓦尔德豪格·拉森",
+            "position": "守门员"
+          },
+          {
+            "number": "17",
+            "name": "埃利亚斯·赫格兰德·迈立德",
+            "position": "前锋"
+          },
+          {
+            "number": "30",
+            "name": "斯托姆·卡尔松·努特森",
+            "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "克里斯托弗·内索",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "雅各布·尼兰·奥萨",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -713,22 +723,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "一球降",
-        "away_water": "0.990↑",
-        "time": "05-25 22:59"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "一球/球半",
-        "away_water": "0.870",
-        "time": "05-22 20:08"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -742,6 +736,22 @@
         "handicap": "球半",
         "away_water": "0.610",
         "time": "05-17 17:24"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "一球降",
+        "away_water": "0.990↑",
+        "time": "05-25 22:59"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "一球/球半",
+        "away_water": "0.870",
+        "time": "05-22 20:08"
       }
     },
     {
