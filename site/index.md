@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-05-25T18:30:06Z'
-total_matches: 1
-leagues_covered:
-- 德国甲级联赛
+last_updated_utc: '2026-05-25T18:40:06Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 德国甲级联赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 1009 | 2026-05-26 星期二 | 帕德博恩 vs 沃尔夫斯堡 | 1.63/3.55/4.28 | [1411749](matches/1411749.md) |
