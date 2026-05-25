@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-05-25T09:10:26Z'
+last_updated_utc: '2026-05-25T09:20:11Z'
 total_matches: 9
 leagues_covered:
 - 德国甲级联赛
