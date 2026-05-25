@@ -24,7 +24,7 @@
       "lost": "6.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-25T05:10:09Z"
+    "fetched_at_utc": "2026-05-25T05:20:09Z"
   },
   "shuju": {
     "title": "特罗姆瑟VS奥勒松(2026挪超)-数据分析-500彩票网",
@@ -699,10 +699,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.970↓",
+        "home_water": "0.950↓",
         "handicap": "一球/球半",
-        "away_water": "0.900",
-        "time": "05-25 12:03"
+        "away_water": "0.920↑",
+        "time": "05-25 13:15"
       },
       "init": {
         "home_water": "0.980",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "一球/球半降",
-        "away_water": "0.870↑",
-        "time": "05-25 12:14"
-      },
-      "init": {
-        "home_water": "1.330",
-        "handicap": "球半",
-        "away_water": "0.610",
-        "time": "05-17 17:24"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球/球半",
         "away_water": "0.870",
         "time": "05-22 20:08"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "一球/球半降",
+        "away_water": "0.870↑",
+        "time": "05-25 12:14"
+      },
+      "init": {
+        "home_water": "1.330",
+        "handicap": "球半",
+        "away_water": "0.610",
+        "time": "05-17 17:24"
       }
     },
     {
@@ -843,10 +843,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.990↑",
+        "home_water": "0.980↑",
         "handicap": "一球/球半",
-        "away_water": "0.910",
-        "time": "05-25 12:33"
+        "away_water": "0.920↑",
+        "time": "05-25 13:15"
       },
       "init": {
         "home_water": "0.970",
