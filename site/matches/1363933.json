@@ -24,7 +24,7 @@
       "lost": "3.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-25T01:20:11Z"
+    "fetched_at_utc": "2026-05-25T01:30:11Z"
   },
   "shuju": {
     "title": "桑纳菲尤尔VS腓特烈斯塔(2026挪超)-数据分析-500彩票网",
@@ -667,10 +667,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.870↓",
         "handicap": "半球降",
-        "away_water": "0.930↑",
-        "time": "05-25 08:53"
+        "away_water": "0.920↑",
+        "time": "05-25 09:17"
       },
       "init": {
         "home_water": "1.000",
@@ -728,6 +728,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "半球",
+        "away_water": "0.940↓",
+        "time": "05-25 09:17"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "半球",
+        "away_water": "1.000",
+        "time": "05-22 20:26"
+      }
+    },
+    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -741,22 +757,6 @@
         "handicap": "球半",
         "away_water": "0.320",
         "time": "05-17 17:40"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "半球",
-        "away_water": "0.930↓",
-        "time": "05-25 08:56"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "半球",
-        "away_water": "1.000",
-        "time": "05-22 20:26"
       }
     },
     {
@@ -1072,7 +1072,7 @@
     {
       "cid": "3",
       "company": "**t3*5",
-      "time": "2026-05-25 08:45:53",
+      "time": "2026-05-25 09:24:55",
       "odds": {
         "live": [
           "1.83",
