@@ -13,9 +13,9 @@
       "lost": "3.15"
     },
     "asia_main": {
-      "handicap": "两球半升",
-      "home_water": "0.910↑",
-      "away_water": "0.800↓",
+      "handicap": "两球/两球半升",
+      "home_water": "0.730↑",
+      "away_water": "0.920↓",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-26T06:00:10Z"
+    "fetched_at_utc": "2026-05-26T06:10:09Z"
   },
   "shuju": {
     "title": "弗拉门戈VS库斯科(2026解放者杯)-数据分析-500彩票网",
@@ -549,10 +549,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.910↑",
-        "handicap": "两球半升",
-        "away_water": "0.800↓",
-        "time": "05-26 00:07"
+        "home_water": "0.730↑",
+        "handicap": "两球/两球半升",
+        "away_water": "0.920↓",
+        "time": "05-26 13:52"
       },
       "init": {
         "home_water": "0.700",
@@ -658,22 +658,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "两球半",
-        "away_water": "0.830",
-        "time": "05-26 13:45"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "两球半",
-        "away_water": "0.830",
-        "time": "05-26 13:29"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -687,6 +671,22 @@
         "handicap": "球半",
         "away_water": "1.120",
         "time": "05-21 19:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "两球半",
+        "away_water": "0.830",
+        "time": "05-26 13:45"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "两球半",
+        "away_water": "0.830",
+        "time": "05-26 13:29"
       }
     },
     {
@@ -712,7 +712,7 @@
         "home_water": "0.800↓",
         "handicap": "两球/两球半",
         "away_water": "1.110↑",
-        "time": "05-26 12:07"
+        "time": "05-26 14:00"
       },
       "init": {
         "home_water": "0.870",
