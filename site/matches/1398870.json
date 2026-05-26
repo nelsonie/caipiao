@@ -24,7 +24,7 @@
       "lost": "4.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-26T06:10:08Z"
+    "fetched_at_utc": "2026-05-26T06:20:08Z"
   },
   "shuju": {
     "title": "拉努斯VS米拉索尔(2026解放者杯)-数据分析-500彩票网",
@@ -703,6 +703,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "半球",
+        "away_water": "0.910↓",
+        "time": "05-26 14:08"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "半球",
+        "away_water": "0.920",
+        "time": "05-26 13:19"
+      }
+    },
+    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -716,22 +732,6 @@
         "handicap": "平手",
         "away_water": "1.520",
         "time": "05-21 19:51"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "半球",
-        "away_water": "0.920",
-        "time": "05-26 13:41"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "半球",
-        "away_water": "0.920",
-        "time": "05-26 13:19"
       }
     },
     {
