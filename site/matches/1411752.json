@@ -24,7 +24,7 @@
       "lost": "2.94",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-26T07:30:07Z"
+    "fetched_at_utc": "2026-05-26T07:40:08Z"
   },
   "shuju": {
     "title": "圣埃蒂安VS尼斯(2025/2026法乙)-数据分析-500彩票网",
@@ -658,22 +658,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.880↓",
-        "time": "05-26 14:57"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手",
-        "away_water": "0.990",
-        "time": "05-22 15:41"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -687,6 +671,22 @@
         "handicap": "平手/半球",
         "away_water": "0.810",
         "time": "05-18 21:19"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.880↓",
+        "time": "05-26 14:57"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手",
+        "away_water": "0.990",
+        "time": "05-22 15:41"
       }
     },
     {
