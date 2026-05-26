@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-26T04:10:13Z",
+  "last_updated_utc": "2026-05-26T04:20:13Z",
   "matches": [
     {
       "xml_id": "2039985",
@@ -180,6 +180,42 @@
       "matchnum_label": "周三003",
       "home_team_id": "2261",
       "away_team_id": "13411"
+    },
+    {
+      "xml_id": "2039995",
+      "matchnum": "3004",
+      "date": "2026-05-28",
+      "dayofweek": "星期四",
+      "league": "南美解放者杯",
+      "home": "玻利瓦尔",
+      "away": "里瓦达维亚独立",
+      "spf_win": "5.10",
+      "spf_draw": "4.10",
+      "spf_lost": "1.45",
+      "spf_updated": "2026-05-26 09:23:27",
+      "gameid": "1398779",
+      "kickoff_cst": "2026-05-28 08:30",
+      "matchnum_label": "周三004",
+      "home_team_id": "2262",
+      "away_team_id": "4620"
+    },
+    {
+      "xml_id": "2039996",
+      "matchnum": "3005",
+      "date": "2026-05-28",
+      "dayofweek": "星期四",
+      "league": "南美解放者杯",
+      "home": "弗鲁米嫩塞",
+      "away": "拉瓜伊拉",
+      "spf_win": "2.20",
+      "spf_draw": "3.85",
+      "spf_lost": "2.42",
+      "spf_updated": "2026-05-26 09:23:27",
+      "gameid": "1398781",
+      "kickoff_cst": "2026-05-28 08:30",
+      "matchnum_label": "周三005",
+      "home_team_id": "1578",
+      "away_team_id": "7274"
     },
     {
       "xml_id": "2039997",
