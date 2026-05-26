@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-26T03:30:10Z",
+  "last_updated_utc": "2026-05-26T03:40:15Z",
   "matches": [
     {
       "xml_id": "2039985",
@@ -234,24 +234,6 @@
       "matchnum_label": "周三006",
       "home_team_id": "2061",
       "away_team_id": "2829"
-    },
-    {
-      "xml_id": "2039998",
-      "matchnum": "3007",
-      "date": "2026-05-28",
-      "dayofweek": "星期四",
-      "league": "南美解放者杯",
-      "home": "科林蒂安",
-      "away": "普拉滕斯",
-      "spf_win": "2.92",
-      "spf_draw": "3.15",
-      "spf_lost": "2.13",
-      "spf_updated": "2026-05-26 09:23:27",
-      "gameid": "1398823",
-      "kickoff_cst": "2026-05-28 08:30",
-      "matchnum_label": "周三007",
-      "home_team_id": "1572",
-      "away_team_id": "10693"
     }
   ]
 }
