@@ -8,9 +8,9 @@
     "away": "库斯科",
     "kickoff_cst": "2026-05-27 08:30",
     "spf": {
-      "win": "1.77",
-      "draw": "4.05",
-      "lost": "3.15"
+      "win": "1.81",
+      "draw": "4.00",
+      "lost": "3.06"
     },
     "asia_main": {
       "handicap": "两球/两球半升",
@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-26T07:40:10Z"
+    "fetched_at_utc": "2026-05-26T07:50:09Z"
   },
   "shuju": {
     "title": "弗拉门戈VS库斯科(2026解放者杯)-数据分析-500彩票网",
@@ -658,22 +658,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "两球半",
-        "away_water": "0.850↑",
-        "time": "05-26 14:43"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "两球半",
-        "away_water": "0.830",
-        "time": "05-26 13:29"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -687,6 +671,22 @@
         "handicap": "球半",
         "away_water": "1.120",
         "time": "05-21 19:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "两球半",
+        "away_water": "0.850↑",
+        "time": "05-26 14:43"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "两球半",
+        "away_water": "0.830",
+        "time": "05-26 13:29"
       }
     },
     {
