@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-26T22:20:07Z"
+    "fetched_at_utc": "2026-05-26T22:30:07Z"
   },
   "shuju": {
     "title": "弗拉门戈VS库斯科(2026解放者杯)-数据分析-500彩票网",
@@ -658,22 +658,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.910↑",
-        "handicap": "两球半升",
-        "away_water": "0.930↓",
-        "time": "05-27 06:16"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "球半",
-        "away_water": "1.120",
-        "time": "05-21 19:55"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -687,6 +671,22 @@
         "handicap": "两球半",
         "away_water": "0.830",
         "time": "05-26 13:29"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "两球半升",
+        "away_water": "0.930↓",
+        "time": "05-27 06:16"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "球半",
+        "away_water": "1.120",
+        "time": "05-21 19:55"
       }
     },
     {
