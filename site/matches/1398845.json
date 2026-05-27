@@ -24,7 +24,7 @@
       "lost": "15.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-27T15:10:11Z"
+    "fetched_at_utc": "2026-05-27T15:20:14Z"
   },
   "shuju": {
     "title": "帕尔梅拉斯VS巴兰基利亚青年(2026解放者杯)-数据分析-500彩票网",
@@ -720,22 +720,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940",
-        "handicap": "球半/两球",
-        "away_water": "0.850",
-        "time": "05-27 20:14"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "球半/两球",
-        "away_water": "0.850",
-        "time": "05-27 14:00"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -749,6 +733,22 @@
         "handicap": "球半",
         "away_water": "0.700",
         "time": "05-21 19:54"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940",
+        "handicap": "球半/两球",
+        "away_water": "0.850",
+        "time": "05-27 20:14"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "球半/两球",
+        "away_water": "0.850",
+        "time": "05-27 14:00"
       }
     },
     {
