@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-27T18:50:11Z",
+  "last_updated_utc": "2026-05-27T19:00:12Z",
   "matches": [
     {
       "xml_id": "2039992",
@@ -146,24 +146,6 @@
       "away_team_id": "4989"
     },
     {
-      "xml_id": "2040001",
-      "matchnum": "4003",
-      "date": "2026-05-29",
-      "dayofweek": "星期五",
-      "league": "南美解放者杯",
-      "home": "波特诺山丘",
-      "away": "水晶体育",
-      "spf_win": "2.87",
-      "spf_draw": "3.15",
-      "spf_lost": "2.16",
-      "spf_updated": "2026-05-27 09:18:01",
-      "gameid": "1398846",
-      "kickoff_cst": "2026-05-29 06:00",
-      "matchnum_label": "周四003",
-      "home_team_id": "2062",
-      "away_team_id": "2271"
-    },
-    {
       "xml_id": "2040002",
       "matchnum": "4004",
       "date": "2026-05-29",
@@ -180,24 +162,6 @@
       "matchnum_label": "周四004",
       "home_team_id": "1567",
       "away_team_id": "2256"
-    },
-    {
-      "xml_id": "2040003",
-      "matchnum": "4005",
-      "date": "2026-05-29",
-      "dayofweek": "星期五",
-      "league": "南美解放者杯",
-      "home": "博卡青年",
-      "away": "天主大学",
-      "spf_win": "2.02",
-      "spf_draw": "3.22",
-      "spf_lost": "3.10",
-      "spf_updated": "2026-05-27 09:18:01",
-      "gameid": "1398800",
-      "kickoff_cst": "2026-05-29 08:30",
-      "matchnum_label": "周四005",
-      "home_team_id": "705",
-      "away_team_id": "1718"
     }
   ]
 }
