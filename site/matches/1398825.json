@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "半球",
-      "home_water": "0.850",
-      "away_water": "0.850",
+      "home_water": "0.800↓",
+      "away_water": "0.950↑",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "4.45",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-27T04:20:09Z"
+    "fetched_at_utc": "2026-05-27T04:30:10Z"
   },
   "shuju": {
     "title": "佩纳罗尔VS圣菲独立(2026解放者杯)-数据分析-500彩票网",
@@ -516,10 +516,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.850",
+        "home_water": "0.800↓",
         "handicap": "半球",
-        "away_water": "0.850",
-        "time": "05-23 23:10"
+        "away_water": "0.950↑",
+        "time": "05-27 12:24"
       },
       "init": {
         "home_water": "0.850",
@@ -564,10 +564,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.830↓",
+        "home_water": "0.800↓",
         "handicap": "半球",
-        "away_water": "1.030↑",
-        "time": "05-27 12:08"
+        "away_water": "1.050↑",
+        "time": "05-27 12:24"
       },
       "init": {
         "home_water": "0.900",
@@ -580,10 +580,10 @@
       "cid": "4",
       "company": "I***rw**t*n",
       "live": {
-        "home_water": "0.850",
+        "home_water": "0.800↓",
         "handicap": "半球",
-        "away_water": "0.850",
-        "time": "05-27 10:08"
+        "away_water": "0.900↑",
+        "time": "05-27 12:27"
       },
       "init": {
         "home_water": "0.850",
@@ -599,7 +599,7 @@
         "home_water": "0.800↓",
         "handicap": "半球",
         "away_water": "1.020↑",
-        "time": "05-27 12:06"
+        "time": "05-27 12:21"
       },
       "init": {
         "home_water": "0.920",
@@ -612,10 +612,10 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.860↓",
+        "home_water": "0.800↓",
         "handicap": "半球",
-        "away_water": "0.980↑",
-        "time": "05-27 12:03"
+        "away_water": "1.060↑",
+        "time": "05-27 12:18"
       },
       "init": {
         "home_water": "0.870",
@@ -628,10 +628,10 @@
       "cid": "1484",
       "company": "on**",
       "live": {
-        "home_water": "1.010↓",
+        "home_water": "0.980↓",
         "handicap": "半球/一球降",
-        "away_water": "0.680↑",
-        "time": "05-27 12:05"
+        "away_water": "0.700↑",
+        "time": "05-27 12:16"
       },
       "init": {
         "home_water": "1.720",
@@ -644,10 +644,10 @@
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.820↓",
         "handicap": "半球",
-        "away_water": "1.030↑",
-        "time": "05-27 12:00"
+        "away_water": "1.060↑",
+        "time": "05-27 12:14"
       },
       "init": {
         "home_water": "0.880",
@@ -660,10 +660,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.810↓",
         "handicap": "半球",
-        "away_water": "0.990↑",
-        "time": "05-27 12:06"
+        "away_water": "1.090↑",
+        "time": "05-27 12:14"
       },
       "init": {
         "home_water": "0.870",
@@ -676,10 +676,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.860↓",
+        "home_water": "0.800↓",
         "handicap": "半球",
-        "away_water": "1.010↑",
-        "time": "05-27 12:04"
+        "away_water": "1.070↑",
+        "time": "05-27 12:14"
       },
       "init": {
         "home_water": "0.920",
@@ -692,10 +692,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.860↓",
+        "home_water": "0.830↓",
         "handicap": "半球",
-        "away_water": "1.010↑",
-        "time": "05-27 12:01"
+        "away_water": "1.070↑",
+        "time": "05-27 12:27"
       },
       "init": {
         "home_water": "0.920",
@@ -724,10 +724,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.830↓",
         "handicap": "半球",
-        "away_water": "1.020↑",
-        "time": "05-27 12:06"
+        "away_water": "1.050↑",
+        "time": "05-27 12:27"
       },
       "init": {
         "home_water": "0.900",
