@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-27T18:10:14Z",
+  "last_updated_utc": "2026-05-27T18:20:14Z",
   "matches": [
     {
       "xml_id": "2039992",
@@ -56,6 +56,60 @@
       "away_team_id": "13411"
     },
     {
+      "xml_id": "2039995",
+      "matchnum": "3004",
+      "date": "2026-05-28",
+      "dayofweek": "星期四",
+      "league": "南美解放者杯",
+      "home": "玻利瓦尔",
+      "away": "里瓦达维亚独立",
+      "spf_win": "5.40",
+      "spf_draw": "4.10",
+      "spf_lost": "1.43",
+      "spf_updated": "2026-05-27 20:45:34",
+      "gameid": "1398779",
+      "kickoff_cst": "2026-05-28 08:30",
+      "matchnum_label": "周三004",
+      "home_team_id": "2262",
+      "away_team_id": "4620"
+    },
+    {
+      "xml_id": "2039996",
+      "matchnum": "3005",
+      "date": "2026-05-28",
+      "dayofweek": "星期四",
+      "league": "南美解放者杯",
+      "home": "弗鲁米嫩塞",
+      "away": "拉瓜伊拉",
+      "spf_win": "2.32",
+      "spf_draw": "3.45",
+      "spf_lost": "2.45",
+      "spf_updated": "2026-05-27 21:55:41",
+      "gameid": "1398781",
+      "kickoff_cst": "2026-05-28 08:30",
+      "matchnum_label": "周三005",
+      "home_team_id": "1578",
+      "away_team_id": "7274"
+    },
+    {
+      "xml_id": "2039997",
+      "matchnum": "3006",
+      "date": "2026-05-28",
+      "dayofweek": "星期四",
+      "league": "南美解放者杯",
+      "home": "佩纳罗尔",
+      "away": "圣菲独立",
+      "spf_win": "3.75",
+      "spf_draw": "3.05",
+      "spf_lost": "1.87",
+      "spf_updated": "2026-05-27 19:15:46",
+      "gameid": "1398825",
+      "kickoff_cst": "2026-05-28 08:30",
+      "matchnum_label": "周三006",
+      "home_team_id": "2061",
+      "away_team_id": "2829"
+    },
+    {
       "xml_id": "2039998",
       "matchnum": "3007",
       "date": "2026-05-28",
@@ -74,6 +128,24 @@
       "away_team_id": "10693"
     },
     {
+      "xml_id": "2040000",
+      "matchnum": "4002",
+      "date": "2026-05-29",
+      "dayofweek": "星期五",
+      "league": "葡萄牙超级联赛",
+      "home": "卡萨皮亚",
+      "away": "托林斯",
+      "spf_win": "5.05",
+      "spf_draw": "3.40",
+      "spf_lost": "1.57",
+      "spf_updated": "2026-05-27 09:18:01",
+      "gameid": "1411755",
+      "kickoff_cst": "2026-05-29 03:00",
+      "matchnum_label": "周四002",
+      "home_team_id": "3928",
+      "away_team_id": "4989"
+    },
+    {
       "xml_id": "2040001",
       "matchnum": "4003",
       "date": "2026-05-29",
@@ -90,42 +162,6 @@
       "matchnum_label": "周四003",
       "home_team_id": "2062",
       "away_team_id": "2271"
-    },
-    {
-      "xml_id": "2040002",
-      "matchnum": "4004",
-      "date": "2026-05-29",
-      "dayofweek": "星期五",
-      "league": "南美解放者杯",
-      "home": "帕尔梅拉斯",
-      "away": "巴兰基亚青年",
-      "spf_win": "2.57",
-      "spf_draw": "3.72",
-      "spf_lost": "2.12",
-      "spf_updated": "2026-05-27 09:18:01",
-      "gameid": "1398845",
-      "kickoff_cst": "2026-05-29 06:00",
-      "matchnum_label": "周四004",
-      "home_team_id": "1567",
-      "away_team_id": "2256"
-    },
-    {
-      "xml_id": "2040003",
-      "matchnum": "4005",
-      "date": "2026-05-29",
-      "dayofweek": "星期五",
-      "league": "南美解放者杯",
-      "home": "博卡青年",
-      "away": "天主大学",
-      "spf_win": "2.02",
-      "spf_draw": "3.22",
-      "spf_lost": "3.10",
-      "spf_updated": "2026-05-27 09:18:01",
-      "gameid": "1398800",
-      "kickoff_cst": "2026-05-29 08:30",
-      "matchnum_label": "周四005",
-      "home_team_id": "705",
-      "away_team_id": "1718"
     }
   ]
 }
