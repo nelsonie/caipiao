@@ -8,9 +8,9 @@
     "away": "里瓦达维亚独立",
     "kickoff_cst": "2026-05-28 08:30",
     "spf": {
-      "win": "5.20",
-      "draw": "4.05",
-      "lost": "1.45"
+      "win": "5.40",
+      "draw": "4.10",
+      "lost": "1.43"
     },
     "asia_main": {
       "handicap": "平手",
@@ -24,7 +24,7 @@
       "lost": "2.52",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-27T12:40:09Z"
+    "fetched_at_utc": "2026-05-27T12:50:07Z"
   },
   "shuju": {
     "title": "玻利瓦尔VS门多萨独立(2026解放者杯)-数据分析-500彩票网",
@@ -630,10 +630,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.770↓",
+        "home_water": "0.830↑",
         "handicap": "平手",
-        "away_water": "1.100↑",
-        "time": "05-27 20:34"
+        "away_water": "1.030↓",
+        "time": "05-27 20:46"
       },
       "init": {
         "home_water": "0.800",
@@ -678,32 +678,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.870↑",
+        "home_water": "0.820↓",
         "handicap": "平手",
-        "away_water": "0.990↑",
-        "time": "05-27 19:41"
+        "away_water": "1.040↑",
+        "time": "05-27 20:47"
       },
       "init": {
         "home_water": "0.830",
         "handicap": "平手",
         "away_water": "0.970",
         "time": "05-25 07:56"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↑",
-        "handicap": "平手",
-        "away_water": "0.950↓",
-        "time": "05-27 20:32"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "平手",
-        "away_water": "1.030",
-        "time": "05-27 14:01"
       }
     },
     {
@@ -720,6 +704,22 @@
         "handicap": "平手",
         "away_water": "1.050",
         "time": "05-22 21:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↑",
+        "handicap": "平手",
+        "away_water": "0.960↓",
+        "time": "05-27 20:47"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "平手",
+        "away_water": "1.030",
+        "time": "05-27 14:01"
       }
     },
     {
@@ -742,10 +742,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.860↓",
+        "home_water": "0.840↓",
         "handicap": "平手",
-        "away_water": "1.040↑",
-        "time": "05-27 20:30"
+        "away_water": "1.060↑",
+        "time": "05-27 20:45"
       },
       "init": {
         "home_water": "0.900",
@@ -758,10 +758,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.830↓",
         "handicap": "平手",
-        "away_water": "1.060↑",
-        "time": "05-27 20:31"
+        "away_water": "1.070↑",
+        "time": "05-27 20:46"
       },
       "init": {
         "home_water": "0.870",
@@ -774,10 +774,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.830↓",
         "handicap": "平手",
-        "away_water": "1.060↑",
-        "time": "05-27 20:31"
+        "away_water": "1.070↑",
+        "time": "05-27 20:45"
       },
       "init": {
         "home_water": "0.850",
@@ -790,10 +790,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.820↑",
+        "home_water": "0.810↑",
         "handicap": "平手",
-        "away_water": "0.990↓",
-        "time": "05-27 20:16"
+        "away_water": "1.000↓",
+        "time": "05-27 20:46"
       },
       "init": {
         "home_water": "0.740",
