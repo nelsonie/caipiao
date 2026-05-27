@@ -24,7 +24,7 @@
       "lost": "3.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-27T10:40:09Z"
+    "fetched_at_utc": "2026-05-27T10:50:10Z"
   },
   "shuju": {
     "title": "卡萨匹亚VS杜连斯(2025/2026葡超)-数据分析-500彩票网",
@@ -611,22 +611,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↓",
-        "handicap": "平手/半球",
-        "away_water": "0.890↑",
-        "time": "05-27 05:13"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "平手/半球",
-        "away_water": "0.830",
-        "time": "05-26 20:59"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -640,6 +624,22 @@
         "handicap": "平手/半球",
         "away_water": "0.760",
         "time": "05-26 19:53"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↓",
+        "handicap": "平手/半球",
+        "away_water": "0.890↑",
+        "time": "05-27 05:13"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "平手/半球",
+        "away_water": "0.830",
+        "time": "05-26 20:59"
       }
     },
     {
