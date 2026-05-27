@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-27T23:10:12Z",
+  "last_updated_utc": "2026-05-27T23:20:09Z",
   "matches": [
     {
       "xml_id": "2039995",
@@ -126,6 +126,24 @@
       "matchnum_label": "周四004",
       "home_team_id": "1567",
       "away_team_id": "2256"
+    },
+    {
+      "xml_id": "2040003",
+      "matchnum": "4005",
+      "date": "2026-05-29",
+      "dayofweek": "星期五",
+      "league": "南美解放者杯",
+      "home": "博卡青年",
+      "away": "天主大学",
+      "spf_win": "2.02",
+      "spf_draw": "3.22",
+      "spf_lost": "3.10",
+      "spf_updated": "2026-05-27 09:18:01",
+      "gameid": "1398800",
+      "kickoff_cst": "2026-05-29 08:30",
+      "matchnum_label": "周四005",
+      "home_team_id": "705",
+      "away_team_id": "1718"
     }
   ]
 }
