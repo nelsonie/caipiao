@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-28T21:40:11Z",
+  "last_updated_utc": "2026-05-28T21:50:13Z",
   "matches": [
     {
       "xml_id": "2040001",
@@ -90,6 +90,42 @@
       "matchnum_label": "周五002",
       "home_team_id": "5263",
       "away_team_id": "1226"
+    },
+    {
+      "xml_id": "2040019",
+      "matchnum": "5003",
+      "date": "2026-05-30",
+      "dayofweek": "星期六",
+      "league": "挪威超级联赛",
+      "home": "腓特烈斯塔",
+      "away": "斯达",
+      "spf_win": "3.02",
+      "spf_draw": "3.30",
+      "spf_lost": "2.02",
+      "spf_updated": "2026-05-28 13:34:09",
+      "gameid": "1363718",
+      "kickoff_cst": "2026-05-30 01:00",
+      "matchnum_label": "周五003",
+      "home_team_id": "1362",
+      "away_team_id": "508"
+    },
+    {
+      "xml_id": "2040021",
+      "matchnum": "5005",
+      "date": "2026-05-30",
+      "dayofweek": "星期六",
+      "league": "挪威超级联赛",
+      "home": "瓦勒伦加",
+      "away": "克里斯蒂安松",
+      "spf_win": "2.30",
+      "spf_draw": "3.40",
+      "spf_lost": "2.50",
+      "spf_updated": "2026-05-28 13:34:09",
+      "gameid": "1363620",
+      "kickoff_cst": "2026-05-30 01:00",
+      "matchnum_label": "周五005",
+      "home_team_id": "1242",
+      "away_team_id": "4338"
     },
     {
       "xml_id": "2040022",
