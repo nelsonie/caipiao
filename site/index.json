@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-28T09:00:11Z",
+  "last_updated_utc": "2026-05-28T09:10:13Z",
   "matches": [
     {
       "xml_id": "2039999",
@@ -180,24 +180,6 @@
       "matchnum_label": "周五005",
       "home_team_id": "1242",
       "away_team_id": "4338"
-    },
-    {
-      "xml_id": "2040022",
-      "matchnum": "5006",
-      "date": "2026-05-30",
-      "dayofweek": "星期六",
-      "league": "挪威超级联赛",
-      "home": "罗森博格",
-      "away": "博德闪耀",
-      "spf_win": "2.25",
-      "spf_draw": "3.60",
-      "spf_lost": "2.46",
-      "spf_updated": "2026-05-28 13:34:09",
-      "gameid": "1363541",
-      "kickoff_cst": "2026-05-30 01:00",
-      "matchnum_label": "周五006",
-      "home_team_id": "1035",
-      "away_team_id": "703"
     },
     {
       "xml_id": "2040023",
