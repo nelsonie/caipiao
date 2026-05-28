@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-28T15:10:15Z",
+  "last_updated_utc": "2026-05-28T15:20:14Z",
   "matches": [
     {
       "xml_id": "2039999",
@@ -92,6 +92,24 @@
       "away_team_id": "1718"
     },
     {
+      "xml_id": "2040017",
+      "matchnum": "5001",
+      "date": "2026-05-30",
+      "dayofweek": "星期六",
+      "league": "瑞典超级联赛",
+      "home": "厄尔格里特",
+      "away": "埃尔夫斯堡",
+      "spf_win": "1.87",
+      "spf_draw": "3.50",
+      "spf_lost": "3.25",
+      "spf_updated": "2026-05-28 13:34:09",
+      "gameid": "1362684",
+      "kickoff_cst": "2026-05-30 01:00",
+      "matchnum_label": "周五001",
+      "home_team_id": "606",
+      "away_team_id": "563"
+    },
+    {
       "xml_id": "2040018",
       "matchnum": "5002",
       "date": "2026-05-30",
@@ -162,6 +180,24 @@
       "matchnum_label": "周五005",
       "home_team_id": "1242",
       "away_team_id": "4338"
+    },
+    {
+      "xml_id": "2040022",
+      "matchnum": "5006",
+      "date": "2026-05-30",
+      "dayofweek": "星期六",
+      "league": "挪威超级联赛",
+      "home": "罗森博格",
+      "away": "博德闪耀",
+      "spf_win": "2.25",
+      "spf_draw": "3.60",
+      "spf_lost": "2.46",
+      "spf_updated": "2026-05-28 13:34:09",
+      "gameid": "1363541",
+      "kickoff_cst": "2026-05-30 01:00",
+      "matchnum_label": "周五006",
+      "home_team_id": "1035",
+      "away_team_id": "703"
     },
     {
       "xml_id": "2040023",
