@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-28T07:30:11Z",
+  "last_updated_utc": "2026-05-28T07:40:12Z",
   "matches": [
     {
       "xml_id": "2039999",
@@ -81,10 +81,10 @@
       "league": "南美解放者杯",
       "home": "博卡青年",
       "away": "天主大学",
-      "spf_win": "2.09",
-      "spf_draw": "3.13",
+      "spf_win": "2.14",
+      "spf_draw": "3.02",
       "spf_lost": "3.02",
-      "spf_updated": "2026-05-28 12:42:59",
+      "spf_updated": "2026-05-28 15:31:44",
       "gameid": "1398800",
       "kickoff_cst": "2026-05-29 08:30",
       "matchnum_label": "周四005",
@@ -162,24 +162,6 @@
       "matchnum_label": "周五004",
       "home_team_id": "546",
       "away_team_id": "861"
-    },
-    {
-      "xml_id": "2040021",
-      "matchnum": "5005",
-      "date": "2026-05-30",
-      "dayofweek": "星期六",
-      "league": "挪威超级联赛",
-      "home": "瓦勒伦加",
-      "away": "克里斯蒂安松",
-      "spf_win": "2.30",
-      "spf_draw": "3.40",
-      "spf_lost": "2.50",
-      "spf_updated": "2026-05-28 13:34:09",
-      "gameid": "1363620",
-      "kickoff_cst": "2026-05-30 01:00",
-      "matchnum_label": "周五005",
-      "home_team_id": "1242",
-      "away_team_id": "4338"
     },
     {
       "xml_id": "2040022",
