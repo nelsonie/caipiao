@@ -24,7 +24,7 @@
       "lost": "3.62",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-29T16:00:15Z"
+    "fetched_at_utc": "2026-05-29T16:10:11Z"
   },
   "shuju": {
     "title": "大阪钢巴VS东京绿茵(2026日职)-数据分析-500彩票网",
@@ -668,22 +668,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "半球",
-        "away_water": "0.920↓",
-        "time": "05-29 23:52"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "半球",
-        "away_water": "1.040",
-        "time": "05-25 21:01"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -697,6 +681,22 @@
         "handicap": "半球/一球",
         "away_water": "0.700",
         "time": "05-25 21:15"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "半球",
+        "away_water": "0.920↓",
+        "time": "05-29 23:52"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "半球",
+        "away_water": "1.040",
+        "time": "05-25 21:01"
       }
     },
     {
@@ -767,10 +767,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.940↑",
         "handicap": "半球",
-        "away_water": "0.940↓",
-        "time": "05-29 17:02"
+        "away_water": "0.950↓",
+        "time": "05-30 00:00"
       },
       "init": {
         "home_water": "0.840",
@@ -783,10 +783,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.900↑",
+        "home_water": "0.910↑",
         "handicap": "半球",
-        "away_water": "0.880↓",
-        "time": "05-29 23:39"
+        "away_water": "0.890↓",
+        "time": "05-30 00:03"
       },
       "init": {
         "home_water": "0.770",
