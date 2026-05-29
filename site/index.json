@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-29T06:50:17Z",
+  "last_updated_utc": "2026-05-29T07:00:12Z",
   "matches": [
     {
       "xml_id": "2040017",
@@ -63,10 +63,10 @@
       "league": "挪威超级联赛",
       "home": "奥勒松",
       "away": "汉坎",
-      "spf_win": "3.65",
+      "spf_win": "3.80",
       "spf_draw": "3.60",
-      "spf_lost": "1.73",
-      "spf_updated": "2026-05-28 13:34:09",
+      "spf_lost": "1.70",
+      "spf_updated": "2026-05-29 14:45:12",
       "gameid": "1363590",
       "kickoff_cst": "2026-05-30 01:00",
       "matchnum_label": "周五004",
@@ -252,6 +252,24 @@
       "matchnum_label": "周日001",
       "home_team_id": "5534",
       "away_team_id": "1164"
+    },
+    {
+      "xml_id": "2040055",
+      "matchnum": "7002",
+      "date": "2026-05-31",
+      "dayofweek": "星期天",
+      "league": "日本职业联赛",
+      "home": "清水鼓动",
+      "away": "横滨水手",
+      "spf_win": "5.15",
+      "spf_draw": "3.80",
+      "spf_lost": "1.49",
+      "spf_updated": "2026-05-29 09:28:17",
+      "gameid": "1412631",
+      "kickoff_cst": "2026-05-31 13:00",
+      "matchnum_label": "周日002",
+      "home_team_id": "1178",
+      "away_team_id": "870"
     }
   ]
 }
