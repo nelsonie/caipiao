@@ -24,7 +24,7 @@
       "lost": "1.71",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-29T08:10:08Z"
+    "fetched_at_utc": "2026-05-29T08:20:07Z"
   },
   "shuju": {
     "title": "奥尔格里特VS埃尔夫斯堡(2026瑞典超)-数据分析-500彩票网",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "受半球升",
-        "away_water": "0.860↓",
-        "time": "05-29 14:25"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "受半球/一球",
-        "away_water": "0.870",
-        "time": "05-25 22:51"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "平手",
         "away_water": "0.370",
         "time": "05-25 09:26"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "受半球升",
+        "away_water": "0.860↓",
+        "time": "05-29 14:25"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "受半球/一球",
+        "away_water": "0.870",
+        "time": "05-25 22:51"
       }
     },
     {
