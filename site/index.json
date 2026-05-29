@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-29T06:20:17Z",
+  "last_updated_utc": "2026-05-29T06:30:14Z",
   "matches": [
     {
       "xml_id": "2040017",
@@ -164,22 +164,22 @@
       "away_team_id": "494"
     },
     {
-      "xml_id": "2040039",
-      "matchnum": "6001",
+      "xml_id": "2040040",
+      "matchnum": "6002",
       "date": "2026-05-30",
       "dayofweek": "星期六",
       "league": "日本职业联赛",
-      "home": "神户胜利船",
-      "away": "鹿岛鹿角",
-      "spf_win": "5.25",
-      "spf_draw": "3.75",
-      "spf_lost": "1.49",
+      "home": "大阪钢巴",
+      "away": "东京绿茵",
+      "spf_win": "3.95",
+      "spf_draw": "3.35",
+      "spf_lost": "1.73",
       "spf_updated": "2026-05-29 09:28:17",
-      "gameid": "1412632",
-      "kickoff_cst": "2026-05-30 13:00",
-      "matchnum_label": "周六001",
-      "home_team_id": "492",
-      "away_team_id": "1029"
+      "gameid": "1412629",
+      "kickoff_cst": "2026-05-30 15:00",
+      "matchnum_label": "周六002",
+      "home_team_id": "752",
+      "away_team_id": "775"
     },
     {
       "xml_id": "2040041",
