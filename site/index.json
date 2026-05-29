@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-29T15:30:17Z",
+  "last_updated_utc": "2026-05-29T15:40:17Z",
   "matches": [
     {
       "xml_id": "2040017",
@@ -128,42 +128,6 @@
       "away_team_id": "3418"
     },
     {
-      "xml_id": "2040024",
-      "matchnum": "5008",
-      "date": "2026-05-30",
-      "dayofweek": "星期六",
-      "league": "国际赛",
-      "home": "波黑",
-      "away": "北马其顿",
-      "spf_win": "3.10",
-      "spf_draw": "3.07",
-      "spf_lost": "2.08",
-      "spf_updated": "2026-05-29 21:16:06",
-      "gameid": "1411412",
-      "kickoff_cst": "2026-05-30 02:30",
-      "matchnum_label": "周五008",
-      "home_team_id": "80",
-      "away_team_id": "85"
-    },
-    {
-      "xml_id": "2040025",
-      "matchnum": "5009",
-      "date": "2026-05-30",
-      "dayofweek": "星期六",
-      "league": "法国甲级联赛",
-      "home": "尼斯",
-      "away": "圣埃蒂安",
-      "spf_win": "3.95",
-      "spf_draw": "3.44",
-      "spf_lost": "1.71",
-      "spf_updated": "2026-05-29 20:20:49",
-      "gameid": "1411753",
-      "kickoff_cst": "2026-05-30 02:45",
-      "matchnum_label": "周五009",
-      "home_team_id": "1134",
-      "away_team_id": "494"
-    },
-    {
       "xml_id": "2040039",
       "matchnum": "6001",
       "date": "2026-05-30",
@@ -200,24 +164,6 @@
       "away_team_id": "775"
     },
     {
-      "xml_id": "2040041",
-      "matchnum": "6003",
-      "date": "2026-05-30",
-      "dayofweek": "星期六",
-      "league": "日本职业联赛",
-      "home": "京都不死鸟",
-      "away": "柏太阳神",
-      "spf_win": "1.53",
-      "spf_draw": "3.70",
-      "spf_lost": "4.90",
-      "spf_updated": "2026-05-29 09:28:17",
-      "gameid": "1412633",
-      "kickoff_cst": "2026-05-30 18:00",
-      "matchnum_label": "周六003",
-      "home_team_id": "907",
-      "away_team_id": "658"
-    },
-    {
       "xml_id": "2040052",
       "matchnum": "6014",
       "date": "2026-05-31",
@@ -234,42 +180,6 @@
       "matchnum_label": "周六014",
       "home_team_id": "647",
       "away_team_id": "554"
-    },
-    {
-      "xml_id": "2040054",
-      "matchnum": "7001",
-      "date": "2026-05-31",
-      "dayofweek": "星期天",
-      "league": "日本职业联赛",
-      "home": "冈山绿雉",
-      "away": "浦和红钻",
-      "spf_win": "1.52",
-      "spf_draw": "3.65",
-      "spf_lost": "5.10",
-      "spf_updated": "2026-05-29 09:28:17",
-      "gameid": "1412630",
-      "kickoff_cst": "2026-05-31 13:00",
-      "matchnum_label": "周日001",
-      "home_team_id": "5534",
-      "away_team_id": "1164"
-    },
-    {
-      "xml_id": "2040055",
-      "matchnum": "7002",
-      "date": "2026-05-31",
-      "dayofweek": "星期天",
-      "league": "日本职业联赛",
-      "home": "清水鼓动",
-      "away": "横滨水手",
-      "spf_win": "5.15",
-      "spf_draw": "3.80",
-      "spf_lost": "1.49",
-      "spf_updated": "2026-05-29 09:28:17",
-      "gameid": "1412631",
-      "kickoff_cst": "2026-05-31 13:00",
-      "matchnum_label": "周日002",
-      "home_team_id": "1178",
-      "away_team_id": "870"
     }
   ]
 }
