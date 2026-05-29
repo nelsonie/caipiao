@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-29T15:20:15Z",
+  "last_updated_utc": "2026-05-29T15:30:17Z",
   "matches": [
     {
       "xml_id": "2040017",
@@ -126,6 +126,24 @@
       "matchnum_label": "周五007",
       "home_team_id": "722",
       "away_team_id": "3418"
+    },
+    {
+      "xml_id": "2040024",
+      "matchnum": "5008",
+      "date": "2026-05-30",
+      "dayofweek": "星期六",
+      "league": "国际赛",
+      "home": "波黑",
+      "away": "北马其顿",
+      "spf_win": "3.10",
+      "spf_draw": "3.07",
+      "spf_lost": "2.08",
+      "spf_updated": "2026-05-29 21:16:06",
+      "gameid": "1411412",
+      "kickoff_cst": "2026-05-30 02:30",
+      "matchnum_label": "周五008",
+      "home_team_id": "80",
+      "away_team_id": "85"
     },
     {
       "xml_id": "2040025",
