@@ -24,7 +24,7 @@
       "lost": "2.72",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-29T11:30:13Z"
+    "fetched_at_utc": "2026-05-29T11:40:15Z"
   },
   "shuju": {
     "title": "巴黎圣日耳曼VS阿森纳(2025/2026欧冠)-数据分析-500彩票网",
@@ -407,8 +407,43 @@
         ],
         "subs": [
           {
-            "number": "14",
-            "name": "德西雷·杜埃",
+            "number": "87",
+            "name": "若昂·内维斯",
+            "position": "中场"
+          },
+          {
+            "number": "51",
+            "name": "威廉·帕乔",
+            "position": "后卫"
+          },
+          {
+            "number": "49",
+            "name": "易卜拉希姆·姆巴耶",
+            "position": "前锋"
+          },
+          {
+            "number": "47",
+            "name": "昆汀·恩詹图",
+            "position": "前锋"
+          },
+          {
+            "number": "39",
+            "name": "马特维·萨福诺夫",
+            "position": "守门员"
+          },
+          {
+            "number": "33",
+            "name": "瓦朗·扎伊尔-埃梅里",
+            "position": "中场"
+          },
+          {
+            "number": "30",
+            "name": "卢卡·舍瓦利耶",
+            "position": "守门员"
+          },
+          {
+            "number": "29",
+            "name": "布拉德利·巴尔科拉",
             "position": "前锋"
           },
           {
@@ -417,9 +452,14 @@
             "position": "中场"
           },
           {
-            "number": "87",
-            "name": "若昂·佩德罗·贡萨尔维斯·内维斯",
-            "position": "中场"
+            "number": "25",
+            "name": "努诺·门德斯",
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "阿什拉夫·哈基米",
+            "position": "后卫"
           },
           {
             "number": "21",
@@ -429,7 +469,22 @@
           {
             "number": "19",
             "name": "李刚仁",
+            "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "维蒂尼亚",
             "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "德西雷·杜埃",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "奥斯曼·登贝莱",
+            "position": "前锋"
           },
           {
             "number": "9",
@@ -437,14 +492,34 @@
             "position": "前锋"
           },
           {
-            "number": "24",
-            "name": "森尼·马尤鲁",
+            "number": "8",
+            "name": "法比安·鲁伊斯",
             "position": "中场"
           },
           {
-            "number": "49",
-            "name": "易卜拉希姆·姆巴耶",
+            "number": "7",
+            "name": "科维查·克瓦拉茨赫利亚",
             "position": "前锋"
+          },
+          {
+            "number": "6",
+            "name": "伊利亚·扎巴尔尼",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "马尔基尼奥斯",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "卢卡斯·贝拉尔多",
+            "position": "后卫"
+          },
+          {
+            "number": "24",
+            "name": "森尼·马尤鲁",
+            "position": "中场"
           },
           {
             "number": "89",
@@ -516,19 +591,19 @@
         ],
         "subs": [
           {
-            "number": "35",
-            "name": "汤米·霍根·塞特福德",
-            "position": "守门员"
+            "number": "16",
+            "name": "克里斯蒂安·内尔高",
+            "position": "中场"
           },
           {
-            "number": "7",
-            "name": "布卡约·萨卡",
+            "number": "19",
+            "name": "莱安德罗·特罗萨德",
             "position": "前锋"
           },
           {
-            "number": "41",
-            "name": "德克兰·赖斯",
-            "position": "中场"
+            "number": "13",
+            "name": "凯帕·阿里萨瓦拉加",
+            "position": "守门员"
           },
           {
             "number": "8",
@@ -536,13 +611,18 @@
             "position": "中场"
           },
           {
+            "number": "1",
+            "name": "戴维·拉亚",
+            "position": "守门员"
+          },
+          {
             "number": "23",
             "name": "米克尔·梅里诺",
             "position": "中场"
           },
           {
-            "number": "29",
-            "name": "凯·哈弗茨",
+            "number": "9",
+            "name": "加布里埃尔·热苏斯",
             "position": "前锋"
           },
           {
@@ -551,14 +631,79 @@
             "position": "前锋"
           },
           {
-            "number": "6",
-            "name": "加布里埃尔",
-            "position": "后卫"
+            "number": "29",
+            "name": "凯·哈弗茨",
+            "position": "前锋"
+          },
+          {
+            "number": "41",
+            "name": "德克兰·赖斯",
+            "position": "中场"
           },
           {
             "number": "10",
             "name": "埃贝雷奇·埃泽",
             "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "尤里恩·廷贝尔",
+            "position": "后卫"
+          },
+          {
+            "number": "11",
+            "name": "加布里埃尔·马丁内利",
+            "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "布卡约·萨卡",
+            "position": "前锋"
+          },
+          {
+            "number": "2",
+            "name": "威廉·萨利巴",
+            "position": "后卫"
+          },
+          {
+            "number": "36",
+            "name": "马丁·苏维门迪",
+            "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "诺尼·马杜埃凯",
+            "position": "前锋"
+          },
+          {
+            "number": "33",
+            "name": "里卡多·卡拉菲奥里",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "彼罗·因卡皮耶",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "克里斯蒂安·莫斯克拉",
+            "position": "后卫"
+          },
+          {
+            "number": "49",
+            "name": "迈尔斯·刘易斯-斯凯利",
+            "position": "后卫"
+          },
+          {
+            "number": "56",
+            "name": "马克斯·道曼",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "加布里埃尔",
+            "position": "后卫"
           }
         ],
         "injured": [],
