@@ -24,7 +24,7 @@
       "lost": "4.80",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-30T15:10:14Z"
+    "fetched_at_utc": "2026-05-30T15:20:11Z"
   },
   "shuju": {
     "title": "墨西哥VS澳大利亚(2026友谊赛)-数据分析-500彩票网",
@@ -660,10 +660,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.900↓",
+        "home_water": "0.820↓",
         "handicap": "半球/一球降",
-        "away_water": "0.900↑",
-        "time": "05-30 22:45"
+        "away_water": "0.970↑",
+        "time": "05-30 23:14"
       },
       "init": {
         "home_water": "1.030",
@@ -721,22 +721,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.830↑",
-        "time": "05-30 22:22"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "一球",
-        "away_water": "0.750",
-        "time": "05-09 19:20"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -750,6 +734,22 @@
         "handicap": "半球/一球",
         "away_water": "0.960",
         "time": "05-28 19:46"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.830↑",
+        "time": "05-30 22:22"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "一球",
+        "away_water": "0.750",
+        "time": "05-09 19:20"
       }
     },
     {
