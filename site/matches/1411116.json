@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-30T12:50:09Z"
+    "fetched_at_utc": "2026-05-30T13:00:09Z"
   },
   "shuju": {
     "title": "苏格兰VS库拉索(2026友谊赛)-数据分析-500彩票网",
@@ -443,18 +443,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "7",
-            "name": "儒尼尼奥·巴库纳",
-            "position": "前锋"
-          },
-          {
             "number": "9",
             "name": "于尔亨·洛卡迪亚",
             "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "陈达毅",
+            "number": "7",
+            "name": "儒尼尼奥·巴库纳",
             "position": "前锋"
           },
           {
@@ -463,18 +458,18 @@
             "position": "后卫"
           },
           {
-            "number": "23",
-            "name": "里赫德利·巴佐尔",
-            "position": "后卫"
-          },
-          {
             "number": "8",
             "name": "利瓦诺·科梅内西亚",
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "谢拉尔·弗洛拉努斯",
+            "number": "21",
+            "name": "陈达毅",
+            "position": "前锋"
+          },
+          {
+            "number": "24",
+            "name": "德弗伦·丰维尔",
             "position": "后卫"
           },
           {
@@ -483,13 +478,18 @@
             "position": "后卫"
           },
           {
+            "number": "23",
+            "name": "里赫德利·巴佐尔",
+            "position": "后卫"
+          },
+          {
             "number": "3",
             "name": "朱利安·加里",
             "position": "后卫"
           },
           {
-            "number": "24",
-            "name": "德弗伦·丰维尔",
+            "number": "5",
+            "name": "谢拉尔·弗洛拉努斯",
             "position": "后卫"
           },
           {
@@ -500,12 +500,12 @@
         ],
         "subs": [
           {
-            "number": "0",
+            "number": "17",
             "name": "布兰德利·库瓦斯",
             "position": "中场"
           },
           {
-            "number": "0",
+            "number": "19",
             "name": "赫尔瓦内·卡斯塔内尔",
             "position": "前锋"
           },
@@ -520,7 +520,7 @@
             "position": "前锋"
           },
           {
-            "number": "0",
+            "number": "26",
             "name": "特雷弗·多恩布施",
             "position": "守门员"
           },
@@ -540,7 +540,7 @@
             "position": "后卫"
           },
           {
-            "number": "17",
+            "number": "13",
             "name": "泰瑞斯·诺斯林",
             "position": "后卫"
           },
@@ -560,7 +560,7 @@
             "position": "后卫"
           },
           {
-            "number": "22",
+            "number": "25",
             "name": "泰里克· 博达克",
             "position": "守门员"
           },
@@ -570,7 +570,7 @@
             "position": "前锋"
           },
           {
-            "number": "0",
+            "number": "22",
             "name": "凯文·费利达",
             "position": "中场"
           }
