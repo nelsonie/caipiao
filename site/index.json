@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-30T11:10:20Z",
+  "last_updated_utc": "2026-05-30T11:20:15Z",
   "matches": [
     {
       "xml_id": "2040039",
@@ -63,10 +63,10 @@
       "league": "国际赛",
       "home": "苏格兰",
       "away": "库拉索",
-      "spf_win": "2.48",
-      "spf_draw": "3.80",
-      "spf_lost": "2.16",
-      "spf_updated": "2026-05-30 19:06:29",
+      "spf_win": "2.61",
+      "spf_draw": "3.90",
+      "spf_lost": "2.04",
+      "spf_updated": "2026-05-30 19:15:56",
       "gameid": "1411116",
       "kickoff_cst": "2026-05-30 20:00",
       "matchnum_label": "周六004",
@@ -360,6 +360,24 @@
       "matchnum_label": "周日006",
       "home_team_id": "245",
       "away_team_id": "1764"
+    },
+    {
+      "xml_id": "2040061",
+      "matchnum": "7008",
+      "date": "2026-05-31",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "AC奥卢",
+      "away": "雅罗",
+      "spf_win": "2.92",
+      "spf_draw": "3.30",
+      "spf_lost": "2.07",
+      "spf_updated": "2026-05-30 09:26:04",
+      "gameid": "1363385",
+      "kickoff_cst": "2026-05-31 21:00",
+      "matchnum_label": "周日008",
+      "home_team_id": "363",
+      "away_team_id": "743"
     }
   ]
 }
