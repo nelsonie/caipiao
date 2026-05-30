@@ -24,7 +24,7 @@
       "lost": "4.70",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-30T14:30:13Z"
+    "fetched_at_utc": "2026-05-30T14:40:10Z"
   },
   "shuju": {
     "title": "莫尔德VS桑纳菲尤尔(2026挪超)-数据分析-500彩票网",
@@ -542,13 +542,13 @@
             "position": "后卫"
           },
           {
-            "number": "2",
-            "name": "齐内丁·斯马伊洛维奇",
+            "number": "44",
+            "name": "山德·兰布里克斯",
             "position": "后卫"
           },
           {
-            "number": "44",
-            "name": "山德·兰布里克斯",
+            "number": "2",
+            "name": "齐内丁·斯马伊洛维奇",
             "position": "后卫"
           },
           {
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.040↑",
-        "handicap": "一球升",
-        "away_water": "0.790↓",
-        "time": "05-30 21:57"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "半球/一球",
-        "away_water": "0.810",
-        "time": "05-23 23:33"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "半球/一球",
         "away_water": "0.970",
         "time": "05-25 22:47"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.040↑",
+        "handicap": "一球升",
+        "away_water": "0.790↓",
+        "time": "05-30 21:57"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "半球/一球",
+        "away_water": "0.810",
+        "time": "05-23 23:33"
       }
     },
     {
