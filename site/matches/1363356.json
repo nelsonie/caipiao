@@ -24,7 +24,7 @@
       "lost": "11.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-30T12:10:09Z"
+    "fetched_at_utc": "2026-05-30T12:20:11Z"
   },
   "shuju": {
     "title": "赫尔辛基VS玛丽港(2026芬超)-数据分析-500彩票网",
@@ -398,19 +398,24 @@
         "formation": null,
         "starters": [
           {
+            "number": "9",
+            "name": "马兹·博彻斯",
+            "position": "前锋"
+          },
+          {
             "number": "7",
             "name": "阿尔菲·西卡莱",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "19",
             "name": "大卫·艾泽克",
-            "position": "前锋"
+            "position": "中场"
           },
           {
-            "number": "9",
-            "name": "马兹·博彻斯",
-            "position": "前锋"
+            "number": "22",
+            "name": "利亚姆·穆勒",
+            "position": "中场"
           },
           {
             "number": "10",
@@ -420,11 +425,6 @@
           {
             "number": "4",
             "name": "亚历山大·林",
-            "position": "中场"
-          },
-          {
-            "number": "22",
-            "name": "利亚姆·穆勒",
             "position": "中场"
           },
           {
@@ -502,6 +502,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "64",
+            "name": "玛洛·海沃宁",
+            "position": "前锋"
+          },
+          {
             "number": "43",
             "name": "利奥·安德森",
             "position": "前锋"
@@ -512,13 +517,13 @@
             "position": "前锋"
           },
           {
-            "number": "64",
-            "name": "玛洛·海沃宁",
+            "number": "20",
+            "name": "埃马纽埃尔·帕图",
             "position": "中场"
           },
           {
-            "number": "20",
-            "name": "埃马纽埃尔·帕图",
+            "number": "2",
+            "name": "诺阿·努尔米",
             "position": "中场"
           },
           {
@@ -529,11 +534,6 @@
           {
             "number": "31",
             "name": "萨姆森·恩古卢贝",
-            "position": "后卫"
-          },
-          {
-            "number": "2",
-            "name": "诺阿·努尔米",
             "position": "后卫"
           },
           {
