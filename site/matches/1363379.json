@@ -24,7 +24,7 @@
       "lost": "2.52",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-30T07:40:11Z"
+    "fetched_at_utc": "2026-05-30T07:50:13Z"
   },
   "shuju": {
     "title": "拉赫蒂VS埃尔维斯(2026芬超)-数据分析-500彩票网",
@@ -655,7 +655,7 @@
         "home_water": "1.050↑",
         "handicap": "平手/半球升",
         "away_water": "0.750↓",
-        "time": "05-30 15:32"
+        "time": "05-30 15:42"
       },
       "init": {
         "home_water": "0.850",
@@ -686,8 +686,8 @@
       "live": {
         "home_water": "0.800↓",
         "handicap": "平手",
-        "away_water": "1.070↑",
-        "time": "05-30 15:08"
+        "away_water": "1.080↑",
+        "time": "05-30 15:46"
       },
       "init": {
         "home_water": "0.880",
@@ -713,22 +713,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.740↓",
-        "time": "05-30 15:23"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "平手",
-        "away_water": "0.950",
-        "time": "05-24 00:30"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -742,6 +726,22 @@
         "handicap": "平手",
         "away_water": "0.930",
         "time": "05-27 22:11"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.730↓",
+        "time": "05-30 15:35"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "平手",
+        "away_water": "0.950",
+        "time": "05-24 00:30"
       }
     },
     {
