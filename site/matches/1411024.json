@@ -24,7 +24,7 @@
       "lost": "11.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-31T12:40:08Z"
+    "fetched_at_utc": "2026-05-31T12:50:06Z"
   },
   "shuju": {
     "title": "日本VS冰岛(2026友谊赛)-数据分析-500彩票网",
@@ -708,22 +708,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "两球升",
-        "away_water": "0.880↑",
-        "time": "05-31 18:19"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "球半",
-        "away_water": "0.860",
-        "time": "05-28 19:46"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -737,6 +721,22 @@
         "handicap": "球半",
         "away_water": "1.010",
         "time": "05-11 18:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "两球升",
+        "away_water": "0.880↑",
+        "time": "05-31 18:19"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "球半",
+        "away_water": "0.860",
+        "time": "05-28 19:46"
       }
     },
     {
