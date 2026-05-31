@@ -24,7 +24,7 @@
       "lost": "5.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-31T03:30:10Z"
+    "fetched_at_utc": "2026-05-31T03:40:10Z"
   },
   "shuju": {
     "title": "捷克VS科索沃(2026友谊赛)-数据分析-500彩票网",
@@ -714,22 +714,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "半球/一球",
-        "away_water": "0.930↑",
-        "time": "05-31 07:26"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "半球/一球",
-        "away_water": "0.920",
-        "time": "05-28 20:06"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -743,6 +727,22 @@
         "handicap": "一球",
         "away_water": "0.860",
         "time": "05-13 12:35"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "半球/一球",
+        "away_water": "0.930↑",
+        "time": "05-31 07:26"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "半球/一球",
+        "away_water": "0.920",
+        "time": "05-28 20:06"
       }
     },
     {
