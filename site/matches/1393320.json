@@ -24,7 +24,7 @@
       "lost": "9.50",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-31T14:20:09Z"
+    "fetched_at_utc": "2026-05-31T14:30:10Z"
   },
   "shuju": {
     "title": "瑞士VS约旦(2026友谊赛)-数据分析-500彩票网",
@@ -341,9 +341,9 @@
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "丹·恩多耶",
-            "position": "前锋"
+            "number": "9",
+            "name": "约翰·曼赞比",
+            "position": "中场"
           },
           {
             "number": "20",
@@ -361,18 +361,18 @@
             "position": "中场"
           },
           {
-            "number": "9",
-            "name": "约翰·曼赞比",
-            "position": "中场"
-          },
-          {
-            "number": "5",
-            "name": "曼努埃尔·阿坎吉",
-            "position": "后卫"
+            "number": "11",
+            "name": "丹·恩多耶",
+            "position": "前锋"
           },
           {
             "number": "4",
             "name": "尼克·埃尔维迪",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "曼努埃尔·阿坎吉",
             "position": "后卫"
           },
           {
@@ -470,11 +470,6 @@
         "formation": null,
         "starters": [
           {
-            "number": "13",
-            "name": "马赫穆德·马迪",
-            "position": "中场"
-          },
-          {
             "number": "9",
             "name": "阿里·奥尔万",
             "position": "前锋"
@@ -485,13 +480,8 @@
             "position": "前锋"
           },
           {
-            "number": "20",
-            "name": "穆罕默德·阿布塔哈",
-            "position": "中场"
-          },
-          {
-            "number": "21",
-            "name": "纳扎尔·拉什丹",
+            "number": "13",
+            "name": "马赫穆德·马迪",
             "position": "中场"
           },
           {
@@ -500,14 +490,14 @@
             "position": "中场"
           },
           {
-            "number": "23",
-            "name": "伊赫桑·哈达迪",
+            "number": "21",
+            "name": "纳扎尔·拉什丹",
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "亚赞·阿拉伯",
-            "position": "后卫"
+            "number": "20",
+            "name": "穆罕默德·阿布塔哈",
+            "position": "中场"
           },
           {
             "number": "16",
@@ -515,9 +505,19 @@
             "position": "后卫"
           },
           {
+            "number": "5",
+            "name": "亚赞·阿拉伯",
+            "position": "后卫"
+          },
+          {
             "number": "19",
             "name": "赛义德·罗桑",
             "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "伊赫桑·哈达迪",
+            "position": "中场"
           },
           {
             "number": "1",
