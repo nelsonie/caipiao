@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-05-31T21:30:07Z'
-total_matches: 1
-leagues_covered:
-- 国际赛
+last_updated_utc: '2026-05-31T21:40:05Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 国际赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 7012 | 2026-06-01 星期一 | 巴西 vs 巴拿马 | 1.82/3.90/3.10 | [1411006](matches/1411006.md) |
