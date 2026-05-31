@@ -24,7 +24,7 @@
       "lost": "13.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-05-31T05:40:10Z"
+    "fetched_at_utc": "2026-05-31T05:50:10Z"
   },
   "shuju": {
     "title": "巴西VS巴拿马(2026友谊赛)-数据分析-500彩票网",
@@ -673,10 +673,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "1.000↑",
         "handicap": "两球半升",
-        "away_water": "0.870↓",
-        "time": "05-31 12:21"
+        "away_water": "0.820↓",
+        "time": "05-31 13:34"
       },
       "init": {
         "home_water": "0.850",
@@ -702,29 +702,13 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.050↑",
-        "handicap": "两球半",
-        "away_water": "0.870↑",
-        "time": "05-31 12:54"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "两球半",
-        "away_water": "0.720",
-        "time": "05-18 22:32"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "0.950↑",
-        "handicap": "两球半升",
-        "away_water": "0.780↓",
-        "time": "05-31 12:44"
+        "home_water": "0.780↓",
+        "handicap": "两球/两球半",
+        "away_water": "0.960↑",
+        "time": "05-31 13:44"
       },
       "init": {
         "home_water": "0.810",
@@ -734,13 +718,29 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.740↓",
+        "handicap": "两球/两球半降",
+        "away_water": "0.910↑",
+        "time": "05-31 13:44"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "两球半",
+        "away_water": "0.720",
+        "time": "05-18 22:32"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
         "home_water": "1.010↑",
         "handicap": "两球半升",
-        "away_water": "0.820↑",
-        "time": "05-31 11:18"
+        "away_water": "0.810↑",
+        "time": "05-31 13:40"
       },
       "init": {
         "home_water": "0.990",
@@ -753,10 +753,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.850↑",
+        "home_water": "0.890↑",
         "handicap": "两球/两球半",
-        "away_water": "0.990↓",
-        "time": "05-31 12:44"
+        "away_water": "0.950↓",
+        "time": "05-31 13:44"
       },
       "init": {
         "home_water": "0.820",
@@ -833,10 +833,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "1.020↑",
-        "handicap": "两球半升",
-        "away_water": "0.800↓",
-        "time": "05-31 13:00"
+        "home_water": "0.810↓",
+        "handicap": "两球/两球半升",
+        "away_water": "1.010↑",
+        "time": "05-31 13:46"
       },
       "init": {
         "home_water": "0.910",
