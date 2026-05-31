@@ -24,7 +24,7 @@
       "lost": "4.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-05-31T15:30:10Z"
+    "fetched_at_utc": "2026-05-31T15:40:09Z"
   },
   "shuju": {
     "title": "AC奥卢VS查路(2026芬超)-数据分析-500彩票网",
@@ -718,22 +718,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↑",
-        "handicap": "半球/一球",
-        "away_water": "1.020↓",
-        "time": "05-31 21:02"
-      },
-      "init": {
-        "home_water": "0.770",
-        "handicap": "半球/一球",
-        "away_water": "1.060",
-        "time": "05-28 21:44"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -747,6 +731,22 @@
         "handicap": "一球",
         "away_water": "0.570",
         "time": "05-24 21:24"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↑",
+        "handicap": "半球/一球",
+        "away_water": "1.020↓",
+        "time": "05-31 21:02"
+      },
+      "init": {
+        "home_water": "0.770",
+        "handicap": "半球/一球",
+        "away_water": "1.060",
+        "time": "05-28 21:44"
       }
     },
     {
