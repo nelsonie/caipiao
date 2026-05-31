@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-05-31T13:10:11Z",
+  "last_updated_utc": "2026-05-31T13:20:11Z",
   "matches": [
     {
       "xml_id": "2040054",
@@ -110,24 +110,6 @@
       "away_team_id": "1764"
     },
     {
-      "xml_id": "2040060",
-      "matchnum": "7007",
-      "date": "2026-05-31",
-      "dayofweek": "星期天",
-      "league": "国际赛",
-      "home": "瑞士",
-      "away": "约旦",
-      "spf_win": "2.39",
-      "spf_draw": "3.75",
-      "spf_lost": "2.25",
-      "spf_updated": "2026-05-31 19:40:17",
-      "gameid": "1393320",
-      "kickoff_cst": "2026-05-31 21:00",
-      "matchnum_label": "周日007",
-      "home_team_id": "46",
-      "away_team_id": "87"
-    },
-    {
       "xml_id": "2040061",
       "matchnum": "7008",
       "date": "2026-05-31",
@@ -207,10 +189,10 @@
       "league": "国际赛",
       "home": "捷克",
       "away": "科索沃",
-      "spf_win": "2.90",
-      "spf_draw": "3.13",
-      "spf_lost": "2.15",
-      "spf_updated": "2026-05-31 16:28:59",
+      "spf_win": "3.06",
+      "spf_draw": "3.18",
+      "spf_lost": "2.05",
+      "spf_updated": "2026-05-31 21:11:53",
       "gameid": "1411239",
       "kickoff_cst": "2026-05-31 22:00",
       "matchnum_label": "周日009",
