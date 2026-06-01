@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-01T17:10:09Z",
+  "last_updated_utc": "2026-06-01T17:20:07Z",
   "matches": [
     {
       "xml_id": "2040067",
@@ -54,6 +54,24 @@
       "matchnum_label": "周一005",
       "home_team_id": "6",
       "away_team_id": "8"
+    },
+    {
+      "xml_id": "2040070",
+      "matchnum": "1006",
+      "date": "2026-06-02",
+      "dayofweek": "星期二",
+      "league": "国际赛",
+      "home": "加拿大",
+      "away": "乌兹别克斯坦",
+      "spf_win": "2.88",
+      "spf_draw": "3.07",
+      "spf_lost": "2.19",
+      "spf_updated": "2026-06-01 18:49:39",
+      "gameid": "1393323",
+      "kickoff_cst": "2026-06-02 09:00",
+      "matchnum_label": "周一006",
+      "home_team_id": "72",
+      "away_team_id": "91"
     }
   ]
 }
