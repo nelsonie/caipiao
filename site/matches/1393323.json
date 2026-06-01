@@ -24,7 +24,7 @@
       "lost": "5.65",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-01T07:30:08Z"
+    "fetched_at_utc": "2026-06-01T07:40:06Z"
   },
   "shuju": {
     "title": "加拿大VS乌兹别克斯坦(2026友谊赛)-数据分析-500彩票网",
@@ -716,22 +716,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.720↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.930↑",
-        "time": "06-01 13:27"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "一球",
-        "away_water": "0.800",
-        "time": "05-09 19:20"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -745,6 +729,22 @@
         "handicap": "一球",
         "away_water": "0.960",
         "time": "05-28 19:46"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.720↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.930↑",
+        "time": "06-01 13:27"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "一球",
+        "away_water": "0.800",
+        "time": "05-09 19:20"
       }
     },
     {
