@@ -24,7 +24,7 @@
       "lost": "2.32",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-01T06:50:06Z"
+    "fetched_at_utc": "2026-06-01T07:00:06Z"
   },
   "shuju": {
     "title": "保加利亚VS黑山(2026友谊赛)-数据分析-500彩票网",
@@ -773,22 +773,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "平手",
-        "away_water": "0.970↑",
-        "time": "06-01 13:27"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "平手",
-        "away_water": "0.720",
-        "time": "05-22 10:55"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -802,6 +786,22 @@
         "handicap": "平手",
         "away_water": "0.760",
         "time": "05-28 21:04"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "平手",
+        "away_water": "0.970↑",
+        "time": "06-01 13:27"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "平手",
+        "away_water": "0.720",
+        "time": "05-22 10:55"
       }
     },
     {
