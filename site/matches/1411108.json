@@ -24,7 +24,7 @@
       "lost": "7.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-01T03:50:07Z"
+    "fetched_at_utc": "2026-06-01T04:00:09Z"
   },
   "shuju": {
     "title": "奥地利VS突尼斯(2026友谊赛)-数据分析-500彩票网",
@@ -716,22 +716,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "一球",
-        "away_water": "0.880↑",
-        "time": "06-01 11:27"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "一球",
-        "away_water": "0.750",
-        "time": "05-29 15:45"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -745,6 +729,22 @@
         "handicap": "半球/一球",
         "away_water": "0.910",
         "time": "05-28 20:20"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "一球",
+        "away_water": "0.880↑",
+        "time": "06-01 11:27"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "一球",
+        "away_water": "0.750",
+        "time": "05-29 15:45"
       }
     },
     {
