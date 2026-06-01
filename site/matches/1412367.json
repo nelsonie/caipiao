@@ -24,7 +24,7 @@
       "lost": "2.32",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-01T15:30:09Z"
+    "fetched_at_utc": "2026-06-01T15:40:08Z"
   },
   "shuju": {
     "title": "保加利亚VS黑山(2026友谊赛)-数据分析-500彩票网",
@@ -398,8 +398,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "17",
-            "name": "马丁·明切夫",
+            "number": "25",
+            "name": "卢卡斯·佩特科夫",
+            "position": "前锋"
+          },
+          {
+            "number": "18",
+            "name": "托尼斯拉夫·约尔达诺夫",
             "position": "前锋"
           },
           {
@@ -408,9 +413,9 @@
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "扎德拉维科·迪米特洛夫",
-            "position": "前锋"
+            "number": "15",
+            "name": "尼古拉·利耶夫",
+            "position": "中场"
           },
           {
             "number": "8",
@@ -418,14 +423,9 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "菲力浦·克拉斯特夫",
+            "number": "24",
+            "name": "佩特科·帕纳约托夫",
             "position": "中场"
-          },
-          {
-            "number": "22",
-            "name": "克里斯蒂安·斯托亚诺夫",
-            "position": "后卫"
           },
           {
             "number": "21",
@@ -433,13 +433,75 @@
             "position": "后卫"
           },
           {
-            "number": "5",
+            "number": "14",
             "name": "特奥多尔·伊万诺夫",
             "position": "后卫"
           },
           {
-            "number": "15",
-            "name": "佩特科·赫里斯托夫",
+            "number": "5",
+            "name": "克里斯蒂安·迪米特洛夫",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "帕特里克·加百列·加尔切夫",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "丹尼尔·瑙莫夫",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "23",
+            "name": "马丁·韦利奇科夫",
+            "position": "守门员"
+          },
+          {
+            "number": "19",
+            "name": "伊凡·图里佐夫",
+            "position": "后卫"
+          },
+          {
+            "number": "7",
+            "name": "伯里斯拉夫·特索涅夫",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "埃米尔·特谢诺夫",
+            "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "迪米塔斯坦诺夫",
+            "position": "守门员"
+          },
+          {
+            "number": "11",
+            "name": "乔治·鲁塞夫",
+            "position": "前锋"
+          },
+          {
+            "number": "6",
+            "name": "克里斯蒂安·佩特罗夫",
+            "position": "后卫"
+          },
+          {
+            "number": "9",
+            "name": "弗拉基米尔·尼科洛夫",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "马丁·明切夫",
+            "position": "前锋"
+          },
+          {
+            "number": "3",
+            "name": "安德列·克里斯托夫",
             "position": "后卫"
           },
           {
@@ -448,16 +510,9 @@
             "position": "后卫"
           },
           {
-            "number": "1",
-            "name": "迪米塔尔·米托夫",
-            "position": "守门员"
-          }
-        ],
-        "subs": [
-          {
-            "number": "13",
-            "name": "伯克·贝汉",
-            "position": "中场"
+            "number": "10",
+            "name": "扎德拉维科·迪米特洛夫",
+            "position": "前锋"
           },
           {
             "number": "2",
@@ -465,59 +520,14 @@
             "position": "后卫"
           },
           {
-            "number": "11",
-            "name": "尼古拉·利耶夫",
+            "number": "26",
+            "name": "伯克·贝汉",
             "position": "中场"
           },
           {
             "number": "12",
-            "name": "丹尼尔·瑙莫夫",
-            "position": "守门员"
-          },
-          {
-            "number": "9",
-            "name": "弗拉基米尔·尼科洛夫",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "克里斯蒂安·佩特罗夫",
+            "name": "埃菲·阿里",
             "position": "后卫"
-          },
-          {
-            "number": "7",
-            "name": "乔治·鲁塞夫",
-            "position": "前锋"
-          },
-          {
-            "number": "3",
-            "name": "埃米尔·特谢诺夫",
-            "position": "中场"
-          },
-          {
-            "number": "19",
-            "name": "伊凡·图里佐夫",
-            "position": "后卫"
-          },
-          {
-            "number": "23",
-            "name": "马丁·韦利奇科夫",
-            "position": "守门员"
-          },
-          {
-            "number": "25",
-            "name": "多米尼克·扬科夫",
-            "position": "中场"
-          },
-          {
-            "number": "26",
-            "name": "托尼斯拉夫·约尔达诺夫",
-            "position": "前锋"
-          },
-          {
-            "number": "18",
-            "name": "克里斯蒂安·巴洛夫",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -528,37 +538,37 @@
         "starters": [
           {
             "number": "9",
-            "name": "尼古拉·科斯托维奇",
+            "name": "安德烈·科斯蒂克",
             "position": "前锋"
           },
           {
-            "number": "20",
-            "name": "米卢·奥斯马吉",
+            "number": "22",
+            "name": "维克托·久卡诺维奇",
             "position": "前锋"
           },
           {
-            "number": "24",
-            "name": "塞亚德·哈克萨巴诺维奇",
-            "position": "前锋"
-          },
-          {
-            "number": "21",
-            "name": "安德里亚·布拉托维奇",
-            "position": "中场"
-          },
-          {
-            "number": "10",
-            "name": "马科·扬科维奇",
-            "position": "中场"
-          },
-          {
-            "number": "18",
+            "number": "8",
             "name": "德里顿·卡玛吉",
             "position": "前锋"
           },
           {
-            "number": "2",
-            "name": "安德里亚·武科切维奇",
+            "number": "11",
+            "name": "米兰·武科迪奇",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "斯特凡·隆卡尔",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "米洛斯·布尔诺维奇",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "安德里亚·拉兹纳托维奇",
             "position": "后卫"
           },
           {
@@ -567,18 +577,18 @@
             "position": "后卫"
           },
           {
-            "number": "15",
-            "name": "斯蒂芬·萨维奇",
+            "number": "6",
+            "name": "斯洛博丹·鲁贝季奇",
             "position": "后卫"
           },
           {
-            "number": "23",
-            "name": "亚当·马鲁西奇",
+            "number": "2",
+            "name": "米兰·罗迦诺维奇",
             "position": "后卫"
           },
           {
-            "number": "12",
-            "name": "达尼杰尔·佩特科维奇",
+            "number": "1",
+            "name": "巴尔萨·波波维奇",
             "position": "守门员"
           }
         ],
