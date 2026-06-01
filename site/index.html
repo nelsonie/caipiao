@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>今日全部对阵 (0 场) · caipiao</title>
+<title>今日全部对阵 (6 场) · caipiao</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="alternate" type="text/markdown" href="index.md">
 <style>
@@ -82,10 +82,113 @@ button:disabled { opacity: .5; cursor: default; }
   <a href="/_meta.json">_meta.json</a>
 </nav>
 <main>
-<h1>今日全部对阵 (0 场)</h1>
-<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-06-01T03:00:06Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">0</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v"></div></div></div>
+<h1>今日全部对阵 (6 场)</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-06-01T03:10:07Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">6</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v">国际赛</div></div></div>
+
+<section class="quick">
+  <h2>快查（6 场 · 按日期升序）</h2>
+  <ul>
+    <li><span class="meta">2026-06-02 · 国际赛</span><span class="teams">保加利亚 vs 黑山</span><a class="url" href="/matches/1412367.html">{ORIGIN}/matches/1412367.html</a></li>
+<li><span class="meta">2026-06-02 · 国际赛</span><span class="teams">挪威 vs 瑞典</span><a class="url" href="/matches/1406335.html">{ORIGIN}/matches/1406335.html</a></li>
+<li><span class="meta">2026-06-02 · 国际赛</span><span class="teams">土耳其 vs 北马其顿</span><a class="url" href="/matches/1411023.html">{ORIGIN}/matches/1411023.html</a></li>
+<li><span class="meta">2026-06-02 · 国际赛</span><span class="teams">奥地利 vs 突尼斯</span><a class="url" href="/matches/1411108.html">{ORIGIN}/matches/1411108.html</a></li>
+<li><span class="meta">2026-06-02 · 国际赛</span><span class="teams">哥伦比亚 vs 哥斯达黎加</span><a class="url" href="/matches/1411022.html">{ORIGIN}/matches/1411022.html</a></li>
+<li><span class="meta">2026-06-02 · 国际赛</span><span class="teams">加拿大 vs 乌兹别克斯坦</span><a class="url" href="/matches/1393323.html">{ORIGIN}/matches/1393323.html</a></li>
+  </ul>
+  <button id="copy-all" type="button">复制全部对阵及链接</button>
+  <p class="hint">点按钮会把每场一行，格式：<code>日期 联赛 主队 vs 客队 URL</code>，复制到剪贴板。</p>
+  <script>
+    (function () {
+      var ITEMS = [{"line": "2026-06-02 国际赛 保加利亚 vs 黑山 {ORIGIN}/matches/1412367.html"}, {"line": "2026-06-02 国际赛 挪威 vs 瑞典 {ORIGIN}/matches/1406335.html"}, {"line": "2026-06-02 国际赛 土耳其 vs 北马其顿 {ORIGIN}/matches/1411023.html"}, {"line": "2026-06-02 国际赛 奥地利 vs 突尼斯 {ORIGIN}/matches/1411108.html"}, {"line": "2026-06-02 国际赛 哥伦比亚 vs 哥斯达黎加 {ORIGIN}/matches/1411022.html"}, {"line": "2026-06-02 国际赛 加拿大 vs 乌兹别克斯坦 {ORIGIN}/matches/1393323.html"}];
+      var origin = location.origin;
+      // 页面加载时把 li 里的 {ORIGIN} 占位符都换成真实域名
+      document.querySelectorAll('.quick .url').forEach(function (a) {
+        if (a.textContent.indexOf('{ORIGIN}') === 0) {
+          a.textContent = origin + a.textContent.slice('{ORIGIN}'.length);
+        }
+      });
+      var btn = document.getElementById('copy-all');
+      btn.addEventListener('click', function () {
+        var text = ITEMS.map(function (it) { return it.line.replace('{ORIGIN}', origin); }).join('\n');
+        var done = function () {
+          var prev = btn.textContent;
+          btn.textContent = '已复制 ' + ITEMS.length + ' 条 ✓';
+          btn.disabled = true;
+          setTimeout(function () { btn.textContent = prev; btn.disabled = false; }, 2000);
+        };
+        if (navigator.clipboard && window.isSecureContext) {
+          navigator.clipboard.writeText(text).then(done, function (err) {
+            alert('复制失败：' + err);
+          });
+        } else {
+          var ta = document.createElement('textarea');
+          ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+          document.body.appendChild(ta); ta.select();
+          try { document.execCommand('copy'); done(); } catch (e) { alert('复制失败'); }
+          document.body.removeChild(ta);
+        }
+      });
+    })();
+  </script>
+</section>
 
 <h1>今日全部对阵</h1>
+<h2>国际赛 (6)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1001</td>
+<td>2026-06-02 星期二</td>
+<td>保加利亚 vs 黑山</td>
+<td>1.47/3.75/5.50</td>
+<td><a href="matches/1412367.html">1412367</a></td>
+</tr>
+<tr>
+<td>1002</td>
+<td>2026-06-02 星期二</td>
+<td>挪威 vs 瑞典</td>
+<td>3.12/3.45/1.93</td>
+<td><a href="matches/1406335.html">1406335</a></td>
+</tr>
+<tr>
+<td>1003</td>
+<td>2026-06-02 星期二</td>
+<td>土耳其 vs 北马其顿</td>
+<td>2.86/3.85/1.93</td>
+<td><a href="matches/1411023.html">1411023</a></td>
+</tr>
+<tr>
+<td>1004</td>
+<td>2026-06-02 星期二</td>
+<td>奥地利 vs 突尼斯</td>
+<td>2.17/3.30/2.75</td>
+<td><a href="matches/1411108.html">1411108</a></td>
+</tr>
+<tr>
+<td>1005</td>
+<td>2026-06-02 星期二</td>
+<td>哥伦比亚 vs 哥斯达黎加</td>
+<td>1.97/3.80/2.80</td>
+<td><a href="matches/1411022.html">1411022</a></td>
+</tr>
+<tr>
+<td>1006</td>
+<td>2026-06-02 星期二</td>
+<td>加拿大 vs 乌兹别克斯坦</td>
+<td>2.67/3.20/2.27</td>
+<td><a href="matches/1393323.html">1393323</a></td>
+</tr>
+</tbody>
+</table></div>
 </main>
 <footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
 </body>
