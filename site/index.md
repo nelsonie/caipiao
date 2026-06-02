@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-06-02T18:50:05Z'
-total_matches: 1
-leagues_covered:
-- 国际赛
+last_updated_utc: '2026-06-02T19:00:06Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 国际赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 2203 | 2026-06-03 星期三 | 威尔士 vs 加纳 | 4.65/3.71/1.55 | [1411394](matches/1411394.md) |
