@@ -24,7 +24,7 @@
       "lost": "3.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-02T06:00:07Z"
+    "fetched_at_utc": "2026-06-02T06:10:05Z"
   },
   "shuju": {
     "title": "格鲁吉亚VS罗马尼亚(2026友谊赛)-数据分析-500彩票网",
@@ -674,10 +674,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.900",
         "handicap": "平手/半球",
-        "away_water": "0.930↑",
-        "time": "06-02 13:29"
+        "away_water": "0.900",
+        "time": "06-02 13:43"
       },
       "init": {
         "home_water": "0.900",
@@ -722,16 +722,32 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.940↑",
+        "home_water": "0.920↑",
         "handicap": "平手/半球",
-        "away_water": "0.900↓",
-        "time": "06-02 13:32"
+        "away_water": "0.930↓",
+        "time": "06-02 13:44"
       },
       "init": {
         "home_water": "0.890",
         "handicap": "平手/半球",
         "away_water": "0.950",
         "time": "06-02 10:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↑",
+        "handicap": "平手/半球",
+        "away_water": "0.880↓",
+        "time": "06-02 13:40"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "平手/半球",
+        "away_water": "0.910",
+        "time": "05-28 20:20"
       }
     },
     {
@@ -748,22 +764,6 @@
         "handicap": "平手",
         "away_water": "1.360",
         "time": "05-22 10:45"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↑",
-        "handicap": "平手/半球",
-        "away_water": "0.870↓",
-        "time": "06-02 13:25"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "平手/半球",
-        "away_water": "0.910",
-        "time": "05-28 20:20"
       }
     },
     {
@@ -786,10 +786,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.930↑",
+        "home_water": "0.880↑",
         "handicap": "平手/半球",
-        "away_water": "0.910↓",
-        "time": "06-02 13:18"
+        "away_water": "0.960↓",
+        "time": "06-02 13:40"
       },
       "init": {
         "home_water": "0.840",
@@ -834,10 +834,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.880↑",
+        "home_water": "0.870↑",
         "handicap": "平手/半球",
-        "away_water": "0.880↓",
-        "time": "06-02 13:16"
+        "away_water": "0.890↓",
+        "time": "06-02 13:40"
       },
       "init": {
         "home_water": "0.810",
@@ -850,10 +850,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.940↑",
+        "home_water": "0.920↑",
         "handicap": "平手/半球",
-        "away_water": "0.880↓",
-        "time": "06-02 13:16"
+        "away_water": "0.900↓",
+        "time": "06-02 13:41"
       },
       "init": {
         "home_water": "0.850",
@@ -1553,7 +1553,7 @@
     {
       "cid": "291",
       "company": "U****t (优*客)",
-      "time": "2026-06-01 04:39:44",
+      "time": "2026-06-02 13:57:30",
       "odds": {
         "live": [
           "2.05",
