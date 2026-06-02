@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-06-02T01:00:05Z'
-total_matches: 1
-leagues_covered:
-- 国际赛
+last_updated_utc: '2026-06-02T01:10:05Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 国际赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 1006 | 2026-06-02 星期二 | 加拿大 vs 乌兹别克斯坦 | 2.88/3.07/2.19 | [1393323](matches/1393323.md) |
