@@ -24,7 +24,7 @@
       "lost": "3.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-02T12:50:06Z"
+    "fetched_at_utc": "2026-06-02T13:00:08Z"
   },
   "shuju": {
     "title": "格鲁吉亚VS罗马尼亚(2026友谊赛)-数据分析-500彩票网",
@@ -735,22 +735,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↑",
-        "handicap": "平手/半球",
-        "away_water": "0.880↓",
-        "time": "06-02 20:41"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "平手/半球",
-        "away_water": "0.910",
-        "time": "05-28 20:20"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -764,6 +748,22 @@
         "handicap": "平手",
         "away_water": "1.360",
         "time": "05-22 10:45"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↑",
+        "handicap": "平手/半球",
+        "away_water": "0.880↓",
+        "time": "06-02 20:41"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "平手/半球",
+        "away_water": "0.910",
+        "time": "05-28 20:20"
       }
     },
     {
