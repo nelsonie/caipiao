@@ -1,4 +1,59 @@
 {
-  "last_updated_utc": "2026-06-03T03:00:05Z",
-  "matches": []
+  "last_updated_utc": "2026-06-03T03:10:07Z",
+  "matches": [
+    {
+      "xml_id": "2040089",
+      "matchnum": "3203",
+      "date": "2026-06-04",
+      "dayofweek": "星期四",
+      "league": "国际赛",
+      "home": "波兰",
+      "away": "尼日利亚",
+      "spf_win": "3.80",
+      "spf_draw": "3.40",
+      "spf_lost": "1.75",
+      "spf_updated": "2026-06-03 09:36:22",
+      "gameid": "1404861",
+      "kickoff_cst": "2026-06-04 02:45",
+      "matchnum_label": "周三203",
+      "home_team_id": "37",
+      "away_team_id": "30"
+    },
+    {
+      "xml_id": "2040090",
+      "matchnum": "3204",
+      "date": "2026-06-04",
+      "dayofweek": "星期四",
+      "league": "国际赛",
+      "home": "卢森堡",
+      "away": "意大利",
+      "spf_win": "2.12",
+      "spf_draw": "3.20",
+      "spf_lost": "2.90",
+      "spf_updated": "2026-06-03 09:36:22",
+      "gameid": "1411009",
+      "kickoff_cst": "2026-06-04 02:45",
+      "matchnum_label": "周三204",
+      "home_team_id": "146",
+      "away_team_id": "19"
+    },
+    {
+      "xml_id": "2040096",
+      "matchnum": "3201",
+      "date": "2026-06-04",
+      "dayofweek": "星期四",
+      "league": "国际赛",
+      "home": "丹麦",
+      "away": "刚果(金)",
+      "spf_win": "2.18",
+      "spf_draw": "3.22",
+      "spf_lost": "2.78",
+      "spf_updated": "2026-06-03 09:36:22",
+      "gameid": "1411019",
+      "kickoff_cst": "2026-06-04 02:00",
+      "matchnum_label": "周三201",
+      "home_team_id": "3",
+      "away_team_id": "68"
+    }
+  ]
 }
