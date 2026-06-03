@@ -24,7 +24,7 @@
       "lost": "1.55",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-03T05:30:06Z"
+    "fetched_at_utc": "2026-06-03T05:40:09Z"
   },
   "shuju": {
     "title": "卢森堡VS意大利(2026友谊赛)-数据分析-500彩票网",
@@ -714,22 +714,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "受一球升",
-        "away_water": "0.780↑",
-        "time": "06-02 21:18"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "受球半",
-        "away_water": "0.770",
-        "time": "05-11 18:30"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -743,6 +727,22 @@
         "handicap": "受球半/两球",
         "away_water": "0.940",
         "time": "05-28 23:42"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "受一球升",
+        "away_water": "0.780↑",
+        "time": "06-02 21:18"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "受球半",
+        "away_water": "0.770",
+        "time": "05-11 18:30"
       }
     },
     {
