@@ -24,7 +24,7 @@
       "lost": "10.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-04T03:10:07Z"
+    "fetched_at_utc": "2026-06-04T03:20:08Z"
   },
   "shuju": {
     "title": "墨西哥VS塞尔维亚(2026友谊赛)-数据分析-500彩票网",
@@ -657,7 +657,7 @@
         "home_water": "0.900↑",
         "handicap": "球半/两球升",
         "away_water": "0.900↓",
-        "time": "06-04 10:10"
+        "time": "06-04 11:07"
       },
       "init": {
         "home_water": "0.850",
@@ -715,22 +715,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "球半/两球升",
-        "away_water": "0.810",
-        "time": "06-04 10:24"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "一球/球半",
-        "away_water": "0.810",
-        "time": "05-30 16:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -744,6 +728,22 @@
         "handicap": "一球",
         "away_water": "0.930",
         "time": "05-22 06:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "球半/两球升",
+        "away_water": "0.810",
+        "time": "06-04 10:24"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "一球/球半",
+        "away_water": "0.810",
+        "time": "05-30 16:48"
       }
     },
     {
