@@ -24,7 +24,7 @@
       "lost": "46.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-04T03:30:05Z"
+    "fetched_at_utc": "2026-06-04T03:40:07Z"
   },
   "shuju": {
     "title": "西班牙VS伊拉克(2026友谊赛)-数据分析-500彩票网",
@@ -713,22 +713,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.790↓",
-        "handicap": "三球升",
-        "away_water": "0.940↑",
-        "time": "06-04 11:13"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "两球半/三球",
-        "away_water": "0.890",
-        "time": "05-30 16:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -742,6 +726,22 @@
         "handicap": "三球半",
         "away_water": "0.650",
         "time": "05-21 17:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.790↓",
+        "handicap": "三球升",
+        "away_water": "0.940↑",
+        "time": "06-04 11:13"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "两球半/三球",
+        "away_water": "0.890",
+        "time": "05-30 16:48"
       }
     },
     {
