@@ -24,7 +24,7 @@
       "lost": "10.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-04T09:00:07Z"
+    "fetched_at_utc": "2026-06-04T09:10:06Z"
   },
   "shuju": {
     "title": "法国VS科特迪瓦(2026友谊赛)-数据分析-500彩票网",
@@ -722,22 +722,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "球半",
-        "away_water": "0.930↑",
-        "time": "06-04 16:37"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "球半",
-        "away_water": "0.840",
-        "time": "05-30 16:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -751,6 +735,22 @@
         "handicap": "球半",
         "away_water": "0.730",
         "time": "05-09 19:31"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "球半",
+        "away_water": "0.930↑",
+        "time": "06-04 16:37"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "球半",
+        "away_water": "0.840",
+        "time": "05-30 16:48"
       }
     },
     {
