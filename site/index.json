@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-04T18:20:06Z",
+  "last_updated_utc": "2026-06-04T18:30:08Z",
   "matches": [
     {
       "xml_id": "2040093",
@@ -36,24 +36,6 @@
       "matchnum_label": "周四204",
       "home_team_id": "10",
       "away_team_id": "59"
-    },
-    {
-      "xml_id": "2040095",
-      "matchnum": "4205",
-      "date": "2026-06-05",
-      "dayofweek": "星期五",
-      "league": "国际赛",
-      "home": "墨西哥",
-      "away": "塞尔维亚",
-      "spf_win": "1.75",
-      "spf_draw": "3.48",
-      "spf_lost": "3.70",
-      "spf_updated": "2026-06-04 19:09:24",
-      "gameid": "1393326",
-      "kickoff_cst": "2026-06-05 10:00",
-      "matchnum_label": "周四205",
-      "home_team_id": "16",
-      "away_team_id": "4"
     }
   ]
 }
