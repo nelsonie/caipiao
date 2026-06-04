@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-06-04T22:20:07Z'
+last_updated_utc: '2026-06-04T22:30:07Z'
 total_matches: 1
 leagues_covered:
 - 国际赛
