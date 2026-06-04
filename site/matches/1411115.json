@@ -24,7 +24,7 @@
       "lost": "3.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-04T05:20:06Z"
+    "fetched_at_utc": "2026-06-04T05:30:07Z"
   },
   "shuju": {
     "title": "瑞典VS希腊(2026友谊赛)-数据分析-500彩票网",
@@ -710,22 +710,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.780↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.160↑",
-        "time": "06-04 13:13"
-      },
-      "init": {
-        "home_water": "1.300",
-        "handicap": "一球",
-        "away_water": "0.520",
-        "time": "05-11 19:05"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -739,6 +723,22 @@
         "handicap": "半球/一球",
         "away_water": "0.880",
         "time": "05-30 16:48"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.780↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.160↑",
+        "time": "06-04 13:13"
+      },
+      "init": {
+        "home_water": "1.300",
+        "handicap": "一球",
+        "away_water": "0.520",
+        "time": "05-11 19:05"
       }
     },
     {
