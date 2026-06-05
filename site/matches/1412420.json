@@ -24,7 +24,7 @@
       "lost": "6.30",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-05T05:30:05Z"
+    "fetched_at_utc": "2026-06-05T05:40:08Z"
   },
   "shuju": {
     "title": "匈牙利VS芬兰(2026友谊赛)-数据分析-500彩票网",
@@ -763,22 +763,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↑",
-        "handicap": "一球",
-        "away_water": "0.780↓",
-        "time": "06-05 13:19"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "一球",
-        "away_water": "0.840",
-        "time": "06-03 21:40"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -792,6 +776,22 @@
         "handicap": "一球",
         "away_water": "0.970",
         "time": "05-22 11:02"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↑",
+        "handicap": "一球",
+        "away_water": "0.780↓",
+        "time": "06-05 13:19"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "一球",
+        "away_water": "0.840",
+        "time": "06-03 21:40"
       }
     },
     {
