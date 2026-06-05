@@ -24,7 +24,7 @@
       "lost": "4.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-05T04:50:08Z"
+    "fetched_at_utc": "2026-06-05T05:00:05Z"
   },
   "shuju": {
     "title": "斯洛伐克VS黑山(2026友谊赛)-数据分析-500彩票网",
@@ -724,22 +724,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.780↓",
-        "handicap": "半球/一球",
-        "away_water": "0.940↑",
-        "time": "06-05 12:39"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.820",
-        "time": "06-03 21:34"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -753,6 +737,22 @@
         "handicap": "一球",
         "away_water": "0.430",
         "time": "05-22 10:45"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.780↓",
+        "handicap": "半球/一球",
+        "away_water": "0.940↑",
+        "time": "06-05 12:39"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.820",
+        "time": "06-03 21:34"
       }
     },
     {
