@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-05T11:10:11Z",
+  "last_updated_utc": "2026-06-05T11:20:10Z",
   "matches": [
     {
       "xml_id": "2040114",
@@ -9,10 +9,10 @@
       "league": "国际赛",
       "home": "新加坡",
       "away": "中国",
-      "spf_win": "2.20",
+      "spf_win": "2.15",
       "spf_draw": "3.10",
-      "spf_lost": "2.84",
-      "spf_updated": "2026-06-05 18:49:01",
+      "spf_lost": "2.93",
+      "spf_updated": "2026-06-05 19:16:53",
       "gameid": "1409966",
       "kickoff_cst": "2026-06-05 19:30",
       "matchnum_label": "周五201",
@@ -63,10 +63,10 @@
       "league": "国际赛",
       "home": "加拿大",
       "away": "爱尔兰",
-      "spf_win": "2.75",
-      "spf_draw": "3.20",
-      "spf_lost": "2.21",
-      "spf_updated": "2026-06-05 18:45:14",
+      "spf_win": "2.85",
+      "spf_draw": "3.15",
+      "spf_lost": "2.17",
+      "spf_updated": "2026-06-05 19:08:44",
       "gameid": "1393325",
       "kickoff_cst": "2026-06-06 07:30",
       "matchnum_label": "周五204",
@@ -162,6 +162,24 @@
       "matchnum_label": "周六205",
       "home_team_id": "658",
       "away_team_id": "907"
+    },
+    {
+      "xml_id": "2040129",
+      "matchnum": "6206",
+      "date": "2026-06-06",
+      "dayofweek": "星期六",
+      "league": "日本职业联赛",
+      "home": "川崎前锋",
+      "away": "广岛三箭",
+      "spf_win": "1.70",
+      "spf_draw": "3.70",
+      "spf_lost": "3.70",
+      "spf_updated": "2026-06-05 09:25:41",
+      "gameid": "1412638",
+      "kickoff_cst": "2026-06-06 18:00",
+      "matchnum_label": "周六206",
+      "home_team_id": "2272",
+      "away_team_id": "845"
     }
   ]
 }
