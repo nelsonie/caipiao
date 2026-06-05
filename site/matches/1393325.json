@@ -24,7 +24,7 @@
       "lost": "5.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-05T10:30:08Z"
+    "fetched_at_utc": "2026-06-05T10:40:07Z"
   },
   "shuju": {
     "title": "加拿大VS爱尔兰(2026友谊赛)-数据分析-500彩票网",
@@ -678,22 +678,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930↓",
-        "handicap": "一球",
-        "away_water": "0.800↑",
-        "time": "06-05 18:13"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "一球",
-        "away_water": "0.780",
-        "time": "05-30 16:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -707,6 +691,22 @@
         "handicap": "一球",
         "away_water": "0.650",
         "time": "05-09 19:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↓",
+        "handicap": "一球",
+        "away_water": "0.800↑",
+        "time": "06-05 18:13"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "一球",
+        "away_water": "0.780",
+        "time": "05-30 16:48"
       }
     },
     {
