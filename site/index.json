@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-05T17:30:12Z",
+  "last_updated_utc": "2026-06-05T17:40:12Z",
   "matches": [
     {
       "xml_id": "2040116",
@@ -110,22 +110,22 @@
       "away_team_id": "1178"
     },
     {
-      "xml_id": "2040129",
-      "matchnum": "6206",
+      "xml_id": "2040128",
+      "matchnum": "6205",
       "date": "2026-06-06",
       "dayofweek": "星期六",
       "league": "日本职业联赛",
-      "home": "川崎前锋",
-      "away": "广岛三箭",
-      "spf_win": "1.70",
-      "spf_draw": "3.70",
-      "spf_lost": "3.70",
+      "home": "柏太阳神",
+      "away": "京都不死鸟",
+      "spf_win": "3.57",
+      "spf_draw": "3.45",
+      "spf_lost": "1.79",
       "spf_updated": "2026-06-05 09:25:41",
-      "gameid": "1412638",
-      "kickoff_cst": "2026-06-06 18:00",
-      "matchnum_label": "周六206",
-      "home_team_id": "2272",
-      "away_team_id": "845"
+      "gameid": "1412642",
+      "kickoff_cst": "2026-06-06 17:00",
+      "matchnum_label": "周六205",
+      "home_team_id": "658",
+      "away_team_id": "907"
     }
   ]
 }
