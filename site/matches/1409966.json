@@ -24,7 +24,7 @@
       "lost": "1.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-05T14:30:07Z"
+    "fetched_at_utc": "2026-06-05T14:40:06Z"
   },
   "shuju": {
     "title": "新加坡VS中国(2026友谊赛)-数据分析-500彩票网",
@@ -766,22 +766,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "受半球/一球升",
-        "away_water": "0.850↑",
-        "time": "06-05 19:29"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "受一球",
-        "away_water": "0.800",
-        "time": "06-04 15:25"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -795,6 +779,22 @@
         "handicap": "受球半",
         "away_water": "1.080",
         "time": "05-13 16:00"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "受半球/一球升",
+        "away_water": "0.850↑",
+        "time": "06-05 19:29"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "受一球",
+        "away_water": "0.800",
+        "time": "06-04 15:25"
       }
     },
     {
