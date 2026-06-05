@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-06-05T02:00:05Z'
-total_matches: 1
-leagues_covered:
-- 国际赛
+last_updated_utc: '2026-06-05T02:10:06Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 国际赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 4205 | 2026-06-05 星期五 | 墨西哥 vs 塞尔维亚 | 1.75/3.48/3.70 | [1393326](matches/1393326.md) |
