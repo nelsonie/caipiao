@@ -24,7 +24,7 @@
       "lost": "1.48",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-06T12:30:11Z"
+    "fetched_at_utc": "2026-06-06T12:40:12Z"
   },
   "shuju": {
     "title": "委内瑞拉VS土耳其(2026友谊赛)-数据分析-500彩票网",
@@ -691,22 +691,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "受一球降",
-        "away_water": "0.880↑",
-        "time": "06-06 20:21"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "受半球/一球",
-        "away_water": "0.750",
-        "time": "06-05 20:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -723,13 +707,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "受一球降",
+        "away_water": "0.880↑",
+        "time": "06-06 20:21"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "受半球/一球",
+        "away_water": "0.750",
+        "time": "06-05 20:48"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
         "home_water": "0.930↑",
         "handicap": "受一球降",
-        "away_water": "0.930↑",
-        "time": "06-06 20:12"
+        "away_water": "0.920↑",
+        "time": "06-06 20:28"
       },
       "init": {
         "home_water": "0.910",
