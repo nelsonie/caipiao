@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-06T07:40:12Z",
+  "last_updated_utc": "2026-06-06T07:50:14Z",
   "matches": [
     {
       "xml_id": "2040124",
@@ -117,10 +117,10 @@
       "league": "国际赛",
       "home": "比利时",
       "away": "突尼斯",
-      "spf_win": "1.90",
+      "spf_win": "1.86",
       "spf_draw": "3.35",
-      "spf_lost": "3.30",
-      "spf_updated": "2026-06-06 13:54:48",
+      "spf_lost": "3.41",
+      "spf_updated": "2026-06-06 15:43:31",
       "gameid": "1393331",
       "kickoff_cst": "2026-06-06 21:00",
       "matchnum_label": "周六207",
@@ -180,24 +180,6 @@
       "matchnum_label": "周六210",
       "home_team_id": "2",
       "away_team_id": "13"
-    },
-    {
-      "xml_id": "2040134",
-      "matchnum": "6211",
-      "date": "2026-06-07",
-      "dayofweek": "星期天",
-      "league": "国际赛",
-      "home": "澳大利亚",
-      "away": "瑞士",
-      "spf_win": "2.35",
-      "spf_draw": "3.20",
-      "spf_lost": "2.57",
-      "spf_updated": "2026-06-06 09:47:04",
-      "gameid": "1411016",
-      "kickoff_cst": "2026-06-07 03:00",
-      "matchnum_label": "周六211",
-      "home_team_id": "45",
-      "away_team_id": "46"
     },
     {
       "xml_id": "2040135",
