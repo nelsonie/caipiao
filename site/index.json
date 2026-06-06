@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-06T17:10:12Z",
+  "last_updated_utc": "2026-06-06T17:20:13Z",
   "matches": [
     {
       "xml_id": "2040131",
@@ -90,24 +90,6 @@
       "matchnum_label": "周六212",
       "home_team_id": "121",
       "away_team_id": "80"
-    },
-    {
-      "xml_id": "2040136",
-      "matchnum": "6213",
-      "date": "2026-06-07",
-      "dayofweek": "星期天",
-      "league": "国际赛",
-      "home": "英格兰",
-      "away": "新西兰",
-      "spf_win": "1.80",
-      "spf_draw": "4.00",
-      "spf_lost": "3.10",
-      "spf_updated": "2026-06-06 19:46:12",
-      "gameid": "1393302",
-      "kickoff_cst": "2026-06-07 04:00",
-      "matchnum_label": "周六213",
-      "home_team_id": "15",
-      "away_team_id": "50"
     },
     {
       "xml_id": "2040137",
