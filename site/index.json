@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-06T13:30:14Z",
+  "last_updated_utc": "2026-06-06T13:40:12Z",
   "matches": [
     {
       "xml_id": "2040124",
@@ -126,24 +126,6 @@
       "matchnum_label": "周六207",
       "home_team_id": "23",
       "away_team_id": "40"
-    },
-    {
-      "xml_id": "2040131",
-      "matchnum": "6208",
-      "date": "2026-06-07",
-      "dayofweek": "星期天",
-      "league": "国际赛",
-      "home": "葡萄牙",
-      "away": "智利",
-      "spf_win": "2.40",
-      "spf_draw": "3.70",
-      "spf_lost": "2.26",
-      "spf_updated": "2026-06-06 20:54:50",
-      "gameid": "1393299",
-      "kickoff_cst": "2026-06-07 01:45",
-      "matchnum_label": "周六208",
-      "home_team_id": "20",
-      "away_team_id": "2915"
     },
     {
       "xml_id": "2040132",
@@ -279,10 +261,10 @@
       "league": "国际赛",
       "home": "委内瑞拉",
       "away": "土耳其",
-      "spf_win": "2.25",
+      "spf_win": "2.34",
       "spf_draw": "3.15",
-      "spf_lost": "2.72",
-      "spf_updated": "2026-06-06 19:02:18",
+      "spf_lost": "2.60",
+      "spf_updated": "2026-06-06 21:29:20",
       "gameid": "1411025",
       "kickoff_cst": "2026-06-07 06:00",
       "matchnum_label": "周六216",
