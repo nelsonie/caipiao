@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-06T12:50:14Z",
+  "last_updated_utc": "2026-06-06T13:00:12Z",
   "matches": [
     {
       "xml_id": "2040124",
@@ -74,24 +74,6 @@
       "away_team_id": "1178"
     },
     {
-      "xml_id": "2040128",
-      "matchnum": "6205",
-      "date": "2026-06-06",
-      "dayofweek": "星期六",
-      "league": "日本职业联赛",
-      "home": "柏太阳神",
-      "away": "京都不死鸟",
-      "spf_win": "3.08",
-      "spf_draw": "3.40",
-      "spf_lost": "1.96",
-      "spf_updated": "2026-06-06 16:38:24",
-      "gameid": "1412642",
-      "kickoff_cst": "2026-06-06 17:00",
-      "matchnum_label": "周六205",
-      "home_team_id": "658",
-      "away_team_id": "907"
-    },
-    {
       "xml_id": "2040129",
       "matchnum": "6206",
       "date": "2026-06-06",
@@ -135,10 +117,10 @@
       "league": "国际赛",
       "home": "葡萄牙",
       "away": "智利",
-      "spf_win": "2.50",
+      "spf_win": "2.40",
       "spf_draw": "3.70",
-      "spf_lost": "2.18",
-      "spf_updated": "2026-06-06 19:01:52",
+      "spf_lost": "2.26",
+      "spf_updated": "2026-06-06 20:54:50",
       "gameid": "1393299",
       "kickoff_cst": "2026-06-07 01:45",
       "matchnum_label": "周六208",
@@ -162,24 +144,6 @@
       "matchnum_label": "周六209",
       "home_team_id": "26",
       "away_team_id": "62"
-    },
-    {
-      "xml_id": "2040133",
-      "matchnum": "6210",
-      "date": "2026-06-07",
-      "dayofweek": "星期天",
-      "league": "国际赛",
-      "home": "美国",
-      "away": "德国",
-      "spf_win": "2.14",
-      "spf_draw": "3.55",
-      "spf_lost": "2.63",
-      "spf_updated": "2026-06-06 20:41:21",
-      "gameid": "1358319",
-      "kickoff_cst": "2026-06-07 02:30",
-      "matchnum_label": "周六210",
-      "home_team_id": "2",
-      "away_team_id": "13"
     },
     {
       "xml_id": "2040134",
