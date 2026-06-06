@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-06T18:20:11Z",
+  "last_updated_utc": "2026-06-06T18:30:14Z",
   "matches": [
     {
       "xml_id": "2040133",
@@ -108,24 +108,6 @@
       "matchnum_label": "周六215",
       "home_team_id": "11",
       "away_team_id": "41"
-    },
-    {
-      "xml_id": "2040140",
-      "matchnum": "6217",
-      "date": "2026-06-07",
-      "dayofweek": "星期天",
-      "league": "国际赛",
-      "home": "阿根廷",
-      "away": "洪都拉斯",
-      "spf_win": "1.96",
-      "spf_draw": "3.80",
-      "spf_lost": "2.81",
-      "spf_updated": "2026-06-06 21:00:53",
-      "gameid": "1405671",
-      "kickoff_cst": "2026-06-07 08:00",
-      "matchnum_label": "周六217",
-      "home_team_id": "14",
-      "away_team_id": "42"
     }
   ]
 }
