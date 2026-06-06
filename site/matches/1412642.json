@@ -24,7 +24,7 @@
       "lost": "3.56",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-06T07:20:09Z"
+    "fetched_at_utc": "2026-06-06T07:30:10Z"
   },
   "shuju": {
     "title": "柏太阳神VS京都不死鸟(2026日职)-数据分析-500彩票网",
@@ -641,32 +641,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.940↓",
+        "home_water": "0.950↓",
         "handicap": "半球",
-        "away_water": "0.920↑",
-        "time": "06-06 15:14"
+        "away_water": "0.910↑",
+        "time": "06-06 15:17"
       },
       "init": {
         "home_water": "0.980",
         "handicap": "半球",
         "away_water": "0.860",
         "time": "06-03 18:01"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930↓",
-        "handicap": "半球",
-        "away_water": "0.920↑",
-        "time": "06-06 15:10"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "半球",
-        "away_water": "0.850",
-        "time": "06-01 22:53"
       }
     },
     {
@@ -686,13 +670,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↓",
+        "handicap": "半球",
+        "away_water": "0.920↑",
+        "time": "06-06 15:10"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "半球",
+        "away_water": "0.850",
+        "time": "06-01 22:53"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "0.950↓",
+        "home_water": "0.940↓",
         "handicap": "半球",
-        "away_water": "0.930↑",
-        "time": "06-06 15:14"
+        "away_water": "0.940↑",
+        "time": "06-06 15:17"
       },
       "init": {
         "home_water": "0.960",
@@ -771,8 +771,8 @@
       "live": {
         "home_water": "0.910↓",
         "handicap": "半球",
-        "away_water": "0.890↑",
-        "time": "06-06 15:13"
+        "away_water": "0.900↑",
+        "time": "06-06 15:17"
       },
       "init": {
         "home_water": "0.920",
