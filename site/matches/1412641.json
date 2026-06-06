@@ -24,7 +24,7 @@
       "lost": "2.96",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-06T01:40:08Z"
+    "fetched_at_utc": "2026-06-06T01:50:11Z"
   },
   "shuju": {
     "title": "横滨水手VS清水鼓动(2026日职)-数据分析-500彩票网",
@@ -593,10 +593,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.980↓",
+        "home_water": "1.000",
         "handicap": "平手/半球",
-        "away_water": "0.830↑",
-        "time": "06-06 09:16"
+        "away_water": "0.800",
+        "time": "06-06 09:42"
       },
       "init": {
         "home_water": "1.000",
@@ -654,22 +654,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "平手/半球",
-        "away_water": "0.800↑",
-        "time": "06-05 22:50"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "平手/半球",
-        "away_water": "0.780",
-        "time": "06-02 03:06"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -683,6 +667,22 @@
         "handicap": "平手/半球",
         "away_water": "0.830",
         "time": "06-01 23:23"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "平手/半球",
+        "away_water": "0.800↑",
+        "time": "06-05 22:50"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "平手/半球",
+        "away_water": "0.780",
+        "time": "06-02 03:06"
       }
     },
     {
