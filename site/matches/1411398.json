@@ -24,7 +24,7 @@
       "lost": "2.11",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-06T03:10:11Z"
+    "fetched_at_utc": "2026-06-06T03:20:13Z"
   },
   "shuju": {
     "title": "巴拿马VS波黑(2026友谊赛)-数据分析-500彩票网",
@@ -708,35 +708,35 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.810↑",
-        "time": "06-06 09:20"
-      },
-      "init": {
-        "home_water": "1.100",
-        "handicap": "平手",
-        "away_water": "0.620",
-        "time": "05-30 22:45"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "0.890↑",
+        "home_water": "0.900↑",
         "handicap": "受平手/半球",
-        "away_water": "0.830↓",
-        "time": "06-06 09:24"
+        "away_water": "0.820↓",
+        "time": "06-06 11:09"
       },
       "init": {
         "home_water": "0.750",
         "handicap": "受平手/半球",
         "away_water": "0.990",
         "time": "06-01 21:54"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.800↑",
+        "time": "06-06 11:05"
+      },
+      "init": {
+        "home_water": "1.100",
+        "handicap": "平手",
+        "away_water": "0.620",
+        "time": "05-30 22:45"
       }
     },
     {
