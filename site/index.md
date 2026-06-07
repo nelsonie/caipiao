@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-06-07T23:00:05Z'
-total_matches: 1
-leagues_covered:
-- 国际赛
+last_updated_utc: '2026-06-07T23:10:04Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 国际赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 7204 | 2026-06-08 星期一 | 哥伦比亚 vs 约旦 | 2.58/3.22/2.32 | [1411013](matches/1411013.md) |
