@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-06-07T00:00:06Z'
-total_matches: 1
-leagues_covered:
-- 国际赛
+last_updated_utc: '2026-06-07T00:10:05Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 国际赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 6217 | 2026-06-07 星期天 | 阿根廷 vs 洪都拉斯 | 1.96/3.80/2.81 | [1405671](matches/1405671.md) |
