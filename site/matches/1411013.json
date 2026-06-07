@@ -24,7 +24,7 @@
       "lost": "12.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-07T10:20:09Z"
+    "fetched_at_utc": "2026-06-07T10:30:08Z"
   },
   "shuju": {
     "title": "哥伦比亚VS约旦(2026友谊赛)-数据分析-500彩票网",
@@ -715,22 +715,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "两球",
-        "away_water": "0.750↓",
-        "time": "06-07 17:24"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "两球",
-        "away_water": "0.780",
-        "time": "06-06 22:42"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -744,6 +728,22 @@
         "handicap": "两球",
         "away_water": "0.820",
         "time": "06-02 18:15"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "两球",
+        "away_water": "0.750↓",
+        "time": "06-07 17:24"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "两球",
+        "away_water": "0.780",
+        "time": "06-06 22:42"
       }
     },
     {
@@ -769,7 +769,7 @@
         "home_water": "1.040↑",
         "handicap": "两球",
         "away_water": "0.800↓",
-        "time": "06-07 18:07"
+        "time": "06-07 18:16"
       },
       "init": {
         "home_water": "0.890",
