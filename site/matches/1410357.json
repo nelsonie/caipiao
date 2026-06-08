@@ -24,7 +24,7 @@
       "lost": "15.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-08T18:50:05Z"
+    "fetched_at_utc": "2026-06-08T19:00:08Z"
   },
   "shuju": {
     "title": "法国VS北爱尔兰(2026友谊赛)-数据分析-500彩票网",
@@ -336,23 +336,23 @@
             "position": "前锋"
           },
           {
-            "number": "9",
-            "name": "马库斯·图拉姆",
+            "number": "20",
+            "name": "德西雷·杜埃",
             "position": "前锋"
           },
           {
-            "number": "14",
-            "name": "阿德里安·拉比奥",
-            "position": "中场"
-          },
-          {
-            "number": "24",
-            "name": "拉扬·谢尔基",
-            "position": "中场"
+            "number": "7",
+            "name": "奥斯曼·登贝莱",
+            "position": "前锋"
           },
           {
             "number": "11",
             "name": "迈克尔·奥利塞",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "阿德里安·拉比奥",
             "position": "中场"
           },
           {
@@ -366,13 +366,13 @@
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "达约·于帕梅卡诺",
+            "number": "17",
+            "name": "威廉·萨利巴",
             "position": "后卫"
           },
           {
-            "number": "15",
-            "name": "易卜拉希马·科纳特",
+            "number": "4",
+            "name": "达约·于帕梅卡诺",
             "position": "后卫"
           },
           {
@@ -388,24 +388,14 @@
         ],
         "subs": [
           {
-            "number": "2",
-            "name": "马洛·古斯托",
+            "number": "18",
+            "name": "瓦朗·扎伊尔-埃梅里",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "易卜拉希马·科纳特",
             "position": "后卫"
-          },
-          {
-            "number": "20",
-            "name": "德西雷·杜埃",
-            "position": "前锋"
-          },
-          {
-            "number": "3",
-            "name": "卢卡斯·迪涅",
-            "position": "后卫"
-          },
-          {
-            "number": "7",
-            "name": "奥斯曼·登贝莱",
-            "position": "前锋"
           },
           {
             "number": "12",
@@ -413,29 +403,14 @@
             "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "卢卡斯·埃尔南德斯",
-            "position": "后卫"
-          },
-          {
-            "number": "13",
-            "name": "恩戈洛·坎特",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "马努·科内",
-            "position": "中场"
-          },
-          {
-            "number": "26",
-            "name": "马克桑斯·拉克鲁瓦",
-            "position": "后卫"
-          },
-          {
-            "number": "22",
-            "name": "让-菲利普·马特塔",
+            "number": "9",
+            "name": "马库斯·图拉姆",
             "position": "前锋"
+          },
+          {
+            "number": "1",
+            "name": "布里斯·桑巴",
+            "position": "守门员"
           },
           {
             "number": "23",
@@ -443,8 +418,33 @@
             "position": "守门员"
           },
           {
-            "number": "17",
-            "name": "威廉·萨利巴",
+            "number": "22",
+            "name": "让-菲利普·马特塔",
+            "position": "前锋"
+          },
+          {
+            "number": "26",
+            "name": "马克桑斯·拉克鲁瓦",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "马努·科内",
+            "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "恩戈洛·坎特",
+            "position": "中场"
+          },
+          {
+            "number": "21",
+            "name": "卢卡斯·埃尔南德斯",
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "马洛·古斯托",
             "position": "后卫"
           },
           {
@@ -453,14 +453,14 @@
             "position": "前锋"
           },
           {
-            "number": "18",
-            "name": "瓦朗·扎伊尔-埃梅里",
+            "number": "24",
+            "name": "拉扬·谢尔基",
             "position": "中场"
           },
           {
-            "number": "1",
-            "name": "布里斯·桑巴",
-            "position": "守门员"
+            "number": "3",
+            "name": "卢卡斯·迪涅",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -480,13 +480,18 @@
             "position": "中场"
           },
           {
-            "number": "9",
-            "name": "基兰·莫里森",
-            "position": "中场"
+            "number": "2",
+            "name": "帕特里克·凯利",
+            "position": "前锋"
           },
           {
             "number": "15",
             "name": "贾斯汀·德文尼",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "阿利斯泰·麦卡恩",
             "position": "中场"
           },
           {
@@ -495,14 +500,9 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "杰米·麦克唐纳",
-            "position": "中场"
-          },
-          {
-            "number": "11",
-            "name": "保罗·斯迈斯",
-            "position": "前锋"
+            "number": "20",
+            "name": "布罗迪·斯宾塞",
+            "position": "后卫"
           },
           {
             "number": "22",
@@ -515,8 +515,8 @@
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "汤姆·阿特钦森",
+            "number": "5",
+            "name": "特赖·休姆",
             "position": "后卫"
           },
           {
@@ -527,14 +527,14 @@
         ],
         "subs": [
           {
-            "number": "20",
-            "name": "布罗迪·斯宾塞",
-            "position": "后卫"
-          },
-          {
             "number": "12",
             "name": "卢克·索思伍德",
             "position": "守门员"
+          },
+          {
+            "number": "11",
+            "name": "保罗·斯迈斯",
+            "position": "前锋"
           },
           {
             "number": "18",
@@ -542,8 +542,13 @@
             "position": "前锋"
           },
           {
-            "number": "16",
-            "name": "阿利斯泰·麦卡恩",
+            "number": "9",
+            "name": "基兰·莫里森",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "杰米·麦克唐纳",
             "position": "中场"
           },
           {
@@ -555,16 +560,6 @@
             "number": "21",
             "name": "乔什·马根尼斯",
             "position": "前锋"
-          },
-          {
-            "number": "2",
-            "name": "帕特里克·凯利",
-            "position": "前锋"
-          },
-          {
-            "number": "5",
-            "name": "特赖·休姆",
-            "position": "后卫"
           },
           {
             "number": "17",
