@@ -24,7 +24,7 @@
       "lost": "12.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-08T18:20:06Z"
+    "fetched_at_utc": "2026-06-08T18:30:07Z"
   },
   "shuju": {
     "title": "荷兰VS乌兹别克斯坦(2026友谊赛)-数据分析-500彩票网",
@@ -376,9 +376,9 @@
             "position": "后卫"
           },
           {
-            "number": "12",
-            "name": "马茨·维费尔",
-            "position": "中场"
+            "number": "22",
+            "name": "丹泽尔·邓弗里斯",
+            "position": "后卫"
           },
           {
             "number": "1",
@@ -388,24 +388,24 @@
         ],
         "subs": [
           {
-            "number": "10",
-            "name": "孟菲斯·德佩",
-            "position": "前锋"
+            "number": "3",
+            "name": "马腾·德容恩",
+            "position": "中场"
           },
           {
-            "number": "5",
-            "name": "内森·阿克",
-            "position": "后卫"
-          },
-          {
-            "number": "19",
-            "name": "布莱恩·布罗比",
-            "position": "前锋"
+            "number": "12",
+            "name": "马茨·维费尔",
+            "position": "中场"
           },
           {
             "number": "9",
             "name": "沃特·韦霍斯特",
             "position": "前锋"
+          },
+          {
+            "number": "2",
+            "name": "尤里恩·廷贝尔",
+            "position": "后卫"
           },
           {
             "number": "26",
@@ -421,11 +421,6 @@
             "number": "13",
             "name": "罗宾·鲁夫斯",
             "position": "守门员"
-          },
-          {
-            "number": "22",
-            "name": "伊恩·马特森",
-            "position": "后卫"
           },
           {
             "number": "17",
@@ -448,19 +443,24 @@
             "position": "后卫"
           },
           {
-            "number": "2",
-            "name": "卢特谢尔·海特勒伊达",
-            "position": "后卫"
-          },
-          {
-            "number": "3",
-            "name": "马腾·德容恩",
-            "position": "中场"
-          },
-          {
             "number": "23",
             "name": "马克·弗莱肯",
             "position": "守门员"
+          },
+          {
+            "number": "19",
+            "name": "布莱恩·布罗比",
+            "position": "前锋"
+          },
+          {
+            "number": "5",
+            "name": "内森·阿克",
+            "position": "后卫"
+          },
+          {
+            "number": "10",
+            "name": "孟菲斯·德佩",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -477,16 +477,21 @@
           {
             "number": "11",
             "name": "奥斯通·乌鲁诺夫",
-            "position": "中场"
+            "position": "前锋"
           },
           {
-            "number": "19",
-            "name": "阿齐兹·加涅耶夫",
-            "position": "中场"
+            "number": "22",
+            "name": "阿博斯别克·法伊祖拉耶夫",
+            "position": "前锋"
           },
           {
             "number": "13",
             "name": "夏尔佐德·纳斯鲁拉耶夫",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "阿克玛·莫兹戈沃伊",
             "position": "中场"
           },
           {
@@ -495,85 +500,13 @@
             "position": "中场"
           },
           {
-            "number": "9",
-            "name": "奥迪尔琼·卡姆罗贝科夫",
-            "position": "中场"
-          },
-          {
             "number": "4",
             "name": "法鲁赫·沙费耶夫",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "5",
             "name": "拉斯塔马乔·阿舒马托夫",
-            "position": "后卫"
-          },
-          {
-            "number": "18",
-            "name": "阿卜杜拉·阿卜杜拉耶夫",
-            "position": "后卫"
-          },
-          {
-            "number": "2",
-            "name": "阿卜杜科迪尔·胡桑诺夫",
-            "position": "后卫"
-          },
-          {
-            "number": "12",
-            "name": "阿卜杜沃赫德·内马托夫",
-            "position": "守门员"
-          }
-        ],
-        "subs": [
-          {
-            "number": "23",
-            "name": "谢尔佐德·伊萨诺夫",
-            "position": "中场"
-          },
-          {
-            "number": "28",
-            "name": "阿兹别克·阿莫诺夫",
-            "position": "前锋"
-          },
-          {
-            "number": "15",
-            "name": "奥马尔·埃什穆罗多夫",
-            "position": "后卫"
-          },
-          {
-            "number": "22",
-            "name": "阿博斯别克·法伊祖拉耶夫",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "贾姆什德·伊斯坎德罗夫",
-            "position": "中场"
-          },
-          {
-            "number": "20",
-            "name": "贾斯贝克·贾洛利迪诺夫",
-            "position": "中场"
-          },
-          {
-            "number": "17",
-            "name": "多斯通贝克·哈姆达莫夫",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "阿克玛·莫兹戈沃伊",
-            "position": "中场"
-          },
-          {
-            "number": "21",
-            "name": "伊戈尔·谢尔盖耶夫",
-            "position": "前锋"
-          },
-          {
-            "number": "25",
-            "name": "阿瓦兹别克·乌尔马萨利耶夫",
             "position": "后卫"
           },
           {
@@ -582,9 +515,96 @@
             "position": "后卫"
           },
           {
+            "number": "2",
+            "name": "阿卜杜科迪尔·胡桑诺夫",
+            "position": "后卫"
+          },
+          {
             "number": "1",
             "name": "尤茨基尔·尤索波夫",
             "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "18",
+            "name": "阿卜杜拉·阿卜杜拉耶夫",
+            "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "阿兹别克·阿莫诺夫",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "阿利吉诺夫·霍贾克巴尔",
+            "position": "后卫"
+          },
+          {
+            "number": "30",
+            "name": "舍尔佐德·特米罗夫",
+            "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "贾斯贝克·贾洛利迪诺夫",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "阿瓦兹别克·乌尔马萨利耶夫",
+            "position": "后卫"
+          },
+          {
+            "number": "21",
+            "name": "伊戈尔·谢尔盖耶夫",
+            "position": "前锋"
+          },
+          {
+            "number": "26",
+            "name": "乌玛利·拉赫莫纳利耶夫",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "阿卜杜沃赫德·内马托夫",
+            "position": "守门员"
+          },
+          {
+            "number": "17",
+            "name": "多斯通贝克·哈姆达莫夫",
+            "position": "前锋"
+          },
+          {
+            "number": "24",
+            "name": "贝赫鲁兹·卡里莫夫",
+            "position": "后卫"
+          },
+          {
+            "number": "29",
+            "name": "鲁斯兰别克·吉亚诺夫",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "贾姆什德·伊斯坎德罗夫",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "奥马尔·埃什穆罗多夫",
+            "position": "后卫"
+          },
+          {
+            "number": "16",
+            "name": "博季拉利·埃尔加舍夫",
+            "position": "守门员"
+          },
+          {
+            "number": "23",
+            "name": "谢尔佐德·伊萨诺夫",
+            "position": "中场"
           }
         ],
         "injured": [],
