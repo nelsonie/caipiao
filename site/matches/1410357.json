@@ -24,7 +24,7 @@
       "lost": "15.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-08T12:40:10Z"
+    "fetched_at_utc": "2026-06-08T12:50:08Z"
   },
   "shuju": {
     "title": "法国VS北爱尔兰(2026友谊赛)-数据分析-500彩票网",
@@ -706,22 +706,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.810↓",
-        "handicap": "两球/两球半",
-        "away_water": "0.910↑",
-        "time": "06-08 18:36"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "两球/两球半",
-        "away_water": "0.860",
-        "time": "06-05 20:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -735,6 +719,22 @@
         "handicap": "两球半",
         "away_water": "0.690",
         "time": "06-01 16:37"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↓",
+        "handicap": "两球/两球半",
+        "away_water": "0.910↑",
+        "time": "06-08 18:36"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "两球/两球半",
+        "away_water": "0.860",
+        "time": "06-05 20:48"
       }
     },
     {
