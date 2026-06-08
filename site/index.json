@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-08T15:30:16Z",
+  "last_updated_utc": "2026-06-08T15:40:14Z",
   "matches": [
     {
       "xml_id": "2040145",
@@ -110,22 +110,40 @@
       "away_team_id": "80"
     },
     {
-      "xml_id": "2040167",
-      "matchnum": "6006",
+      "xml_id": "2040165",
+      "matchnum": "5004",
+      "date": "2026-06-13",
+      "dayofweek": "星期六",
+      "league": "世界杯",
+      "home": "美国",
+      "away": "巴拉圭",
+      "spf_win": "3.95",
+      "spf_draw": "3.40",
+      "spf_lost": "1.72",
+      "spf_updated": "2026-06-08 10:02:25",
+      "gameid": "1359189",
+      "kickoff_cst": "2026-06-13 09:00",
+      "matchnum_label": "周五004",
+      "home_team_id": "2",
+      "away_team_id": "24"
+    },
+    {
+      "xml_id": "2040166",
+      "matchnum": "6005",
       "date": "2026-06-14",
       "dayofweek": "星期天",
       "league": "世界杯",
-      "home": "巴西",
-      "away": "摩洛哥",
-      "spf_win": "2.75",
-      "spf_draw": "3.26",
-      "spf_lost": "2.18",
-      "spf_updated": "2026-06-08 21:26:50",
-      "gameid": "1359195",
-      "kickoff_cst": "2026-06-14 06:00",
-      "matchnum_label": "周六006",
-      "home_team_id": "11",
-      "away_team_id": "38"
+      "home": "卡塔尔",
+      "away": "瑞士",
+      "spf_win": "1.98",
+      "spf_draw": "3.85",
+      "spf_lost": "2.74",
+      "spf_updated": "2026-06-08 10:02:25",
+      "gameid": "1359227",
+      "kickoff_cst": "2026-06-14 03:00",
+      "matchnum_label": "周六005",
+      "home_team_id": "70",
+      "away_team_id": "46"
     },
     {
       "xml_id": "2040168",
@@ -162,24 +180,6 @@
       "matchnum_label": "周六008",
       "home_team_id": "45",
       "away_team_id": "17"
-    },
-    {
-      "xml_id": "2040170",
-      "matchnum": "7009",
-      "date": "2026-06-15",
-      "dayofweek": "星期一",
-      "league": "世界杯",
-      "home": "德国",
-      "away": "库拉索",
-      "spf_win": "1.94",
-      "spf_draw": "4.60",
-      "spf_lost": "2.52",
-      "spf_updated": "2026-06-08 10:02:25",
-      "gameid": "1359200",
-      "kickoff_cst": "2026-06-15 01:00",
-      "matchnum_label": "周日009",
-      "home_team_id": "13",
-      "away_team_id": "7516"
     },
     {
       "xml_id": "2040171",
