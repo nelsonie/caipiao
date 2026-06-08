@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-08T21:00:16Z",
+  "last_updated_utc": "2026-06-08T21:10:20Z",
   "matches": [
     {
       "xml_id": "2040147",
@@ -74,24 +74,6 @@
       "away_team_id": "80"
     },
     {
-      "xml_id": "2040165",
-      "matchnum": "5004",
-      "date": "2026-06-13",
-      "dayofweek": "星期六",
-      "league": "世界杯",
-      "home": "美国",
-      "away": "巴拉圭",
-      "spf_win": "3.95",
-      "spf_draw": "3.40",
-      "spf_lost": "1.72",
-      "spf_updated": "2026-06-08 10:02:25",
-      "gameid": "1359189",
-      "kickoff_cst": "2026-06-13 09:00",
-      "matchnum_label": "周五004",
-      "home_team_id": "2",
-      "away_team_id": "24"
-    },
-    {
       "xml_id": "2040166",
       "matchnum": "6005",
       "date": "2026-06-14",
@@ -144,24 +126,6 @@
       "matchnum_label": "周六007",
       "home_team_id": "86",
       "away_team_id": "56"
-    },
-    {
-      "xml_id": "2040169",
-      "matchnum": "6008",
-      "date": "2026-06-14",
-      "dayofweek": "星期天",
-      "league": "世界杯",
-      "home": "澳大利亚",
-      "away": "土耳其",
-      "spf_win": "2.11",
-      "spf_draw": "3.25",
-      "spf_lost": "2.88",
-      "spf_updated": "2026-06-08 10:02:25",
-      "gameid": "1359233",
-      "kickoff_cst": "2026-06-14 12:00",
-      "matchnum_label": "周六008",
-      "home_team_id": "45",
-      "away_team_id": "17"
     },
     {
       "xml_id": "2040172",
@@ -306,24 +270,6 @@
       "matchnum_label": "周二020",
       "home_team_id": "53",
       "away_team_id": "87"
-    },
-    {
-      "xml_id": "2040183",
-      "matchnum": "3022",
-      "date": "2026-06-18",
-      "dayofweek": "星期四",
-      "league": "世界杯",
-      "home": "英格兰",
-      "away": "克罗地亚",
-      "spf_win": "2.94",
-      "spf_draw": "3.20",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-06-08 10:02:25",
-      "gameid": "1359221",
-      "kickoff_cst": "2026-06-18 04:00",
-      "matchnum_label": "周三022",
-      "home_team_id": "15",
-      "away_team_id": "36"
     },
     {
       "xml_id": "2040184",
