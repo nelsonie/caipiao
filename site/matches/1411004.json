@@ -24,7 +24,7 @@
       "lost": "1.17",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-08T15:40:07Z"
+    "fetched_at_utc": "2026-06-08T15:50:07Z"
   },
   "shuju": {
     "title": "秘鲁VS西班牙(2026友谊赛)-数据分析-500彩票网",
@@ -681,22 +681,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "受两球",
-        "away_water": "0.820↑",
-        "time": "06-08 16:59"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "受两球",
-        "away_water": "0.800",
-        "time": "06-02 18:15"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -710,6 +694,22 @@
         "handicap": "受两球",
         "away_water": "0.890",
         "time": "06-05 20:48"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "受两球",
+        "away_water": "0.820↑",
+        "time": "06-08 16:59"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "受两球",
+        "away_water": "0.800",
+        "time": "06-02 18:15"
       }
     },
     {
