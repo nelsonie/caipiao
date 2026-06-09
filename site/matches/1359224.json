@@ -24,7 +24,7 @@
       "lost": "2.74",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-09T11:50:08Z"
+    "fetched_at_utc": "2026-06-09T12:00:06Z"
   },
   "shuju": {
     "title": "韩国VS捷克(2026世界杯)-数据分析-500彩票网",
@@ -463,22 +463,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↑",
-        "handicap": "平手",
-        "away_water": "1.010↑",
-        "time": "06-09 18:06"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "平手",
-        "away_water": "0.900",
-        "time": "04-01 17:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -492,6 +476,22 @@
         "handicap": "平手",
         "away_water": "0.980",
         "time": "04-01 23:16"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↑",
+        "handicap": "平手",
+        "away_water": "1.010↑",
+        "time": "06-09 18:06"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "平手",
+        "away_water": "0.900",
+        "time": "04-01 17:03"
       }
     },
     {
@@ -543,22 +543,6 @@
       }
     },
     {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "0.900",
-        "handicap": "平手",
-        "away_water": "0.860",
-        "time": "05-01 12:00"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "平手",
-        "away_water": "0.860",
-        "time": "05-01 12:00"
-      }
-    },
-    {
       "cid": "348",
       "company": "金*博",
       "live": {
@@ -572,6 +556,22 @@
         "handicap": "平手",
         "away_water": "0.880",
         "time": "04-01 23:36"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "0.900",
+        "handicap": "平手",
+        "away_water": "0.860",
+        "time": "05-01 12:00"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "平手",
+        "away_water": "0.860",
+        "time": "05-01 12:00"
       }
     },
     {
