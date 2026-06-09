@@ -24,7 +24,7 @@
       "lost": "2.74",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-09T17:40:06Z"
+    "fetched_at_utc": "2026-06-09T17:50:06Z"
   },
   "shuju": {
     "title": "韩国VS捷克(2026世界杯)-数据分析-500彩票网",
@@ -335,15 +335,274 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "14",
+            "name": "曹圭成",
+            "position": "前锋"
+          },
+          {
+            "number": "20",
+            "name": "黄喜灿",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "李东炅",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "?太锡",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "李在城",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "黄仁范",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "薛英佑",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "李期奕",
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "金玟哉",
+            "position": "后卫"
+          },
+          {
+            "number": "18",
+            "name": "李韩汎",
+            "position": "后卫"
+          },
+          {
+            "number": "12",
+            "name": "金承奎",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "19",
+            "name": "卡斯特罗普",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "严智星",
+            "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "赵贤祐",
+            "position": "守门员"
+          },
+          {
+            "number": "25",
+            "name": "金镇圭",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "金纹奂",
+            "position": "后卫"
+          },
+          {
+            "number": "9",
+            "name": "金太炫",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "李刚仁",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "吴贤揆",
+            "position": "前锋"
+          },
+          {
+            "number": "4",
+            "name": "白昇浩",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "赵伟济",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "朴镇燮",
+            "position": "中场"
+          },
+          {
+            "number": "1",
+            "name": "宋范根",
+            "position": "守门员"
+          },
+          {
+            "number": "13",
+            "name": "孙兴慜",
+            "position": "前锋"
+          },
+          {
+            "number": "26",
+            "name": "杨贤俊",
+            "position": "前锋"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "10",
+            "name": "帕特里克·希克",
+            "position": "前锋"
+          },
+          {
+            "number": "15",
+            "name": "帕维尔·舒尔茨",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "卢卡什·普罗沃德",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "大卫·尤拉塞克",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "米哈尔·萨迪莱克",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "托马什·绍切克",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "弗拉迪米尔·曹法尔",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "拉吉斯拉夫·克雷伊奇",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "罗宾·赫拉纳奇",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "斯捷潘·哈劳佩克",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "马捷·科瓦日",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "2",
+            "name": "达维德·齐马",
+            "position": "后卫"
+          },
+          {
+            "number": "20",
+            "name": "雅罗斯拉夫·泽勒尼",
+            "position": "后卫"
+          },
+          {
+            "number": "26",
+            "name": "丹尼斯·维辛斯基",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "英德日赫·施塔内克",
+            "position": "守门员"
+          },
+          {
+            "number": "24",
+            "name": "亚历山大·索伊卡",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "胡戈·索胡雷克",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "扬·库赫塔",
+            "position": "前锋"
+          },
+          {
+            "number": "23",
+            "name": "卢卡什·霍尔尼切克",
+            "position": "守门员"
+          },
+          {
+            "number": "3",
+            "name": "托马什·霍莱什",
+            "position": "后卫"
+          },
+          {
+            "number": "9",
+            "name": "亚当·赫洛热克",
+            "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "达维德·道杰拉",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "弗拉迪米尔·达里达",
+            "position": "中场"
+          },
+          {
+            "number": "19",
+            "name": "托马什·绍里",
+            "position": "前锋"
+          },
+          {
+            "number": "12",
+            "name": "卢卡什·切尔夫",
+            "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "莫伊米尔·希季尔",
+            "position": "前锋"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
@@ -463,22 +722,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↑",
-        "handicap": "平手",
-        "away_water": "0.990↑",
-        "time": "06-09 20:47"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "平手",
-        "away_water": "0.900",
-        "time": "04-01 17:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -492,6 +735,22 @@
         "handicap": "平手",
         "away_water": "0.980",
         "time": "04-01 23:16"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↑",
+        "handicap": "平手",
+        "away_water": "0.990↑",
+        "time": "06-09 20:47"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "平手",
+        "away_water": "0.900",
+        "time": "04-01 17:03"
       }
     },
     {
