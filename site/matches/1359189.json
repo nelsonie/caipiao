@@ -24,7 +24,7 @@
       "lost": "3.80",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-09T08:10:11Z"
+    "fetched_at_utc": "2026-06-09T08:20:08Z"
   },
   "shuju": {
     "title": "美国VS巴拉圭(2026世界杯)-数据分析-500彩票网",
@@ -465,22 +465,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "半球升",
-        "away_water": "0.860↓",
-        "time": "06-05 11:18"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手/半球",
-        "away_water": "0.890",
-        "time": "12-07 01:45"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -493,6 +477,22 @@
         "home_water": "0.850",
         "handicap": "平手/半球",
         "away_water": "0.830",
+        "time": "12-07 01:45"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "半球升",
+        "away_water": "0.860↓",
+        "time": "06-05 11:18"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手/半球",
+        "away_water": "0.890",
         "time": "12-07 01:45"
       }
     },
@@ -529,22 +529,6 @@
       }
     },
     {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "0.740↓",
-        "handicap": "平手/半球",
-        "away_water": "1.050↑",
-        "time": "06-07 12:20"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "平手/半球",
-        "away_water": "0.990",
-        "time": "05-01 12:01"
-      }
-    },
-    {
       "cid": "348",
       "company": "金*博",
       "live": {
@@ -558,6 +542,22 @@
         "handicap": "半球",
         "away_water": "0.810",
         "time": "12-22 17:34"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "0.740↓",
+        "handicap": "平手/半球",
+        "away_water": "1.050↑",
+        "time": "06-07 12:20"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "平手/半球",
+        "away_water": "0.990",
+        "time": "05-01 12:01"
       }
     },
     {
