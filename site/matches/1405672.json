@@ -24,7 +24,7 @@
       "lost": "15.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-09T05:30:16Z"
+    "fetched_at_utc": "2026-06-09T05:40:14Z"
   },
   "shuju": {
     "title": "阿根廷VS冰岛(2026友谊赛)-数据分析-500彩票网",
@@ -690,22 +690,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.780",
-        "handicap": "两球升",
-        "away_water": "0.950",
-        "time": "06-09 12:33"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "球半/两球",
-        "away_water": "0.950",
-        "time": "06-06 22:42"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -719,6 +703,22 @@
         "handicap": "两球",
         "away_water": "0.710",
         "time": "05-30 20:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.780",
+        "handicap": "两球升",
+        "away_water": "0.950",
+        "time": "06-09 12:33"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "球半/两球",
+        "away_water": "0.950",
+        "time": "06-06 22:42"
       }
     },
     {
