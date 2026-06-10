@@ -24,7 +24,7 @@
       "lost": "2.74",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-10T15:30:09Z"
+    "fetched_at_utc": "2026-06-10T15:40:09Z"
   },
   "shuju": {
     "title": "韩国VS捷克(2026世界杯)-数据分析-500彩票网",
@@ -776,10 +776,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.850↑",
+        "home_water": "0.900↑",
         "handicap": "平手",
-        "away_water": "1.000↓",
-        "time": "06-10 23:06"
+        "away_water": "0.950↓",
+        "time": "06-10 23:14"
       },
       "init": {
         "home_water": "0.830",
@@ -808,10 +808,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.910↓",
+        "home_water": "0.900↓",
         "handicap": "平手",
-        "away_water": "0.970↑",
-        "time": "06-10 22:48"
+        "away_water": "0.980↑",
+        "time": "06-10 23:08"
       },
       "init": {
         "home_water": "1.140",
@@ -824,10 +824,10 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.860↓",
+        "home_water": "0.940↑",
         "handicap": "平手",
-        "away_water": "1.020↑",
-        "time": "06-10 20:33"
+        "away_water": "0.950↑",
+        "time": "06-10 23:36"
       },
       "init": {
         "home_water": "0.890",
@@ -840,10 +840,10 @@
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "0.870↑",
+        "home_water": "0.880↑",
         "handicap": "平手",
-        "away_water": "0.960↑",
-        "time": "06-10 22:50"
+        "away_water": "0.950↑",
+        "time": "06-10 23:38"
       },
       "init": {
         "home_water": "0.820",
@@ -917,22 +917,6 @@
       }
     },
     {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "平手",
-        "away_water": "0.890↑",
-        "time": "06-09 20:04"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "平手",
-        "away_water": "0.860",
-        "time": "05-01 12:00"
-      }
-    },
-    {
       "cid": "348",
       "company": "金*博",
       "live": {
@@ -946,6 +930,22 @@
         "handicap": "平手",
         "away_water": "0.880",
         "time": "04-01 23:36"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "平手",
+        "away_water": "0.890↑",
+        "time": "06-09 20:04"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "平手",
+        "away_water": "0.860",
+        "time": "05-01 12:00"
       }
     },
     {
@@ -968,10 +968,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.870↓",
         "handicap": "平手",
-        "away_water": "0.930↑",
-        "time": "06-10 23:05"
+        "away_water": "0.910↑",
+        "time": "06-10 23:14"
       },
       "init": {
         "home_water": "0.930",
