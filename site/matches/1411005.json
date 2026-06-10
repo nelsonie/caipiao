@@ -24,7 +24,7 @@
       "lost": "11.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-10T09:30:18Z"
+    "fetched_at_utc": "2026-06-10T09:40:15Z"
   },
   "shuju": {
     "title": "葡萄牙VS尼日利亚(2026友谊赛)-数据分析-500彩票网",
@@ -651,22 +651,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "球半",
-        "away_water": "1.050↑",
-        "time": "06-10 17:08"
-      },
-      "init": {
-        "home_water": "0.740",
-        "handicap": "球半",
-        "away_water": "0.930",
-        "time": "06-02 00:05"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -680,6 +664,22 @@
         "handicap": "球半",
         "away_water": "0.950",
         "time": "06-06 22:42"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.870↑",
+        "handicap": "球半",
+        "away_water": "1.050↑",
+        "time": "06-10 17:08"
+      },
+      "init": {
+        "home_water": "0.740",
+        "handicap": "球半",
+        "away_water": "0.930",
+        "time": "06-02 00:05"
       }
     },
     {
