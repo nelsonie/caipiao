@@ -24,7 +24,7 @@
       "lost": "7.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-10T09:20:07Z"
+    "fetched_at_utc": "2026-06-10T09:30:11Z"
   },
   "shuju": {
     "title": "墨西哥VS南非(2026世界杯)-数据分析-500彩票网",
@@ -777,10 +777,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "1.030↑",
         "handicap": "一球/球半升",
-        "away_water": "0.870↓",
-        "time": "06-10 17:01"
+        "away_water": "0.840↓",
+        "time": "06-10 17:24"
       },
       "init": {
         "home_water": "0.890",
@@ -873,32 +873,16 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "1.070↑",
+        "home_water": "1.060↑",
         "handicap": "一球/球半升",
-        "away_water": "0.850↓",
-        "time": "06-10 16:48"
+        "away_water": "0.860↓",
+        "time": "06-10 17:11"
       },
       "init": {
         "home_water": "0.920",
         "handicap": "一球",
         "away_water": "0.920",
         "time": "12-10 19:45"
-      }
-    },
-    {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.820↓",
-        "time": "06-09 20:03"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "一球",
-        "away_water": "0.970",
-        "time": "05-01 12:00"
       }
     },
     {
@@ -915,6 +899,22 @@
         "handicap": "一球",
         "away_water": "0.940",
         "time": "12-11 00:40"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "一球/球半升",
+        "away_water": "0.820↓",
+        "time": "06-09 20:03"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "一球",
+        "away_water": "0.970",
+        "time": "05-01 12:00"
       }
     },
     {
