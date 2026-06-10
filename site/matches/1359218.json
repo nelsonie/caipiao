@@ -24,7 +24,7 @@
       "lost": "13.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-10T08:30:15Z"
+    "fetched_at_utc": "2026-06-10T08:40:13Z"
   },
   "shuju": {
     "title": "葡萄牙VS民主刚果(2026世界杯)-数据分析-500彩票网",
@@ -433,22 +433,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "球半",
-        "away_water": "1.020↑",
-        "time": "06-10 10:52"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "球半",
-        "away_water": "0.810",
-        "time": "04-01 16:27"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -462,6 +446,22 @@
         "handicap": "一球/球半",
         "away_water": "0.950",
         "time": "04-01 13:46"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "球半",
+        "away_water": "1.020↑",
+        "time": "06-10 10:52"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "球半",
+        "away_water": "0.810",
+        "time": "04-01 16:27"
       }
     },
     {
