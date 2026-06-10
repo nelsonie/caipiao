@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-10T03:10:15Z",
+  "last_updated_utc": "2026-06-10T03:20:16Z",
   "matches": [
     {
       "xml_id": "2040162",
@@ -146,24 +146,6 @@
       "away_team_id": "17"
     },
     {
-      "xml_id": "2040170",
-      "matchnum": "7009",
-      "date": "2026-06-15",
-      "dayofweek": "星期一",
-      "league": "世界杯",
-      "home": "德国",
-      "away": "库拉索",
-      "spf_win": "1.94",
-      "spf_draw": "4.60",
-      "spf_lost": "2.52",
-      "spf_updated": "2026-06-08 10:02:25",
-      "gameid": "1359200",
-      "kickoff_cst": "2026-06-15 01:00",
-      "matchnum_label": "周日009",
-      "home_team_id": "13",
-      "away_team_id": "7516"
-    },
-    {
       "xml_id": "2040171",
       "matchnum": "7010",
       "date": "2026-06-15",
@@ -290,24 +272,6 @@
       "away_team_id": "32"
     },
     {
-      "xml_id": "2040179",
-      "matchnum": "2018",
-      "date": "2026-06-17",
-      "dayofweek": "星期三",
-      "league": "世界杯",
-      "home": "伊拉克",
-      "away": "挪威",
-      "spf_win": "2.03",
-      "spf_draw": "3.89",
-      "spf_lost": "2.64",
-      "spf_updated": "2026-06-08 10:02:25",
-      "gameid": "1359248",
-      "kickoff_cst": "2026-06-17 06:00",
-      "matchnum_label": "周二018",
-      "home_team_id": "52",
-      "away_team_id": "31"
-    },
-    {
       "xml_id": "2040180",
       "matchnum": "2019",
       "date": "2026-06-17",
@@ -360,24 +324,6 @@
       "matchnum_label": "周三021",
       "home_team_id": "20",
       "away_team_id": "68"
-    },
-    {
-      "xml_id": "2040183",
-      "matchnum": "3022",
-      "date": "2026-06-18",
-      "dayofweek": "星期四",
-      "league": "世界杯",
-      "home": "英格兰",
-      "away": "克罗地亚",
-      "spf_win": "2.94",
-      "spf_draw": "3.20",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-06-08 10:02:25",
-      "gameid": "1359221",
-      "kickoff_cst": "2026-06-18 04:00",
-      "matchnum_label": "周三022",
-      "home_team_id": "15",
-      "away_team_id": "36"
     },
     {
       "xml_id": "2040184",
