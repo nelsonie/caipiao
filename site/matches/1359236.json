@@ -24,7 +24,7 @@
       "lost": "2.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-11T06:20:09Z"
+    "fetched_at_utc": "2026-06-11T06:30:10Z"
   },
   "shuju": {
     "title": "科特迪瓦VS厄瓜多尔(2026世界杯)-数据分析-500彩票网",
@@ -316,10 +316,10 @@
       "cid": "5",
       "company": "*门",
       "live": {
-        "home_water": "0.860↑",
+        "home_water": "0.820↓",
         "handicap": "受平手/半球",
-        "away_water": "0.980↓",
-        "time": "06-08 20:21"
+        "away_water": "1.020↑",
+        "time": "06-11 12:30"
       },
       "init": {
         "home_water": "0.830",
@@ -489,22 +489,6 @@
       }
     },
     {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "0.840",
-        "handicap": "受平手/半球",
-        "away_water": "0.920",
-        "time": "05-01 12:01"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "受平手/半球",
-        "away_water": "0.920",
-        "time": "05-01 12:01"
-      }
-    },
-    {
       "cid": "348",
       "company": "金*博",
       "live": {
@@ -518,6 +502,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.930",
         "time": "12-07 01:45"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "0.840",
+        "handicap": "受平手/半球",
+        "away_water": "0.920",
+        "time": "05-01 12:01"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "受平手/半球",
+        "away_water": "0.920",
+        "time": "05-01 12:01"
       }
     },
     {
@@ -965,7 +965,7 @@
     {
       "cid": "9",
       "company": "易*博",
-      "time": "2026-06-10 18:06:47",
+      "time": "2026-06-11 12:44:48",
       "odds": {
         "live": [
           "3.10",
