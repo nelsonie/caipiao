@@ -24,7 +24,7 @@
       "lost": "1.33",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-11T19:00:07Z"
+    "fetched_at_utc": "2026-06-11T19:10:06Z"
   },
   "shuju": {
     "title": "卡塔尔VS瑞士(2026世界杯)-数据分析-500彩票网",
@@ -656,10 +656,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.980↓",
+        "home_water": "0.970↓",
         "handicap": "受球半/两球降",
-        "away_water": "0.880↑",
-        "time": "06-12 02:14"
+        "away_water": "0.870↑",
+        "time": "06-12 02:52"
       },
       "init": {
         "home_water": "1.000",
@@ -717,22 +717,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "受球半/两球降",
-        "away_water": "0.860↑",
-        "time": "06-11 21:56"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "受一球/球半",
-        "away_water": "0.840",
-        "time": "12-07 01:40"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -745,6 +729,22 @@
         "home_water": "0.870",
         "handicap": "受一球/球半",
         "away_water": "0.930",
+        "time": "12-07 01:40"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "受球半/两球降",
+        "away_water": "0.860↑",
+        "time": "06-11 21:56"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "受一球/球半",
+        "away_water": "0.840",
         "time": "12-07 01:40"
       }
     },
@@ -797,22 +797,6 @@
       }
     },
     {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "0.840↑",
-        "handicap": "受球半/两球",
-        "away_water": "0.980↑",
-        "time": "06-11 13:11"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "受球半/两球",
-        "away_water": "0.960",
-        "time": "05-01 12:01"
-      }
-    },
-    {
       "cid": "348",
       "company": "金*博",
       "live": {
@@ -826,6 +810,22 @@
         "handicap": "受一球/球半",
         "away_water": "0.820",
         "time": "12-22 17:47"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "0.840↑",
+        "handicap": "受球半/两球",
+        "away_water": "0.980↑",
+        "time": "06-11 13:11"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "受球半/两球",
+        "away_water": "0.960",
+        "time": "05-01 12:01"
       }
     },
     {
