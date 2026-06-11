@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-11T07:10:17Z",
+  "last_updated_utc": "2026-06-11T07:20:17Z",
   "matches": [
     {
       "xml_id": "2040162",
@@ -272,6 +272,24 @@
       "away_team_id": "28"
     },
     {
+      "xml_id": "2040177",
+      "matchnum": "1016",
+      "date": "2026-06-16",
+      "dayofweek": "星期二",
+      "league": "世界杯",
+      "home": "伊朗",
+      "away": "新西兰",
+      "spf_win": "3.10",
+      "spf_draw": "3.10",
+      "spf_lost": "2.07",
+      "spf_updated": "2026-06-08 10:02:25",
+      "gameid": "1359242",
+      "kickoff_cst": "2026-06-16 09:00",
+      "matchnum_label": "周一016",
+      "home_team_id": "34",
+      "away_team_id": "50"
+    },
+    {
       "xml_id": "2040178",
       "matchnum": "2017",
       "date": "2026-06-17",
@@ -324,24 +342,6 @@
       "matchnum_label": "周三021",
       "home_team_id": "20",
       "away_team_id": "68"
-    },
-    {
-      "xml_id": "2040183",
-      "matchnum": "3022",
-      "date": "2026-06-18",
-      "dayofweek": "星期四",
-      "league": "世界杯",
-      "home": "英格兰",
-      "away": "克罗地亚",
-      "spf_win": "2.94",
-      "spf_draw": "3.20",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-06-08 10:02:25",
-      "gameid": "1359221",
-      "kickoff_cst": "2026-06-18 04:00",
-      "matchnum_label": "周三022",
-      "home_team_id": "15",
-      "away_team_id": "36"
     },
     {
       "xml_id": "2040184",
