@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-11T18:30:18Z",
+  "last_updated_utc": "2026-06-11T18:40:19Z",
   "matches": [
     {
       "xml_id": "2040162",
@@ -218,6 +218,42 @@
       "away_team_id": "40"
     },
     {
+      "xml_id": "2040174",
+      "matchnum": "1013",
+      "date": "2026-06-16",
+      "dayofweek": "星期二",
+      "league": "世界杯",
+      "home": "西班牙",
+      "away": "佛得角",
+      "spf_win": "1.82",
+      "spf_draw": "4.00",
+      "spf_lost": "3.03",
+      "spf_updated": "2026-06-11 19:48:34",
+      "gameid": "1359209",
+      "kickoff_cst": "2026-06-16 00:00",
+      "matchnum_label": "周一013",
+      "home_team_id": "12",
+      "away_team_id": "152"
+    },
+    {
+      "xml_id": "2040175",
+      "matchnum": "1014",
+      "date": "2026-06-16",
+      "dayofweek": "星期二",
+      "league": "世界杯",
+      "home": "比利时",
+      "away": "埃及",
+      "spf_win": "2.65",
+      "spf_draw": "3.15",
+      "spf_lost": "2.30",
+      "spf_updated": "2026-06-08 10:02:25",
+      "gameid": "1359206",
+      "kickoff_cst": "2026-06-16 03:00",
+      "matchnum_label": "周一014",
+      "home_team_id": "23",
+      "away_team_id": "41"
+    },
+    {
       "xml_id": "2040176",
       "matchnum": "1015",
       "date": "2026-06-16",
@@ -234,42 +270,6 @@
       "matchnum_label": "周一015",
       "home_team_id": "39",
       "away_team_id": "28"
-    },
-    {
-      "xml_id": "2040177",
-      "matchnum": "1016",
-      "date": "2026-06-16",
-      "dayofweek": "星期二",
-      "league": "世界杯",
-      "home": "伊朗",
-      "away": "新西兰",
-      "spf_win": "3.10",
-      "spf_draw": "3.10",
-      "spf_lost": "2.07",
-      "spf_updated": "2026-06-08 10:02:25",
-      "gameid": "1359242",
-      "kickoff_cst": "2026-06-16 09:00",
-      "matchnum_label": "周一016",
-      "home_team_id": "34",
-      "away_team_id": "50"
-    },
-    {
-      "xml_id": "2040178",
-      "matchnum": "2017",
-      "date": "2026-06-17",
-      "dayofweek": "星期三",
-      "league": "世界杯",
-      "home": "法国",
-      "away": "塞内加尔",
-      "spf_win": "2.35",
-      "spf_draw": "3.20",
-      "spf_lost": "2.56",
-      "spf_updated": "2026-06-11 21:40:54",
-      "gameid": "1359212",
-      "kickoff_cst": "2026-06-17 03:00",
-      "matchnum_label": "周二017",
-      "home_team_id": "10",
-      "away_team_id": "32"
     },
     {
       "xml_id": "2040179",
@@ -290,6 +290,24 @@
       "away_team_id": "31"
     },
     {
+      "xml_id": "2040180",
+      "matchnum": "2019",
+      "date": "2026-06-17",
+      "dayofweek": "星期三",
+      "league": "世界杯",
+      "home": "阿根廷",
+      "away": "阿尔及利亚",
+      "spf_win": "2.07",
+      "spf_draw": "3.25",
+      "spf_lost": "2.95",
+      "spf_updated": "2026-06-08 10:02:25",
+      "gameid": "1359215",
+      "kickoff_cst": "2026-06-17 09:00",
+      "matchnum_label": "周二019",
+      "home_team_id": "14",
+      "away_team_id": "69"
+    },
+    {
       "xml_id": "2040181",
       "matchnum": "2020",
       "date": "2026-06-17",
@@ -306,42 +324,6 @@
       "matchnum_label": "周二020",
       "home_team_id": "53",
       "away_team_id": "87"
-    },
-    {
-      "xml_id": "2040184",
-      "matchnum": "3023",
-      "date": "2026-06-18",
-      "dayofweek": "星期四",
-      "league": "世界杯",
-      "home": "加纳",
-      "away": "巴拿马",
-      "spf_win": "4.25",
-      "spf_draw": "3.40",
-      "spf_lost": "1.67",
-      "spf_updated": "2026-06-08 10:02:25",
-      "gameid": "1359257",
-      "kickoff_cst": "2026-06-18 07:00",
-      "matchnum_label": "周三023",
-      "home_team_id": "60",
-      "away_team_id": "121"
-    },
-    {
-      "xml_id": "2040185",
-      "matchnum": "3024",
-      "date": "2026-06-18",
-      "dayofweek": "星期四",
-      "league": "世界杯",
-      "home": "乌兹别克斯坦",
-      "away": "哥伦比亚",
-      "spf_win": "3.02",
-      "spf_draw": "3.30",
-      "spf_lost": "2.02",
-      "spf_updated": "2026-06-08 10:02:25",
-      "gameid": "1359254",
-      "kickoff_cst": "2026-06-18 10:00",
-      "matchnum_label": "周三024",
-      "home_team_id": "91",
-      "away_team_id": "6"
     }
   ]
 }
