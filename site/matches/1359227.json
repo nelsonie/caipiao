@@ -24,7 +24,7 @@
       "lost": "1.33",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-12T14:10:06Z"
+    "fetched_at_utc": "2026-06-12T14:20:07Z"
   },
   "shuju": {
     "title": "卡塔尔VS瑞士(2026世界杯)-数据分析-500彩票网",
@@ -736,10 +736,10 @@
       "cid": "1484",
       "company": "on**",
       "live": {
-        "home_water": "0.930↑",
+        "home_water": "0.920↑",
         "handicap": "受球半/两球降",
-        "away_water": "0.880↓",
-        "time": "06-12 21:24"
+        "away_water": "0.890↓",
+        "time": "06-12 22:05"
       },
       "init": {
         "home_water": "0.870",
@@ -797,22 +797,6 @@
       }
     },
     {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "0.910↑",
-        "handicap": "受球半/两球",
-        "away_water": "0.910↓",
-        "time": "06-12 16:36"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "受球半/两球",
-        "away_water": "0.960",
-        "time": "05-01 12:01"
-      }
-    },
-    {
       "cid": "348",
       "company": "金*博",
       "live": {
@@ -826,6 +810,22 @@
         "handicap": "受一球/球半",
         "away_water": "0.820",
         "time": "12-22 17:47"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "受球半/两球",
+        "away_water": "0.910↓",
+        "time": "06-12 16:36"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "受球半/两球",
+        "away_water": "0.960",
+        "time": "05-01 12:01"
       }
     },
     {
