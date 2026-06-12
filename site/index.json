@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-12T23:20:18Z",
+  "last_updated_utc": "2026-06-12T23:30:22Z",
   "matches": [
     {
       "xml_id": "2040165",
@@ -180,24 +180,6 @@
       "matchnum_label": "周一013",
       "home_team_id": "12",
       "away_team_id": "152"
-    },
-    {
-      "xml_id": "2040175",
-      "matchnum": "1014",
-      "date": "2026-06-16",
-      "dayofweek": "星期二",
-      "league": "世界杯",
-      "home": "比利时",
-      "away": "埃及",
-      "spf_win": "2.62",
-      "spf_draw": "3.20",
-      "spf_lost": "2.30",
-      "spf_updated": "2026-06-12 12:46:38",
-      "gameid": "1359206",
-      "kickoff_cst": "2026-06-16 03:00",
-      "matchnum_label": "周一014",
-      "home_team_id": "23",
-      "away_team_id": "41"
     },
     {
       "xml_id": "2040176",
