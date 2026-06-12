@@ -24,7 +24,7 @@
       "lost": "1.55",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-12T21:40:09Z"
+    "fetched_at_utc": "2026-06-12T21:50:07Z"
   },
   "shuju": {
     "title": "澳大利亚VS土耳其(2026世界杯)-数据分析-500彩票网",
@@ -715,22 +715,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "受半球/一球",
-        "away_water": "0.890↑",
-        "time": "06-12 18:12"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "受半球/一球",
-        "away_water": "0.820",
-        "time": "04-01 22:38"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -744,6 +728,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.820",
         "time": "04-02 01:35"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.920↑",
+        "handicap": "受半球/一球",
+        "away_water": "0.890↑",
+        "time": "06-12 18:12"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "受半球/一球",
+        "away_water": "0.820",
+        "time": "04-01 22:38"
       }
     },
     {
@@ -795,22 +795,6 @@
       }
     },
     {
-      "cid": "348",
-      "company": "金*博",
-      "live": {
-        "home_water": "1.010↓",
-        "handicap": "受半球",
-        "away_water": "0.830↑",
-        "time": "04-05 21:21"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "受半球",
-        "away_water": "0.810",
-        "time": "04-05 17:57"
-      }
-    },
-    {
       "cid": "122",
       "company": "香**会",
       "live": {
@@ -827,13 +811,29 @@
       }
     },
     {
+      "cid": "348",
+      "company": "金*博",
+      "live": {
+        "home_water": "1.010↓",
+        "handicap": "受半球",
+        "away_water": "0.830↑",
+        "time": "04-05 21:21"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "受半球",
+        "away_water": "0.810",
+        "time": "04-05 17:57"
+      }
+    },
+    {
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.940↑",
+        "home_water": "0.960↑",
         "handicap": "受半球/一球",
-        "away_water": "0.980↑",
-        "time": "06-13 03:16"
+        "away_water": "0.960↑",
+        "time": "06-13 05:34"
       },
       "init": {
         "home_water": "0.920",
