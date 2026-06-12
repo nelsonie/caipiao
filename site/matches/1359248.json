@@ -24,7 +24,7 @@
       "lost": "1.29",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-12T11:10:16Z"
+    "fetched_at_utc": "2026-06-12T11:20:10Z"
   },
   "shuju": {
     "title": "伊拉克VS挪威(2026世界杯)-数据分析-500彩票网",
@@ -531,22 +531,6 @@
       }
     },
     {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "1.000",
-        "handicap": "受球半/两球",
-        "away_water": "0.770",
-        "time": "05-01 12:01"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "受球半/两球",
-        "away_water": "0.770",
-        "time": "05-01 12:01"
-      }
-    },
-    {
       "cid": "348",
       "company": "金*博",
       "live": {
@@ -560,6 +544,22 @@
         "handicap": "受一球/球半",
         "away_water": "1.040",
         "time": "04-01 18:51"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "1.000",
+        "handicap": "受球半/两球",
+        "away_water": "0.770",
+        "time": "05-01 12:01"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "受球半/两球",
+        "away_water": "0.770",
+        "time": "05-01 12:01"
       }
     },
     {
