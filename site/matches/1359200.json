@@ -24,7 +24,7 @@
       "lost": "91.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-12T17:40:07Z"
+    "fetched_at_utc": "2026-06-12T17:50:08Z"
   },
   "shuju": {
     "title": "德国VS库拉索(2026世界杯)-数据分析-500彩票网",
@@ -305,15 +305,269 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "7",
+            "name": "凯·哈弗茨",
+            "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "弗洛里安·维尔茨",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "贾马尔·穆西亚拉",
+            "position": "中场"
+          },
+          {
+            "number": "19",
+            "name": "勒鲁瓦·萨内",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "亚历山大·帕夫洛维奇",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "费利克斯·恩梅查",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "纳撒尼尔·布朗",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "尼科·施洛特贝克",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "约纳坦·塔",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "约书亚·基米希",
+            "position": "后卫"
+          },
+          {
+            "number": "12",
+            "name": "奥利弗·鲍曼",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "11",
+            "name": "尼克·沃尔特马德",
+            "position": "前锋"
+          },
+          {
+            "number": "13",
+            "name": "帕斯卡·格罗斯",
+            "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "杰米·莱韦林",
+            "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "亚历山大·努贝尔",
+            "position": "守门员"
+          },
+          {
+            "number": "2",
+            "name": "安东尼奥·吕迪格",
+            "position": "后卫"
+          },
+          {
+            "number": "16",
+            "name": "安杰洛·施蒂勒",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "马利克·佳夫",
+            "position": "后卫"
+          },
+          {
+            "number": "26",
+            "name": "德尼茨·翁达夫",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "莱昂·格雷茨卡",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "马克西米利安·拜尔",
+            "position": "前锋"
+          },
+          {
+            "number": "3",
+            "name": "瓦尔德马·安东",
+            "position": "后卫"
+          },
+          {
+            "number": "20",
+            "name": "纳迪姆·阿米里",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "达维德·劳姆",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "曼努埃尔·诺伊尔",
+            "position": "守门员"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "16",
+            "name": "杰尔·马加里塔",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "赫尔瓦内·卡斯塔内尔",
+            "position": "前锋"
+          },
+          {
+            "number": "14",
+            "name": "肯伊·霍勒",
+            "position": "前锋"
+          },
+          {
+            "number": "6",
+            "name": "霍德弗里德·罗默拉托",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "布兰德利·库瓦斯",
+            "position": "中场"
+          },
+          {
+            "number": "4",
+            "name": "罗森·范艾玛",
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "舒兰迪·桑博",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "阿贾尼·玛尔塔",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "朱利安·加里",
+            "position": "后卫"
+          },
+          {
+            "number": "20",
+            "name": "约书亚·布雷内特",
+            "position": "后卫"
+          },
+          {
+            "number": "26",
+            "name": "特雷弗·多恩布施",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "1",
+            "name": "埃洛伊·罗姆",
+            "position": "守门员"
+          },
+          {
+            "number": "18",
+            "name": "阿尔曼多·奥比斯波",
+            "position": "后卫"
+          },
+          {
+            "number": "13",
+            "name": "泰瑞斯·诺斯林",
+            "position": "后卫"
+          },
+          {
+            "number": "12",
+            "name": "松切·汉森",
+            "position": "前锋"
+          },
+          {
+            "number": "0",
+            "name": "德弗伦·丰维尔",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "谢拉尔·弗洛拉努斯",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "凯文·费利达",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "利瓦诺·科梅内西亚",
+            "position": "中场"
+          },
+          {
+            "number": "21",
+            "name": "陈达毅",
+            "position": "前锋"
+          },
+          {
+            "number": "25",
+            "name": "泰里克· 博达克",
+            "position": "守门员"
+          },
+          {
+            "number": "23",
+            "name": "里赫德利·巴佐尔",
+            "position": "后卫"
+          },
+          {
+            "number": "10",
+            "name": "莱安德罗·巴库纳",
+            "position": "后卫"
+          },
+          {
+            "number": "11",
+            "name": "耶雷米·安东尼塞",
+            "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "儒尼尼奥·巴库纳",
+            "position": "前锋"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
@@ -433,22 +687,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "三球半",
-        "away_water": "0.840↑",
-        "time": "06-12 23:09"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "三球半",
-        "away_water": "0.810",
-        "time": "05-18 22:02"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -462,6 +700,22 @@
         "handicap": "三球半/四球",
         "away_water": "0.890",
         "time": "12-09 11:15"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "三球半",
+        "away_water": "0.840↑",
+        "time": "06-12 23:09"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "三球半",
+        "away_water": "0.810",
+        "time": "05-18 22:02"
       }
     },
     {
@@ -513,22 +767,6 @@
       }
     },
     {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "三球/三球半",
-        "away_water": "0.950↑",
-        "time": "06-12 13:44"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "三球/三球半",
-        "away_water": "0.910",
-        "time": "05-01 12:01"
-      }
-    },
-    {
       "cid": "348",
       "company": "金*博",
       "live": {
@@ -542,6 +780,22 @@
         "handicap": "三球半/四球",
         "away_water": "0.980",
         "time": "12-06 21:39"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "0.870↑",
+        "handicap": "三球/三球半",
+        "away_water": "0.950↑",
+        "time": "06-12 13:44"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "三球/三球半",
+        "away_water": "0.910",
+        "time": "05-01 12:01"
       }
     },
     {
