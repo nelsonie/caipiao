@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-13T13:50:16Z",
+  "last_updated_utc": "2026-06-13T14:00:18Z",
   "matches": [
     {
       "xml_id": "2040166",
@@ -27,10 +27,10 @@
       "league": "世界杯",
       "home": "巴西",
       "away": "摩洛哥",
-      "spf_win": "2.85",
-      "spf_draw": "2.96",
+      "spf_win": "2.90",
+      "spf_draw": "2.91",
       "spf_lost": "2.27",
-      "spf_updated": "2026-06-13 20:24:18",
+      "spf_updated": "2026-06-13 21:54:21",
       "gameid": "1359195",
       "kickoff_cst": "2026-06-14 06:00",
       "matchnum_label": "周六006",
@@ -290,6 +290,24 @@
       "away_team_id": "87"
     },
     {
+      "xml_id": "2040182",
+      "matchnum": "3021",
+      "date": "2026-06-18",
+      "dayofweek": "星期四",
+      "league": "世界杯",
+      "home": "葡萄牙",
+      "away": "刚果(金)",
+      "spf_win": "2.74",
+      "spf_draw": "3.85",
+      "spf_lost": "1.98",
+      "spf_updated": "2026-06-12 12:45:07",
+      "gameid": "1359218",
+      "kickoff_cst": "2026-06-18 01:00",
+      "matchnum_label": "周三021",
+      "home_team_id": "20",
+      "away_team_id": "68"
+    },
+    {
       "xml_id": "2040183",
       "matchnum": "3022",
       "date": "2026-06-18",
@@ -306,24 +324,6 @@
       "matchnum_label": "周三022",
       "home_team_id": "15",
       "away_team_id": "36"
-    },
-    {
-      "xml_id": "2040184",
-      "matchnum": "3023",
-      "date": "2026-06-18",
-      "dayofweek": "星期四",
-      "league": "世界杯",
-      "home": "加纳",
-      "away": "巴拿马",
-      "spf_win": "4.25",
-      "spf_draw": "3.52",
-      "spf_lost": "1.64",
-      "spf_updated": "2026-06-13 09:36:35",
-      "gameid": "1359257",
-      "kickoff_cst": "2026-06-18 07:00",
-      "matchnum_label": "周三023",
-      "home_team_id": "60",
-      "away_team_id": "121"
     },
     {
       "xml_id": "2040185",
@@ -396,24 +396,6 @@
       "matchnum_label": "周六203",
       "home_team_id": "743",
       "away_team_id": "866"
-    },
-    {
-      "xml_id": "2040213",
-      "matchnum": "6204",
-      "date": "2026-06-13",
-      "dayofweek": "星期六",
-      "league": "芬兰超级联赛",
-      "home": "瓦萨",
-      "away": "库奥皮奥",
-      "spf_win": "1.56",
-      "spf_draw": "3.75",
-      "spf_lost": "4.50",
-      "spf_updated": "2026-06-13 20:14:07",
-      "gameid": "1363408",
-      "kickoff_cst": "2026-06-13 22:00",
-      "matchnum_label": "周六204",
-      "home_team_id": "434",
-      "away_team_id": "841"
     },
     {
       "xml_id": "2040214",
