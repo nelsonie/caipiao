@@ -24,7 +24,7 @@
       "lost": "3.55",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-13T12:30:14Z"
+    "fetched_at_utc": "2026-06-13T12:40:15Z"
   },
   "shuju": {
     "title": "埃尔维斯VSTPS土尔库(2026芬超)-数据分析-500彩票网",
@@ -497,23 +497,23 @@
         "formation": null,
         "starters": [
           {
-            "number": "11",
-            "name": "埃尔默·沃赫科宁",
-            "position": "前锋"
-          },
-          {
-            "number": "9",
-            "name": "卢克-伊万诺维奇",
-            "position": "前锋"
-          },
-          {
             "number": "29",
             "name": "阿尔比恩·穆扎奇",
             "position": "前锋"
           },
           {
-            "number": "22",
-            "name": "蒂莫·扎尔",
+            "number": "11",
+            "name": "埃尔默·沃赫科宁",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "马吕斯·孔科拉",
+            "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "卢克-伊万诺维奇",
             "position": "中场"
           },
           {
@@ -522,8 +522,8 @@
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "马吕斯·孔科拉",
+            "number": "22",
+            "name": "蒂莫·扎尔",
             "position": "中场"
           },
           {
@@ -718,22 +718,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.950↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.840↓",
-        "time": "06-13 19:59"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "平手/半球",
-        "away_water": "0.920",
-        "time": "06-03 16:27"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -747,6 +731,22 @@
         "handicap": "半球",
         "away_water": "0.850",
         "time": "06-10 20:12"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.950↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.840↓",
+        "time": "06-13 19:59"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "平手/半球",
+        "away_water": "0.920",
+        "time": "06-03 16:27"
       }
     },
     {
