@@ -24,7 +24,7 @@
       "lost": "1.53",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-13T14:10:14Z"
+    "fetched_at_utc": "2026-06-13T14:20:15Z"
   },
   "shuju": {
     "title": "查路VS赫尔辛基(2026芬超)-数据分析-500彩票网",
@@ -398,28 +398,23 @@
         "formation": null,
         "starters": [
           {
-            "number": "26",
-            "name": "马茨·佩德森",
-            "position": "前锋"
-          },
-          {
             "number": "91",
             "name": "维勒·沃里宁",
             "position": "前锋"
           },
           {
+            "number": "26",
+            "name": "马茨·佩德森",
+            "position": "中场"
+          },
+          {
             "number": "11",
             "name": "赫尔曼·舍格瑞尔",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "19",
             "name": "法比安·奥斯塔加德·内斯",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "约翰·布鲁内尔",
             "position": "中场"
           },
           {
@@ -428,9 +423,19 @@
             "position": "中场"
           },
           {
+            "number": "7",
+            "name": "杰斯珀·斯文隆森·斯库",
+            "position": "中场"
+          },
+          {
             "number": "5",
             "name": "阿隆·比昂巴克",
             "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "约翰·布鲁内尔",
+            "position": "后卫"
           },
           {
             "number": "3",
@@ -443,11 +448,6 @@
             "position": "后卫"
           },
           {
-            "number": "7",
-            "name": "杰斯珀·斯文隆森·斯库",
-            "position": "后卫"
-          },
-          {
             "number": "1",
             "name": "塞内·维茨",
             "position": "守门员"
@@ -455,9 +455,9 @@
         ],
         "subs": [
           {
-            "number": "2",
-            "name": "费利克斯·卡斯",
-            "position": "后卫"
+            "number": "22",
+            "name": "凯乌斯·哈登",
+            "position": "中场"
           },
           {
             "number": "95",
@@ -495,9 +495,9 @@
             "position": "中场"
           },
           {
-            "number": "22",
-            "name": "凯乌斯·哈登",
-            "position": "中场"
+            "number": "2",
+            "name": "费利克斯·卡斯",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -564,21 +564,6 @@
         ],
         "subs": [
           {
-            "number": "9",
-            "name": "马兹·博彻斯",
-            "position": "前锋"
-          },
-          {
-            "number": "28",
-            "name": "米斯卡·伊利托尔瓦",
-            "position": "后卫"
-          },
-          {
-            "number": "1",
-            "name": "谢斯·奥斯特",
-            "position": "守门员"
-          },
-          {
             "number": "22",
             "name": "利亚姆·穆勒",
             "position": "中场"
@@ -594,8 +579,23 @@
             "position": "前锋"
           },
           {
+            "number": "1",
+            "name": "谢斯·奥斯特",
+            "position": "守门员"
+          },
+          {
             "number": "19",
             "name": "大卫·艾泽克",
+            "position": "前锋"
+          },
+          {
+            "number": "3",
+            "name": "提尔·西索科",
+            "position": "后卫"
+          },
+          {
+            "number": "9",
+            "name": "马兹·博彻斯",
             "position": "前锋"
           },
           {
@@ -604,8 +604,8 @@
             "position": "中场"
           },
           {
-            "number": "3",
-            "name": "提尔·西索科",
+            "number": "28",
+            "name": "米斯卡·伊利托尔瓦",
             "position": "后卫"
           }
         ],
