@@ -24,7 +24,7 @@
       "lost": "3.55",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-13T04:00:16Z"
+    "fetched_at_utc": "2026-06-13T04:10:15Z"
   },
   "shuju": {
     "title": "埃尔维斯VSTPS土尔库(2026芬超)-数据分析-500彩票网",
@@ -665,7 +665,7 @@
         "home_water": "0.830↑",
         "handicap": "半球升",
         "away_water": "0.980↓",
-        "time": "06-13 11:43"
+        "time": "06-13 12:04"
       },
       "init": {
         "home_water": "0.800",
@@ -694,10 +694,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.850↓",
         "handicap": "半球",
-        "away_water": "1.000↑",
-        "time": "06-13 11:43"
+        "away_water": "1.020↑",
+        "time": "06-13 12:03"
       },
       "init": {
         "home_water": "0.960",
@@ -723,6 +723,22 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.690↓",
+        "time": "06-13 11:50"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "平手/半球",
+        "away_water": "0.920",
+        "time": "06-03 16:27"
+      }
+    },
+    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -736,22 +752,6 @@
         "handicap": "半球",
         "away_water": "0.850",
         "time": "06-10 20:12"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.700↓",
-        "time": "06-13 09:29"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "平手/半球",
-        "away_water": "0.920",
-        "time": "06-03 16:27"
       }
     },
     {
@@ -838,10 +838,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.810↑",
+        "home_water": "0.800↑",
         "handicap": "半球升",
-        "away_water": "0.960↓",
-        "time": "06-13 11:45"
+        "away_water": "0.970↓",
+        "time": "06-13 12:00"
       },
       "init": {
         "home_water": "0.750",
@@ -1704,7 +1704,7 @@
     {
       "cid": "140",
       "company": "M****on88 (明*)",
-      "time": "2026-06-13 10:18:24",
+      "time": "2026-06-13 12:00:46",
       "odds": {
         "live": [
           "2.00",
@@ -1998,7 +1998,7 @@
     {
       "cid": "863",
       "company": "18**t",
-      "time": "2026-06-13 08:11:19",
+      "time": "2026-06-13 11:51:11",
       "odds": {
         "live": [
           "2.00",
