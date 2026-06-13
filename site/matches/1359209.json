@@ -24,7 +24,7 @@
       "lost": "36.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-13T19:20:09Z"
+    "fetched_at_utc": "2026-06-13T19:30:09Z"
   },
   "shuju": {
     "title": "西班牙VS佛得角(2026世界杯)-数据分析-500彩票网",
@@ -762,22 +762,6 @@
       }
     },
     {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "1.120↑",
-        "handicap": "两球半/三球",
-        "away_water": "0.730↓",
-        "time": "06-13 11:58"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "两球半/三球",
-        "away_water": "0.830",
-        "time": "05-01 12:01"
-      }
-    },
-    {
       "cid": "348",
       "company": "金*博",
       "live": {
@@ -791,6 +775,22 @@
         "handicap": "两球半",
         "away_water": "1.060",
         "time": "02-25 22:13"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "1.120↑",
+        "handicap": "两球半/三球",
+        "away_water": "0.730↓",
+        "time": "06-13 11:58"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "两球半/三球",
+        "away_water": "0.830",
+        "time": "05-01 12:01"
       }
     },
     {
