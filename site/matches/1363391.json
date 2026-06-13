@@ -24,7 +24,7 @@
       "lost": "3.55",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-13T06:50:15Z"
+    "fetched_at_utc": "2026-06-13T07:00:12Z"
   },
   "shuju": {
     "title": "埃尔维斯VSTPS土尔库(2026芬超)-数据分析-500彩票网",
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.690↓",
-        "time": "06-13 11:50"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "平手/半球",
-        "away_water": "0.920",
-        "time": "06-03 16:27"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "半球",
         "away_water": "0.850",
         "time": "06-10 20:12"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.690↓",
+        "time": "06-13 11:50"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "平手/半球",
+        "away_water": "0.920",
+        "time": "06-03 16:27"
       }
     },
     {
