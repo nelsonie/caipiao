@@ -24,7 +24,7 @@
       "lost": "8.90",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-13T07:40:14Z"
+    "fetched_at_utc": "2026-06-13T07:50:14Z"
   },
   "shuju": {
     "title": "奥地利VS约旦(2026世界杯)-数据分析-500彩票网",
@@ -451,22 +451,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.930↓",
-        "handicap": "球半",
-        "away_water": "0.880↑",
-        "time": "06-13 09:23"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "球半",
-        "away_water": "0.850",
-        "time": "12-22 17:33"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -480,6 +464,22 @@
         "handicap": "球半",
         "away_water": "0.860",
         "time": "12-09 11:22"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.930↓",
+        "handicap": "球半",
+        "away_water": "0.880↑",
+        "time": "06-13 09:23"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "球半",
+        "away_water": "0.850",
+        "time": "12-22 17:33"
       }
     },
     {

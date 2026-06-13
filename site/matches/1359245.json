@@ -24,7 +24,7 @@
       "lost": "1.28",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-13T07:40:10Z"
+    "fetched_at_utc": "2026-06-13T07:50:11Z"
   },
   "shuju": {
     "title": "沙特VS乌拉圭(2026世界杯)-数据分析-500彩票网",
@@ -530,22 +530,6 @@
       }
     },
     {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "受一球/球半",
-        "away_water": "0.970↑",
-        "time": "06-13 12:17"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "受一球/球半",
-        "away_water": "0.880",
-        "time": "05-01 12:01"
-      }
-    },
-    {
       "cid": "348",
       "company": "金*博",
       "live": {
@@ -559,6 +543,22 @@
         "handicap": "受一球/球半",
         "away_water": "0.980",
         "time": "12-09 11:08"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "受一球/球半",
+        "away_water": "0.970↑",
+        "time": "06-13 12:17"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "受一球/球半",
+        "away_water": "0.880",
+        "time": "05-01 12:01"
       }
     },
     {
