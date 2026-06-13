@@ -24,7 +24,7 @@
       "lost": "91.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-13T05:10:07Z"
+    "fetched_at_utc": "2026-06-13T05:20:08Z"
   },
   "shuju": {
     "title": "德国VS库拉索(2026世界杯)-数据分析-500彩票网",
@@ -767,22 +767,6 @@
       }
     },
     {
-      "cid": "348",
-      "company": "金*博",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "三球半/四球",
-        "away_water": "0.960↓",
-        "time": "03-31 21:39"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "三球半/四球",
-        "away_water": "0.980",
-        "time": "12-06 21:39"
-      }
-    },
-    {
       "cid": "122",
       "company": "香**会",
       "live": {
@@ -796,6 +780,22 @@
         "handicap": "三球/三球半",
         "away_water": "0.910",
         "time": "05-01 12:01"
+      }
+    },
+    {
+      "cid": "348",
+      "company": "金*博",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "三球半/四球",
+        "away_water": "0.960↓",
+        "time": "03-31 21:39"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "三球半/四球",
+        "away_water": "0.980",
+        "time": "12-06 21:39"
       }
     },
     {
