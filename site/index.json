@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-13T06:30:18Z",
+  "last_updated_utc": "2026-06-13T06:40:19Z",
   "matches": [
     {
       "xml_id": "2040166",
@@ -182,42 +182,6 @@
       "away_team_id": "41"
     },
     {
-      "xml_id": "2040176",
-      "matchnum": "1015",
-      "date": "2026-06-16",
-      "dayofweek": "星期二",
-      "league": "世界杯",
-      "home": "沙特阿拉伯",
-      "away": "乌拉圭",
-      "spf_win": "2.84",
-      "spf_draw": "3.30",
-      "spf_lost": "2.11",
-      "spf_updated": "2026-06-12 10:06:35",
-      "gameid": "1359245",
-      "kickoff_cst": "2026-06-16 06:00",
-      "matchnum_label": "周一015",
-      "home_team_id": "39",
-      "away_team_id": "28"
-    },
-    {
-      "xml_id": "2040177",
-      "matchnum": "1016",
-      "date": "2026-06-16",
-      "dayofweek": "星期二",
-      "league": "世界杯",
-      "home": "伊朗",
-      "away": "新西兰",
-      "spf_win": "3.10",
-      "spf_draw": "3.10",
-      "spf_lost": "2.07",
-      "spf_updated": "2026-06-08 10:02:25",
-      "gameid": "1359242",
-      "kickoff_cst": "2026-06-16 09:00",
-      "matchnum_label": "周一016",
-      "home_team_id": "34",
-      "away_team_id": "50"
-    },
-    {
       "xml_id": "2040178",
       "matchnum": "2017",
       "date": "2026-06-17",
@@ -398,6 +362,24 @@
       "away_team_id": "866"
     },
     {
+      "xml_id": "2040213",
+      "matchnum": "6204",
+      "date": "2026-06-13",
+      "dayofweek": "星期六",
+      "league": "芬兰超级联赛",
+      "home": "瓦萨",
+      "away": "库奥皮奥",
+      "spf_win": "1.58",
+      "spf_draw": "3.75",
+      "spf_lost": "4.35",
+      "spf_updated": "2026-06-13 09:24:18",
+      "gameid": "1363408",
+      "kickoff_cst": "2026-06-13 22:00",
+      "matchnum_label": "周六204",
+      "home_team_id": "434",
+      "away_team_id": "841"
+    },
+    {
       "xml_id": "2040214",
       "matchnum": "6205",
       "date": "2026-06-14",
@@ -414,24 +396,6 @@
       "matchnum_label": "周六205",
       "home_team_id": "2326",
       "away_team_id": "2687"
-    },
-    {
-      "xml_id": "2040215",
-      "matchnum": "6206",
-      "date": "2026-06-14",
-      "dayofweek": "星期天",
-      "league": "芬兰超级联赛",
-      "home": "拉赫蒂",
-      "away": "塞伊奈约基",
-      "spf_win": "4.30",
-      "spf_draw": "3.80",
-      "spf_lost": "1.58",
-      "spf_updated": "2026-06-13 09:24:18",
-      "gameid": "1363414",
-      "kickoff_cst": "2026-06-14 00:00",
-      "matchnum_label": "周六206",
-      "home_team_id": "956",
-      "away_team_id": "6492"
     }
   ]
 }
