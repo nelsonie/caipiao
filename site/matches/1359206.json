@@ -24,7 +24,7 @@
       "lost": "5.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-14T05:10:08Z"
+    "fetched_at_utc": "2026-06-14T05:20:09Z"
   },
   "shuju": {
     "title": "比利时VS埃及(2026世界杯)-数据分析-500彩票网",
@@ -665,10 +665,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.750↓",
-        "handicap": "半球/一球",
-        "away_water": "1.050",
-        "time": "06-14 12:37"
+        "home_water": "1.100↑",
+        "handicap": "一球升",
+        "away_water": "0.780↓",
+        "time": "06-14 13:07"
       },
       "init": {
         "home_water": "0.800",
@@ -726,22 +726,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.790↑",
-        "handicap": "半球/一球",
-        "away_water": "1.060↑",
-        "time": "06-14 07:21"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "半球/一球",
-        "away_water": "0.950",
-        "time": "12-07 02:00"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -754,6 +738,22 @@
         "home_water": "0.770",
         "handicap": "半球/一球",
         "away_water": "0.960",
+        "time": "12-07 02:00"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.790↑",
+        "handicap": "半球/一球",
+        "away_water": "1.060↑",
+        "time": "06-14 13:18"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "半球/一球",
+        "away_water": "0.950",
         "time": "12-07 02:00"
       }
     },
