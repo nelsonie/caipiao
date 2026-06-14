@@ -24,7 +24,7 @@
       "lost": "91.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-14T12:50:08Z"
+    "fetched_at_utc": "2026-06-14T13:00:07Z"
   },
   "shuju": {
     "title": "德国VS库拉索(2026世界杯)-数据分析-500彩票网",
@@ -778,10 +778,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.920↑",
+        "home_water": "0.910↑",
         "handicap": "三球半降",
-        "away_water": "0.960↓",
-        "time": "06-14 20:36"
+        "away_water": "0.970↓",
+        "time": "06-14 20:54"
       },
       "init": {
         "home_water": "0.820",
@@ -794,32 +794,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.900↑",
         "handicap": "三球半降",
-        "away_water": "0.940↓",
-        "time": "06-14 20:39"
+        "away_water": "0.960",
+        "time": "06-14 20:50"
       },
       "init": {
         "home_water": "0.820",
         "handicap": "三球半/四球",
         "away_water": "0.960",
         "time": "01-26 18:00"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "三球半",
-        "away_water": "0.890↑",
-        "time": "06-14 20:42"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "三球半",
-        "away_water": "0.810",
-        "time": "05-18 22:02"
       }
     },
     {
@@ -836,6 +820,22 @@
         "handicap": "三球半/四球",
         "away_water": "0.890",
         "time": "12-09 11:15"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "三球半",
+        "away_water": "0.890↑",
+        "time": "06-14 20:42"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "三球半",
+        "away_water": "0.810",
+        "time": "05-18 22:02"
       }
     },
     {
@@ -858,10 +858,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.940↓",
+        "home_water": "0.920↓",
         "handicap": "三球半降",
-        "away_water": "0.980↑",
-        "time": "06-14 20:39"
+        "away_water": "1.000↑",
+        "time": "06-14 20:50"
       },
       "init": {
         "home_water": "1.080",
@@ -874,32 +874,16 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.930↓",
+        "home_water": "0.910↓",
         "handicap": "三球半降",
-        "away_water": "0.990↑",
-        "time": "06-14 20:40"
+        "away_water": "1.010↑",
+        "time": "06-14 20:51"
       },
       "init": {
         "home_water": "1.000",
         "handicap": "三球半/四球",
         "away_water": "0.840",
         "time": "12-09 11:15"
-      }
-    },
-    {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "1.070↑",
-        "handicap": "三球半/四球升",
-        "away_water": "0.770↓",
-        "time": "06-14 20:08"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "三球/三球半",
-        "away_water": "0.910",
-        "time": "05-01 12:01"
       }
     },
     {
@@ -919,13 +903,29 @@
       }
     },
     {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "1.070↑",
+        "handicap": "三球半/四球升",
+        "away_water": "0.770↓",
+        "time": "06-14 20:08"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "三球/三球半",
+        "away_water": "0.910",
+        "time": "05-01 12:01"
+      }
+    },
+    {
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.940↑",
+        "home_water": "0.930↑",
         "handicap": "三球半降",
-        "away_water": "0.980↓",
-        "time": "06-14 20:46"
+        "away_water": "0.990↓",
+        "time": "06-14 20:50"
       },
       "init": {
         "home_water": "0.840",
@@ -940,8 +940,8 @@
       "live": {
         "home_water": "0.890↓",
         "handicap": "三球半降",
-        "away_water": "0.920↑",
-        "time": "06-14 20:46"
+        "away_water": "0.910↑",
+        "time": "06-14 20:53"
       },
       "init": {
         "home_water": "0.900",
@@ -1804,7 +1804,7 @@
     {
       "cid": "140",
       "company": "M****on88 (明*)",
-      "time": "2026-06-14 20:42:49",
+      "time": "2026-06-14 20:50:34",
       "odds": {
         "live": [
           "1.03",
@@ -1951,7 +1951,7 @@
     {
       "cid": "502",
       "company": "12**t (壹*博)",
-      "time": "2026-06-14 20:41:26",
+      "time": "2026-06-14 20:49:08",
       "odds": {
         "live": [
           "1.03",
