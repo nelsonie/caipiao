@@ -24,7 +24,7 @@
       "lost": "2.20",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-14T07:10:06Z"
+    "fetched_at_utc": "2026-06-14T07:20:07Z"
   },
   "shuju": {
     "title": "科特迪瓦VS厄瓜多尔(2026世界杯)-数据分析-500彩票网",
@@ -476,31 +476,15 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "1.160↑",
+        "home_water": "1.170↑",
         "handicap": "平手降",
-        "away_water": "0.790↓",
-        "time": "06-14 14:48"
+        "away_water": "0.780↓",
+        "time": "06-14 15:08"
       },
       "init": {
         "home_water": "0.990",
         "handicap": "平手/半球",
         "away_water": "0.850",
-        "time": "12-07 01:45"
-      }
-    },
-    {
-      "cid": "348",
-      "company": "金*博",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "受平手/半球",
-        "away_water": "1.010↑",
-        "time": "03-29 05:49"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "受平手/半球",
-        "away_water": "0.930",
         "time": "12-07 01:45"
       }
     },
@@ -521,13 +505,29 @@
       }
     },
     {
+      "cid": "348",
+      "company": "金*博",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.010↑",
+        "time": "03-29 05:49"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "受平手/半球",
+        "away_water": "0.930",
+        "time": "12-07 01:45"
+      }
+    },
+    {
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "1.160↑",
+        "home_water": "1.170↑",
         "handicap": "平手升",
-        "away_water": "0.790↓",
-        "time": "06-14 14:48"
+        "away_water": "0.780↓",
+        "time": "06-14 15:08"
       },
       "init": {
         "home_water": "0.820",
@@ -556,10 +556,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "1.140↑",
+        "home_water": "1.160↑",
         "handicap": "平手升",
-        "away_water": "0.770↓",
-        "time": "06-14 14:52"
+        "away_water": "0.760↓",
+        "time": "06-14 15:07"
       },
       "init": {
         "home_water": "0.860",
