@@ -24,7 +24,7 @@
       "lost": "3.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-15T17:40:13Z"
+    "fetched_at_utc": "2026-06-15T17:50:10Z"
   },
   "shuju": {
     "title": "加纳VS巴拿马(2026世界杯)-数据分析-500彩票网",
@@ -281,15 +281,279 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "9",
+            "name": "乔丹·阿尤",
+            "position": "前锋"
+          },
+          {
+            "number": "22",
+            "name": "卡迈勒·迪恩·苏莱曼纳",
+            "position": "前锋"
+          },
+          {
+            "number": "25",
+            "name": "普林斯·夸贝纳·阿杜",
+            "position": "前锋"
+          },
+          {
+            "number": "15",
+            "name": "伊莱沙·奥乌苏",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "托马斯·帕尔特伊",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "阿卜杜勒·法塔乌·伊萨哈库",
+            "position": "前锋"
+          },
+          {
+            "number": "14",
+            "name": "吉迪恩·门萨",
+            "position": "后卫"
+          },
+          {
+            "number": "18",
+            "name": "杰罗姆·奥波库",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "乔纳斯·阿杰蒂",
+            "position": "后卫"
+          },
+          {
+            "number": "26",
+            "name": "马尔文·塞纳亚",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "劳伦斯·阿蒂齐吉",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "12",
+            "name": "约瑟夫·阿南",
+            "position": "守门员"
+          },
+          {
+            "number": "16",
+            "name": "本亚明·阿萨雷",
+            "position": "守门员"
+          },
+          {
+            "number": "17",
+            "name": "阿卜杜勒·巴巴·拉赫曼",
+            "position": "后卫"
+          },
+          {
+            "number": "19",
+            "name": "伊尼亚基·威廉姆斯",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "布兰登·托马斯·阿桑特",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "夸西·西博",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "安托万·塞梅尼奥",
+            "position": "前锋"
+          },
+          {
+            "number": "2",
+            "name": "阿里杜·塞杜",
+            "position": "后卫"
+          },
+          {
+            "number": "21",
+            "name": "科乔·奥蓬·佩普拉",
+            "position": "后卫"
+          },
+          {
+            "number": "24",
+            "name": "埃内斯特·努瓦马",
+            "position": "前锋"
+          },
+          {
+            "number": "6",
+            "name": "阿卜杜勒·穆明",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "德里克·卢卡森",
+            "position": "后卫"
+          },
+          {
+            "number": "13",
+            "name": "克里斯托弗·邦苏·巴阿",
+            "position": "前锋"
+          },
+          {
+            "number": "3",
+            "name": "凯莱布·伊伦基",
+            "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "奥古斯丁·博阿基耶",
+            "position": "中场"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "16",
+            "name": "安德烈·安德拉德",
+            "position": "后卫"
+          },
+          {
+            "number": "18",
+            "name": "塞西·沃特曼",
+            "position": "前锋"
+          },
+          {
+            "number": "23",
+            "name": "阿米尔·穆里略",
+            "position": "后卫"
+          },
+          {
+            "number": "14",
+            "name": "卡洛斯·哈维",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "克里斯蒂安·马丁内斯",
+            "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "乔万尼·拉莫斯",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "埃德加多·法里纳",
+            "position": "后卫"
+          },
+          {
+            "number": "11",
+            "name": "埃德加·约埃尔·巴尔塞尼亚斯",
+            "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "何塞··路易斯·罗德里格斯",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "塞萨尔·布莱克曼",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "奥兰多·摩斯奎拉",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "12",
+            "name": "塞萨尔·萨穆迪奥",
+            "position": "守门员"
+          },
+          {
+            "number": "21",
+            "name": "塞萨尔·亚尼斯",
+            "position": "前锋"
+          },
+          {
+            "number": "3",
+            "name": "何塞·科尔多瓦",
+            "position": "后卫"
+          },
+          {
+            "number": "27",
+            "name": "卡迪尔·巴里亚",
+            "position": "前锋"
+          },
+          {
+            "number": "15",
+            "name": "埃里克·戴维斯",
+            "position": "后卫"
+          },
+          {
+            "number": "9",
+            "name": "托马斯·罗德里格斯",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "阿尔贝托·金特罗",
+            "position": "前锋"
+          },
+          {
+            "number": "25",
+            "name": "罗德里克·米勒",
+            "position": "后卫"
+          },
+          {
+            "number": "24",
+            "name": "阿扎里亚斯·伦多尼奥",
+            "position": "前锋"
+          },
+          {
+            "number": "1",
+            "name": "约翰·冈恩",
+            "position": "守门员"
+          },
+          {
+            "number": "28",
+            "name": "维克托·格里菲斯",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "何塞·法贾多",
+            "position": "前锋"
+          },
+          {
+            "number": "4",
+            "name": "菲德尔·埃斯科瓦尔",
+            "position": "后卫"
+          },
+          {
+            "number": "10",
+            "name": "伊斯梅尔·迪亚斯",
+            "position": "前锋"
+          },
+          {
+            "number": "26",
+            "name": "豪尔赫·古铁雷斯",
+            "position": "后卫"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
@@ -489,22 +753,6 @@
       }
     },
     {
-      "cid": "122",
-      "company": "香**会",
-      "live": {
-        "home_water": "0.830↑",
-        "handicap": "平手/半球",
-        "away_water": "0.990↓",
-        "time": "06-15 12:23"
-      },
-      "init": {
-        "home_water": "0.740",
-        "handicap": "平手/半球",
-        "away_water": "1.050",
-        "time": "05-01 12:01"
-      }
-    },
-    {
       "cid": "348",
       "company": "金*博",
       "live": {
@@ -518,6 +766,22 @@
         "handicap": "半球",
         "away_water": "0.810",
         "time": "12-09 11:08"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香**会",
+      "live": {
+        "home_water": "0.830↑",
+        "handicap": "平手/半球",
+        "away_water": "0.990↓",
+        "time": "06-15 12:23"
+      },
+      "init": {
+        "home_water": "0.740",
+        "handicap": "平手/半球",
+        "away_water": "1.050",
+        "time": "05-01 12:01"
       }
     },
     {
