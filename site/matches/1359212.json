@@ -24,7 +24,7 @@
       "lost": "6.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-16T01:10:07Z"
+    "fetched_at_utc": "2026-06-16T01:20:07Z"
   },
   "shuju": {
     "title": "法国VS塞内加尔(2026世界杯)-数据分析-500彩票网",
@@ -819,22 +819,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.810↓",
-        "handicap": "一球降",
-        "away_water": "1.030↑",
-        "time": "06-16 08:34"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "一球/球半",
-        "away_water": "0.790",
-        "time": "12-22 17:30"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -847,6 +831,22 @@
         "home_water": "0.910",
         "handicap": "一球/球半",
         "away_water": "0.810",
+        "time": "12-22 17:30"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.810↓",
+        "handicap": "一球降",
+        "away_water": "1.030↑",
+        "time": "06-16 08:34"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "一球/球半",
+        "away_water": "0.790",
         "time": "12-22 17:30"
       }
     },
