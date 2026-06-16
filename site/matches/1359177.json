@@ -24,7 +24,7 @@
       "lost": "3.87",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-16T09:20:11Z"
+    "fetched_at_utc": "2026-06-16T09:30:11Z"
   },
   "shuju": {
     "title": "墨西哥VS韩国(2026世界杯)-数据分析-500彩票网",
@@ -482,22 +482,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "半球",
-        "away_water": "0.840↓",
-        "time": "06-16 02:03"
-      },
-      "init": {
-        "home_water": "0.760",
-        "handicap": "半球",
-        "away_water": "0.970",
-        "time": "05-16 02:22"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -511,6 +495,22 @@
         "handicap": "半球/一球",
         "away_water": "0.640",
         "time": "05-09 19:05"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "半球",
+        "away_water": "0.840↓",
+        "time": "06-16 02:03"
+      },
+      "init": {
+        "home_water": "0.760",
+        "handicap": "半球",
+        "away_water": "0.970",
+        "time": "05-16 02:22"
       }
     },
     {
