@@ -24,7 +24,7 @@
       "lost": "1.26",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-16T16:40:07Z"
+    "fetched_at_utc": "2026-06-16T16:50:08Z"
   },
   "shuju": {
     "title": "乌兹别克斯坦VS哥伦比亚(2026世界杯)-数据分析-500彩票网",
@@ -691,22 +691,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "受一球/球半",
-        "away_water": "0.850↑",
-        "time": "06-16 17:52"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "受一球/球半",
-        "away_water": "0.790",
-        "time": "12-07 02:58"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -720,6 +704,22 @@
         "handicap": "受一球/球半",
         "away_water": "0.800",
         "time": "12-07 02:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "受一球/球半",
+        "away_water": "0.850↑",
+        "time": "06-16 17:52"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "受一球/球半",
+        "away_water": "0.790",
+        "time": "12-07 02:58"
       }
     },
     {
