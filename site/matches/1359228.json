@@ -24,7 +24,7 @@
       "lost": "6.90",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-16T05:00:10Z"
+    "fetched_at_utc": "2026-06-16T05:10:10Z"
   },
   "shuju": {
     "title": "瑞士VS波黑(2026世界杯)-数据分析-500彩票网",
@@ -469,22 +469,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "一球",
-        "away_water": "0.850↓",
-        "time": "06-16 03:52"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "一球",
-        "away_water": "0.860",
-        "time": "05-16 04:53"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -498,6 +482,22 @@
         "handicap": "一球",
         "away_water": "0.920",
         "time": "05-15 14:42"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "一球",
+        "away_water": "0.850↓",
+        "time": "06-16 03:52"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "一球",
+        "away_water": "0.860",
+        "time": "05-16 04:53"
       }
     },
     {
