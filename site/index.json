@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-17T03:40:13Z",
+  "last_updated_utc": "2026-06-17T03:50:12Z",
   "matches": [
     {
       "xml_id": "2040181",
@@ -162,24 +162,6 @@
       "matchnum_label": "周三204",
       "home_team_id": "2687",
       "away_team_id": "956"
-    },
-    {
-      "xml_id": "2040232",
-      "matchnum": "3205",
-      "date": "2026-06-18",
-      "dayofweek": "星期四",
-      "league": "芬兰超级联赛",
-      "home": "塞伊奈约基",
-      "away": "瓦萨",
-      "spf_win": "4.30",
-      "spf_draw": "3.85",
-      "spf_lost": "1.57",
-      "spf_updated": "2026-06-17 09:37:36",
-      "gameid": "1363455",
-      "kickoff_cst": "2026-06-18 02:00",
-      "matchnum_label": "周三205",
-      "home_team_id": "6492",
-      "away_team_id": "434"
     },
     {
       "xml_id": "2040233",
