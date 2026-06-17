@@ -24,7 +24,7 @@
       "lost": "4.02",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-17T13:40:08Z"
+    "fetched_at_utc": "2026-06-17T13:50:09Z"
   },
   "shuju": {
     "title": "埃尔维斯VS查路(2026芬超)-数据分析-500彩票网",
@@ -400,16 +400,11 @@
           {
             "number": "30",
             "name": "贾德尔·坎加",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "9",
             "name": "蒂姆·海托宁",
-            "position": "前锋"
-          },
-          {
-            "number": "8",
-            "name": "马克西姆·斯特约平",
             "position": "前锋"
           },
           {
@@ -418,9 +413,14 @@
             "position": "中场"
           },
           {
+            "number": "13",
+            "name": "卡尔·沃利乌斯",
+            "position": "中场"
+          },
+          {
             "number": "6",
             "name": "扬德罗·拉普",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "20",
@@ -428,9 +428,9 @@
             "position": "中场"
           },
           {
-            "number": "4",
-            "name": "奥利弗·彼得森",
-            "position": "中场"
+            "number": "19",
+            "name": "古杜斯·班巴",
+            "position": "后卫"
           },
           {
             "number": "3",
@@ -455,13 +455,18 @@
         ],
         "subs": [
           {
-            "number": "31",
-            "name": "拉斯姆斯·雷斯拉赫蒂",
-            "position": "守门员"
+            "number": "10",
+            "name": "卢比·里斯基",
+            "position": "前锋"
           },
           {
             "number": "14",
             "name": "安东·波波维奇",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "乔纳·维泰尔",
             "position": "中场"
           },
           {
@@ -470,24 +475,19 @@
             "position": "后卫"
           },
           {
-            "number": "10",
-            "name": "卢比·里斯基",
-            "position": "前锋"
+            "number": "4",
+            "name": "奥利弗·彼得森",
+            "position": "后卫"
           },
           {
-            "number": "7",
-            "name": "乔纳·维泰尔",
-            "position": "中场"
+            "number": "31",
+            "name": "拉斯姆斯·雷斯拉赫蒂",
+            "position": "守门员"
           },
           {
             "number": "1",
             "name": "奥佐·维塔宁",
             "position": "守门员"
-          },
-          {
-            "number": "74",
-            "name": "塞缪尔·西尔亚宁",
-            "position": "前锋"
           }
         ],
         "injured": [],
@@ -499,21 +499,26 @@
           {
             "number": "91",
             "name": "维勒·沃里宁",
-            "position": "前锋"
+            "position": "中场"
           },
           {
-            "number": "26",
-            "name": "马茨·佩德森",
+            "number": "22",
+            "name": "凯乌斯·哈登",
             "position": "中场"
           },
           {
             "number": "11",
             "name": "赫尔曼·舍格瑞尔",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "19",
             "name": "法比安·奥斯塔加德·内斯",
+            "position": "后卫"
+          },
+          {
+            "number": "16",
+            "name": "亚当·维杰斯科格",
             "position": "中场"
           },
           {
@@ -522,14 +527,14 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "杰斯珀·斯文隆森·斯库",
-            "position": "中场"
-          },
-          {
             "number": "5",
             "name": "阿隆·比昂巴克",
-            "position": "中场"
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "费利克斯·卡斯",
+            "position": "后卫"
           },
           {
             "number": "6",
@@ -537,13 +542,8 @@
             "position": "后卫"
           },
           {
-            "number": "3",
-            "name": "埃里克·冈纳森",
-            "position": "后卫"
-          },
-          {
-            "number": "4",
-            "name": "米素·奥贡巴罗",
+            "number": "7",
+            "name": "杰斯珀·斯文隆森·斯库",
             "position": "后卫"
           },
           {
@@ -554,28 +554,18 @@
         ],
         "subs": [
           {
-            "number": "22",
-            "name": "凯乌斯·哈登",
-            "position": "中场"
-          },
-          {
-            "number": "95",
-            "name": "伊曼纽尔·门迪",
-            "position": "中场"
-          },
-          {
-            "number": "17",
-            "name": "路德维格·尼曼",
-            "position": "中场"
-          },
-          {
             "number": "12",
             "name": "乔斯·斯内尔曼",
             "position": "守门员"
           },
           {
-            "number": "16",
-            "name": "亚当·维杰斯科格",
+            "number": "20",
+            "name": "泰德·索德斯特罗姆",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "路德维格·尼曼",
             "position": "中场"
           },
           {
@@ -589,14 +579,14 @@
             "position": "前锋"
           },
           {
-            "number": "24",
-            "name": "瓦尔德·洛夫斯",
-            "position": "中场"
+            "number": "95",
+            "name": "伊曼纽尔·门迪",
+            "position": "前锋"
           },
           {
-            "number": "2",
-            "name": "费利克斯·卡斯",
-            "position": "后卫"
+            "number": "18",
+            "name": "埃利奥特·霍尔曼",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -689,10 +679,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.800↓",
+        "home_water": "0.790↓",
         "handicap": "半球/一球",
-        "away_water": "1.070↑",
-        "time": "06-17 20:34"
+        "away_water": "1.080↑",
+        "time": "06-17 21:45"
       },
       "init": {
         "home_water": "0.900",
@@ -718,22 +708,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.720↓",
-        "handicap": "半球/一球",
-        "away_water": "0.950↑",
-        "time": "06-17 21:25"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "半球/一球",
-        "away_water": "0.820",
-        "time": "06-15 12:11"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -747,6 +721,22 @@
         "handicap": "半球/一球",
         "away_water": "0.910",
         "time": "06-14 23:14"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.720↓",
+        "handicap": "半球/一球",
+        "away_water": "0.950↑",
+        "time": "06-17 21:25"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "半球/一球",
+        "away_water": "0.820",
+        "time": "06-15 12:11"
       }
     },
     {
@@ -785,10 +775,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.830↓",
         "handicap": "半球/一球",
-        "away_water": "1.080↑",
-        "time": "06-17 21:35"
+        "away_water": "1.090↑",
+        "time": "06-17 21:38"
       },
       "init": {
         "home_water": "0.920",
@@ -833,10 +823,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.770↓",
+        "home_water": "0.760↓",
         "handicap": "半球/一球",
-        "away_water": "1.010↑",
-        "time": "06-17 21:29"
+        "away_water": "1.020↑",
+        "time": "06-17 21:46"
       },
       "init": {
         "home_water": "0.860",
@@ -1944,7 +1934,7 @@
     {
       "cid": "18",
       "company": "必*",
-      "time": "2026-06-17 21:24:46",
+      "time": "2026-06-17 21:38:15",
       "odds": {
         "live": [
           "1.70",
@@ -1952,7 +1942,7 @@
           "3.80"
         ],
         "init": [
-          "1.70",
+          "1.72",
           "4.30",
           "5.20"
         ]
@@ -1964,9 +1954,9 @@
           "23.61%"
         ],
         "init": [
-          "58.06%",
-          "22.96%",
-          "18.98%"
+          "57.78%",
+          "23.11%",
+          "19.11%"
         ]
       },
       "ret": {
@@ -1974,7 +1964,7 @@
           "89.72%"
         ],
         "init": [
-          "98.71%"
+          "99.38%"
         ]
       },
       "kelly": {
@@ -1984,7 +1974,7 @@
           "0.75"
         ],
         "init": [
-          "0.97",
+          "0.98",
           "0.99",
           "1.02"
         ]
