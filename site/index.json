@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-17T18:00:14Z",
+  "last_updated_utc": "2026-06-17T18:10:14Z",
   "matches": [
     {
       "xml_id": "2040183",
@@ -54,42 +54,6 @@
       "matchnum_label": "周三024",
       "home_team_id": "91",
       "away_team_id": "6"
-    },
-    {
-      "xml_id": "2040231",
-      "matchnum": "3204",
-      "date": "2026-06-18",
-      "dayofweek": "星期四",
-      "league": "芬兰超级联赛",
-      "home": "赫尔辛基火花",
-      "away": "拉赫蒂",
-      "spf_win": "5.05",
-      "spf_draw": "4.00",
-      "spf_lost": "1.47",
-      "spf_updated": "2026-06-17 21:30:11",
-      "gameid": "1363449",
-      "kickoff_cst": "2026-06-18 02:00",
-      "matchnum_label": "周三204",
-      "home_team_id": "2687",
-      "away_team_id": "956"
-    },
-    {
-      "xml_id": "2040232",
-      "matchnum": "3205",
-      "date": "2026-06-18",
-      "dayofweek": "星期四",
-      "league": "芬兰超级联赛",
-      "home": "塞伊奈约基",
-      "away": "瓦萨",
-      "spf_win": "4.70",
-      "spf_draw": "4.00",
-      "spf_lost": "1.50",
-      "spf_updated": "2026-06-17 19:34:27",
-      "gameid": "1363455",
-      "kickoff_cst": "2026-06-18 02:00",
-      "matchnum_label": "周三205",
-      "home_team_id": "6492",
-      "away_team_id": "434"
     },
     {
       "xml_id": "2040233",
@@ -164,40 +128,22 @@
       "away_team_id": "70"
     },
     {
-      "xml_id": "2040239",
-      "matchnum": "5029",
-      "date": "2026-06-20",
-      "dayofweek": "星期六",
+      "xml_id": "2040238",
+      "matchnum": "4028",
+      "date": "2026-06-19",
+      "dayofweek": "星期五",
       "league": "世界杯",
-      "home": "美国",
-      "away": "澳大利亚",
-      "spf_win": "2.56",
-      "spf_draw": "3.30",
-      "spf_lost": "2.30",
-      "spf_updated": "2026-06-17 09:37:36",
-      "gameid": "1359191",
-      "kickoff_cst": "2026-06-20 03:00",
-      "matchnum_label": "周五029",
-      "home_team_id": "2",
-      "away_team_id": "45"
-    },
-    {
-      "xml_id": "2040240",
-      "matchnum": "5030",
-      "date": "2026-06-20",
-      "dayofweek": "星期六",
-      "league": "世界杯",
-      "home": "苏格兰",
-      "away": "摩洛哥",
-      "spf_win": "2.00",
-      "spf_draw": "3.25",
-      "spf_lost": "3.12",
-      "spf_updated": "2026-06-17 09:37:36",
-      "gameid": "1359231",
-      "kickoff_cst": "2026-06-20 06:00",
-      "matchnum_label": "周五030",
-      "home_team_id": "56",
-      "away_team_id": "38"
+      "home": "墨西哥",
+      "away": "韩国",
+      "spf_win": "3.78",
+      "spf_draw": "3.45",
+      "spf_lost": "1.74",
+      "spf_updated": "2026-06-16 09:29:46",
+      "gameid": "1359177",
+      "kickoff_cst": "2026-06-19 09:00",
+      "matchnum_label": "周四028",
+      "home_team_id": "16",
+      "away_team_id": "25"
     },
     {
       "xml_id": "2040241",
@@ -216,24 +162,6 @@
       "matchnum_label": "周五031",
       "home_team_id": "11",
       "away_team_id": "86"
-    },
-    {
-      "xml_id": "2040242",
-      "matchnum": "5032",
-      "date": "2026-06-20",
-      "dayofweek": "星期六",
-      "league": "世界杯",
-      "home": "土耳其",
-      "away": "巴拉圭",
-      "spf_win": "4.35",
-      "spf_draw": "3.50",
-      "spf_lost": "1.63",
-      "spf_updated": "2026-06-17 09:37:36",
-      "gameid": "1359234",
-      "kickoff_cst": "2026-06-20 11:00",
-      "matchnum_label": "周五032",
-      "home_team_id": "17",
-      "away_team_id": "24"
     }
   ]
 }
