@@ -24,7 +24,7 @@
       "lost": "1.57",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-17T15:10:09Z"
+    "fetched_at_utc": "2026-06-17T15:20:07Z"
   },
   "shuju": {
     "title": "TPS土尔库VS库普斯(2026芬超)-数据分析-500彩票网",
@@ -398,23 +398,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "11",
-            "name": "埃尔默·沃赫科宁",
-            "position": "前锋"
-          },
-          {
             "number": "29",
             "name": "阿尔比恩·穆扎奇",
             "position": "前锋"
           },
           {
-            "number": "6",
-            "name": "保罗·朱万提尼",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "马特·赫拉迪基",
+            "number": "11",
+            "name": "埃尔默·沃赫科宁",
             "position": "中场"
           },
           {
@@ -423,13 +413,23 @@
             "position": "中场"
           },
           {
+            "number": "20",
+            "name": "米卡·考皮拉",
+            "position": "中场"
+          },
+          {
             "number": "28",
             "name": "托米·瓦基帕塔",
             "position": "中场"
           },
           {
-            "number": "2",
-            "name": "奥斯卡·哈格斯特罗姆",
+            "number": "6",
+            "name": "保罗·朱万提尼",
+            "position": "中场"
+          },
+          {
+            "number": "77",
+            "name": "托比亚斯·卡库洛夫斯基",
             "position": "后卫"
           },
           {
@@ -438,13 +438,13 @@
             "position": "后卫"
           },
           {
-            "number": "20",
-            "name": "米卡·考皮拉",
+            "number": "14",
+            "name": "马特·赫拉迪基",
             "position": "后卫"
           },
           {
-            "number": "77",
-            "name": "托比亚斯·卡库洛夫斯基",
+            "number": "2",
+            "name": "奥斯卡·哈格斯特罗姆",
             "position": "后卫"
           },
           {
@@ -522,8 +522,8 @@
             "position": "中场"
           },
           {
-            "number": "13",
-            "name": "尼洛·库贾萨洛",
+            "number": "3",
+            "name": "萨库·海斯卡宁",
             "position": "中场"
           },
           {
@@ -532,18 +532,13 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "萨库·萨瓦莱宁",
+            "number": "13",
+            "name": "尼洛·库贾萨洛",
             "position": "中场"
           },
           {
             "number": "25",
             "name": "克林顿·安特维",
-            "position": "后卫"
-          },
-          {
-            "number": "3",
-            "name": "萨库·海斯卡宁",
             "position": "后卫"
           },
           {
@@ -554,6 +549,11 @@
           {
             "number": "33",
             "name": "塔内利·海马莱宁",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "萨库·萨瓦莱宁",
             "position": "后卫"
           },
           {
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "受半球/一球",
-        "away_water": "0.800↓",
-        "time": "06-17 22:58"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "受半球/一球",
-        "away_water": "0.960",
-        "time": "06-14 23:15"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "受一球",
         "away_water": "1.200",
         "time": "06-13 19:28"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "受半球/一球",
+        "away_water": "0.800↓",
+        "time": "06-17 22:58"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "受半球/一球",
+        "away_water": "0.960",
+        "time": "06-14 23:15"
       }
     },
     {
