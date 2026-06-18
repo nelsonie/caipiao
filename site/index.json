@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-18T14:20:14Z",
+  "last_updated_utc": "2026-06-18T14:30:09Z",
   "matches": [
     {
       "xml_id": "2040233",
@@ -128,6 +128,24 @@
       "away_team_id": "38"
     },
     {
+      "xml_id": "2040241",
+      "matchnum": "5031",
+      "date": "2026-06-20",
+      "dayofweek": "星期六",
+      "league": "世界杯",
+      "home": "巴西",
+      "away": "海地",
+      "spf_win": "1.73",
+      "spf_draw": "4.10",
+      "spf_lost": "3.25",
+      "spf_updated": "2026-06-18 13:44:41",
+      "gameid": "1359198",
+      "kickoff_cst": "2026-06-20 08:30",
+      "matchnum_label": "周五031",
+      "home_team_id": "11",
+      "away_team_id": "86"
+    },
+    {
       "xml_id": "2040242",
       "matchnum": "5032",
       "date": "2026-06-20",
@@ -144,6 +162,60 @@
       "matchnum_label": "周五032",
       "home_team_id": "17",
       "away_team_id": "24"
+    },
+    {
+      "xml_id": "2040243",
+      "matchnum": "6033",
+      "date": "2026-06-21",
+      "dayofweek": "星期天",
+      "league": "世界杯",
+      "home": "荷兰",
+      "away": "瑞典",
+      "spf_win": "2.86",
+      "spf_draw": "3.45",
+      "spf_lost": "2.04",
+      "spf_updated": "2026-06-18 09:22:38",
+      "gameid": "1359204",
+      "kickoff_cst": "2026-06-21 01:00",
+      "matchnum_label": "周六033",
+      "home_team_id": "18",
+      "away_team_id": "27"
+    },
+    {
+      "xml_id": "2040244",
+      "matchnum": "6034",
+      "date": "2026-06-21",
+      "dayofweek": "星期天",
+      "league": "世界杯",
+      "home": "德国",
+      "away": "科特迪瓦",
+      "spf_win": "2.27",
+      "spf_draw": "3.55",
+      "spf_lost": "2.46",
+      "spf_updated": "2026-06-18 09:22:38",
+      "gameid": "1359201",
+      "kickoff_cst": "2026-06-21 04:00",
+      "matchnum_label": "周六034",
+      "home_team_id": "13",
+      "away_team_id": "59"
+    },
+    {
+      "xml_id": "2040245",
+      "matchnum": "6035",
+      "date": "2026-06-21",
+      "dayofweek": "星期天",
+      "league": "世界杯",
+      "home": "厄瓜多尔",
+      "away": "库拉索",
+      "spf_win": "1.95",
+      "spf_draw": "3.95",
+      "spf_lost": "2.75",
+      "spf_updated": "2026-06-18 09:22:38",
+      "gameid": "1359237",
+      "kickoff_cst": "2026-06-21 08:00",
+      "matchnum_label": "周六035",
+      "home_team_id": "33",
+      "away_team_id": "7516"
     },
     {
       "xml_id": "2040246",
