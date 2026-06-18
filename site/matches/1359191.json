@@ -24,7 +24,7 @@
       "lost": "5.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-18T08:40:07Z"
+    "fetched_at_utc": "2026-06-18T08:50:07Z"
   },
   "shuju": {
     "title": "美国VS澳大利亚(2026世界杯)-数据分析-500彩票网",
@@ -369,9 +369,29 @@
         ],
         "subs": [
           {
+            "number": "13",
+            "name": "蒂姆·里姆",
+            "position": "后卫"
+          },
+          {
             "number": "15",
             "name": "克里斯蒂安·罗尔丹",
             "position": "中场"
+          },
+          {
+            "number": "4",
+            "name": "泰勒·亚当斯",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "安托尼·罗宾逊",
+            "position": "后卫"
+          },
+          {
+            "number": "10",
+            "name": "克里斯蒂安·普利西奇",
+            "position": "前锋"
           },
           {
             "number": "19",
@@ -394,8 +414,28 @@
             "position": "后卫"
           },
           {
-            "number": "23",
-            "name": "乔·斯卡利",
+            "number": "8",
+            "name": "韦斯顿·麦肯尼",
+            "position": "中场"
+          },
+          {
+            "number": "21",
+            "name": "蒂莫西·维阿",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "塞尔吉诺·德斯特",
+            "position": "后卫"
+          },
+          {
+            "number": "16",
+            "name": "亚历克斯·弗里曼",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "克里斯·理查兹",
             "position": "后卫"
           },
           {
@@ -414,6 +454,16 @@
             "position": "中场"
           },
           {
+            "number": "24",
+            "name": "马修·弗里兹",
+            "position": "守门员"
+          },
+          {
+            "number": "17",
+            "name": "马利克·蒂尔曼",
+            "position": "中场"
+          },
+          {
             "number": "9",
             "name": "里卡多·佩皮",
             "position": "前锋"
@@ -422,6 +472,11 @@
             "number": "7",
             "name": "乔瓦尼·雷纳",
             "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "弗拉林·巴洛贡",
+            "position": "前锋"
           },
           {
             "number": "14",
@@ -439,9 +494,9 @@
             "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "蒂莫西·维阿",
-            "position": "中场"
+            "number": "23",
+            "name": "乔·斯卡利",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -528,6 +583,11 @@
             "position": "后卫"
           },
           {
+            "number": "22",
+            "name": "杰克逊·欧文",
+            "position": "中场"
+          },
+          {
             "number": "6",
             "name": "贾森·杰里亚",
             "position": "后卫"
@@ -536,6 +596,11 @@
             "number": "11",
             "name": "阿韦尔·马比尔",
             "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "卡梅伦·伯吉斯",
+            "position": "后卫"
           },
           {
             "number": "16",
@@ -548,6 +613,26 @@
             "position": "中场"
           },
           {
+            "number": "13",
+            "name": "埃登·奥尼尔",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "康纳·梅特卡夫",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "卢卡斯·赫林顿",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "雅各布·伊塔利亚诺",
+            "position": "后卫"
+          },
+          {
             "number": "14",
             "name": "卡梅伦·德夫林",
             "position": "中场"
@@ -556,6 +641,11 @@
             "number": "15",
             "name": "凯·特里温",
             "position": "后卫"
+          },
+          {
+            "number": "9",
+            "name": "穆罕默德·图雷",
+            "position": "前锋"
           },
           {
             "number": "26",
@@ -568,18 +658,38 @@
             "position": "前锋"
           },
           {
+            "number": "17",
+            "name": "内斯托里·伊兰昆达",
+            "position": "前锋"
+          },
+          {
             "number": "20",
             "name": "克里斯蒂安·沃尔帕托",
             "position": "前锋"
           },
           {
-            "number": "22",
-            "name": "杰克逊·欧文",
+            "number": "5",
+            "name": "乔丹·博斯",
+            "position": "后卫"
+          },
+          {
+            "number": "24",
+            "name": "保罗·奥孔-恩斯特勒",
             "position": "中场"
           },
           {
-            "number": "25",
-            "name": "卢卡斯·赫林顿",
+            "number": "3",
+            "name": "亚历山德罗·奇尔卡蒂",
+            "position": "后卫"
+          },
+          {
+            "number": "18",
+            "name": "帕特里克·比奇",
+            "position": "守门员"
+          },
+          {
+            "number": "19",
+            "name": "哈里·苏塔",
             "position": "后卫"
           }
         ],
@@ -702,22 +812,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.060↑",
-        "handicap": "一球升",
-        "away_water": "0.790↓",
-        "time": "06-17 15:08"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.820",
-        "time": "05-16 01:04"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -731,6 +825,22 @@
         "handicap": "半球/一球",
         "away_water": "0.760",
         "time": "04-28 22:35"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.060↑",
+        "handicap": "一球升",
+        "away_water": "0.790↓",
+        "time": "06-17 15:08"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.820",
+        "time": "05-16 01:04"
       }
     },
     {
