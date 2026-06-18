@@ -24,7 +24,7 @@
       "lost": "29.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-18T17:30:08Z"
+    "fetched_at_utc": "2026-06-18T17:40:08Z"
   },
   "shuju": {
     "title": "巴西VS海地(2026世界杯)-数据分析-500彩票网",
@@ -668,22 +668,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "两球半升",
-        "away_water": "0.920↓",
-        "time": "06-18 23:53"
-      },
-      "init": {
-        "home_water": "0.010",
-        "handicap": "平手",
-        "away_water": "9.000",
-        "time": "04-05 01:14"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -697,6 +681,22 @@
         "handicap": "三球",
         "away_water": "0.870",
         "time": "06-04 06:01"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "两球半升",
+        "away_water": "0.920↓",
+        "time": "06-18 23:53"
+      },
+      "init": {
+        "home_water": "0.010",
+        "handicap": "平手",
+        "away_water": "9.000",
+        "time": "04-05 01:14"
       }
     },
     {
