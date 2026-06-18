@@ -24,7 +24,7 @@
       "lost": "5.60",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-18T06:20:09Z"
+    "fetched_at_utc": "2026-06-18T06:30:10Z"
   },
   "shuju": {
     "title": "美国VS澳大利亚(2026世界杯)-数据分析-500彩票网",
@@ -702,22 +702,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.040↑",
-        "handicap": "一球升",
-        "away_water": "0.800↑",
-        "time": "06-18 12:47"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "半球/一球",
-        "away_water": "0.760",
-        "time": "04-28 22:35"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -731,6 +715,22 @@
         "handicap": "半球/一球",
         "away_water": "0.820",
         "time": "05-16 01:04"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.040↑",
+        "handicap": "一球升",
+        "away_water": "0.800↑",
+        "time": "06-18 14:23"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "半球/一球",
+        "away_water": "0.760",
+        "time": "04-28 22:35"
       }
     },
     {
@@ -801,10 +801,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "1.090↑",
+        "home_water": "1.110↑",
         "handicap": "一球升",
-        "away_water": "0.830↓",
-        "time": "06-18 10:36"
+        "away_water": "0.820↓",
+        "time": "06-18 13:55"
       },
       "init": {
         "home_water": "0.750",
@@ -1242,7 +1242,7 @@
     {
       "cid": "6",
       "company": "伟*",
-      "time": "2026-06-18 12:49:15",
+      "time": "2026-06-18 14:25:56",
       "odds": {
         "live": [
           "1.70",
