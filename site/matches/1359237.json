@@ -24,7 +24,7 @@
       "lost": "13.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-20T14:50:08Z"
+    "fetched_at_utc": "2026-06-20T15:00:09Z"
   },
   "shuju": {
     "title": "厄瓜多尔VS库拉索(2026世界杯)-数据分析-500彩票网",
@@ -771,22 +771,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "两球/两球半升",
-        "away_water": "0.890↑",
-        "time": "06-20 22:20"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "球半/两球",
-        "away_water": "0.780",
-        "time": "05-16 02:22"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -800,6 +784,22 @@
         "handicap": "球半/两球",
         "away_water": "0.820",
         "time": "05-09 19:42"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "两球/两球半升",
+        "away_water": "0.890↑",
+        "time": "06-20 22:20"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "球半/两球",
+        "away_water": "0.780",
+        "time": "05-16 02:22"
       }
     },
     {
