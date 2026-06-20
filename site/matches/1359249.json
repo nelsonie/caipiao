@@ -24,7 +24,7 @@
       "lost": "3.08",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-20T05:40:11Z"
+    "fetched_at_utc": "2026-06-20T05:50:10Z"
   },
   "shuju": {
     "title": "挪威VS塞内加尔(2026世界杯)-数据分析-500彩票网",
@@ -423,22 +423,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "平手/半球",
-        "away_water": "0.850↓",
-        "time": "06-19 19:14"
-      },
-      "init": {
-        "home_water": "0.730",
-        "handicap": "平手/半球",
-        "away_water": "1.100",
-        "time": "05-15 16:10"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -452,6 +436,22 @@
         "handicap": "半球",
         "away_water": "0.780",
         "time": "05-16 06:31"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "平手/半球",
+        "away_water": "0.850↓",
+        "time": "06-19 19:14"
+      },
+      "init": {
+        "home_water": "0.730",
+        "handicap": "平手/半球",
+        "away_water": "1.100",
+        "time": "05-15 16:10"
       }
     },
     {
