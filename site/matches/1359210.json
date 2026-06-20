@@ -24,7 +24,7 @@
       "lost": "26.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-20T11:20:09Z"
+    "fetched_at_utc": "2026-06-20T11:30:10Z"
   },
   "shuju": {
     "title": "西班牙VS沙特(2026世界杯)-数据分析-500彩票网",
@@ -682,10 +682,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.920↑",
+        "home_water": "0.930↑",
         "handicap": "两球半升",
-        "away_water": "0.920↓",
-        "time": "06-20 18:38"
+        "away_water": "0.930↓",
+        "time": "06-20 19:18"
       },
       "init": {
         "home_water": "0.820",
@@ -714,10 +714,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.890↑",
+        "home_water": "0.900↑",
         "handicap": "两球半升",
-        "away_water": "0.970↓",
-        "time": "06-20 18:11"
+        "away_water": "0.960↓",
+        "time": "06-20 19:18"
       },
       "init": {
         "home_water": "0.820",
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920",
-        "handicap": "两球半",
-        "away_water": "0.910↑",
-        "time": "06-20 18:41"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "两球半",
-        "away_water": "0.800",
-        "time": "05-16 01:19"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "两球半",
         "away_water": "0.810",
         "time": "05-15 17:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920",
+        "handicap": "两球半",
+        "away_water": "0.910↑",
+        "time": "06-20 18:41"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "两球半",
+        "away_water": "0.800",
+        "time": "05-16 01:19"
       }
     },
     {
