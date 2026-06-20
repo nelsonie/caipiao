@@ -24,7 +24,7 @@
       "lost": "1.46",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-20T11:50:07Z"
+    "fetched_at_utc": "2026-06-20T12:00:07Z"
   },
   "shuju": {
     "title": "突尼斯VS日本(2026世界杯)-数据分析-500彩票网",
@@ -834,22 +834,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "受一球降",
-        "away_water": "0.970↑",
-        "time": "06-20 19:43"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "受半球",
-        "away_water": "0.830",
-        "time": "05-16 01:04"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -863,6 +847,22 @@
         "handicap": "受半球/一球",
         "away_water": "1.030",
         "time": "05-15 17:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "受一球降",
+        "away_water": "0.970↑",
+        "time": "06-20 19:43"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "受半球",
+        "away_water": "0.830",
+        "time": "05-16 01:04"
       }
     },
     {
