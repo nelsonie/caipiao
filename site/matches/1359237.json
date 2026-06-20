@@ -24,7 +24,7 @@
       "lost": "13.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-20T17:50:07Z"
+    "fetched_at_utc": "2026-06-20T18:00:08Z"
   },
   "shuju": {
     "title": "厄瓜多尔VS库拉索(2026世界杯)-数据分析-500彩票网",
@@ -758,32 +758,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "0.990↑",
         "handicap": "两球/两球半降",
-        "away_water": "0.870↓",
-        "time": "06-21 01:23"
+        "away_water": "0.880↓",
+        "time": "06-21 01:49"
       },
       "init": {
         "home_water": "0.930",
         "handicap": "两球半",
         "away_water": "0.890",
         "time": "06-16 12:01"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "两球/两球半升",
-        "away_water": "0.930↑",
-        "time": "06-21 01:32"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "球半/两球",
-        "away_water": "0.820",
-        "time": "05-09 19:42"
       }
     },
     {
@@ -800,6 +784,22 @@
         "handicap": "球半/两球",
         "away_water": "0.780",
         "time": "05-16 02:22"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "两球/两球半升",
+        "away_water": "0.930↑",
+        "time": "06-21 01:32"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "球半/两球",
+        "away_water": "0.820",
+        "time": "05-09 19:42"
       }
     },
     {
@@ -822,10 +822,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "1.040↑",
+        "home_water": "1.020↑",
         "handicap": "两球/两球半升",
-        "away_water": "0.900↓",
-        "time": "06-21 01:23"
+        "away_water": "0.920↓",
+        "time": "06-21 01:48"
       },
       "init": {
         "home_water": "0.810",
@@ -1299,7 +1299,7 @@
         "live": [
           "1.03",
           "0.57",
-          "0.54"
+          "0.53"
         ],
         "init": [
           "0.93",
@@ -2181,7 +2181,7 @@
         "live": [
           "1.02",
           "0.82",
-          "0.54"
+          "0.53"
         ],
         "init": [
           "0.95",
