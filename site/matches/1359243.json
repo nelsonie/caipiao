@@ -24,7 +24,7 @@
       "lost": "1.46",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-20T19:20:09Z"
+    "fetched_at_utc": "2026-06-20T19:30:08Z"
   },
   "shuju": {
     "title": "新西兰VS埃及(2026世界杯)-数据分析-500彩票网",
@@ -770,16 +770,32 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "1.090",
-        "handicap": "受半球/一球",
-        "away_water": "0.780↓",
-        "time": "06-20 22:34"
+        "home_water": "0.800↓",
+        "handicap": "受一球降",
+        "away_water": "1.080↑",
+        "time": "06-21 03:16"
       },
       "init": {
         "home_water": "1.090",
         "handicap": "受半球/一球",
         "away_water": "0.810",
         "time": "06-17 14:43"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.780↓",
+        "handicap": "受一球降",
+        "away_water": "1.080↑",
+        "time": "06-21 03:16"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "受半球/一球",
+        "away_water": "0.870",
+        "time": "05-17 15:08"
       }
     },
     {
@@ -796,22 +812,6 @@
         "handicap": "受半球/一球",
         "away_water": "0.870",
         "time": "05-15 14:42"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.770↓",
-        "handicap": "受一球降",
-        "away_water": "1.080↑",
-        "time": "06-20 11:28"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "受半球/一球",
-        "away_water": "0.870",
-        "time": "05-17 15:08"
       }
     },
     {
@@ -834,10 +834,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "1.120↑",
-        "handicap": "受半球/一球",
-        "away_water": "0.810↓",
-        "time": "06-20 22:29"
+        "home_water": "0.820↓",
+        "handicap": "受一球降",
+        "away_water": "1.110↑",
+        "time": "06-21 03:15"
       },
       "init": {
         "home_water": "0.990",
