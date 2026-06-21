@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "一球",
-      "home_water": "0.870↑",
-      "away_water": "0.780↓",
+      "home_water": "0.820↑",
+      "away_water": "0.830↓",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "7.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-21T12:20:11Z"
+    "fetched_at_utc": "2026-06-21T12:30:11Z"
   },
   "shuju": {
     "title": "哥伦比亚VS民主刚果(2026世界杯)-数据分析-500彩票网",
@@ -288,10 +288,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.870↑",
+        "home_water": "0.820↑",
         "handicap": "一球",
-        "away_water": "0.780↓",
-        "time": "06-21 16:45"
+        "away_water": "0.830↓",
+        "time": "06-21 20:25"
       },
       "init": {
         "home_water": "0.780",
@@ -397,22 +397,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "一球",
-        "away_water": "0.950↓",
-        "time": "06-21 20:16"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "一球",
-        "away_water": "1.000",
-        "time": "05-15 14:42"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -426,6 +410,22 @@
         "handicap": "一球",
         "away_water": "0.920",
         "time": "05-16 22:54"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "一球",
+        "away_water": "0.970↓",
+        "time": "06-21 20:23"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "一球",
+        "away_water": "1.000",
+        "time": "05-15 14:42"
       }
     },
     {
@@ -496,10 +496,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.930",
+        "home_water": "0.900↓",
         "handicap": "一球",
-        "away_water": "0.970↑",
-        "time": "06-21 19:11"
+        "away_water": "1.000↑",
+        "time": "06-21 20:28"
       },
       "init": {
         "home_water": "0.930",
