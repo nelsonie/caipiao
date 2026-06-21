@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-21T13:40:12Z",
+  "last_updated_utc": "2026-06-21T13:50:14Z",
   "matches": [
     {
       "xml_id": "2040247",
@@ -162,42 +162,6 @@
       "matchnum_label": "周二046",
       "home_team_id": "15",
       "away_team_id": "60"
-    },
-    {
-      "xml_id": "2040257",
-      "matchnum": "2047",
-      "date": "2026-06-24",
-      "dayofweek": "星期三",
-      "league": "世界杯",
-      "home": "巴拿马",
-      "away": "克罗地亚",
-      "spf_win": "2.42",
-      "spf_draw": "3.40",
-      "spf_lost": "2.37",
-      "spf_updated": "2026-06-21 09:15:03",
-      "gameid": "1359258",
-      "kickoff_cst": "2026-06-24 07:00",
-      "matchnum_label": "周二047",
-      "home_team_id": "121",
-      "away_team_id": "36"
-    },
-    {
-      "xml_id": "2040258",
-      "matchnum": "2048",
-      "date": "2026-06-24",
-      "dayofweek": "星期三",
-      "league": "世界杯",
-      "home": "哥伦比亚",
-      "away": "刚果(金)",
-      "spf_win": "2.27",
-      "spf_draw": "3.30",
-      "spf_lost": "2.60",
-      "spf_updated": "2026-06-21 09:15:03",
-      "gameid": "1359255",
-      "kickoff_cst": "2026-06-24 10:00",
-      "matchnum_label": "周二048",
-      "home_team_id": "6",
-      "away_team_id": "68"
     }
   ]
 }
