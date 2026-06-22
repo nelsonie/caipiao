@@ -24,7 +24,7 @@
       "lost": "1.41",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-22T23:30:09Z"
+    "fetched_at_utc": "2026-06-22T23:40:07Z"
   },
   "shuju": {
     "title": "巴拿马VS克罗地亚(2026世界杯)-数据分析-500彩票网",
@@ -743,7 +743,7 @@
         "home_water": "0.800↓",
         "handicap": "受一球/球半降",
         "away_water": "1.050↑",
-        "time": "06-23 06:41"
+        "time": "06-23 07:23"
       },
       "init": {
         "home_water": "0.980",
@@ -758,8 +758,8 @@
       "live": {
         "home_water": "0.950↑",
         "handicap": "受一球升",
-        "away_water": "0.770↓",
-        "time": "06-23 06:39"
+        "away_water": "0.800↓",
+        "time": "06-23 07:27"
       },
       "init": {
         "home_water": "0.650",
@@ -801,22 +801,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.060↑",
-        "handicap": "受一球",
-        "away_water": "0.790↓",
-        "time": "06-23 07:10"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "受一球",
-        "away_water": "0.840",
-        "time": "05-18 15:13"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -830,6 +814,22 @@
         "handicap": "受一球",
         "away_water": "0.810",
         "time": "05-15 17:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.050↑",
+        "handicap": "受一球",
+        "away_water": "0.790↓",
+        "time": "06-23 07:25"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "受一球",
+        "away_water": "0.840",
+        "time": "05-18 15:13"
       }
     },
     {
