@@ -24,7 +24,7 @@
       "lost": "7.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-22T10:20:08Z"
+    "fetched_at_utc": "2026-06-22T10:30:08Z"
   },
   "shuju": {
     "title": "哥伦比亚VS民主刚果(2026世界杯)-数据分析-500彩票网",
@@ -661,22 +661,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.890↑",
-        "handicap": "一球",
-        "away_water": "0.940↓",
-        "time": "06-22 16:50"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "一球",
-        "away_water": "1.000",
-        "time": "05-15 14:42"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -690,6 +674,22 @@
         "handicap": "一球",
         "away_water": "0.920",
         "time": "05-16 22:54"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.890↑",
+        "handicap": "一球",
+        "away_water": "0.940↓",
+        "time": "06-22 16:50"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "一球",
+        "away_water": "1.000",
+        "time": "05-15 14:42"
       }
     },
     {

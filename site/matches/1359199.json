@@ -24,7 +24,7 @@
       "lost": "1.26",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-22T10:20:09Z"
+    "fetched_at_utc": "2026-06-22T10:30:10Z"
   },
   "shuju": {
     "title": "苏格兰VS巴西(2026世界杯)-数据分析-500彩票网",
@@ -454,22 +454,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "受一球/球半降",
-        "away_water": "0.910↑",
-        "time": "06-22 17:25"
-      },
-      "init": {
-        "home_water": "3.900",
-        "handicap": "平手",
-        "away_water": "0.110",
-        "time": "04-05 01:14"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -483,6 +467,22 @@
         "handicap": "受一球/球半",
         "away_water": "0.820",
         "time": "05-26 16:52"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "受一球/球半降",
+        "away_water": "0.910↑",
+        "time": "06-22 17:25"
+      },
+      "init": {
+        "home_water": "3.900",
+        "handicap": "平手",
+        "away_water": "0.110",
+        "time": "04-05 01:14"
       }
     },
     {
