@@ -24,7 +24,7 @@
       "lost": "7.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-22T21:00:08Z"
+    "fetched_at_utc": "2026-06-22T21:10:07Z"
   },
   "shuju": {
     "title": "哥伦比亚VS民主刚果(2026世界杯)-数据分析-500彩票网",
@@ -710,10 +710,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "1.000↑",
         "handicap": "一球",
-        "away_water": "0.820↓",
-        "time": "06-23 02:14"
+        "away_water": "0.850↓",
+        "time": "06-23 04:39"
       },
       "init": {
         "home_water": "0.850",
@@ -742,10 +742,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.000↑",
         "handicap": "一球",
-        "away_water": "0.870↓",
-        "time": "06-23 01:47"
+        "away_water": "0.880↓",
+        "time": "06-23 04:39"
       },
       "init": {
         "home_water": "0.800",
@@ -771,22 +771,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "一球",
-        "away_water": "0.830↓",
-        "time": "06-23 01:56"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "一球",
-        "away_water": "1.000",
-        "time": "05-15 14:42"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -800,6 +784,22 @@
         "handicap": "一球",
         "away_water": "0.920",
         "time": "05-16 22:54"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "一球",
+        "away_water": "0.830↓",
+        "time": "06-23 01:56"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "一球",
+        "away_water": "1.000",
+        "time": "05-15 14:42"
       }
     },
     {
