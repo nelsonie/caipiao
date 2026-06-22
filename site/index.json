@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-22T20:30:13Z",
+  "last_updated_utc": "2026-06-22T20:40:14Z",
   "matches": [
     {
       "xml_id": "2040252",
@@ -74,24 +74,6 @@
       "away_team_id": "91"
     },
     {
-      "xml_id": "2040256",
-      "matchnum": "2046",
-      "date": "2026-06-24",
-      "dayofweek": "星期三",
-      "league": "世界杯",
-      "home": "英格兰",
-      "away": "加纳",
-      "spf_win": "2.37",
-      "spf_draw": "3.90",
-      "spf_lost": "2.22",
-      "spf_updated": "2026-06-22 21:00:33",
-      "gameid": "1359222",
-      "kickoff_cst": "2026-06-24 04:00",
-      "matchnum_label": "周二046",
-      "home_team_id": "15",
-      "away_team_id": "60"
-    },
-    {
       "xml_id": "2040257",
       "matchnum": "2047",
       "date": "2026-06-24",
@@ -108,24 +90,6 @@
       "matchnum_label": "周二047",
       "home_team_id": "121",
       "away_team_id": "36"
-    },
-    {
-      "xml_id": "2040258",
-      "matchnum": "2048",
-      "date": "2026-06-24",
-      "dayofweek": "星期三",
-      "league": "世界杯",
-      "home": "哥伦比亚",
-      "away": "刚果(金)",
-      "spf_win": "2.27",
-      "spf_draw": "3.30",
-      "spf_lost": "2.60",
-      "spf_updated": "2026-06-21 09:15:03",
-      "gameid": "1359255",
-      "kickoff_cst": "2026-06-24 10:00",
-      "matchnum_label": "周二048",
-      "home_team_id": "6",
-      "away_team_id": "68"
     },
     {
       "xml_id": "2040287",
@@ -162,6 +126,24 @@
       "matchnum_label": "周三052",
       "home_team_id": "38",
       "away_team_id": "86"
+    },
+    {
+      "xml_id": "2040289",
+      "matchnum": "3053",
+      "date": "2026-06-25",
+      "dayofweek": "星期四",
+      "league": "世界杯",
+      "home": "南非",
+      "away": "韩国",
+      "spf_win": "1.99",
+      "spf_draw": "3.35",
+      "spf_lost": "3.05",
+      "spf_updated": "2026-06-22 09:27:20",
+      "gameid": "1359226",
+      "kickoff_cst": "2026-06-25 09:00",
+      "matchnum_label": "周三053",
+      "home_team_id": "9",
+      "away_team_id": "25"
     },
     {
       "xml_id": "2040290",
