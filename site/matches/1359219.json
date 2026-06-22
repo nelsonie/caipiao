@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-22T05:50:06Z"
+    "fetched_at_utc": "2026-06-22T06:00:09Z"
   },
   "shuju": {
     "title": "葡萄牙VS乌兹别克斯坦(2026世界杯)-数据分析-500彩票网",
@@ -709,22 +709,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "球半/两球",
-        "away_water": "1.020↑",
-        "time": "06-22 11:05"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "球半/两球",
-        "away_water": "0.850",
-        "time": "05-15 15:56"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -738,6 +722,22 @@
         "handicap": "球半/两球",
         "away_water": "0.890",
         "time": "05-16 21:04"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "球半/两球",
+        "away_water": "1.020↑",
+        "time": "06-22 11:05"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "球半/两球",
+        "away_water": "0.850",
+        "time": "05-15 15:56"
       }
     },
     {
@@ -808,10 +808,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.830↓",
         "handicap": "球半/两球",
-        "away_water": "1.080↑",
-        "time": "06-22 07:48"
+        "away_water": "1.090↑",
+        "time": "06-22 13:27"
       },
       "init": {
         "home_water": "0.870",
