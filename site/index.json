@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-23T15:40:16Z",
+  "last_updated_utc": "2026-06-23T15:50:18Z",
   "matches": [
     {
       "xml_id": "2040255",
@@ -342,24 +342,6 @@
       "matchnum_label": "周二203",
       "home_team_id": "434",
       "away_team_id": "363"
-    },
-    {
-      "xml_id": "2040312",
-      "matchnum": "2204",
-      "date": "2026-06-24",
-      "dayofweek": "星期三",
-      "league": "芬兰超级联赛",
-      "home": "雅罗",
-      "away": "赫尔辛基火花",
-      "spf_win": "1.85",
-      "spf_draw": "3.72",
-      "spf_lost": "3.12",
-      "spf_updated": "2026-06-23 20:30:49",
-      "gameid": "1363486",
-      "kickoff_cst": "2026-06-24 00:00",
-      "matchnum_label": "周二204",
-      "home_team_id": "743",
-      "away_team_id": "2687"
     },
     {
       "xml_id": "2040313",
