@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-23T10:40:13Z",
+  "last_updated_utc": "2026-06-23T10:50:13Z",
   "matches": [
     {
       "xml_id": "2040255",
@@ -198,6 +198,24 @@
       "matchnum_label": "周四055",
       "home_team_id": "33",
       "away_team_id": "13"
+    },
+    {
+      "xml_id": "2040292",
+      "matchnum": "4056",
+      "date": "2026-06-26",
+      "dayofweek": "星期五",
+      "league": "世界杯",
+      "home": "库拉索",
+      "away": "科特迪瓦",
+      "spf_win": "2.30",
+      "spf_draw": "3.85",
+      "spf_lost": "2.30",
+      "spf_updated": "2026-06-23 09:39:29",
+      "gameid": "1359238",
+      "kickoff_cst": "2026-06-26 04:00",
+      "matchnum_label": "周四056",
+      "home_team_id": "7516",
+      "away_team_id": "59"
     },
     {
       "xml_id": "2040293",
