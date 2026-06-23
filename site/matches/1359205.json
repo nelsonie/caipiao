@@ -24,7 +24,7 @@
       "lost": "1.57",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-23T16:00:13Z"
+    "fetched_at_utc": "2026-06-23T16:10:17Z"
   },
   "shuju": {
     "title": "突尼斯VS荷兰(2026世界杯)-数据分析-500彩票网",
@@ -371,10 +371,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.950↓",
+        "home_water": "0.970↓",
         "handicap": "受两球/两球半降",
-        "away_water": "0.900↑",
-        "time": "06-23 23:26"
+        "away_water": "0.870↑",
+        "time": "06-23 23:45"
       },
       "init": {
         "home_water": "1.000",
@@ -403,10 +403,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.940↓",
+        "home_water": "0.960↓",
         "handicap": "受两球/两球半降",
-        "away_water": "0.880↑",
-        "time": "06-23 21:16"
+        "away_water": "0.900↑",
+        "time": "06-23 23:56"
       },
       "init": {
         "home_water": "1.000",
@@ -419,32 +419,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.990↑",
         "handicap": "受两球/两球半",
-        "away_water": "0.920↓",
-        "time": "06-23 18:31"
+        "away_water": "0.890↓",
+        "time": "06-24 00:01"
       },
       "init": {
         "home_water": "0.940",
         "handicap": "受两球/两球半",
         "away_water": "0.940",
         "time": "06-23 17:07"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "受两球/两球半降",
-        "away_water": "0.890↓",
-        "time": "06-23 18:44"
-      },
-      "init": {
-        "home_water": "0.630",
-        "handicap": "受球半",
-        "away_water": "1.090",
-        "time": "05-18 22:20"
       }
     },
     {
@@ -461,6 +445,22 @@
         "handicap": "受一球",
         "away_water": "0.920",
         "time": "05-26 13:29"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "受两球/两球半降",
+        "away_water": "0.890↓",
+        "time": "06-23 18:44"
+      },
+      "init": {
+        "home_water": "0.630",
+        "handicap": "受球半",
+        "away_water": "1.090",
+        "time": "05-18 22:20"
       }
     },
     {
@@ -547,10 +547,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.940↑",
+        "home_water": "0.930↑",
         "handicap": "受两球/两球半降",
         "away_water": "0.850↓",
-        "time": "06-23 21:14"
+        "time": "06-24 00:01"
       },
       "init": {
         "home_water": "0.850",
