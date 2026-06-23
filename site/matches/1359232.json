@@ -24,7 +24,7 @@
       "lost": "8.50",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-23T05:20:09Z"
+    "fetched_at_utc": "2026-06-23T05:30:10Z"
   },
   "shuju": {
     "title": "摩洛哥VS海地(2026世界杯)-数据分析-500彩票网",
@@ -647,22 +647,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "两球升",
-        "away_water": "0.970↑",
-        "time": "06-23 07:05"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "球半",
-        "away_water": "0.770",
-        "time": "05-26 18:32"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -676,6 +660,22 @@
         "handicap": "球半",
         "away_water": "0.740",
         "time": "05-18 22:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "两球升",
+        "away_water": "0.970↑",
+        "time": "06-23 07:05"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "球半",
+        "away_water": "0.770",
+        "time": "05-26 18:32"
       }
     },
     {

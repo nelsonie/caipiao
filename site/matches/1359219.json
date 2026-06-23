@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "两球升",
-      "home_water": "0.710↓",
-      "away_water": "0.910↑",
+      "home_water": "0.720↓",
+      "away_water": "0.900↑",
       "company": "威**尔"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-23T05:20:07Z"
+    "fetched_at_utc": "2026-06-23T05:30:08Z"
   },
   "shuju": {
     "title": "葡萄牙VS乌兹别克斯坦(2026世界杯)-数据分析-500彩票网",
@@ -710,10 +710,10 @@
       "cid": "293",
       "company": "威**尔",
       "live": {
-        "home_water": "0.710↓",
+        "home_water": "0.720↓",
         "handicap": "两球升",
-        "away_water": "0.910↑",
-        "time": "06-23 12:56"
+        "away_water": "0.900↑",
+        "time": "06-23 13:18"
       },
       "init": {
         "home_water": "0.890",
@@ -824,8 +824,8 @@
       "live": {
         "home_water": "1.030↑",
         "handicap": "两球/两球半升",
-        "away_water": "0.830↓",
-        "time": "06-23 13:16"
+        "away_water": "0.810↓",
+        "time": "06-23 13:25"
       },
       "init": {
         "home_water": "0.850",
@@ -934,10 +934,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.800",
-        "handicap": "两球",
-        "away_water": "1.000↑",
-        "time": "06-23 13:16"
+        "home_water": "1.000↑",
+        "handicap": "两球/两球半升",
+        "away_water": "0.790↓",
+        "time": "06-23 13:25"
       },
       "init": {
         "home_water": "0.800",
@@ -950,10 +950,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "1.030↑",
         "handicap": "两球/两球半升",
-        "away_water": "0.880↑",
-        "time": "06-23 13:18"
+        "away_water": "0.870↑",
+        "time": "06-23 13:23"
       },
       "init": {
         "home_water": "0.990",
@@ -2045,7 +2045,7 @@
     {
       "cid": "863",
       "company": "18**t",
-      "time": "2026-06-23 13:06:40",
+      "time": "2026-06-23 13:19:34",
       "odds": {
         "live": [
           "1.14",
