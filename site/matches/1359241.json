@@ -24,7 +24,7 @@
       "lost": "3.35",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-23T13:00:12Z"
+    "fetched_at_utc": "2026-06-23T13:10:11Z"
   },
   "shuju": {
     "title": "日本VS瑞典(2026世界杯)-数据分析-500彩票网",
@@ -426,32 +426,16 @@
       "cid": "9",
       "company": "易*博",
       "live": {
-        "home_water": "0.920↓",
+        "home_water": "0.890↓",
         "handicap": "半球",
-        "away_water": "0.970↑",
-        "time": "06-23 18:25"
+        "away_water": "0.990↑",
+        "time": "06-23 21:00"
       },
       "init": {
         "home_water": "0.930",
         "handicap": "半球",
         "away_water": "0.920",
         "time": "06-22 12:02"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890↓",
-        "handicap": "半球",
-        "away_water": "0.940↑",
-        "time": "06-23 20:37"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "半球",
-        "away_water": "0.780",
-        "time": "05-26 13:34"
       }
     },
     {
@@ -468,6 +452,22 @@
         "handicap": "平手",
         "away_water": "1.110",
         "time": "05-18 22:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "半球",
+        "away_water": "0.950↑",
+        "time": "06-23 20:56"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "半球",
+        "away_water": "0.780",
+        "time": "05-26 13:34"
       }
     },
     {
