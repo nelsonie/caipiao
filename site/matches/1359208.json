@@ -24,7 +24,7 @@
       "lost": "1.25",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-24T10:10:11Z"
+    "fetched_at_utc": "2026-06-24T10:20:13Z"
   },
   "shuju": {
     "title": "新西兰VS比利时(2026世界杯)-数据分析-500彩票网",
@@ -420,22 +420,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "受两球降",
-        "away_water": "0.930↑",
-        "time": "06-24 13:56"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "受球半",
-        "away_water": "0.820",
-        "time": "05-26 16:37"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -449,6 +433,22 @@
         "handicap": "受球半",
         "away_water": "0.680",
         "time": "05-18 22:04"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "受两球降",
+        "away_water": "0.930↑",
+        "time": "06-24 13:56"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "受球半",
+        "away_water": "0.820",
+        "time": "05-26 16:37"
       }
     },
     {
