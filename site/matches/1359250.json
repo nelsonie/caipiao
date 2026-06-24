@@ -24,7 +24,7 @@
       "lost": "5.75",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-24T17:40:11Z"
+    "fetched_at_utc": "2026-06-24T17:50:12Z"
   },
   "shuju": {
     "title": "塞内加尔VS伊拉克(2026世界杯)-数据分析-500彩票网",
@@ -274,15 +274,279 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "10",
+            "name": "萨迪奥·马内",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "尼古拉斯·杰克逊",
+            "position": "前锋"
+          },
+          {
+            "number": "18",
+            "name": "伊斯梅拉·萨尔",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "拉明·卡马拉",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "伊德里萨·盖伊",
+            "position": "中场"
+          },
+          {
+            "number": "26",
+            "name": "帕佩·盖伊",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "哈吉·马利克·迪乌夫",
+            "position": "后卫"
+          },
+          {
+            "number": "19",
+            "name": "穆萨·尼亚卡特",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "卡利杜·库利巴利",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "克雷平·迪亚塔",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "爱德华·门迪",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "2",
+            "name": "马马杜·萨尔",
+            "position": "后卫"
+          },
+          {
+            "number": "7",
+            "name": "阿萨内·迪奥",
+            "position": "前锋"
+          },
+          {
+            "number": "20",
+            "name": "易卜拉欣·姆巴耶",
+            "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "哈比卜·迪亚拉",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "谢里夫·恩迪亚耶",
+            "position": "前锋"
+          },
+          {
+            "number": "14",
+            "name": "伊斯梅尔·雅各布斯",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "叶赫万·迪乌夫",
+            "position": "守门员"
+          },
+          {
+            "number": "4",
+            "name": "阿卜杜拉耶·塞克",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "莫里· 迪奥",
+            "position": "守门员"
+          },
+          {
+            "number": "6",
+            "name": "帕特·西塞",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "巴拉·萨波科·恩迪亚耶",
+            "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "伊利曼·恩迪亚耶",
+            "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "班巴·迪昂",
+            "position": "前锋"
+          },
+          {
+            "number": "24",
+            "name": "安托万·门迪",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "帕普·萨尔",
+            "position": "中场"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "18",
+            "name": "艾曼·侯赛因",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "易卜拉欣·巴耶什",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "齐达内·伊克巴尔",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "扎伊德·伊斯梅尔",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "艾哈迈德·卡西姆",
+            "position": "前锋"
+          },
+          {
+            "number": "16",
+            "name": "阿米尔·阿马里",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "梅尔查斯·多斯基",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "阿卡姆·哈希姆",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "扎伊德·塔赫辛",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "侯赛因·阿里",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "艾哈迈德·巴西勒",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "6",
+            "name": "穆纳夫·尤尼斯",
+            "position": "后卫"
+          },
+          {
+            "number": "9",
+            "name": "阿里·哈马迪",
+            "position": "前锋"
+          },
+          {
+            "number": "25",
+            "name": "穆斯塔法·萨杜恩",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "阿里·贾西姆",
+            "position": "前锋"
+          },
+          {
+            "number": "15",
+            "name": "艾哈迈德·麦肯齐",
+            "position": "后卫"
+          },
+          {
+            "number": "26",
+            "name": "弗兰斯·普特罗斯",
+            "position": "中场"
+          },
+          {
+            "number": "1",
+            "name": "法赫德·塔利布",
+            "position": "守门员"
+          },
+          {
+            "number": "2",
+            "name": "里宾·苏尔卡",
+            "position": "后卫"
+          },
+          {
+            "number": "13",
+            "name": "阿里·优素福",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "莫哈纳德·阿里",
+            "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "马尔科·法尔吉",
+            "position": "前锋"
+          },
+          {
+            "number": "20",
+            "name": "艾马尔·谢尔",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "贾拉尔·哈桑",
+            "position": "守门员"
+          },
+          {
+            "number": "7",
+            "name": "优素福·阿明",
+            "position": "中场"
+          },
+          {
+            "number": "19",
+            "name": "凯文·雅克布",
+            "position": "中场"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
