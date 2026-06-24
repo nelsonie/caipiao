@@ -24,7 +24,7 @@
       "lost": "1.74",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-24T20:50:08Z"
+    "fetched_at_utc": "2026-06-24T21:00:09Z"
   },
   "shuju": {
     "title": "厄瓜多尔VS德国(2026世界杯)-数据分析-500彩票网",
@@ -374,14 +374,29 @@
         ],
         "subs": [
           {
-            "number": "10",
-            "name": "肯德里·派斯",
-            "position": "中场"
+            "number": "1",
+            "name": "埃尔南·加林德斯",
+            "position": "守门员"
           },
           {
             "number": "16",
             "name": "霍尔迪·凯塞多",
             "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "佩韦斯·埃斯图皮尼安",
+            "position": "后卫"
+          },
+          {
+            "number": "21",
+            "name": "阿兰·弗兰科",
+            "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "霍恩·耶博阿",
+            "position": "中场"
           },
           {
             "number": "17",
@@ -399,9 +414,44 @@
             "position": "守门员"
           },
           {
+            "number": "5",
+            "name": "霍尔迪·阿尔西瓦",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "威廉·帕乔",
+            "position": "后卫"
+          },
+          {
+            "number": "19",
+            "name": "贡萨洛·普拉塔",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "肯德里·派斯",
+            "position": "中场"
+          },
+          {
             "number": "25",
             "name": "哈克松·波罗索",
             "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "莫伊塞斯·凯塞多",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "彼罗·因卡皮耶",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "佩德罗·比特",
+            "position": "中场"
           },
           {
             "number": "18",
@@ -447,6 +497,11 @@
             "number": "22",
             "name": "贡萨洛·巴列",
             "position": "守门员"
+          },
+          {
+            "number": "13",
+            "name": "恩纳·巴伦西亚",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -513,9 +568,54 @@
         ],
         "subs": [
           {
+            "number": "1",
+            "name": "曼努埃尔·诺伊尔",
+            "position": "守门员"
+          },
+          {
+            "number": "12",
+            "name": "奥利弗·鲍曼",
+            "position": "守门员"
+          },
+          {
+            "number": "13",
+            "name": "帕斯卡·格罗斯",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "安东尼奥·吕迪格",
+            "position": "后卫"
+          },
+          {
+            "number": "8",
+            "name": "莱昂·格雷茨卡",
+            "position": "中场"
+          },
+          {
+            "number": "4",
+            "name": "约纳坦·塔",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "约书亚·基米希",
+            "position": "中场"
+          },
+          {
+            "number": "19",
+            "name": "勒鲁瓦·萨内",
+            "position": "前锋"
+          },
+          {
             "number": "20",
             "name": "纳迪姆·阿米里",
             "position": "中场"
+          },
+          {
+            "number": "21",
+            "name": "亚历山大·努贝尔",
+            "position": "守门员"
           },
           {
             "number": "26",
@@ -528,44 +628,14 @@
             "position": "后卫"
           },
           {
-            "number": "8",
-            "name": "莱昂·格雷茨卡",
-            "position": "中场"
-          },
-          {
-            "number": "2",
-            "name": "安东尼奥·吕迪格",
-            "position": "后卫"
-          },
-          {
-            "number": "13",
-            "name": "帕斯卡·格罗斯",
-            "position": "中场"
-          },
-          {
-            "number": "12",
-            "name": "奥利弗·鲍曼",
-            "position": "守门员"
-          },
-          {
             "number": "22",
             "name": "达维德·劳姆",
             "position": "后卫"
           },
           {
-            "number": "21",
-            "name": "亚历山大·努贝尔",
-            "position": "守门员"
-          },
-          {
-            "number": "25",
-            "name": "阿桑·韦德拉奥果",
+            "number": "23",
+            "name": "费利克斯·恩梅查",
             "position": "中场"
-          },
-          {
-            "number": "24",
-            "name": "马利克·佳夫",
-            "position": "后卫"
           },
           {
             "number": "16",
@@ -573,8 +643,8 @@
             "position": "中场"
           },
           {
-            "number": "9",
-            "name": "杰米·莱韦林",
+            "number": "14",
+            "name": "马克西米利安·拜尔",
             "position": "前锋"
           },
           {
@@ -583,8 +653,43 @@
             "position": "前锋"
           },
           {
-            "number": "14",
-            "name": "马克西米利安·拜尔",
+            "number": "9",
+            "name": "杰米·莱韦林",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "贾马尔·穆西亚拉",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "马利克·佳夫",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "弗洛里安·维尔茨",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "亚历山大·帕夫洛维奇",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "纳撒尼尔·布朗",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "阿桑·韦德拉奥果",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "凯·哈弗茨",
             "position": "前锋"
           }
         ],
