@@ -24,7 +24,7 @@
       "lost": "5.75",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-25T05:10:08Z"
+    "fetched_at_utc": "2026-06-25T05:20:09Z"
   },
   "shuju": {
     "title": "塞内加尔VS伊拉克(2026世界杯)-数据分析-500彩票网",
@@ -666,22 +666,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.810↓",
-        "handicap": "球半/两球升",
-        "away_water": "1.010↑",
-        "time": "06-25 12:02"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "一球",
-        "away_water": "0.990",
-        "time": "05-27 20:21"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -695,6 +679,22 @@
         "handicap": "球半",
         "away_water": "1.010",
         "time": "05-18 22:26"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↓",
+        "handicap": "球半/两球升",
+        "away_water": "1.010↑",
+        "time": "06-25 12:02"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "一球",
+        "away_water": "0.990",
+        "time": "05-27 20:21"
       }
     },
     {
