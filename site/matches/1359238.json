@@ -24,7 +24,7 @@
       "lost": "1.30",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-06-25T01:40:07Z"
+    "fetched_at_utc": "2026-06-25T01:50:08Z"
   },
   "shuju": {
     "title": "库拉索VS科特迪瓦(2026世界杯)-数据分析-500彩票网",
@@ -757,22 +757,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "受两球/两球半降",
-        "away_water": "1.010↑",
-        "time": "06-25 08:14"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "受球半",
-        "away_water": "0.760",
-        "time": "05-09 18:46"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -786,6 +770,22 @@
         "handicap": "受球半",
         "away_water": "0.870",
         "time": "05-26 13:34"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "受两球/两球半降",
+        "away_water": "1.010↑",
+        "time": "06-25 08:14"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "受球半",
+        "away_water": "0.760",
+        "time": "05-09 18:46"
       }
     },
     {
