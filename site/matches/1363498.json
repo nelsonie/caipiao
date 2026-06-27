@@ -24,7 +24,7 @@
       "lost": "2.75",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-27T11:50:08Z"
+    "fetched_at_utc": "2026-06-27T12:00:08Z"
   },
   "shuju": {
     "title": "埃尔维斯VS塞那乔恩(2026芬超)-数据分析-500彩票网",
@@ -517,8 +517,8 @@
             "position": "前锋"
           },
           {
-            "number": "6",
-            "name": "萨利姆·贾博·尤西夫",
+            "number": "31",
+            "name": "埃泽·奥努奥哈",
             "position": "中场"
           },
           {
@@ -527,14 +527,9 @@
             "position": "中场"
           },
           {
-            "number": "31",
-            "name": "埃泽·奥努奥哈",
-            "position": "中场"
-          },
-          {
             "number": "42",
             "name": "卡约·阿劳霍",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "15",
@@ -549,6 +544,11 @@
           {
             "number": "32",
             "name": "佐伊布·雅库布",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "萨利姆·贾博·尤西夫",
             "position": "后卫"
           },
           {
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "平手/半球",
-        "away_water": "0.940↑",
-        "time": "06-27 18:55"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "平手/半球",
-        "away_water": "0.780",
-        "time": "06-24 19:18"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "平手/半球",
         "away_water": "0.800",
         "time": "06-24 00:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "平手/半球",
+        "away_water": "0.940↑",
+        "time": "06-27 18:55"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "平手/半球",
+        "away_water": "0.780",
+        "time": "06-24 19:18"
       }
     },
     {
