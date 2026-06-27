@@ -24,7 +24,7 @@
       "lost": "2.65",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-27T08:10:11Z"
+    "fetched_at_utc": "2026-06-27T08:20:11Z"
   },
   "shuju": {
     "title": "赫尔辛基VS库普斯(2026芬超)-数据分析-500彩票网",
@@ -667,10 +667,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "0.950",
         "handicap": "平手/半球",
-        "away_water": "0.800↓",
-        "time": "06-27 15:47"
+        "away_water": "0.850",
+        "time": "06-27 16:11"
       },
       "init": {
         "home_water": "0.950",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "平手/半球",
-        "away_water": "0.830↓",
-        "time": "06-27 02:19"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "平手/半球",
-        "away_water": "0.840",
-        "time": "06-24 22:31"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.810",
         "time": "06-24 00:41"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "平手/半球",
+        "away_water": "0.830↓",
+        "time": "06-27 02:19"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "平手/半球",
+        "away_water": "0.840",
+        "time": "06-24 22:31"
       }
     },
     {
