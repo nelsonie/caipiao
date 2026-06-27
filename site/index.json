@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-27T14:50:17Z",
+  "last_updated_utc": "2026-06-27T15:00:14Z",
   "matches": [
     {
       "xml_id": "2040303",
@@ -216,6 +216,24 @@
       "matchnum_label": "周六205",
       "home_team_id": "2687",
       "away_team_id": "434"
+    },
+    {
+      "xml_id": "2040333",
+      "matchnum": "6206",
+      "date": "2026-06-28",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "AC奥卢",
+      "away": "拉赫蒂",
+      "spf_win": "3.72",
+      "spf_draw": "3.35",
+      "spf_lost": "1.78",
+      "spf_updated": "2026-06-27 21:18:18",
+      "gameid": "1363527",
+      "kickoff_cst": "2026-06-28 02:00",
+      "matchnum_label": "周六206",
+      "home_team_id": "363",
+      "away_team_id": "956"
     },
     {
       "xml_id": "2040337",
