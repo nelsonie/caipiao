@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-06-27T04:20:14Z",
+  "last_updated_utc": "2026-06-27T04:30:11Z",
   "matches": [
     {
       "xml_id": "2040303",
@@ -81,10 +81,10 @@
       "league": "世界杯",
       "home": "阿尔及利亚",
       "away": "奥地利",
-      "spf_win": "1.31",
-      "spf_draw": "4.35",
-      "spf_lost": "7.35",
-      "spf_updated": "2026-06-25 09:38:45",
+      "spf_win": "1.33",
+      "spf_draw": "4.30",
+      "spf_lost": "6.90",
+      "spf_updated": "2026-06-27 12:25:14",
       "gameid": "1359253",
       "kickoff_cst": "2026-06-28 10:00",
       "matchnum_label": "周六071",
@@ -182,6 +182,24 @@
       "away_team_id": "1327"
     },
     {
+      "xml_id": "2040331",
+      "matchnum": "6204",
+      "date": "2026-06-28",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "TPS图尔库",
+      "away": "雅罗",
+      "spf_win": "3.67",
+      "spf_draw": "3.55",
+      "spf_lost": "1.74",
+      "spf_updated": "2026-06-27 09:14:12",
+      "gameid": "1363521",
+      "kickoff_cst": "2026-06-28 00:00",
+      "matchnum_label": "周六204",
+      "home_team_id": "415",
+      "away_team_id": "743"
+    },
+    {
       "xml_id": "2040332",
       "matchnum": "6205",
       "date": "2026-06-28",
@@ -200,6 +218,24 @@
       "away_team_id": "434"
     },
     {
+      "xml_id": "2040333",
+      "matchnum": "6206",
+      "date": "2026-06-28",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "AC奥卢",
+      "away": "拉赫蒂",
+      "spf_win": "4.15",
+      "spf_draw": "3.75",
+      "spf_lost": "1.61",
+      "spf_updated": "2026-06-27 09:14:12",
+      "gameid": "1363527",
+      "kickoff_cst": "2026-06-28 02:00",
+      "matchnum_label": "周六206",
+      "home_team_id": "363",
+      "away_team_id": "956"
+    },
+    {
       "xml_id": "2040337",
       "matchnum": "1074",
       "date": "2026-06-30",
@@ -216,6 +252,24 @@
       "matchnum_label": "周一074",
       "home_team_id": "11",
       "away_team_id": "29"
+    },
+    {
+      "xml_id": "2040338",
+      "matchnum": "1076",
+      "date": "2026-06-30",
+      "dayofweek": "星期二",
+      "league": "世界杯",
+      "home": "荷兰",
+      "away": "摩洛哥",
+      "spf_win": "3.82",
+      "spf_draw": "3.58",
+      "spf_lost": "1.70",
+      "spf_updated": "2026-06-27 09:14:12",
+      "gameid": "1359158",
+      "kickoff_cst": "2026-06-30 09:00",
+      "matchnum_label": "周一076",
+      "home_team_id": "18",
+      "away_team_id": "38"
     }
   ]
 }
