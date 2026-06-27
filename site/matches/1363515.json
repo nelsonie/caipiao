@@ -24,7 +24,7 @@
       "lost": "2.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-27T09:30:12Z"
+    "fetched_at_utc": "2026-06-27T09:40:10Z"
   },
   "shuju": {
     "title": "格尼斯坦VS瓦萨(2026芬超)-数据分析-500彩票网",
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "平手",
-        "away_water": "0.950↑",
-        "time": "06-27 17:20"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "平手",
-        "away_water": "0.900",
-        "time": "06-25 00:54"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "平手",
         "away_water": "0.920",
         "time": "06-24 13:45"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "平手",
+        "away_water": "0.950↑",
+        "time": "06-27 17:20"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "平手",
+        "away_water": "0.900",
+        "time": "06-25 00:54"
       }
     },
     {
