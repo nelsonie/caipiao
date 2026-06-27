@@ -24,7 +24,7 @@
       "lost": "3.50",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-27T03:10:11Z"
+    "fetched_at_utc": "2026-06-27T03:20:12Z"
   },
   "shuju": {
     "title": "TPS土尔库VS查路(2026芬超)-数据分析-500彩票网",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.880↓",
-        "time": "06-27 00:09"
-      },
-      "init": {
-        "home_water": "0.580",
-        "handicap": "平手",
-        "away_water": "1.300",
-        "time": "06-24 00:21"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "平手/半球",
         "away_water": "0.910",
         "time": "06-25 00:13"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.880↓",
+        "time": "06-27 00:09"
+      },
+      "init": {
+        "home_water": "0.580",
+        "handicap": "平手",
+        "away_water": "1.300",
+        "time": "06-24 00:21"
       }
     },
     {
@@ -843,10 +843,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "0.910↓",
+        "home_water": "0.900↓",
         "handicap": "平手/半球",
-        "away_water": "0.990↑",
-        "time": "06-27 10:04"
+        "away_water": "1.000↑",
+        "time": "06-27 11:04"
       },
       "init": {
         "home_water": "0.930",
