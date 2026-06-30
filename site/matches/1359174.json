@@ -24,7 +24,7 @@
       "lost": "3.86",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-30T14:10:06Z"
+    "fetched_at_utc": "2026-06-30T14:20:08Z"
   },
   "shuju": {
     "title": "墨西哥VS厄瓜多尔(2026世界杯)-数据分析-500彩票网",
@@ -824,22 +824,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.890↑",
-        "handicap": "平手/半球",
-        "away_water": "0.970↓",
-        "time": "06-30 22:05"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "平手/半球",
-        "away_water": "1.140",
-        "time": "06-28 09:00"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -853,6 +837,22 @@
         "handicap": "半球",
         "away_water": "0.780",
         "time": "06-28 09:09"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.890↑",
+        "handicap": "平手/半球",
+        "away_water": "0.970↓",
+        "time": "06-30 22:05"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "平手/半球",
+        "away_water": "1.140",
+        "time": "06-28 09:00"
       }
     },
     {
@@ -1805,7 +1805,7 @@
     {
       "cid": "140",
       "company": "M****on88 (明*)",
-      "time": "2026-06-30 22:02:56",
+      "time": "2026-06-30 22:09:41",
       "odds": {
         "live": [
           "2.26",
