@@ -24,7 +24,7 @@
       "lost": "1.82",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-06-30T15:40:09Z"
+    "fetched_at_utc": "2026-06-30T15:50:08Z"
   },
   "shuju": {
     "title": "科特迪瓦VS挪威(2026世界杯)-数据分析-500彩票网",
@@ -299,14 +299,14 @@
             "position": "前锋"
           },
           {
-            "number": "19",
-            "name": "尼古拉·佩佩",
-            "position": "前锋"
-          },
-          {
             "number": "11",
             "name": "杨·迪奥曼德",
             "position": "前锋"
+          },
+          {
+            "number": "26",
+            "name": "克里斯特·伊纳奥·乌拉伊",
+            "position": "中场"
           },
           {
             "number": "8",
@@ -314,23 +314,23 @@
             "position": "中场"
           },
           {
+            "number": "19",
+            "name": "尼古拉·佩佩",
+            "position": "前锋"
+          },
+          {
             "number": "18",
             "name": "易卜拉欣·桑加雷",
             "position": "中场"
           },
           {
-            "number": "15",
-            "name": "阿马德·迪亚洛",
-            "position": "前锋"
-          },
-          {
-            "number": "13",
-            "name": "克里斯托弗·奥佩里",
+            "number": "3",
+            "name": "吉兰·科南",
             "position": "后卫"
           },
           {
-            "number": "2",
-            "name": "奥斯曼·迪奥曼德",
+            "number": "20",
+            "name": "伊曼纽尔·阿格巴杜",
             "position": "后卫"
           },
           {
@@ -351,9 +351,19 @@
         ],
         "subs": [
           {
-            "number": "6",
-            "name": "塞科·福法纳",
-            "position": "中场"
+            "number": "23",
+            "name": "阿尔班·拉冯",
+            "position": "守门员"
+          },
+          {
+            "number": "13",
+            "name": "克里斯托弗·奥佩里",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "阿马德·迪亚洛",
+            "position": "前锋"
           },
           {
             "number": "4",
@@ -361,28 +371,23 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "弗兰克·凯西",
+            "number": "6",
+            "name": "塞科·福法纳",
             "position": "中场"
           },
           {
-            "number": "19",
-            "name": "尼古拉·佩佩",
-            "position": "前锋"
-          },
-          {
-            "number": "23",
-            "name": "阿尔班·拉冯",
-            "position": "守门员"
-          },
-          {
-            "number": "3",
-            "name": "吉兰·科南",
+            "number": "5",
+            "name": "威尔弗里德·辛戈",
             "position": "后卫"
           },
           {
-            "number": "18",
-            "name": "易卜拉欣·桑加雷",
+            "number": "22",
+            "name": "埃文·盖桑",
+            "position": "前锋"
+          },
+          {
+            "number": "25",
+            "name": "帕尔法特·古亚贡",
             "position": "中场"
           },
           {
@@ -391,54 +396,24 @@
             "position": "后卫"
           },
           {
-            "number": "13",
-            "name": "克里斯托弗·奥佩里",
+            "number": "24",
+            "name": "巴祖马纳·图雷",
+            "position": "前锋"
+          },
+          {
+            "number": "2",
+            "name": "奥斯曼·迪奥曼德",
             "position": "后卫"
           },
           {
-            "number": "1",
-            "name": "叶海亚·福法纳",
+            "number": "14",
+            "name": "奥马尔·迪亚基特",
+            "position": "前锋"
+          },
+          {
+            "number": "16",
+            "name": "穆罕默德·科内",
             "position": "守门员"
-          },
-          {
-            "number": "15",
-            "name": "阿马德·迪亚洛",
-            "position": "前锋"
-          },
-          {
-            "number": "5",
-            "name": "威尔弗里德·辛戈",
-            "position": "后卫"
-          },
-          {
-            "number": "26",
-            "name": "克里斯特·伊纳奥·乌拉伊",
-            "position": "中场"
-          },
-          {
-            "number": "22",
-            "name": "埃文·盖桑",
-            "position": "前锋"
-          },
-          {
-            "number": "17",
-            "name": "盖拉·杜埃",
-            "position": "后卫"
-          },
-          {
-            "number": "25",
-            "name": "帕尔法特·古亚贡",
-            "position": "中场"
-          },
-          {
-            "number": "9",
-            "name": "安热-约安·博尼",
-            "position": "前锋"
-          },
-          {
-            "number": "20",
-            "name": "伊曼纽尔·阿格巴杜",
-            "position": "后卫"
           },
           {
             "number": "12",
@@ -449,36 +424,6 @@
             "number": "10",
             "name": "西蒙·阿丁格拉",
             "position": "前锋"
-          },
-          {
-            "number": "16",
-            "name": "穆罕默德·科内",
-            "position": "守门员"
-          },
-          {
-            "number": "14",
-            "name": "奥马尔·迪亚基特",
-            "position": "前锋"
-          },
-          {
-            "number": "2",
-            "name": "奥斯曼·迪奥曼德",
-            "position": "后卫"
-          },
-          {
-            "number": "24",
-            "name": "巴祖马纳·图雷",
-            "position": "前锋"
-          },
-          {
-            "number": "11",
-            "name": "杨·迪奥曼德",
-            "position": "前锋"
-          },
-          {
-            "number": "7",
-            "name": "奥迪隆·科苏努",
-            "position": "后卫"
           }
         ],
         "injured": [],
@@ -488,18 +433,65 @@
         "formation": null,
         "starters": [
           {
-            "number": "21",
-            "name": "安德烈亚斯·谢尔德鲁普",
-            "position": "中场"
-          },
-          {
-            "number": "11",
-            "name": "约尔根·斯特兰·拉森",
+            "number": "20",
+            "name": "安东尼奥·努萨",
             "position": "前锋"
           },
           {
-            "number": "22",
-            "name": "奥斯卡·鲍勃",
+            "number": "9",
+            "name": "埃尔林·哈兰德",
+            "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "亚历山大·瑟洛特",
+            "position": "前锋"
+          },
+          {
+            "number": "6",
+            "name": "帕特里克·贝格",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "桑德·贝格",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "马丁·厄德高",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "戴维·沃尔费",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "托尔比约恩·赫根",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "克里斯托弗·阿耶尔",
+            "position": "后卫"
+          },
+          {
+            "number": "16",
+            "name": "马库斯·彼得森",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "厄延·尼兰德",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "21",
+            "name": "安德烈亚斯·谢尔德鲁普",
             "position": "中场"
           },
           {
@@ -508,24 +500,9 @@
             "position": "中场"
           },
           {
-            "number": "18",
-            "name": "克里斯蒂安·托斯特韦特",
+            "number": "22",
+            "name": "奥斯卡·鲍勃",
             "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "帕特里克·贝格",
-            "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "弗雷德里克·比约坎",
-            "position": "后卫"
-          },
-          {
-            "number": "4",
-            "name": "莱奥·厄斯蒂高",
-            "position": "后卫"
           },
           {
             "number": "25",
@@ -533,20 +510,13 @@
             "position": "后卫"
           },
           {
-            "number": "14",
-            "name": "弗雷德里克·奥尔斯内斯",
-            "position": "中场"
+            "number": "24",
+            "name": "松雷·隆奥斯",
+            "position": "后卫"
           },
           {
-            "number": "13",
-            "name": "埃伊尔·塞尔维克",
-            "position": "守门员"
-          }
-        ],
-        "subs": [
-          {
-            "number": "1",
-            "name": "厄延·尼兰德",
+            "number": "12",
+            "name": "桑德尔·唐维克",
             "position": "守门员"
           },
           {
@@ -560,28 +530,8 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "亚历山大·瑟洛特",
-            "position": "前锋"
-          },
-          {
-            "number": "6",
-            "name": "帕特里克·贝格",
-            "position": "中场"
-          },
-          {
-            "number": "10",
-            "name": "马丁·厄德高",
-            "position": "中场"
-          },
-          {
-            "number": "3",
-            "name": "克里斯托弗·阿耶尔",
-            "position": "后卫"
-          },
-          {
-            "number": "8",
-            "name": "桑德·贝格",
+            "number": "18",
+            "name": "克里斯蒂安·托斯特韦特",
             "position": "中场"
           },
           {
@@ -605,11 +555,6 @@
             "position": "前锋"
           },
           {
-            "number": "20",
-            "name": "安东尼奥·努萨",
-            "position": "前锋"
-          },
-          {
             "number": "11",
             "name": "约尔根·斯特兰·拉森",
             "position": "前锋"
@@ -618,61 +563,6 @@
             "number": "4",
             "name": "莱奥·厄斯蒂高",
             "position": "后卫"
-          },
-          {
-            "number": "18",
-            "name": "克里斯蒂安·托斯特韦特",
-            "position": "中场"
-          },
-          {
-            "number": "16",
-            "name": "马库斯·彼得森",
-            "position": "后卫"
-          },
-          {
-            "number": "17",
-            "name": "托尔比约恩·赫根",
-            "position": "后卫"
-          },
-          {
-            "number": "12",
-            "name": "桑德尔·唐维克",
-            "position": "守门员"
-          },
-          {
-            "number": "5",
-            "name": "戴维·沃尔费",
-            "position": "后卫"
-          },
-          {
-            "number": "24",
-            "name": "松雷·隆奥斯",
-            "position": "后卫"
-          },
-          {
-            "number": "25",
-            "name": "亨里克·法尔赫纳",
-            "position": "后卫"
-          },
-          {
-            "number": "22",
-            "name": "奥斯卡·鲍勃",
-            "position": "中场"
-          },
-          {
-            "number": "19",
-            "name": "泰洛·奥斯高",
-            "position": "中场"
-          },
-          {
-            "number": "21",
-            "name": "安德烈亚斯·谢尔德鲁普",
-            "position": "中场"
-          },
-          {
-            "number": "9",
-            "name": "埃尔林·哈兰德",
-            "position": "前锋"
           }
         ],
         "injured": [],
