@@ -24,7 +24,7 @@
       "lost": "17.00",
       "company": "威**尔"
     },
-    "fetched_at_utc": "2026-07-01T20:00:06Z"
+    "fetched_at_utc": "2026-07-01T20:10:07Z"
   },
   "shuju": {
     "title": "阿根廷VS佛得角(2026世界杯)-数据分析-500彩票网",
@@ -637,22 +637,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "两球",
-        "away_water": "0.900↓",
-        "time": "07-01 23:27"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "两球",
-        "away_water": "0.930",
-        "time": "06-27 10:39"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -666,6 +650,22 @@
         "handicap": "两球",
         "away_water": "0.920",
         "time": "06-27 10:41"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "两球",
+        "away_water": "0.900↓",
+        "time": "07-01 23:27"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "两球",
+        "away_water": "0.930",
+        "time": "06-27 10:39"
       }
     },
     {
@@ -752,10 +752,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "0.890↑",
+        "home_water": "0.900↑",
         "handicap": "两球",
         "away_water": "0.890↓",
-        "time": "07-02 00:58"
+        "time": "07-02 03:45"
       },
       "init": {
         "home_water": "0.820",
