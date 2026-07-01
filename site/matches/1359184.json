@@ -24,7 +24,7 @@
       "lost": "3.42",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-07-01T11:30:07Z"
+    "fetched_at_utc": "2026-07-01T11:40:11Z"
   },
   "shuju": {
     "title": "比利时VS塞内加尔(2026世界杯)-数据分析-500彩票网",
@@ -768,7 +768,7 @@
         "home_water": "0.850↓",
         "handicap": "平手/半球降",
         "away_water": "1.040↑",
-        "time": "07-01 19:26"
+        "time": "07-01 19:33"
       },
       "init": {
         "home_water": "1.020",
@@ -794,22 +794,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.820↑",
-        "handicap": "平手/半球",
-        "away_water": "1.050↓",
-        "time": "07-01 19:24"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "平手/半球",
-        "away_water": "1.060",
-        "time": "06-28 10:41"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -826,13 +810,29 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.820↑",
+        "handicap": "平手/半球",
+        "away_water": "1.050↓",
+        "time": "07-01 19:24"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "平手/半球",
+        "away_water": "1.060",
+        "time": "06-28 10:41"
+      }
+    },
+    {
       "cid": "1055",
       "company": "Pi****le平*",
       "live": {
-        "home_water": "0.860↑",
+        "home_water": "0.870↑",
         "handicap": "平手/半球",
-        "away_water": "1.070↓",
-        "time": "07-01 19:14"
+        "away_water": "1.060↓",
+        "time": "07-01 19:34"
       },
       "init": {
         "home_water": "0.820",
@@ -893,10 +893,10 @@
       "cid": "502",
       "company": "12**t (壹*博)",
       "live": {
-        "home_water": "0.870↑",
+        "home_water": "0.880↑",
         "handicap": "平手/半球",
-        "away_water": "1.060↑",
-        "time": "07-01 19:20"
+        "away_water": "1.050",
+        "time": "07-01 19:34"
       },
       "init": {
         "home_water": "0.850",
