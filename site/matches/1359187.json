@@ -24,7 +24,7 @@
       "lost": "4.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-07-01T21:10:08Z"
+    "fetched_at_utc": "2026-07-01T21:20:08Z"
   },
   "shuju": {
     "title": "葡萄牙VS克罗地亚(2026世界杯)-数据分析-500彩票网",
@@ -772,22 +772,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.950↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.800↓",
-        "time": "07-01 22:06"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "平手/半球",
-        "away_water": "1.020",
-        "time": "06-28 10:16"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -801,6 +785,22 @@
         "handicap": "平手/半球",
         "away_water": "1.050",
         "time": "06-28 12:43"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.950↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.800↓",
+        "time": "07-01 22:06"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "平手/半球",
+        "away_water": "1.020",
+        "time": "06-28 10:16"
       }
     },
     {
@@ -887,10 +887,10 @@
       "cid": "863",
       "company": "18**t",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "0.980↑",
         "handicap": "半球/一球升",
-        "away_water": "0.790↓",
-        "time": "07-02 04:57"
+        "away_water": "0.810↓",
+        "time": "07-02 05:09"
       },
       "init": {
         "home_water": "0.890",
