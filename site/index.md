@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-07-01T12:30:14Z'
+last_updated_utc: '2026-07-01T12:40:09Z'
 total_matches: 9
 leagues_covered:
 - 世界杯
