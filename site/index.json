@@ -1,6 +1,24 @@
 {
-  "last_updated_utc": "2026-07-01T20:10:11Z",
+  "last_updated_utc": "2026-07-01T20:20:08Z",
   "matches": [
+    {
+      "xml_id": "2040339",
+      "matchnum": "3082",
+      "date": "2026-07-02",
+      "dayofweek": "星期四",
+      "league": "世界杯",
+      "home": "美国",
+      "away": "波黑",
+      "spf_win": "1.77",
+      "spf_draw": "3.75",
+      "spf_lost": "3.36",
+      "spf_updated": "2026-07-01 13:45:02",
+      "gameid": "1359181",
+      "kickoff_cst": "2026-07-02 08:00",
+      "matchnum_label": "周三082",
+      "home_team_id": "2",
+      "away_team_id": "80"
+    },
     {
       "xml_id": "2040347",
       "matchnum": "5086",
