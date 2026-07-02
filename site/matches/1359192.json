@@ -24,7 +24,7 @@
       "lost": "3.92",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-07-02T09:40:08Z"
+    "fetched_at_utc": "2026-07-02T09:50:08Z"
   },
   "shuju": {
     "title": "瑞士VS阿尔及利亚(2026世界杯)-数据分析-500彩票网",
@@ -794,22 +794,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "半球降",
-        "away_water": "0.800↓",
-        "time": "07-02 17:37"
-      },
-      "init": {
-        "home_water": "0.770",
-        "handicap": "半球/一球",
-        "away_water": "1.060",
-        "time": "06-28 12:55"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -823,6 +807,22 @@
         "handicap": "半球/一球",
         "away_water": "0.950",
         "time": "06-28 12:50"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "半球降",
+        "away_water": "0.800↓",
+        "time": "07-02 17:37"
+      },
+      "init": {
+        "home_water": "0.770",
+        "handicap": "半球/一球",
+        "away_water": "1.060",
+        "time": "06-28 12:55"
       }
     },
     {
