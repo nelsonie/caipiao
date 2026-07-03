@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-03T07:00:13Z",
+  "last_updated_utc": "2026-07-03T07:10:14Z",
   "matches": [
     {
       "xml_id": "2040347",
@@ -28,9 +28,9 @@
       "home": "阿根廷",
       "away": "佛得角",
       "spf_win": "2.10",
-      "spf_draw": "3.55",
-      "spf_lost": "2.69",
-      "spf_updated": "2026-07-03 14:11:27",
+      "spf_draw": "3.45",
+      "spf_lost": "2.75",
+      "spf_updated": "2026-07-03 15:08:32",
       "gameid": "1359194",
       "kickoff_cst": "2026-07-04 06:00",
       "matchnum_label": "周五087",
@@ -45,10 +45,10 @@
       "league": "世界杯",
       "home": "哥伦比亚",
       "away": "加纳",
-      "spf_win": "2.17",
-      "spf_draw": "2.92",
-      "spf_lost": "3.07",
-      "spf_updated": "2026-07-03 13:28:32",
+      "spf_win": "2.14",
+      "spf_draw": "2.86",
+      "spf_lost": "3.20",
+      "spf_updated": "2026-07-03 15:06:09",
       "gameid": "1359196",
       "kickoff_cst": "2026-07-04 09:30",
       "matchnum_label": "周五088",
@@ -216,42 +216,6 @@
       "matchnum_label": "周日201",
       "home_team_id": "1606",
       "away_team_id": "1612"
-    },
-    {
-      "xml_id": "2040406",
-      "matchnum": "7202",
-      "date": "2026-07-05",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "光州FC",
-      "away": "蔚山现代",
-      "spf_win": "2.45",
-      "spf_draw": "3.25",
-      "spf_lost": "2.42",
-      "spf_updated": "2026-07-03 09:36:50",
-      "gameid": "1373073",
-      "kickoff_cst": "2026-07-05 18:30",
-      "matchnum_label": "周日202",
-      "home_team_id": "6477",
-      "away_team_id": "1603"
-    },
-    {
-      "xml_id": "2040407",
-      "matchnum": "7203",
-      "date": "2026-07-05",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "金泉尚武",
-      "away": "济州SK",
-      "spf_win": "5.60",
-      "spf_draw": "3.90",
-      "spf_lost": "1.44",
-      "spf_updated": "2026-07-03 09:36:50",
-      "gameid": "1373100",
-      "kickoff_cst": "2026-07-05 18:30",
-      "matchnum_label": "周日203",
-      "home_team_id": "1615",
-      "away_team_id": "3410"
     }
   ]
 }
