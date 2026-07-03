@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-03T20:50:13Z",
+  "last_updated_utc": "2026-07-03T21:00:13Z",
   "matches": [
     {
       "xml_id": "2040348",
@@ -90,6 +90,24 @@
       "matchnum_label": "周日091",
       "home_team_id": "11",
       "away_team_id": "31"
+    },
+    {
+      "xml_id": "2040394",
+      "matchnum": "7092",
+      "date": "2026-07-06",
+      "dayofweek": "星期一",
+      "league": "世界杯",
+      "home": "墨西哥",
+      "away": "英格兰",
+      "spf_win": "1.57",
+      "spf_draw": "3.45",
+      "spf_lost": "4.95",
+      "spf_updated": "2026-07-03 16:55:47",
+      "gameid": "1359173",
+      "kickoff_cst": "2026-07-06 08:00",
+      "matchnum_label": "周日092",
+      "home_team_id": "16",
+      "away_team_id": "15"
     },
     {
       "xml_id": "2040396",
