@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-03T17:40:15Z",
+  "last_updated_utc": "2026-07-03T17:50:12Z",
   "matches": [
     {
       "xml_id": "2040347",
@@ -164,24 +164,6 @@
       "away_team_id": "7075"
     },
     {
-      "xml_id": "2040398",
-      "matchnum": "6203",
-      "date": "2026-07-04",
-      "dayofweek": "星期六",
-      "league": "韩国职业联赛",
-      "home": "全北现代",
-      "away": "江原FC",
-      "spf_win": "5.75",
-      "spf_draw": "3.90",
-      "spf_lost": "1.43",
-      "spf_updated": "2026-07-03 09:36:50",
-      "gameid": "1373115",
-      "kickoff_cst": "2026-07-04 18:30",
-      "matchnum_label": "周六203",
-      "home_team_id": "1609",
-      "away_team_id": "5739"
-    },
-    {
       "xml_id": "2040405",
       "matchnum": "7201",
       "date": "2026-07-05",
@@ -216,6 +198,24 @@
       "matchnum_label": "周日202",
       "home_team_id": "6477",
       "away_team_id": "1603"
+    },
+    {
+      "xml_id": "2040407",
+      "matchnum": "7203",
+      "date": "2026-07-05",
+      "dayofweek": "星期天",
+      "league": "韩国职业联赛",
+      "home": "金泉尚武",
+      "away": "济州SK",
+      "spf_win": "5.60",
+      "spf_draw": "3.90",
+      "spf_lost": "1.44",
+      "spf_updated": "2026-07-03 09:36:50",
+      "gameid": "1373100",
+      "kickoff_cst": "2026-07-05 18:30",
+      "matchnum_label": "周日203",
+      "home_team_id": "1615",
+      "away_team_id": "3410"
     }
   ]
 }
