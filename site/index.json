@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-03T21:40:11Z",
+  "last_updated_utc": "2026-07-03T21:50:13Z",
   "matches": [
     {
       "xml_id": "2040348",
@@ -74,6 +74,24 @@
       "away_team_id": "10"
     },
     {
+      "xml_id": "2040374",
+      "matchnum": "7091",
+      "date": "2026-07-06",
+      "dayofweek": "星期一",
+      "league": "世界杯",
+      "home": "巴西",
+      "away": "挪威",
+      "spf_win": "3.25",
+      "spf_draw": "3.25",
+      "spf_lost": "1.95",
+      "spf_updated": "2026-07-03 16:48:43",
+      "gameid": "1359170",
+      "kickoff_cst": "2026-07-06 04:00",
+      "matchnum_label": "周日091",
+      "home_team_id": "11",
+      "away_team_id": "31"
+    },
+    {
       "xml_id": "2040394",
       "matchnum": "7092",
       "date": "2026-07-06",
@@ -90,6 +108,24 @@
       "matchnum_label": "周日092",
       "home_team_id": "16",
       "away_team_id": "15"
+    },
+    {
+      "xml_id": "2040396",
+      "matchnum": "6201",
+      "date": "2026-07-04",
+      "dayofweek": "星期六",
+      "league": "韩国职业联赛",
+      "home": "安养FC",
+      "away": "浦项制铁",
+      "spf_win": "1.40",
+      "spf_draw": "3.85",
+      "spf_lost": "6.45",
+      "spf_updated": "2026-07-03 09:36:50",
+      "gameid": "1373131",
+      "kickoff_cst": "2026-07-04 18:30",
+      "matchnum_label": "周六201",
+      "home_team_id": "4544",
+      "away_team_id": "1608"
     },
     {
       "xml_id": "2040397",
@@ -162,24 +198,6 @@
       "matchnum_label": "周日202",
       "home_team_id": "6477",
       "away_team_id": "1603"
-    },
-    {
-      "xml_id": "2040407",
-      "matchnum": "7203",
-      "date": "2026-07-05",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "金泉尚武",
-      "away": "济州SK",
-      "spf_win": "5.60",
-      "spf_draw": "3.90",
-      "spf_lost": "1.44",
-      "spf_updated": "2026-07-03 09:36:50",
-      "gameid": "1373100",
-      "kickoff_cst": "2026-07-05 18:30",
-      "matchnum_label": "周日203",
-      "home_team_id": "1615",
-      "away_team_id": "3410"
     }
   ]
 }
