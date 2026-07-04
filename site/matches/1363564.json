@@ -24,7 +24,7 @@
       "lost": "9.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-07-04T15:50:15Z"
+    "fetched_at_utc": "2026-07-04T16:00:22Z"
   },
   "shuju": {
     "title": "瓦萨VS玛丽港(2026芬超)-数据分析-500彩票网",
@@ -507,13 +507,13 @@
             "position": "前锋"
           },
           {
-            "number": "43",
-            "name": "利奥·安德森",
-            "position": "前锋"
-          },
-          {
             "number": "64",
             "name": "玛洛·海沃宁",
+            "position": "中场"
+          },
+          {
+            "number": "43",
+            "name": "利奥·安德森",
             "position": "中场"
           },
           {
@@ -522,13 +522,13 @@
             "position": "中场"
           },
           {
-            "number": "20",
-            "name": "埃马纽埃尔·帕图",
+            "number": "18",
+            "name": "亚当·斯特劳德",
             "position": "中场"
           },
           {
-            "number": "18",
-            "name": "亚当·斯特劳德",
+            "number": "20",
+            "name": "埃马纽埃尔·帕图",
             "position": "中场"
           },
           {
@@ -713,22 +713,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "球半",
-        "away_water": "0.990↑",
-        "time": "07-04 22:59"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "球半",
-        "away_water": "0.910",
-        "time": "07-01 23:29"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -742,6 +726,22 @@
         "handicap": "球半",
         "away_water": "0.720",
         "time": "06-28 00:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "球半",
+        "away_water": "0.990↑",
+        "time": "07-04 22:59"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "球半",
+        "away_water": "0.910",
+        "time": "07-01 23:29"
       }
     },
     {
