@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-04T05:00:18Z",
+  "last_updated_utc": "2026-07-04T05:10:17Z",
   "matches": [
     {
       "xml_id": "2040359",
@@ -9,10 +9,10 @@
       "league": "世界杯",
       "home": "加拿大",
       "away": "摩洛哥",
-      "spf_win": "2.08",
-      "spf_draw": "2.94",
-      "spf_lost": "3.24",
-      "spf_updated": "2026-07-04 12:26:20",
+      "spf_win": "2.11",
+      "spf_draw": "2.92",
+      "spf_lost": "3.19",
+      "spf_updated": "2026-07-04 13:05:04",
       "gameid": "1359164",
       "kickoff_cst": "2026-07-05 01:00",
       "matchnum_label": "周六089",
@@ -324,6 +324,24 @@
       "matchnum_label": "周日204",
       "home_team_id": "913",
       "away_team_id": "606"
+    },
+    {
+      "xml_id": "2040409",
+      "matchnum": "7205",
+      "date": "2026-07-05",
+      "dayofweek": "星期天",
+      "league": "瑞典超级联赛",
+      "home": "IFK哥德堡",
+      "away": "AIK索尔纳",
+      "spf_win": "4.40",
+      "spf_draw": "3.90",
+      "spf_lost": "1.55",
+      "spf_updated": "2026-07-04 09:38:46",
+      "gameid": "1362689",
+      "kickoff_cst": "2026-07-05 20:00",
+      "matchnum_label": "周日205",
+      "home_team_id": "823",
+      "away_team_id": "215"
     },
     {
       "xml_id": "2040410",
