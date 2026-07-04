@@ -24,7 +24,7 @@
       "lost": "9.85",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-07-04T13:00:17Z"
+    "fetched_at_utc": "2026-07-04T13:10:13Z"
   },
   "shuju": {
     "title": "瓦萨VS玛丽港(2026芬超)-数据分析-500彩票网",
@@ -657,10 +657,10 @@
       "cid": "3",
       "company": "**t3*5",
       "live": {
-        "home_water": "0.800↓",
+        "home_water": "0.820↓",
         "handicap": "球半",
-        "away_water": "1.000↑",
-        "time": "07-04 19:56"
+        "away_water": "0.970↑",
+        "time": "07-04 21:06"
       },
       "init": {
         "home_water": "0.900",
@@ -708,29 +708,13 @@
         "home_water": "0.840↓",
         "handicap": "球半",
         "away_water": "1.040↑",
-        "time": "07-04 20:51"
+        "time": "07-04 21:05"
       },
       "init": {
         "home_water": "0.910",
         "handicap": "球半",
         "away_water": "0.910",
         "time": "06-29 19:44"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.810↓",
-        "handicap": "球半",
-        "away_water": "0.940↑",
-        "time": "07-04 20:38"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "球半",
-        "away_water": "0.720",
-        "time": "06-28 00:20"
       }
     },
     {
@@ -747,6 +731,22 @@
         "handicap": "球半",
         "away_water": "0.910",
         "time": "07-01 23:29"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "球半",
+        "away_water": "0.950↑",
+        "time": "07-04 20:54"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "球半",
+        "away_water": "0.720",
+        "time": "06-28 00:20"
       }
     },
     {
@@ -772,7 +772,7 @@
         "home_water": "0.860↓",
         "handicap": "球半",
         "away_water": "1.060↑",
-        "time": "07-04 20:46"
+        "time": "07-04 21:05"
       },
       "init": {
         "home_water": "0.960",
@@ -788,7 +788,7 @@
         "home_water": "0.840↓",
         "handicap": "球半",
         "away_water": "1.080↑",
-        "time": "07-04 20:51"
+        "time": "07-04 21:05"
       },
       "init": {
         "home_water": "0.940",
