@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-04T15:10:18Z",
+  "last_updated_utc": "2026-07-04T15:20:20Z",
   "matches": [
     {
       "xml_id": "2040359",
@@ -146,6 +146,60 @@
       "away_team_id": "5739"
     },
     {
+      "xml_id": "2040399",
+      "matchnum": "6204",
+      "date": "2026-07-04",
+      "dayofweek": "星期六",
+      "league": "芬兰超级联赛",
+      "home": "拉赫蒂",
+      "away": "赫尔辛基火花",
+      "spf_win": "4.75",
+      "spf_draw": "3.85",
+      "spf_lost": "1.52",
+      "spf_updated": "2026-07-04 19:36:37",
+      "gameid": "1363545",
+      "kickoff_cst": "2026-07-04 20:00",
+      "matchnum_label": "周六204",
+      "home_team_id": "956",
+      "away_team_id": "2687"
+    },
+    {
+      "xml_id": "2040400",
+      "matchnum": "6205",
+      "date": "2026-07-04",
+      "dayofweek": "星期六",
+      "league": "瑞典超级联赛",
+      "home": "哈尔姆斯塔德",
+      "away": "韦斯特罗斯",
+      "spf_win": "1.47",
+      "spf_draw": "3.95",
+      "spf_lost": "5.10",
+      "spf_updated": "2026-07-04 18:38:08",
+      "gameid": "1362691",
+      "kickoff_cst": "2026-07-04 21:00",
+      "matchnum_label": "周六205",
+      "home_team_id": "848",
+      "away_team_id": "1253"
+    },
+    {
+      "xml_id": "2040401",
+      "matchnum": "6206",
+      "date": "2026-07-04",
+      "dayofweek": "星期六",
+      "league": "瑞典超级联赛",
+      "home": "代格福什",
+      "away": "马尔默",
+      "spf_win": "1.60",
+      "spf_draw": "3.80",
+      "spf_lost": "4.15",
+      "spf_updated": "2026-07-04 20:26:19",
+      "gameid": "1362687",
+      "kickoff_cst": "2026-07-04 21:00",
+      "matchnum_label": "周六206",
+      "home_team_id": "245",
+      "away_team_id": "1051"
+    },
+    {
       "xml_id": "2040402",
       "matchnum": "6207",
       "date": "2026-07-04",
@@ -218,24 +272,6 @@
       "away_team_id": "1612"
     },
     {
-      "xml_id": "2040406",
-      "matchnum": "7202",
-      "date": "2026-07-05",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "光州FC",
-      "away": "蔚山现代",
-      "spf_win": "2.45",
-      "spf_draw": "3.25",
-      "spf_lost": "2.42",
-      "spf_updated": "2026-07-03 09:36:50",
-      "gameid": "1373073",
-      "kickoff_cst": "2026-07-05 18:30",
-      "matchnum_label": "周日202",
-      "home_team_id": "6477",
-      "away_team_id": "1603"
-    },
-    {
       "xml_id": "2040407",
       "matchnum": "7203",
       "date": "2026-07-05",
@@ -306,24 +342,6 @@
       "matchnum_label": "周日206",
       "home_team_id": "563",
       "away_team_id": "852"
-    },
-    {
-      "xml_id": "2040411",
-      "matchnum": "1201",
-      "date": "2026-07-07",
-      "dayofweek": "星期二",
-      "league": "瑞典超级联赛",
-      "home": "赫根",
-      "away": "佐加顿斯",
-      "spf_win": "4.65",
-      "spf_draw": "4.20",
-      "spf_lost": "1.48",
-      "spf_updated": "2026-07-04 09:38:46",
-      "gameid": "1362690",
-      "kickoff_cst": "2026-07-07 01:00",
-      "matchnum_label": "周一201",
-      "home_team_id": "850",
-      "away_team_id": "1355"
     },
     {
       "xml_id": "2040412",
