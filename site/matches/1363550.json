@@ -24,7 +24,7 @@
       "lost": "1.81",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-07-04T14:10:13Z"
+    "fetched_at_utc": "2026-07-04T14:20:12Z"
   },
   "shuju": {
     "title": "查路VS埃尔维斯(2026芬超)-数据分析-500彩票网",
@@ -398,6 +398,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "91",
+            "name": "维勒·沃里宁",
+            "position": "前锋"
+          },
+          {
             "number": "11",
             "name": "赫尔曼·索格雷尔",
             "position": "前锋"
@@ -406,6 +411,11 @@
             "number": "15",
             "name": "鲁迪·维克斯特罗姆",
             "position": "前锋"
+          },
+          {
+            "number": "22",
+            "name": "凯乌斯·哈登",
+            "position": "中场"
           },
           {
             "number": "7",
@@ -418,9 +428,9 @@
             "position": "中场"
           },
           {
-            "number": "22",
-            "name": "凯乌斯·哈登",
-            "position": "中场"
+            "number": "19",
+            "name": "法比安·奥斯塔加德·内斯",
+            "position": "后卫"
           },
           {
             "number": "4",
@@ -433,18 +443,8 @@
             "position": "后卫"
           },
           {
-            "number": "19",
-            "name": "法比安·奥斯塔加德·内斯",
-            "position": "后卫"
-          },
-          {
             "number": "21",
             "name": "吉姆·迈雷维克",
-            "position": "后卫"
-          },
-          {
-            "number": "3",
-            "name": "埃里克·冈纳森",
             "position": "后卫"
           },
           {
@@ -455,18 +455,13 @@
         ],
         "subs": [
           {
-            "number": "31",
-            "name": "安东·菲内尔",
-            "position": "守门员"
+            "number": "27",
+            "name": "乔亚斯·维克斯特罗姆",
+            "position": "前锋"
           },
           {
-            "number": "5",
-            "name": "阿隆·比昂巴克",
-            "position": "后卫"
-          },
-          {
-            "number": "16",
-            "name": "亚当·维杰斯科格",
+            "number": "24",
+            "name": "瓦尔德·洛夫斯",
             "position": "中场"
           },
           {
@@ -475,28 +470,28 @@
             "position": "中场"
           },
           {
+            "number": "16",
+            "name": "亚当·维杰斯科格",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "阿隆·比昂巴克",
+            "position": "后卫"
+          },
+          {
             "number": "2",
             "name": "费利克斯·卡斯",
             "position": "后卫"
           },
           {
+            "number": "31",
+            "name": "安东·菲内尔",
+            "position": "守门员"
+          },
+          {
             "number": "95",
             "name": "伊曼纽尔·门迪",
-            "position": "中场"
-          },
-          {
-            "number": "27",
-            "name": "乔亚斯·维克斯特罗姆",
-            "position": "前锋"
-          },
-          {
-            "number": "91",
-            "name": "维勒·沃里宁",
-            "position": "中场"
-          },
-          {
-            "number": "24",
-            "name": "瓦尔德·洛夫斯",
             "position": "中场"
           }
         ],
@@ -547,13 +542,13 @@
             "position": "后卫"
           },
           {
-            "number": "24",
-            "name": "维尔·昆普",
+            "number": "16",
+            "name": "塔图·米图宁",
             "position": "后卫"
           },
           {
-            "number": "16",
-            "name": "塔图·米图宁",
+            "number": "24",
+            "name": "维尔·昆普",
             "position": "后卫"
           },
           {
@@ -569,14 +564,9 @@
             "position": "前锋"
           },
           {
-            "number": "22",
-            "name": "奥斯卡·穆尔塔拉",
-            "position": "中场"
-          },
-          {
-            "number": "5",
-            "name": "绍利·瓦伊萨宁",
-            "position": "后卫"
+            "number": "1",
+            "name": "奥佐·维塔宁",
+            "position": "守门员"
           },
           {
             "number": "6",
@@ -584,14 +574,19 @@
             "position": "后卫"
           },
           {
-            "number": "1",
-            "name": "奥佐·维塔宁",
-            "position": "守门员"
+            "number": "5",
+            "name": "绍利·瓦伊萨宁",
+            "position": "后卫"
           },
           {
             "number": "17",
             "name": "斯坦尼斯拉夫·巴拉诺夫",
             "position": "前锋"
+          },
+          {
+            "number": "22",
+            "name": "奥斯卡·穆尔塔拉",
+            "position": "中场"
           }
         ],
         "injured": [],

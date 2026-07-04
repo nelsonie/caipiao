@@ -24,7 +24,7 @@
       "lost": "2.10",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-07-04T14:10:12Z"
+    "fetched_at_utc": "2026-07-04T14:20:11Z"
   },
   "shuju": {
     "title": "代格福什VS马尔默(2026瑞典超)-数据分析-500彩票网",
@@ -398,6 +398,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "14",
+            "name": "费特森",
+            "position": "前锋"
+          },
+          {
             "number": "17",
             "name": "阿尔曼·塔拉尼斯",
             "position": "前锋"
@@ -408,16 +413,6 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "费特森",
-            "position": "中场"
-          },
-          {
-            "number": "22",
-            "name": "纳洪·吉尔迈",
-            "position": "中场"
-          },
-          {
             "number": "4",
             "name": "卡兹珀·卡尔松",
             "position": "中场"
@@ -425,6 +420,11 @@
           {
             "number": "8",
             "name": "比拉尔·侯赛因",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "纳洪·吉尔迈",
             "position": "中场"
           },
           {
@@ -487,6 +487,16 @@
           {
             "number": "12",
             "name": "埃里克·林德尔",
+            "position": "后卫"
+          },
+          {
+            "number": "11",
+            "name": "迪扬·武科耶维奇",
+            "position": "前锋"
+          },
+          {
+            "number": "15",
+            "name": "纳西鲁·摩洛",
             "position": "后卫"
           }
         ],
@@ -564,6 +574,11 @@
             "position": "后卫"
           },
           {
+            "number": "6",
+            "name": "雅尼斯·卡拉贝柳夫",
+            "position": "中场"
+          },
+          {
             "number": "47",
             "name": "西奥多·伦德贝里",
             "position": "中场"
@@ -591,11 +606,6 @@
           {
             "number": "11",
             "name": "伊曼纽尔·埃孔",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "雅尼斯·卡拉贝柳夫",
             "position": "中场"
           }
         ],
@@ -718,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "受平手/半球",
-        "away_water": "0.970↑",
-        "time": "07-04 21:00"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "受平手/半球",
-        "away_water": "0.950",
-        "time": "06-28 21:21"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -747,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.750",
         "time": "06-04 21:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "受平手/半球",
+        "away_water": "0.970↑",
+        "time": "07-04 21:00"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "受平手/半球",
+        "away_water": "0.950",
+        "time": "06-28 21:21"
       }
     },
     {
