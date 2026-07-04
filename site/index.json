@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-04T07:20:18Z",
+  "last_updated_utc": "2026-07-04T07:30:16Z",
   "matches": [
     {
       "xml_id": "2040359",
@@ -180,6 +180,24 @@
       "matchnum_label": "周六205",
       "home_team_id": "848",
       "away_team_id": "1253"
+    },
+    {
+      "xml_id": "2040401",
+      "matchnum": "6206",
+      "date": "2026-07-04",
+      "dayofweek": "星期六",
+      "league": "瑞典超级联赛",
+      "home": "代格福什",
+      "away": "马尔默",
+      "spf_win": "1.63",
+      "spf_draw": "3.70",
+      "spf_lost": "4.08",
+      "spf_updated": "2026-07-04 14:11:14",
+      "gameid": "1362687",
+      "kickoff_cst": "2026-07-04 21:00",
+      "matchnum_label": "周六206",
+      "home_team_id": "245",
+      "away_team_id": "1051"
     },
     {
       "xml_id": "2040402",
