@@ -24,7 +24,7 @@
       "lost": "2.49",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-07-04T10:50:08Z"
+    "fetched_at_utc": "2026-07-04T11:00:10Z"
   },
   "shuju": {
     "title": "安养FCVS浦项制铁(2026K1联赛)-数据分析-500彩票网",
@@ -387,13 +387,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "71",
-            "name": "蔡贤宇",
+            "number": "19",
+            "name": "金云",
             "position": "前锋"
           },
           {
-            "number": "19",
-            "name": "金云",
+            "number": "71",
+            "name": "蔡贤宇",
             "position": "前锋"
           },
           {
@@ -402,8 +402,8 @@
             "position": "前锋"
           },
           {
-            "number": "16",
-            "name": "崔规贤",
+            "number": "7",
+            "name": "马修斯·奥利维拉",
             "position": "中场"
           },
           {
@@ -412,8 +412,8 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "马修斯·奥利维拉",
+            "number": "16",
+            "name": "崔规贤",
             "position": "中场"
           },
           {
@@ -422,13 +422,13 @@
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "金营撰",
+            "number": "21",
+            "name": "权敬原",
             "position": "后卫"
           },
           {
-            "number": "21",
-            "name": "权敬原",
+            "number": "5",
+            "name": "金营撰",
             "position": "后卫"
           },
           {
@@ -449,14 +449,14 @@
             "position": "前锋"
           },
           {
-            "number": "13",
-            "name": "韩加兰",
-            "position": "中场"
-          },
-          {
             "number": "9",
             "name": "布伦诺·赫库拉诺·阿尔梅达",
             "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "姜志勋",
+            "position": "后卫"
           },
           {
             "number": "24",
@@ -464,9 +464,9 @@
             "position": "中场"
           },
           {
-            "number": "31",
-            "name": "金多率",
-            "position": "守门员"
+            "number": "13",
+            "name": "韩加兰",
+            "position": "中场"
           },
           {
             "number": "3",
@@ -484,9 +484,9 @@
             "position": "中场"
           },
           {
-            "number": "17",
-            "name": "姜志勋",
-            "position": "后卫"
+            "number": "31",
+            "name": "金多率",
+            "position": "守门员"
           }
         ],
         "injured": [],
@@ -506,11 +506,6 @@
             "position": "前锋"
           },
           {
-            "number": "77",
-            "name": "万德森·奥利维拉",
-            "position": "中场"
-          },
-          {
             "number": "16",
             "name": "金东进",
             "position": "中场"
@@ -521,13 +516,18 @@
             "position": "中场"
           },
           {
+            "number": "17",
+            "name": "申光勋",
+            "position": "中场"
+          },
+          {
             "number": "11",
             "name": "儒尼尼奥·罗查",
             "position": "中场"
           },
           {
-            "number": "2",
-            "name": "鱼祯元",
+            "number": "77",
+            "name": "万德森·奥利维拉",
             "position": "后卫"
           },
           {
@@ -541,8 +541,8 @@
             "position": "后卫"
           },
           {
-            "number": "17",
-            "name": "申光勋",
+            "number": "2",
+            "name": "鱼祯元",
             "position": "后卫"
           },
           {
@@ -552,6 +552,21 @@
           }
         ],
         "subs": [
+          {
+            "number": "18",
+            "name": "赵尚赫",
+            "position": "前锋"
+          },
+          {
+            "number": "29",
+            "name": "洪成民",
+            "position": "守门员"
+          },
+          {
+            "number": "5",
+            "name": "陈时宇",
+            "position": "后卫"
+          },
           {
             "number": "40",
             "name": "奇诚庸",
@@ -575,21 +590,6 @@
           {
             "number": "14",
             "name": "李昌佑",
-            "position": "后卫"
-          },
-          {
-            "number": "29",
-            "name": "洪成民",
-            "position": "守门员"
-          },
-          {
-            "number": "18",
-            "name": "赵尚赫",
-            "position": "前锋"
-          },
-          {
-            "number": "5",
-            "name": "陈时宇",
             "position": "后卫"
           },
           {
@@ -717,22 +717,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.990↑",
-        "time": "07-04 18:29"
-      },
-      "init": {
-        "home_water": "1.100",
-        "handicap": "平手",
-        "away_water": "0.700",
-        "time": "06-27 18:50"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -746,6 +730,22 @@
         "handicap": "平手",
         "away_water": "0.780",
         "time": "06-29 08:06"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "on**",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.990↑",
+        "time": "07-04 18:29"
+      },
+      "init": {
+        "home_water": "1.100",
+        "handicap": "平手",
+        "away_water": "0.700",
+        "time": "06-27 18:50"
       }
     },
     {
