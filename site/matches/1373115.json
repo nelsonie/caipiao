@@ -24,7 +24,7 @@
       "lost": "2.65",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-07-04T04:50:09Z"
+    "fetched_at_utc": "2026-07-04T05:00:10Z"
   },
   "shuju": {
     "title": "全北现代VS江原FC(2026K1联赛)-数据分析-500彩票网",
@@ -699,10 +699,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.050↑",
+        "home_water": "1.060↑",
         "handicap": "平手/半球",
-        "away_water": "0.820↓",
-        "time": "07-04 12:13"
+        "away_water": "0.810↓",
+        "time": "07-04 12:48"
       },
       "init": {
         "home_water": "0.960",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "平手/半球",
-        "away_water": "0.800↓",
-        "time": "07-04 12:44"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "平手/半球",
-        "away_water": "0.870",
-        "time": "06-29 08:06"
-      }
-    },
-    {
       "cid": "1484",
       "company": "on**",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.870",
         "time": "06-27 18:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "平手/半球",
+        "away_water": "0.800↓",
+        "time": "07-04 12:44"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "平手/半球",
+        "away_water": "0.870",
+        "time": "06-29 08:06"
       }
     },
     {
