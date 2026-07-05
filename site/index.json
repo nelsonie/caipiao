@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-05T08:10:13Z",
+  "last_updated_utc": "2026-07-05T08:20:15Z",
   "matches": [
     {
       "xml_id": "2040374",
@@ -81,10 +81,10 @@
       "league": "韩国职业联赛",
       "home": "光州FC",
       "away": "蔚山现代",
-      "spf_win": "2.72",
+      "spf_win": "2.80",
       "spf_draw": "3.15",
-      "spf_lost": "2.25",
-      "spf_updated": "2026-07-05 14:13:47",
+      "spf_lost": "2.20",
+      "spf_updated": "2026-07-05 16:14:45",
       "gameid": "1373073",
       "kickoff_cst": "2026-07-05 18:30",
       "matchnum_label": "周日202",
@@ -216,42 +216,6 @@
       "matchnum_label": "周一093",
       "home_team_id": "20",
       "away_team_id": "12"
-    },
-    {
-      "xml_id": "2040427",
-      "matchnum": "2095",
-      "date": "2026-07-08",
-      "dayofweek": "星期三",
-      "league": "世界杯",
-      "home": "阿根廷",
-      "away": "埃及",
-      "spf_win": "1.89",
-      "spf_draw": "3.35",
-      "spf_lost": "3.32",
-      "spf_updated": "2026-07-05 09:23:09",
-      "gameid": "1359183",
-      "kickoff_cst": "2026-07-08 00:00",
-      "matchnum_label": "周二095",
-      "home_team_id": "14",
-      "away_team_id": "41"
-    },
-    {
-      "xml_id": "2040428",
-      "matchnum": "2096",
-      "date": "2026-07-08",
-      "dayofweek": "星期三",
-      "league": "世界杯",
-      "home": "瑞士",
-      "away": "哥伦比亚",
-      "spf_win": "1.46",
-      "spf_draw": "3.75",
-      "spf_lost": "5.65",
-      "spf_updated": "2026-07-05 09:23:09",
-      "gameid": "1359186",
-      "kickoff_cst": "2026-07-08 04:00",
-      "matchnum_label": "周二096",
-      "home_team_id": "46",
-      "away_team_id": "6"
     }
   ]
 }
