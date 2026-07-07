@@ -24,7 +24,7 @@
       "lost": "2.32",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-07-07T14:10:09Z"
+    "fetched_at_utc": "2026-07-07T14:20:09Z"
   },
   "shuju": {
     "title": "瑞士VS哥伦比亚(2026世界杯)-数据分析-500彩票网",
@@ -424,14 +424,14 @@
             "position": "守门员"
           },
           {
-            "number": "6",
-            "name": "德尼斯·扎卡里亚",
-            "position": "中场"
-          },
-          {
             "number": "9",
             "name": "约翰·曼赞比",
             "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "克里斯蒂安·法斯纳赫特",
+            "position": "前锋"
           },
           {
             "number": "2",
@@ -489,9 +489,19 @@
             "position": "后卫"
           },
           {
-            "number": "16",
-            "name": "克里斯蒂安·法斯纳赫特",
-            "position": "前锋"
+            "number": "6",
+            "name": "德尼斯·扎卡里亚",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "卢卡·雅克",
+            "position": "后卫"
+          },
+          {
+            "number": "20",
+            "name": "米歇尔·埃比舍尔",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -558,6 +568,21 @@
         ],
         "subs": [
           {
+            "number": "14",
+            "name": "古斯塔沃·普埃尔塔",
+            "position": "中场"
+          },
+          {
+            "number": "26",
+            "name": "安德烈斯·戈麦斯",
+            "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "霍恩·科尔多瓦",
+            "position": "前锋"
+          },
+          {
             "number": "1",
             "name": "戴维·奥斯皮纳",
             "position": "守门员"
@@ -603,8 +628,8 @@
             "position": "后卫"
           },
           {
-            "number": "8",
-            "name": "豪尔赫·卡拉斯卡尔",
+            "number": "5",
+            "name": "凯文·卡斯塔尼奥",
             "position": "中场"
           },
           {
@@ -613,9 +638,9 @@
             "position": "守门员"
           },
           {
-            "number": "26",
-            "name": "安德烈斯·戈麦斯",
-            "position": "前锋"
+            "number": "3",
+            "name": "霍恩·卢库米",
+            "position": "后卫"
           },
           {
             "number": "22",
@@ -668,19 +693,9 @@
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "凯文·卡斯塔尼奥",
+            "number": "8",
+            "name": "豪尔赫·卡拉斯卡尔",
             "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "古斯塔沃·普埃尔塔",
-            "position": "中场"
-          },
-          {
-            "number": "3",
-            "name": "霍恩·卢库米",
-            "position": "后卫"
           }
         ],
         "injured": [],
