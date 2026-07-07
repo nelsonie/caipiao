@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-07-07T16:00:21Z",
+  "last_updated_utc": "2026-07-07T16:10:07Z",
   "matches": [
-    {
-      "xml_id": "2040427",
-      "matchnum": "2095",
-      "date": "2026-07-08",
-      "dayofweek": "星期三",
-      "league": "世界杯",
-      "home": "阿根廷",
-      "away": "埃及",
-      "spf_win": "1.74",
-      "spf_draw": "3.70",
-      "spf_lost": "3.52",
-      "spf_updated": "2026-07-07 20:07:41",
-      "gameid": "1359183",
-      "kickoff_cst": "2026-07-08 00:00",
-      "matchnum_label": "周二095",
-      "home_team_id": "14",
-      "away_team_id": "41"
-    },
     {
       "xml_id": "2040428",
       "matchnum": "2096",
@@ -54,24 +36,6 @@
       "matchnum_label": "周四097",
       "home_team_id": "10",
       "away_team_id": "38"
-    },
-    {
-      "xml_id": "2040453",
-      "matchnum": "2201",
-      "date": "2026-07-08",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "萨巴赫",
-      "away": "新圣徒",
-      "spf_win": "1.49",
-      "spf_draw": "4.30",
-      "spf_lost": "4.42",
-      "spf_updated": "2026-07-07 20:45:28",
-      "gameid": "1427680",
-      "kickoff_cst": "2026-07-08 00:00",
-      "matchnum_label": "周二201",
-      "home_team_id": "10810",
-      "away_team_id": "977"
     },
     {
       "xml_id": "2040460",
