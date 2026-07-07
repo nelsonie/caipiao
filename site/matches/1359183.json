@@ -24,7 +24,7 @@
       "lost": "10.00",
       "company": "竞*官*"
     },
-    "fetched_at_utc": "2026-07-07T13:40:08Z"
+    "fetched_at_utc": "2026-07-07T13:50:06Z"
   },
   "shuju": {
     "title": "阿根廷VS埃及(2026世界杯)-数据分析-500彩票网",
@@ -754,13 +754,29 @@
         "home_water": "1.030↑",
         "handicap": "球半升",
         "away_water": "0.860↓",
-        "time": "07-07 21:23"
+        "time": "07-07 21:47"
       },
       "init": {
         "home_water": "0.900",
         "handicap": "一球/球半",
         "away_water": "0.960",
         "time": "07-05 10:59"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "球半升",
+        "away_water": "0.790↓",
+        "time": "07-07 21:47"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "一球/球半",
+        "away_water": "0.910",
+        "time": "07-04 09:31"
       }
     },
     {
@@ -777,22 +793,6 @@
         "handicap": "球半",
         "away_water": "0.840",
         "time": "07-04 09:12"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "球半升",
-        "away_water": "0.790↓",
-        "time": "07-07 21:04"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "一球/球半",
-        "away_water": "0.910",
-        "time": "07-04 09:31"
       }
     },
     {
@@ -818,7 +818,7 @@
         "home_water": "1.070↑",
         "handicap": "球半升",
         "away_water": "0.870↓",
-        "time": "07-07 21:21"
+        "time": "07-07 21:47"
       },
       "init": {
         "home_water": "0.900",
@@ -831,10 +831,10 @@
       "cid": "140",
       "company": "M****on88 (明*)",
       "live": {
-        "home_water": "1.040↓",
+        "home_water": "1.030↓",
         "handicap": "球半",
-        "away_water": "0.900↑",
-        "time": "07-07 21:23"
+        "away_water": "0.910↑",
+        "time": "07-07 21:41"
       },
       "init": {
         "home_water": "1.170",
@@ -895,10 +895,10 @@
       "cid": "537",
       "company": "W****t (盈*)",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "0.990↑",
         "handicap": "球半升",
-        "away_water": "0.900↓",
-        "time": "07-07 21:22"
+        "away_water": "0.930↓",
+        "time": "07-07 21:39"
       },
       "init": {
         "home_water": "0.840",
@@ -1304,7 +1304,7 @@
     {
       "cid": "6",
       "company": "伟*",
-      "time": "2026-07-07 21:20:10",
+      "time": "2026-07-07 21:46:45",
       "odds": {
         "live": [
           "1.33",
@@ -1549,7 +1549,7 @@
     {
       "cid": "651",
       "company": "利*",
-      "time": "2026-07-07 21:20:48",
+      "time": "2026-07-07 21:46:51",
       "odds": {
         "live": [
           "1.31",
@@ -2088,7 +2088,7 @@
     {
       "cid": "1259",
       "company": "1x**t",
-      "time": "2026-07-07 21:02:32",
+      "time": "2026-07-07 21:39:14",
       "odds": {
         "live": [
           "1.37",
