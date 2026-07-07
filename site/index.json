@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-07T18:40:07Z",
+  "last_updated_utc": "2026-07-07T18:50:07Z",
   "matches": [
     {
       "xml_id": "2040428",
@@ -36,24 +36,6 @@
       "matchnum_label": "周四097",
       "home_team_id": "10",
       "away_team_id": "38"
-    },
-    {
-      "xml_id": "2040460",
-      "matchnum": "2202",
-      "date": "2026-07-08",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "克拉克斯维克",
-      "away": "比森阿泰尔",
-      "spf_win": "2.22",
-      "spf_draw": "2.90",
-      "spf_lost": "3.00",
-      "spf_updated": "2026-07-07 21:19:45",
-      "gameid": "1427672",
-      "kickoff_cst": "2026-07-08 02:45",
-      "matchnum_label": "周二202",
-      "home_team_id": "960",
-      "away_team_id": "15498"
     },
     {
       "xml_id": "2040461",
