@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-09T03:40:08Z",
+  "last_updated_utc": "2026-07-09T03:50:07Z",
   "matches": [
     {
       "xml_id": "2040451",
@@ -18,6 +18,24 @@
       "matchnum_label": "周四097",
       "home_team_id": "10",
       "away_team_id": "38"
+    },
+    {
+      "xml_id": "2040452",
+      "matchnum": "4201",
+      "date": "2026-07-10",
+      "dayofweek": "星期五",
+      "league": "欧罗巴联赛",
+      "home": "伏伊伏丁那",
+      "away": "费伦茨瓦罗斯",
+      "spf_win": "1.65",
+      "spf_draw": "3.62",
+      "spf_lost": "4.05",
+      "spf_updated": "2026-07-09 09:24:52",
+      "gameid": "1440690",
+      "kickoff_cst": "2026-07-10 02:00",
+      "matchnum_label": "周四201",
+      "home_team_id": "2337",
+      "away_team_id": "798"
     },
     {
       "xml_id": "2040455",
