@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-09T17:20:12Z",
+  "last_updated_utc": "2026-07-09T17:30:13Z",
   "matches": [
     {
       "xml_id": "2040451",
@@ -74,22 +74,58 @@
       "away_team_id": "1491"
     },
     {
-      "xml_id": "2040467",
-      "matchnum": "6100",
+      "xml_id": "2040459",
+      "matchnum": "6099",
       "date": "2026-07-12",
       "dayofweek": "星期天",
       "league": "世界杯",
-      "home": "阿根廷",
-      "away": "瑞士",
-      "spf_win": "3.00",
-      "spf_draw": "3.10",
-      "spf_lost": "2.11",
-      "spf_updated": "2026-07-09 16:23:02",
-      "gameid": "1359175",
-      "kickoff_cst": "2026-07-12 09:00",
-      "matchnum_label": "周六100",
-      "home_team_id": "14",
-      "away_team_id": "46"
+      "home": "挪威",
+      "away": "英格兰",
+      "spf_win": "1.88",
+      "spf_draw": "3.40",
+      "spf_lost": "3.30",
+      "spf_updated": "2026-07-09 16:34:33",
+      "gameid": "1359171",
+      "kickoff_cst": "2026-07-12 05:00",
+      "matchnum_label": "周六099",
+      "home_team_id": "31",
+      "away_team_id": "15"
+    },
+    {
+      "xml_id": "2040466",
+      "matchnum": "5098",
+      "date": "2026-07-11",
+      "dayofweek": "星期六",
+      "league": "世界杯",
+      "home": "西班牙",
+      "away": "比利时",
+      "spf_win": "2.58",
+      "spf_draw": "3.20",
+      "spf_lost": "2.33",
+      "spf_updated": "2026-07-09 20:12:55",
+      "gameid": "1359166",
+      "kickoff_cst": "2026-07-11 03:00",
+      "matchnum_label": "周五098",
+      "home_team_id": "12",
+      "away_team_id": "23"
+    },
+    {
+      "xml_id": "2040471",
+      "matchnum": "5201",
+      "date": "2026-07-11",
+      "dayofweek": "星期六",
+      "league": "芬兰超级联赛",
+      "home": "瓦萨",
+      "away": "塞伊奈约基",
+      "spf_win": "3.95",
+      "spf_draw": "3.60",
+      "spf_lost": "1.67",
+      "spf_updated": "2026-07-09 13:00:14",
+      "gameid": "1363581",
+      "kickoff_cst": "2026-07-11 00:00",
+      "matchnum_label": "周五201",
+      "home_team_id": "434",
+      "away_team_id": "6492"
     }
   ]
 }
