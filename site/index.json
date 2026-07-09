@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-09T18:00:10Z",
+  "last_updated_utc": "2026-07-09T18:10:11Z",
   "matches": [
     {
       "xml_id": "2040451",
@@ -18,60 +18,6 @@
       "matchnum_label": "周四097",
       "home_team_id": "10",
       "away_team_id": "38"
-    },
-    {
-      "xml_id": "2040452",
-      "matchnum": "4201",
-      "date": "2026-07-10",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "伏伊伏丁那",
-      "away": "费伦茨瓦罗斯",
-      "spf_win": "1.57",
-      "spf_draw": "3.57",
-      "spf_lost": "4.70",
-      "spf_updated": "2026-07-09 20:27:23",
-      "gameid": "1440690",
-      "kickoff_cst": "2026-07-10 02:00",
-      "matchnum_label": "周四201",
-      "home_team_id": "2337",
-      "away_team_id": "798"
-    },
-    {
-      "xml_id": "2040455",
-      "matchnum": "4202",
-      "date": "2026-07-10",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "索菲亚中央陆军",
-      "away": "德里城",
-      "spf_win": "1.53",
-      "spf_draw": "3.87",
-      "spf_lost": "4.60",
-      "spf_updated": "2026-07-09 20:47:34",
-      "gameid": "1440676",
-      "kickoff_cst": "2026-07-10 02:00",
-      "matchnum_label": "周四202",
-      "home_team_id": "1208",
-      "away_team_id": "764"
-    },
-    {
-      "xml_id": "2040456",
-      "matchnum": "4203",
-      "date": "2026-07-10",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "斯普利特海杜克",
-      "away": "日利纳",
-      "spf_win": "2.09",
-      "spf_draw": "3.05",
-      "spf_lost": "3.10",
-      "spf_updated": "2026-07-09 20:34:11",
-      "gameid": "1440684",
-      "kickoff_cst": "2026-07-10 02:00",
-      "matchnum_label": "周四203",
-      "home_team_id": "1295",
-      "away_team_id": "1491"
     },
     {
       "xml_id": "2040459",
@@ -108,24 +54,6 @@
       "matchnum_label": "周五098",
       "home_team_id": "12",
       "away_team_id": "23"
-    },
-    {
-      "xml_id": "2040467",
-      "matchnum": "6100",
-      "date": "2026-07-12",
-      "dayofweek": "星期天",
-      "league": "世界杯",
-      "home": "阿根廷",
-      "away": "瑞士",
-      "spf_win": "3.00",
-      "spf_draw": "3.10",
-      "spf_lost": "2.11",
-      "spf_updated": "2026-07-09 16:23:02",
-      "gameid": "1359175",
-      "kickoff_cst": "2026-07-12 09:00",
-      "matchnum_label": "周六100",
-      "home_team_id": "14",
-      "away_team_id": "46"
     },
     {
       "xml_id": "2040471",
