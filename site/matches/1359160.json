@@ -22,9 +22,9 @@
       "win": "1.44",
       "draw": "3.65",
       "lost": "6.20",
-      "company": "官方"
+      "company": "官*"
     },
-    "fetched_at_utc": "2026-07-09T10:10:07Z"
+    "fetched_at_utc": "2026-07-09T10:20:06Z"
   },
   "shuju": {
     "title": "法国VS摩洛哥(2026世界杯)-数据分析-500彩票网",
@@ -812,6 +812,22 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.990↓",
+        "handicap": "一球",
+        "away_water": "0.820↓",
+        "time": "07-09 17:40"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "一球",
+        "away_water": "0.830",
+        "time": "07-05 07:17"
+      }
+    },
+    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -825,22 +841,6 @@
         "handicap": "半球/一球",
         "away_water": "1.020",
         "time": "07-05 07:34"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "on**",
-      "live": {
-        "home_water": "0.990↓",
-        "handicap": "一球",
-        "away_water": "0.820↓",
-        "time": "07-09 17:40"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "一球",
-        "away_water": "0.830",
-        "time": "07-05 07:17"
       }
     },
     {
@@ -959,7 +959,7 @@
   "ouzhi": [
     {
       "cid": "1",
-      "company": "官方",
+      "company": "官*",
       "time": "2026-07-09 17:07:44",
       "odds": {
         "live": [
@@ -1939,7 +1939,7 @@
     },
     {
       "cid": "1487",
-      "company": "88******",
+      "company": "8*******",
       "time": "2026-07-08 15:20:18",
       "odds": {
         "live": [
@@ -1988,7 +1988,7 @@
     },
     {
       "cid": "1488",
-      "company": "大巨*",
+      "company": "大**",
       "time": "2026-07-09 14:16:58",
       "odds": {
         "live": [
