@@ -24,7 +24,7 @@
       "lost": "5.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-10T02:30:07Z"
+    "fetched_at_utc": "2026-07-10T02:40:06Z"
   },
   "shuju": {
     "title": "阿根廷VS瑞士(2026世界杯)-数据分析-500彩票网",
@@ -703,22 +703,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "半球/一球",
-        "away_water": "0.870↑",
-        "time": "07-10 09:58"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "半球/一球",
-        "away_water": "0.830",
-        "time": "07-08 07:16"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -732,6 +716,22 @@
         "handicap": "半球/一球",
         "away_water": "0.860",
         "time": "07-08 07:31"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "半球/一球",
+        "away_water": "0.870↑",
+        "time": "07-10 09:58"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "半球/一球",
+        "away_water": "0.830",
+        "time": "07-08 07:16"
       }
     },
     {
