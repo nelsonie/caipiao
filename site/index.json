@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-11T04:10:19Z",
+  "last_updated_utc": "2026-07-11T04:20:21Z",
   "matches": [
     {
       "xml_id": "2040459",
@@ -45,10 +45,10 @@
       "league": "韩国职业联赛",
       "home": "光州FC",
       "away": "浦项制铁",
-      "spf_win": "2.23",
-      "spf_draw": "2.98",
-      "spf_lost": "2.90",
-      "spf_updated": "2026-07-11 11:41:35",
+      "spf_win": "2.38",
+      "spf_draw": "2.80",
+      "spf_lost": "2.85",
+      "spf_updated": "2026-07-11 12:07:46",
       "gameid": "1373135",
       "kickoff_cst": "2026-07-11 18:30",
       "matchnum_label": "周六201",
@@ -378,24 +378,6 @@
       "matchnum_label": "周日209",
       "home_team_id": "1764",
       "away_team_id": "4067"
-    },
-    {
-      "xml_id": "2040495",
-      "matchnum": "7210",
-      "date": "2026-07-12",
-      "dayofweek": "星期天",
-      "league": "挪威超级联赛",
-      "home": "布兰",
-      "away": "斯达",
-      "spf_win": "1.90",
-      "spf_draw": "3.80",
-      "spf_lost": "2.94",
-      "spf_updated": "2026-07-11 09:41:49",
-      "gameid": "1364021",
-      "kickoff_cst": "2026-07-12 23:00",
-      "matchnum_label": "周日210",
-      "home_team_id": "722",
-      "away_team_id": "508"
     },
     {
       "xml_id": "2040496",
