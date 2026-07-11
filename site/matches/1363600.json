@@ -24,7 +24,7 @@
       "lost": "2.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-11T07:10:11Z"
+    "fetched_at_utc": "2026-07-11T07:20:11Z"
   },
   "shuju": {
     "title": "TPS土尔库VSAC奥卢(2026芬超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↓",
-        "handicap": "平手",
-        "away_water": "0.830↑",
-        "time": "07-11 13:05"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "平手",
-        "away_water": "0.770",
-        "time": "07-08 22:06"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.830",
         "time": "07-04 22:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↓",
+        "handicap": "平手",
+        "away_water": "0.830↑",
+        "time": "07-11 13:05"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "平手",
+        "away_water": "0.770",
+        "time": "07-08 22:06"
       }
     },
     {
