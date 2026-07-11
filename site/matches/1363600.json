@@ -24,7 +24,7 @@
       "lost": "2.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-11T13:20:10Z"
+    "fetched_at_utc": "2026-07-11T13:30:12Z"
   },
   "shuju": {
     "title": "TPS土尔库VSAC奥卢(2026芬超)-数据分析-500彩票网",
@@ -410,17 +410,17 @@
           {
             "number": "10",
             "name": "马吕斯·孔科拉",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "22",
             "name": "蒂莫·扎尔",
-            "position": "中场"
+            "position": "后卫"
           },
           {
-            "number": "26",
-            "name": "拉瑟·伊科宁",
-            "position": "中场"
+            "number": "99",
+            "name": "基安·维塞尔",
+            "position": "前锋"
           },
           {
             "number": "6",
@@ -428,13 +428,13 @@
             "position": "中场"
           },
           {
-            "number": "3",
-            "name": "埃图·图尔基",
+            "number": "77",
+            "name": "托比亚斯·卡库洛夫斯基",
             "position": "后卫"
           },
           {
-            "number": "17",
-            "name": "阿泰·希沃宁",
+            "number": "3",
+            "name": "埃图·图尔基",
             "position": "后卫"
           },
           {
@@ -455,9 +455,24 @@
         ],
         "subs": [
           {
+            "number": "17",
+            "name": "阿泰·希沃宁",
+            "position": "中场"
+          },
+          {
             "number": "35",
             "name": "丹·劳里",
             "position": "守门员"
+          },
+          {
+            "number": "20",
+            "name": "米卡·考皮拉",
+            "position": "前锋"
+          },
+          {
+            "number": "26",
+            "name": "拉瑟·伊科宁",
+            "position": "中场"
           },
           {
             "number": "41",
@@ -465,39 +480,24 @@
             "position": "前锋"
           },
           {
-            "number": "28",
-            "name": "托米·瓦基帕塔",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "阿利·库利巴利",
-            "position": "中场"
-          },
-          {
             "number": "15",
             "name": "查理曼·阿宗尼托德",
             "position": "后卫"
           },
           {
-            "number": "77",
-            "name": "托比亚斯·卡库洛夫斯基",
+            "number": "44",
+            "name": "尼尔斯·韦恩伯格",
+            "position": "前锋"
+          },
+          {
+            "number": "28",
+            "name": "托米·瓦基帕塔",
             "position": "后卫"
           },
           {
-            "number": "99",
-            "name": "基安·维塞尔",
-            "position": "前锋"
-          },
-          {
-            "number": "44",
-            "name": "尼尔斯·亨里斯·韦因贝尔格斯",
-            "position": "前锋"
-          },
-          {
-            "number": "20",
-            "name": "米卡·考皮拉",
-            "position": "前锋"
+            "number": "8",
+            "name": "阿里·库利巴利",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -514,7 +514,7 @@
           {
             "number": "11",
             "name": "拉米尼·哥扎利",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "30",
@@ -532,18 +532,18 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "马蒂亚斯·奥亚拉",
+            "number": "21",
+            "name": "伊罗·门多林",
             "position": "中场"
           },
           {
             "number": "22",
             "name": "图马斯·考库亚",
-            "position": "后卫"
+            "position": "前锋"
           },
           {
-            "number": "66",
-            "name": "尤哈·皮里宁",
+            "number": "46",
+            "name": "马卡·阿琼",
             "position": "后卫"
           },
           {
@@ -564,19 +564,24 @@
         ],
         "subs": [
           {
+            "number": "99",
+            "name": "尼克拉斯·舒尔茨",
+            "position": "守门员"
+          },
+          {
+            "number": "5",
+            "name": "米科·皮特卡宁",
+            "position": "后卫"
+          },
+          {
             "number": "19",
-            "name": "奥卢瓦达拉西米 乔尔 奥莫塔约",
+            "name": "乔尔·奥莫塔约",
+            "position": "未知"
+          },
+          {
+            "number": "8",
+            "name": "马蒂亚斯·奥亚拉",
             "position": "中场"
-          },
-          {
-            "number": "26",
-            "name": "朱利叶斯·科尔科",
-            "position": "前锋"
-          },
-          {
-            "number": "20",
-            "name": "卡利法·贾塔",
-            "position": "前锋"
           },
           {
             "number": "27",
@@ -584,29 +589,14 @@
             "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "伊罗·门多林",
-            "position": "中场"
+            "number": "20",
+            "name": "卡利法·贾塔",
+            "position": "未知"
           },
           {
             "number": "18",
             "name": "阿德拉曼·卡萨马",
             "position": "后卫"
-          },
-          {
-            "number": "4",
-            "name": "卢卡斯·伊洛拉",
-            "position": "后卫"
-          },
-          {
-            "number": "99",
-            "name": "尼克拉斯·舒尔茨",
-            "position": "守门员"
-          },
-          {
-            "number": "32",
-            "name": "阿卜杜拉耶·科内",
-            "position": "前锋"
           }
         ],
         "injured": [],
@@ -702,7 +692,7 @@
         "home_water": "0.830↑",
         "handicap": "平手升",
         "away_water": "1.040↓",
-        "time": "07-11 20:48"
+        "time": "07-11 21:21"
       },
       "init": {
         "home_water": "0.810",
@@ -728,22 +718,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "平手",
-        "away_water": "0.980↑",
-        "time": "07-11 21:03"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "平手",
-        "away_water": "0.770",
-        "time": "07-08 22:06"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +731,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.830",
         "time": "07-04 22:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "平手",
+        "away_water": "0.980↑",
+        "time": "07-11 21:03"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "平手",
+        "away_water": "0.770",
+        "time": "07-08 22:06"
       }
     },
     {
