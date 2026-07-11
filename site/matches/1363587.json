@@ -24,7 +24,7 @@
       "lost": "1.98",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-11T12:20:10Z"
+    "fetched_at_utc": "2026-07-11T12:30:09Z"
   },
   "shuju": {
     "title": "拉赫蒂VS赫尔辛基(2026芬超)-数据分析-500彩票网",
@@ -507,13 +507,23 @@
         "formation": null,
         "starters": [
           {
-            "number": "7",
-            "name": "阿尔菲·西卡莱",
+            "number": "9",
+            "name": "马兹·博彻斯",
             "position": "前锋"
           },
           {
-            "number": "9",
-            "name": "马兹·博彻斯",
+            "number": "29",
+            "name": "桑特里·哈拉拉",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "阿尔菲·西卡莱",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "卢卡斯·林曼",
             "position": "中场"
           },
           {
@@ -522,18 +532,8 @@
             "position": "中场"
           },
           {
-            "number": "29",
-            "name": "桑特里·哈拉拉",
-            "position": "中场"
-          },
-          {
             "number": "22",
             "name": "利亚姆·穆勒",
-            "position": "中场"
-          },
-          {
-            "number": "10",
-            "name": "卢卡斯·林曼",
             "position": "中场"
           },
           {
@@ -547,13 +547,13 @@
             "position": "后卫"
           },
           {
-            "number": "28",
-            "name": "米斯卡·伊利托尔瓦",
+            "number": "2",
+            "name": "布鲁克林·莱昂斯·福斯特",
             "position": "后卫"
           },
           {
-            "number": "2",
-            "name": "布鲁克林·莱昂斯·福斯特",
+            "number": "28",
+            "name": "米斯卡·伊利托尔瓦",
             "position": "后卫"
           },
           {
@@ -563,11 +563,6 @@
           }
         ],
         "subs": [
-          {
-            "number": "8",
-            "name": "皮里·门图",
-            "position": "中场"
-          },
           {
             "number": "31",
             "name": "米哈伊洛·博吉切维奇",
@@ -602,6 +597,11 @@
             "number": "26",
             "name": "拉西·拉帕莱宁",
             "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "皮里·门图",
+            "position": "中场"
           },
           {
             "number": "17",

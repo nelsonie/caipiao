@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-11T12:20:22Z",
+  "last_updated_utc": "2026-07-11T12:30:18Z",
   "matches": [
     {
       "xml_id": "2040459",
@@ -135,10 +135,10 @@
       "league": "瑞典超级联赛",
       "home": "米亚尔比",
       "away": "AIK索尔纳",
-      "spf_win": "4.05",
-      "spf_draw": "3.25",
-      "spf_lost": "1.74",
-      "spf_updated": "2026-07-11 20:07:44",
+      "spf_win": "4.26",
+      "spf_draw": "3.30",
+      "spf_lost": "1.69",
+      "spf_updated": "2026-07-11 20:19:06",
       "gameid": "1362699",
       "kickoff_cst": "2026-07-11 21:00",
       "matchnum_label": "周六206",
@@ -450,6 +450,42 @@
       "matchnum_label": "周日212",
       "home_team_id": "3470",
       "away_team_id": "861"
+    },
+    {
+      "xml_id": "2040498",
+      "matchnum": "7213",
+      "date": "2026-07-13",
+      "dayofweek": "星期一",
+      "league": "挪威超级联赛",
+      "home": "萨尔普斯堡",
+      "away": "维京",
+      "spf_win": "2.00",
+      "spf_draw": "3.75",
+      "spf_lost": "2.76",
+      "spf_updated": "2026-07-11 09:41:49",
+      "gameid": "1363576",
+      "kickoff_cst": "2026-07-13 01:15",
+      "matchnum_label": "周日213",
+      "home_team_id": "3418",
+      "away_team_id": "1259"
+    },
+    {
+      "xml_id": "2040499",
+      "matchnum": "1201",
+      "date": "2026-07-14",
+      "dayofweek": "星期二",
+      "league": "瑞典超级联赛",
+      "home": "佐加顿斯",
+      "away": "哈尔姆斯塔德",
+      "spf_win": "2.68",
+      "spf_draw": "4.10",
+      "spf_lost": "1.95",
+      "spf_updated": "2026-07-11 09:41:49",
+      "gameid": "1362695",
+      "kickoff_cst": "2026-07-14 01:00",
+      "matchnum_label": "周一201",
+      "home_team_id": "1355",
+      "away_team_id": "848"
     }
   ]
 }
