@@ -24,7 +24,7 @@
       "lost": "3.70",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-11T14:30:10Z"
+    "fetched_at_utc": "2026-07-11T14:40:08Z"
   },
   "shuju": {
     "title": "米亚尔比VSAIK索尔纳(2026瑞典超)-数据分析-500彩票网",
@@ -455,6 +455,11 @@
         ],
         "subs": [
           {
+            "number": "3",
+            "name": "马丁·阿格纳松",
+            "position": "后卫"
+          },
+          {
             "number": "5",
             "name": "伊克巴尔",
             "position": "后卫"
@@ -493,11 +498,6 @@
             "number": "39",
             "name": "罗密欧·阿伦尼乌斯·利安德森",
             "position": "中场"
-          },
-          {
-            "number": "3",
-            "name": "马丁·阿格纳松",
-            "position": "后卫"
           }
         ],
         "injured": [],
@@ -512,18 +512,18 @@
             "position": "前锋"
           },
           {
-            "number": "45",
-            "name": "塔哈·阿亚里",
-            "position": "前锋"
-          },
-          {
             "number": "48",
             "name": "库阿梅",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "8",
             "name": "约翰·霍夫",
+            "position": "中场"
+          },
+          {
+            "number": "45",
+            "name": "塔哈·阿亚里",
             "position": "中场"
           },
           {
@@ -569,8 +569,13 @@
             "position": "守门员"
           },
           {
-            "number": "28",
-            "name": "莱纳斯·贾雷特格",
+            "number": "14",
+            "name": "弗雷德里克·尼森",
+            "position": "后卫"
+          },
+          {
+            "number": "41",
+            "name": "穆罕默德·希拉",
             "position": "中场"
           },
           {
@@ -599,14 +604,9 @@
             "position": "中场"
           },
           {
-            "number": "41",
-            "name": "穆罕默德·希拉",
+            "number": "28",
+            "name": "莱纳斯·贾雷特格",
             "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "弗雷德里克·尼森",
-            "position": "后卫"
           }
         ],
         "injured": [],
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "平手/半球",
-        "away_water": "0.850↑",
-        "time": "07-11 20:56"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "平手/半球",
-        "away_water": "0.820",
-        "time": "07-05 20:30"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.890",
         "time": "07-05 21:31"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "平手/半球",
+        "away_water": "0.850↑",
+        "time": "07-11 20:56"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "平手/半球",
+        "away_water": "0.820",
+        "time": "07-05 20:30"
       }
     },
     {
