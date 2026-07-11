@@ -24,7 +24,7 @@
       "lost": "7.25",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-11T06:20:10Z"
+    "fetched_at_utc": "2026-07-11T06:30:12Z"
   },
   "shuju": {
     "title": "格尼斯坦VS玛丽港(2026芬超)-数据分析-500彩票网",
@@ -713,22 +713,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "球半升",
-        "away_water": "0.880↓",
-        "time": "07-11 13:37"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "一球",
-        "away_water": "0.900",
-        "time": "07-04 22:51"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -742,6 +726,22 @@
         "handicap": "球半",
         "away_water": "0.840",
         "time": "07-08 22:19"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "球半升",
+        "away_water": "0.880↓",
+        "time": "07-11 13:37"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "一球",
+        "away_water": "0.900",
+        "time": "07-04 22:51"
       }
     },
     {
