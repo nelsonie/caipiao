@@ -24,7 +24,7 @@
       "lost": "2.50",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-11T10:30:08Z"
+    "fetched_at_utc": "2026-07-11T10:40:07Z"
   },
   "shuju": {
     "title": "蔚山现代VS全北现代(2026K1联赛)-数据分析-500彩票网",
@@ -398,23 +398,23 @@
         "formation": null,
         "starters": [
           {
-            "number": "17",
-            "name": "姜祥佑",
-            "position": "前锋"
-          },
-          {
             "number": "99",
             "name": "亚戈·卡列洛",
             "position": "前锋"
           },
           {
-            "number": "14",
-            "name": "李镇贤",
+            "number": "10",
+            "name": "李东炅",
             "position": "前锋"
           },
           {
-            "number": "26",
-            "name": "赵玹泽",
+            "number": "6",
+            "name": "达里詹·博贾尼奇",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "李镇贤",
             "position": "中场"
           },
           {
@@ -423,18 +423,13 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "达里詹·博贾尼奇",
-            "position": "中场"
+            "number": "26",
+            "name": "赵玹泽",
+            "position": "后卫"
           },
           {
-            "number": "10",
-            "name": "李东炅",
-            "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "郑昇炫",
+            "number": "28",
+            "name": "?在翊",
             "position": "后卫"
           },
           {
@@ -443,8 +438,13 @@
             "position": "后卫"
           },
           {
-            "number": "28",
-            "name": "?在翊",
+            "number": "15",
+            "name": "郑昇炫",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "姜祥佑",
             "position": "后卫"
           },
           {
@@ -454,6 +454,11 @@
           }
         ],
         "subs": [
+          {
+            "number": "72",
+            "name": "白寅优",
+            "position": "中场"
+          },
           {
             "number": "1",
             "name": "崔柱浩",
@@ -493,11 +498,6 @@
             "number": "22",
             "name": "李民赫",
             "position": "中场"
-          },
-          {
-            "number": "72",
-            "name": "白寅优",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -517,8 +517,8 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "奥伯丹·阿利昂索·德利马",
+            "number": "13",
+            "name": "姜尚润",
             "position": "中场"
           },
           {
@@ -527,13 +527,13 @@
             "position": "中场"
           },
           {
-            "number": "13",
-            "name": "姜尚润",
+            "number": "97",
+            "name": "金镇圭",
             "position": "中场"
           },
           {
-            "number": "97",
-            "name": "金镇圭",
+            "number": "8",
+            "name": "奥伯丹·阿利昂索·德利马",
             "position": "中场"
           },
           {
@@ -563,6 +563,11 @@
           }
         ],
         "subs": [
+          {
+            "number": "81",
+            "name": "吉蒂斯·保劳斯卡斯",
+            "position": "前锋"
+          },
           {
             "number": "28",
             "name": "李英才",
@@ -602,11 +607,6 @@
             "number": "4",
             "name": "赵伟济",
             "position": "后卫"
-          },
-          {
-            "number": "81",
-            "name": "吉蒂斯·保劳斯卡斯",
-            "position": "前锋"
           }
         ],
         "injured": [],
