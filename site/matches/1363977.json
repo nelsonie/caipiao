@@ -24,7 +24,7 @@
       "lost": "5.10",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-11T15:10:16Z"
+    "fetched_at_utc": "2026-07-11T15:20:14Z"
   },
   "shuju": {
     "title": "罗森博格VS克里斯蒂安松(2026挪超)-数据分析-500彩票网",
@@ -710,32 +710,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.800↑",
+        "home_water": "0.810↑",
         "handicap": "半球/一球",
         "away_water": "1.020↓",
-        "time": "07-11 13:52"
+        "time": "07-11 23:07"
       },
       "init": {
         "home_water": "0.790",
         "handicap": "半球/一球",
         "away_water": "1.070",
         "time": "07-06 15:47"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "半球/一球降",
-        "away_water": "1.060↑",
-        "time": "07-11 13:51"
-      },
-      "init": {
-        "home_water": "1.080",
-        "handicap": "一球",
-        "away_water": "0.790",
-        "time": "07-06 08:22"
       }
     },
     {
@@ -752,6 +736,22 @@
         "handicap": "半球/一球",
         "away_water": "0.930",
         "time": "06-21 18:26"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "半球/一球降",
+        "away_water": "1.060↑",
+        "time": "07-11 13:51"
+      },
+      "init": {
+        "home_water": "1.080",
+        "handicap": "一球",
+        "away_water": "0.790",
+        "time": "07-06 08:22"
       }
     },
     {
