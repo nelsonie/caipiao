@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-11T19:10:16Z",
+  "last_updated_utc": "2026-07-11T19:20:18Z",
   "matches": [
     {
       "xml_id": "2040459",
@@ -92,40 +92,40 @@
       "away_team_id": "5739"
     },
     {
-      "xml_id": "2040492",
-      "matchnum": "7207",
-      "date": "2026-07-12",
-      "dayofweek": "星期天",
-      "league": "挪威超级联赛",
-      "home": "奥斯陆KFUM",
-      "away": "博德闪耀",
-      "spf_win": "2.45",
-      "spf_draw": "3.75",
-      "spf_lost": "2.20",
-      "spf_updated": "2026-07-11 09:41:49",
-      "gameid": "1363384",
-      "kickoff_cst": "2026-07-12 20:30",
-      "matchnum_label": "周日207",
-      "home_team_id": "5263",
-      "away_team_id": "703"
-    },
-    {
-      "xml_id": "2040493",
-      "matchnum": "7208",
+      "xml_id": "2040489",
+      "matchnum": "7204",
       "date": "2026-07-12",
       "dayofweek": "星期天",
       "league": "瑞典超级联赛",
-      "home": "哥德堡盖斯",
-      "away": "埃尔夫斯堡",
-      "spf_win": "3.47",
-      "spf_draw": "3.50",
-      "spf_lost": "1.80",
+      "home": "马尔默",
+      "away": "IFK哥德堡",
+      "spf_win": "3.45",
+      "spf_draw": "3.70",
+      "spf_lost": "1.76",
       "spf_updated": "2026-07-11 09:41:49",
-      "gameid": "1362696",
-      "kickoff_cst": "2026-07-12 22:30",
-      "matchnum_label": "周日208",
-      "home_team_id": "288",
-      "away_team_id": "563"
+      "gameid": "1362698",
+      "kickoff_cst": "2026-07-12 20:00",
+      "matchnum_label": "周日204",
+      "home_team_id": "1051",
+      "away_team_id": "823"
+    },
+    {
+      "xml_id": "2040490",
+      "matchnum": "7205",
+      "date": "2026-07-12",
+      "dayofweek": "星期天",
+      "league": "瑞典超级联赛",
+      "home": "哈马比",
+      "away": "卡尔马",
+      "spf_win": "1.95",
+      "spf_draw": "3.68",
+      "spf_lost": "2.90",
+      "spf_updated": "2026-07-11 09:41:49",
+      "gameid": "1362697",
+      "kickoff_cst": "2026-07-12 20:00",
+      "matchnum_label": "周日205",
+      "home_team_id": "852",
+      "away_team_id": "913"
     },
     {
       "xml_id": "2040494",
@@ -146,22 +146,22 @@
       "away_team_id": "4067"
     },
     {
-      "xml_id": "2040496",
-      "matchnum": "7211",
+      "xml_id": "2040495",
+      "matchnum": "7210",
       "date": "2026-07-12",
       "dayofweek": "星期天",
       "league": "挪威超级联赛",
-      "home": "罗森博格",
-      "away": "克里斯蒂安松",
-      "spf_win": "2.47",
-      "spf_draw": "3.45",
-      "spf_lost": "2.30",
+      "home": "布兰",
+      "away": "斯达",
+      "spf_win": "1.90",
+      "spf_draw": "3.80",
+      "spf_lost": "2.94",
       "spf_updated": "2026-07-11 09:41:49",
-      "gameid": "1363977",
+      "gameid": "1364021",
       "kickoff_cst": "2026-07-12 23:00",
-      "matchnum_label": "周日211",
-      "home_team_id": "1035",
-      "away_team_id": "4338"
+      "matchnum_label": "周日210",
+      "home_team_id": "722",
+      "away_team_id": "508"
     }
   ]
 }
