@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-11T11:00:19Z",
+  "last_updated_utc": "2026-07-11T11:10:19Z",
   "matches": [
     {
       "xml_id": "2040459",
@@ -99,10 +99,10 @@
       "league": "挪威超级联赛",
       "home": "腓特烈斯塔",
       "away": "利勒斯特罗姆",
-      "spf_win": "1.54",
-      "spf_draw": "3.80",
-      "spf_lost": "4.60",
-      "spf_updated": "2026-07-11 17:02:29",
+      "spf_win": "1.60",
+      "spf_draw": "3.65",
+      "spf_lost": "4.35",
+      "spf_updated": "2026-07-11 19:02:33",
       "gameid": "1364079",
       "kickoff_cst": "2026-07-11 20:00",
       "matchnum_label": "周六204",
@@ -236,24 +236,6 @@
       "away_team_id": "1242"
     },
     {
-      "xml_id": "2040486",
-      "matchnum": "7201",
-      "date": "2026-07-12",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "仁川联",
-      "away": "安养FC",
-      "spf_win": "4.28",
-      "spf_draw": "3.45",
-      "spf_lost": "1.65",
-      "spf_updated": "2026-07-10 09:33:56",
-      "gameid": "1373149",
-      "kickoff_cst": "2026-07-12 18:30",
-      "matchnum_label": "周日201",
-      "home_team_id": "1612",
-      "away_team_id": "4544"
-    },
-    {
       "xml_id": "2040487",
       "matchnum": "7202",
       "date": "2026-07-12",
@@ -270,24 +252,6 @@
       "matchnum_label": "周日202",
       "home_team_id": "3410",
       "away_team_id": "1611"
-    },
-    {
-      "xml_id": "2040488",
-      "matchnum": "7203",
-      "date": "2026-07-12",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "首尔FC",
-      "away": "江原FC",
-      "spf_win": "5.65",
-      "spf_draw": "3.75",
-      "spf_lost": "1.46",
-      "spf_updated": "2026-07-10 09:33:56",
-      "gameid": "1373144",
-      "kickoff_cst": "2026-07-12 18:30",
-      "matchnum_label": "周日203",
-      "home_team_id": "1606",
-      "away_team_id": "5739"
     },
     {
       "xml_id": "2040489",
