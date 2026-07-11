@@ -24,7 +24,7 @@
       "lost": "3.38",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-11T23:30:07Z"
+    "fetched_at_utc": "2026-07-11T23:40:08Z"
   },
   "shuju": {
     "title": "马尔默VS哥德堡(2026瑞典超)-数据分析-500彩票网",
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.700↓",
-        "time": "07-12 04:20"
-      },
-      "init": {
-        "home_water": "0.620",
-        "handicap": "平手/半球",
-        "away_water": "1.050",
-        "time": "07-05 22:18"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "半球",
         "away_water": "0.840",
         "time": "07-06 17:29"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.700↓",
+        "time": "07-12 04:20"
+      },
+      "init": {
+        "home_water": "0.620",
+        "handicap": "平手/半球",
+        "away_water": "1.050",
+        "time": "07-05 22:18"
       }
     },
     {
