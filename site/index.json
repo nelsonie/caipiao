@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-11T04:00:19Z",
+  "last_updated_utc": "2026-07-11T04:10:19Z",
   "matches": [
     {
       "xml_id": "2040459",
@@ -360,24 +360,6 @@
       "matchnum_label": "周日207",
       "home_team_id": "5263",
       "away_team_id": "703"
-    },
-    {
-      "xml_id": "2040493",
-      "matchnum": "7208",
-      "date": "2026-07-12",
-      "dayofweek": "星期天",
-      "league": "瑞典超级联赛",
-      "home": "哥德堡盖斯",
-      "away": "埃尔夫斯堡",
-      "spf_win": "3.47",
-      "spf_draw": "3.50",
-      "spf_lost": "1.80",
-      "spf_updated": "2026-07-11 09:41:49",
-      "gameid": "1362696",
-      "kickoff_cst": "2026-07-12 22:30",
-      "matchnum_label": "周日208",
-      "home_team_id": "288",
-      "away_team_id": "563"
     },
     {
       "xml_id": "2040494",
