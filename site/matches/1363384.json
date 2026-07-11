@@ -24,7 +24,7 @@
       "lost": "1.40",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-11T23:40:09Z"
+    "fetched_at_utc": "2026-07-11T23:50:10Z"
   },
   "shuju": {
     "title": "KFUM奥斯陆VS博德闪耀(2026挪超)-数据分析-500彩票网",
@@ -513,22 +513,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "受一球升",
-        "away_water": "0.850↓",
-        "time": "07-12 06:09"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "受一球/球半",
-        "away_water": "0.960",
-        "time": "07-06 17:31"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -542,6 +526,22 @@
         "handicap": "受一球/球半",
         "away_water": "0.940",
         "time": "06-21 18:26"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "受一球升",
+        "away_water": "0.850↓",
+        "time": "07-12 06:09"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "受一球/球半",
+        "away_water": "0.960",
+        "time": "07-06 17:31"
       }
     },
     {
