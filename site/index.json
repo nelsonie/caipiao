@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-11T12:10:20Z",
+  "last_updated_utc": "2026-07-11T12:20:22Z",
   "matches": [
     {
       "xml_id": "2040459",
@@ -189,10 +189,10 @@
       "league": "芬兰超级联赛",
       "home": "赫尔辛基火花",
       "away": "玛丽港",
-      "spf_win": "1.70",
+      "spf_win": "1.67",
       "spf_draw": "4.00",
-      "spf_lost": "3.45",
-      "spf_updated": "2026-07-11 18:25:23",
+      "spf_lost": "3.56",
+      "spf_updated": "2026-07-11 20:10:04",
       "gameid": "1363593",
       "kickoff_cst": "2026-07-11 22:00",
       "matchnum_label": "周六209",
@@ -344,6 +344,24 @@
       "away_team_id": "245"
     },
     {
+      "xml_id": "2040492",
+      "matchnum": "7207",
+      "date": "2026-07-12",
+      "dayofweek": "星期天",
+      "league": "挪威超级联赛",
+      "home": "奥斯陆KFUM",
+      "away": "博德闪耀",
+      "spf_win": "2.45",
+      "spf_draw": "3.75",
+      "spf_lost": "2.20",
+      "spf_updated": "2026-07-11 09:41:49",
+      "gameid": "1363384",
+      "kickoff_cst": "2026-07-12 20:30",
+      "matchnum_label": "周日207",
+      "home_team_id": "5263",
+      "away_team_id": "703"
+    },
+    {
       "xml_id": "2040493",
       "matchnum": "7208",
       "date": "2026-07-12",
@@ -432,24 +450,6 @@
       "matchnum_label": "周日212",
       "home_team_id": "3470",
       "away_team_id": "861"
-    },
-    {
-      "xml_id": "2040498",
-      "matchnum": "7213",
-      "date": "2026-07-13",
-      "dayofweek": "星期一",
-      "league": "挪威超级联赛",
-      "home": "萨尔普斯堡",
-      "away": "维京",
-      "spf_win": "2.00",
-      "spf_draw": "3.75",
-      "spf_lost": "2.76",
-      "spf_updated": "2026-07-11 09:41:49",
-      "gameid": "1363576",
-      "kickoff_cst": "2026-07-13 01:15",
-      "matchnum_label": "周日213",
-      "home_team_id": "3418",
-      "away_team_id": "1259"
     }
   ]
 }
