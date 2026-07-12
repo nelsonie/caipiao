@@ -24,7 +24,7 @@
       "lost": "6.90",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-12T02:10:11Z"
+    "fetched_at_utc": "2026-07-12T02:20:09Z"
   },
   "shuju": {
     "title": "布兰VS斯达(2026挪超)-数据分析-500彩票网",
@@ -652,10 +652,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.770↓",
+        "home_water": "0.800↓",
         "handicap": "一球/球半降",
-        "away_water": "1.020↑",
-        "time": "07-12 09:54"
+        "away_water": "1.000↑",
+        "time": "07-12 10:08"
       },
       "init": {
         "home_water": "0.900",
@@ -700,32 +700,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.800↓",
+        "home_water": "0.840↓",
         "handicap": "一球/球半降",
-        "away_water": "1.020↑",
-        "time": "07-12 09:57"
+        "away_water": "1.060↑",
+        "time": "07-12 10:15"
       },
       "init": {
         "home_water": "1.090",
         "handicap": "球半",
         "away_water": "0.810",
         "time": "07-06 16:38"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.730↓",
-        "handicap": "一球/球半降",
-        "away_water": "0.910",
-        "time": "07-12 08:57"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "球半",
-        "away_water": "0.910",
-        "time": "06-21 18:26"
       }
     },
     {
@@ -742,6 +726,22 @@
         "handicap": "一球/球半",
         "away_water": "1.050",
         "time": "07-06 08:26"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.730↓",
+        "handicap": "一球/球半降",
+        "away_water": "0.910",
+        "time": "07-12 08:57"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "球半",
+        "away_water": "0.910",
+        "time": "06-21 18:26"
       }
     },
     {
