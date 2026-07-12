@@ -8,9 +8,9 @@
     "away": "西班牙",
     "kickoff_cst": "2026-07-15 03:00",
     "spf": {
-      "win": "5.05",
-      "draw": "3.85",
-      "lost": "1.49"
+      "win": "4.90",
+      "draw": "3.80",
+      "lost": "1.51"
     },
     "asia_main": {
       "handicap": "平手/半球",
@@ -24,7 +24,7 @@
       "lost": "2.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-12T04:30:13Z"
+    "fetched_at_utc": "2026-07-12T04:40:14Z"
   },
   "shuju": {
     "title": "法国VS西班牙(2026世界杯)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "平手/半球",
-        "away_water": "0.840↑",
-        "time": "07-12 11:59"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "平手/半球",
-        "away_water": "0.800",
-        "time": "07-11 05:47"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "平手/半球",
         "away_water": "0.840",
         "time": "07-11 05:33"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "平手/半球",
+        "away_water": "0.840↑",
+        "time": "07-12 11:59"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "平手/半球",
+        "away_water": "0.800",
+        "time": "07-11 05:47"
       }
     },
     {
