@@ -24,7 +24,7 @@
       "lost": "1.52",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-12T14:50:12Z"
+    "fetched_at_utc": "2026-07-12T15:00:12Z"
   },
   "shuju": {
     "title": "布鲁马波卡纳VS天狼星(2026瑞典超)-数据分析-500彩票网",
@@ -398,13 +398,8 @@
         "formation": null,
         "starters": [
           {
-            "number": "10",
-            "name": "奥利弗·伯格",
-            "position": "前锋"
-          },
-          {
-            "number": "24",
-            "name": "穆罕默德·瓦埃尔·德巴利",
+            "number": "30",
+            "name": "卢卡斯·比约克伦德",
             "position": "前锋"
           },
           {
@@ -413,18 +408,23 @@
             "position": "中场"
           },
           {
-            "number": "30",
-            "name": "卢卡斯·比约克伦德",
-            "position": "中场"
-          },
-          {
-            "number": "16",
-            "name": "西蒙·斯特兰德",
+            "number": "10",
+            "name": "奥利弗·伯格",
             "position": "中场"
           },
           {
             "number": "9",
             "name": "马德斯·克里斯蒂安·汉森",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "穆罕默德·瓦埃尔·德巴利",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "西蒙·斯特兰德",
             "position": "中场"
           },
           {
@@ -460,6 +460,11 @@
             "position": "前锋"
           },
           {
+            "number": "27",
+            "name": "卡尔·巴尔斯伦德",
+            "position": "后卫"
+          },
+          {
             "number": "22",
             "name": "拉斯穆斯·贝里瓦尔",
             "position": "后卫"
@@ -493,11 +498,6 @@
             "number": "32",
             "name": "阿特勒·瓦伦德",
             "position": "中场"
-          },
-          {
-            "number": "27",
-            "name": "卡尔·巴尔斯伦德",
-            "position": "后卫"
           }
         ],
         "injured": [],
@@ -594,11 +594,6 @@
             "position": "后卫"
           },
           {
-            "number": "20",
-            "name": "维克多·埃克斯特罗姆",
-            "position": "后卫"
-          },
-          {
             "number": "1",
             "name": "伊斯梅尔·迪瓦拉",
             "position": "守门员"
@@ -607,6 +602,11 @@
             "number": "26",
             "name": "雨果·安德森·梅拉",
             "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "维克多·埃克斯特罗姆",
+            "position": "后卫"
           }
         ],
         "injured": [],
