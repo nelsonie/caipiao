@@ -24,7 +24,7 @@
       "lost": "2.84",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-12T10:30:06Z"
+    "fetched_at_utc": "2026-07-12T10:40:07Z"
   },
   "shuju": {
     "title": "首尔FCVS江原FC(2026K1联赛)-数据分析-500彩票网",
@@ -356,6 +356,12 @@
       ],
       "away": [
         {
+          "赛事": "友谊赛",
+          "比赛日期": "2026-07-13",
+          "主队 客队": "江原FC VS 越南",
+          "相隔": "1天"
+        },
+        {
           "赛事": "K1联赛",
           "比赛日期": "2026-07-18",
           "主队 客队": "江原FC VS 金泉尚武",
@@ -384,12 +390,6 @@
           "比赛日期": "2026-08-08",
           "主队 客队": "江原FC VS 仁川联",
           "相隔": "27天"
-        },
-        {
-          "赛事": "亚冠杯",
-          "比赛日期": "2026-08-11",
-          "主队 客队": "江原FC VS 大阪钢巴",
-          "相隔": "30天"
         }
       ]
     },
@@ -410,7 +410,7 @@
           {
             "number": "27",
             "name": "文宣民",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "6",
@@ -455,18 +455,28 @@
         ],
         "subs": [
           {
-            "number": "14",
-            "name": "郑贤宇",
+            "number": "34",
+            "name": "宋旻揆",
             "position": "前锋"
           },
           {
-            "number": "66",
-            "name": "朴秀日",
-            "position": "后卫"
+            "number": "18",
+            "name": "曹永旭",
+            "position": "前锋"
           },
           {
-            "number": "40",
-            "name": "朴声勋",
+            "number": "41",
+            "name": "黄度允",
+            "position": "中场"
+          },
+          {
+            "number": "31",
+            "name": "姜贤茂",
+            "position": "守门员"
+          },
+          {
+            "number": "20",
+            "name": "李韩道",
             "position": "后卫"
           },
           {
@@ -475,28 +485,18 @@
             "position": "中场"
           },
           {
-            "number": "20",
-            "name": "李韩道",
+            "number": "40",
+            "name": "朴声勋",
             "position": "后卫"
           },
           {
-            "number": "31",
-            "name": "姜贤茂",
-            "position": "守门员"
+            "number": "66",
+            "name": "朴秀日",
+            "position": "后卫"
           },
           {
-            "number": "41",
-            "name": "黄度允",
-            "position": "中场"
-          },
-          {
-            "number": "18",
-            "name": "曹永旭",
-            "position": "前锋"
-          },
-          {
-            "number": "34",
-            "name": "宋旻揆",
+            "number": "14",
+            "name": "郑贤宇",
             "position": "前锋"
           }
         ],
@@ -507,9 +507,9 @@
         "formation": null,
         "starters": [
           {
-            "number": "11",
-            "name": "高映埈",
-            "position": "中场"
+            "number": "10",
+            "name": "牟再现",
+            "position": "前锋"
           },
           {
             "number": "96",
@@ -519,7 +519,7 @@
           {
             "number": "7",
             "name": "金大元",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "4",
@@ -529,12 +529,12 @@
           {
             "number": "97",
             "name": "李裕贤",
-            "position": "后卫"
+            "position": "中场"
           },
           {
-            "number": "10",
-            "name": "牟再现",
-            "position": "前锋"
+            "number": "11",
+            "name": "高映埈",
+            "position": "中场"
           },
           {
             "number": "34",
@@ -564,28 +564,13 @@
         ],
         "subs": [
           {
-            "number": "77",
-            "name": "阿卜杜拉·赫莱希勒",
+            "number": "70",
+            "name": "塞基迪卡·杰西",
             "position": "前锋"
           },
           {
-            "number": "31",
-            "name": "洪镇赫",
-            "position": "守门员"
-          },
-          {
-            "number": "27",
-            "name": "金道现",
-            "position": "前锋"
-          },
-          {
-            "number": "6",
-            "name": "金东贤",
-            "position": "中场"
-          },
-          {
-            "number": "9",
-            "name": "金健熙",
+            "number": "19",
+            "name": "朴相赫",
             "position": "前锋"
           },
           {
@@ -594,13 +579,28 @@
             "position": "中场"
           },
           {
-            "number": "19",
-            "name": "朴相赫",
+            "number": "9",
+            "name": "金健熙",
             "position": "前锋"
           },
           {
-            "number": "70",
-            "name": "塞基迪卡·杰西",
+            "number": "6",
+            "name": "金东贤",
+            "position": "中场"
+          },
+          {
+            "number": "27",
+            "name": "金道现",
+            "position": "前锋"
+          },
+          {
+            "number": "31",
+            "name": "洪镇赫",
+            "position": "守门员"
+          },
+          {
+            "number": "77",
+            "name": "阿卜杜拉·赫莱希勒",
             "position": "前锋"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.960↓",
-        "handicap": "平手/半球",
-        "away_water": "0.850↑",
-        "time": "07-12 18:29"
-      },
-      "init": {
-        "home_water": "1.020",
-        "handicap": "平手/半球",
-        "away_water": "0.740",
-        "time": "07-05 19:04"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.760",
         "time": "07-06 17:34"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.960↓",
+        "handicap": "平手/半球",
+        "away_water": "0.850↑",
+        "time": "07-12 18:29"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "平手/半球",
+        "away_water": "0.740",
+        "time": "07-05 19:04"
       }
     },
     {
