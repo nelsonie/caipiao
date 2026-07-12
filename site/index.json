@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-12T10:40:14Z",
+  "last_updated_utc": "2026-07-12T10:50:13Z",
   "matches": [
     {
       "xml_id": "2040486",
@@ -234,6 +234,24 @@
       "matchnum_label": "周日213",
       "home_team_id": "3418",
       "away_team_id": "1259"
+    },
+    {
+      "xml_id": "2040499",
+      "matchnum": "1201",
+      "date": "2026-07-14",
+      "dayofweek": "星期二",
+      "league": "瑞典超级联赛",
+      "home": "佐加顿斯",
+      "away": "哈尔姆斯塔德",
+      "spf_win": "2.68",
+      "spf_draw": "4.10",
+      "spf_lost": "1.95",
+      "spf_updated": "2026-07-11 09:41:49",
+      "gameid": "1362695",
+      "kickoff_cst": "2026-07-14 01:00",
+      "matchnum_label": "周一201",
+      "home_team_id": "1355",
+      "away_team_id": "848"
     },
     {
       "xml_id": "2040507",
