@@ -24,7 +24,7 @@
       "lost": "3.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-14T12:40:07Z"
+    "fetched_at_utc": "2026-07-14T12:50:07Z"
   },
   "shuju": {
     "title": "杰尔VS维京古尔(2026/2027欧冠)-数据分析-500彩票网",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.050↑",
-        "handicap": "一球升",
-        "away_water": "0.810↓",
-        "time": "07-14 20:30"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "半球/一球",
-        "away_water": "0.970",
-        "time": "07-11 00:58"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "一球",
         "away_water": "0.600",
         "time": "07-10 22:04"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.050↑",
+        "handicap": "一球升",
+        "away_water": "0.810↓",
+        "time": "07-14 20:30"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "半球/一球",
+        "away_water": "0.970",
+        "time": "07-11 00:58"
       }
     },
     {
