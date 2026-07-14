@@ -24,7 +24,7 @@
       "lost": "2.85",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-14T20:50:06Z"
+    "fetched_at_utc": "2026-07-14T21:00:05Z"
   },
   "shuju": {
     "title": "英格兰VS阿根廷(2026世界杯)-数据分析-500彩票网",
@@ -652,10 +652,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.850",
+        "home_water": "0.830↓",
         "handicap": "平手",
-        "away_water": "1.000",
-        "time": "07-15 04:42"
+        "away_water": "1.030↑",
+        "time": "07-15 04:49"
       },
       "init": {
         "home_water": "0.850",
@@ -700,32 +700,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.860↑",
+        "home_water": "0.830↑",
         "handicap": "平手",
-        "away_water": "0.990↓",
-        "time": "07-15 04:34"
+        "away_water": "1.020↓",
+        "time": "07-15 04:53"
       },
       "init": {
         "home_water": "0.730",
         "handicap": "平手",
         "away_water": "1.110",
         "time": "07-12 17:11"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.810↑",
-        "handicap": "平手",
-        "away_water": "0.950↓",
-        "time": "07-15 04:35"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "平手",
-        "away_water": "1.020",
-        "time": "07-12 12:20"
       }
     },
     {
@@ -742,6 +726,22 @@
         "handicap": "平手",
         "away_water": "1.030",
         "time": "07-12 12:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↑",
+        "handicap": "平手",
+        "away_water": "0.960↓",
+        "time": "07-15 04:52"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "平手",
+        "away_water": "1.020",
+        "time": "07-12 12:20"
       }
     },
     {
@@ -780,10 +780,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.900↑",
+        "home_water": "0.870↑",
         "handicap": "平手",
-        "away_water": "1.020↓",
-        "time": "07-15 04:43"
+        "away_water": "1.050↓",
+        "time": "07-15 04:58"
       },
       "init": {
         "home_water": "0.740",
@@ -812,10 +812,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.900↓",
+        "home_water": "0.870↓",
         "handicap": "平手降",
-        "away_water": "1.020↑",
-        "time": "07-15 04:45"
+        "away_water": "1.050↑",
+        "time": "07-15 04:57"
       },
       "init": {
         "home_water": "1.160",
@@ -847,7 +847,7 @@
         "home_water": "0.910↑",
         "handicap": "平手",
         "away_water": "0.990↓",
-        "time": "07-15 04:34"
+        "time": "07-15 04:52"
       },
       "init": {
         "home_water": "0.830",
