@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-15T15:40:13Z",
+  "last_updated_utc": "2026-07-15T15:50:12Z",
   "matches": [
     {
       "xml_id": "2040508",
@@ -110,58 +110,22 @@
       "away_team_id": "1588"
     },
     {
-      "xml_id": "2040521",
-      "matchnum": "4207",
+      "xml_id": "2040524",
+      "matchnum": "4210",
       "date": "2026-07-17",
       "dayofweek": "星期五",
       "league": "美国职业大联盟",
-      "home": "蒙特利尔CF",
-      "away": "多伦多FC",
-      "spf_win": "3.45",
-      "spf_draw": "3.56",
-      "spf_lost": "1.79",
-      "spf_updated": "2026-07-15 13:40:00",
-      "gameid": "1358412",
-      "kickoff_cst": "2026-07-17 07:30",
-      "matchnum_label": "周四207",
-      "home_team_id": "4293",
-      "away_team_id": "6563"
-    },
-    {
-      "xml_id": "2040522",
-      "matchnum": "4208",
-      "date": "2026-07-17",
-      "dayofweek": "星期五",
-      "league": "美国职业大联盟",
-      "home": "芝加哥火焰",
-      "away": "温哥华白帽",
-      "spf_win": "1.53",
-      "spf_draw": "4.20",
-      "spf_lost": "4.20",
-      "spf_updated": "2026-07-15 09:39:38",
-      "gameid": "1358414",
-      "kickoff_cst": "2026-07-17 08:30",
-      "matchnum_label": "周四208",
-      "home_team_id": "1349",
-      "away_team_id": "4285"
-    },
-    {
-      "xml_id": "2040523",
-      "matchnum": "4209",
-      "date": "2026-07-17",
-      "dayofweek": "星期五",
-      "league": "美国职业大联盟",
-      "home": "圣路易斯城",
-      "away": "堪萨斯城竞技",
-      "spf_win": "1.97",
-      "spf_draw": "3.78",
-      "spf_lost": "2.80",
-      "spf_updated": "2026-07-15 20:22:13",
-      "gameid": "1358416",
-      "kickoff_cst": "2026-07-17 08:30",
-      "matchnum_label": "周四209",
-      "home_team_id": "14129",
-      "away_team_id": "950"
+      "home": "西雅图海湾人",
+      "away": "波特兰伐木工",
+      "spf_win": "2.16",
+      "spf_draw": "3.72",
+      "spf_lost": "2.52",
+      "spf_updated": "2026-07-15 13:38:07",
+      "gameid": "1358418",
+      "kickoff_cst": "2026-07-17 10:30",
+      "matchnum_label": "周四210",
+      "home_team_id": "4286",
+      "away_team_id": "4292"
     }
   ]
 }
