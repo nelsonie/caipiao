@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-07-15T02:50:05Z'
-total_matches: 1
-leagues_covered:
-- 世界杯
+last_updated_utc: '2026-07-15T03:00:05Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 世界杯 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 3102 | 2026-07-16 星期四 | 英格兰 vs 阿根廷 | 5.75/3.83/1.44 | [1359168](matches/1359168.md) |
