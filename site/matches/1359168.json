@@ -24,7 +24,7 @@
       "lost": "2.85",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-15T09:50:08Z"
+    "fetched_at_utc": "2026-07-15T10:00:09Z"
   },
   "shuju": {
     "title": "英格兰VS阿根廷(2026世界杯)-数据分析-500彩票网",
@@ -823,22 +823,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.840↑",
-        "handicap": "平手",
-        "away_water": "1.020↓",
-        "time": "07-15 14:42"
-      },
-      "init": {
-        "home_water": "0.770",
-        "handicap": "平手",
-        "away_water": "1.030",
-        "time": "07-12 12:17"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -852,6 +836,22 @@
         "handicap": "平手",
         "away_water": "1.020",
         "time": "07-12 12:20"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.840↑",
+        "handicap": "平手",
+        "away_water": "1.020↓",
+        "time": "07-15 14:42"
+      },
+      "init": {
+        "home_water": "0.770",
+        "handicap": "平手",
+        "away_water": "1.030",
+        "time": "07-12 12:17"
       }
     },
     {
