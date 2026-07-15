@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-15T03:50:13Z",
+  "last_updated_utc": "2026-07-15T04:00:08Z",
   "matches": [
     {
       "xml_id": "2040508",
@@ -9,10 +9,10 @@
       "league": "世界杯",
       "home": "英格兰",
       "away": "阿根廷",
-      "spf_win": "5.75",
-      "spf_draw": "3.83",
-      "spf_lost": "1.44",
-      "spf_updated": "2026-07-15 08:34:20",
+      "spf_win": "5.65",
+      "spf_draw": "3.80",
+      "spf_lost": "1.45",
+      "spf_updated": "2026-07-15 11:50:25",
       "gameid": "1359168",
       "kickoff_cst": "2026-07-16 03:00",
       "matchnum_label": "周三102",
@@ -36,6 +36,24 @@
       "matchnum_label": "周三201",
       "home_team_id": "15498",
       "away_team_id": "960"
+    },
+    {
+      "xml_id": "2040514",
+      "matchnum": "3202",
+      "date": "2026-07-16",
+      "dayofweek": "星期四",
+      "league": "欧洲冠军联赛",
+      "home": "苏捷斯卡",
+      "away": "阿拉木图凯拉特",
+      "spf_win": "2.01",
+      "spf_draw": "3.42",
+      "spf_lost": "2.95",
+      "spf_updated": "2026-07-15 11:47:20",
+      "gameid": "1427669",
+      "kickoff_cst": "2026-07-16 03:00",
+      "matchnum_label": "周三202",
+      "home_team_id": "2352",
+      "away_team_id": "2814"
     },
     {
       "xml_id": "2040515",
@@ -108,6 +126,60 @@
       "matchnum_label": "周四207",
       "home_team_id": "4293",
       "away_team_id": "6563"
+    },
+    {
+      "xml_id": "2040522",
+      "matchnum": "4208",
+      "date": "2026-07-17",
+      "dayofweek": "星期五",
+      "league": "美国职业大联盟",
+      "home": "芝加哥火焰",
+      "away": "温哥华白帽",
+      "spf_win": "1.53",
+      "spf_draw": "4.20",
+      "spf_lost": "4.20",
+      "spf_updated": "2026-07-15 09:39:38",
+      "gameid": "1358414",
+      "kickoff_cst": "2026-07-17 08:30",
+      "matchnum_label": "周四208",
+      "home_team_id": "1349",
+      "away_team_id": "4285"
+    },
+    {
+      "xml_id": "2040523",
+      "matchnum": "4209",
+      "date": "2026-07-17",
+      "dayofweek": "星期五",
+      "league": "美国职业大联盟",
+      "home": "圣路易斯城",
+      "away": "堪萨斯城竞技",
+      "spf_win": "2.01",
+      "spf_draw": "3.83",
+      "spf_lost": "2.70",
+      "spf_updated": "2026-07-15 09:39:38",
+      "gameid": "1358416",
+      "kickoff_cst": "2026-07-17 08:30",
+      "matchnum_label": "周四209",
+      "home_team_id": "14129",
+      "away_team_id": "950"
+    },
+    {
+      "xml_id": "2040524",
+      "matchnum": "4210",
+      "date": "2026-07-17",
+      "dayofweek": "星期五",
+      "league": "美国职业大联盟",
+      "home": "西雅图海湾人",
+      "away": "波特兰伐木工",
+      "spf_win": "2.20",
+      "spf_draw": "3.72",
+      "spf_lost": "2.46",
+      "spf_updated": "2026-07-15 10:35:51",
+      "gameid": "1358418",
+      "kickoff_cst": "2026-07-17 10:30",
+      "matchnum_label": "周四210",
+      "home_team_id": "4286",
+      "away_team_id": "4292"
     }
   ]
 }
