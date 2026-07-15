@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-15T19:10:09Z",
+  "last_updated_utc": "2026-07-15T19:20:12Z",
   "matches": [
     {
       "xml_id": "2040515",
@@ -72,24 +72,6 @@
       "matchnum_label": "周四207",
       "home_team_id": "4293",
       "away_team_id": "6563"
-    },
-    {
-      "xml_id": "2040522",
-      "matchnum": "4208",
-      "date": "2026-07-17",
-      "dayofweek": "星期五",
-      "league": "美国职业大联盟",
-      "home": "芝加哥火焰",
-      "away": "温哥华白帽",
-      "spf_win": "1.53",
-      "spf_draw": "4.20",
-      "spf_lost": "4.20",
-      "spf_updated": "2026-07-15 09:39:38",
-      "gameid": "1358414",
-      "kickoff_cst": "2026-07-17 08:30",
-      "matchnum_label": "周四208",
-      "home_team_id": "1349",
-      "away_team_id": "4285"
     },
     {
       "xml_id": "2040523",
