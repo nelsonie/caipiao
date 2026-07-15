@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-15T04:40:11Z",
+  "last_updated_utc": "2026-07-15T04:50:11Z",
   "matches": [
     {
       "xml_id": "2040508",
@@ -74,22 +74,40 @@
       "away_team_id": "546"
     },
     {
-      "xml_id": "2040523",
-      "matchnum": "4209",
+      "xml_id": "2040519",
+      "matchnum": "4205",
+      "date": "2026-07-17",
+      "dayofweek": "星期五",
+      "league": "巴西甲级联赛",
+      "home": "博塔弗戈",
+      "away": "桑托斯",
+      "spf_win": "3.67",
+      "spf_draw": "3.50",
+      "spf_lost": "1.75",
+      "spf_updated": "2026-07-15 09:39:38",
+      "gameid": "1362373",
+      "kickoff_cst": "2026-07-17 06:30",
+      "matchnum_label": "周四205",
+      "home_team_id": "1568",
+      "away_team_id": "472"
+    },
+    {
+      "xml_id": "2040521",
+      "matchnum": "4207",
       "date": "2026-07-17",
       "dayofweek": "星期五",
       "league": "美国职业大联盟",
-      "home": "圣路易斯城",
-      "away": "堪萨斯城竞技",
-      "spf_win": "2.01",
-      "spf_draw": "3.83",
-      "spf_lost": "2.70",
+      "home": "蒙特利尔CF",
+      "away": "多伦多FC",
+      "spf_win": "3.45",
+      "spf_draw": "3.65",
+      "spf_lost": "1.77",
       "spf_updated": "2026-07-15 09:39:38",
-      "gameid": "1358416",
-      "kickoff_cst": "2026-07-17 08:30",
-      "matchnum_label": "周四209",
-      "home_team_id": "14129",
-      "away_team_id": "950"
+      "gameid": "1358412",
+      "kickoff_cst": "2026-07-17 07:30",
+      "matchnum_label": "周四207",
+      "home_team_id": "4293",
+      "away_team_id": "6563"
     },
     {
       "xml_id": "2040524",
