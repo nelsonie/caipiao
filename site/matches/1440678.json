@@ -24,7 +24,7 @@
       "lost": "1.68",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-16T14:30:07Z"
+    "fetched_at_utc": "2026-07-16T14:40:07Z"
   },
   "shuju": {
     "title": "德里城VS索菲亚中央陆军(2026/2027欧罗巴)-数据分析-500彩票网",
@@ -710,22 +710,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.690↑",
-        "handicap": "受半球/一球升",
-        "away_water": "0.930↓",
-        "time": "07-16 22:22"
-      },
-      "init": {
-        "home_water": "0.390",
-        "handicap": "受球半",
-        "away_water": "1.740",
-        "time": "07-10 19:23"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -739,6 +723,22 @@
         "handicap": "受半球",
         "away_water": "0.850",
         "time": "07-10 21:39"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.690↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.930↓",
+        "time": "07-16 22:22"
+      },
+      "init": {
+        "home_water": "0.390",
+        "handicap": "受球半",
+        "away_water": "1.740",
+        "time": "07-10 19:23"
       }
     },
     {
