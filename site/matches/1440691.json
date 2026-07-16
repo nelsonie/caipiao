@@ -24,7 +24,7 @@
       "lost": "5.72",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-16T05:00:08Z"
+    "fetched_at_utc": "2026-07-16T05:10:09Z"
   },
   "shuju": {
     "title": "费伦茨瓦罗斯VS伏伊伏丁那(2026/2027欧罗巴)-数据分析-500彩票网",
@@ -703,22 +703,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.860↓",
-        "time": "07-16 11:45"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "一球",
-        "away_water": "0.880",
-        "time": "07-10 21:39"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -732,6 +716,22 @@
         "handicap": "球半",
         "away_water": "0.410",
         "time": "07-10 20:52"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "一球/球半升",
+        "away_water": "0.860↓",
+        "time": "07-16 11:45"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "一球",
+        "away_water": "0.880",
+        "time": "07-10 21:39"
       }
     },
     {
@@ -2060,7 +2060,7 @@
     {
       "cid": "67",
       "company": "**t****",
-      "time": "2026-07-16 10:43:58",
+      "time": "2026-07-16 12:21:54",
       "odds": {
         "live": [
           "1.55",

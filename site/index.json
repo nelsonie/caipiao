@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-16T05:00:11Z",
+  "last_updated_utc": "2026-07-16T05:10:14Z",
   "matches": [
     {
       "xml_id": "2040515",
@@ -92,24 +92,6 @@
       "away_team_id": "472"
     },
     {
-      "xml_id": "2040520",
-      "matchnum": "4206",
-      "date": "2026-07-17",
-      "dayofweek": "星期五",
-      "league": "巴西甲级联赛",
-      "home": "维多利亚",
-      "away": "瓦斯科达伽马",
-      "spf_win": "5.20",
-      "spf_draw": "3.70",
-      "spf_lost": "1.50",
-      "spf_updated": "2026-07-16 11:36:37",
-      "gameid": "1362295",
-      "kickoff_cst": "2026-07-17 06:30",
-      "matchnum_label": "周四206",
-      "home_team_id": "1589",
-      "away_team_id": "1588"
-    },
-    {
       "xml_id": "2040521",
       "matchnum": "4207",
       "date": "2026-07-17",
@@ -128,24 +110,6 @@
       "away_team_id": "6563"
     },
     {
-      "xml_id": "2040522",
-      "matchnum": "4208",
-      "date": "2026-07-17",
-      "dayofweek": "星期五",
-      "league": "美国职业大联盟",
-      "home": "芝加哥火焰",
-      "away": "温哥华白帽",
-      "spf_win": "1.51",
-      "spf_draw": "4.15",
-      "spf_lost": "4.42",
-      "spf_updated": "2026-07-16 11:37:11",
-      "gameid": "1358414",
-      "kickoff_cst": "2026-07-17 08:30",
-      "matchnum_label": "周四208",
-      "home_team_id": "1349",
-      "away_team_id": "4285"
-    },
-    {
       "xml_id": "2040523",
       "matchnum": "4209",
       "date": "2026-07-17",
@@ -162,42 +126,6 @@
       "matchnum_label": "周四209",
       "home_team_id": "14129",
       "away_team_id": "950"
-    },
-    {
-      "xml_id": "2040524",
-      "matchnum": "4210",
-      "date": "2026-07-17",
-      "dayofweek": "星期五",
-      "league": "美国职业大联盟",
-      "home": "西雅图海湾人",
-      "away": "波特兰伐木工",
-      "spf_win": "2.10",
-      "spf_draw": "3.61",
-      "spf_lost": "2.66",
-      "spf_updated": "2026-07-16 12:46:55",
-      "gameid": "1358418",
-      "kickoff_cst": "2026-07-17 10:30",
-      "matchnum_label": "周四210",
-      "home_team_id": "4286",
-      "away_team_id": "4292"
-    },
-    {
-      "xml_id": "2040540",
-      "matchnum": "6103",
-      "date": "2026-07-19",
-      "dayofweek": "星期天",
-      "league": "世界杯",
-      "home": "法国",
-      "away": "英格兰",
-      "spf_win": "3.15",
-      "spf_draw": "3.76",
-      "spf_lost": "1.83",
-      "spf_updated": "2026-07-16 11:53:52",
-      "gameid": "1359163",
-      "kickoff_cst": "2026-07-19 05:00",
-      "matchnum_label": "周六103",
-      "home_team_id": "10",
-      "away_team_id": "15"
     },
     {
       "xml_id": "2040541",
