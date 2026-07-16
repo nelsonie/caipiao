@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-16T22:20:17Z",
+  "last_updated_utc": "2026-07-16T22:30:17Z",
   "matches": [
     {
       "xml_id": "2040519",
@@ -56,24 +56,6 @@
       "away_team_id": "6563"
     },
     {
-      "xml_id": "2040522",
-      "matchnum": "4208",
-      "date": "2026-07-17",
-      "dayofweek": "星期五",
-      "league": "美国职业大联盟",
-      "home": "芝加哥火焰",
-      "away": "温哥华白帽",
-      "spf_win": "1.48",
-      "spf_draw": "4.12",
-      "spf_lost": "4.75",
-      "spf_updated": "2026-07-16 20:22:34",
-      "gameid": "1358414",
-      "kickoff_cst": "2026-07-17 08:30",
-      "matchnum_label": "周四208",
-      "home_team_id": "1349",
-      "away_team_id": "4285"
-    },
-    {
       "xml_id": "2040523",
       "matchnum": "4209",
       "date": "2026-07-17",
@@ -90,6 +72,24 @@
       "matchnum_label": "周四209",
       "home_team_id": "14129",
       "away_team_id": "950"
+    },
+    {
+      "xml_id": "2040532",
+      "matchnum": "5201",
+      "date": "2026-07-18",
+      "dayofweek": "星期六",
+      "league": "瑞典超级联赛",
+      "home": "IFK哥德堡",
+      "away": "布鲁马波卡纳",
+      "spf_win": "3.30",
+      "spf_draw": "3.65",
+      "spf_lost": "1.81",
+      "spf_updated": "2026-07-16 13:36:10",
+      "gameid": "1362704",
+      "kickoff_cst": "2026-07-18 01:00",
+      "matchnum_label": "周五201",
+      "home_team_id": "823",
+      "away_team_id": "1764"
     },
     {
       "xml_id": "2040535",
@@ -144,6 +144,24 @@
       "matchnum_label": "周五206",
       "home_team_id": "5164",
       "away_team_id": "1580"
+    },
+    {
+      "xml_id": "2040538",
+      "matchnum": "5207",
+      "date": "2026-07-18",
+      "dayofweek": "星期六",
+      "league": "美国职业大联盟",
+      "home": "纳什维尔",
+      "away": "亚特兰大联",
+      "spf_win": "2.16",
+      "spf_draw": "3.55",
+      "spf_lost": "2.60",
+      "spf_updated": "2026-07-16 13:36:10",
+      "gameid": "1358420",
+      "kickoff_cst": "2026-07-18 08:10",
+      "matchnum_label": "周五207",
+      "home_team_id": "10715",
+      "away_team_id": "9392"
     },
     {
       "xml_id": "2040541",
