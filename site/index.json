@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-16T12:20:18Z",
+  "last_updated_utc": "2026-07-16T12:30:20Z",
   "matches": [
     {
       "xml_id": "2040515",
@@ -135,10 +135,10 @@
       "league": "美国职业大联盟",
       "home": "芝加哥火焰",
       "away": "温哥华白帽",
-      "spf_win": "1.51",
-      "spf_draw": "4.05",
-      "spf_lost": "4.55",
-      "spf_updated": "2026-07-16 15:03:09",
+      "spf_win": "1.48",
+      "spf_draw": "4.12",
+      "spf_lost": "4.75",
+      "spf_updated": "2026-07-16 20:22:34",
       "gameid": "1358414",
       "kickoff_cst": "2026-07-17 08:30",
       "matchnum_label": "周四208",
@@ -216,24 +216,6 @@
       "matchnum_label": "周五202",
       "home_team_id": "2465",
       "away_team_id": "1253"
-    },
-    {
-      "xml_id": "2040534",
-      "matchnum": "5203",
-      "date": "2026-07-18",
-      "dayofweek": "星期六",
-      "league": "挪威超级联赛",
-      "home": "博德闪耀",
-      "away": "腓特烈斯塔",
-      "spf_win": "2.06",
-      "spf_draw": "4.00",
-      "spf_lost": "2.54",
-      "spf_updated": "2026-07-16 13:36:10",
-      "gameid": "1363900",
-      "kickoff_cst": "2026-07-18 01:15",
-      "matchnum_label": "周五203",
-      "home_team_id": "703",
-      "away_team_id": "1362"
     },
     {
       "xml_id": "2040535",
@@ -326,22 +308,22 @@
       "away_team_id": "10525"
     },
     {
-      "xml_id": "2040541",
-      "matchnum": "7104",
-      "date": "2026-07-20",
-      "dayofweek": "星期一",
+      "xml_id": "2040540",
+      "matchnum": "6103",
+      "date": "2026-07-19",
+      "dayofweek": "星期天",
       "league": "世界杯",
-      "home": "西班牙",
-      "away": "阿根廷",
-      "spf_win": "4.60",
-      "spf_draw": "3.45",
-      "spf_lost": "1.61",
-      "spf_updated": "2026-07-16 09:35:53",
-      "gameid": "1359167",
-      "kickoff_cst": "2026-07-20 03:00",
-      "matchnum_label": "周日104",
-      "home_team_id": "12",
-      "away_team_id": "14"
+      "home": "法国",
+      "away": "英格兰",
+      "spf_win": "3.08",
+      "spf_draw": "3.70",
+      "spf_lost": "1.87",
+      "spf_updated": "2026-07-16 15:01:19",
+      "gameid": "1359163",
+      "kickoff_cst": "2026-07-19 05:00",
+      "matchnum_label": "周六103",
+      "home_team_id": "10",
+      "away_team_id": "15"
     }
   ]
 }
