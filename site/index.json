@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-16T04:20:09Z",
+  "last_updated_utc": "2026-07-16T04:30:13Z",
   "matches": [
     {
       "xml_id": "2040515",
@@ -144,24 +144,6 @@
       "matchnum_label": "周四209",
       "home_team_id": "14129",
       "away_team_id": "950"
-    },
-    {
-      "xml_id": "2040524",
-      "matchnum": "4210",
-      "date": "2026-07-17",
-      "dayofweek": "星期五",
-      "league": "美国职业大联盟",
-      "home": "西雅图海湾人",
-      "away": "波特兰伐木工",
-      "spf_win": "2.12",
-      "spf_draw": "3.68",
-      "spf_lost": "2.59",
-      "spf_updated": "2026-07-16 11:38:30",
-      "gameid": "1358418",
-      "kickoff_cst": "2026-07-17 10:30",
-      "matchnum_label": "周四210",
-      "home_team_id": "4286",
-      "away_team_id": "4292"
     },
     {
       "xml_id": "2040540",
