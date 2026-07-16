@@ -24,7 +24,7 @@
       "lost": "5.90",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-16T08:30:12Z"
+    "fetched_at_utc": "2026-07-16T08:40:09Z"
   },
   "shuju": {
     "title": "圣路易斯城VS堪萨斯城竞技(2026美职联)-数据分析-500彩票网",
@@ -697,7 +697,7 @@
         "home_water": "0.940↑",
         "handicap": "一球/球半",
         "away_water": "0.930↓",
-        "time": "07-16 16:23"
+        "time": "07-16 16:30"
       },
       "init": {
         "home_water": "0.930",
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↑",
-        "handicap": "一球/球半",
-        "away_water": "0.920↓",
-        "time": "07-16 15:59"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "一球/球半",
-        "away_water": "0.950",
-        "time": "07-09 08:58"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "球半",
         "away_water": "0.920",
         "time": "06-30 20:22"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "一球/球半",
+        "away_water": "0.920↓",
+        "time": "07-16 15:59"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "一球/球半",
+        "away_water": "0.950",
+        "time": "07-09 08:58"
       }
     },
     {
@@ -822,10 +822,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.890↓",
         "handicap": "一球/球半降",
-        "away_water": "0.900↑",
-        "time": "07-16 16:01"
+        "away_water": "0.890↑",
+        "time": "07-16 16:24"
       },
       "init": {
         "home_water": "0.980",
