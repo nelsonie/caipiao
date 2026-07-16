@@ -24,7 +24,7 @@
       "lost": "1.93",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-16T15:20:20Z"
+    "fetched_at_utc": "2026-07-16T15:30:15Z"
   },
   "shuju": {
     "title": "洛杉矶银河VS洛杉矶FC(2026美职联)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.980↑",
-        "time": "07-16 18:54"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手",
-        "away_water": "0.890",
-        "time": "07-04 11:04"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "平手",
         "away_water": "0.900",
         "time": "06-30 20:22"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.980↑",
+        "time": "07-16 18:54"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手",
+        "away_water": "0.890",
+        "time": "07-04 11:04"
       }
     },
     {
