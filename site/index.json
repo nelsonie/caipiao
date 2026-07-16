@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-07-16T17:30:16Z",
+  "last_updated_utc": "2026-07-16T17:40:15Z",
   "matches": [
-    {
-      "xml_id": "2040516",
-      "matchnum": "4202",
-      "date": "2026-07-17",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "德里城",
-      "away": "索菲亚中央陆军",
-      "spf_win": "1.96",
-      "spf_draw": "3.20",
-      "spf_lost": "3.26",
-      "spf_updated": "2026-07-16 21:26:27",
-      "gameid": "1440678",
-      "kickoff_cst": "2026-07-17 01:30",
-      "matchnum_label": "周四202",
-      "home_team_id": "764",
-      "away_team_id": "1208"
-    },
     {
       "xml_id": "2040517",
       "matchnum": "4203",
@@ -110,24 +92,6 @@
       "away_team_id": "6563"
     },
     {
-      "xml_id": "2040522",
-      "matchnum": "4208",
-      "date": "2026-07-17",
-      "dayofweek": "星期五",
-      "league": "美国职业大联盟",
-      "home": "芝加哥火焰",
-      "away": "温哥华白帽",
-      "spf_win": "1.48",
-      "spf_draw": "4.12",
-      "spf_lost": "4.75",
-      "spf_updated": "2026-07-16 20:22:34",
-      "gameid": "1358414",
-      "kickoff_cst": "2026-07-17 08:30",
-      "matchnum_label": "周四208",
-      "home_team_id": "1349",
-      "away_team_id": "4285"
-    },
-    {
       "xml_id": "2040523",
       "matchnum": "4209",
       "date": "2026-07-17",
@@ -146,40 +110,22 @@
       "away_team_id": "950"
     },
     {
-      "xml_id": "2040532",
-      "matchnum": "5201",
-      "date": "2026-07-18",
-      "dayofweek": "星期六",
-      "league": "瑞典超级联赛",
-      "home": "IFK哥德堡",
-      "away": "布鲁马波卡纳",
-      "spf_win": "3.30",
-      "spf_draw": "3.65",
-      "spf_lost": "1.81",
-      "spf_updated": "2026-07-16 13:36:10",
-      "gameid": "1362704",
-      "kickoff_cst": "2026-07-18 01:00",
-      "matchnum_label": "周五201",
-      "home_team_id": "823",
-      "away_team_id": "1764"
-    },
-    {
-      "xml_id": "2040534",
-      "matchnum": "5203",
-      "date": "2026-07-18",
-      "dayofweek": "星期六",
-      "league": "挪威超级联赛",
-      "home": "博德闪耀",
-      "away": "腓特烈斯塔",
-      "spf_win": "2.06",
-      "spf_draw": "4.00",
-      "spf_lost": "2.54",
-      "spf_updated": "2026-07-16 13:36:10",
-      "gameid": "1363900",
-      "kickoff_cst": "2026-07-18 01:15",
-      "matchnum_label": "周五203",
-      "home_team_id": "703",
-      "away_team_id": "1362"
+      "xml_id": "2040524",
+      "matchnum": "4210",
+      "date": "2026-07-17",
+      "dayofweek": "星期五",
+      "league": "美国职业大联盟",
+      "home": "西雅图海湾人",
+      "away": "波特兰伐木工",
+      "spf_win": "2.10",
+      "spf_draw": "3.48",
+      "spf_lost": "2.73",
+      "spf_updated": "2026-07-16 20:28:02",
+      "gameid": "1358418",
+      "kickoff_cst": "2026-07-17 10:30",
+      "matchnum_label": "周四210",
+      "home_team_id": "4286",
+      "away_team_id": "4292"
     },
     {
       "xml_id": "2040535",
@@ -254,6 +200,24 @@
       "away_team_id": "9392"
     },
     {
+      "xml_id": "2040539",
+      "matchnum": "5208",
+      "date": "2026-07-18",
+      "dayofweek": "星期六",
+      "league": "美国职业大联盟",
+      "home": "洛杉矶银河",
+      "away": "洛杉矶FC",
+      "spf_win": "1.65",
+      "spf_draw": "3.85",
+      "spf_lost": "3.80",
+      "spf_updated": "2026-07-16 13:36:10",
+      "gameid": "1358422",
+      "kickoff_cst": "2026-07-18 10:25",
+      "matchnum_label": "周五208",
+      "home_team_id": "1044",
+      "away_team_id": "10525"
+    },
+    {
       "xml_id": "2040540",
       "matchnum": "6103",
       "date": "2026-07-19",
@@ -270,6 +234,24 @@
       "matchnum_label": "周六103",
       "home_team_id": "10",
       "away_team_id": "15"
+    },
+    {
+      "xml_id": "2040541",
+      "matchnum": "7104",
+      "date": "2026-07-20",
+      "dayofweek": "星期一",
+      "league": "世界杯",
+      "home": "西班牙",
+      "away": "阿根廷",
+      "spf_win": "4.60",
+      "spf_draw": "3.45",
+      "spf_lost": "1.61",
+      "spf_updated": "2026-07-16 09:35:53",
+      "gameid": "1359167",
+      "kickoff_cst": "2026-07-20 03:00",
+      "matchnum_label": "周日104",
+      "home_team_id": "12",
+      "away_team_id": "14"
     }
   ]
 }
