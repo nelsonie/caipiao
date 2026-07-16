@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-16T06:00:17Z",
+  "last_updated_utc": "2026-07-16T06:10:15Z",
   "matches": [
     {
       "xml_id": "2040515",
@@ -28,9 +28,9 @@
       "home": "德里城",
       "away": "索菲亚中央陆军",
       "spf_win": "1.92",
-      "spf_draw": "3.50",
-      "spf_lost": "3.10",
-      "spf_updated": "2026-07-16 09:35:53",
+      "spf_draw": "3.40",
+      "spf_lost": "3.18",
+      "spf_updated": "2026-07-16 14:05:22",
       "gameid": "1440678",
       "kickoff_cst": "2026-07-17 01:30",
       "matchnum_label": "周四202",
@@ -90,24 +90,6 @@
       "matchnum_label": "周四205",
       "home_team_id": "1568",
       "away_team_id": "472"
-    },
-    {
-      "xml_id": "2040520",
-      "matchnum": "4206",
-      "date": "2026-07-17",
-      "dayofweek": "星期五",
-      "league": "巴西甲级联赛",
-      "home": "维多利亚",
-      "away": "瓦斯科达伽马",
-      "spf_win": "5.20",
-      "spf_draw": "3.70",
-      "spf_lost": "1.50",
-      "spf_updated": "2026-07-16 11:36:37",
-      "gameid": "1362295",
-      "kickoff_cst": "2026-07-17 06:30",
-      "matchnum_label": "周四206",
-      "home_team_id": "1589",
-      "away_team_id": "1588"
     },
     {
       "xml_id": "2040521",
@@ -270,24 +252,6 @@
       "matchnum_label": "周五205",
       "home_team_id": "1578",
       "away_team_id": "3343"
-    },
-    {
-      "xml_id": "2040537",
-      "matchnum": "5206",
-      "date": "2026-07-18",
-      "dayofweek": "星期六",
-      "league": "巴西甲级联赛",
-      "home": "米拉索尔",
-      "away": "格雷米奥",
-      "spf_win": "3.55",
-      "spf_draw": "3.32",
-      "spf_lost": "1.83",
-      "spf_updated": "2026-07-16 13:36:10",
-      "gameid": "1362361",
-      "kickoff_cst": "2026-07-18 07:00",
-      "matchnum_label": "周五206",
-      "home_team_id": "5164",
-      "away_team_id": "1580"
     },
     {
       "xml_id": "2040538",
