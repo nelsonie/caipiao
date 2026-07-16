@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-16T18:50:18Z",
+  "last_updated_utc": "2026-07-16T19:00:12Z",
   "matches": [
     {
       "xml_id": "2040519",
@@ -92,6 +92,24 @@
       "away_team_id": "950"
     },
     {
+      "xml_id": "2040524",
+      "matchnum": "4210",
+      "date": "2026-07-17",
+      "dayofweek": "星期五",
+      "league": "美国职业大联盟",
+      "home": "西雅图海湾人",
+      "away": "波特兰伐木工",
+      "spf_win": "2.10",
+      "spf_draw": "3.48",
+      "spf_lost": "2.73",
+      "spf_updated": "2026-07-16 20:28:02",
+      "gameid": "1358418",
+      "kickoff_cst": "2026-07-17 10:30",
+      "matchnum_label": "周四210",
+      "home_team_id": "4286",
+      "away_team_id": "4292"
+    },
+    {
       "xml_id": "2040532",
       "matchnum": "5201",
       "date": "2026-07-18",
@@ -180,6 +198,60 @@
       "matchnum_label": "周五205",
       "home_team_id": "1578",
       "away_team_id": "3343"
+    },
+    {
+      "xml_id": "2040537",
+      "matchnum": "5206",
+      "date": "2026-07-18",
+      "dayofweek": "星期六",
+      "league": "巴西甲级联赛",
+      "home": "米拉索尔",
+      "away": "格雷米奥",
+      "spf_win": "3.55",
+      "spf_draw": "3.32",
+      "spf_lost": "1.83",
+      "spf_updated": "2026-07-16 13:36:10",
+      "gameid": "1362361",
+      "kickoff_cst": "2026-07-18 07:00",
+      "matchnum_label": "周五206",
+      "home_team_id": "5164",
+      "away_team_id": "1580"
+    },
+    {
+      "xml_id": "2040538",
+      "matchnum": "5207",
+      "date": "2026-07-18",
+      "dayofweek": "星期六",
+      "league": "美国职业大联盟",
+      "home": "纳什维尔",
+      "away": "亚特兰大联",
+      "spf_win": "2.16",
+      "spf_draw": "3.55",
+      "spf_lost": "2.60",
+      "spf_updated": "2026-07-16 13:36:10",
+      "gameid": "1358420",
+      "kickoff_cst": "2026-07-18 08:10",
+      "matchnum_label": "周五207",
+      "home_team_id": "10715",
+      "away_team_id": "9392"
+    },
+    {
+      "xml_id": "2040539",
+      "matchnum": "5208",
+      "date": "2026-07-18",
+      "dayofweek": "星期六",
+      "league": "美国职业大联盟",
+      "home": "洛杉矶银河",
+      "away": "洛杉矶FC",
+      "spf_win": "1.65",
+      "spf_draw": "3.85",
+      "spf_lost": "3.80",
+      "spf_updated": "2026-07-16 13:36:10",
+      "gameid": "1358422",
+      "kickoff_cst": "2026-07-18 10:25",
+      "matchnum_label": "周五208",
+      "home_team_id": "1044",
+      "away_team_id": "10525"
     },
     {
       "xml_id": "2040540",
