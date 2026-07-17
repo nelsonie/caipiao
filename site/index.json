@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-07-17T02:30:11Z",
+  "last_updated_utc": "2026-07-17T02:40:13Z",
   "matches": [
-    {
-      "xml_id": "2040524",
-      "matchnum": "4210",
-      "date": "2026-07-17",
-      "dayofweek": "星期五",
-      "league": "美国职业大联盟",
-      "home": "西雅图海湾人",
-      "away": "波特兰伐木工",
-      "spf_win": "2.10",
-      "spf_draw": "3.48",
-      "spf_lost": "2.73",
-      "spf_updated": "2026-07-16 20:28:02",
-      "gameid": "1358418",
-      "kickoff_cst": "2026-07-17 10:30",
-      "matchnum_label": "周四210",
-      "home_team_id": "4286",
-      "away_team_id": "4292"
-    },
     {
       "xml_id": "2040532",
       "matchnum": "5201",
@@ -128,24 +110,6 @@
       "away_team_id": "1580"
     },
     {
-      "xml_id": "2040538",
-      "matchnum": "5207",
-      "date": "2026-07-18",
-      "dayofweek": "星期六",
-      "league": "美国职业大联盟",
-      "home": "纳什维尔",
-      "away": "亚特兰大联",
-      "spf_win": "2.16",
-      "spf_draw": "3.55",
-      "spf_lost": "2.60",
-      "spf_updated": "2026-07-16 13:36:10",
-      "gameid": "1358420",
-      "kickoff_cst": "2026-07-18 08:10",
-      "matchnum_label": "周五207",
-      "home_team_id": "10715",
-      "away_team_id": "9392"
-    },
-    {
       "xml_id": "2040540",
       "matchnum": "6103",
       "date": "2026-07-19",
@@ -162,24 +126,6 @@
       "matchnum_label": "周六103",
       "home_team_id": "10",
       "away_team_id": "15"
-    },
-    {
-      "xml_id": "2040541",
-      "matchnum": "7104",
-      "date": "2026-07-20",
-      "dayofweek": "星期一",
-      "league": "世界杯",
-      "home": "西班牙",
-      "away": "阿根廷",
-      "spf_win": "4.60",
-      "spf_draw": "3.45",
-      "spf_lost": "1.61",
-      "spf_updated": "2026-07-16 09:35:53",
-      "gameid": "1359167",
-      "kickoff_cst": "2026-07-20 03:00",
-      "matchnum_label": "周日104",
-      "home_team_id": "12",
-      "away_team_id": "14"
     }
   ]
 }
