@@ -8,9 +8,9 @@
     "away": "格雷米奥",
     "kickoff_cst": "2026-07-18 07:00",
     "spf": {
-      "win": "3.55",
-      "draw": "3.32",
-      "lost": "1.83"
+      "win": "3.60",
+      "draw": "3.25",
+      "lost": "1.84"
     },
     "asia_main": {
       "handicap": "半球升",
@@ -24,7 +24,7 @@
       "lost": "4.15",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-17T03:40:08Z"
+    "fetched_at_utc": "2026-07-17T03:50:08Z"
   },
   "shuju": {
     "title": "米拉索尔VS格雷米奥(2026巴甲)-数据分析-500彩票网",
@@ -715,22 +715,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.720",
-        "handicap": "平手/半球",
-        "away_water": "1.150↓",
-        "time": "07-17 11:02"
-      },
-      "init": {
-        "home_water": "0.720",
-        "handicap": "平手/半球",
-        "away_water": "1.170",
-        "time": "07-15 12:12"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -744,6 +728,22 @@
         "handicap": "平手/半球",
         "away_water": "1.050",
         "time": "07-03 07:17"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.720",
+        "handicap": "平手/半球",
+        "away_water": "1.150↓",
+        "time": "07-17 11:02"
+      },
+      "init": {
+        "home_water": "0.720",
+        "handicap": "平手/半球",
+        "away_water": "1.170",
+        "time": "07-15 12:12"
       }
     },
     {
