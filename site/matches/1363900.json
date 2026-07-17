@@ -24,7 +24,7 @@
       "lost": "13.00",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-07-17T08:10:07Z"
+    "fetched_at_utc": "2026-07-17T08:20:30Z"
   },
   "shuju": {
     "title": "博德闪耀VS腓特烈斯塔(2026挪超)-数据分析-500彩票网",
@@ -396,209 +396,15 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [
-          {
-            "number": "9",
-            "name": "卡斯帕·霍格",
-            "position": "前锋"
-          },
-          {
-            "number": "11",
-            "name": "奥莱·迪德里克·布隆伯格",
-            "position": "前锋"
-          },
-          {
-            "number": "17",
-            "name": "奥拉·布林希森",
-            "position": "中场"
-          },
-          {
-            "number": "19",
-            "name": "松德雷·菲特",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "桑德雷·奥克伦德",
-            "position": "中场"
-          },
-          {
-            "number": "26",
-            "name": "哈康·埃文森",
-            "position": "中场"
-          },
-          {
-            "number": "25",
-            "name": "埃塞克·迪亚巴维克·马塔",
-            "position": "后卫"
-          },
-          {
-            "number": "5",
-            "name": "海塔姆·阿利萨米",
-            "position": "后卫"
-          },
-          {
-            "number": "4",
-            "name": "奥丁·卢拉斯·比约图夫特",
-            "position": "后卫"
-          },
-          {
-            "number": "20",
-            "name": "弗雷德里克·舍沃尔德",
-            "position": "后卫"
-          },
-          {
-            "number": "12",
-            "name": "尼基塔·哈伊金",
-            "position": "守门员"
-          }
-        ],
-        "subs": [
-          {
-            "number": "24",
-            "name": "丹尼尔·巴希",
-            "position": "前锋"
-          },
-          {
-            "number": "77",
-            "name": "米克尔·布罗·汉森",
-            "position": "前锋"
-          },
-          {
-            "number": "6",
-            "name": "乔斯坦·冈德森",
-            "position": "后卫"
-          },
-          {
-            "number": "21",
-            "name": "安德烈斯·赫尔默森",
-            "position": "前锋"
-          },
-          {
-            "number": "22",
-            "name": "费尔斯列夫·安德斯·克林格",
-            "position": "中场"
-          },
-          {
-            "number": "1",
-            "name": "朱利安·法耶·隆德",
-            "position": "守门员"
-          },
-          {
-            "number": "2",
-            "name": "维拉兹·尼尔森",
-            "position": "后卫"
-          },
-          {
-            "number": "14",
-            "name": "乌尔里克·萨尔特尼斯",
-            "position": "中场"
-          }
-        ],
+        "starters": [],
+        "subs": [],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [
-          {
-            "number": "9",
-            "name": "萨利姆·拉格扎维",
-            "position": "前锋"
-          },
-          {
-            "number": "23",
-            "name": "亨利克·斯科格沃尔德",
-            "position": "前锋"
-          },
-          {
-            "number": "7",
-            "name": "本杰明·托雷森·法拉斯",
-            "position": "前锋"
-          },
-          {
-            "number": "19",
-            "name": "法努埃尔·格布雷约汉内斯",
-            "position": "中场"
-          },
-          {
-            "number": "20",
-            "name": "奥斯卡·奥伦施莱格",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "马克斯·尼尔松",
-            "position": "中场"
-          },
-          {
-            "number": "16",
-            "name": "丹尼尔·艾德",
-            "position": "中场"
-          },
-          {
-            "number": "12",
-            "name": "尤里克·提隆·弗雷德里克森",
-            "position": "后卫"
-          },
-          {
-            "number": "4",
-            "name": "弗雷德里克·霍尔默",
-            "position": "后卫"
-          },
-          {
-            "number": "5",
-            "name": "希门·拉芬",
-            "position": "后卫"
-          },
-          {
-            "number": "77",
-            "name": "马丁·博尔斯海姆",
-            "position": "守门员"
-          }
-        ],
-        "subs": [
-          {
-            "number": "3",
-            "name": "亚历山大·安德烈森",
-            "position": "后卫"
-          },
-          {
-            "number": "18",
-            "name": "乔纳森·诺拜",
-            "position": "后卫"
-          },
-          {
-            "number": "10",
-            "name": "约翰内斯·安德烈斯·汉梅尔沃尔·努内斯",
-            "position": "前锋"
-          },
-          {
-            "number": "26",
-            "name": "约阿希姆·奈斯芬",
-            "position": "后卫"
-          },
-          {
-            "number": "2",
-            "name": "肯尼迪·奥克帕莱克",
-            "position": "后卫"
-          },
-          {
-            "number": "1",
-            "name": "奥伊斯坦·奥弗雷法伊特",
-            "position": "守门员"
-          },
-          {
-            "number": "24",
-            "name": "莱昂纳德·奥乌苏",
-            "position": "中场"
-          },
-          {
-            "number": "28",
-            "name": "所罗门·奥乌苏",
-            "position": "后卫"
-          }
-        ],
+        "starters": [],
+        "subs": [],
         "injured": [],
         "suspended": []
       }
