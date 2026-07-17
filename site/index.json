@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-17T10:20:13Z",
+  "last_updated_utc": "2026-07-17T10:30:15Z",
   "matches": [
     {
       "xml_id": "2040532",
@@ -110,6 +110,42 @@
       "away_team_id": "1580"
     },
     {
+      "xml_id": "2040538",
+      "matchnum": "5207",
+      "date": "2026-07-18",
+      "dayofweek": "星期六",
+      "league": "美国职业大联盟",
+      "home": "纳什维尔",
+      "away": "亚特兰大联",
+      "spf_win": "2.11",
+      "spf_draw": "3.55",
+      "spf_lost": "2.68",
+      "spf_updated": "2026-07-17 17:02:55",
+      "gameid": "1358420",
+      "kickoff_cst": "2026-07-18 08:10",
+      "matchnum_label": "周五207",
+      "home_team_id": "10715",
+      "away_team_id": "9392"
+    },
+    {
+      "xml_id": "2040539",
+      "matchnum": "5208",
+      "date": "2026-07-18",
+      "dayofweek": "星期六",
+      "league": "美国职业大联盟",
+      "home": "洛杉矶银河",
+      "away": "洛杉矶FC",
+      "spf_win": "1.62",
+      "spf_draw": "3.85",
+      "spf_lost": "3.96",
+      "spf_updated": "2026-07-17 17:07:05",
+      "gameid": "1358422",
+      "kickoff_cst": "2026-07-18 10:25",
+      "matchnum_label": "周五208",
+      "home_team_id": "1044",
+      "away_team_id": "10525"
+    },
+    {
       "xml_id": "2040540",
       "matchnum": "6103",
       "date": "2026-07-19",
@@ -198,24 +234,6 @@
       "matchnum_label": "周六203",
       "home_team_id": "3410",
       "away_team_id": "1608"
-    },
-    {
-      "xml_id": "2040549",
-      "matchnum": "6204",
-      "date": "2026-07-18",
-      "dayofweek": "星期六",
-      "league": "韩国职业联赛",
-      "home": "仁川联",
-      "away": "全北现代",
-      "spf_win": "1.59",
-      "spf_draw": "3.55",
-      "spf_lost": "4.60",
-      "spf_updated": "2026-07-17 09:44:38",
-      "gameid": "1373093",
-      "kickoff_cst": "2026-07-18 18:30",
-      "matchnum_label": "周六204",
-      "home_team_id": "1612",
-      "away_team_id": "1609"
     },
     {
       "xml_id": "2040560",
