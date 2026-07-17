@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-17T23:40:10Z",
+  "last_updated_utc": "2026-07-17T23:50:13Z",
   "matches": [
     {
       "xml_id": "2040538",
@@ -126,24 +126,6 @@
       "matchnum_label": "周六203",
       "home_team_id": "3410",
       "away_team_id": "1608"
-    },
-    {
-      "xml_id": "2040549",
-      "matchnum": "6204",
-      "date": "2026-07-18",
-      "dayofweek": "星期六",
-      "league": "韩国职业联赛",
-      "home": "仁川联",
-      "away": "全北现代",
-      "spf_win": "1.59",
-      "spf_draw": "3.55",
-      "spf_lost": "4.60",
-      "spf_updated": "2026-07-17 09:44:38",
-      "gameid": "1373093",
-      "kickoff_cst": "2026-07-18 18:30",
-      "matchnum_label": "周六204",
-      "home_team_id": "1612",
-      "away_team_id": "1609"
     },
     {
       "xml_id": "2040560",
