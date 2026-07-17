@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-17T12:10:16Z",
+  "last_updated_utc": "2026-07-17T12:20:12Z",
   "matches": [
     {
       "xml_id": "2040532",
@@ -270,6 +270,24 @@
       "matchnum_label": "周日201",
       "home_team_id": "7075",
       "away_team_id": "1606"
+    },
+    {
+      "xml_id": "2040561",
+      "matchnum": "7202",
+      "date": "2026-07-19",
+      "dayofweek": "星期天",
+      "league": "韩国职业联赛",
+      "home": "安养FC",
+      "away": "光州FC",
+      "spf_win": "2.88",
+      "spf_draw": "3.15",
+      "spf_lost": "2.15",
+      "spf_updated": "2026-07-17 09:44:38",
+      "gameid": "1373234",
+      "kickoff_cst": "2026-07-19 18:30",
+      "matchnum_label": "周日202",
+      "home_team_id": "4544",
+      "away_team_id": "6477"
     }
   ]
 }
