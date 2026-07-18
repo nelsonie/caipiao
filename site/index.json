@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-18T17:30:14Z",
+  "last_updated_utc": "2026-07-18T17:40:15Z",
   "matches": [
     {
       "xml_id": "2040540",
@@ -92,22 +92,22 @@
       "away_team_id": "4067"
     },
     {
-      "xml_id": "2040565",
-      "matchnum": "7206",
-      "date": "2026-07-19",
-      "dayofweek": "星期天",
+      "xml_id": "2040567",
+      "matchnum": "1202",
+      "date": "2026-07-21",
+      "dayofweek": "星期二",
       "league": "芬兰超级联赛",
-      "home": "雅罗",
-      "away": "国际图尔库",
-      "spf_win": "2.34",
+      "home": "玛丽港",
+      "away": "拉赫蒂",
+      "spf_win": "2.40",
       "spf_draw": "3.50",
-      "spf_lost": "2.40",
+      "spf_lost": "2.35",
       "spf_updated": "2026-07-18 09:34:01",
-      "gameid": "1363625",
-      "kickoff_cst": "2026-07-19 23:30",
-      "matchnum_label": "周日206",
-      "home_team_id": "743",
-      "away_team_id": "1327"
+      "gameid": "1363637",
+      "kickoff_cst": "2026-07-21 00:00",
+      "matchnum_label": "周一202",
+      "home_team_id": "2326",
+      "away_team_id": "956"
     },
     {
       "xml_id": "2040568",
