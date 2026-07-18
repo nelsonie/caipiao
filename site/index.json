@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-18T05:00:19Z",
+  "last_updated_utc": "2026-07-18T05:10:16Z",
   "matches": [
     {
       "xml_id": "2040540",
@@ -126,42 +126,6 @@
       "matchnum_label": "周六205",
       "home_team_id": "861",
       "away_team_id": "1226"
-    },
-    {
-      "xml_id": "2040551",
-      "matchnum": "6206",
-      "date": "2026-07-18",
-      "dayofweek": "星期六",
-      "league": "芬兰超级联赛",
-      "home": "赫尔辛基",
-      "away": "瓦萨",
-      "spf_win": "3.20",
-      "spf_draw": "3.70",
-      "spf_lost": "1.83",
-      "spf_updated": "2026-07-18 09:34:01",
-      "gameid": "1363607",
-      "kickoff_cst": "2026-07-18 20:00",
-      "matchnum_label": "周六206",
-      "home_team_id": "866",
-      "away_team_id": "434"
-    },
-    {
-      "xml_id": "2040552",
-      "matchnum": "6207",
-      "date": "2026-07-18",
-      "dayofweek": "星期六",
-      "league": "瑞典超级联赛",
-      "home": "AIK索尔纳",
-      "away": "哥德堡盖斯",
-      "spf_win": "5.20",
-      "spf_draw": "4.05",
-      "spf_lost": "1.45",
-      "spf_updated": "2026-07-18 09:34:01",
-      "gameid": "1362702",
-      "kickoff_cst": "2026-07-18 21:00",
-      "matchnum_label": "周六207",
-      "home_team_id": "215",
-      "away_team_id": "288"
     },
     {
       "xml_id": "2040553",
@@ -342,42 +306,6 @@
       "matchnum_label": "周日203",
       "home_team_id": "563",
       "away_team_id": "4067"
-    },
-    {
-      "xml_id": "2040563",
-      "matchnum": "7204",
-      "date": "2026-07-19",
-      "dayofweek": "星期天",
-      "league": "瑞典超级联赛",
-      "home": "哈尔姆斯塔德",
-      "away": "赫根",
-      "spf_win": "2.25",
-      "spf_draw": "3.55",
-      "spf_lost": "2.48",
-      "spf_updated": "2026-07-18 09:34:01",
-      "gameid": "1362705",
-      "kickoff_cst": "2026-07-19 22:30",
-      "matchnum_label": "周日204",
-      "home_team_id": "848",
-      "away_team_id": "850"
-    },
-    {
-      "xml_id": "2040564",
-      "matchnum": "7205",
-      "date": "2026-07-19",
-      "dayofweek": "星期天",
-      "league": "瑞典超级联赛",
-      "home": "哈马比",
-      "away": "代格福什",
-      "spf_win": "2.75",
-      "spf_draw": "3.88",
-      "spf_lost": "1.97",
-      "spf_updated": "2026-07-18 09:34:01",
-      "gameid": "1362707",
-      "kickoff_cst": "2026-07-19 22:30",
-      "matchnum_label": "周日205",
-      "home_team_id": "852",
-      "away_team_id": "245"
     },
     {
       "xml_id": "2040565",
