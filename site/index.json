@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-18T00:30:13Z",
+  "last_updated_utc": "2026-07-18T00:40:08Z",
   "matches": [
     {
       "xml_id": "2040539",
@@ -90,6 +90,24 @@
       "matchnum_label": "周六202",
       "home_team_id": "5739",
       "away_team_id": "1615"
+    },
+    {
+      "xml_id": "2040548",
+      "matchnum": "6203",
+      "date": "2026-07-18",
+      "dayofweek": "星期六",
+      "league": "韩国职业联赛",
+      "home": "济州SK",
+      "away": "浦项制铁",
+      "spf_win": "1.46",
+      "spf_draw": "3.65",
+      "spf_lost": "5.85",
+      "spf_updated": "2026-07-17 10:31:59",
+      "gameid": "1373101",
+      "kickoff_cst": "2026-07-18 18:30",
+      "matchnum_label": "周六203",
+      "home_team_id": "3410",
+      "away_team_id": "1608"
     },
     {
       "xml_id": "2040549",
