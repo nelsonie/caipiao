@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-18T21:40:16Z",
+  "last_updated_utc": "2026-07-18T21:50:12Z",
   "matches": [
     {
       "xml_id": "2040541",
@@ -38,6 +38,24 @@
       "away_team_id": "1606"
     },
     {
+      "xml_id": "2040561",
+      "matchnum": "7202",
+      "date": "2026-07-19",
+      "dayofweek": "星期天",
+      "league": "韩国职业联赛",
+      "home": "安养FC",
+      "away": "光州FC",
+      "spf_win": "2.88",
+      "spf_draw": "3.15",
+      "spf_lost": "2.15",
+      "spf_updated": "2026-07-17 09:44:38",
+      "gameid": "1373234",
+      "kickoff_cst": "2026-07-19 18:30",
+      "matchnum_label": "周日202",
+      "home_team_id": "4544",
+      "away_team_id": "6477"
+    },
+    {
       "xml_id": "2040562",
       "matchnum": "7203",
       "date": "2026-07-19",
@@ -54,6 +72,60 @@
       "matchnum_label": "周日203",
       "home_team_id": "563",
       "away_team_id": "4067"
+    },
+    {
+      "xml_id": "2040563",
+      "matchnum": "7204",
+      "date": "2026-07-19",
+      "dayofweek": "星期天",
+      "league": "瑞典超级联赛",
+      "home": "哈尔姆斯塔德",
+      "away": "赫根",
+      "spf_win": "2.25",
+      "spf_draw": "3.55",
+      "spf_lost": "2.48",
+      "spf_updated": "2026-07-18 09:34:01",
+      "gameid": "1362705",
+      "kickoff_cst": "2026-07-19 22:30",
+      "matchnum_label": "周日204",
+      "home_team_id": "848",
+      "away_team_id": "850"
+    },
+    {
+      "xml_id": "2040564",
+      "matchnum": "7205",
+      "date": "2026-07-19",
+      "dayofweek": "星期天",
+      "league": "瑞典超级联赛",
+      "home": "哈马比",
+      "away": "代格福什",
+      "spf_win": "2.75",
+      "spf_draw": "3.88",
+      "spf_lost": "1.97",
+      "spf_updated": "2026-07-18 09:34:01",
+      "gameid": "1362707",
+      "kickoff_cst": "2026-07-19 22:30",
+      "matchnum_label": "周日205",
+      "home_team_id": "852",
+      "away_team_id": "245"
+    },
+    {
+      "xml_id": "2040565",
+      "matchnum": "7206",
+      "date": "2026-07-19",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "雅罗",
+      "away": "国际图尔库",
+      "spf_win": "2.34",
+      "spf_draw": "3.50",
+      "spf_lost": "2.40",
+      "spf_updated": "2026-07-18 09:34:01",
+      "gameid": "1363625",
+      "kickoff_cst": "2026-07-19 23:30",
+      "matchnum_label": "周日206",
+      "home_team_id": "743",
+      "away_team_id": "1327"
     },
     {
       "xml_id": "2040566",
