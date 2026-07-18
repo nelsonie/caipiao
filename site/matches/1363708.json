@@ -24,7 +24,7 @@
       "lost": "9.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-18T03:40:14Z"
+    "fetched_at_utc": "2026-07-18T03:50:13Z"
   },
   "shuju": {
     "title": "维京VS桑纳菲尤尔(2026挪超)-数据分析-500彩票网",
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "球半/两球",
-        "away_water": "0.910↑",
-        "time": "07-18 11:15"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "球半/两球",
-        "away_water": "0.860",
-        "time": "07-13 19:17"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "球半/两球",
         "away_water": "0.860",
         "time": "07-13 16:47"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "球半/两球",
+        "away_water": "0.910↑",
+        "time": "07-18 11:15"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "球半/两球",
+        "away_water": "0.860",
+        "time": "07-13 19:17"
       }
     },
     {

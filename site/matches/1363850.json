@@ -24,7 +24,7 @@
       "lost": "2.16",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-18T03:40:12Z"
+    "fetched_at_utc": "2026-07-18T03:50:10Z"
   },
   "shuju": {
     "title": "斯达VS罗森博格(2026挪超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "受平手/半球",
-        "away_water": "0.920↓",
-        "time": "07-17 20:22"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "受平手/半球",
-        "away_water": "1.030",
-        "time": "07-13 19:10"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.930",
         "time": "07-13 16:47"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.920↓",
+        "time": "07-17 20:22"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "受平手/半球",
+        "away_water": "1.030",
+        "time": "07-13 19:10"
       }
     },
     {
