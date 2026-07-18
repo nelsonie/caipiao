@@ -24,7 +24,7 @@
       "lost": "1.85",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-18T05:10:08Z"
+    "fetched_at_utc": "2026-07-18T05:20:09Z"
   },
   "shuju": {
     "title": "汉坎VS特罗姆瑟(2026挪超)-数据分析-500彩票网",
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.030↓",
-        "handicap": "受平手/半球",
-        "away_water": "0.830↑",
-        "time": "07-18 12:08"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "受平手/半球",
-        "away_water": "0.810",
-        "time": "07-13 19:17"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "平手",
         "away_water": "0.530",
         "time": "07-13 16:34"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.030↓",
+        "handicap": "受平手/半球",
+        "away_water": "0.830↑",
+        "time": "07-18 12:08"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "受平手/半球",
+        "away_water": "0.810",
+        "time": "07-13 19:17"
       }
     },
     {
