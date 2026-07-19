@@ -24,7 +24,7 @@
       "lost": "1.50",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-19T03:40:10Z"
+    "fetched_at_utc": "2026-07-19T03:50:13Z"
   },
   "shuju": {
     "title": "哈尔姆VS赫根(2026瑞典超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.850↑",
-        "handicap": "受一球升",
-        "away_water": "0.890↓",
-        "time": "07-19 07:05"
-      },
-      "init": {
-        "home_water": "0.450",
-        "handicap": "受球半",
-        "away_water": "1.560",
-        "time": "07-12 23:22"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.830",
         "time": "07-13 22:56"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.850↑",
+        "handicap": "受一球升",
+        "away_water": "0.890↓",
+        "time": "07-19 07:05"
+      },
+      "init": {
+        "home_water": "0.450",
+        "handicap": "受球半",
+        "away_water": "1.560",
+        "time": "07-12 23:22"
       }
     },
     {
