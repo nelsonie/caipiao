@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-19T04:10:12Z",
+  "last_updated_utc": "2026-07-19T04:20:18Z",
   "matches": [
     {
       "xml_id": "2040541",
@@ -162,24 +162,6 @@
       "matchnum_label": "周一202",
       "home_team_id": "2326",
       "away_team_id": "956"
-    },
-    {
-      "xml_id": "2040568",
-      "matchnum": "1203",
-      "date": "2026-07-21",
-      "dayofweek": "星期二",
-      "league": "瑞典超级联赛",
-      "home": "厄尔格里特",
-      "away": "佐加顿斯",
-      "spf_win": "3.00",
-      "spf_draw": "3.90",
-      "spf_lost": "1.86",
-      "spf_updated": "2026-07-18 09:34:01",
-      "gameid": "1362711",
-      "kickoff_cst": "2026-07-21 01:00",
-      "matchnum_label": "周一203",
-      "home_team_id": "606",
-      "away_team_id": "1355"
     },
     {
       "xml_id": "2040569",
