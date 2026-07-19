@@ -8,14 +8,14 @@
     "away": "国际图尔库",
     "kickoff_cst": "2026-07-19 23:30",
     "spf": {
-      "win": "2.46",
+      "win": "2.41",
       "draw": "3.25",
-      "lost": "2.41"
+      "lost": "2.46"
     },
     "asia_main": {
-      "handicap": "受半球升",
-      "home_water": "1.300↑",
-      "away_water": "0.570↓",
+      "handicap": "受半球/一球升",
+      "home_water": "0.940↑",
+      "away_water": "0.700↓",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "1.46",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-19T11:30:09Z"
+    "fetched_at_utc": "2026-07-19T11:40:09Z"
   },
   "shuju": {
     "title": "查路VS国际图尔库(2026芬超)-数据分析-500彩票网",
@@ -634,10 +634,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "1.300↑",
-        "handicap": "受半球升",
-        "away_water": "0.570↓",
-        "time": "07-19 11:36"
+        "home_water": "0.940↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.700↓",
+        "time": "07-19 19:34"
       },
       "init": {
         "home_water": "0.930",
@@ -682,10 +682,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.900↓",
+        "home_water": "0.850↓",
         "handicap": "受一球",
-        "away_water": "0.900↑",
-        "time": "07-19 18:20"
+        "away_water": "0.950↑",
+        "time": "07-19 19:35"
       },
       "init": {
         "home_water": "0.980",
@@ -714,10 +714,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.900↓",
+        "home_water": "0.820↓",
         "handicap": "受一球",
-        "away_water": "0.970↑",
-        "time": "07-19 18:32"
+        "away_water": "1.050↑",
+        "time": "07-19 19:33"
       },
       "init": {
         "home_water": "1.010",
@@ -730,10 +730,10 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.870↓",
-        "handicap": "受一球",
-        "away_water": "0.980↑",
-        "time": "07-19 18:21"
+        "home_water": "1.050↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.800↓",
+        "time": "07-19 19:38"
       },
       "init": {
         "home_water": "0.930",
@@ -746,10 +746,10 @@
       "cid": "1484",
       "company": "o***",
       "live": {
-        "home_water": "0.830↓",
-        "handicap": "受一球",
-        "away_water": "0.920↑",
-        "time": "07-19 18:37"
+        "home_water": "0.940↓",
+        "handicap": "受半球/一球升",
+        "away_water": "0.700↓",
+        "time": "07-19 19:34"
       },
       "init": {
         "home_water": "1.050",
@@ -762,10 +762,10 @@
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "0.850↓",
-        "handicap": "受一球",
-        "away_water": "0.960↑",
-        "time": "07-19 18:38"
+        "home_water": "1.040↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.790↓",
+        "time": "07-19 19:35"
       },
       "init": {
         "home_water": "0.900",
@@ -778,10 +778,10 @@
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.900↑",
-        "handicap": "受一球升",
-        "away_water": "1.000↓",
-        "time": "07-19 18:33"
+        "home_water": "1.080↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.840↓",
+        "time": "07-19 19:32"
       },
       "init": {
         "home_water": "0.790",
@@ -794,10 +794,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.900↓",
-        "handicap": "受一球",
-        "away_water": "1.020↑",
-        "time": "07-19 17:39"
+        "home_water": "1.090↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.830↓",
+        "time": "07-19 19:35"
       },
       "init": {
         "home_water": "0.980",
@@ -810,10 +810,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.890↓",
-        "handicap": "受一球",
-        "away_water": "1.030↑",
-        "time": "07-19 18:34"
+        "home_water": "1.070↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.850↓",
+        "time": "07-19 19:33"
       },
       "init": {
         "home_water": "0.960",
@@ -842,10 +842,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.890↓",
-        "handicap": "受一球",
-        "away_water": "1.030↑",
-        "time": "07-19 18:35"
+        "home_water": "1.070↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.850↓",
+        "time": "07-19 19:32"
       },
       "init": {
         "home_water": "0.940",
@@ -858,10 +858,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.830↑",
-        "handicap": "受一球升",
-        "away_water": "0.930↓",
-        "time": "07-19 18:36"
+        "home_water": "1.010↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.770↓",
+        "time": "07-19 19:37"
       },
       "init": {
         "home_water": "0.750",
@@ -874,10 +874,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.890↓",
-        "handicap": "受一球",
-        "away_water": "1.010↑",
-        "time": "07-19 18:33"
+        "home_water": "1.060↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.840↓",
+        "time": "07-19 19:32"
       },
       "init": {
         "home_water": "1.030",
@@ -1087,7 +1087,7 @@
     {
       "cid": "3",
       "company": "B*****",
-      "time": "2026-07-19 19:08:40",
+      "time": "2026-07-19 19:21:23",
       "odds": {
         "live": [
           "5.50",
@@ -1095,9 +1095,9 @@
           "1.48"
         ],
         "init": [
-          "5.25",
+          "5.00",
           "4.00",
-          "1.50"
+          "1.53"
         ]
       },
       "prob": {
@@ -1107,9 +1107,9 @@
           "61.01%"
         ],
         "init": [
-          "17.20%",
-          "22.58%",
-          "60.22%"
+          "18.12%",
+          "22.65%",
+          "59.22%"
         ]
       },
       "ret": {
@@ -1117,7 +1117,7 @@
           "90.29%"
         ],
         "init": [
-          "90.32%"
+          "90.61%"
         ]
       },
       "kelly": {
@@ -1127,9 +1127,9 @@
           "0.88"
         ],
         "init": [
-          "0.93",
+          "0.88",
           "0.91",
-          "0.90"
+          "0.91"
         ]
       }
     },
