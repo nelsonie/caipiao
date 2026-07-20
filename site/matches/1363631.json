@@ -24,7 +24,7 @@
       "lost": "2.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-20T15:30:57Z"
+    "fetched_at_utc": "2026-07-20T15:40:49Z"
   },
   "shuju": {
     "title": "TPS土尔库VS埃尔维斯(2026芬超)-数据分析-500彩票网",
@@ -398,23 +398,23 @@
         "formation": null,
         "starters": [
           {
+            "number": "99",
+            "name": "基安·维塞尔",
+            "position": "前锋"
+          },
+          {
             "number": "11",
             "name": "埃尔默·沃赫科宁",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "29",
             "name": "阿尔比恩·穆扎奇",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "10",
             "name": "马吕斯·孔科拉",
-            "position": "前锋"
-          },
-          {
-            "number": "99",
-            "name": "基安·维塞尔",
             "position": "中场"
           },
           {
@@ -542,6 +542,11 @@
             "position": "中场"
           },
           {
+            "number": "3",
+            "name": "马蒂亚斯·拉尔",
+            "position": "后卫"
+          },
+          {
             "number": "16",
             "name": "塔图·米图宁",
             "position": "后卫"
@@ -549,11 +554,6 @@
           {
             "number": "24",
             "name": "维尔·昆普",
-            "position": "后卫"
-          },
-          {
-            "number": "3",
-            "name": "马蒂亚斯·拉尔",
             "position": "后卫"
           },
           {
