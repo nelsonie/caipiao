@@ -24,7 +24,7 @@
       "lost": "3.18",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-21T03:30:18Z"
+    "fetched_at_utc": "2026-07-21T03:40:21Z"
   },
   "shuju": {
     "title": "米内罗竞技VS巴伊亚(2026巴甲)-数据分析-500彩票网",
@@ -748,22 +748,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "平手/半球",
-        "away_water": "1.020↑",
-        "time": "07-21 02:09"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手/半球",
-        "away_water": "1.010",
-        "time": "07-13 23:10"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -777,6 +761,22 @@
         "handicap": "平手/半球",
         "away_water": "0.970",
         "time": "06-23 17:59"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "平手/半球",
+        "away_water": "1.020↑",
+        "time": "07-21 02:09"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手/半球",
+        "away_water": "1.010",
+        "time": "07-13 23:10"
       }
     },
     {
