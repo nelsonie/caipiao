@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-21T17:00:25Z",
+  "last_updated_utc": "2026-07-21T17:10:24Z",
   "matches": [
     {
       "xml_id": "2040583",
@@ -90,24 +90,6 @@
       "matchnum_label": "周三210",
       "home_team_id": "2513",
       "away_team_id": "2814"
-    },
-    {
-      "xml_id": "2040601",
-      "matchnum": "2206",
-      "date": "2026-07-22",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "奥胡斯",
-      "away": "波兹南莱赫",
-      "spf_win": "4.90",
-      "spf_draw": "3.70",
-      "spf_lost": "1.53",
-      "spf_updated": "2026-07-21 21:36:14",
-      "gameid": "1427652",
-      "kickoff_cst": "2026-07-22 01:00",
-      "matchnum_label": "周二206",
-      "home_team_id": "609",
-      "away_team_id": "1006"
     },
     {
       "xml_id": "2040602",
