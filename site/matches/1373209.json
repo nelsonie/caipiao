@@ -24,14 +24,14 @@
       "lost": "2.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-21T12:50:27Z"
+    "fetched_at_utc": "2026-07-21T13:00:26Z"
   },
   "shuju": {
     "title": "富川FCVS安养FC(2026K1联赛)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，富川FC 1胜 3平 2负 ，进5球，失8球 ，大球3次，小球3次",
     "team_ranks": [
       "富川FC [K1联赛10]",
-      "安养FC [K1联赛6]"
+      "安养FC [K1联赛7]"
     ],
     "h2h_rows": [
       {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "平手",
-        "away_water": "0.790↓",
-        "time": "07-21 16:37"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "平手",
-        "away_water": "0.800",
-        "time": "07-19 18:59"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.780",
         "time": "07-19 18:56"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "平手",
+        "away_water": "0.790↓",
+        "time": "07-21 16:37"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "平手",
+        "away_water": "0.800",
+        "time": "07-19 18:59"
       }
     },
     {
