@@ -24,7 +24,7 @@
       "lost": "3.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-21T09:40:32Z"
+    "fetched_at_utc": "2026-07-21T09:50:37Z"
   },
   "shuju": {
     "title": "奥胡斯VS莱克普斯纳(2026/2027欧冠)-数据分析-500彩票网",
@@ -428,10 +428,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.890↑",
+        "home_water": "0.850↑",
         "handicap": "平手/半球",
-        "away_water": "0.930↓",
-        "time": "07-21 16:34"
+        "away_water": "0.970↓",
+        "time": "07-21 17:23"
       },
       "init": {
         "home_water": "0.760",
@@ -444,32 +444,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.850↑",
+        "home_water": "0.860↑",
         "handicap": "平手/半球",
         "away_water": "0.980↓",
-        "time": "07-21 13:05"
+        "time": "07-21 17:47"
       },
       "init": {
         "home_water": "0.780",
         "handicap": "平手/半球",
         "away_water": "1.010",
         "time": "07-20 06:05"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.950↓",
-        "time": "07-21 15:55"
-      },
-      "init": {
-        "home_water": "0.560",
-        "handicap": "平手",
-        "away_water": "1.280",
-        "time": "07-17 19:58"
       }
     },
     {
@@ -489,13 +473,29 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.950↓",
+        "time": "07-21 15:55"
+      },
+      "init": {
+        "home_water": "0.560",
+        "handicap": "平手",
+        "away_water": "1.280",
+        "time": "07-17 19:58"
+      }
+    },
+    {
       "cid": "1055",
       "company": "P*********",
       "live": {
         "home_water": "0.870↓",
         "handicap": "平手/半球",
-        "away_water": "0.980↑",
-        "time": "07-21 15:43"
+        "away_water": "0.990↑",
+        "time": "07-21 17:37"
       },
       "init": {
         "home_water": "0.890",
@@ -508,10 +508,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.850↑",
+        "home_water": "0.860↑",
         "handicap": "平手/半球",
-        "away_water": "0.990↓",
-        "time": "07-21 12:05"
+        "away_water": "0.980↓",
+        "time": "07-21 17:45"
       },
       "init": {
         "home_water": "0.760",
@@ -527,7 +527,7 @@
         "home_water": "0.860↑",
         "handicap": "平手/半球",
         "away_water": "0.980↓",
-        "time": "07-21 16:11"
+        "time": "07-21 17:44"
       },
       "init": {
         "home_water": "0.790",
@@ -559,7 +559,7 @@
         "home_water": "0.860↑",
         "handicap": "平手/半球",
         "away_water": "0.980↓",
-        "time": "07-21 16:08"
+        "time": "07-21 17:44"
       },
       "init": {
         "home_water": "0.780",
@@ -572,10 +572,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.820↓",
         "handicap": "平手/半球",
-        "away_water": "0.930↑",
-        "time": "07-21 16:35"
+        "away_water": "0.950↑",
+        "time": "07-21 17:38"
       },
       "init": {
         "home_water": "0.960",
@@ -591,7 +591,7 @@
         "home_water": "0.850↑",
         "handicap": "平手/半球",
         "away_water": "0.970↓",
-        "time": "07-21 16:09"
+        "time": "07-21 17:44"
       },
       "init": {
         "home_water": "0.790",
