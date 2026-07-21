@@ -24,7 +24,7 @@
       "lost": "1.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-21T11:20:27Z"
+    "fetched_at_utc": "2026-07-21T11:30:28Z"
   },
   "shuju": {
     "title": "光州FCVS金泉尚武(2026K1联赛)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "受半球",
-        "away_water": "0.800↓",
-        "time": "07-21 16:38"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "受半球",
-        "away_water": "0.810",
-        "time": "07-19 18:59"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.980",
         "time": "07-19 18:58"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "受半球",
+        "away_water": "0.800↓",
+        "time": "07-21 16:38"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "受半球",
+        "away_water": "0.810",
+        "time": "07-19 18:59"
       }
     },
     {
