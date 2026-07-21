@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-21T18:30:19Z",
+  "last_updated_utc": "2026-07-21T18:40:21Z",
   "matches": [
     {
       "xml_id": "2040583",
@@ -90,24 +90,6 @@
       "matchnum_label": "周三210",
       "home_team_id": "2513",
       "away_team_id": "2814"
-    },
-    {
-      "xml_id": "2040602",
-      "matchnum": "2207",
-      "date": "2026-07-22",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "格拉茨风暴",
-      "away": "哈茨",
-      "spf_win": "2.90",
-      "spf_draw": "3.22",
-      "spf_lost": "2.11",
-      "spf_updated": "2026-07-21 21:34:48",
-      "gameid": "1427657",
-      "kickoff_cst": "2026-07-22 02:30",
-      "matchnum_label": "周二207",
-      "home_team_id": "825",
-      "away_team_id": "855"
     }
   ]
 }
