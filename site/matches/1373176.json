@@ -24,7 +24,7 @@
       "lost": "4.46",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-21T23:50:17Z"
+    "fetched_at_utc": "2026-07-22T00:00:22Z"
   },
   "shuju": {
     "title": "首尔FCVS浦项制铁(2026K1联赛)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.030",
-        "handicap": "半球/一球",
-        "away_water": "0.660↓",
-        "time": "07-22 01:59"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "半球/一球",
-        "away_water": "0.670",
-        "time": "07-19 19:06"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球",
         "away_water": "0.990",
         "time": "07-19 19:09"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.030",
+        "handicap": "半球/一球",
+        "away_water": "0.660↓",
+        "time": "07-22 01:59"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "半球/一球",
+        "away_water": "0.670",
+        "time": "07-19 19:06"
       }
     },
     {
