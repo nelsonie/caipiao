@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-22T07:10:14Z",
+  "last_updated_utc": "2026-07-22T07:20:11Z",
   "matches": [
     {
       "xml_id": "2040584",
@@ -153,15 +153,33 @@
       "league": "美国职业大联盟",
       "home": "洛杉矶FC",
       "away": "皇家盐湖城",
-      "spf_win": "2.72",
+      "spf_win": "2.63",
       "spf_draw": "3.50",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-07-22 12:36:50",
+      "spf_lost": "2.16",
+      "spf_updated": "2026-07-22 15:08:36",
       "gameid": "1358455",
       "kickoff_cst": "2026-07-23 10:30",
       "matchnum_label": "周三209",
       "home_team_id": "10525",
       "away_team_id": "2440"
+    },
+    {
+      "xml_id": "2040593",
+      "matchnum": "4202",
+      "date": "2026-07-24",
+      "dayofweek": "星期五",
+      "league": "巴西甲级联赛",
+      "home": "博塔弗戈",
+      "away": "维多利亚",
+      "spf_win": "2.88",
+      "spf_draw": "3.30",
+      "spf_lost": "2.09",
+      "spf_updated": "2026-07-22 09:33:27",
+      "gameid": "1362188",
+      "kickoff_cst": "2026-07-24 06:30",
+      "matchnum_label": "周四202",
+      "home_team_id": "1568",
+      "away_team_id": "1589"
     },
     {
       "xml_id": "2040596",
