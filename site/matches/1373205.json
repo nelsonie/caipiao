@@ -24,7 +24,7 @@
       "lost": "1.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-22T10:40:06Z"
+    "fetched_at_utc": "2026-07-22T10:50:07Z"
   },
   "shuju": {
     "title": "光州FCVS金泉尚武(2026K1联赛)-数据分析-500彩票网",
@@ -405,7 +405,7 @@
           {
             "number": "9",
             "name": "河胜云",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "88",
@@ -420,7 +420,7 @@
           {
             "number": "7",
             "name": "埃米尔·塞托斯基",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "14",
@@ -455,34 +455,9 @@
         ],
         "subs": [
           {
-            "number": "37",
-            "name": "李荣直",
-            "position": "后卫"
-          },
-          {
-            "number": "22",
-            "name": "权成尹",
-            "position": "前锋"
-          },
-          {
-            "number": "23",
-            "name": "金东华",
-            "position": "守门员"
-          },
-          {
-            "number": "8",
-            "name": "朱世钟",
+            "number": "50",
+            "name": "阿德里尔·达维拉·巴·鲁亚",
             "position": "中场"
-          },
-          {
-            "number": "16",
-            "name": "郑支训",
-            "position": "中场"
-          },
-          {
-            "number": "2",
-            "name": "张硕桓",
-            "position": "后卫"
           },
           {
             "number": "20",
@@ -490,14 +465,39 @@
             "position": "后卫"
           },
           {
-            "number": "50",
-            "name": "阿德里尔·达维拉·巴·鲁亚",
-            "position": "前锋"
+            "number": "2",
+            "name": "张硕桓",
+            "position": "后卫"
+          },
+          {
+            "number": "16",
+            "name": "郑支训",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "朱世钟",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "金东华",
+            "position": "守门员"
+          },
+          {
+            "number": "22",
+            "name": "权成尹",
+            "position": "中场"
+          },
+          {
+            "number": "37",
+            "name": "李荣直",
+            "position": "中场"
           },
           {
             "number": "40",
             "name": "申昶武",
-            "position": "中场"
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -514,7 +514,7 @@
           {
             "number": "14",
             "name": "朴世晋",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "48",
@@ -534,7 +534,7 @@
           {
             "number": "7",
             "name": "高在贤",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "33",
@@ -559,14 +559,19 @@
           {
             "number": "1",
             "name": "白种范",
-            "position": "未知"
+            "position": "守门员"
           }
         ],
         "subs": [
           {
+            "number": "46",
+            "name": "郑耱豪",
+            "position": "中场"
+          },
+          {
             "number": "42",
             "name": "洪时厚",
-            "position": "前锋"
+            "position": "后卫"
           },
           {
             "number": "10",
@@ -577,11 +582,6 @@
             "number": "21",
             "name": "金仁均",
             "position": "前锋"
-          },
-          {
-            "number": "8",
-            "name": "金艺锡",
-            "position": "中场"
           },
           {
             "number": "20",
@@ -604,8 +604,8 @@
             "position": "守门员"
           },
           {
-            "number": "46",
-            "name": "郑耱豪",
+            "number": "8",
+            "name": "金?锡",
             "position": "中场"
           }
         ],
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.910↑",
-        "handicap": "受平手/半球升",
-        "away_water": "0.910↓",
-        "time": "07-22 18:19"
-      },
-      "init": {
-        "home_water": "0.660",
-        "handicap": "受半球/一球",
-        "away_water": "0.980",
-        "time": "07-19 18:58"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受半球",
         "away_water": "0.810",
         "time": "07-19 18:59"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "受平手/半球升",
+        "away_water": "0.910↓",
+        "time": "07-22 18:19"
+      },
+      "init": {
+        "home_water": "0.660",
+        "handicap": "受半球/一球",
+        "away_water": "0.980",
+        "time": "07-19 18:58"
       }
     },
     {
