@@ -24,7 +24,7 @@
       "lost": "10.00",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-07-22T15:40:07Z"
+    "fetched_at_utc": "2026-07-22T15:50:07Z"
   },
   "shuju": {
     "title": "博德闪耀VS汉坎(2026挪超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.820↑",
-        "handicap": "两球半/三球升",
-        "away_water": "1.000↑",
-        "time": "07-22 23:19"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "两球",
-        "away_water": "0.900",
-        "time": "03-15 05:04"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "两球半",
         "away_water": "0.890",
         "time": "07-19 18:30"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.820↑",
+        "handicap": "两球半/三球升",
+        "away_water": "1.000↑",
+        "time": "07-22 23:19"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "两球",
+        "away_water": "0.900",
+        "time": "03-15 05:04"
       }
     },
     {
