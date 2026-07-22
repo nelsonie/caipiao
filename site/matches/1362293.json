@@ -24,7 +24,7 @@
       "lost": "1.37",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-22T08:40:13Z"
+    "fetched_at_utc": "2026-07-22T08:50:08Z"
   },
   "shuju": {
     "title": "沙佩科VS弗拉门戈(2026巴甲)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "受一球/球半",
-        "away_water": "1.050↑",
-        "time": "07-22 16:25"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "受一球/球半",
-        "away_water": "0.960",
-        "time": "06-23 17:29"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "受一球/球半",
         "away_water": "1.040",
         "time": "07-02 09:39"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "受一球/球半",
+        "away_water": "1.050↑",
+        "time": "07-22 16:25"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "受一球/球半",
+        "away_water": "0.960",
+        "time": "06-23 17:29"
       }
     },
     {
