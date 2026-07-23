@@ -8,8 +8,8 @@
     "away": "维多利亚",
     "kickoff_cst": "2026-07-24 06:30",
     "spf": {
-      "win": "2.96",
-      "draw": "3.20",
+      "win": "3.00",
+      "draw": "3.15",
       "lost": "2.09"
     },
     "asia_main": {
@@ -24,7 +24,7 @@
       "lost": "4.50",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-23T08:10:08Z"
+    "fetched_at_utc": "2026-07-23T08:20:07Z"
   },
   "shuju": {
     "title": "博塔弗戈VS维多利亚(2026巴甲)-数据分析-500彩票网",
@@ -761,10 +761,10 @@
       "cid": "1484",
       "company": "o***",
       "live": {
-        "home_water": "0.900↑",
+        "home_water": "0.920↑",
         "handicap": "半球/一球降",
-        "away_water": "0.760↓",
-        "time": "07-23 10:23"
+        "away_water": "0.750↓",
+        "time": "07-23 16:05"
       },
       "init": {
         "home_water": "0.860",
@@ -777,10 +777,10 @@
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "0.990↑",
         "handicap": "半球/一球降",
-        "away_water": "0.830↓",
-        "time": "07-23 16:04"
+        "away_water": "0.840↓",
+        "time": "07-23 16:09"
       },
       "init": {
         "home_water": "0.940",
@@ -1102,7 +1102,7 @@
     {
       "cid": "3",
       "company": "B*****",
-      "time": "2026-07-23 15:59:25",
+      "time": "2026-07-23 16:08:11",
       "odds": {
         "live": [
           "1.53",
