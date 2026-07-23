@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-23T18:10:07Z",
+  "last_updated_utc": "2026-07-23T18:20:10Z",
   "matches": [
     {
       "xml_id": "2040593",
@@ -38,24 +38,6 @@
       "away_team_id": "2417"
     },
     {
-      "xml_id": "2040600",
-      "matchnum": "4207",
-      "date": "2026-07-24",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "斯普利特海杜克",
-      "away": "帕福斯",
-      "spf_win": "3.85",
-      "spf_draw": "3.25",
-      "spf_lost": "1.78",
-      "spf_updated": "2026-07-23 20:27:38",
-      "gameid": "1449797",
-      "kickoff_cst": "2026-07-24 03:00",
-      "matchnum_label": "周四207",
-      "home_team_id": "1295",
-      "away_team_id": "2504"
-    },
-    {
       "xml_id": "2040610",
       "matchnum": "5201",
       "date": "2026-07-25",
@@ -72,24 +54,6 @@
       "matchnum_label": "周五201",
       "home_team_id": "743",
       "away_team_id": "6492"
-    },
-    {
-      "xml_id": "2040611",
-      "matchnum": "5202",
-      "date": "2026-07-25",
-      "dayofweek": "星期六",
-      "league": "瑞典超级联赛",
-      "home": "韦斯特罗斯",
-      "away": "厄尔格里特",
-      "spf_win": "2.46",
-      "spf_draw": "3.55",
-      "spf_lost": "2.27",
-      "spf_updated": "2026-07-23 13:22:39",
-      "gameid": "1362719",
-      "kickoff_cst": "2026-07-25 01:00",
-      "matchnum_label": "周五202",
-      "home_team_id": "1253",
-      "away_team_id": "606"
     }
   ]
 }
