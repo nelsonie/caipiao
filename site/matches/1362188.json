@@ -15,7 +15,7 @@
     "asia_main": {
       "handicap": "半球/一球升",
       "home_water": "0.870↑",
-      "away_water": "0.780↓",
+      "away_water": "0.770↓",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "4.50",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-23T02:30:07Z"
+    "fetched_at_utc": "2026-07-23T02:40:05Z"
   },
   "shuju": {
     "title": "博塔弗戈VS维多利亚(2026巴甲)-数据分析-500彩票网",
@@ -651,8 +651,8 @@
       "live": {
         "home_water": "0.870↑",
         "handicap": "半球/一球升",
-        "away_water": "0.780↓",
-        "time": "07-23 02:50"
+        "away_water": "0.770↓",
+        "time": "07-23 10:26"
       },
       "init": {
         "home_water": "0.530",
@@ -745,10 +745,10 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.990↑",
+        "home_water": "1.000↑",
         "handicap": "半球/一球",
         "away_water": "0.830",
-        "time": "07-23 08:33"
+        "time": "07-23 10:28"
       },
       "init": {
         "home_water": "0.960",
@@ -758,35 +758,35 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "半球/一球降",
-        "away_water": "0.770↓",
-        "time": "07-23 08:31"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "一球",
-        "away_water": "0.940",
-        "time": "02-06 16:43"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
         "home_water": "0.990↑",
         "handicap": "半球/一球降",
-        "away_water": "0.850↓",
-        "time": "07-23 10:22"
+        "away_water": "0.840↓",
+        "time": "07-23 10:25"
       },
       "init": {
         "home_water": "0.940",
         "handicap": "一球",
         "away_water": "0.890",
         "time": "02-18 02:18"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "半球/一球降",
+        "away_water": "0.760↓",
+        "time": "07-23 10:23"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "一球",
+        "away_water": "0.940",
+        "time": "02-06 16:43"
       }
     },
     {
@@ -875,8 +875,8 @@
       "live": {
         "home_water": "0.940↑",
         "handicap": "半球/一球降",
-        "away_water": "0.840",
-        "time": "07-23 10:20"
+        "away_water": "0.850↑",
+        "time": "07-23 10:25"
       },
       "init": {
         "home_water": "0.900",
