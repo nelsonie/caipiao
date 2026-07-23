@@ -24,7 +24,7 @@
       "lost": "3.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-23T03:50:08Z"
+    "fetched_at_utc": "2026-07-23T04:00:06Z"
   },
   "shuju": {
     "title": "哈马比VS安德莱赫特(2026/2027欧罗巴)-数据分析-500彩票网",
@@ -457,22 +457,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↓",
-        "handicap": "平手/半球升",
-        "away_water": "0.860↑",
-        "time": "07-23 10:41"
-      },
-      "init": {
-        "home_water": "1.020",
-        "handicap": "平手",
-        "away_water": "0.740",
-        "time": "07-19 18:49"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -486,6 +470,22 @@
         "handicap": "平手",
         "away_water": "0.730",
         "time": "07-19 17:33"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↓",
+        "handicap": "平手/半球升",
+        "away_water": "0.860↑",
+        "time": "07-23 10:41"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "平手",
+        "away_water": "0.740",
+        "time": "07-19 18:49"
       }
     },
     {
