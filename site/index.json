@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-23T09:20:13Z",
+  "last_updated_utc": "2026-07-23T09:30:08Z",
   "matches": [
     {
       "xml_id": "2040593",
@@ -45,10 +45,10 @@
       "league": "欧罗巴联赛",
       "home": "哈马比",
       "away": "安德莱赫特",
-      "spf_win": "3.90",
-      "spf_draw": "3.60",
-      "spf_lost": "1.68",
-      "spf_updated": "2026-07-23 15:44:27",
+      "spf_win": "3.65",
+      "spf_draw": "3.52",
+      "spf_lost": "1.75",
+      "spf_updated": "2026-07-23 17:26:22",
       "gameid": "1440674",
       "kickoff_cst": "2026-07-24 01:00",
       "matchnum_label": "周四203",
@@ -117,10 +117,10 @@
       "league": "欧罗巴联赛",
       "home": "圣加仑",
       "away": "本菲卡",
-      "spf_win": "3.18",
+      "spf_win": "3.25",
       "spf_draw": "3.55",
-      "spf_lost": "1.88",
-      "spf_updated": "2026-07-23 15:20:26",
+      "spf_lost": "1.85",
+      "spf_updated": "2026-07-23 17:16:06",
       "gameid": "1440677",
       "kickoff_cst": "2026-07-24 02:00",
       "matchnum_label": "周四204",
@@ -144,6 +144,24 @@
       "matchnum_label": "周五201",
       "home_team_id": "743",
       "away_team_id": "6492"
+    },
+    {
+      "xml_id": "2040611",
+      "matchnum": "5202",
+      "date": "2026-07-25",
+      "dayofweek": "星期六",
+      "league": "瑞典超级联赛",
+      "home": "韦斯特罗斯",
+      "away": "厄尔格里特",
+      "spf_win": "2.46",
+      "spf_draw": "3.55",
+      "spf_lost": "2.27",
+      "spf_updated": "2026-07-23 13:22:39",
+      "gameid": "1362719",
+      "kickoff_cst": "2026-07-25 01:00",
+      "matchnum_label": "周五202",
+      "home_team_id": "1253",
+      "away_team_id": "606"
     }
   ]
 }
