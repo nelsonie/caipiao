@@ -24,7 +24,7 @@
       "lost": "1.34",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-23T05:20:07Z"
+    "fetched_at_utc": "2026-07-23T05:30:06Z"
   },
   "shuju": {
     "title": "圣加仑VS本菲卡(2026/2027欧罗巴)-数据分析-500彩票网",
@@ -691,22 +691,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "受一球/球半降",
-        "away_water": "0.890↑",
-        "time": "07-23 13:15"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "受一球",
-        "away_water": "0.860",
-        "time": "07-19 18:32"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -720,6 +704,22 @@
         "handicap": "受一球/球半",
         "away_water": "0.870",
         "time": "07-18 20:38"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "受一球/球半降",
+        "away_water": "0.890↑",
+        "time": "07-23 13:15"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "受一球",
+        "away_water": "0.860",
+        "time": "07-19 18:32"
       }
     },
     {
