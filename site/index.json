@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-23T16:40:13Z",
+  "last_updated_utc": "2026-07-23T16:50:13Z",
   "matches": [
     {
       "xml_id": "2040593",
@@ -108,42 +108,6 @@
       "matchnum_label": "周四207",
       "home_team_id": "1295",
       "away_team_id": "2504"
-    },
-    {
-      "xml_id": "2040603",
-      "matchnum": "4204",
-      "date": "2026-07-24",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "圣加仑",
-      "away": "本菲卡",
-      "spf_win": "3.35",
-      "spf_draw": "3.55",
-      "spf_lost": "1.82",
-      "spf_updated": "2026-07-23 18:24:18",
-      "gameid": "1440677",
-      "kickoff_cst": "2026-07-24 02:00",
-      "matchnum_label": "周四204",
-      "home_team_id": "500",
-      "away_team_id": "678"
-    },
-    {
-      "xml_id": "2040610",
-      "matchnum": "5201",
-      "date": "2026-07-25",
-      "dayofweek": "星期六",
-      "league": "芬兰超级联赛",
-      "home": "雅罗",
-      "away": "塞伊奈约基",
-      "spf_win": "1.74",
-      "spf_draw": "3.72",
-      "spf_lost": "3.50",
-      "spf_updated": "2026-07-23 13:22:39",
-      "gameid": "1363644",
-      "kickoff_cst": "2026-07-25 00:00",
-      "matchnum_label": "周五201",
-      "home_team_id": "743",
-      "away_team_id": "6492"
     }
   ]
 }
