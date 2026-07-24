@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-07-24T21:40:07Z'
+last_updated_utc: '2026-07-24T21:50:07Z'
 total_matches: 6
 leagues_covered:
 - 韩国职业联赛
