@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-24T06:00:08Z",
+  "last_updated_utc": "2026-07-24T06:10:11Z",
   "matches": [
     {
       "xml_id": "2040610",
@@ -72,24 +72,6 @@
       "matchnum_label": "周六202",
       "home_team_id": "1608",
       "away_team_id": "1609"
-    },
-    {
-      "xml_id": "2040623",
-      "matchnum": "7201",
-      "date": "2026-07-26",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "首尔FC",
-      "away": "蔚山现代",
-      "spf_win": "3.10",
-      "spf_draw": "3.45",
-      "spf_lost": "1.94",
-      "spf_updated": "2026-07-24 09:22:42",
-      "gameid": "1373199",
-      "kickoff_cst": "2026-07-26 18:30",
-      "matchnum_label": "周日201",
-      "home_team_id": "1606",
-      "away_team_id": "1603"
     },
     {
       "xml_id": "2040624",
