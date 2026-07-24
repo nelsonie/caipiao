@@ -24,7 +24,7 @@
       "lost": "4.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-24T09:30:08Z"
+    "fetched_at_utc": "2026-07-24T09:40:07Z"
   },
   "shuju": {
     "title": "瓦斯特拉斯VS奥尔格里特(2026瑞典超)-数据分析-500彩票网",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "一球",
-        "away_water": "0.870↓",
-        "time": "07-24 16:40"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "一球",
-        "away_water": "0.910",
-        "time": "07-18 01:34"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "一球/球半",
         "away_water": "0.770",
         "time": "07-19 17:47"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.870↑",
+        "handicap": "一球",
+        "away_water": "0.870↓",
+        "time": "07-24 16:40"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "一球",
+        "away_water": "0.910",
+        "time": "07-18 01:34"
       }
     },
     {
