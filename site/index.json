@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-25T15:50:23Z",
+  "last_updated_utc": "2026-07-25T16:00:24Z",
   "matches": [
     {
       "xml_id": "2040612",
@@ -200,6 +200,24 @@
       "away_team_id": "1044"
     },
     {
+      "xml_id": "2040623",
+      "matchnum": "7201",
+      "date": "2026-07-26",
+      "dayofweek": "星期天",
+      "league": "韩国职业联赛",
+      "home": "首尔FC",
+      "away": "蔚山现代",
+      "spf_win": "3.00",
+      "spf_draw": "3.45",
+      "spf_lost": "1.98",
+      "spf_updated": "2026-07-25 14:20:07",
+      "gameid": "1373199",
+      "kickoff_cst": "2026-07-26 18:30",
+      "matchnum_label": "周日201",
+      "home_team_id": "1606",
+      "away_team_id": "1603"
+    },
+    {
       "xml_id": "2040624",
       "matchnum": "7202",
       "date": "2026-07-26",
@@ -270,6 +288,24 @@
       "matchnum_label": "周日205",
       "home_team_id": "1764",
       "away_team_id": "852"
+    },
+    {
+      "xml_id": "2040628",
+      "matchnum": "7206",
+      "date": "2026-07-26",
+      "dayofweek": "星期天",
+      "league": "瑞典超级联赛",
+      "home": "天狼星",
+      "away": "IFK哥德堡",
+      "spf_win": "2.00",
+      "spf_draw": "3.80",
+      "spf_lost": "2.73",
+      "spf_updated": "2026-07-25 09:35:21",
+      "gameid": "1362718",
+      "kickoff_cst": "2026-07-26 20:00",
+      "matchnum_label": "周日206",
+      "home_team_id": "4067",
+      "away_team_id": "823"
     },
     {
       "xml_id": "2040629",
