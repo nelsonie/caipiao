@@ -24,7 +24,7 @@
       "lost": "1.46",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-25T14:40:08Z"
+    "fetched_at_utc": "2026-07-25T14:50:09Z"
   },
   "shuju": {
     "title": "玛丽港VSAC奥卢(2026芬超)-数据分析-500彩票网",
@@ -386,23 +386,18 @@
         "formation": null,
         "starters": [
           {
-            "number": "18",
-            "name": "亚当·斯特劳德",
-            "position": "前锋"
-          },
-          {
             "number": "7",
             "name": "亚当·拉尔森",
             "position": "前锋"
           },
           {
-            "number": "22",
-            "name": "鲁伊·蒙蒂罗",
-            "position": "前锋"
-          },
-          {
             "number": "11",
             "name": "乔纳森·斯维德伯格",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "亚当·斯特劳德",
             "position": "中场"
           },
           {
@@ -413,6 +408,11 @@
           {
             "number": "20",
             "name": "埃马纽埃尔·帕图",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "鲁伊·蒙蒂罗",
             "position": "中场"
           },
           {
@@ -448,11 +448,6 @@
             "position": "守门员"
           },
           {
-            "number": "23",
-            "name": "维克托·维德伦德",
-            "position": "中场"
-          },
-          {
             "number": "2",
             "name": "诺阿·努尔米",
             "position": "后卫"
@@ -486,6 +481,11 @@
             "number": "43",
             "name": "利奥·安德森",
             "position": "前锋"
+          },
+          {
+            "number": "23",
+            "name": "维克托·维德伦德",
+            "position": "中场"
           }
         ],
         "injured": [],
