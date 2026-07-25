@@ -24,7 +24,7 @@
       "lost": "1.46",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-25T05:50:08Z"
+    "fetched_at_utc": "2026-07-25T06:00:08Z"
   },
   "shuju": {
     "title": "玛丽港VSAC奥卢(2026芬超)-数据分析-500彩票网",
@@ -716,22 +716,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↑",
-        "handicap": "受一球",
-        "away_water": "0.960↓",
-        "time": "07-25 12:41"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "受一球",
-        "away_water": "1.020",
-        "time": "07-22 21:43"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -745,6 +729,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.710",
         "time": "07-19 16:54"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↑",
+        "handicap": "受一球",
+        "away_water": "0.960↓",
+        "time": "07-25 12:41"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "受一球",
+        "away_water": "1.020",
+        "time": "07-22 21:43"
       }
     },
     {
