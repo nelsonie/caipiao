@@ -24,14 +24,14 @@
       "lost": "5.15",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-25T13:00:13Z"
+    "fetched_at_utc": "2026-07-25T13:10:12Z"
   },
   "shuju": {
     "title": "仁川联合VS富川FC(2026K1联赛)-数据分析-500彩票网",
     "h2h_summary": "双方近 5 次交战，仁川联 3胜 1平 1负 ，进8球，失4球 ，大球2次，小球3次",
     "team_ranks": [
       "仁川联 [K1联赛7]",
-      "富川FC [K1联赛10]"
+      "富川FC [K1联赛11]"
     ],
     "h2h_rows": [
       {
@@ -717,22 +717,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.800↑",
-        "time": "07-25 18:09"
-      },
-      "init": {
-        "home_water": "1.400",
-        "handicap": "一球",
-        "away_water": "0.530",
-        "time": "07-21 23:59"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -746,6 +730,22 @@
         "handicap": "半球/一球",
         "away_water": "0.850",
         "time": "07-22 03:56"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.800↑",
+        "time": "07-25 18:09"
+      },
+      "init": {
+        "home_water": "1.400",
+        "handicap": "一球",
+        "away_water": "0.530",
+        "time": "07-21 23:59"
       }
     },
     {
