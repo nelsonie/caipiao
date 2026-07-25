@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-25T11:00:22Z",
+  "last_updated_utc": "2026-07-25T11:10:20Z",
   "matches": [
     {
       "xml_id": "2040612",
@@ -342,24 +342,6 @@
       "matchnum_label": "周日208",
       "home_team_id": "2667",
       "away_team_id": "956"
-    },
-    {
-      "xml_id": "2040631",
-      "matchnum": "7209",
-      "date": "2026-07-26",
-      "dayofweek": "星期天",
-      "league": "挪威超级联赛",
-      "home": "布兰",
-      "away": "瓦勒伦加",
-      "spf_win": "2.79",
-      "spf_draw": "3.70",
-      "spf_lost": "2.00",
-      "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1364283",
-      "kickoff_cst": "2026-07-26 20:30",
-      "matchnum_label": "周日209",
-      "home_team_id": "722",
-      "away_team_id": "1242"
     },
     {
       "xml_id": "2040632",

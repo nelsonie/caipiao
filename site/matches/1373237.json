@@ -24,7 +24,7 @@
       "lost": "2.13",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-25T11:00:07Z"
+    "fetched_at_utc": "2026-07-25T11:10:07Z"
   },
   "shuju": {
     "title": "浦项制铁VS全北现代(2026K1联赛)-数据分析-500彩票网",
@@ -517,6 +517,11 @@
             "position": "前锋"
           },
           {
+            "number": "7",
+            "name": "李洞俊",
+            "position": "前锋"
+          },
+          {
             "number": "97",
             "name": "金镇圭",
             "position": "中场"
@@ -524,11 +529,6 @@
           {
             "number": "8",
             "name": "奥伯丹·阿利昂索·德利马",
-            "position": "中场"
-          },
-          {
-            "number": "7",
-            "name": "李洞俊",
             "position": "中场"
           },
           {
@@ -564,6 +564,11 @@
         ],
         "subs": [
           {
+            "number": "24",
+            "name": "李相明",
+            "position": "后卫"
+          },
+          {
             "number": "6",
             "name": "孟成雄",
             "position": "中场"
@@ -577,11 +582,6 @@
             "number": "3",
             "name": "延济运",
             "position": "后卫"
-          },
-          {
-            "number": "1",
-            "name": "李周贤",
-            "position": "守门员"
           },
           {
             "number": "73",
@@ -604,9 +604,9 @@
             "position": "前锋"
           },
           {
-            "number": "24",
-            "name": "李相明",
-            "position": "后卫"
+            "number": "1",
+            "name": "李周贤",
+            "position": "守门员"
           }
         ],
         "injured": [],
