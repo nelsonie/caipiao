@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-25T23:10:18Z",
+  "last_updated_utc": "2026-07-25T23:20:17Z",
   "matches": [
     {
       "xml_id": "2040621",
@@ -128,42 +128,6 @@
       "away_team_id": "823"
     },
     {
-      "xml_id": "2040629",
-      "matchnum": "7207",
-      "date": "2026-07-26",
-      "dayofweek": "星期天",
-      "league": "芬兰超级联赛",
-      "home": "国际图尔库",
-      "away": "赫尔辛基火花",
-      "spf_win": "3.15",
-      "spf_draw": "3.50",
-      "spf_lost": "1.90",
-      "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1363668",
-      "kickoff_cst": "2026-07-26 20:00",
-      "matchnum_label": "周日207",
-      "home_team_id": "1327",
-      "away_team_id": "2687"
-    },
-    {
-      "xml_id": "2040630",
-      "matchnum": "7208",
-      "date": "2026-07-26",
-      "dayofweek": "星期天",
-      "league": "芬兰超级联赛",
-      "home": "坦佩雷山猫",
-      "away": "拉赫蒂",
-      "spf_win": "4.30",
-      "spf_draw": "3.80",
-      "spf_lost": "1.58",
-      "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1363662",
-      "kickoff_cst": "2026-07-26 20:00",
-      "matchnum_label": "周日208",
-      "home_team_id": "2667",
-      "away_team_id": "956"
-    },
-    {
       "xml_id": "2040631",
       "matchnum": "7209",
       "date": "2026-07-26",
@@ -254,22 +218,22 @@
       "away_team_id": "861"
     },
     {
-      "xml_id": "2040636",
-      "matchnum": "7214",
+      "xml_id": "2040637",
+      "matchnum": "7215",
       "date": "2026-07-26",
       "dayofweek": "星期天",
       "league": "挪威超级联赛",
-      "home": "奥斯陆KFUM",
-      "away": "莫尔德",
-      "spf_win": "1.57",
-      "spf_draw": "3.95",
-      "spf_lost": "4.20",
+      "home": "桑纳菲尤尔",
+      "away": "博德闪耀",
+      "spf_win": "3.18",
+      "spf_draw": "4.10",
+      "spf_lost": "1.75",
       "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1364324",
+      "gameid": "1364319",
       "kickoff_cst": "2026-07-26 23:00",
-      "matchnum_label": "周日214",
-      "home_team_id": "5263",
-      "away_team_id": "1109"
+      "matchnum_label": "周日215",
+      "home_team_id": "3470",
+      "away_team_id": "703"
     },
     {
       "xml_id": "2040638",
@@ -288,6 +252,24 @@
       "matchnum_label": "周日216",
       "home_team_id": "546",
       "away_team_id": "1259"
+    },
+    {
+      "xml_id": "2040639",
+      "matchnum": "7217",
+      "date": "2026-07-27",
+      "dayofweek": "星期一",
+      "league": "巴西甲级联赛",
+      "home": "弗拉门戈",
+      "away": "圣保罗",
+      "spf_win": "2.25",
+      "spf_draw": "3.30",
+      "spf_lost": "2.62",
+      "spf_updated": "2026-07-25 09:35:21",
+      "gameid": "1362327",
+      "kickoff_cst": "2026-07-27 05:30",
+      "matchnum_label": "周日217",
+      "home_team_id": "1577",
+      "away_team_id": "1385"
     },
     {
       "xml_id": "2040640",
