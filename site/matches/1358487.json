@@ -24,7 +24,7 @@
       "lost": "3.52",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-25T05:20:12Z"
+    "fetched_at_utc": "2026-07-25T05:30:11Z"
   },
   "shuju": {
     "title": "圣何塞地震VS洛杉矶银河(2026美职联)-数据分析-500彩票网",
@@ -718,22 +718,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↑",
-        "handicap": "半球降",
-        "away_water": "0.990↓",
-        "time": "07-25 10:54"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "半球/一球",
-        "away_water": "1.030",
-        "time": "07-20 00:22"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -747,6 +731,22 @@
         "handicap": "一球",
         "away_water": "0.750",
         "time": "07-19 21:22"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↑",
+        "handicap": "半球降",
+        "away_water": "0.990↓",
+        "time": "07-25 10:54"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "半球/一球",
+        "away_water": "1.030",
+        "time": "07-20 00:22"
       }
     },
     {
