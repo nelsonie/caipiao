@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-25T22:20:20Z",
+  "last_updated_utc": "2026-07-25T22:30:14Z",
   "matches": [
     {
       "xml_id": "2040621",
@@ -92,6 +92,24 @@
       "away_team_id": "3410"
     },
     {
+      "xml_id": "2040626",
+      "matchnum": "7204",
+      "date": "2026-07-26",
+      "dayofweek": "星期天",
+      "league": "韩国职业联赛",
+      "home": "安养FC",
+      "away": "江原FC",
+      "spf_win": "1.74",
+      "spf_draw": "3.30",
+      "spf_lost": "4.00",
+      "spf_updated": "2026-07-24 09:22:42",
+      "gameid": "1373202",
+      "kickoff_cst": "2026-07-26 18:30",
+      "matchnum_label": "周日204",
+      "home_team_id": "4544",
+      "away_team_id": "5739"
+    },
+    {
       "xml_id": "2040627",
       "matchnum": "7205",
       "date": "2026-07-26",
@@ -108,6 +126,60 @@
       "matchnum_label": "周日205",
       "home_team_id": "1764",
       "away_team_id": "852"
+    },
+    {
+      "xml_id": "2040628",
+      "matchnum": "7206",
+      "date": "2026-07-26",
+      "dayofweek": "星期天",
+      "league": "瑞典超级联赛",
+      "home": "天狼星",
+      "away": "IFK哥德堡",
+      "spf_win": "2.00",
+      "spf_draw": "3.80",
+      "spf_lost": "2.73",
+      "spf_updated": "2026-07-25 09:35:21",
+      "gameid": "1362718",
+      "kickoff_cst": "2026-07-26 20:00",
+      "matchnum_label": "周日206",
+      "home_team_id": "4067",
+      "away_team_id": "823"
+    },
+    {
+      "xml_id": "2040629",
+      "matchnum": "7207",
+      "date": "2026-07-26",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "国际图尔库",
+      "away": "赫尔辛基火花",
+      "spf_win": "3.15",
+      "spf_draw": "3.50",
+      "spf_lost": "1.90",
+      "spf_updated": "2026-07-25 09:35:21",
+      "gameid": "1363668",
+      "kickoff_cst": "2026-07-26 20:00",
+      "matchnum_label": "周日207",
+      "home_team_id": "1327",
+      "away_team_id": "2687"
+    },
+    {
+      "xml_id": "2040630",
+      "matchnum": "7208",
+      "date": "2026-07-26",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "坦佩雷山猫",
+      "away": "拉赫蒂",
+      "spf_win": "4.30",
+      "spf_draw": "3.80",
+      "spf_lost": "1.58",
+      "spf_updated": "2026-07-25 09:35:21",
+      "gameid": "1363662",
+      "kickoff_cst": "2026-07-26 20:00",
+      "matchnum_label": "周日208",
+      "home_team_id": "2667",
+      "away_team_id": "956"
     },
     {
       "xml_id": "2040631",
