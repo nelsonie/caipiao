@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-25T10:00:27Z",
+  "last_updated_utc": "2026-07-25T10:10:20Z",
   "matches": [
     {
       "xml_id": "2040612",
@@ -153,10 +153,10 @@
       "league": "巴西甲级联赛",
       "home": "桑托斯",
       "away": "沙佩科恩斯",
-      "spf_win": "1.89",
-      "spf_draw": "3.60",
-      "spf_lost": "3.10",
-      "spf_updated": "2026-07-25 14:04:29",
+      "spf_win": "1.86",
+      "spf_draw": "3.55",
+      "spf_lost": "3.22",
+      "spf_updated": "2026-07-25 18:04:34",
       "gameid": "1362299",
       "kickoff_cst": "2026-07-26 05:30",
       "matchnum_label": "周六209",
@@ -452,6 +452,24 @@
       "away_team_id": "1109"
     },
     {
+      "xml_id": "2040637",
+      "matchnum": "7215",
+      "date": "2026-07-26",
+      "dayofweek": "星期天",
+      "league": "挪威超级联赛",
+      "home": "桑纳菲尤尔",
+      "away": "博德闪耀",
+      "spf_win": "3.18",
+      "spf_draw": "4.10",
+      "spf_lost": "1.75",
+      "spf_updated": "2026-07-25 09:35:21",
+      "gameid": "1364319",
+      "kickoff_cst": "2026-07-26 23:00",
+      "matchnum_label": "周日215",
+      "home_team_id": "3470",
+      "away_team_id": "703"
+    },
+    {
       "xml_id": "2040638",
       "matchnum": "7216",
       "date": "2026-07-27",
@@ -504,6 +522,42 @@
       "matchnum_label": "周日218",
       "home_team_id": "1580",
       "away_team_id": "1578"
+    },
+    {
+      "xml_id": "2040641",
+      "matchnum": "1201",
+      "date": "2026-07-28",
+      "dayofweek": "星期二",
+      "league": "瑞典超级联赛",
+      "home": "赫根",
+      "away": "AIK索尔纳",
+      "spf_win": "3.16",
+      "spf_draw": "3.75",
+      "spf_lost": "1.83",
+      "spf_updated": "2026-07-25 09:35:21",
+      "gameid": "1362715",
+      "kickoff_cst": "2026-07-28 01:00",
+      "matchnum_label": "周一201",
+      "home_team_id": "850",
+      "away_team_id": "215"
+    },
+    {
+      "xml_id": "2040642",
+      "matchnum": "1202",
+      "date": "2026-07-28",
+      "dayofweek": "星期二",
+      "league": "挪威超级联赛",
+      "home": "罗森博格",
+      "away": "腓特烈斯塔",
+      "spf_win": "2.84",
+      "spf_draw": "3.40",
+      "spf_lost": "2.07",
+      "spf_updated": "2026-07-25 16:48:45",
+      "gameid": "1364238",
+      "kickoff_cst": "2026-07-28 01:00",
+      "matchnum_label": "周一202",
+      "home_team_id": "1035",
+      "away_team_id": "1362"
     }
   ]
 }
