@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-25T06:30:20Z",
+  "last_updated_utc": "2026-07-25T06:40:21Z",
   "matches": [
     {
       "xml_id": "2040612",
@@ -135,10 +135,10 @@
       "league": "巴西甲级联赛",
       "home": "巴拉纳竞技",
       "away": "巴西国际",
-      "spf_win": "4.00",
-      "spf_draw": "3.25",
-      "spf_lost": "1.75",
-      "spf_updated": "2026-07-25 13:19:59",
+      "spf_win": "3.95",
+      "spf_draw": "3.18",
+      "spf_lost": "1.78",
+      "spf_updated": "2026-07-25 14:36:11",
       "gameid": "1362370",
       "kickoff_cst": "2026-07-26 05:30",
       "matchnum_label": "周六208",
@@ -360,6 +360,24 @@
       "matchnum_label": "周日209",
       "home_team_id": "722",
       "away_team_id": "1242"
+    },
+    {
+      "xml_id": "2040632",
+      "matchnum": "7210",
+      "date": "2026-07-26",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "赫尔辛基",
+      "away": "TPS图尔库",
+      "spf_win": "2.64",
+      "spf_draw": "3.60",
+      "spf_lost": "2.12",
+      "spf_updated": "2026-07-25 09:35:21",
+      "gameid": "1363674",
+      "kickoff_cst": "2026-07-26 22:00",
+      "matchnum_label": "周日210",
+      "home_team_id": "866",
+      "away_team_id": "415"
     },
     {
       "xml_id": "2040633",
