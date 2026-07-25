@@ -24,7 +24,7 @@
       "lost": "1.46",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-25T14:00:09Z"
+    "fetched_at_utc": "2026-07-25T14:10:09Z"
   },
   "shuju": {
     "title": "玛丽港VSAC奥卢(2026芬超)-数据分析-500彩票网",
@@ -495,19 +495,19 @@
         "formation": null,
         "starters": [
           {
-            "number": "27",
-            "name": "埃利亚斯·卡利奥",
-            "position": "前锋"
-          },
-          {
             "number": "11",
             "name": "拉米尼·哥扎利",
             "position": "前锋"
           },
           {
-            "number": "22",
-            "name": "图马斯·考库亚",
+            "number": "7",
+            "name": "拉斯穆斯·卡尔亚莱宁",
             "position": "前锋"
+          },
+          {
+            "number": "27",
+            "name": "埃利亚斯·卡利奥",
+            "position": "中场"
           },
           {
             "number": "21",
@@ -515,13 +515,13 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "拉斯穆斯·卡尔亚莱宁",
+            "number": "8",
+            "name": "马蒂亚斯·奥亚拉",
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "马蒂亚斯·奥亚拉",
+            "number": "22",
+            "name": "图马斯·考库亚",
             "position": "中场"
           },
           {
@@ -552,11 +552,6 @@
         ],
         "subs": [
           {
-            "number": "32",
-            "name": "阿卜杜拉耶·科内",
-            "position": "前锋"
-          },
-          {
             "number": "40",
             "name": "杰西·科尔霍宁",
             "position": "中场"
@@ -585,6 +580,11 @@
             "number": "99",
             "name": "尼克拉斯·舒尔茨",
             "position": "守门员"
+          },
+          {
+            "number": "32",
+            "name": "阿卜杜拉耶·科内",
+            "position": "前锋"
           }
         ],
         "injured": [],
