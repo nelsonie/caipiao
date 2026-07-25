@@ -24,7 +24,7 @@
       "lost": "4.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-25T09:10:17Z"
+    "fetched_at_utc": "2026-07-25T09:20:20Z"
   },
   "shuju": {
     "title": "萨尔普斯堡VS汉坎(2026挪超)-数据分析-500彩票网",
@@ -713,29 +713,13 @@
         "home_water": "0.960↑",
         "handicap": "半球/一球升",
         "away_water": "0.880↓",
-        "time": "07-25 11:12"
+        "time": "07-25 17:08"
       },
       "init": {
         "home_water": "0.860",
         "handicap": "半球",
         "away_water": "0.910",
         "time": "07-21 16:12"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "半球/一球",
-        "away_water": "0.810↑",
-        "time": "07-23 09:49"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "半球/一球",
-        "away_water": "0.690",
-        "time": "07-19 16:00"
       }
     },
     {
@@ -752,6 +736,22 @@
         "handicap": "半球",
         "away_water": "0.980",
         "time": "07-20 08:25"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "半球/一球",
+        "away_water": "0.810↑",
+        "time": "07-23 09:49"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "半球/一球",
+        "away_water": "0.690",
+        "time": "07-19 16:00"
       }
     },
     {
@@ -1884,7 +1884,7 @@
     {
       "cid": "18",
       "company": "必*",
-      "time": "2026-07-25 16:09:16",
+      "time": "2026-07-25 17:06:32",
       "odds": {
         "live": [
           "1.83",
