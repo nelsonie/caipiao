@@ -24,7 +24,7 @@
       "lost": "2.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-25T17:30:08Z"
+    "fetched_at_utc": "2026-07-25T17:40:08Z"
   },
   "shuju": {
     "title": "圣地亚哥VS达拉斯FC(2026美职联)-数据分析-500彩票网",
@@ -666,10 +666,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.040↑",
+        "home_water": "1.050↑",
         "handicap": "平手/半球",
-        "away_water": "0.840↓",
-        "time": "07-26 00:41"
+        "away_water": "0.830↓",
+        "time": "07-26 01:28"
       },
       "init": {
         "home_water": "0.900",
@@ -695,22 +695,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "平手/半球",
-        "away_water": "0.830↓",
-        "time": "07-26 01:03"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手/半球",
-        "away_water": "1.010",
-        "time": "07-20 00:39"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -724,6 +708,22 @@
         "handicap": "平手/半球",
         "away_water": "1.020",
         "time": "07-19 21:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "平手/半球",
+        "away_water": "0.830↓",
+        "time": "07-26 01:03"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手/半球",
+        "away_water": "1.010",
+        "time": "07-20 00:39"
       }
     },
     {
@@ -1039,7 +1039,7 @@
     {
       "cid": "3",
       "company": "B*****",
-      "time": "2026-07-26 01:06:36",
+      "time": "2026-07-26 01:25:22",
       "odds": {
         "live": [
           "2.05",
