@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-25T04:30:22Z",
+  "last_updated_utc": "2026-07-25T04:40:21Z",
   "matches": [
     {
       "xml_id": "2040612",
@@ -99,10 +99,10 @@
       "league": "芬兰超级联赛",
       "home": "库奥皮奥",
       "away": "瓦萨",
-      "spf_win": "4.15",
-      "spf_draw": "3.65",
-      "spf_lost": "1.63",
-      "spf_updated": "2026-07-25 09:35:21",
+      "spf_win": "4.00",
+      "spf_draw": "3.56",
+      "spf_lost": "1.67",
+      "spf_updated": "2026-07-25 12:27:36",
       "gameid": "1363656",
       "kickoff_cst": "2026-07-25 22:00",
       "matchnum_label": "周六206",
@@ -252,6 +252,24 @@
       "matchnum_label": "周日203",
       "home_team_id": "6477",
       "away_team_id": "3410"
+    },
+    {
+      "xml_id": "2040626",
+      "matchnum": "7204",
+      "date": "2026-07-26",
+      "dayofweek": "星期天",
+      "league": "韩国职业联赛",
+      "home": "安养FC",
+      "away": "江原FC",
+      "spf_win": "1.74",
+      "spf_draw": "3.30",
+      "spf_lost": "4.00",
+      "spf_updated": "2026-07-24 09:22:42",
+      "gameid": "1373202",
+      "kickoff_cst": "2026-07-26 18:30",
+      "matchnum_label": "周日204",
+      "home_team_id": "4544",
+      "away_team_id": "5739"
     },
     {
       "xml_id": "2040627",
