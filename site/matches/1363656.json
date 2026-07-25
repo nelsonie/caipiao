@@ -24,7 +24,7 @@
       "lost": "3.05",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-25T15:20:09Z"
+    "fetched_at_utc": "2026-07-25T15:30:11Z"
   },
   "shuju": {
     "title": "库普斯VS瓦萨(2026芬超)-数据分析-500彩票网",
@@ -501,13 +501,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "27",
-            "name": "凯文·库瓦西-贝尼森",
+            "number": "20",
+            "name": "泽维尔·奥迪安博",
             "position": "前锋"
           },
           {
-            "number": "20",
-            "name": "泽维尔·奥迪安博",
+            "number": "27",
+            "name": "凯文·库瓦西-贝尼森",
             "position": "前锋"
           },
           {
@@ -521,13 +521,13 @@
             "position": "中场"
           },
           {
-            "number": "13",
-            "name": "奥卢瓦塞伊·奥贡尼伊",
+            "number": "2",
+            "name": "拉萨纳·曼纳尔",
             "position": "中场"
           },
           {
-            "number": "2",
-            "name": "拉萨纳·曼纳尔",
+            "number": "13",
+            "name": "奥卢瓦塞伊·奥贡尼伊",
             "position": "中场"
           },
           {
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "平手/半球降",
-        "away_water": "0.870↑",
-        "time": "07-25 22:00"
-      },
-      "init": {
-        "home_water": "1.300",
-        "handicap": "一球",
-        "away_water": "0.600",
-        "time": "07-19 00:18"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "半球",
         "away_water": "0.900",
         "time": "07-22 22:19"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "平手/半球降",
+        "away_water": "0.870↑",
+        "time": "07-25 22:00"
+      },
+      "init": {
+        "home_water": "1.300",
+        "handicap": "一球",
+        "away_water": "0.600",
+        "time": "07-19 00:18"
       }
     },
     {
