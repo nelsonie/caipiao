@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-25T18:30:19Z",
+  "last_updated_utc": "2026-07-25T18:40:22Z",
   "matches": [
     {
       "xml_id": "2040619",
@@ -92,24 +92,6 @@
       "away_team_id": "1603"
     },
     {
-      "xml_id": "2040624",
-      "matchnum": "7202",
-      "date": "2026-07-26",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "仁川联",
-      "away": "富川FC",
-      "spf_win": "3.07",
-      "spf_draw": "3.05",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-07-24 21:41:46",
-      "gameid": "1373236",
-      "kickoff_cst": "2026-07-26 18:30",
-      "matchnum_label": "周日202",
-      "home_team_id": "1612",
-      "away_team_id": "7075"
-    },
-    {
       "xml_id": "2040625",
       "matchnum": "7203",
       "date": "2026-07-26",
@@ -126,24 +108,6 @@
       "matchnum_label": "周日203",
       "home_team_id": "6477",
       "away_team_id": "3410"
-    },
-    {
-      "xml_id": "2040626",
-      "matchnum": "7204",
-      "date": "2026-07-26",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "安养FC",
-      "away": "江原FC",
-      "spf_win": "1.74",
-      "spf_draw": "3.30",
-      "spf_lost": "4.00",
-      "spf_updated": "2026-07-24 09:22:42",
-      "gameid": "1373202",
-      "kickoff_cst": "2026-07-26 18:30",
-      "matchnum_label": "周日204",
-      "home_team_id": "4544",
-      "away_team_id": "5739"
     },
     {
       "xml_id": "2040627",
@@ -200,40 +164,22 @@
       "away_team_id": "2687"
     },
     {
-      "xml_id": "2040631",
-      "matchnum": "7209",
-      "date": "2026-07-26",
-      "dayofweek": "星期天",
-      "league": "挪威超级联赛",
-      "home": "布兰",
-      "away": "瓦勒伦加",
-      "spf_win": "2.79",
-      "spf_draw": "3.70",
-      "spf_lost": "2.00",
-      "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1364283",
-      "kickoff_cst": "2026-07-26 20:30",
-      "matchnum_label": "周日209",
-      "home_team_id": "722",
-      "away_team_id": "1242"
-    },
-    {
-      "xml_id": "2040632",
-      "matchnum": "7210",
+      "xml_id": "2040630",
+      "matchnum": "7208",
       "date": "2026-07-26",
       "dayofweek": "星期天",
       "league": "芬兰超级联赛",
-      "home": "赫尔辛基",
-      "away": "TPS图尔库",
-      "spf_win": "2.64",
-      "spf_draw": "3.60",
-      "spf_lost": "2.12",
+      "home": "坦佩雷山猫",
+      "away": "拉赫蒂",
+      "spf_win": "4.30",
+      "spf_draw": "3.80",
+      "spf_lost": "1.58",
       "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1363674",
-      "kickoff_cst": "2026-07-26 22:00",
-      "matchnum_label": "周日210",
-      "home_team_id": "866",
-      "away_team_id": "415"
+      "gameid": "1363662",
+      "kickoff_cst": "2026-07-26 20:00",
+      "matchnum_label": "周日208",
+      "home_team_id": "2667",
+      "away_team_id": "956"
     },
     {
       "xml_id": "2040633",
@@ -308,24 +254,6 @@
       "away_team_id": "1109"
     },
     {
-      "xml_id": "2040637",
-      "matchnum": "7215",
-      "date": "2026-07-26",
-      "dayofweek": "星期天",
-      "league": "挪威超级联赛",
-      "home": "桑纳菲尤尔",
-      "away": "博德闪耀",
-      "spf_win": "3.18",
-      "spf_draw": "4.10",
-      "spf_lost": "1.75",
-      "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1364319",
-      "kickoff_cst": "2026-07-26 23:00",
-      "matchnum_label": "周日215",
-      "home_team_id": "3470",
-      "away_team_id": "703"
-    },
-    {
       "xml_id": "2040638",
       "matchnum": "7216",
       "date": "2026-07-27",
@@ -378,24 +306,6 @@
       "matchnum_label": "周一201",
       "home_team_id": "850",
       "away_team_id": "215"
-    },
-    {
-      "xml_id": "2040642",
-      "matchnum": "1202",
-      "date": "2026-07-28",
-      "dayofweek": "星期二",
-      "league": "挪威超级联赛",
-      "home": "罗森博格",
-      "away": "腓特烈斯塔",
-      "spf_win": "2.84",
-      "spf_draw": "3.40",
-      "spf_lost": "2.07",
-      "spf_updated": "2026-07-25 16:48:45",
-      "gameid": "1364238",
-      "kickoff_cst": "2026-07-28 01:00",
-      "matchnum_label": "周一202",
-      "home_team_id": "1035",
-      "away_team_id": "1362"
     }
   ]
 }

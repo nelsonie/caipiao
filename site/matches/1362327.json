@@ -24,7 +24,7 @@
       "lost": "6.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-25T18:30:15Z"
+    "fetched_at_utc": "2026-07-25T18:40:18Z"
   },
   "shuju": {
     "title": "弗拉门戈VS圣保罗(2026巴甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "一球",
-        "away_water": "1.040↑",
-        "time": "07-24 12:08"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "一球",
-        "away_water": "0.960",
-        "time": "07-19 05:55"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "一球",
         "away_water": "0.920",
         "time": "07-17 22:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "一球",
+        "away_water": "1.040↑",
+        "time": "07-24 12:08"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "一球",
+        "away_water": "0.960",
+        "time": "07-19 05:55"
       }
     },
     {
