@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-25T16:10:19Z",
+  "last_updated_utc": "2026-07-25T16:20:23Z",
   "matches": [
     {
       "xml_id": "2040619",
@@ -74,24 +74,6 @@
       "away_team_id": "1044"
     },
     {
-      "xml_id": "2040623",
-      "matchnum": "7201",
-      "date": "2026-07-26",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "首尔FC",
-      "away": "蔚山现代",
-      "spf_win": "3.00",
-      "spf_draw": "3.45",
-      "spf_lost": "1.98",
-      "spf_updated": "2026-07-25 14:20:07",
-      "gameid": "1373199",
-      "kickoff_cst": "2026-07-26 18:30",
-      "matchnum_label": "周日201",
-      "home_team_id": "1606",
-      "away_team_id": "1603"
-    },
-    {
       "xml_id": "2040624",
       "matchnum": "7202",
       "date": "2026-07-26",
@@ -126,42 +108,6 @@
       "matchnum_label": "周日203",
       "home_team_id": "6477",
       "away_team_id": "3410"
-    },
-    {
-      "xml_id": "2040627",
-      "matchnum": "7205",
-      "date": "2026-07-26",
-      "dayofweek": "星期天",
-      "league": "瑞典超级联赛",
-      "home": "布鲁马波卡纳",
-      "away": "哈马比",
-      "spf_win": "2.70",
-      "spf_draw": "3.70",
-      "spf_lost": "2.05",
-      "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1362712",
-      "kickoff_cst": "2026-07-26 20:00",
-      "matchnum_label": "周日205",
-      "home_team_id": "1764",
-      "away_team_id": "852"
-    },
-    {
-      "xml_id": "2040628",
-      "matchnum": "7206",
-      "date": "2026-07-26",
-      "dayofweek": "星期天",
-      "league": "瑞典超级联赛",
-      "home": "天狼星",
-      "away": "IFK哥德堡",
-      "spf_win": "2.00",
-      "spf_draw": "3.80",
-      "spf_lost": "2.73",
-      "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1362718",
-      "kickoff_cst": "2026-07-26 20:00",
-      "matchnum_label": "周日206",
-      "home_team_id": "4067",
-      "away_team_id": "823"
     },
     {
       "xml_id": "2040629",
@@ -218,24 +164,6 @@
       "away_team_id": "1242"
     },
     {
-      "xml_id": "2040632",
-      "matchnum": "7210",
-      "date": "2026-07-26",
-      "dayofweek": "星期天",
-      "league": "芬兰超级联赛",
-      "home": "赫尔辛基",
-      "away": "TPS图尔库",
-      "spf_win": "2.64",
-      "spf_draw": "3.60",
-      "spf_lost": "2.12",
-      "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1363674",
-      "kickoff_cst": "2026-07-26 22:00",
-      "matchnum_label": "周日210",
-      "home_team_id": "866",
-      "away_team_id": "415"
-    },
-    {
       "xml_id": "2040633",
       "matchnum": "7211",
       "date": "2026-07-26",
@@ -290,6 +218,24 @@
       "away_team_id": "861"
     },
     {
+      "xml_id": "2040636",
+      "matchnum": "7214",
+      "date": "2026-07-26",
+      "dayofweek": "星期天",
+      "league": "挪威超级联赛",
+      "home": "奥斯陆KFUM",
+      "away": "莫尔德",
+      "spf_win": "1.57",
+      "spf_draw": "3.95",
+      "spf_lost": "4.20",
+      "spf_updated": "2026-07-25 09:35:21",
+      "gameid": "1364324",
+      "kickoff_cst": "2026-07-26 23:00",
+      "matchnum_label": "周日214",
+      "home_team_id": "5263",
+      "away_team_id": "1109"
+    },
+    {
       "xml_id": "2040637",
       "matchnum": "7215",
       "date": "2026-07-26",
@@ -308,24 +254,6 @@
       "away_team_id": "703"
     },
     {
-      "xml_id": "2040638",
-      "matchnum": "7216",
-      "date": "2026-07-27",
-      "dayofweek": "星期一",
-      "league": "挪威超级联赛",
-      "home": "奥勒松",
-      "away": "维京",
-      "spf_win": "2.45",
-      "spf_draw": "3.75",
-      "spf_lost": "2.20",
-      "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1364309",
-      "kickoff_cst": "2026-07-27 01:15",
-      "matchnum_label": "周日216",
-      "home_team_id": "546",
-      "away_team_id": "1259"
-    },
-    {
       "xml_id": "2040639",
       "matchnum": "7217",
       "date": "2026-07-27",
@@ -342,24 +270,6 @@
       "matchnum_label": "周日217",
       "home_team_id": "1577",
       "away_team_id": "1385"
-    },
-    {
-      "xml_id": "2040640",
-      "matchnum": "7218",
-      "date": "2026-07-27",
-      "dayofweek": "星期一",
-      "league": "巴西甲级联赛",
-      "home": "格雷米奥",
-      "away": "弗鲁米嫩塞",
-      "spf_win": "1.42",
-      "spf_draw": "3.90",
-      "spf_lost": "5.95",
-      "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1362371",
-      "kickoff_cst": "2026-07-27 05:30",
-      "matchnum_label": "周日218",
-      "home_team_id": "1580",
-      "away_team_id": "1578"
     },
     {
       "xml_id": "2040641",
