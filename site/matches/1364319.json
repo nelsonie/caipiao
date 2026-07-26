@@ -24,7 +24,7 @@
       "lost": "1.24",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-26T15:10:15Z"
+    "fetched_at_utc": "2026-07-26T15:20:14Z"
   },
   "shuju": {
     "title": "桑纳菲尤尔VS博德闪耀(2026挪超)-数据分析-500彩票网",
@@ -433,13 +433,13 @@
             "position": "后卫"
           },
           {
-            "number": "13",
-            "name": "霍尔滕",
+            "number": "44",
+            "name": "山德·兰布里克斯",
             "position": "后卫"
           },
           {
-            "number": "44",
-            "name": "山德·兰布里克斯",
+            "number": "13",
+            "name": "霍尔滕",
             "position": "后卫"
           },
           {
@@ -537,13 +537,13 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "乔斯坦·冈德森",
+            "number": "25",
+            "name": "埃塞克·迪亚巴维克·马塔",
             "position": "后卫"
           },
           {
-            "number": "25",
-            "name": "埃塞克·迪亚巴维克·马塔",
+            "number": "6",
+            "name": "乔斯坦·冈德森",
             "position": "后卫"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↓",
-        "handicap": "受球半降",
-        "away_water": "0.860↑",
-        "time": "07-26 23:00"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "受一球/球半",
-        "away_water": "0.850",
-        "time": "07-20 08:30"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受球半",
         "away_water": "0.980",
         "time": "07-19 16:00"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↓",
+        "handicap": "受球半降",
+        "away_water": "0.860↑",
+        "time": "07-26 23:00"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "受一球/球半",
+        "away_water": "0.850",
+        "time": "07-20 08:30"
       }
     },
     {

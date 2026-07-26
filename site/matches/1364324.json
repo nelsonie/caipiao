@@ -24,7 +24,7 @@
       "lost": "2.09",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-26T15:10:15Z"
+    "fetched_at_utc": "2026-07-26T15:20:14Z"
   },
   "shuju": {
     "title": "KFUM奥斯陆VS莫尔德(2026挪超)-数据分析-500彩票网",
@@ -398,19 +398,19 @@
         "formation": null,
         "starters": [
           {
-            "number": "10",
-            "name": "比拉尔·内吉",
-            "position": "前锋"
-          },
-          {
             "number": "28",
             "name": "马格纳斯·格罗登",
             "position": "前锋"
           },
           {
+            "number": "10",
+            "name": "比拉尔·内吉",
+            "position": "中场"
+          },
+          {
             "number": "18",
             "name": "拉斯穆斯·埃根·文吉",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "16",
@@ -418,13 +418,13 @@
             "position": "中场"
           },
           {
-            "number": "27",
-            "name": "托雷·安娜·索拉斯",
+            "number": "7",
+            "name": "鲁宾·拉斯治",
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "鲁宾·拉斯治",
+            "number": "27",
+            "name": "托雷·安娜·索拉斯",
             "position": "中场"
           },
           {
@@ -448,21 +448,31 @@
             "position": "后卫"
           },
           {
-            "number": "1",
-            "name": "埃米尔·奥德高",
+            "number": "25",
+            "name": "哈瓦尔·詹森",
             "position": "守门员"
           }
         ],
         "subs": [
           {
+            "number": "9",
+            "name": "马丁·坦根·文乔尔",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "马格努斯.埃克雷姆",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "特奥多·伯格·哈特维克",
+            "position": "中场"
+          },
+          {
             "number": "42",
             "name": "大卫·希克森",
             "position": "前锋"
-          },
-          {
-            "number": "25",
-            "name": "哈瓦尔·詹森",
-            "position": "守门员"
           },
           {
             "number": "22",
@@ -485,19 +495,9 @@
             "position": "后卫"
           },
           {
-            "number": "26",
-            "name": "约阿希姆·普伦特-埃克博",
-            "position": "后卫"
-          },
-          {
-            "number": "30",
-            "name": "马尔科·武科维奇",
-            "position": "中场"
-          },
-          {
-            "number": "17",
-            "name": "特奥多·伯格·哈特维克",
-            "position": "中场"
+            "number": "31",
+            "name": "达里安·韦伯·明克",
+            "position": "守门员"
           }
         ],
         "injured": [],
@@ -517,18 +517,18 @@
             "position": "中场"
           },
           {
-            "number": "23",
-            "name": "桑德尔·格拉纳斯",
-            "position": "中场"
-          },
-          {
             "number": "5",
             "name": "埃里克·赫斯塔德",
             "position": "中场"
           },
           {
-            "number": "15",
-            "name": "韦乔恩·霍夫",
+            "number": "23",
+            "name": "桑德尔·格拉纳斯",
+            "position": "中场"
+          },
+          {
+            "number": "30",
+            "name": "丹尼尔·达加",
             "position": "中场"
           },
           {
@@ -542,8 +542,8 @@
             "position": "后卫"
           },
           {
-            "number": "6",
-            "name": "艾萨克·赫尔斯塔德·阿蒙森",
+            "number": "33",
+            "name": "伯克·里萨",
             "position": "后卫"
           },
           {
@@ -564,28 +564,8 @@
         ],
         "subs": [
           {
-            "number": "28",
-            "name": "维克多·本德",
-            "position": "中场"
-          },
-          {
-            "number": "30",
-            "name": "丹尼尔·达加",
-            "position": "中场"
-          },
-          {
-            "number": "29",
-            "name": "塞迪拿·穆罕默德·迪奥普",
-            "position": "前锋"
-          },
-          {
-            "number": "20",
-            "name": "马德斯·英格德",
-            "position": "中场"
-          },
-          {
-            "number": "19",
-            "name": "艾瑞克·豪根",
+            "number": "25",
+            "name": "马丁·林内斯",
             "position": "后卫"
           },
           {
@@ -599,13 +579,28 @@
             "position": "前锋"
           },
           {
-            "number": "33",
-            "name": "伯克·里萨",
+            "number": "19",
+            "name": "艾瑞克·豪根",
             "position": "后卫"
+          },
+          {
+            "number": "20",
+            "name": "马德斯·英格德",
+            "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "维克多·本德",
+            "position": "中场"
           },
           {
             "number": "11",
             "name": "卡莱布·塞里",
+            "position": "前锋"
+          },
+          {
+            "number": "29",
+            "name": "塞迪拿·穆罕默德·迪奥普",
             "position": "前锋"
           }
         ],
