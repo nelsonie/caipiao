@@ -24,7 +24,7 @@
       "lost": "1.24",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-26T00:40:14Z"
+    "fetched_at_utc": "2026-07-26T00:50:15Z"
   },
   "shuju": {
     "title": "桑纳菲尤尔VS博德闪耀(2026挪超)-数据分析-500彩票网",
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "受球半降",
-        "away_water": "0.910↑",
-        "time": "07-26 06:06"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "受一球/球半",
-        "away_water": "0.850",
-        "time": "07-20 08:30"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "受球半",
         "away_water": "0.980",
         "time": "07-19 16:00"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "受球半降",
+        "away_water": "0.910↑",
+        "time": "07-26 06:06"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "受一球/球半",
+        "away_water": "0.850",
+        "time": "07-20 08:30"
       }
     },
     {
