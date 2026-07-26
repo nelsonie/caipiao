@@ -24,7 +24,7 @@
       "lost": "2.82",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-26T13:00:10Z"
+    "fetched_at_utc": "2026-07-26T13:10:12Z"
   },
   "shuju": {
     "title": "埃尔维斯VS拉赫蒂(2026芬超)-数据分析-500彩票网",
@@ -392,19 +392,19 @@
         "formation": null,
         "starters": [
           {
-            "number": "17",
-            "name": "斯坦尼斯拉夫·巴拉诺夫",
-            "position": "前锋"
-          },
-          {
             "number": "9",
             "name": "蒂姆·海托宁",
             "position": "前锋"
           },
           {
+            "number": "6",
+            "name": "扬德罗·拉普",
+            "position": "中场"
+          },
+          {
             "number": "30",
             "name": "贾德尔·坎加",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "14",
@@ -417,8 +417,8 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "扬德罗·拉普",
+            "number": "13",
+            "name": "卡尔·沃利乌斯",
             "position": "中场"
           },
           {
@@ -437,9 +437,9 @@
             "position": "后卫"
           },
           {
-            "number": "13",
-            "name": "卡尔·沃利乌斯",
-            "position": "后卫"
+            "number": "17",
+            "name": "斯坦尼斯拉夫·巴拉诺夫",
+            "position": "中场"
           },
           {
             "number": "12",
@@ -449,23 +449,28 @@
         ],
         "subs": [
           {
+            "number": "15",
+            "name": "劳里·阿拉-米利迈基",
+            "position": "中场"
+          },
+          {
             "number": "19",
             "name": "古杜斯·班巴",
             "position": "后卫"
           },
           {
-            "number": "28",
-            "name": "杰西·基洛",
+            "number": "1",
+            "name": "奥佐·维塔宁",
+            "position": "守门员"
+          },
+          {
+            "number": "20",
+            "name": "奥托·蒂蒂宁",
             "position": "中场"
           },
           {
-            "number": "16",
-            "name": "塔图·米图宁",
-            "position": "后卫"
-          },
-          {
-            "number": "4",
-            "name": "奥利弗·彼得森",
+            "number": "25",
+            "name": "塞巴斯蒂安·苏瓦纳",
             "position": "后卫"
           },
           {
@@ -474,23 +479,18 @@
             "position": "前锋"
           },
           {
-            "number": "25",
-            "name": "塞巴斯蒂安·苏瓦纳",
+            "number": "4",
+            "name": "奥利弗·彼得森",
             "position": "后卫"
           },
           {
-            "number": "20",
-            "name": "奥托·蒂蒂宁",
-            "position": "中场"
+            "number": "16",
+            "name": "塔图·米图宁",
+            "position": "后卫"
           },
           {
-            "number": "1",
-            "name": "奥佐·维塔宁",
-            "position": "守门员"
-          },
-          {
-            "number": "15",
-            "name": "劳里·阿拉-米利迈基",
+            "number": "28",
+            "name": "杰西·基洛",
             "position": "中场"
           }
         ],
@@ -558,9 +558,9 @@
         ],
         "subs": [
           {
-            "number": "9",
-            "name": "亚伦·林德霍姆",
-            "position": "中场"
+            "number": "25",
+            "name": "托皮亚斯·因基宁",
+            "position": "后卫"
           },
           {
             "number": "28",
@@ -568,14 +568,14 @@
             "position": "中场"
           },
           {
-            "number": "25",
-            "name": "托皮亚斯·因基宁",
-            "position": "后卫"
+            "number": "9",
+            "name": "亚伦·林德霍姆",
+            "position": "中场"
           },
           {
-            "number": "7",
-            "name": "丹尼尔·海基宁",
-            "position": "中场"
+            "number": "6",
+            "name": "瓦伊诺·韦科宁",
+            "position": "后卫"
           },
           {
             "number": "12",
@@ -593,9 +593,9 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "瓦伊诺·韦科宁",
-            "position": "后卫"
+            "number": "7",
+            "name": "丹尼尔·海基宁",
+            "position": "中场"
           },
           {
             "number": "20",
@@ -706,22 +706,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "平手",
-        "away_water": "0.900↓",
-        "time": "07-26 19:57"
-      },
-      "init": {
-        "home_water": "0.580",
-        "handicap": "平手",
-        "away_water": "1.180",
-        "time": "07-21 00:23"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -735,6 +719,22 @@
         "handicap": "平手/半球",
         "away_water": "0.860",
         "time": "07-23 20:22"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "平手",
+        "away_water": "0.900↓",
+        "time": "07-26 19:57"
+      },
+      "init": {
+        "home_water": "0.580",
+        "handicap": "平手",
+        "away_water": "1.180",
+        "time": "07-21 00:23"
       }
     },
     {
