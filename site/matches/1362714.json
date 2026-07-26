@@ -24,7 +24,7 @@
       "lost": "8.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-26T14:40:13Z"
+    "fetched_at_utc": "2026-07-26T14:50:18Z"
   },
   "shuju": {
     "title": "哥德堡盖斯VS哈尔姆(2026瑞典超)-数据分析-500彩票网",
@@ -399,7 +399,7 @@
         "starters": [
           {
             "number": "14",
-            "name": "乔根森·西蒙",
+            "name": "西蒙·吉尔克·约根森",
             "position": "前锋"
           },
           {
@@ -409,8 +409,8 @@
           },
           {
             "number": "16",
-            "name": "马克斯·安德森",
-            "position": "中场"
+            "name": "梅尔文·安德森",
+            "position": "前锋"
           },
           {
             "number": "17",
@@ -428,8 +428,8 @@
             "position": "中场"
           },
           {
-            "number": "12",
-            "name": "罗宾·弗雷",
+            "number": "5",
+            "name": "罗宾·温丁·托马森",
             "position": "后卫"
           },
           {
@@ -438,14 +438,14 @@
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "罗宾·温丁·托马森",
+            "number": "12",
+            "name": "罗宾·弗雷",
             "position": "后卫"
           },
           {
             "number": "34",
             "name": "丹尼斯·科兰德",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "1",
@@ -463,11 +463,6 @@
             "number": "22",
             "name": "阿内斯·卡尔达克利亚",
             "position": "后卫"
-          },
-          {
-            "number": "2",
-            "name": "马泰奥·德布里安",
-            "position": "中场"
           },
           {
             "number": "25",
@@ -497,6 +492,11 @@
           {
             "number": "6",
             "name": "奥古斯特·旺伯格",
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "马泰奥·德布里安",
             "position": "后卫"
           }
         ],
@@ -534,7 +534,7 @@
           {
             "number": "19",
             "name": "马文·伊拉里",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "24",
@@ -554,7 +554,7 @@
           {
             "number": "17",
             "name": "安德烈·博曼",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "1",
@@ -564,9 +564,14 @@
         ],
         "subs": [
           {
-            "number": "35",
-            "name": "A.维赫德",
-            "position": "未知"
+            "number": "25",
+            "name": "亚历山大·尼尔森",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "奥利弗·卡普西马利斯",
+            "position": "前锋"
           },
           {
             "number": "4",
@@ -576,12 +581,22 @@
           {
             "number": "18",
             "name": "马尔特·佩尔松",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "21",
             "name": "乔尔·尼尔森",
-            "position": "前锋"
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "古斯塔夫·弗里贝格",
+            "position": "后卫"
+          },
+          {
+            "number": "35",
+            "name": "亚当·维赫德",
+            "position": "守门员"
           },
           {
             "number": "8",
@@ -591,21 +606,6 @@
           {
             "number": "20",
             "name": "奥措·利马塔",
-            "position": "中场"
-          },
-          {
-            "number": "22",
-            "name": "奥利弗·卡普西马利斯",
-            "position": "未知"
-          },
-          {
-            "number": "15",
-            "name": "古斯塔夫·弗里贝格",
-            "position": "后卫"
-          },
-          {
-            "number": "25",
-            "name": "亚历山大·尼尔森",
             "position": "中场"
           }
         ],
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "一球降",
-        "away_water": "0.960↑",
-        "time": "07-26 22:28"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "球半",
-        "away_water": "0.820",
-        "time": "07-19 16:59"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "球半",
         "away_water": "0.850",
         "time": "07-20 22:51"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "一球降",
+        "away_water": "0.960↑",
+        "time": "07-26 22:28"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "球半",
+        "away_water": "0.820",
+        "time": "07-19 16:59"
       }
     },
     {
