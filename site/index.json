@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-26T03:20:15Z",
+  "last_updated_utc": "2026-07-26T03:30:15Z",
   "matches": [
     {
       "xml_id": "2040623",
@@ -99,10 +99,10 @@
       "league": "瑞典超级联赛",
       "home": "天狼星",
       "away": "IFK哥德堡",
-      "spf_win": "2.00",
-      "spf_draw": "3.80",
-      "spf_lost": "2.73",
-      "spf_updated": "2026-07-25 09:35:21",
+      "spf_win": "1.97",
+      "spf_draw": "3.83",
+      "spf_lost": "2.77",
+      "spf_updated": "2026-07-26 11:23:11",
       "gameid": "1362718",
       "kickoff_cst": "2026-07-26 20:00",
       "matchnum_label": "周日206",
@@ -198,6 +198,24 @@
       "matchnum_label": "周日211",
       "home_team_id": "288",
       "away_team_id": "848"
+    },
+    {
+      "xml_id": "2040634",
+      "matchnum": "7212",
+      "date": "2026-07-26",
+      "dayofweek": "星期天",
+      "league": "瑞典超级联赛",
+      "home": "马尔默",
+      "away": "埃尔夫斯堡",
+      "spf_win": "3.25",
+      "spf_draw": "3.65",
+      "spf_lost": "1.83",
+      "spf_updated": "2026-07-25 09:35:21",
+      "gameid": "1362717",
+      "kickoff_cst": "2026-07-26 22:30",
+      "matchnum_label": "周日212",
+      "home_team_id": "1051",
+      "away_team_id": "563"
     },
     {
       "xml_id": "2040635",
