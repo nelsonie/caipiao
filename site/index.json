@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-26T05:20:17Z",
+  "last_updated_utc": "2026-07-26T05:30:14Z",
   "matches": [
     {
       "xml_id": "2040623",
@@ -342,6 +342,24 @@
       "matchnum_label": "周一201",
       "home_team_id": "850",
       "away_team_id": "215"
+    },
+    {
+      "xml_id": "2040642",
+      "matchnum": "1202",
+      "date": "2026-07-28",
+      "dayofweek": "星期二",
+      "league": "挪威超级联赛",
+      "home": "罗森博格",
+      "away": "腓特烈斯塔",
+      "spf_win": "2.84",
+      "spf_draw": "3.40",
+      "spf_lost": "2.07",
+      "spf_updated": "2026-07-25 16:48:45",
+      "gameid": "1364238",
+      "kickoff_cst": "2026-07-28 01:00",
+      "matchnum_label": "周一202",
+      "home_team_id": "1035",
+      "away_team_id": "1362"
     }
   ]
 }
