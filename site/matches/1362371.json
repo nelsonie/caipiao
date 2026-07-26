@@ -8,8 +8,8 @@
     "away": "弗鲁米嫩塞",
     "kickoff_cst": "2026-07-27 05:30",
     "spf": {
-      "win": "1.42",
-      "draw": "3.90",
+      "win": "1.44",
+      "draw": "3.75",
       "lost": "5.95"
     },
     "asia_main": {
@@ -24,7 +24,7 @@
       "lost": "2.46",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-26T07:10:15Z"
+    "fetched_at_utc": "2026-07-26T07:20:15Z"
   },
   "shuju": {
     "title": "格雷米奥VS弗鲁米嫩塞(2026巴甲)-数据分析-500彩票网",
@@ -697,10 +697,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.970↑",
         "handicap": "平手",
-        "away_water": "0.900↓",
-        "time": "07-26 01:23"
+        "away_water": "0.870↓",
+        "time": "07-26 15:06"
       },
       "init": {
         "home_water": "0.870",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "平手",
-        "away_water": "0.900↓",
-        "time": "07-25 18:21"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "平手",
-        "away_water": "0.920",
-        "time": "07-18 00:06"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "平手",
         "away_water": "0.940",
         "time": "07-19 06:00"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "平手",
+        "away_water": "0.900↓",
+        "time": "07-25 18:21"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "平手",
+        "away_water": "0.920",
+        "time": "07-18 00:06"
       }
     },
     {
