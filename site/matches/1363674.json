@@ -24,7 +24,7 @@
       "lost": "4.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-26T14:10:12Z"
+    "fetched_at_utc": "2026-07-26T14:20:14Z"
   },
   "shuju": {
     "title": "赫尔辛基VSTPS土尔库(2026芬超)-数据分析-500彩票网",
@@ -407,8 +407,8 @@
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "卢卡斯·林曼",
+            "number": "8",
+            "name": "皮里·门图",
             "position": "中场"
           },
           {
@@ -417,8 +417,8 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "皮里·门图",
+            "number": "10",
+            "name": "卢卡斯·林曼",
             "position": "中场"
           },
           {
@@ -427,8 +427,8 @@
             "position": "后卫"
           },
           {
-            "number": "28",
-            "name": "米斯卡·伊利托尔瓦",
+            "number": "3",
+            "name": "提尔·西索科",
             "position": "后卫"
           },
           {
@@ -437,8 +437,8 @@
             "position": "后卫"
           },
           {
-            "number": "3",
-            "name": "提尔·西索科",
+            "number": "28",
+            "name": "米斯卡·伊利托尔瓦",
             "position": "后卫"
           },
           {
@@ -508,16 +508,6 @@
           {
             "number": "29",
             "name": "阿尔比恩·穆扎奇",
-            "position": "前锋"
-          },
-          {
-            "number": "20",
-            "name": "米卡·考皮拉",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "保罗·朱万提尼",
             "position": "中场"
           },
           {
@@ -541,13 +531,23 @@
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "阿基姆·赛里宁",
+            "number": "20",
+            "name": "米卡·考皮拉",
             "position": "后卫"
           },
           {
             "number": "15",
             "name": "查理曼·阿宗尼托德",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "阿基姆·赛里宁",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "保罗·朱万提尼",
             "position": "后卫"
           },
           {
@@ -722,22 +722,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↑",
-        "handicap": "球半升",
-        "away_water": "0.840↓",
-        "time": "07-26 22:00"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "一球",
-        "away_water": "1.000",
-        "time": "07-23 22:07"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -751,6 +735,22 @@
         "handicap": "一球",
         "away_water": "0.970",
         "time": "07-19 23:05"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↑",
+        "handicap": "球半升",
+        "away_water": "0.840↓",
+        "time": "07-26 22:00"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "一球",
+        "away_water": "1.000",
+        "time": "07-23 22:07"
       }
     },
     {
