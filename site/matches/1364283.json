@@ -24,7 +24,7 @@
       "lost": "3.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-26T15:00:11Z"
+    "fetched_at_utc": "2026-07-26T15:10:13Z"
   },
   "shuju": {
     "title": "布兰VS瓦勒伦加(2026挪超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.050↑",
-        "handicap": "一球升",
-        "away_water": "0.810↓",
-        "time": "07-26 20:30"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "半球/一球",
-        "away_water": "0.930",
-        "time": "07-21 08:18"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球",
         "away_water": "0.750",
         "time": "07-19 15:53"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.050↑",
+        "handicap": "一球升",
+        "away_water": "0.810↓",
+        "time": "07-26 20:30"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "半球/一球",
+        "away_water": "0.930",
+        "time": "07-21 08:18"
       }
     },
     {
