@@ -24,7 +24,7 @@
       "lost": "4.15",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-26T10:40:08Z"
+    "fetched_at_utc": "2026-07-26T10:50:08Z"
   },
   "shuju": {
     "title": "首尔FCVS蔚山现代(2026K1联赛)-数据分析-500彩票网",
@@ -410,7 +410,7 @@
           {
             "number": "34",
             "name": "宋旻揆",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "6",
@@ -465,11 +465,6 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "郑贤宇",
-            "position": "前锋"
-          },
-          {
             "number": "31",
             "name": "姜贤茂",
             "position": "守门员"
@@ -482,7 +477,7 @@
           {
             "number": "27",
             "name": "文宣民",
-            "position": "后卫"
+            "position": "前锋"
           },
           {
             "number": "40",
@@ -498,6 +493,11 @@
             "number": "42",
             "name": "孙承范",
             "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "郑贤宇",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -514,22 +514,22 @@
           {
             "number": "10",
             "name": "李东炅",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "14",
             "name": "李镇贤",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "26",
             "name": "赵玹泽",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "55",
             "name": "托马斯·伍德·科特",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "24",
@@ -539,7 +539,7 @@
           {
             "number": "33",
             "name": "张时荣",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "19",
@@ -579,11 +579,6 @@
             "position": "前锋"
           },
           {
-            "number": "22",
-            "name": "李敏赫",
-            "position": "中场"
-          },
-          {
             "number": "28",
             "name": "?在翊",
             "position": "后卫"
@@ -601,6 +596,11 @@
           {
             "number": "6",
             "name": "达里詹·博贾尼奇",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "李民赫",
             "position": "中场"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.990↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.830↑",
-        "time": "07-26 18:29"
-      },
-      "init": {
-        "home_water": "1.400",
-        "handicap": "一球",
-        "away_water": "0.530",
-        "time": "07-22 00:03"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球/一球",
         "away_water": "0.790",
         "time": "07-22 07:18"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.990↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.830↑",
+        "time": "07-26 18:29"
+      },
+      "init": {
+        "home_water": "1.400",
+        "handicap": "一球",
+        "away_water": "0.530",
+        "time": "07-22 00:03"
       }
     },
     {
