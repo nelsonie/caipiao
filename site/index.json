@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-26T07:00:16Z",
+  "last_updated_utc": "2026-07-26T07:10:18Z",
   "matches": [
     {
       "xml_id": "2040623",
@@ -136,9 +136,9 @@
       "home": "坦佩雷山猫",
       "away": "拉赫蒂",
       "spf_win": "4.30",
-      "spf_draw": "3.80",
-      "spf_lost": "1.58",
-      "spf_updated": "2026-07-25 09:35:21",
+      "spf_draw": "3.91",
+      "spf_lost": "1.56",
+      "spf_updated": "2026-07-26 14:57:58",
       "gameid": "1363662",
       "kickoff_cst": "2026-07-26 20:00",
       "matchnum_label": "周日208",
@@ -290,24 +290,6 @@
       "away_team_id": "1259"
     },
     {
-      "xml_id": "2040639",
-      "matchnum": "7217",
-      "date": "2026-07-27",
-      "dayofweek": "星期一",
-      "league": "巴西甲级联赛",
-      "home": "弗拉门戈",
-      "away": "圣保罗",
-      "spf_win": "2.15",
-      "spf_draw": "3.35",
-      "spf_lost": "2.73",
-      "spf_updated": "2026-07-26 14:32:59",
-      "gameid": "1362327",
-      "kickoff_cst": "2026-07-27 05:30",
-      "matchnum_label": "周日217",
-      "home_team_id": "1577",
-      "away_team_id": "1385"
-    },
-    {
       "xml_id": "2040640",
       "matchnum": "7218",
       "date": "2026-07-27",
@@ -324,24 +306,6 @@
       "matchnum_label": "周日218",
       "home_team_id": "1580",
       "away_team_id": "1578"
-    },
-    {
-      "xml_id": "2040641",
-      "matchnum": "1201",
-      "date": "2026-07-28",
-      "dayofweek": "星期二",
-      "league": "瑞典超级联赛",
-      "home": "赫根",
-      "away": "AIK索尔纳",
-      "spf_win": "3.16",
-      "spf_draw": "3.75",
-      "spf_lost": "1.83",
-      "spf_updated": "2026-07-25 09:35:21",
-      "gameid": "1362715",
-      "kickoff_cst": "2026-07-28 01:00",
-      "matchnum_label": "周一201",
-      "home_team_id": "850",
-      "away_team_id": "215"
     },
     {
       "xml_id": "2040642",
