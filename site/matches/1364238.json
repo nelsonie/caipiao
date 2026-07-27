@@ -24,7 +24,7 @@
       "lost": "4.70",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-27T13:40:05Z"
+    "fetched_at_utc": "2026-07-27T13:50:06Z"
   },
   "shuju": {
     "title": "罗森博格VS腓特烈斯塔(2026挪超)-数据分析-500彩票网",
@@ -687,10 +687,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.970",
+        "home_water": "0.950↓",
         "handicap": "一球升",
-        "away_water": "0.820",
-        "time": "07-27 18:46"
+        "away_water": "0.850↑",
+        "time": "07-27 21:46"
       },
       "init": {
         "home_water": "0.970",
@@ -748,22 +748,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "一球升",
-        "away_water": "0.890↑",
-        "time": "07-27 21:20"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "半球/一球",
-        "away_water": "0.780",
-        "time": "07-19 16:29"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -777,6 +761,22 @@
         "handicap": "半球/一球",
         "away_water": "0.930",
         "time": "07-22 08:23"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "一球升",
+        "away_water": "0.890↑",
+        "time": "07-27 21:20"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "半球/一球",
+        "away_water": "0.780",
+        "time": "07-19 16:29"
       }
     },
     {
@@ -815,10 +815,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.890↓",
+        "home_water": "0.880↓",
         "handicap": "一球升",
-        "away_water": "1.030↑",
-        "time": "07-27 21:33"
+        "away_water": "1.040↑",
+        "time": "07-27 21:36"
       },
       "init": {
         "home_water": "0.920",
