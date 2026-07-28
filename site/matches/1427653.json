@@ -24,7 +24,7 @@
       "lost": "3.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-28T11:30:08Z"
+    "fetched_at_utc": "2026-07-28T11:40:07Z"
   },
   "shuju": {
     "title": "莱克普斯纳VS奥胡斯(2026/2027欧冠)-数据分析-500彩票网",
@@ -678,22 +678,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "半球/一球",
-        "away_water": "0.890↑",
-        "time": "07-28 17:50"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "半球/一球",
-        "away_water": "0.830",
-        "time": "07-24 18:43"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -707,6 +691,22 @@
         "handicap": "平手",
         "away_water": "1.770",
         "time": "07-24 16:24"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "半球/一球",
+        "away_water": "0.890↑",
+        "time": "07-28 17:50"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "半球/一球",
+        "away_water": "0.830",
+        "time": "07-24 18:43"
       }
     },
     {
