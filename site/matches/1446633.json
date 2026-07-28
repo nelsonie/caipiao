@@ -24,7 +24,7 @@
       "lost": "2.27",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-28T15:10:08Z"
+    "fetched_at_utc": "2026-07-28T15:20:06Z"
   },
   "shuju": {
     "title": "库普斯VS沙巴巴库(2026/2027欧冠)-数据分析-500彩票网",
@@ -372,13 +372,13 @@
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "卡西姆·亚当斯",
+            "number": "28",
+            "name": "布拉希玛·马加萨",
             "position": "后卫"
           },
           {
-            "number": "28",
-            "name": "布拉希玛·马加萨",
+            "number": "4",
+            "name": "卡西姆·亚当斯",
             "position": "后卫"
           },
           {
@@ -434,14 +434,14 @@
             "position": "后卫"
           },
           {
-            "number": "13",
-            "name": "尼洛·库贾萨洛",
-            "position": "中场"
-          },
-          {
             "number": "19",
             "name": "卡尔文·卡布耶",
             "position": "前锋"
+          },
+          {
+            "number": "30",
+            "name": "里卡多·阿劳约",
+            "position": "后卫"
           },
           {
             "number": "3",
@@ -449,9 +449,9 @@
             "position": "中场"
           },
           {
-            "number": "30",
-            "name": "里卡多·阿劳约",
-            "position": "后卫"
+            "number": "13",
+            "name": "尼洛·库贾萨洛",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -461,23 +461,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "21",
-            "name": "韦利科·西米奇",
-            "position": "前锋"
-          },
-          {
             "number": "20",
             "name": "乔伊·兰斯·麦克尔斯",
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "卡西姆·帕里斯",
-            "position": "前锋"
-          },
-          {
-            "number": "13",
-            "name": "伊万·莱宾吉卡",
+            "number": "21",
+            "name": "韦利科·西米奇",
             "position": "中场"
           },
           {
@@ -486,8 +476,18 @@
             "position": "中场"
           },
           {
+            "number": "11",
+            "name": "卡西姆·帕里斯",
+            "position": "中场"
+          },
+          {
             "number": "7",
             "name": "乌玛利·拉赫莫纳利耶夫",
+            "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "伊万·莱宾吉卡",
             "position": "中场"
           },
           {
@@ -518,16 +518,6 @@
         ],
         "subs": [
           {
-            "number": "4",
-            "name": "亚丁·麦卡锡",
-            "position": "后卫"
-          },
-          {
-            "number": "94",
-            "name": "拉万·米尔扎马多夫",
-            "position": "守门员"
-          },
-          {
             "number": "17",
             "name": "特勒·穆塔利莫夫",
             "position": "后卫"
@@ -553,6 +543,16 @@
             "position": "中场"
           },
           {
+            "number": "4",
+            "name": "亚丁·麦卡锡",
+            "position": "后卫"
+          },
+          {
+            "number": "99",
+            "name": "帕特里克·姆比纳",
+            "position": "前锋"
+          },
+          {
             "number": "23",
             "name": "尤尼斯·拉查布",
             "position": "前锋"
@@ -563,9 +563,9 @@
             "position": "中场"
           },
           {
-            "number": "99",
-            "name": "帕特里克·姆比纳",
-            "position": "前锋"
+            "number": "94",
+            "name": "拉万·米尔扎马多夫",
+            "position": "守门员"
           },
           {
             "number": "88",
