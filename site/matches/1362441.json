@@ -24,7 +24,7 @@
       "lost": "1.84",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-29T17:50:08Z"
+    "fetched_at_utc": "2026-07-29T18:00:07Z"
   },
   "shuju": {
     "title": "维多利亚VS帕尔梅拉斯(2026巴甲)-数据分析-500彩票网",
@@ -753,22 +753,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800",
-        "handicap": "受半球",
-        "away_water": "1.050↑",
-        "time": "07-30 01:41"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "受半球",
-        "away_water": "1.040",
-        "time": "07-24 03:08"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -782,6 +766,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.660",
         "time": "07-23 23:47"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800",
+        "handicap": "受半球",
+        "away_water": "1.050↑",
+        "time": "07-30 01:41"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "受半球",
+        "away_water": "1.040",
+        "time": "07-24 03:08"
       }
     },
     {
