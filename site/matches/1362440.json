@@ -8,8 +8,8 @@
     "away": "里莫",
     "kickoff_cst": "2026-07-30 06:30",
     "spf": {
-      "win": "2.93",
-      "draw": "3.10",
+      "win": "3.02",
+      "draw": "3.00",
       "lost": "2.15"
     },
     "asia_main": {
@@ -24,7 +24,7 @@
       "lost": "4.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-29T10:20:07Z"
+    "fetched_at_utc": "2026-07-29T10:30:06Z"
   },
   "shuju": {
     "title": "米拉索尔VS瑞模贝雷(2026巴甲)-数据分析-500彩票网",
@@ -703,22 +703,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890↓",
-        "handicap": "半球/一球",
-        "away_water": "0.940↑",
-        "time": "07-29 16:59"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "半球/一球",
-        "away_water": "0.890",
-        "time": "07-24 01:50"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -732,6 +716,22 @@
         "handicap": "半球/一球",
         "away_water": "0.820",
         "time": "07-23 23:28"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.890↓",
+        "handicap": "半球/一球",
+        "away_water": "0.940↑",
+        "time": "07-29 16:59"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "半球/一球",
+        "away_water": "0.890",
+        "time": "07-24 01:50"
       }
     },
     {
