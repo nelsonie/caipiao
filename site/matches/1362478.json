@@ -8,8 +8,8 @@
     "away": "巴伊亚",
     "kickoff_cst": "2026-07-30 08:30",
     "spf": {
-      "win": "3.12",
-      "draw": "3.25",
+      "win": "3.21",
+      "draw": "3.15",
       "lost": "2.00"
     },
     "asia_main": {
@@ -24,7 +24,7 @@
       "lost": "4.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-29T07:50:07Z"
+    "fetched_at_utc": "2026-07-29T08:00:10Z"
   },
   "shuju": {
     "title": "弗鲁米嫩塞VS巴伊亚(2026巴甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "半球/一球",
-        "away_water": "0.710↓",
-        "time": "07-29 12:22"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "半球/一球",
-        "away_water": "0.740",
-        "time": "07-23 23:22"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "半球/一球",
         "away_water": "0.800",
         "time": "07-24 02:12"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "半球/一球",
+        "away_water": "0.710↓",
+        "time": "07-29 12:22"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "半球/一球",
+        "away_water": "0.740",
+        "time": "07-23 23:22"
       }
     },
     {
