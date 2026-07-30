@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-30T08:10:12Z",
+  "last_updated_utc": "2026-07-30T08:20:10Z",
   "matches": [
     {
       "xml_id": "2040651",
@@ -63,10 +63,10 @@
       "league": "欧罗巴联赛",
       "home": "费伦茨瓦罗斯",
       "away": "特温特",
-      "spf_win": "1.61",
-      "spf_draw": "3.83",
-      "spf_lost": "4.05",
-      "spf_updated": "2026-07-30 12:21:20",
+      "spf_win": "1.58",
+      "spf_draw": "3.92",
+      "spf_lost": "4.15",
+      "spf_updated": "2026-07-30 16:08:06",
       "gameid": "1449801",
       "kickoff_cst": "2026-07-31 02:30",
       "matchnum_label": "周四004",
@@ -144,6 +144,24 @@
       "matchnum_label": "周五002",
       "home_team_id": "703",
       "away_team_id": "1009"
+    },
+    {
+      "xml_id": "2040669",
+      "matchnum": "5003",
+      "date": "2026-08-01",
+      "dayofweek": "星期六",
+      "league": "美国职业大联盟",
+      "home": "纽约城",
+      "away": "多伦多FC",
+      "spf_win": "2.75",
+      "spf_draw": "3.43",
+      "spf_lost": "2.11",
+      "spf_updated": "2026-07-30 12:54:02",
+      "gameid": "1358493",
+      "kickoff_cst": "2026-08-01 07:30",
+      "matchnum_label": "周五003",
+      "home_team_id": "7947",
+      "away_team_id": "6563"
     }
   ]
 }
