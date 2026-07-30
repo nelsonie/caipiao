@@ -24,7 +24,7 @@
       "lost": "1.95",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-30T07:30:07Z"
+    "fetched_at_utc": "2026-07-30T07:40:07Z"
   },
   "shuju": {
     "title": "费伦茨瓦罗斯VS特温特(2026/2027欧罗巴)-数据分析-500彩票网",
@@ -663,22 +663,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "受平手/半球",
-        "away_water": "1.010↓",
-        "time": "07-30 14:05"
-      },
-      "init": {
-        "home_water": "0.740",
-        "handicap": "受平手/半球",
-        "away_water": "1.020",
-        "time": "07-25 19:32"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -692,6 +676,22 @@
         "handicap": "平手",
         "away_water": "0.860",
         "time": "07-24 23:19"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "受平手/半球",
+        "away_water": "1.010↓",
+        "time": "07-30 14:05"
+      },
+      "init": {
+        "home_water": "0.740",
+        "handicap": "受平手/半球",
+        "away_water": "1.020",
+        "time": "07-25 19:32"
       }
     },
     {
