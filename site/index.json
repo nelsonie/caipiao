@@ -1,42 +1,6 @@
 {
-  "last_updated_utc": "2026-07-30T18:30:07Z",
+  "last_updated_utc": "2026-07-30T18:40:11Z",
   "matches": [
-    {
-      "xml_id": "2040653",
-      "matchnum": "4003",
-      "date": "2026-07-31",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "安德莱赫特",
-      "away": "哈马比",
-      "spf_win": "4.55",
-      "spf_draw": "3.85",
-      "spf_lost": "1.54",
-      "spf_updated": "2026-07-30 21:39:20",
-      "gameid": "1440675",
-      "kickoff_cst": "2026-07-31 02:30",
-      "matchnum_label": "周四003",
-      "home_team_id": "590",
-      "away_team_id": "852"
-    },
-    {
-      "xml_id": "2040654",
-      "matchnum": "4004",
-      "date": "2026-07-31",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "费伦茨瓦罗斯",
-      "away": "特温特",
-      "spf_win": "1.50",
-      "spf_draw": "4.10",
-      "spf_lost": "4.56",
-      "spf_updated": "2026-07-30 20:55:23",
-      "gameid": "1449801",
-      "kickoff_cst": "2026-07-31 02:30",
-      "matchnum_label": "周四004",
-      "home_team_id": "798",
-      "away_team_id": "1231"
-    },
     {
       "xml_id": "2040655",
       "matchnum": "4005",
@@ -56,24 +20,6 @@
       "away_team_id": "500"
     },
     {
-      "xml_id": "2040656",
-      "matchnum": "4006",
-      "date": "2026-07-31",
-      "dayofweek": "星期五",
-      "league": "巴西甲级联赛",
-      "home": "科林蒂安",
-      "away": "巴拉纳竞技",
-      "spf_win": "4.06",
-      "spf_draw": "3.05",
-      "spf_lost": "1.80",
-      "spf_updated": "2026-07-30 21:27:22",
-      "gameid": "1362433",
-      "kickoff_cst": "2026-07-31 06:30",
-      "matchnum_label": "周四006",
-      "home_team_id": "1572",
-      "away_team_id": "1571"
-    },
-    {
       "xml_id": "2040667",
       "matchnum": "5001",
       "date": "2026-08-01",
@@ -90,42 +36,6 @@
       "matchnum_label": "周五001",
       "home_team_id": "1242",
       "away_team_id": "861"
-    },
-    {
-      "xml_id": "2040668",
-      "matchnum": "5002",
-      "date": "2026-08-01",
-      "dayofweek": "星期六",
-      "league": "挪威超级联赛",
-      "home": "博德闪耀",
-      "away": "利勒斯特罗姆",
-      "spf_win": "2.45",
-      "spf_draw": "4.20",
-      "spf_lost": "2.07",
-      "spf_updated": "2026-07-30 12:54:02",
-      "gameid": "1364248",
-      "kickoff_cst": "2026-08-01 03:00",
-      "matchnum_label": "周五002",
-      "home_team_id": "703",
-      "away_team_id": "1009"
-    },
-    {
-      "xml_id": "2040669",
-      "matchnum": "5003",
-      "date": "2026-08-01",
-      "dayofweek": "星期六",
-      "league": "美国职业大联盟",
-      "home": "纽约城",
-      "away": "多伦多FC",
-      "spf_win": "2.70",
-      "spf_draw": "3.38",
-      "spf_lost": "2.16",
-      "spf_updated": "2026-07-30 20:44:35",
-      "gameid": "1358493",
-      "kickoff_cst": "2026-08-01 07:30",
-      "matchnum_label": "周五003",
-      "home_team_id": "7947",
-      "away_team_id": "6563"
     }
   ]
 }
