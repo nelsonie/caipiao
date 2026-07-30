@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-30T07:40:08Z",
+  "last_updated_utc": "2026-07-30T07:50:14Z",
   "matches": [
     {
       "xml_id": "2040651",
@@ -90,24 +90,6 @@
       "matchnum_label": "周四005",
       "home_team_id": "678",
       "away_team_id": "500"
-    },
-    {
-      "xml_id": "2040656",
-      "matchnum": "4006",
-      "date": "2026-07-31",
-      "dayofweek": "星期五",
-      "league": "巴西甲级联赛",
-      "home": "科林蒂安",
-      "away": "巴拉纳竞技",
-      "spf_win": "3.65",
-      "spf_draw": "3.15",
-      "spf_lost": "1.86",
-      "spf_updated": "2026-07-30 14:23:23",
-      "gameid": "1362433",
-      "kickoff_cst": "2026-07-31 06:30",
-      "matchnum_label": "周四006",
-      "home_team_id": "1572",
-      "away_team_id": "1571"
     },
     {
       "xml_id": "2040667",
