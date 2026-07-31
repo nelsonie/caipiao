@@ -24,7 +24,7 @@
       "lost": "4.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-31T20:40:07Z"
+    "fetched_at_utc": "2026-07-31T20:50:07Z"
   },
   "shuju": {
     "title": "纽约城VS多伦多FC(2026美职联)-数据分析-500彩票网",
@@ -678,10 +678,10 @@
       "cid": "4",
       "company": "I**********",
       "live": {
-        "home_water": "1.050↓",
+        "home_water": "1.100",
         "handicap": "一球",
-        "away_water": "0.700↑",
-        "time": "07-28 14:46"
+        "away_water": "0.650",
+        "time": "08-01 04:39"
       },
       "init": {
         "home_water": "1.100",
@@ -697,7 +697,7 @@
         "home_water": "0.870↓",
         "handicap": "半球/一球",
         "away_water": "1.020↑",
-        "time": "08-01 04:25"
+        "time": "08-01 04:48"
       },
       "init": {
         "home_water": "0.890",
@@ -710,32 +710,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.860↑",
+        "home_water": "0.880↑",
         "handicap": "半球/一球",
-        "away_water": "0.990↓",
-        "time": "08-01 04:27"
+        "away_water": "0.980↓",
+        "time": "08-01 04:48"
       },
       "init": {
         "home_water": "0.810",
         "handicap": "半球/一球",
         "away_water": "1.010",
         "time": "07-30 05:53"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "半球/一球",
-        "away_water": "0.980↑",
-        "time": "08-01 04:31"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "半球/一球",
-        "away_water": "0.860",
-        "time": "07-26 08:02"
       }
     },
     {
@@ -755,13 +739,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "半球/一球",
+        "away_water": "0.980↑",
+        "time": "08-01 04:47"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "半球/一球",
+        "away_water": "0.860",
+        "time": "07-26 08:02"
+      }
+    },
+    {
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.890↓",
+        "home_water": "0.880↓",
         "handicap": "半球/一球降",
         "away_water": "1.020↑",
-        "time": "08-01 04:34"
+        "time": "08-01 04:46"
       },
       "init": {
         "home_water": "0.960",
@@ -774,10 +774,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.890↑",
+        "home_water": "0.910↑",
         "handicap": "半球/一球",
-        "away_water": "1.030↓",
-        "time": "08-01 04:28"
+        "away_water": "1.010↓",
+        "time": "08-01 04:47"
       },
       "init": {
         "home_water": "0.840",
@@ -790,10 +790,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.880↑",
         "handicap": "半球/一球",
-        "away_water": "1.010↓",
-        "time": "08-01 04:17"
+        "away_water": "1.040↓",
+        "time": "08-01 04:45"
       },
       "init": {
         "home_water": "0.800",
@@ -806,10 +806,10 @@
       "cid": "122",
       "company": "香***",
       "live": {
-        "home_water": "0.790",
+        "home_water": "0.770↓",
         "handicap": "半球/一球",
-        "away_water": "1.020↑",
-        "time": "08-01 00:32"
+        "away_water": "1.040↑",
+        "time": "08-01 04:43"
       },
       "init": {
         "home_water": "0.790",
@@ -822,10 +822,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.890↑",
         "handicap": "半球/一球",
-        "away_water": "1.010↑",
-        "time": "08-01 04:28"
+        "away_water": "1.030↑",
+        "time": "08-01 04:48"
       },
       "init": {
         "home_water": "0.880",
@@ -857,7 +857,7 @@
         "home_water": "0.850↓",
         "handicap": "半球/一球",
         "away_water": "1.050↑",
-        "time": "08-01 04:27"
+        "time": "08-01 04:46"
       },
       "init": {
         "home_water": "0.990",
