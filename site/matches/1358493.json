@@ -24,7 +24,7 @@
       "lost": "4.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-07-31T18:50:08Z"
+    "fetched_at_utc": "2026-07-31T19:00:07Z"
   },
   "shuju": {
     "title": "纽约城VS多伦多FC(2026美职联)-数据分析-500彩票网",
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.120↑",
-        "handicap": "一球升",
-        "away_water": "0.720↓",
-        "time": "08-01 00:17"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "半球/一球",
-        "away_water": "0.790",
-        "time": "07-26 08:04"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "半球/一球",
         "away_water": "0.860",
         "time": "07-26 08:02"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.120↑",
+        "handicap": "一球升",
+        "away_water": "0.720↓",
+        "time": "08-01 00:17"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "半球/一球",
+        "away_water": "0.790",
+        "time": "07-26 08:04"
       }
     },
     {
@@ -1067,7 +1067,7 @@
     {
       "cid": "3",
       "company": "B*****",
-      "time": "2026-08-01 02:42:11",
+      "time": "2026-08-01 02:48:09",
       "odds": {
         "live": [
           "1.67",
