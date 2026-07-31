@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-31T05:50:10Z",
+  "last_updated_utc": "2026-07-31T06:00:13Z",
   "matches": [
     {
       "xml_id": "2040667",
@@ -144,24 +144,6 @@
       "matchnum_label": "周日002",
       "home_team_id": "3410",
       "away_team_id": "1612"
-    },
-    {
-      "xml_id": "2040690",
-      "matchnum": "7003",
-      "date": "2026-08-02",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "大田市民",
-      "away": "光州FC",
-      "spf_win": "2.36",
-      "spf_draw": "3.25",
-      "spf_lost": "2.51",
-      "spf_updated": "2026-07-31 09:27:27",
-      "gameid": "1373170",
-      "kickoff_cst": "2026-08-02 18:30",
-      "matchnum_label": "周日003",
-      "home_team_id": "1611",
-      "away_team_id": "6477"
     }
   ]
 }
