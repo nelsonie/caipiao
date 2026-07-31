@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-07-31T11:50:10Z'
+last_updated_utc: '2026-07-31T12:00:12Z'
 total_matches: 9
 leagues_covered:
 - 挪威超级联赛
