@@ -24,7 +24,7 @@
       "lost": "6.10",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-01T18:50:25Z"
+    "fetched_at_utc": "2026-08-01T19:00:22Z"
   },
   "shuju": {
     "title": "桑托斯VS瑞模贝雷(2026巴西杯)-数据分析-500彩票网",
@@ -703,22 +703,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890↑",
-        "handicap": "一球升",
-        "away_water": "0.900↓",
-        "time": "08-02 02:30"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "半球/一球",
-        "away_water": "0.910",
-        "time": "07-19 04:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -732,6 +716,22 @@
         "handicap": "半球/一球",
         "away_water": "0.840",
         "time": "06-23 14:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.890↑",
+        "handicap": "一球升",
+        "away_water": "0.900↓",
+        "time": "08-02 02:30"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "半球/一球",
+        "away_water": "0.910",
+        "time": "07-19 04:05"
       }
     },
     {
