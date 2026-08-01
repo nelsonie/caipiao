@@ -24,7 +24,7 @@
       "lost": "4.90",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-01T15:20:09Z"
+    "fetched_at_utc": "2026-08-01T15:30:11Z"
   },
   "shuju": {
     "title": "拉赫蒂VS查路(2026芬超)-数据分析-500彩票网",
@@ -483,28 +483,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "22",
-            "name": "凯乌斯·哈登",
-            "position": "前锋"
-          },
-          {
-            "number": "15",
-            "name": "鲁迪·维克斯特罗姆",
-            "position": "前锋"
-          },
-          {
             "number": "11",
             "name": "赫尔曼·索格雷尔",
             "position": "前锋"
           },
           {
-            "number": "19",
-            "name": "法比安·奥斯塔加德·内斯",
-            "position": "中场"
-          },
-          {
-            "number": "13",
-            "name": "阿尔蒂·海勒玛",
+            "number": "22",
+            "name": "凯乌斯·哈登",
             "position": "中场"
           },
           {
@@ -513,9 +498,24 @@
             "position": "中场"
           },
           {
-            "number": "21",
-            "name": "吉姆·迈雷维克",
+            "number": "15",
+            "name": "鲁迪·维克斯特罗姆",
             "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "阿尔蒂·海勒玛",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "杰斯珀·斯文隆森·斯库",
+            "position": "中场"
+          },
+          {
+            "number": "19",
+            "name": "法比安·奥斯塔加德·内斯",
+            "position": "后卫"
           },
           {
             "number": "3",
@@ -523,13 +523,13 @@
             "position": "后卫"
           },
           {
-            "number": "7",
-            "name": "杰斯珀·斯文隆森·斯库",
+            "number": "6",
+            "name": "约翰·布鲁内尔",
             "position": "后卫"
           },
           {
-            "number": "6",
-            "name": "约翰·布鲁内尔",
+            "number": "21",
+            "name": "吉姆·迈雷维克",
             "position": "后卫"
           },
           {
@@ -540,13 +540,23 @@
         ],
         "subs": [
           {
-            "number": "5",
-            "name": "阿隆·比昂巴克",
+            "number": "2",
+            "name": "费利克斯·卡斯",
             "position": "后卫"
           },
           {
             "number": "91",
             "name": "维勒·沃里宁",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "阿隆·比昂巴克",
+            "position": "后卫"
+          },
+          {
+            "number": "30",
+            "name": "莫尔特扎·纳贾菲",
             "position": "中场"
           },
           {
@@ -560,28 +570,18 @@
             "position": "后卫"
           },
           {
-            "number": "24",
-            "name": "瓦尔德·洛夫斯",
-            "position": "中场"
-          },
-          {
             "number": "12",
             "name": "乔斯·斯内尔曼",
             "position": "守门员"
           },
           {
-            "number": "4",
-            "name": "米素·奥贡巴罗",
+            "number": "24",
+            "name": "瓦尔德·洛夫斯",
             "position": "中场"
           },
           {
-            "number": "2",
-            "name": "费利克斯·卡斯",
-            "position": "后卫"
-          },
-          {
-            "number": "30",
-            "name": "莫尔特扎·纳贾菲",
+            "number": "4",
+            "name": "米素·奥贡巴罗",
             "position": "中场"
           }
         ],
