@@ -24,7 +24,7 @@
       "lost": "2.52",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-01T15:40:16Z"
+    "fetched_at_utc": "2026-08-01T15:50:18Z"
   },
   "shuju": {
     "title": "瓦萨VS国际图尔库(2026芬超)-数据分析-500彩票网",
@@ -721,22 +721,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "平手",
-        "away_water": "0.870↑",
-        "time": "08-01 20:24"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手",
-        "away_water": "0.810",
-        "time": "07-28 14:27"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -750,6 +734,22 @@
         "handicap": "平手",
         "away_water": "0.840",
         "time": "07-30 20:12"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "平手",
+        "away_water": "0.870↑",
+        "time": "08-01 20:24"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手",
+        "away_water": "0.810",
+        "time": "07-28 14:27"
       }
     },
     {
