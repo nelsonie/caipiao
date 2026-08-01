@@ -24,7 +24,7 @@
       "lost": "5.70",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-01T12:10:07Z"
+    "fetched_at_utc": "2026-08-01T12:20:08Z"
   },
   "shuju": {
     "title": "TPS土尔库VS玛丽港(2026芬超)-数据分析-500彩票网",
@@ -381,12 +381,12 @@
           {
             "number": "41",
             "name": "塞缪尔·阿尼尼",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "29",
             "name": "阿尔比恩·穆扎奇",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "10",
@@ -394,19 +394,14 @@
             "position": "中场"
           },
           {
-            "number": "26",
-            "name": "拉瑟·伊科宁",
+            "number": "22",
+            "name": "蒂莫·扎尔",
             "position": "中场"
           },
           {
-            "number": "22",
-            "name": "蒂莫·扎尔",
-            "position": "后卫"
-          },
-          {
-            "number": "15",
-            "name": "查理曼·阿宗尼托德",
-            "position": "后卫"
+            "number": "26",
+            "name": "拉瑟·伊科宁",
+            "position": "中场"
           },
           {
             "number": "24",
@@ -416,6 +411,11 @@
           {
             "number": "14",
             "name": "马特·赫拉迪基",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "查理曼·阿宗尼托德",
             "position": "后卫"
           },
           {
@@ -443,12 +443,17 @@
           {
             "number": "28",
             "name": "托米·瓦基帕塔",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "11",
             "name": "埃尔默·沃赫科宁",
             "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "阿利·库利巴利",
+            "position": "中场"
           },
           {
             "number": "20",
@@ -458,7 +463,7 @@
           {
             "number": "17",
             "name": "阿泰·希沃宁",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "4",
@@ -467,13 +472,8 @@
           },
           {
             "number": "12",
-            "name": "亨利克·阿苏拉",
+            "name": "亨里克·阿苏拉",
             "position": "守门员"
-          },
-          {
-            "number": "8",
-            "name": "阿里·库利巴利",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -493,18 +493,23 @@
             "position": "前锋"
           },
           {
+            "number": "18",
+            "name": "亚当·斯特劳德",
+            "position": "中场"
+          },
+          {
             "number": "20",
             "name": "埃马纽埃尔·帕图",
             "position": "中场"
           },
           {
-            "number": "22",
-            "name": "鲁伊·蒙蒂罗",
-            "position": "前锋"
-          },
-          {
             "number": "8",
             "name": "杰勒·范德海登",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "鲁伊·蒙蒂罗",
             "position": "中场"
           },
           {
@@ -516,11 +521,6 @@
             "number": "19",
             "name": "福斯特·吉阿姆菲",
             "position": "后卫"
-          },
-          {
-            "number": "18",
-            "name": "亚当·斯特劳德",
-            "position": "中场"
           },
           {
             "number": "5",
@@ -542,12 +542,12 @@
           {
             "number": "43",
             "name": "利奥·安德森",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "9",
             "name": "威利·努涅斯",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "16",
@@ -567,7 +567,7 @@
           {
             "number": "2",
             "name": "诺阿·努尔米",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "32",
@@ -577,7 +577,7 @@
           {
             "number": "4",
             "name": "路德维格·里希特纳",
-            "position": "前锋"
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -699,22 +699,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "一球降",
-        "away_water": "0.900↑",
-        "time": "08-01 19:47"
-      },
-      "init": {
-        "home_water": "1.300",
-        "handicap": "球半",
-        "away_water": "0.520",
-        "time": "07-26 22:25"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -728,6 +712,22 @@
         "handicap": "一球",
         "away_water": "0.960",
         "time": "07-29 20:32"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "一球降",
+        "away_water": "0.900↑",
+        "time": "08-01 19:47"
+      },
+      "init": {
+        "home_water": "1.300",
+        "handicap": "球半",
+        "away_water": "0.520",
+        "time": "07-26 22:25"
       }
     },
     {
