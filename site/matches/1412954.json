@@ -24,7 +24,7 @@
       "lost": "5.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-01T16:50:23Z"
+    "fetched_at_utc": "2026-08-01T17:00:19Z"
   },
   "shuju": {
     "title": "巴拉纳竞技VS维多利亚(2026巴西杯)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.020↑",
-        "handicap": "一球升",
-        "away_water": "0.740↓",
-        "time": "08-01 02:42"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "半球/一球",
-        "away_water": "0.750",
-        "time": "07-30 11:29"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "半球",
         "away_water": "0.930",
         "time": "07-19 04:03"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "一球升",
+        "away_water": "0.740↓",
+        "time": "08-01 02:42"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "半球/一球",
+        "away_water": "0.750",
+        "time": "07-30 11:29"
       }
     },
     {
