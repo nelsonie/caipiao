@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-01T15:50:26Z",
+  "last_updated_utc": "2026-08-01T16:00:49Z",
   "matches": [
     {
       "xml_id": "2040673",
@@ -290,42 +290,6 @@
       "away_team_id": "4544"
     },
     {
-      "xml_id": "2040689",
-      "matchnum": "7002",
-      "date": "2026-08-02",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "济州SK",
-      "away": "仁川联",
-      "spf_win": "1.53",
-      "spf_draw": "3.55",
-      "spf_lost": "5.15",
-      "spf_updated": "2026-07-31 09:27:27",
-      "gameid": "1373177",
-      "kickoff_cst": "2026-08-02 18:30",
-      "matchnum_label": "周日002",
-      "home_team_id": "3410",
-      "away_team_id": "1612"
-    },
-    {
-      "xml_id": "2040690",
-      "matchnum": "7003",
-      "date": "2026-08-02",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "大田市民",
-      "away": "光州FC",
-      "spf_win": "2.36",
-      "spf_draw": "3.25",
-      "spf_lost": "2.51",
-      "spf_updated": "2026-07-31 09:27:27",
-      "gameid": "1373170",
-      "kickoff_cst": "2026-08-02 18:30",
-      "matchnum_label": "周日003",
-      "home_team_id": "1611",
-      "away_team_id": "6477"
-    },
-    {
       "xml_id": "2040691",
       "matchnum": "7004",
       "date": "2026-08-02",
@@ -378,42 +342,6 @@
       "matchnum_label": "周日006",
       "home_team_id": "434",
       "away_team_id": "1327"
-    },
-    {
-      "xml_id": "2040694",
-      "matchnum": "7007",
-      "date": "2026-08-02",
-      "dayofweek": "星期天",
-      "league": "芬兰超级联赛",
-      "home": "AC奥卢",
-      "away": "坦佩雷山猫",
-      "spf_win": "4.35",
-      "spf_draw": "3.88",
-      "spf_lost": "1.56",
-      "spf_updated": "2026-08-01 09:41:54",
-      "gameid": "1363690",
-      "kickoff_cst": "2026-08-02 22:00",
-      "matchnum_label": "周日007",
-      "home_team_id": "363",
-      "away_team_id": "2667"
-    },
-    {
-      "xml_id": "2040695",
-      "matchnum": "7008",
-      "date": "2026-08-02",
-      "dayofweek": "星期天",
-      "league": "瑞典超级联赛",
-      "home": "AIK索尔纳",
-      "away": "厄尔格里特",
-      "spf_win": "2.08",
-      "spf_draw": "3.65",
-      "spf_lost": "2.67",
-      "spf_updated": "2026-08-01 09:41:54",
-      "gameid": "1362720",
-      "kickoff_cst": "2026-08-02 22:30",
-      "matchnum_label": "周日008",
-      "home_team_id": "215",
-      "away_team_id": "606"
     },
     {
       "xml_id": "2040696",
