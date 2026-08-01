@@ -1,6 +1,24 @@
 {
-  "last_updated_utc": "2026-08-01T00:50:10Z",
+  "last_updated_utc": "2026-08-01T01:00:08Z",
   "matches": [
+    {
+      "xml_id": "2040673",
+      "matchnum": "6001",
+      "date": "2026-08-01",
+      "dayofweek": "星期六",
+      "league": "韩国职业联赛",
+      "home": "江原FC",
+      "away": "富川FC",
+      "spf_win": "2.35",
+      "spf_draw": "3.15",
+      "spf_lost": "2.59",
+      "spf_updated": "2026-07-31 09:27:27",
+      "gameid": "1373181",
+      "kickoff_cst": "2026-08-01 18:30",
+      "matchnum_label": "周六001",
+      "home_team_id": "5739",
+      "away_team_id": "7075"
+    },
     {
       "xml_id": "2040674",
       "matchnum": "6002",
@@ -38,6 +56,24 @@
       "away_team_id": "1615"
     },
     {
+      "xml_id": "2040688",
+      "matchnum": "7001",
+      "date": "2026-08-02",
+      "dayofweek": "星期天",
+      "league": "韩国职业联赛",
+      "home": "蔚山现代",
+      "away": "安养FC",
+      "spf_win": "3.60",
+      "spf_draw": "3.70",
+      "spf_lost": "1.72",
+      "spf_updated": "2026-07-31 09:27:27",
+      "gameid": "1373167",
+      "kickoff_cst": "2026-08-02 18:30",
+      "matchnum_label": "周日001",
+      "home_team_id": "1603",
+      "away_team_id": "4544"
+    },
+    {
       "xml_id": "2040689",
       "matchnum": "7002",
       "date": "2026-08-02",
@@ -54,6 +90,24 @@
       "matchnum_label": "周日002",
       "home_team_id": "3410",
       "away_team_id": "1612"
+    },
+    {
+      "xml_id": "2040690",
+      "matchnum": "7003",
+      "date": "2026-08-02",
+      "dayofweek": "星期天",
+      "league": "韩国职业联赛",
+      "home": "大田市民",
+      "away": "光州FC",
+      "spf_win": "2.36",
+      "spf_draw": "3.25",
+      "spf_lost": "2.51",
+      "spf_updated": "2026-07-31 09:27:27",
+      "gameid": "1373170",
+      "kickoff_cst": "2026-08-02 18:30",
+      "matchnum_label": "周日003",
+      "home_team_id": "1611",
+      "away_team_id": "6477"
     }
   ]
 }
