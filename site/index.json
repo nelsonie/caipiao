@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-01T13:30:29Z",
+  "last_updated_utc": "2026-08-01T13:40:29Z",
   "matches": [
     {
       "xml_id": "2040673",
@@ -243,10 +243,10 @@
       "league": "美国职业大联盟",
       "home": "洛杉矶银河",
       "away": "达拉斯FC",
-      "spf_win": "4.23",
-      "spf_draw": "4.10",
-      "spf_lost": "1.54",
-      "spf_updated": "2026-08-01 20:08:36",
+      "spf_win": "4.40",
+      "spf_draw": "4.16",
+      "spf_lost": "1.51",
+      "spf_updated": "2026-08-01 21:30:06",
       "gameid": "1358515",
       "kickoff_cst": "2026-08-02 10:30",
       "matchnum_label": "周六015",
@@ -434,6 +434,24 @@
       "away_team_id": "4338"
     },
     {
+      "xml_id": "2040697",
+      "matchnum": "7010",
+      "date": "2026-08-02",
+      "dayofweek": "星期天",
+      "league": "挪威超级联赛",
+      "home": "莫尔德",
+      "away": "萨尔普斯堡",
+      "spf_win": "2.43",
+      "spf_draw": "3.65",
+      "spf_lost": "2.25",
+      "spf_updated": "2026-08-01 09:41:54",
+      "gameid": "1364335",
+      "kickoff_cst": "2026-08-02 23:00",
+      "matchnum_label": "周日010",
+      "home_team_id": "1109",
+      "away_team_id": "3418"
+    },
+    {
       "xml_id": "2040698",
       "matchnum": "7011",
       "date": "2026-08-02",
@@ -540,24 +558,6 @@
       "matchnum_label": "周一003",
       "home_team_id": "1355",
       "away_team_id": "1253"
-    },
-    {
-      "xml_id": "2040704",
-      "matchnum": "1004",
-      "date": "2026-08-04",
-      "dayofweek": "星期二",
-      "league": "巴西杯",
-      "home": "巴拉纳竞技",
-      "away": "维多利亚",
-      "spf_win": "2.63",
-      "spf_draw": "3.20",
-      "spf_lost": "2.30",
-      "spf_updated": "2026-08-01 09:41:54",
-      "gameid": "1412954",
-      "kickoff_cst": "2026-08-04 08:00",
-      "matchnum_label": "周一004",
-      "home_team_id": "1571",
-      "away_team_id": "1589"
     },
     {
       "xml_id": "2040706",
