@@ -24,7 +24,7 @@
       "lost": "2.74",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-01T12:30:10Z"
+    "fetched_at_utc": "2026-08-01T12:40:10Z"
   },
   "shuju": {
     "title": "腓特烈斯塔VS桑纳菲尤尔(2026挪超)-数据分析-500彩票网",
@@ -728,6 +728,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "平手/半球",
+        "away_water": "0.840↓",
+        "time": "08-01 20:23"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "平手/半球",
+        "away_water": "0.970",
+        "time": "07-27 22:25"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -741,22 +757,6 @@
         "handicap": "平手",
         "away_water": "1.300",
         "time": "07-25 22:29"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "平手/半球",
-        "away_water": "0.840↓",
-        "time": "08-01 20:03"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "平手/半球",
-        "away_water": "0.970",
-        "time": "07-27 22:25"
       }
     },
     {
@@ -859,10 +859,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "1.070↑",
+        "home_water": "1.060↑",
         "handicap": "平手/半球",
-        "away_water": "0.830↓",
-        "time": "08-01 20:11"
+        "away_water": "0.840↓",
+        "time": "08-01 20:26"
       },
       "init": {
         "home_water": "0.920",
