@@ -24,7 +24,7 @@
       "lost": "4.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-01T16:30:16Z"
+    "fetched_at_utc": "2026-08-01T16:40:14Z"
   },
   "shuju": {
     "title": "KFUM奥斯陆VS克里斯蒂安松(2026挪超)-数据分析-500彩票网",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.830↑",
-        "time": "08-01 11:05"
-      },
-      "init": {
-        "home_water": "1.510",
-        "handicap": "球半",
-        "away_water": "0.530",
-        "time": "07-27 00:04"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "半球/一球",
         "away_water": "0.960",
         "time": "07-28 08:17"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.830↑",
+        "time": "08-01 11:05"
+      },
+      "init": {
+        "home_water": "1.510",
+        "handicap": "球半",
+        "away_water": "0.530",
+        "time": "07-27 00:04"
       }
     },
     {
