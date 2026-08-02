@@ -24,7 +24,7 @@
       "lost": "2.52",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-02T06:30:10Z"
+    "fetched_at_utc": "2026-08-02T06:40:10Z"
   },
   "shuju": {
     "title": "瓦萨VS国际图尔库(2026芬超)-数据分析-500彩票网",
@@ -644,10 +644,10 @@
       "cid": "2",
       "company": "立*",
       "live": {
-        "home_water": "1.500",
-        "handicap": "半球",
-        "away_water": "0.480",
-        "time": "07-31 05:40"
+        "home_water": "0.500↓",
+        "handicap": "受半球降",
+        "away_water": "1.450↑",
+        "time": "08-02 14:17"
       },
       "init": {
         "home_water": "1.500",
@@ -721,22 +721,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.930↓",
-        "handicap": "平手",
-        "away_water": "0.820↑",
-        "time": "08-02 14:04"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手",
-        "away_water": "0.810",
-        "time": "07-28 14:27"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -750,6 +734,22 @@
         "handicap": "平手",
         "away_water": "0.840",
         "time": "07-30 20:12"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.930↓",
+        "handicap": "平手",
+        "away_water": "0.820↑",
+        "time": "08-02 14:04"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手",
+        "away_water": "0.810",
+        "time": "07-28 14:27"
       }
     },
     {
@@ -836,10 +836,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "1.030↓",
+        "home_water": "1.020↓",
         "handicap": "平手",
-        "away_water": "0.870↑",
-        "time": "08-02 13:37"
+        "away_water": "0.880↑",
+        "time": "08-02 14:18"
       },
       "init": {
         "home_water": "1.050",
