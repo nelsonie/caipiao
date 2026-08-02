@@ -24,7 +24,7 @@
       "lost": "3.32",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-02T11:30:09Z"
+    "fetched_at_utc": "2026-08-02T11:40:09Z"
   },
   "shuju": {
     "title": "蔚山现代VS安养FC(2026K1联赛)-数据分析-500彩票网",
@@ -537,13 +537,8 @@
             "position": "中场"
           },
           {
-            "number": "17",
-            "name": "姜志勋",
-            "position": "后卫"
-          },
-          {
-            "number": "4",
-            "name": "?昌勇",
+            "number": "22",
+            "name": "金东珍",
             "position": "后卫"
           },
           {
@@ -552,8 +547,13 @@
             "position": "后卫"
           },
           {
-            "number": "22",
-            "name": "金东珍",
+            "number": "4",
+            "name": "?昌勇",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "姜志勋",
             "position": "后卫"
           },
           {
@@ -594,9 +594,9 @@
             "position": "后卫"
           },
           {
-            "number": "25",
-            "name": "金在贤",
-            "position": "后卫"
+            "number": "14",
+            "name": "文诚友",
+            "position": "中场"
           },
           {
             "number": "26",
@@ -604,9 +604,9 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "文诚友",
-            "position": "中场"
+            "number": "25",
+            "name": "金在贤",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "平手/半球降",
-        "away_water": "0.980↑",
-        "time": "08-02 18:29"
-      },
-      "init": {
-        "home_water": "1.090",
-        "handicap": "半球/一球",
-        "away_water": "0.630",
-        "time": "07-26 19:17"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球",
         "away_water": "0.900",
         "time": "07-29 19:22"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "平手/半球降",
+        "away_water": "0.980↑",
+        "time": "08-02 18:29"
+      },
+      "init": {
+        "home_water": "1.090",
+        "handicap": "半球/一球",
+        "away_water": "0.630",
+        "time": "07-26 19:17"
       }
     },
     {
