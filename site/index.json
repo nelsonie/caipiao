@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-02T05:10:19Z",
+  "last_updated_utc": "2026-08-02T05:20:17Z",
   "matches": [
     {
       "xml_id": "2040688",
@@ -110,6 +110,24 @@
       "away_team_id": "1327"
     },
     {
+      "xml_id": "2040694",
+      "matchnum": "7007",
+      "date": "2026-08-02",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "AC奥卢",
+      "away": "坦佩雷山猫",
+      "spf_win": "4.50",
+      "spf_draw": "3.95",
+      "spf_lost": "1.53",
+      "spf_updated": "2026-08-02 12:38:22",
+      "gameid": "1363690",
+      "kickoff_cst": "2026-08-02 22:00",
+      "matchnum_label": "周日007",
+      "home_team_id": "363",
+      "away_team_id": "2667"
+    },
+    {
       "xml_id": "2040695",
       "matchnum": "7008",
       "date": "2026-08-02",
@@ -198,60 +216,6 @@
       "matchnum_label": "周日012",
       "home_team_id": "722",
       "away_team_id": "1035"
-    },
-    {
-      "xml_id": "2040700",
-      "matchnum": "7014",
-      "date": "2026-08-03",
-      "dayofweek": "星期一",
-      "league": "巴西杯",
-      "home": "巴西国际",
-      "away": "科林蒂安",
-      "spf_win": "5.40",
-      "spf_draw": "3.55",
-      "spf_lost": "1.51",
-      "spf_updated": "2026-08-01 09:41:54",
-      "gameid": "1412957",
-      "kickoff_cst": "2026-08-03 06:30",
-      "matchnum_label": "周日014",
-      "home_team_id": "1582",
-      "away_team_id": "1572"
-    },
-    {
-      "xml_id": "2040701",
-      "matchnum": "1001",
-      "date": "2026-08-04",
-      "dayofweek": "星期二",
-      "league": "芬兰超级联赛",
-      "home": "塞伊奈约基",
-      "away": "赫尔辛基",
-      "spf_win": "1.66",
-      "spf_draw": "3.90",
-      "spf_lost": "3.70",
-      "spf_updated": "2026-08-01 09:41:54",
-      "gameid": "1363707",
-      "kickoff_cst": "2026-08-04 00:00",
-      "matchnum_label": "周一001",
-      "home_team_id": "6492",
-      "away_team_id": "866"
-    },
-    {
-      "xml_id": "2040702",
-      "matchnum": "1002",
-      "date": "2026-08-04",
-      "dayofweek": "星期二",
-      "league": "瑞典超级联赛",
-      "home": "哈尔姆斯塔德",
-      "away": "天狼星",
-      "spf_win": "3.10",
-      "spf_draw": "3.90",
-      "spf_lost": "1.82",
-      "spf_updated": "2026-08-01 09:41:54",
-      "gameid": "1362727",
-      "kickoff_cst": "2026-08-04 01:00",
-      "matchnum_label": "周一002",
-      "home_team_id": "848",
-      "away_team_id": "4067"
     },
     {
       "xml_id": "2040704",
