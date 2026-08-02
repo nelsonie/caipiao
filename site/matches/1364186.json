@@ -24,7 +24,7 @@
       "lost": "4.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-02T09:40:10Z"
+    "fetched_at_utc": "2026-08-02T09:50:12Z"
   },
   "shuju": {
     "title": "KFUM奥斯陆VS克里斯蒂安松(2026挪超)-数据分析-500彩票网",
@@ -648,6 +648,22 @@
       }
     },
     {
+      "cid": "2",
+      "company": "立*",
+      "live": {
+        "home_water": "0.700",
+        "handicap": "半球",
+        "away_water": "1.050",
+        "time": "08-02 17:21"
+      },
+      "init": {
+        "home_water": "0.700",
+        "handicap": "半球",
+        "away_water": "1.050",
+        "time": "08-02 17:21"
+      }
+    },
+    {
       "cid": "3",
       "company": "B*****",
       "live": {
@@ -699,32 +715,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.920↑",
+        "home_water": "0.930↑",
         "handicap": "半球/一球",
         "away_water": "0.920",
-        "time": "08-02 15:22"
+        "time": "08-02 17:41"
       },
       "init": {
         "home_water": "0.910",
         "handicap": "半球/一球",
         "away_water": "0.920",
         "time": "07-30 17:52"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "半球/一球",
-        "away_water": "0.920↓",
-        "time": "08-02 15:23"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "半球/一球",
-        "away_water": "0.960",
-        "time": "07-28 08:17"
       }
     },
     {
@@ -741,6 +741,22 @@
         "handicap": "球半",
         "away_water": "0.530",
         "time": "07-27 00:04"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "半球/一球",
+        "away_water": "0.920↓",
+        "time": "08-02 17:42"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "半球/一球",
+        "away_water": "0.960",
+        "time": "07-28 08:17"
       }
     },
     {
@@ -763,10 +779,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.960↑",
+        "home_water": "0.970↑",
         "handicap": "半球/一球",
-        "away_water": "0.960",
-        "time": "08-02 12:07"
+        "away_water": "0.950↓",
+        "time": "08-02 17:39"
       },
       "init": {
         "home_water": "0.940",
