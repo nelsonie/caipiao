@@ -24,7 +24,7 @@
       "lost": "6.05",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-02T15:00:08Z"
+    "fetched_at_utc": "2026-08-02T15:10:08Z"
   },
   "shuju": {
     "title": "AIK索尔纳VS奥尔格里特(2026瑞典超)-数据分析-500彩票网",
@@ -455,16 +455,6 @@
         ],
         "subs": [
           {
-            "number": "18",
-            "name": "阿卜杜哈金·阿里",
-            "position": "中场"
-          },
-          {
-            "number": "9",
-            "name": "莱纳斯·卡尔斯特朗",
-            "position": "前锋"
-          },
-          {
             "number": "6",
             "name": "马丁·艾林森",
             "position": "中场"
@@ -485,9 +475,19 @@
             "position": "守门员"
           },
           {
+            "number": "18",
+            "name": "阿卜杜哈金·阿里",
+            "position": "中场"
+          },
+          {
             "number": "14",
             "name": "弗雷德里克·尼森",
             "position": "后卫"
+          },
+          {
+            "number": "41",
+            "name": "穆罕默德·希拉",
+            "position": "中场"
           },
           {
             "number": "34",
@@ -495,9 +495,9 @@
             "position": "后卫"
           },
           {
-            "number": "41",
-            "name": "穆罕默德·希拉",
-            "position": "中场"
+            "number": "9",
+            "name": "莱纳斯·卡尔斯特朗",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -507,18 +507,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "17",
-            "name": "威廉·霍夫万德",
-            "position": "前锋"
-          },
-          {
             "number": "11",
             "name": "诺亚·克里斯托弗森",
             "position": "前锋"
           },
           {
-            "number": "14",
-            "name": "丹尼尔·保尔森",
+            "number": "17",
+            "name": "威廉·霍夫万德",
             "position": "前锋"
           },
           {
@@ -542,18 +537,23 @@
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "克里斯托弗·斯蒂夫",
-            "position": "后卫"
-          },
-          {
             "number": "6",
             "name": "米克尔·迪雷斯坦",
             "position": "后卫"
           },
           {
+            "number": "5",
+            "name": "克里斯托弗·斯蒂夫",
+            "position": "后卫"
+          },
+          {
             "number": "33",
             "name": "拉格伦德",
+            "position": "后卫"
+          },
+          {
+            "number": "14",
+            "name": "丹尼尔·保尔森",
             "position": "后卫"
           },
           {
@@ -563,11 +563,6 @@
           }
         ],
         "subs": [
-          {
-            "number": "3",
-            "name": "乔纳森·阿苏莱",
-            "position": "后卫"
-          },
           {
             "number": "16",
             "name": "汉普斯·达尔奎斯特",
@@ -599,14 +594,19 @@
             "position": "中场"
           },
           {
-            "number": "19",
-            "name": "A·安德里亚森",
+            "number": "3",
+            "name": "乔纳森·阿苏莱",
             "position": "后卫"
           },
           {
             "number": "9",
             "name": "利亚姆·菲利普·安德森",
             "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "A·安德里亚森",
+            "position": "后卫"
           }
         ],
         "injured": [],
