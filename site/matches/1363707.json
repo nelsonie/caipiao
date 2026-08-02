@@ -24,7 +24,7 @@
       "lost": "1.96",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-02T08:00:16Z"
+    "fetched_at_utc": "2026-08-02T08:10:15Z"
   },
   "shuju": {
     "title": "塞那乔恩VS赫尔辛基(2026芬超)-数据分析-500彩票网",
@@ -706,22 +706,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "受半球",
-        "away_water": "0.990↑",
-        "time": "08-02 13:41"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "受半球",
-        "away_water": "0.960",
-        "time": "08-01 00:24"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -735,6 +719,22 @@
         "handicap": "平手",
         "away_water": "0.610",
         "time": "07-27 17:08"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "受半球",
+        "away_water": "0.990↑",
+        "time": "08-02 13:41"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "受半球",
+        "away_water": "0.960",
+        "time": "08-01 00:24"
       }
     },
     {
