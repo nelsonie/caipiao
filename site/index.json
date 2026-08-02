@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-02T17:30:12Z",
+  "last_updated_utc": "2026-08-02T17:40:11Z",
   "matches": [
     {
       "xml_id": "2040700",
@@ -72,42 +72,6 @@
       "matchnum_label": "周一003",
       "home_team_id": "1355",
       "away_team_id": "1253"
-    },
-    {
-      "xml_id": "2040704",
-      "matchnum": "1004",
-      "date": "2026-08-04",
-      "dayofweek": "星期二",
-      "league": "巴西杯",
-      "home": "巴拉纳竞技",
-      "away": "维多利亚",
-      "spf_win": "2.63",
-      "spf_draw": "3.20",
-      "spf_lost": "2.30",
-      "spf_updated": "2026-08-01 09:41:54",
-      "gameid": "1412954",
-      "kickoff_cst": "2026-08-04 08:00",
-      "matchnum_label": "周一004",
-      "home_team_id": "1571",
-      "away_team_id": "1589"
-    },
-    {
-      "xml_id": "2040706",
-      "matchnum": "7013",
-      "date": "2026-08-03",
-      "dayofweek": "星期一",
-      "league": "巴西杯",
-      "home": "米拉索尔",
-      "away": "格雷米奥",
-      "spf_win": "4.05",
-      "spf_draw": "3.15",
-      "spf_lost": "1.77",
-      "spf_updated": "2026-08-02 20:30:28",
-      "gameid": "1412958",
-      "kickoff_cst": "2026-08-03 05:00",
-      "matchnum_label": "周日013",
-      "home_team_id": "5164",
-      "away_team_id": "1580"
     }
   ]
 }
