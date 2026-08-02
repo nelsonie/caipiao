@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-08-02T02:30:18Z",
+  "last_updated_utc": "2026-08-02T02:40:17Z",
   "matches": [
-    {
-      "xml_id": "2040686",
-      "matchnum": "6015",
-      "date": "2026-08-02",
-      "dayofweek": "星期天",
-      "league": "美国职业大联盟",
-      "home": "洛杉矶银河",
-      "away": "达拉斯FC",
-      "spf_win": "4.40",
-      "spf_draw": "4.16",
-      "spf_lost": "1.51",
-      "spf_updated": "2026-08-01 21:30:06",
-      "gameid": "1358515",
-      "kickoff_cst": "2026-08-02 10:30",
-      "matchnum_label": "周六015",
-      "home_team_id": "1044",
-      "away_team_id": "750"
-    },
     {
       "xml_id": "2040687",
       "matchnum": "6016",
@@ -128,24 +110,6 @@
       "away_team_id": "245"
     },
     {
-      "xml_id": "2040693",
-      "matchnum": "7006",
-      "date": "2026-08-02",
-      "dayofweek": "星期天",
-      "league": "芬兰超级联赛",
-      "home": "瓦萨",
-      "away": "国际图尔库",
-      "spf_win": "5.60",
-      "spf_draw": "4.00",
-      "spf_lost": "1.43",
-      "spf_updated": "2026-08-01 09:41:54",
-      "gameid": "1363683",
-      "kickoff_cst": "2026-08-02 20:00",
-      "matchnum_label": "周日006",
-      "home_team_id": "434",
-      "away_team_id": "1327"
-    },
-    {
       "xml_id": "2040694",
       "matchnum": "7007",
       "date": "2026-08-02",
@@ -198,24 +162,6 @@
       "matchnum_label": "周日009",
       "home_team_id": "5263",
       "away_team_id": "4338"
-    },
-    {
-      "xml_id": "2040697",
-      "matchnum": "7010",
-      "date": "2026-08-02",
-      "dayofweek": "星期天",
-      "league": "挪威超级联赛",
-      "home": "莫尔德",
-      "away": "萨尔普斯堡",
-      "spf_win": "2.43",
-      "spf_draw": "3.65",
-      "spf_lost": "2.25",
-      "spf_updated": "2026-08-01 09:41:54",
-      "gameid": "1364335",
-      "kickoff_cst": "2026-08-02 23:00",
-      "matchnum_label": "周日010",
-      "home_team_id": "1109",
-      "away_team_id": "3418"
     },
     {
       "xml_id": "2040698",
@@ -288,6 +234,24 @@
       "matchnum_label": "周一001",
       "home_team_id": "6492",
       "away_team_id": "866"
+    },
+    {
+      "xml_id": "2040702",
+      "matchnum": "1002",
+      "date": "2026-08-04",
+      "dayofweek": "星期二",
+      "league": "瑞典超级联赛",
+      "home": "哈尔姆斯塔德",
+      "away": "天狼星",
+      "spf_win": "3.10",
+      "spf_draw": "3.90",
+      "spf_lost": "1.82",
+      "spf_updated": "2026-08-01 09:41:54",
+      "gameid": "1362727",
+      "kickoff_cst": "2026-08-04 01:00",
+      "matchnum_label": "周一002",
+      "home_team_id": "848",
+      "away_team_id": "4067"
     },
     {
       "xml_id": "2040703",
