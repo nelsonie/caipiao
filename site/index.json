@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-02T05:20:17Z",
+  "last_updated_utc": "2026-08-02T05:30:18Z",
   "matches": [
     {
       "xml_id": "2040688",
@@ -110,24 +110,6 @@
       "away_team_id": "1327"
     },
     {
-      "xml_id": "2040694",
-      "matchnum": "7007",
-      "date": "2026-08-02",
-      "dayofweek": "星期天",
-      "league": "芬兰超级联赛",
-      "home": "AC奥卢",
-      "away": "坦佩雷山猫",
-      "spf_win": "4.50",
-      "spf_draw": "3.95",
-      "spf_lost": "1.53",
-      "spf_updated": "2026-08-02 12:38:22",
-      "gameid": "1363690",
-      "kickoff_cst": "2026-08-02 22:00",
-      "matchnum_label": "周日007",
-      "home_team_id": "363",
-      "away_team_id": "2667"
-    },
-    {
       "xml_id": "2040695",
       "matchnum": "7008",
       "date": "2026-08-02",
@@ -216,6 +198,24 @@
       "matchnum_label": "周日012",
       "home_team_id": "722",
       "away_team_id": "1035"
+    },
+    {
+      "xml_id": "2040701",
+      "matchnum": "1001",
+      "date": "2026-08-04",
+      "dayofweek": "星期二",
+      "league": "芬兰超级联赛",
+      "home": "塞伊奈约基",
+      "away": "赫尔辛基",
+      "spf_win": "1.66",
+      "spf_draw": "3.90",
+      "spf_lost": "3.70",
+      "spf_updated": "2026-08-01 09:41:54",
+      "gameid": "1363707",
+      "kickoff_cst": "2026-08-04 00:00",
+      "matchnum_label": "周一001",
+      "home_team_id": "6492",
+      "away_team_id": "866"
     },
     {
       "xml_id": "2040704",
