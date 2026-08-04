@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-04T16:50:09Z",
+  "last_updated_utc": "2026-08-04T17:00:14Z",
   "matches": [
     {
       "xml_id": "2040716",
@@ -90,24 +90,6 @@
       "matchnum_label": "周三003",
       "home_team_id": "797",
       "away_team_id": "825"
-    },
-    {
-      "xml_id": "2040728",
-      "matchnum": "2003",
-      "date": "2026-08-05",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "奥林匹亚科斯",
-      "away": "奈梅亨",
-      "spf_win": "2.22",
-      "spf_draw": "3.55",
-      "spf_lost": "2.52",
-      "spf_updated": "2026-08-04 21:18:40",
-      "gameid": "1460541",
-      "kickoff_cst": "2026-08-05 02:00",
-      "matchnum_label": "周二003",
-      "home_team_id": "616",
-      "away_team_id": "353"
     }
   ]
 }
