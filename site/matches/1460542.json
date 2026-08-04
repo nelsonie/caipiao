@@ -24,7 +24,7 @@
       "lost": "4.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-04T11:20:06Z"
+    "fetched_at_utc": "2026-08-04T11:30:08Z"
   },
   "shuju": {
     "title": "奥胡斯VS沙巴巴库(2026/2027欧冠)-数据分析-500彩票网",
@@ -671,22 +671,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800",
-        "handicap": "半球/一球降",
-        "away_water": "1.060↑",
-        "time": "08-04 18:16"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "一球",
-        "away_water": "0.940",
-        "time": "07-31 21:14"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -700,6 +684,22 @@
         "handicap": "一球/球半",
         "away_water": "0.880",
         "time": "07-30 18:52"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800",
+        "handicap": "半球/一球降",
+        "away_water": "1.060↑",
+        "time": "08-04 18:16"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "一球",
+        "away_water": "0.940",
+        "time": "07-31 21:14"
       }
     },
     {
