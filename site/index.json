@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-04T16:00:19Z",
+  "last_updated_utc": "2026-08-04T16:10:09Z",
   "matches": [
     {
       "xml_id": "2040716",
@@ -90,24 +90,6 @@
       "matchnum_label": "周三003",
       "home_team_id": "797",
       "away_team_id": "825"
-    },
-    {
-      "xml_id": "2040727",
-      "matchnum": "2002",
-      "date": "2026-08-05",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "米亚尔比",
-      "away": "布拉迪斯拉发",
-      "spf_win": "4.02",
-      "spf_draw": "3.70",
-      "spf_lost": "1.64",
-      "spf_updated": "2026-08-04 21:51:04",
-      "gameid": "1460540",
-      "kickoff_cst": "2026-08-05 00:00",
-      "matchnum_label": "周二002",
-      "home_team_id": "2465",
-      "away_team_id": "1474"
     },
     {
       "xml_id": "2040728",
