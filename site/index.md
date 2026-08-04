@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-08-04T15:30:09Z'
+last_updated_utc: '2026-08-04T15:40:08Z'
 total_matches: 7
 leagues_covered:
 - 巴西杯
