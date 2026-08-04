@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "一球/球半",
-      "home_water": "0.780↓",
-      "away_water": "0.860↑",
+      "home_water": "0.770↓",
+      "away_water": "0.870↑",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "8.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-04T11:50:08Z"
+    "fetched_at_utc": "2026-08-04T12:00:09Z"
   },
   "shuju": {
     "title": "费内巴切VS格拉茨风暴(2026/2027欧冠)-数据分析-500彩票网",
@@ -585,10 +585,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.780↓",
+        "home_water": "0.770↓",
         "handicap": "一球/球半",
-        "away_water": "0.860↑",
-        "time": "08-04 16:05"
+        "away_water": "0.870↑",
+        "time": "08-04 18:53"
       },
       "init": {
         "home_water": "0.920",
@@ -633,10 +633,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "1.000",
-        "handicap": "球半",
-        "away_water": "0.800",
-        "time": "08-03 06:07"
+        "home_water": "0.800↓",
+        "handicap": "一球/球半降",
+        "away_water": "1.000↑",
+        "time": "08-04 19:38"
       },
       "init": {
         "home_water": "1.000",
@@ -649,10 +649,10 @@
       "cid": "4",
       "company": "I**********",
       "live": {
-        "home_water": "1.050↑",
+        "home_water": "1.000↑",
         "handicap": "球半升",
         "away_water": "0.730↓",
-        "time": "08-03 18:41"
+        "time": "08-04 18:27"
       },
       "init": {
         "home_water": "0.800",
