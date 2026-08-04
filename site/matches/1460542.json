@@ -24,7 +24,7 @@
       "lost": "4.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-04T05:30:17Z"
+    "fetched_at_utc": "2026-08-04T05:40:07Z"
   },
   "shuju": {
     "title": "奥胡斯VS沙巴巴库(2026/2027欧冠)-数据分析-500彩票网",
@@ -658,32 +658,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.780↑",
+        "home_water": "0.810↑",
         "handicap": "半球/一球",
-        "away_water": "1.020",
-        "time": "08-04 03:00"
+        "away_water": "1.000↓",
+        "time": "08-04 13:30"
       },
       "init": {
         "home_water": "0.760",
         "handicap": "半球/一球",
         "away_water": "1.020",
         "time": "08-03 16:28"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800",
-        "handicap": "半球/一球降",
-        "away_water": "1.060↑",
-        "time": "08-04 12:36"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "一球",
-        "away_water": "0.940",
-        "time": "07-31 21:14"
       }
     },
     {
@@ -700,6 +684,22 @@
         "handicap": "一球/球半",
         "away_water": "0.880",
         "time": "07-30 18:52"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↑",
+        "handicap": "半球/一球降",
+        "away_water": "1.050↑",
+        "time": "08-04 13:29"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "一球",
+        "away_water": "0.940",
+        "time": "07-31 21:14"
       }
     },
     {
@@ -722,10 +722,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.810↓",
+        "home_water": "0.850↓",
         "handicap": "半球/一球降",
-        "away_water": "1.070↑",
-        "time": "08-03 01:23"
+        "away_water": "1.030↑",
+        "time": "08-04 13:25"
       },
       "init": {
         "home_water": "1.010",
