@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "一球/球半",
-      "home_water": "0.790↓",
-      "away_water": "0.850↑",
+      "home_water": "0.780↓",
+      "away_water": "0.860↑",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "8.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-04T17:50:09Z"
+    "fetched_at_utc": "2026-08-04T18:00:07Z"
   },
   "shuju": {
     "title": "费内巴切VS格拉茨风暴(2026/2027欧冠)-数据分析-500彩票网",
@@ -585,10 +585,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.790↓",
+        "home_water": "0.780↓",
         "handicap": "一球/球半",
-        "away_water": "0.850↑",
-        "time": "08-05 01:06"
+        "away_water": "0.860↑",
+        "time": "08-05 01:55"
       },
       "init": {
         "home_water": "0.920",
@@ -694,29 +694,13 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.820↑",
-        "handicap": "一球/球半升",
-        "away_water": "1.020↑",
-        "time": "08-05 00:39"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "一球",
-        "away_water": "0.940",
-        "time": "07-30 19:08"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "0.830↑",
+        "home_water": "0.820↑",
         "handicap": "一球/球半",
-        "away_water": "1.030↑",
-        "time": "08-05 00:44"
+        "away_water": "1.040↑",
+        "time": "08-05 01:57"
       },
       "init": {
         "home_water": "0.780",
@@ -726,13 +710,29 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "球半升",
+        "away_water": "0.820↓",
+        "time": "08-05 01:56"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "一球",
+        "away_water": "0.940",
+        "time": "07-30 19:08"
+      }
+    },
+    {
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.830↓",
-        "handicap": "一球/球半降",
-        "away_water": "1.000↑",
-        "time": "08-05 00:33"
+        "home_water": "1.030↑",
+        "handicap": "球半",
+        "away_water": "0.810↑",
+        "time": "08-05 01:52"
       },
       "init": {
         "home_water": "1.000",
@@ -761,10 +761,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.830↓",
+        "home_water": "0.820↓",
         "handicap": "一球/球半降",
-        "away_water": "1.010↑",
-        "time": "08-05 00:34"
+        "away_water": "1.020↑",
+        "time": "08-05 01:55"
       },
       "init": {
         "home_water": "0.960",
@@ -793,10 +793,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.830↓",
+        "home_water": "0.820↓",
         "handicap": "一球/球半降",
-        "away_water": "1.010↑",
-        "time": "08-05 00:39"
+        "away_water": "1.020↑",
+        "time": "08-05 01:58"
       },
       "init": {
         "home_water": "0.960",
@@ -809,10 +809,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.790",
+        "home_water": "0.770↓",
         "handicap": "一球/球半升",
-        "away_water": "0.960↑",
-        "time": "08-05 01:04"
+        "away_water": "0.980↑",
+        "time": "08-05 01:53"
       },
       "init": {
         "home_water": "0.790",
