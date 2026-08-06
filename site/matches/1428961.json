@@ -24,7 +24,7 @@
       "lost": "5.25",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-06T14:00:13Z"
+    "fetched_at_utc": "2026-08-06T14:10:10Z"
   },
   "shuju": {
     "title": "米德尔斯堡VS雷克斯汉姆(2026/2027英联杯)-数据分析-500彩票网",
@@ -734,22 +734,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "半球/一球",
-        "away_water": "0.920↑",
-        "time": "08-06 20:34"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "半球/一球",
-        "away_water": "0.810",
-        "time": "07-19 12:36"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -763,6 +747,22 @@
         "handicap": "半球/一球",
         "away_water": "0.730",
         "time": "08-01 10:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "半球/一球",
+        "away_water": "0.920↑",
+        "time": "08-06 20:34"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "半球/一球",
+        "away_water": "0.810",
+        "time": "07-19 12:36"
       }
     },
     {
