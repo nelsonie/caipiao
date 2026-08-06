@@ -24,7 +24,7 @@
       "lost": "2.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-06T19:30:07Z"
+    "fetched_at_utc": "2026-08-06T19:40:07Z"
   },
   "shuju": {
     "title": "大阪钢巴VS浦和红钻(2026/2027日职)-数据分析-500彩票网",
@@ -492,22 +492,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.070↑",
-        "handicap": "平手/半球",
-        "away_water": "0.790↓",
-        "time": "08-07 00:02"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "平手/半球",
-        "away_water": "0.810",
-        "time": "07-31 20:47"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -521,6 +505,22 @@
         "handicap": "平手/半球",
         "away_water": "0.800",
         "time": "07-31 20:31"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.070↑",
+        "handicap": "平手/半球",
+        "away_water": "0.790↓",
+        "time": "08-07 00:02"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "平手/半球",
+        "away_water": "0.810",
+        "time": "07-31 20:47"
       }
     },
     {
