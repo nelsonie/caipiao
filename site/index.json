@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-06T03:20:06Z",
+  "last_updated_utc": "2026-08-06T03:30:08Z",
   "matches": [
     {
       "xml_id": "2040718",
@@ -72,6 +72,24 @@
       "matchnum_label": "周四005",
       "home_team_id": "678",
       "away_team_id": "855"
+    },
+    {
+      "xml_id": "2040729",
+      "matchnum": "4002",
+      "date": "2026-08-06",
+      "dayofweek": "星期四",
+      "league": "欧罗巴联赛",
+      "home": "库奥皮奥",
+      "away": "克拉约瓦大学",
+      "spf_win": "1.60",
+      "spf_draw": "3.60",
+      "spf_lost": "4.45",
+      "spf_updated": "2026-08-06 09:22:17",
+      "gameid": "1460763",
+      "kickoff_cst": "2026-08-06 23:00",
+      "matchnum_label": "周四002",
+      "home_team_id": "841",
+      "away_team_id": "11804"
     }
   ]
 }
