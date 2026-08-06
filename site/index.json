@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-06T16:00:11Z",
+  "last_updated_utc": "2026-08-06T16:10:15Z",
   "matches": [
     {
       "xml_id": "2040718",
@@ -18,24 +18,6 @@
       "matchnum_label": "周四001",
       "home_team_id": "1589",
       "away_team_id": "1571"
-    },
-    {
-      "xml_id": "2040724",
-      "matchnum": "4003",
-      "date": "2026-08-07",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "比亚韦斯托克",
-      "away": "格拉斯哥流浪者",
-      "spf_win": "1.52",
-      "spf_draw": "3.80",
-      "spf_lost": "4.80",
-      "spf_updated": "2026-08-06 21:12:48",
-      "gameid": "1460783",
-      "kickoff_cst": "2026-08-07 00:00",
-      "matchnum_label": "周四003",
-      "home_team_id": "3071",
-      "away_team_id": "827"
     },
     {
       "xml_id": "2040725",
@@ -72,24 +54,6 @@
       "matchnum_label": "周四005",
       "home_team_id": "678",
       "away_team_id": "855"
-    },
-    {
-      "xml_id": "2040729",
-      "matchnum": "4002",
-      "date": "2026-08-06",
-      "dayofweek": "星期四",
-      "league": "欧罗巴联赛",
-      "home": "库奥皮奥",
-      "away": "克拉约瓦大学",
-      "spf_win": "1.61",
-      "spf_draw": "3.60",
-      "spf_lost": "4.35",
-      "spf_updated": "2026-08-06 19:58:29",
-      "gameid": "1460763",
-      "kickoff_cst": "2026-08-06 23:00",
-      "matchnum_label": "周四002",
-      "home_team_id": "841",
-      "away_team_id": "11804"
     },
     {
       "xml_id": "2040737",
@@ -252,24 +216,6 @@
       "matchnum_label": "周五009",
       "home_team_id": "1095",
       "away_team_id": "1332"
-    },
-    {
-      "xml_id": "2040746",
-      "matchnum": "5010",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "葡萄牙超级联赛",
-      "home": "埃斯托里尔",
-      "away": "法马利康",
-      "spf_win": "1.56",
-      "spf_draw": "3.70",
-      "spf_lost": "4.58",
-      "spf_updated": "2026-08-06 14:10:39",
-      "gameid": "1438048",
-      "kickoff_cst": "2026-08-08 03:15",
-      "matchnum_label": "周五010",
-      "home_team_id": "1616",
-      "away_team_id": "261"
     }
   ]
 }
