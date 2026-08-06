@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-06T22:00:11Z",
+  "last_updated_utc": "2026-08-06T22:10:11Z",
   "matches": [
     {
       "xml_id": "2040718",
@@ -126,78 +126,6 @@
       "matchnum_label": "周五006",
       "home_team_id": "1172",
       "away_team_id": "350"
-    },
-    {
-      "xml_id": "2040743",
-      "matchnum": "5007",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "荷兰乙级联赛",
-      "home": "埃门",
-      "away": "罗达JC",
-      "spf_win": "4.50",
-      "spf_draw": "4.20",
-      "spf_lost": "1.50",
-      "spf_updated": "2026-08-06 14:10:39",
-      "gameid": "1415837",
-      "kickoff_cst": "2026-08-08 02:00",
-      "matchnum_label": "周五007",
-      "home_team_id": "2426",
-      "away_team_id": "1030"
-    },
-    {
-      "xml_id": "2040744",
-      "matchnum": "5008",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "德国乙级联赛",
-      "home": "波鸿",
-      "away": "柏林赫塔",
-      "spf_win": "4.50",
-      "spf_draw": "3.95",
-      "spf_lost": "1.53",
-      "spf_updated": "2026-08-06 14:10:39",
-      "gameid": "1428557",
-      "kickoff_cst": "2026-08-08 02:30",
-      "matchnum_label": "周五008",
-      "home_team_id": "695",
-      "away_team_id": "659"
-    },
-    {
-      "xml_id": "2040745",
-      "matchnum": "5009",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "英格兰联赛杯",
-      "home": "米德尔斯堡",
-      "away": "雷克斯汉姆",
-      "spf_win": "2.47",
-      "spf_draw": "3.50",
-      "spf_lost": "2.28",
-      "spf_updated": "2026-08-06 14:10:39",
-      "gameid": "1428961",
-      "kickoff_cst": "2026-08-08 03:00",
-      "matchnum_label": "周五009",
-      "home_team_id": "1095",
-      "away_team_id": "1332"
-    },
-    {
-      "xml_id": "2040746",
-      "matchnum": "5010",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "葡萄牙超级联赛",
-      "home": "埃斯托里尔",
-      "away": "法马利康",
-      "spf_win": "1.56",
-      "spf_draw": "3.70",
-      "spf_lost": "4.58",
-      "spf_updated": "2026-08-06 14:10:39",
-      "gameid": "1438048",
-      "kickoff_cst": "2026-08-08 03:15",
-      "matchnum_label": "周五010",
-      "home_team_id": "1616",
-      "away_team_id": "261"
     }
   ]
 }
