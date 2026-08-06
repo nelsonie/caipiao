@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-06T09:50:13Z",
+  "last_updated_utc": "2026-08-06T10:00:14Z",
   "matches": [
     {
       "xml_id": "2040718",
@@ -128,6 +128,24 @@
       "away_team_id": "1164"
     },
     {
+      "xml_id": "2040739",
+      "matchnum": "5003",
+      "date": "2026-08-08",
+      "dayofweek": "星期六",
+      "league": "芬兰超级联赛",
+      "home": "塞伊奈约基",
+      "away": "赫尔辛基火花",
+      "spf_win": "3.95",
+      "spf_draw": "3.95",
+      "spf_lost": "1.61",
+      "spf_updated": "2026-08-06 14:10:39",
+      "gameid": "1363714",
+      "kickoff_cst": "2026-08-08 00:00",
+      "matchnum_label": "周五003",
+      "home_team_id": "6492",
+      "away_team_id": "2687"
+    },
+    {
       "xml_id": "2040740",
       "matchnum": "5004",
       "date": "2026-08-08",
@@ -144,6 +162,24 @@
       "matchnum_label": "周五004",
       "home_team_id": "3470",
       "away_team_id": "5263"
+    },
+    {
+      "xml_id": "2040741",
+      "matchnum": "5005",
+      "date": "2026-08-08",
+      "dayofweek": "星期六",
+      "league": "荷兰甲级联赛",
+      "home": "坎布尔",
+      "away": "SBV精英",
+      "spf_win": "5.00",
+      "spf_draw": "4.18",
+      "spf_lost": "1.45",
+      "spf_updated": "2026-08-06 14:10:39",
+      "gameid": "1415833",
+      "kickoff_cst": "2026-08-08 02:00",
+      "matchnum_label": "周五005",
+      "home_team_id": "235",
+      "away_team_id": "393"
     },
     {
       "xml_id": "2040742",
@@ -216,24 +252,6 @@
       "matchnum_label": "周五009",
       "home_team_id": "1095",
       "away_team_id": "1332"
-    },
-    {
-      "xml_id": "2040746",
-      "matchnum": "5010",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "葡萄牙超级联赛",
-      "home": "埃斯托里尔",
-      "away": "法马利康",
-      "spf_win": "1.56",
-      "spf_draw": "3.70",
-      "spf_lost": "4.58",
-      "spf_updated": "2026-08-06 14:10:39",
-      "gameid": "1438048",
-      "kickoff_cst": "2026-08-08 03:15",
-      "matchnum_label": "周五010",
-      "home_team_id": "1616",
-      "away_team_id": "261"
     }
   ]
 }
