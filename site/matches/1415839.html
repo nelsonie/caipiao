@@ -1,0 +1,983 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>奥斯 vs 布雷达 · caipiao</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="alternate" type="text/markdown" href="1415839.md">
+<style>
+:root { color-scheme: light dark; --fg:#222; --bg:#fff; --muted:#666; --border:#ddd; --accent:#2684ff; --code-bg:#f4f4f6; }
+@media (prefers-color-scheme: dark) {
+  :root { --fg:#e8e8ea; --bg:#1a1a1c; --muted:#999; --border:#333; --accent:#5aa3ff; --code-bg:#222; }
+}
+* { box-sizing: border-box; }
+body {
+  font: 15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB",sans-serif;
+  color: var(--fg); background: var(--bg); margin: 0;
+}
+main { max-width: 1100px; margin: 0 auto; padding: 1.5rem 1.2rem 4rem; }
+nav  { max-width: 1100px; margin: 0 auto; padding: 1rem 1.2rem; border-bottom: 1px solid var(--border);
+       display: flex; gap: 1.2rem; font-size: .92rem; }
+nav a { color: var(--accent); text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+h1 { font-size: 1.6rem; margin: 1.2rem 0 1rem; border-bottom: 2px solid var(--border); padding-bottom: .5rem; }
+h2 { font-size: 1.2rem; margin: 1.6rem 0 .6rem; color: var(--fg); }
+h3 { font-size: 1.05rem; margin: 1.1rem 0 .4rem; color: var(--muted); }
+p  { margin: .55rem 0; }
+a  { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { background: var(--code-bg); padding: 1px 5px; border-radius: 4px; font-size: .88em;
+       font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+pre { background: var(--code-bg); padding: .8rem 1rem; border-radius: 6px; overflow-x: auto; }
+hr { border: 0; border-top: 1px solid var(--border); margin: 1.5rem 0; }
+ul, ol { padding-left: 1.4rem; }
+li { margin: .15rem 0; }
+
+.table-wrap { overflow-x: auto; margin: .6rem 0 1rem; border: 1px solid var(--border); border-radius: 6px; }
+table { width: 100%; border-collapse: collapse; font-size: .88rem; }
+th, td { text-align: left; padding: .45rem .7rem; border-bottom: 1px solid var(--border); white-space: nowrap; }
+th { background: var(--code-bg); font-weight: 600; color: var(--muted); }
+tr:last-child td { border-bottom: 0; }
+
+.fm-box { border: 1px solid var(--border); border-radius: 8px; padding: .8rem 1rem;
+          margin: 0 0 1.2rem; background: var(--code-bg); font-size: .9rem; }
+.fm-box .fm-row { display: flex; gap: .6rem; padding: .2rem 0; }
+.fm-box .fm-k { width: 140px; color: var(--muted); flex-shrink: 0; }
+.fm-box .fm-v { flex: 1; font-family: ui-monospace,SFMono-Regular,Menlo,monospace; font-size: .88rem; word-break: break-all; }
+
+footer { max-width: 1100px; margin: 3rem auto 2rem; padding: 0 1.2rem; color: var(--muted); font-size: .8rem;
+         border-top: 1px solid var(--border); padding-top: 1rem; }
+
+button { font: inherit; padding: .5rem 1rem; border: 1px solid var(--border);
+         border-radius: 6px; background: var(--accent); color: #fff; cursor: pointer; }
+button:hover { opacity: .88; }
+button:disabled { opacity: .5; cursor: default; }
+
+.quick { margin: 1rem 0 2rem; padding: 1rem 1.2rem; border: 1px solid var(--border);
+         border-radius: 8px; background: var(--code-bg); }
+.quick h2 { margin: 0 0 .6rem; font-size: 1rem; color: var(--muted); font-weight: 600; }
+.quick ul { list-style: none; padding: 0; margin: 0 0 1rem; }
+.quick li { padding: .35rem 0; border-bottom: 1px dashed var(--border);
+            display: flex; gap: .8rem; align-items: baseline; flex-wrap: wrap; }
+.quick li:last-child { border-bottom: 0; }
+.quick .meta { color: var(--muted); font-size: .82rem; font-variant-numeric: tabular-nums;
+               min-width: 11rem; flex-shrink: 0; }
+.quick .teams { flex: 1; }
+.quick .url { margin-left: auto; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+              font-size: .8rem; color: var(--muted); white-space: nowrap;
+              overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+.quick .url:hover { color: var(--accent); }
+@media (max-width: 700px) {
+  .quick .url { margin-left: 0; flex-basis: 100%; }
+}
+.quick .hint { font-size: .78rem; color: var(--muted); margin-top: .6rem; }
+</style>
+</head>
+<body>
+<nav>
+  <a href="/">首页</a>
+  <a href="/SKILL.html">SKILL（AI 指南）</a>
+  <a href="1415839.md">查看原始 Markdown</a>
+  <a href="/_meta.json">_meta.json</a>
+</nav>
+<main>
+<h1>奥斯 vs 布雷达</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">gameid</div><div class="fm-v">1415839</div></div><div class="fm-row"><div class="fm-k">matchnum</div><div class="fm-v">5006</div></div><div class="fm-row"><div class="fm-k">date</div><div class="fm-v">2026-08-08</div></div><div class="fm-row"><div class="fm-k">league</div><div class="fm-v">荷兰乙级联赛</div></div><div class="fm-row"><div class="fm-k">home</div><div class="fm-v">奥斯</div></div><div class="fm-row"><div class="fm-k">away</div><div class="fm-v">布雷达</div></div><div class="fm-row"><div class="fm-k">kickoff_cst</div><div class="fm-v">2026-08-08 02:00</div></div><div class="fm-row"><div class="fm-k">spf</div><div class="fm-v"><b>win</b>:2.16 · <b>draw</b>:3.60 · <b>lost</b>:2.58</div></div><div class="fm-row"><div class="fm-k">asia_main</div><div class="fm-v"><b>handicap</b>:受半球/一球 · <b>home_water</b>:0.920↑ · <b>away_water</b>:0.810↓ · <b>company</b>:威***</div></div><div class="fm-row"><div class="fm-k">euro_main</div><div class="fm-v"><b>win</b>:4.45 · <b>draw</b>:4.00 · <b>lost</b>:1.53 · <b>company</b>:官*</div></div><div class="fm-row"><div class="fm-k">fetched_at_utc</div><div class="fm-v">2026-08-06T23:50:10Z</div></div></div>
+
+<h1>奥斯 vs 布雷达</h1>
+<h2>交战历史</h2>
+<p>双方近 6 次交战，奥斯 0胜 3平 3负 ，进6球，失10球 ，大球3次，小球3次</p>
+<ul>
+<li>奥斯 [荷乙0]</li>
+<li>布雷达 [荷乙0]</li>
+</ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 比分 客队</th>
+<th>半场</th>
+<th>赛果</th>
+<th></th>
+<th>盘路</th>
+<th>大小</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>球会友谊</td>
+<td>2025-07-05</td>
+<td>奥斯 2 : 2 布雷达</td>
+<td>0 : 0</td>
+<td>平</td>
+<td>- - -</td>
+<td>-</td>
+<td>大</td>
+<td>-</td>
+</tr>
+<tr>
+<td>球会友谊</td>
+<td>2025-07-05</td>
+<td>奥斯 2 : 2 布雷达</td>
+<td>0 : 0</td>
+<td>平</td>
+<td>- - -</td>
+<td>-</td>
+<td>大</td>
+<td>-</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2024-05-11</td>
+<td>[19] 奥斯 1 : 1 布雷达 [7]</td>
+<td>0 :1</td>
+<td>平</td>
+<td>0.85 受一球 0.85</td>
+<td>赢</td>
+<td>小</td>
+<td>-</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2023-12-09</td>
+<td>[7] 布雷达 2: 0 奥斯 [20]</td>
+<td>0 : 0</td>
+<td>负</td>
+<td>0.8 球半 0.9</td>
+<td>输</td>
+<td>小</td>
+<td>-</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2023-01-21</td>
+<td>[19] 奥斯 1 :2 布雷达 [11]</td>
+<td>0 :2</td>
+<td>负</td>
+<td>0.65 受半球 1.05</td>
+<td>输</td>
+<td>大</td>
+<td>-</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2022-08-20</td>
+<td>[12] 布雷达 1: 0 奥斯 [10]</td>
+<td>1: 0</td>
+<td>负</td>
+<td>0.9 半球/一球 0.8</td>
+<td>输</td>
+<td>小</td>
+<td>-</td>
+</tr>
+</tbody>
+</table></div>
+<h2>近期战绩 · 奥斯</h2>
+<p>奥斯 近10场战绩 6胜 0平 4负 进 20球 失 17球</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 比分 客队</th>
+<th>盘口</th>
+<th>半场</th>
+<th>赛果</th>
+<th>盘路</th>
+<th>大小</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>球会友谊</td>
+<td>26-08-01</td>
+<td>亨克 3: 1 奥斯</td>
+<td></td>
+<td>3: 1</td>
+<td>负</td>
+<td>-</td>
+<td>大</td>
+</tr>
+<tr>
+<td>球会友谊</td>
+<td>26-07-18</td>
+<td>奥斯 3 :1 华登舒特</td>
+<td></td>
+<td>0 :1</td>
+<td>胜</td>
+<td>-</td>
+<td>大</td>
+</tr>
+<tr>
+<td>球会友谊</td>
+<td>26-07-12</td>
+<td>奥斯 0 :1 杜伊斯堡</td>
+<td></td>
+<td>0 :1</td>
+<td>负</td>
+<td>-</td>
+<td>小</td>
+</tr>
+<tr>
+<td>球会友谊</td>
+<td>26-07-04</td>
+<td>前进之鹰 4: 1 奥斯</td>
+<td></td>
+<td>4: 1</td>
+<td>负</td>
+<td>-</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>26-04-25</td>
+<td>马斯特里赫特 0: 2 奥斯</td>
+<td>0</td>
+<td>0 : 0</td>
+<td>胜</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>26-04-18</td>
+<td>奥斯 4 :2 邓伯什</td>
+<td>0.25</td>
+<td>0 :1</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>26-04-14</td>
+<td>阿贾克斯U21 1: 2 奥斯</td>
+<td>-0.25</td>
+<td>0 : 0</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>26-04-06</td>
+<td>奥斯 3 :1 乌德勒支青年队</td>
+<td>0.25</td>
+<td>0 :1</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>26-04-04</td>
+<td>阿尔梅勒城 3: 2 奥斯</td>
+<td>-1.5</td>
+<td>1 : 1</td>
+<td>负</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>26-03-21</td>
+<td>奥斯 2 :1 FC埃因霍温</td>
+<td>0.5</td>
+<td>0 :1</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+</tbody>
+</table></div>
+<h2>近期战绩 · 布雷达</h2>
+<p>布雷达 近10场战绩 4胜 1平 5负 进 13球 失 17球</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 比分 客队</th>
+<th>盘口</th>
+<th>半场</th>
+<th>赛果</th>
+<th>盘路</th>
+<th>大小</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>球会友谊</td>
+<td>26-08-01</td>
+<td>博尔顿 1: 0 布雷达</td>
+<td></td>
+<td>1: 0</td>
+<td>负</td>
+<td>-</td>
+<td>小</td>
+</tr>
+<tr>
+<td>球会友谊</td>
+<td>26-07-29</td>
+<td>布雷达 3 :2 OFI克里特</td>
+<td></td>
+<td>1 :0</td>
+<td>胜</td>
+<td>-</td>
+<td>大</td>
+</tr>
+<tr>
+<td>球会友谊</td>
+<td>26-07-25</td>
+<td>SC洛克伦 1: 2 布雷达</td>
+<td></td>
+<td>1: 0</td>
+<td>胜</td>
+<td>-</td>
+<td>大</td>
+</tr>
+<tr>
+<td>球会友谊</td>
+<td>26-07-18</td>
+<td>布雷达 1 :3 SBV精英</td>
+<td></td>
+<td>1 :2</td>
+<td>负</td>
+<td>-</td>
+<td>大</td>
+</tr>
+<tr>
+<td>球会友谊</td>
+<td>26-07-16</td>
+<td>HSV胡克 1: 2 布雷达</td>
+<td></td>
+<td>0: 2</td>
+<td>胜</td>
+<td>-</td>
+<td>大</td>
+</tr>
+<tr>
+<td>球会友谊</td>
+<td>26-07-09</td>
+<td>布雷达 0 :2 FC埃因霍温</td>
+<td></td>
+<td>0 :2</td>
+<td>负</td>
+<td>-</td>
+<td>小</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-05-17</td>
+<td>阿尔克马尔 3 : 3 布雷达</td>
+<td>-1.75</td>
+<td>2: 0</td>
+<td>平</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-05-11</td>
+<td>布雷达 2 :0 海伦芬</td>
+<td>0</td>
+<td>1 :0</td>
+<td>胜</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-05-02</td>
+<td>乌德勒支 2: 0 布雷达</td>
+<td>-0.75</td>
+<td>0 : 0</td>
+<td>负</td>
+<td>输</td>
+<td>小</td>
+</tr>
+<tr>
+<td>荷甲</td>
+<td>26-04-26</td>
+<td>布雷达 0 :2 阿贾克斯</td>
+<td>0.25</td>
+<td>0 :2</td>
+<td>负</td>
+<td>输</td>
+<td>小</td>
+</tr>
+</tbody>
+</table></div>
+<h2>未来赛事 · 奥斯</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 客队</th>
+<th>相隔</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>荷乙</td>
+<td>2026-08-15</td>
+<td>福伦丹 VS 奥斯</td>
+<td>7天</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2026-08-25</td>
+<td>埃因霍温青年队 VS 奥斯</td>
+<td>17天</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2026-08-29</td>
+<td>奥斯 VS 乌德勒支青年队</td>
+<td>21天</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2026-09-05</td>
+<td>维特斯 VS 奥斯</td>
+<td>28天</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2026-09-12</td>
+<td>芬洛 VS 奥斯</td>
+<td>35天</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2026-09-19</td>
+<td>奥斯 VS 多德勒支</td>
+<td>42天</td>
+</tr>
+</tbody>
+</table></div>
+<h2>未来赛事 · 布雷达</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 客队</th>
+<th>相隔</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>荷乙</td>
+<td>2026-08-15</td>
+<td>布雷达 VS 芬洛</td>
+<td>7天</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2026-08-22</td>
+<td>布雷达 VS 阿贾克斯U21</td>
+<td>14天</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2026-08-29</td>
+<td>罗达JC VS 布雷达</td>
+<td>21天</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2026-09-05</td>
+<td>瓦尔韦克 VS 布雷达</td>
+<td>28天</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2026-09-12</td>
+<td>布雷达 VS 乌德勒支青年队</td>
+<td>35天</td>
+</tr>
+<tr>
+<td>荷乙</td>
+<td>2026-09-20</td>
+<td>格拉夫夏普 VS 布雷达</td>
+<td>43天</td>
+</tr>
+</tbody>
+</table></div>
+<h2>预计阵容</h2>
+<h3>奥斯（阵型：未公布）</h3>
+<ul>
+<li><strong>首发</strong>：#0 理查德·范德文 (中场)、#3 伊隆加·帕塔 (后卫)、#19 弗朗斯林·恩辛吉 (前锋)、#2 莱昂内尔·米格尔 (后卫)、#0 贾斯丁·马蒂厄 (中场)、#26 朱利安·库伊佩斯 (中场)、#17 莫雷斯莫·希诺克 (前锋)、#8 马塞伦西奥·埃萨哈斯 (中场)、#27 毛里里奥·兰诺伊 (后卫)、#1 麦克·哈特科特 (守门员)、#23 德拉诺·维亚内洛 (中场)</li>
+</ul>
+<h3>布雷达（阵型：未公布）</h3>
+<ul>
+<li><strong>首发</strong>：#31 康斯坦蒂诺斯·兰普鲁 (守门员)、#25 瓦莱里乌斯 (后卫)、#14 卡马尔·索瓦 (前锋)、#20 马特·斯恩基恩斯 (前锋)、#10 穆罕默德·纳索 (中场)、#8 弗雷德里克·詹森 (中场)、#22 里约·希伦 (后卫)、#4 莱奥·格雷姆 (后卫)、#19 保罗·格兰顿 (前锋)、#55 卜拉欣·加利迪 (前锋)、#35 米兰·布劳沃斯 (后卫)</li>
+<li><strong>替补</strong>：#34 A. 阿奇尔 (中场)、#7 查尔斯·安德烈亚斯·布莱姆 (前锋)、#5 杰登·坎德拉里亚 (后卫)、#28 杰缪尔·埃拉特 (未知)、#33 以利亚·伊克皮亚 (前锋)、#2 博伊德·吕卡森 (后卫)、#30 伊姆兰·纳齐 (中场)、#11 劳尔·宝拉 (中场)、#26 佩平·鲁伦 (前锋)、#23 S. 托马森 (守门员)、#32 拉扬·阿尔斯特·范 (后卫)、#17 迪翁·韦斯路斯 (前锋)、#6 马克西米利安·巴拉德 (中场)</li>
+</ul>
+<h2>亚盘（14 家）</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>公司</th>
+<th>即时主水</th>
+<th>盘口</th>
+<th>即时客水</th>
+<th>即时时间</th>
+<th>初始主水</th>
+<th>初始盘口</th>
+<th>初始客水</th>
+<th>初始时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>威***</td>
+<td>0.920↑</td>
+<td>受半球/一球</td>
+<td>0.810↓</td>
+<td>08-07 00:14</td>
+<td>0.800</td>
+<td>受半球/一球</td>
+<td>0.920</td>
+<td>08-01 23:12</td>
+</tr>
+<tr>
+<td>*门</td>
+<td>0.940</td>
+<td>受半球/一球</td>
+<td>0.840</td>
+<td>08-06 20:33</td>
+<td>0.940</td>
+<td>受半球/一球</td>
+<td>0.840</td>
+<td>08-06 20:33</td>
+</tr>
+<tr>
+<td>B<strong>*</strong></td>
+<td>0.950↑</td>
+<td>受半球/一球</td>
+<td>0.850↓</td>
+<td>08-03 23:00</td>
+<td>0.820</td>
+<td>受半球/一球</td>
+<td>0.970</td>
+<td>08-01 22:55</td>
+</tr>
+<tr>
+<td>I<strong><em>*</em></strong>***</td>
+<td>1.100↑</td>
+<td>受半球</td>
+<td>0.650↓</td>
+<td>08-03 20:53</td>
+<td>1.050</td>
+<td>受半球</td>
+<td>0.700</td>
+<td>08-02 00:35</td>
+</tr>
+<tr>
+<td>*冠</td>
+<td>0.960↑</td>
+<td>受半球/一球</td>
+<td>0.860↓</td>
+<td>08-06 15:06</td>
+<td>0.940</td>
+<td>受半球/一球</td>
+<td>0.880</td>
+<td>08-03 19:31</td>
+</tr>
+<tr>
+<td>易**</td>
+<td>0.980↑</td>
+<td>受半球/一球</td>
+<td>0.830</td>
+<td>08-07 02:06</td>
+<td>0.960</td>
+<td>受半球/一球</td>
+<td>0.830</td>
+<td>08-03 21:16</td>
+</tr>
+<tr>
+<td>o***</td>
+<td>0.920↑</td>
+<td>受半球/一球</td>
+<td>0.810↓</td>
+<td>08-06 20:30</td>
+<td>0.770</td>
+<td>受半球/一球</td>
+<td>0.840</td>
+<td>08-01 21:41</td>
+</tr>
+<tr>
+<td>伟*</td>
+<td>0.960</td>
+<td>受半球/一球</td>
+<td>0.840</td>
+<td>08-07 00:07</td>
+<td>0.960</td>
+<td>受半球/一球</td>
+<td>0.840</td>
+<td>08-04 15:05</td>
+</tr>
+<tr>
+<td>P<strong><em>*</em></strong>**</td>
+<td>0.990↑</td>
+<td>受半球/一球</td>
+<td>0.850↓</td>
+<td>08-07 02:03</td>
+<td>0.820</td>
+<td>受半球/一球</td>
+<td>0.960</td>
+<td>08-02 00:13</td>
+</tr>
+<tr>
+<td>利*</td>
+<td>1.020</td>
+<td>受半球/一球</td>
+<td>0.860</td>
+<td>08-04 17:53</td>
+<td>1.020</td>
+<td>受半球/一球</td>
+<td>0.860</td>
+<td>08-04 17:53</td>
+</tr>
+<tr>
+<td>M<strong><em>*</em></strong><strong>*</strong>*</td>
+<td>1.000</td>
+<td>受半球/一球</td>
+<td>0.840</td>
+<td>08-06 23:28</td>
+<td>1.000</td>
+<td>受半球/一球</td>
+<td>0.840</td>
+<td>08-03 21:19</td>
+</tr>
+<tr>
+<td>1<strong><em>*</em></strong>***</td>
+<td>1.000</td>
+<td>受半球/一球</td>
+<td>0.840</td>
+<td>08-06 23:33</td>
+<td>1.000</td>
+<td>受半球/一球</td>
+<td>0.840</td>
+<td>08-03 21:31</td>
+</tr>
+<tr>
+<td>1****</td>
+<td>0.940↑</td>
+<td>受半球/一球</td>
+<td>0.800↓</td>
+<td>08-07 02:11</td>
+<td>0.830</td>
+<td>受半球/一球</td>
+<td>0.890</td>
+<td>08-01 20:57</td>
+</tr>
+<tr>
+<td>W<strong><em>*</em></strong>***</td>
+<td>0.990↑</td>
+<td>受半球/一球</td>
+<td>0.890↓</td>
+<td>08-07 03:48</td>
+<td>0.850</td>
+<td>受半球/一球</td>
+<td>0.970</td>
+<td>08-01 23:37</td>
+</tr>
+</tbody>
+</table></div>
+<h2>欧赔（30 家）</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>公司</th>
+<th>即时 胜/平/负</th>
+<th>初始 胜/平/负</th>
+<th>即时概率</th>
+<th>即时返还</th>
+<th>即时凯利</th>
+<th>更新</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>官*</td>
+<td>4.45/4.00/1.53</td>
+<td>4.45/4.00/1.53</td>
+<td>19.92%/22.16%/57.93%</td>
+<td>88.63%</td>
+<td>0.95/0.92/0.85</td>
+<td>2026-08-06 14:10:40</td>
+</tr>
+<tr>
+<td>威***</td>
+<td>4.20/3.60/1.73</td>
+<td>4.40/3.90/1.67</td>
+<td>21.77%/25.39%/52.84%</td>
+<td>91.42%</td>
+<td>0.89/0.83/0.96</td>
+<td>2026-08-02 01:57:19</td>
+</tr>
+<tr>
+<td>*门</td>
+<td>3.97/4.02/1.61</td>
+<td>3.97/4.02/1.61</td>
+<td>22.45%/22.18%/55.37%</td>
+<td>89.15%</td>
+<td>0.85/0.93/0.90</td>
+<td>2026-08-06 20:32:20</td>
+</tr>
+<tr>
+<td>立*</td>
+<td>4.20/3.80/1.65</td>
+<td>4.20/3.80/1.65</td>
+<td>21.50%/23.77%/54.73%</td>
+<td>90.31%</td>
+<td>0.89/0.88/0.92</td>
+<td>2026-08-04 02:00:51</td>
+</tr>
+<tr>
+<td>B<strong>*</strong></td>
+<td>4.00/3.80/1.73</td>
+<td>4.33/4.20/1.67</td>
+<td>22.91%/24.12%/52.97%</td>
+<td>91.64%</td>
+<td>0.85/0.88/0.96</td>
+<td>2026-08-05 10:52:46</td>
+</tr>
+<tr>
+<td>I<strong><em>*</em></strong>***</td>
+<td>4.20/3.65/1.75</td>
+<td>4.30/3.90/1.70</td>
+<td>21.97%/25.29%/52.74%</td>
+<td>92.29%</td>
+<td>0.89/0.84/0.97</td>
+<td>2026-08-03 20:52:58</td>
+</tr>
+<tr>
+<td>S***</td>
+<td>4.25/4.00/1.65</td>
+<td>4.25/4.00/1.65</td>
+<td>21.56%/22.91%/55.53%</td>
+<td>91.63%</td>
+<td>0.91/0.92/0.92</td>
+<td>2026-08-04 23:21:37</td>
+</tr>
+<tr>
+<td>*冠</td>
+<td>3.85/4.00/1.69</td>
+<td>4.05/4.10/1.64</td>
+<td>23.58%/22.70%/53.72%</td>
+<td>90.79%</td>
+<td>0.82/0.92/0.94</td>
+<td>2026-08-06 15:06:23</td>
+</tr>
+<tr>
+<td>易**</td>
+<td>4.20/4.00/1.68</td>
+<td>4.30/4.00/1.64</td>
+<td>21.98%/23.08%/54.95%</td>
+<td>92.31%</td>
+<td>0.89/0.92/0.93</td>
+<td>2026-08-05 09:05:16</td>
+</tr>
+<tr>
+<td>伟*</td>
+<td>4.40/4.00/1.65</td>
+<td>4.40/4.00/1.65</td>
+<td>20.98%/23.08%/55.94%</td>
+<td>92.31%</td>
+<td>0.94/0.92/0.92</td>
+<td>2026-08-04 15:05:57</td>
+</tr>
+<tr>
+<td>B***</td>
+<td>4.33/3.90/1.65</td>
+<td>4.33/3.90/1.65</td>
+<td>21.12%/23.45%/55.43%</td>
+<td>91.46%</td>
+<td>0.92/0.90/0.92</td>
+<td>2026-08-04 02:04:06</td>
+</tr>
+<tr>
+<td>P<strong><em>*</em></strong>**</td>
+<td>4.39/3.91/1.68</td>
+<td>4.48/4.21/1.67</td>
+<td>21.12%/23.71%/55.18%</td>
+<td>92.70%</td>
+<td>0.94/0.90/0.93</td>
+<td>2026-08-07 02:03:46</td>
+</tr>
+<tr>
+<td>1****</td>
+<td>4.10/3.90/1.70</td>
+<td>4.40/4.10/1.68</td>
+<td>22.41%/23.56%/54.04%</td>
+<td>91.87%</td>
+<td>0.87/0.90/0.95</td>
+<td>2026-08-07 02:07:28</td>
+</tr>
+<tr>
+<td>C****</td>
+<td>4.20/3.80/1.65</td>
+<td>4.20/3.80/1.65</td>
+<td>21.50%/23.77%/54.73%</td>
+<td>90.31%</td>
+<td>0.89/0.88/0.92</td>
+<td>2026-08-04 02:24:49</td>
+</tr>
+<tr>
+<td>利*</td>
+<td>4.15/3.79/1.62</td>
+<td>4.20/3.80/1.61</td>
+<td>21.47%/23.51%/55.01%</td>
+<td>89.12%</td>
+<td>0.88/0.87/0.90</td>
+<td>2026-08-06 17:51:15</td>
+</tr>
+<tr>
+<td>U<strong><em>*</em></strong>****</td>
+<td>4.20/3.90/1.70</td>
+<td>4.20/3.75/1.67</td>
+<td>21.99%/23.68%/54.33%</td>
+<td>92.36%</td>
+<td>0.89/0.90/0.95</td>
+<td>2026-08-06 17:04:22</td>
+</tr>
+<tr>
+<td>S<strong><em>*</em></strong><strong><em>*</em></strong>**</td>
+<td>4.33/3.90/1.65</td>
+<td>4.33/3.90/1.65</td>
+<td>21.12%/23.45%/55.43%</td>
+<td>91.46%</td>
+<td>0.92/0.90/0.92</td>
+<td>2026-08-04 02:24:44</td>
+</tr>
+<tr>
+<td>I<strong><em>*</em></strong>***</td>
+<td>3.95/3.75/1.66</td>
+<td>4.00/3.75/1.65</td>
+<td>22.56%/23.76%/53.68%</td>
+<td>89.11%</td>
+<td>0.84/0.86/0.92</td>
+<td>2026-08-06 23:58:07</td>
+</tr>
+<tr>
+<td>M<strong><em>*</em></strong><strong>*</strong>*</td>
+<td>3.95/3.75/1.66</td>
+<td>4.00/3.75/1.65</td>
+<td>22.56%/23.76%/53.68%</td>
+<td>89.11%</td>
+<td>0.84/0.86/0.92</td>
+<td>2026-08-06 23:18:31</td>
+</tr>
+<tr>
+<td>香***</td>
+<td>4.25/3.95/1.55</td>
+<td>4.25/3.95/1.55</td>
+<td>20.76%/22.33%/56.91%</td>
+<td>88.21%</td>
+<td>0.91/0.91/0.86</td>
+<td>2026-08-06 12:00:24</td>
+</tr>
+<tr>
+<td>1<strong><em>*</em></strong>***</td>
+<td>3.95/3.75/1.66</td>
+<td>4.00/3.75/1.65</td>
+<td>22.56%/23.76%/53.68%</td>
+<td>89.11%</td>
+<td>0.84/0.86/0.92</td>
+<td>2026-08-06 23:18:41</td>
+</tr>
+<tr>
+<td>8<strong><em>*</em></strong></td>
+<td>4.20/3.80/1.70</td>
+<td>4.20/3.80/1.70</td>
+<td>21.85%/24.15%/53.99%</td>
+<td>91.79%</td>
+<td>0.89/0.88/0.95</td>
+<td>2026-08-02 00:23:40</td>
+</tr>
+<tr>
+<td>大**</td>
+<td>4.40/4.10/1.73</td>
+<td>4.50/4.20/1.70</td>
+<td>21.66%/23.25%/55.09%</td>
+<td>95.31%</td>
+<td>0.94/0.95/0.96</td>
+<td>2026-08-03 22:20:18</td>
+</tr>
+<tr>
+<td>必*</td>
+<td>4.20/4.20/1.65</td>
+<td>4.50/4.20/1.69</td>
+<td>22.00%/22.00%/56.00%</td>
+<td>92.40%</td>
+<td>0.89/0.97/0.92</td>
+<td>2026-08-06 14:10:28</td>
+</tr>
+<tr>
+<td>1****</td>
+<td>4.10/3.80/1.72</td>
+<td>4.30/4.10/1.64</td>
+<td>22.41%/24.18%/53.41%</td>
+<td>91.87%</td>
+<td>0.87/0.88/0.96</td>
+<td>2026-08-06 16:39:33</td>
+</tr>
+<tr>
+<td>1****</td>
+<td>4.31/3.84/1.72</td>
+<td>4.56/4.05/1.65</td>
+<td>21.61%/24.25%/54.14%</td>
+<td>93.12%</td>
+<td>0.92/0.89/0.96</td>
+<td>2026-08-07 02:06:49</td>
+</tr>
+<tr>
+<td><strong>t</strong><strong>*</strong>*</td>
+<td>4.10/3.90/1.68</td>
+<td>4.20/4.00/1.65</td>
+<td>22.26%/23.40%/54.33%</td>
+<td>91.28%</td>
+<td>0.87/0.90/0.93</td>
+<td>2026-08-06 21:18:51</td>
+</tr>
+<tr>
+<td><strong>t</strong>**</td>
+<td>4.10/3.70/1.70</td>
+<td>4.30/4.00/1.65</td>
+<td>22.12%/24.52%/53.36%</td>
+<td>90.71%</td>
+<td>0.87/0.85/0.95</td>
+<td>2026-08-07 02:04:25</td>
+</tr>
+<tr>
+<td><strong>t</strong>**</td>
+<td>4.20/3.90/1.67</td>
+<td>4.35/4.10/1.65</td>
+<td>21.78%/23.45%/54.77%</td>
+<td>91.47%</td>
+<td>0.89/0.90/0.93</td>
+<td>2026-08-07 03:06:23</td>
+</tr>
+<tr>
+<td><strong>t</strong><strong>*</strong></td>
+<td>4.00/4.00/1.61</td>
+<td>4.20/4.20/1.65</td>
+<td>22.30%/22.30%/55.40%</td>
+<td>89.20%</td>
+<td>0.85/0.92/0.90</td>
+<td>2026-08-06 19:55:25</td>
+</tr>
+</tbody>
+</table></div>
+</main>
+<footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
+</body>
+</html>
