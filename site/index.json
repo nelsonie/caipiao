@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-06T17:30:10Z",
+  "last_updated_utc": "2026-08-06T17:40:13Z",
   "matches": [
     {
       "xml_id": "2040718",
@@ -74,24 +74,6 @@
       "away_team_id": "1029"
     },
     {
-      "xml_id": "2040738",
-      "matchnum": "5002",
-      "date": "2026-08-07",
-      "dayofweek": "星期五",
-      "league": "日本职业联赛",
-      "home": "大阪钢巴",
-      "away": "浦和红钻",
-      "spf_win": "5.25",
-      "spf_draw": "3.95",
-      "spf_lost": "1.46",
-      "spf_updated": "2026-08-06 14:10:39",
-      "gameid": "1418880",
-      "kickoff_cst": "2026-08-07 18:30",
-      "matchnum_label": "周五002",
-      "home_team_id": "752",
-      "away_team_id": "1164"
-    },
-    {
       "xml_id": "2040739",
       "matchnum": "5003",
       "date": "2026-08-08",
@@ -128,24 +110,6 @@
       "away_team_id": "5263"
     },
     {
-      "xml_id": "2040741",
-      "matchnum": "5005",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "荷兰甲级联赛",
-      "home": "坎布尔",
-      "away": "SBV精英",
-      "spf_win": "5.00",
-      "spf_draw": "4.18",
-      "spf_lost": "1.45",
-      "spf_updated": "2026-08-06 14:10:39",
-      "gameid": "1415833",
-      "kickoff_cst": "2026-08-08 02:00",
-      "matchnum_label": "周五005",
-      "home_team_id": "235",
-      "away_team_id": "393"
-    },
-    {
       "xml_id": "2040742",
       "matchnum": "5006",
       "date": "2026-08-08",
@@ -162,42 +126,6 @@
       "matchnum_label": "周五006",
       "home_team_id": "1172",
       "away_team_id": "350"
-    },
-    {
-      "xml_id": "2040743",
-      "matchnum": "5007",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "荷兰乙级联赛",
-      "home": "埃门",
-      "away": "罗达JC",
-      "spf_win": "4.50",
-      "spf_draw": "4.20",
-      "spf_lost": "1.50",
-      "spf_updated": "2026-08-06 14:10:39",
-      "gameid": "1415837",
-      "kickoff_cst": "2026-08-08 02:00",
-      "matchnum_label": "周五007",
-      "home_team_id": "2426",
-      "away_team_id": "1030"
-    },
-    {
-      "xml_id": "2040744",
-      "matchnum": "5008",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "德国乙级联赛",
-      "home": "波鸿",
-      "away": "柏林赫塔",
-      "spf_win": "4.50",
-      "spf_draw": "3.95",
-      "spf_lost": "1.53",
-      "spf_updated": "2026-08-06 14:10:39",
-      "gameid": "1428557",
-      "kickoff_cst": "2026-08-08 02:30",
-      "matchnum_label": "周五008",
-      "home_team_id": "695",
-      "away_team_id": "659"
     },
     {
       "xml_id": "2040745",
