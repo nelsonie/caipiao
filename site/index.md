@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-08-06T02:50:05Z'
-total_matches: 1
-leagues_covered:
-- 巴西杯
+last_updated_utc: '2026-08-06T03:00:06Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 巴西杯 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 4001 | 2026-08-07 星期五 | 维多利亚 vs 巴拉纳竞技 | 4.85/3.55/1.56 | [1412969](matches/1412969.md) |
