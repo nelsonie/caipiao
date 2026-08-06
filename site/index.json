@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-06T17:20:13Z",
+  "last_updated_utc": "2026-08-06T17:30:10Z",
   "matches": [
     {
       "xml_id": "2040718",
@@ -198,6 +198,24 @@
       "matchnum_label": "周五008",
       "home_team_id": "695",
       "away_team_id": "659"
+    },
+    {
+      "xml_id": "2040745",
+      "matchnum": "5009",
+      "date": "2026-08-08",
+      "dayofweek": "星期六",
+      "league": "英格兰联赛杯",
+      "home": "米德尔斯堡",
+      "away": "雷克斯汉姆",
+      "spf_win": "2.47",
+      "spf_draw": "3.50",
+      "spf_lost": "2.28",
+      "spf_updated": "2026-08-06 14:10:39",
+      "gameid": "1428961",
+      "kickoff_cst": "2026-08-08 03:00",
+      "matchnum_label": "周五009",
+      "home_team_id": "1095",
+      "away_team_id": "1332"
     },
     {
       "xml_id": "2040746",
