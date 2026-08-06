@@ -24,7 +24,7 @@
       "lost": "1.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-06T22:40:07Z"
+    "fetched_at_utc": "2026-08-06T22:50:07Z"
   },
   "shuju": {
     "title": "横滨水手VS鹿岛鹿角(2026/2027日职)-数据分析-500彩票网",
@@ -696,22 +696,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "受半球",
-        "away_water": "1.000↑",
-        "time": "08-07 05:05"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "受半球",
-        "away_water": "0.990",
-        "time": "07-31 20:35"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -725,6 +709,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.640",
         "time": "08-01 06:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "受半球",
+        "away_water": "1.000↑",
+        "time": "08-07 05:05"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "受半球",
+        "away_water": "0.990",
+        "time": "07-31 20:35"
       }
     },
     {
