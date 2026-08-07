@@ -24,7 +24,7 @@
       "lost": "1.25",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-08-07T06:40:25Z"
+    "fetched_at_utc": "2026-08-07T06:50:24Z"
   },
   "shuju": {
     "title": "阿马多拉VS里斯本竞技(2026/2027葡超)-数据分析-500彩票网",
@@ -768,22 +768,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "受球半/两球",
-        "away_water": "0.870↓",
-        "time": "08-07 08:49"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "受球半/两球",
-        "away_water": "0.940",
-        "time": "07-28 17:02"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -797,6 +781,22 @@
         "handicap": "受球半",
         "away_water": "0.700",
         "time": "07-27 17:58"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "受球半/两球",
+        "away_water": "0.870↓",
+        "time": "08-07 08:49"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "受球半/两球",
+        "away_water": "0.940",
+        "time": "07-28 17:02"
       }
     },
     {
