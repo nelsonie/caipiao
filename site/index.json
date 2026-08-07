@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-07T13:50:33Z",
+  "last_updated_utc": "2026-08-07T14:00:33Z",
   "matches": [
     {
       "xml_id": "2040737",
@@ -290,6 +290,24 @@
       "away_team_id": "1163"
     },
     {
+      "xml_id": "2040758",
+      "matchnum": "6010",
+      "date": "2026-08-08",
+      "dayofweek": "星期六",
+      "league": "英格兰联赛杯",
+      "home": "斯旺西",
+      "away": "伯明翰",
+      "spf_win": "1.45",
+      "spf_draw": "4.00",
+      "spf_lost": "5.27",
+      "spf_updated": "2026-08-07 09:35:10",
+      "gameid": "1428982",
+      "kickoff_cst": "2026-08-08 22:00",
+      "matchnum_label": "周六010",
+      "home_team_id": "511",
+      "away_team_id": "701"
+    },
+    {
       "xml_id": "2040760",
       "matchnum": "6012",
       "date": "2026-08-08",
@@ -324,6 +342,42 @@
       "matchnum_label": "周六013",
       "home_team_id": "1050",
       "away_team_id": "3928"
+    },
+    {
+      "xml_id": "2040764",
+      "matchnum": "6016",
+      "date": "2026-08-09",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "前进之鹰",
+      "away": "威廉二世",
+      "spf_win": "2.30",
+      "spf_draw": "3.60",
+      "spf_lost": "2.40",
+      "spf_updated": "2026-08-07 09:35:10",
+      "gameid": "1415836",
+      "kickoff_cst": "2026-08-09 00:45",
+      "matchnum_label": "周六016",
+      "home_team_id": "1796",
+      "away_team_id": "1248"
+    },
+    {
+      "xml_id": "2040765",
+      "matchnum": "6017",
+      "date": "2026-08-09",
+      "dayofweek": "星期天",
+      "league": "葡萄牙超级联赛",
+      "home": "吉马良斯",
+      "away": "阿罗卡",
+      "spf_win": "3.50",
+      "spf_draw": "3.40",
+      "spf_lost": "1.82",
+      "spf_updated": "2026-08-07 09:35:10",
+      "gameid": "1438055",
+      "kickoff_cst": "2026-08-09 01:00",
+      "matchnum_label": "周六017",
+      "home_team_id": "893",
+      "away_team_id": "5551"
     },
     {
       "xml_id": "2040766",
@@ -594,6 +648,24 @@
       "matchnum_label": "周六002",
       "home_team_id": "2273",
       "away_team_id": "1358"
+    },
+    {
+      "xml_id": "2040798",
+      "matchnum": "6021",
+      "date": "2026-08-09",
+      "dayofweek": "星期天",
+      "league": "法国乙级联赛",
+      "home": "南特",
+      "away": "圣旺红星",
+      "spf_win": "3.40",
+      "spf_draw": "3.30",
+      "spf_lost": "1.88",
+      "spf_updated": "2026-08-07 09:35:10",
+      "gameid": "1416857",
+      "kickoff_cst": "2026-08-09 02:45",
+      "matchnum_label": "周六021",
+      "home_team_id": "1129",
+      "away_team_id": "6597"
     },
     {
       "xml_id": "2040799",
