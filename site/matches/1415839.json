@@ -24,7 +24,7 @@
       "lost": "1.53",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-07T05:40:12Z"
+    "fetched_at_utc": "2026-08-07T05:50:09Z"
   },
   "shuju": {
     "title": "奥斯VS布雷达(2026/2027荷乙)-数据分析-500彩票网",
@@ -686,22 +686,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "受半球/一球",
-        "away_water": "0.850↑",
-        "time": "08-07 12:21"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "受半球/一球",
-        "away_water": "0.840",
-        "time": "08-04 15:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -715,6 +699,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.840",
         "time": "08-01 21:41"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "受半球/一球",
+        "away_water": "0.850↑",
+        "time": "08-07 12:21"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "受半球/一球",
+        "away_water": "0.840",
+        "time": "08-04 15:05"
       }
     },
     {
