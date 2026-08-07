@@ -24,7 +24,7 @@
       "lost": "1.41",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-07T18:00:26Z"
+    "fetched_at_utc": "2026-08-07T18:10:24Z"
   },
   "shuju": {
     "title": "兹沃勒VS阿贾克斯(2026/2027荷甲)-数据分析-500彩票网",
@@ -708,22 +708,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↑",
-        "handicap": "受一球/球半降",
-        "away_water": "1.020↓",
-        "time": "08-07 19:19"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "受一球",
-        "away_water": "1.040",
-        "time": "07-11 01:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -737,6 +721,22 @@
         "handicap": "受一球",
         "away_water": "1.000",
         "time": "07-11 01:38"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↑",
+        "handicap": "受一球/球半降",
+        "away_water": "1.020↓",
+        "time": "08-07 19:19"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "受一球",
+        "away_water": "1.040",
+        "time": "07-11 01:48"
       }
     },
     {

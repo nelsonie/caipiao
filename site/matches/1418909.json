@@ -24,7 +24,7 @@
       "lost": "3.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-07T18:00:29Z"
+    "fetched_at_utc": "2026-08-07T18:10:29Z"
   },
   "shuju": {
     "title": "大宫松鼠VS新泻天鹅(2026/2027日职乙)-数据分析-500彩票网",
@@ -428,6 +428,22 @@
       }
     },
     {
+      "cid": "5",
+      "company": "*门",
+      "live": {
+        "home_water": "0.830",
+        "handicap": "平手/半球",
+        "away_water": "0.950",
+        "time": "08-08 01:42"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手/半球",
+        "away_water": "0.950",
+        "time": "08-08 01:42"
+      }
+    },
+    {
       "cid": "3",
       "company": "B*****",
       "live": {
@@ -473,6 +489,22 @@
         "handicap": "平手/半球",
         "away_water": "0.880",
         "time": "08-07 17:04"
+      }
+    },
+    {
+      "cid": "9",
+      "company": "易**",
+      "live": {
+        "home_water": "0.890",
+        "handicap": "平手/半球",
+        "away_water": "0.920",
+        "time": "08-08 01:46"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "平手/半球",
+        "away_water": "0.920",
+        "time": "08-08 01:46"
       }
     },
     {
