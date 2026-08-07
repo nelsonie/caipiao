@@ -24,7 +24,7 @@
       "lost": "3.02",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-07T02:40:06Z"
+    "fetched_at_utc": "2026-08-07T02:50:08Z"
   },
   "shuju": {
     "title": "桑纳菲尤尔VSKFUM奥斯陆(2026挪超)-数据分析-500彩票网",
@@ -728,6 +728,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "半球升",
+        "away_water": "0.840↓",
+        "time": "08-07 10:24"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "平手/半球",
+        "away_water": "0.990",
+        "time": "08-02 23:41"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -741,22 +757,6 @@
         "handicap": "平手/半球",
         "away_water": "0.960",
         "time": "08-01 02:16"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.020↑",
-        "handicap": "半球升",
-        "away_water": "0.840↓",
-        "time": "08-07 01:33"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "平手/半球",
-        "away_water": "0.990",
-        "time": "08-02 23:41"
       }
     },
     {
@@ -843,10 +843,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.980↑",
+        "home_water": "0.990↑",
         "handicap": "半球升",
-        "away_water": "0.810↓",
-        "time": "08-07 08:04"
+        "away_water": "0.820↓",
+        "time": "08-07 10:01"
       },
       "init": {
         "home_water": "0.820",
