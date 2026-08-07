@@ -24,7 +24,7 @@
       "lost": "3.50",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-07T22:40:07Z"
+    "fetched_at_utc": "2026-08-07T22:50:09Z"
   },
   "shuju": {
     "title": "大阪樱花VS冈山绿雉(2026/2027日职)-数据分析-500彩票网",
@@ -508,6 +508,22 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.090↑",
+        "handicap": "半球/一球",
+        "away_water": "0.630↓",
+        "time": "08-08 06:39"
+      },
+      "init": {
+        "home_water": "1.040",
+        "handicap": "半球/一球",
+        "away_water": "0.660",
+        "time": "08-03 16:01"
+      }
+    },
+    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -521,22 +537,6 @@
         "handicap": "半球",
         "away_water": "0.980",
         "time": "08-03 16:18"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.110↑",
-        "handicap": "半球/一球",
-        "away_water": "0.610↓",
-        "time": "08-08 06:31"
-      },
-      "init": {
-        "home_water": "1.040",
-        "handicap": "半球/一球",
-        "away_water": "0.660",
-        "time": "08-03 16:01"
       }
     },
     {
@@ -623,10 +623,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.920↑",
         "handicap": "半球",
         "away_water": "0.890↓",
-        "time": "08-08 05:22"
+        "time": "08-08 06:44"
       },
       "init": {
         "home_water": "0.820",
