@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-07T23:30:25Z",
+  "last_updated_utc": "2026-08-07T23:40:25Z",
   "matches": [
     {
       "xml_id": "2040750",
@@ -72,24 +72,6 @@
       "matchnum_label": "周六005",
       "home_team_id": "1615",
       "away_team_id": "1606"
-    },
-    {
-      "xml_id": "2040755",
-      "matchnum": "6007",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "英格兰联赛杯",
-      "home": "女王公园巡游者",
-      "away": "米尔沃尔",
-      "spf_win": "1.51",
-      "spf_draw": "3.80",
-      "spf_lost": "4.90",
-      "spf_updated": "2026-08-07 09:35:10",
-      "gameid": "1428970",
-      "kickoff_cst": "2026-08-08 21:00",
-      "matchnum_label": "周六007",
-      "home_team_id": "954",
-      "away_team_id": "1097"
     },
     {
       "xml_id": "2040757",
