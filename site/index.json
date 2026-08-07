@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-07T04:20:32Z",
+  "last_updated_utc": "2026-08-07T04:30:35Z",
   "matches": [
     {
       "xml_id": "2040737",
@@ -306,24 +306,6 @@
       "matchnum_label": "周六010",
       "home_team_id": "511",
       "away_team_id": "701"
-    },
-    {
-      "xml_id": "2040760",
-      "matchnum": "6012",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "荷兰甲级联赛",
-      "home": "奈梅亨",
-      "away": "特尔斯达",
-      "spf_win": "2.11",
-      "spf_draw": "3.75",
-      "spf_lost": "2.58",
-      "spf_updated": "2026-08-07 09:35:10",
-      "gameid": "1415834",
-      "kickoff_cst": "2026-08-08 22:30",
-      "matchnum_label": "周六012",
-      "home_team_id": "353",
-      "away_team_id": "1799"
     },
     {
       "xml_id": "2040761",
