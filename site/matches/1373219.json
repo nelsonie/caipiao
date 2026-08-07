@@ -24,7 +24,7 @@
       "lost": "4.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-07T18:50:10Z"
+    "fetched_at_utc": "2026-08-07T19:00:09Z"
   },
   "shuju": {
     "title": "全北现代VS济州联队(2026K1联赛)-数据分析-500彩票网",
@@ -763,22 +763,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.840↓",
-        "time": "08-07 19:46"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "半球",
-        "away_water": "1.030",
-        "time": "08-04 20:46"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -792,6 +776,22 @@
         "handicap": "半球/一球",
         "away_water": "0.750",
         "time": "08-02 19:34"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.840↓",
+        "time": "08-07 19:46"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "半球",
+        "away_water": "1.030",
+        "time": "08-04 20:46"
       }
     },
     {

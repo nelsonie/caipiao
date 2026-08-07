@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-07T18:50:25Z",
+  "last_updated_utc": "2026-08-07T19:00:26Z",
   "matches": [
     {
       "xml_id": "2040745",
@@ -90,6 +90,24 @@
       "matchnum_label": "周六004",
       "home_team_id": "1609",
       "away_team_id": "3410"
+    },
+    {
+      "xml_id": "2040753",
+      "matchnum": "6005",
+      "date": "2026-08-08",
+      "dayofweek": "星期六",
+      "league": "韩国职业联赛",
+      "home": "金泉尚武",
+      "away": "首尔FC",
+      "spf_win": "1.81",
+      "spf_draw": "3.48",
+      "spf_lost": "3.45",
+      "spf_updated": "2026-08-07 09:35:10",
+      "gameid": "1373243",
+      "kickoff_cst": "2026-08-08 19:00",
+      "matchnum_label": "周六005",
+      "home_team_id": "1615",
+      "away_team_id": "1606"
     },
     {
       "xml_id": "2040755",
@@ -218,24 +236,6 @@
       "away_team_id": "5551"
     },
     {
-      "xml_id": "2040766",
-      "matchnum": "6018",
-      "date": "2026-08-09",
-      "dayofweek": "星期天",
-      "league": "荷兰甲级联赛",
-      "home": "PSV埃因霍温",
-      "away": "福图纳锡塔德",
-      "spf_win": "2.04",
-      "spf_draw": "4.35",
-      "spf_lost": "2.45",
-      "spf_updated": "2026-08-07 09:35:10",
-      "gameid": "1415838",
-      "kickoff_cst": "2026-08-09 02:00",
-      "matchnum_label": "周六018",
-      "home_team_id": "378",
-      "away_team_id": "1303"
-    },
-    {
       "xml_id": "2040767",
       "matchnum": "6019",
       "date": "2026-08-09",
@@ -360,6 +360,42 @@
       "matchnum_label": "周日004",
       "home_team_id": "518",
       "away_team_id": "801"
+    },
+    {
+      "xml_id": "2040776",
+      "matchnum": "7006",
+      "date": "2026-08-09",
+      "dayofweek": "星期天",
+      "league": "德国乙级联赛",
+      "home": "纽伦堡",
+      "away": "德累斯顿",
+      "spf_win": "4.10",
+      "spf_draw": "3.78",
+      "spf_lost": "1.61",
+      "spf_updated": "2026-08-07 09:35:10",
+      "gameid": "1429892",
+      "kickoff_cst": "2026-08-09 19:30",
+      "matchnum_label": "周日006",
+      "home_team_id": "1138",
+      "away_team_id": "4654"
+    },
+    {
+      "xml_id": "2040779",
+      "matchnum": "7009",
+      "date": "2026-08-09",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "兹沃勒",
+      "away": "阿贾克斯",
+      "spf_win": "2.45",
+      "spf_draw": "3.65",
+      "spf_lost": "2.24",
+      "spf_updated": "2026-08-07 09:35:10",
+      "gameid": "1415846",
+      "kickoff_cst": "2026-08-09 20:30",
+      "matchnum_label": "周日009",
+      "home_team_id": "1353",
+      "away_team_id": "540"
     },
     {
       "xml_id": "2040780",
