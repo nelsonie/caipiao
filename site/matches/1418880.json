@@ -24,7 +24,7 @@
       "lost": "2.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-07T10:50:09Z"
+    "fetched_at_utc": "2026-08-07T11:00:09Z"
   },
   "shuju": {
     "title": "大阪钢巴VS浦和红钻(2026/2027日职)-数据分析-500彩票网",
@@ -507,23 +507,23 @@
         "formation": null,
         "starters": [
           {
+            "number": "10",
+            "name": "马修斯·萨维奥",
+            "position": "前锋"
+          },
+          {
             "number": "17",
             "name": "小森飞绚",
             "position": "前锋"
           },
           {
+            "number": "7",
+            "name": "金子拓郎",
+            "position": "前锋"
+          },
+          {
             "number": "13",
             "name": "渡边凌磨",
-            "position": "中场"
-          },
-          {
-            "number": "10",
-            "name": "马修斯·萨维奥",
-            "position": "中场"
-          },
-          {
-            "number": "18",
-            "name": "林幸多郎",
             "position": "中场"
           },
           {
@@ -537,9 +537,9 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "金子拓郎",
-            "position": "中场"
+            "number": "18",
+            "name": "林幸多郎",
+            "position": "后卫"
           },
           {
             "number": "15",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.950↓",
-        "handicap": "平手/半球",
-        "away_water": "0.860↑",
-        "time": "08-07 18:31"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "平手/半球",
-        "away_water": "0.800",
-        "time": "07-31 20:31"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.810",
         "time": "07-31 20:47"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.950↓",
+        "handicap": "平手/半球",
+        "away_water": "0.860↑",
+        "time": "08-07 18:31"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "平手/半球",
+        "away_water": "0.800",
+        "time": "07-31 20:31"
       }
     },
     {

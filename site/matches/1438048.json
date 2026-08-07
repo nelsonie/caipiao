@@ -24,7 +24,7 @@
       "lost": "2.08",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-07T10:50:14Z"
+    "fetched_at_utc": "2026-08-07T11:00:14Z"
   },
   "shuju": {
     "title": "埃斯托里尔VS法马利康(2026/2027葡超)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "受平手/半球",
-        "away_water": "1.090↑",
-        "time": "08-07 17:50"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "受平手/半球",
-        "away_water": "0.870",
-        "time": "07-28 16:56"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "平手",
         "away_water": "0.640",
         "time": "07-27 17:58"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.090↑",
+        "time": "08-07 17:50"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "受平手/半球",
+        "away_water": "0.870",
+        "time": "07-28 16:56"
       }
     },
     {
