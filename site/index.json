@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-07T22:10:23Z",
+  "last_updated_utc": "2026-08-07T22:20:29Z",
   "matches": [
     {
       "xml_id": "2040750",
@@ -108,6 +108,24 @@
       "matchnum_label": "周六009",
       "home_team_id": "1286",
       "away_team_id": "1163"
+    },
+    {
+      "xml_id": "2040758",
+      "matchnum": "6010",
+      "date": "2026-08-08",
+      "dayofweek": "星期六",
+      "league": "英格兰联赛杯",
+      "home": "斯旺西",
+      "away": "伯明翰",
+      "spf_win": "1.45",
+      "spf_draw": "4.00",
+      "spf_lost": "5.27",
+      "spf_updated": "2026-08-07 09:35:10",
+      "gameid": "1428982",
+      "kickoff_cst": "2026-08-08 22:00",
+      "matchnum_label": "周六010",
+      "home_team_id": "511",
+      "away_team_id": "701"
     },
     {
       "xml_id": "2040760",
@@ -290,6 +308,42 @@
       "away_team_id": "540"
     },
     {
+      "xml_id": "2040780",
+      "matchnum": "7010",
+      "date": "2026-08-09",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "格罗宁根",
+      "away": "乌德勒支",
+      "spf_win": "4.80",
+      "spf_draw": "3.95",
+      "spf_lost": "1.50",
+      "spf_updated": "2026-08-07 09:35:10",
+      "gameid": "1415844",
+      "kickoff_cst": "2026-08-09 20:30",
+      "matchnum_label": "周日010",
+      "home_team_id": "834",
+      "away_team_id": "1275"
+    },
+    {
+      "xml_id": "2040785",
+      "matchnum": "7015",
+      "date": "2026-08-09",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "海伦芬",
+      "away": "特温特",
+      "spf_win": "1.55",
+      "spf_draw": "4.10",
+      "spf_lost": "4.18",
+      "spf_updated": "2026-08-07 09:35:10",
+      "gameid": "1415848",
+      "kickoff_cst": "2026-08-09 22:45",
+      "matchnum_label": "周日015",
+      "home_team_id": "857",
+      "away_team_id": "1231"
+    },
+    {
       "xml_id": "2040788",
       "matchnum": "7018",
       "date": "2026-08-10",
@@ -360,24 +414,6 @@
       "matchnum_label": "周六021",
       "home_team_id": "1129",
       "away_team_id": "6597"
-    },
-    {
-      "xml_id": "2040799",
-      "matchnum": "7003",
-      "date": "2026-08-09",
-      "dayofweek": "星期天",
-      "league": "日本乙级联赛",
-      "home": "山形山神",
-      "away": "枥木城",
-      "spf_win": "5.26",
-      "spf_draw": "4.00",
-      "spf_lost": "1.45",
-      "spf_updated": "2026-08-07 09:35:10",
-      "gameid": "1418890",
-      "kickoff_cst": "2026-08-09 18:00",
-      "matchnum_label": "周日003",
-      "home_team_id": "3832",
-      "away_team_id": "11323"
     },
     {
       "xml_id": "2040800",
