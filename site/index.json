@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-07T12:00:34Z",
+  "last_updated_utc": "2026-08-07T12:10:30Z",
   "matches": [
     {
       "xml_id": "2040737",
@@ -171,10 +171,10 @@
       "league": "葡萄牙超级联赛",
       "home": "埃斯托里尔",
       "away": "法马利康",
-      "spf_win": "1.55",
+      "spf_win": "1.52",
       "spf_draw": "3.60",
-      "spf_lost": "4.85",
-      "spf_updated": "2026-08-07 19:42:37",
+      "spf_lost": "5.15",
+      "spf_updated": "2026-08-07 19:59:50",
       "gameid": "1438048",
       "kickoff_cst": "2026-08-08 03:15",
       "matchnum_label": "周五010",
@@ -522,24 +522,6 @@
       "matchnum_label": "周日004",
       "home_team_id": "518",
       "away_team_id": "801"
-    },
-    {
-      "xml_id": "2040776",
-      "matchnum": "7006",
-      "date": "2026-08-09",
-      "dayofweek": "星期天",
-      "league": "德国乙级联赛",
-      "home": "纽伦堡",
-      "away": "德累斯顿",
-      "spf_win": "4.10",
-      "spf_draw": "3.78",
-      "spf_lost": "1.61",
-      "spf_updated": "2026-08-07 09:35:10",
-      "gameid": "1429892",
-      "kickoff_cst": "2026-08-09 19:30",
-      "matchnum_label": "周日006",
-      "home_team_id": "1138",
-      "away_team_id": "4654"
     },
     {
       "xml_id": "2040779",
