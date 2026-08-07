@@ -24,7 +24,7 @@
       "lost": "2.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-07T22:50:16Z"
+    "fetched_at_utc": "2026-08-07T23:00:16Z"
   },
   "shuju": {
     "title": "波城VS阿纳西(2026/2027法乙)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "平手",
-        "away_water": "0.870↓",
-        "time": "08-07 11:52"
-      },
-      "init": {
-        "home_water": "0.760",
-        "handicap": "平手",
-        "away_water": "1.000",
-        "time": "08-01 22:32"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "平手",
         "away_water": "0.990",
         "time": "08-04 10:52"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.870↑",
+        "handicap": "平手",
+        "away_water": "0.870↓",
+        "time": "08-07 11:52"
+      },
+      "init": {
+        "home_water": "0.760",
+        "handicap": "平手",
+        "away_water": "1.000",
+        "time": "08-01 22:32"
       }
     },
     {
