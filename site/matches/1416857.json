@@ -24,7 +24,7 @@
       "lost": "4.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T12:50:41Z"
+    "fetched_at_utc": "2026-08-08T13:00:43Z"
   },
   "shuju": {
     "title": "南特VS圣旺红星(2026/2027法乙)-数据分析-500彩票网",
@@ -610,22 +610,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880",
-        "handicap": "半球",
-        "away_water": "0.950",
-        "time": "08-08 18:28"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "半球",
-        "away_water": "0.950",
-        "time": "08-04 10:52"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -639,6 +623,22 @@
         "handicap": "半球/一球",
         "away_water": "0.680",
         "time": "08-06 16:57"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880",
+        "handicap": "半球",
+        "away_water": "0.950",
+        "time": "08-08 18:28"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "半球",
+        "away_water": "0.950",
+        "time": "08-04 10:52"
       }
     },
     {
@@ -709,10 +709,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.860",
+        "home_water": "0.870↑",
         "handicap": "半球降",
-        "away_water": "0.950↑",
-        "time": "08-08 19:07"
+        "away_water": "0.930↑",
+        "time": "08-08 20:41"
       },
       "init": {
         "home_water": "0.860",
@@ -725,10 +725,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.880↑",
+        "home_water": "0.910↑",
         "handicap": "半球降",
-        "away_water": "0.980↓",
-        "time": "08-08 19:13"
+        "away_water": "0.950↓",
+        "time": "08-08 20:54"
       },
       "init": {
         "home_water": "0.870",
