@@ -1,0 +1,976 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>库奥皮奥 vs TPS图尔库 · caipiao</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="alternate" type="text/markdown" href="1363736.md">
+<style>
+:root { color-scheme: light dark; --fg:#222; --bg:#fff; --muted:#666; --border:#ddd; --accent:#2684ff; --code-bg:#f4f4f6; }
+@media (prefers-color-scheme: dark) {
+  :root { --fg:#e8e8ea; --bg:#1a1a1c; --muted:#999; --border:#333; --accent:#5aa3ff; --code-bg:#222; }
+}
+* { box-sizing: border-box; }
+body {
+  font: 15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB",sans-serif;
+  color: var(--fg); background: var(--bg); margin: 0;
+}
+main { max-width: 1100px; margin: 0 auto; padding: 1.5rem 1.2rem 4rem; }
+nav  { max-width: 1100px; margin: 0 auto; padding: 1rem 1.2rem; border-bottom: 1px solid var(--border);
+       display: flex; gap: 1.2rem; font-size: .92rem; }
+nav a { color: var(--accent); text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+h1 { font-size: 1.6rem; margin: 1.2rem 0 1rem; border-bottom: 2px solid var(--border); padding-bottom: .5rem; }
+h2 { font-size: 1.2rem; margin: 1.6rem 0 .6rem; color: var(--fg); }
+h3 { font-size: 1.05rem; margin: 1.1rem 0 .4rem; color: var(--muted); }
+p  { margin: .55rem 0; }
+a  { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { background: var(--code-bg); padding: 1px 5px; border-radius: 4px; font-size: .88em;
+       font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+pre { background: var(--code-bg); padding: .8rem 1rem; border-radius: 6px; overflow-x: auto; }
+hr { border: 0; border-top: 1px solid var(--border); margin: 1.5rem 0; }
+ul, ol { padding-left: 1.4rem; }
+li { margin: .15rem 0; }
+
+.table-wrap { overflow-x: auto; margin: .6rem 0 1rem; border: 1px solid var(--border); border-radius: 6px; }
+table { width: 100%; border-collapse: collapse; font-size: .88rem; }
+th, td { text-align: left; padding: .45rem .7rem; border-bottom: 1px solid var(--border); white-space: nowrap; }
+th { background: var(--code-bg); font-weight: 600; color: var(--muted); }
+tr:last-child td { border-bottom: 0; }
+
+.fm-box { border: 1px solid var(--border); border-radius: 8px; padding: .8rem 1rem;
+          margin: 0 0 1.2rem; background: var(--code-bg); font-size: .9rem; }
+.fm-box .fm-row { display: flex; gap: .6rem; padding: .2rem 0; }
+.fm-box .fm-k { width: 140px; color: var(--muted); flex-shrink: 0; }
+.fm-box .fm-v { flex: 1; font-family: ui-monospace,SFMono-Regular,Menlo,monospace; font-size: .88rem; word-break: break-all; }
+
+footer { max-width: 1100px; margin: 3rem auto 2rem; padding: 0 1.2rem; color: var(--muted); font-size: .8rem;
+         border-top: 1px solid var(--border); padding-top: 1rem; }
+
+button { font: inherit; padding: .5rem 1rem; border: 1px solid var(--border);
+         border-radius: 6px; background: var(--accent); color: #fff; cursor: pointer; }
+button:hover { opacity: .88; }
+button:disabled { opacity: .5; cursor: default; }
+
+.quick { margin: 1rem 0 2rem; padding: 1rem 1.2rem; border: 1px solid var(--border);
+         border-radius: 8px; background: var(--code-bg); }
+.quick h2 { margin: 0 0 .6rem; font-size: 1rem; color: var(--muted); font-weight: 600; }
+.quick ul { list-style: none; padding: 0; margin: 0 0 1rem; }
+.quick li { padding: .35rem 0; border-bottom: 1px dashed var(--border);
+            display: flex; gap: .8rem; align-items: baseline; flex-wrap: wrap; }
+.quick li:last-child { border-bottom: 0; }
+.quick .meta { color: var(--muted); font-size: .82rem; font-variant-numeric: tabular-nums;
+               min-width: 11rem; flex-shrink: 0; }
+.quick .teams { flex: 1; }
+.quick .url { margin-left: auto; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+              font-size: .8rem; color: var(--muted); white-space: nowrap;
+              overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+.quick .url:hover { color: var(--accent); }
+@media (max-width: 700px) {
+  .quick .url { margin-left: 0; flex-basis: 100%; }
+}
+.quick .hint { font-size: .78rem; color: var(--muted); margin-top: .6rem; }
+</style>
+</head>
+<body>
+<nav>
+  <a href="/">首页</a>
+  <a href="/SKILL.html">SKILL（AI 指南）</a>
+  <a href="1363736.md">查看原始 Markdown</a>
+  <a href="/_meta.json">_meta.json</a>
+</nav>
+<main>
+<h1>库奥皮奥 vs TPS图尔库</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">gameid</div><div class="fm-v">1363736</div></div><div class="fm-row"><div class="fm-k">matchnum</div><div class="fm-v">7008</div></div><div class="fm-row"><div class="fm-k">date</div><div class="fm-v">2026-08-09</div></div><div class="fm-row"><div class="fm-k">league</div><div class="fm-v">芬兰超级联赛</div></div><div class="fm-row"><div class="fm-k">home</div><div class="fm-v">库奥皮奥</div></div><div class="fm-row"><div class="fm-k">away</div><div class="fm-v">TPS图尔库</div></div><div class="fm-row"><div class="fm-k">kickoff_cst</div><div class="fm-v">2026-08-09 20:00</div></div><div class="fm-row"><div class="fm-k">spf</div><div class="fm-v"><b>win</b>:2.13 · <b>draw</b>:3.45 · <b>lost</b>:2.70</div></div><div class="fm-row"><div class="fm-k">asia_main</div><div class="fm-v"><b>handicap</b>:一球/球半 · <b>home_water</b>:0.970↓ · <b>away_water</b>:0.700↓ · <b>company</b>:威***</div></div><div class="fm-row"><div class="fm-k">euro_main</div><div class="fm-v"><b>win</b>:1.34 · <b>draw</b>:4.55 · <b>lost</b>:6.15 · <b>company</b>:官*</div></div><div class="fm-row"><div class="fm-k">fetched_at_utc</div><div class="fm-v">2026-08-08T19:30:10Z</div></div></div>
+
+<h1>库奥皮奥 vs TPS图尔库</h1>
+<h2>交战历史</h2>
+<p>双方近 6 次交战，古比斯 4胜 1平 1负 ，进12球，失8球 ，大球5次，小球1次</p>
+<ul>
+<li>古比斯 [芬超1]</li>
+<li>TPS图尔库 [芬超8]</li>
+</ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 比分 客队</th>
+<th>半场</th>
+<th>赛果</th>
+<th></th>
+<th>盘路</th>
+<th>大小</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>芬超</td>
+<td>2026-06-17</td>
+<td>[5] TPS图尔库 1: 2 古比斯 [3]</td>
+<td>0: 1</td>
+<td>胜</td>
+<td>1.04 受半球/一球 0.74</td>
+<td>赢</td>
+<td>大</td>
+<td>-</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>2020-11-05</td>
+<td>[11] TPS图尔库 3: 2 古比斯 [2]</td>
+<td>1 : 1</td>
+<td>负</td>
+<td>0.9 受半球 0.8</td>
+<td>输</td>
+<td>大</td>
+<td>-</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>2020-08-29</td>
+<td>[3] 古比斯 3 :1 TPS图尔库 [9]</td>
+<td>3 :1</td>
+<td>胜</td>
+<td>0.94 球半 0.86</td>
+<td>赢</td>
+<td>大</td>
+<td>-</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>2018-10-21</td>
+<td>[3] 古比斯 2 :1 TPS图尔库 [11]</td>
+<td>0 :1</td>
+<td>胜</td>
+<td>0.7 一球 1.1</td>
+<td>走</td>
+<td>大</td>
+<td>-</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>2018-08-05</td>
+<td>[7] 古比斯 3 :2 TPS图尔库 [11]</td>
+<td>2 : 2</td>
+<td>胜</td>
+<td>0.84 一球 0.96</td>
+<td>走</td>
+<td>大</td>
+<td>-</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>2018-06-01</td>
+<td>[12] TPS图尔库 0 : 0 古比斯 [3]</td>
+<td>0 : 0</td>
+<td>平</td>
+<td>0.8 受半球 1</td>
+<td>输</td>
+<td>小</td>
+<td>-</td>
+</tr>
+</tbody>
+</table></div>
+<h2>近期战绩 · 库奥皮奥</h2>
+<p>古比斯 近10场战绩 6胜 1平 3负 进 17球 失 10球</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 比分 客队</th>
+<th>盘口</th>
+<th>半场</th>
+<th>赛果</th>
+<th>盘路</th>
+<th>大小</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>欧罗巴</td>
+<td>26-08-06</td>
+<td>古比斯 1 : 1 克拉约瓦大学</td>
+<td>0.25</td>
+<td>0 :1</td>
+<td>平</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-08-02</td>
+<td>格尼斯坦 0: 1 古比斯</td>
+<td>0.25</td>
+<td>0: 1</td>
+<td>胜</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>欧冠</td>
+<td>26-07-28</td>
+<td>古比斯 0 :2 萨巴赫</td>
+<td>0.25</td>
+<td>0 : 0</td>
+<td>负</td>
+<td>输</td>
+<td>小</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-07-25</td>
+<td>古比斯 3 :1 VPS瓦萨</td>
+<td>-0.25</td>
+<td>3 :0</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>欧冠</td>
+<td>26-07-22</td>
+<td>萨巴赫 1: 0 古比斯</td>
+<td>-1.25</td>
+<td>1: 0</td>
+<td>负</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-07-18</td>
+<td>塞那乔其 0: 2 古比斯</td>
+<td>-0.25</td>
+<td>0: 2</td>
+<td>胜</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>欧冠</td>
+<td>26-07-14</td>
+<td>古比斯 0 :2 华达</td>
+<td>-1</td>
+<td>0 : 0</td>
+<td>负</td>
+<td>输</td>
+<td>小</td>
+</tr>
+<tr>
+<td>欧冠</td>
+<td>26-07-08</td>
+<td>华达 0: 2 古比斯</td>
+<td>-0.25</td>
+<td>0: 1</td>
+<td>胜</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-06-27</td>
+<td>赫尔辛基 0: 4 古比斯</td>
+<td>-0.25</td>
+<td>0: 1</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-06-23</td>
+<td>古比斯 4 :3 埃尔维斯</td>
+<td>-0.75</td>
+<td>4 :1</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+</tbody>
+</table></div>
+<h2>近期战绩 · TPS图尔库</h2>
+<p>TPS图尔库 近10场战绩 4胜 1平 5负 进 13球 失 12球</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 比分 客队</th>
+<th>盘口</th>
+<th>半场</th>
+<th>赛果</th>
+<th>盘路</th>
+<th>大小</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>芬超</td>
+<td>26-08-01</td>
+<td>TPS图尔库 3 :0 玛丽港</td>
+<td>-1</td>
+<td>2 :0</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-07-26</td>
+<td>赫尔辛基 1: 0 TPS图尔库</td>
+<td>-1.5</td>
+<td>1: 0</td>
+<td>负</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-07-20</td>
+<td>TPS图尔库 1 :3 埃尔维斯</td>
+<td>0.25</td>
+<td>1 :2</td>
+<td>负</td>
+<td>输</td>
+<td>大</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-07-11</td>
+<td>TPS图尔库 3 :0 奥卢</td>
+<td>0</td>
+<td>3 :0</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-07-04</td>
+<td>塞那乔其 3: 1 TPS图尔库</td>
+<td>-0.75</td>
+<td>1: 0</td>
+<td>负</td>
+<td>输</td>
+<td>大</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-06-28</td>
+<td>TPS图尔库 3 :2 雅罗</td>
+<td>-0.5</td>
+<td>1 :2</td>
+<td>胜</td>
+<td>赢</td>
+<td>大</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-06-23</td>
+<td>拉赫蒂 0 : 0 TPS图尔库</td>
+<td>-0.75</td>
+<td>0 : 0</td>
+<td>平</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-06-17</td>
+<td>TPS图尔库 1 :2 古比斯</td>
+<td>0.75</td>
+<td>0 :1</td>
+<td>负</td>
+<td>输</td>
+<td>大</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-06-13</td>
+<td>埃尔维斯 1: 0 TPS图尔库</td>
+<td>-0.75</td>
+<td>0 : 0</td>
+<td>负</td>
+<td>输</td>
+<td>小</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>26-05-30</td>
+<td>TPS图尔库 1 :0 VPS瓦萨</td>
+<td>0.25</td>
+<td>0 : 0</td>
+<td>胜</td>
+<td>赢</td>
+<td>小</td>
+</tr>
+</tbody>
+</table></div>
+<h2>未来赛事 · 库奥皮奥</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 客队</th>
+<th>相隔</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>欧罗巴</td>
+<td>2026-08-14</td>
+<td>克拉约瓦大学 VS 古比斯</td>
+<td>5天</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>2026-08-16</td>
+<td>拉赫蒂 VS 古比斯</td>
+<td>7天</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>2026-08-23</td>
+<td>古比斯 VS 玛丽港</td>
+<td>14天</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>2026-09-01</td>
+<td>图尔库国际 VS 古比斯</td>
+<td>23天</td>
+</tr>
+</tbody>
+</table></div>
+<h2>未来赛事 · TPS图尔库</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>赛事</th>
+<th>比赛日期</th>
+<th>主队 客队</th>
+<th>相隔</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>芬超</td>
+<td>2026-08-14</td>
+<td>VPS瓦萨 VS TPS图尔库</td>
+<td>5天</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>2026-08-22</td>
+<td>TPS图尔库 VS 图尔库国际</td>
+<td>13天</td>
+</tr>
+<tr>
+<td>芬超</td>
+<td>2026-09-01</td>
+<td>格尼斯坦 VS TPS图尔库</td>
+<td>23天</td>
+</tr>
+</tbody>
+</table></div>
+<h2>预计阵容</h2>
+<h3>库奥皮奥（阵型：未公布）</h3>
+<ul>
+<li><strong>首发</strong>：#11 加梅·莫雷诺 (前锋)、#24 鲍勃·尼·阿玛 (中场)、#16 托米·吉利 (中场)、#21 乔斯林·卢通巴·卢耶耶 (中场)、#22 赛科·图雷 (中场)、#10 瓦伦丁·盖思科 (中场)、#25 克林顿·安特维 (后卫)、#4 卡西姆·亚当斯 (后卫)、#28 布拉希玛·马加萨 (后卫)、#29 阿克塞利·普科 (后卫)、#12 赫墨·里希迈基 (守门员)</li>
+<li><strong>替补</strong>：#37 卡斯佩里·西伦 (守门员)、#6 萨库·萨瓦莱宁 (前锋)、#20 皮奥特尔·帕尔兹泽克 (前锋)、#23 阿图·洛乔宁 (后卫)、#13 尼洛·库贾萨洛 (中场)、#19 卡尔文·卡布耶 (前锋)、#3 萨库·海斯卡宁 (中场)、#17 阿尔图·海诺宁 (中场)、#33 塔内利·海马莱宁 (后卫)</li>
+</ul>
+<h3>TPS图尔库（阵型：未公布）</h3>
+<ul>
+<li><strong>首发</strong>：#99 基安·维塞尔 (前锋)、#41 塞缪尔·阿尼尼 (中场)、#29 阿尔比恩·穆扎奇 (中场)、#10 马吕斯·孔科拉 (中场)、#22 蒂莫·扎尔 (中场)、#26 拉瑟·伊科宁 (中场)、#24 尼古拉斯·塔罗 (后卫)、#14 马特·赫拉迪基 (后卫)、#15 查理曼·阿宗尼托德 (后卫)、#2 奥斯卡·哈格斯特罗姆 (后卫)、#1 埃尔莫·亨里克森 (守门员)</li>
+<li><strong>替补</strong>：#44 尼尔斯·魏因贝格 (前锋)、#13 西奥多罗斯·齐里戈蒂斯 (前锋)、#28 托米·瓦基帕塔 (中场)、#11 埃尔默·沃赫科宁 (前锋)、#8 阿利·库利巴利 (中场)、#20 米卡·考皮拉 (前锋)、#17 阿泰·希沃宁 (后卫)、#4 阿基姆·赛里宁 (后卫)、#12 亨里克·阿苏拉 (守门员)</li>
+</ul>
+<h2>亚盘（16 家）</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>公司</th>
+<th>即时主水</th>
+<th>盘口</th>
+<th>即时客水</th>
+<th>即时时间</th>
+<th>初始主水</th>
+<th>初始盘口</th>
+<th>初始客水</th>
+<th>初始时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>威***</td>
+<td>0.970↓</td>
+<td>一球/球半</td>
+<td>0.700↓</td>
+<td>08-07 07:42</td>
+<td>1.030</td>
+<td>一球/球半</td>
+<td>0.760</td>
+<td>08-02 22:34</td>
+</tr>
+<tr>
+<td>*门</td>
+<td>0.970</td>
+<td>一球/球半</td>
+<td>0.810</td>
+<td>08-04 22:00</td>
+<td>0.970</td>
+<td>一球/球半</td>
+<td>0.810</td>
+<td>08-04 22:00</td>
+</tr>
+<tr>
+<td>立*</td>
+<td>1.200</td>
+<td>球半</td>
+<td>0.610</td>
+<td>08-07 08:46</td>
+<td>1.200</td>
+<td>球半</td>
+<td>0.610</td>
+<td>08-07 08:46</td>
+</tr>
+<tr>
+<td>B<strong>*</strong></td>
+<td>1.020</td>
+<td>一球/球半</td>
+<td>0.770</td>
+<td>08-08 06:56</td>
+<td>1.020</td>
+<td>一球/球半</td>
+<td>0.770</td>
+<td>08-08 06:56</td>
+</tr>
+<tr>
+<td>I<strong><em>*</em></strong>***</td>
+<td>0.750↑</td>
+<td>一球</td>
+<td>0.950↓</td>
+<td>08-08 23:36</td>
+<td>0.700</td>
+<td>一球</td>
+<td>1.050</td>
+<td>08-02 20:29</td>
+</tr>
+<tr>
+<td>*冠</td>
+<td>1.070↑</td>
+<td>一球/球半</td>
+<td>0.810↓</td>
+<td>08-08 03:48</td>
+<td>1.020</td>
+<td>一球/球半</td>
+<td>0.860</td>
+<td>08-03 10:53</td>
+</tr>
+<tr>
+<td>易**</td>
+<td>1.050↑</td>
+<td>一球/球半</td>
+<td>0.780↓</td>
+<td>08-09 03:13</td>
+<td>1.020</td>
+<td>一球/球半</td>
+<td>0.800</td>
+<td>08-05 10:20</td>
+</tr>
+<tr>
+<td>o***</td>
+<td>0.760↑</td>
+<td>一球</td>
+<td>1.000↓</td>
+<td>08-09 03:16</td>
+<td>0.750</td>
+<td>一球</td>
+<td>1.010</td>
+<td>08-02 21:17</td>
+</tr>
+<tr>
+<td>伟*</td>
+<td>1.050↑</td>
+<td>一球/球半</td>
+<td>0.780↓</td>
+<td>08-09 03:15</td>
+<td>1.010</td>
+<td>一球/球半</td>
+<td>0.810</td>
+<td>08-06 20:07</td>
+</tr>
+<tr>
+<td>P<strong><em>*</em></strong>**</td>
+<td>1.090↑</td>
+<td>一球/球半升</td>
+<td>0.800↓</td>
+<td>08-09 03:21</td>
+<td>0.790</td>
+<td>一球</td>
+<td>1.040</td>
+<td>08-02 20:14</td>
+</tr>
+<tr>
+<td>利*</td>
+<td>1.080↑</td>
+<td>一球/球半</td>
+<td>0.820↓</td>
+<td>08-07 08:28</td>
+<td>1.070</td>
+<td>一球/球半</td>
+<td>0.830</td>
+<td>08-04 00:17</td>
+</tr>
+<tr>
+<td>M<strong><em>*</em></strong><strong>*</strong>*</td>
+<td>1.080↑</td>
+<td>一球/球半升</td>
+<td>0.810↓</td>
+<td>08-09 03:14</td>
+<td>0.760</td>
+<td>一球</td>
+<td>1.130</td>
+<td>08-04 16:27</td>
+</tr>
+<tr>
+<td>香***</td>
+<td>0.900</td>
+<td>一球/球半</td>
+<td>0.860</td>
+<td>08-07 05:40</td>
+<td>0.900</td>
+<td>一球/球半</td>
+<td>0.860</td>
+<td>08-07 05:40</td>
+</tr>
+<tr>
+<td>1<strong><em>*</em></strong>***</td>
+<td>1.080↑</td>
+<td>一球/球半</td>
+<td>0.810↓</td>
+<td>08-09 03:10</td>
+<td>1.040</td>
+<td>一球/球半</td>
+<td>0.840</td>
+<td>08-04 16:28</td>
+</tr>
+<tr>
+<td>1****</td>
+<td>0.760↓</td>
+<td>一球降</td>
+<td>1.000↑</td>
+<td>08-09 03:10</td>
+<td>0.920</td>
+<td>一球/球半</td>
+<td>0.800</td>
+<td>08-02 20:13</td>
+</tr>
+<tr>
+<td>W<strong><em>*</em></strong>***</td>
+<td>1.080↑</td>
+<td>一球/球半</td>
+<td>0.820</td>
+<td>08-09 03:17</td>
+<td>1.060</td>
+<td>一球/球半</td>
+<td>0.820</td>
+<td>08-02 21:02</td>
+</tr>
+</tbody>
+</table></div>
+<h2>欧赔（30 家）</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>公司</th>
+<th>即时 胜/平/负</th>
+<th>初始 胜/平/负</th>
+<th>即时概率</th>
+<th>即时返还</th>
+<th>即时凯利</th>
+<th>更新</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>官*</td>
+<td>1.34/4.55/6.15</td>
+<td>1.34/4.55/6.15</td>
+<td>66.12%/19.47%/14.41%</td>
+<td>88.60%</td>
+<td>0.85/0.96/0.94</td>
+<td>2026-08-08 09:34:15</td>
+</tr>
+<tr>
+<td>威***</td>
+<td>1.44/4.20/6.00</td>
+<td>1.44/4.20/5.80</td>
+<td>63.18%/21.66%/15.16%</td>
+<td>90.97%</td>
+<td>0.91/0.89/0.92</td>
+<td>2026-08-08 03:48:08</td>
+</tr>
+<tr>
+<td>*门</td>
+<td>1.40/4.45/5.50</td>
+<td>1.40/4.45/5.50</td>
+<td>63.73%/20.05%/16.22%</td>
+<td>89.22%</td>
+<td>0.89/0.94/0.84</td>
+<td>2026-08-04 21:59:13</td>
+</tr>
+<tr>
+<td>立*</td>
+<td>1.44/4.20/5.50</td>
+<td>1.44/4.00/5.50</td>
+<td>62.32%/21.37%/16.32%</td>
+<td>89.74%</td>
+<td>0.91/0.89/0.84</td>
+<td>2026-08-08 23:15:49</td>
+</tr>
+<tr>
+<td>B<strong>*</strong></td>
+<td>1.42/4.33/5.75</td>
+<td>1.45/4.20/5.50</td>
+<td>63.50%/20.82%/15.68%</td>
+<td>90.16%</td>
+<td>0.90/0.91/0.88</td>
+<td>2026-08-08 03:58:55</td>
+</tr>
+<tr>
+<td>I<strong><em>*</em></strong>***</td>
+<td>1.47/4.30/6.00</td>
+<td>1.50/4.30/6.00</td>
+<td>63.02%/21.54%/15.44%</td>
+<td>92.64%</td>
+<td>0.93/0.91/0.92</td>
+<td>2026-08-09 02:29:22</td>
+</tr>
+<tr>
+<td>S***</td>
+<td>1.45/4.50/6.00</td>
+<td>1.45/4.50/6.50</td>
+<td>63.94%/20.60%/15.45%</td>
+<td>92.72%</td>
+<td>0.92/0.95/0.92</td>
+<td>2026-08-09 01:55:25</td>
+</tr>
+<tr>
+<td>*冠</td>
+<td>1.45/4.60/5.70</td>
+<td>1.47/4.50/5.60</td>
+<td>63.71%/20.08%/16.21%</td>
+<td>92.38%</td>
+<td>0.92/0.97/0.88</td>
+<td>2026-08-08 21:28:05</td>
+</tr>
+<tr>
+<td>易**</td>
+<td>1.42/4.30/5.80</td>
+<td>1.45/4.20/5.50</td>
+<td>63.49%/20.97%/15.54%</td>
+<td>90.16%</td>
+<td>0.90/0.91/0.89</td>
+<td>2026-08-08 03:49:44</td>
+</tr>
+<tr>
+<td>伟*</td>
+<td>1.44/4.33/6.00</td>
+<td>1.44/4.20/6.00</td>
+<td>63.59%/21.15%/15.26%</td>
+<td>91.57%</td>
+<td>0.91/0.91/0.92</td>
+<td>2026-08-09 03:10:21</td>
+</tr>
+<tr>
+<td>B***</td>
+<td>1.46/4.50/6.00</td>
+<td>1.49/4.33/6.25</td>
+<td>63.78%/20.69%/15.52%</td>
+<td>93.13%</td>
+<td>0.93/0.95/0.92</td>
+<td>2026-08-09 01:52:30</td>
+</tr>
+<tr>
+<td>P<strong><em>*</em></strong>**</td>
+<td>1.44/4.69/6.25</td>
+<td>1.49/4.60/6.40</td>
+<td>65.04%/19.97%/14.99%</td>
+<td>93.66%</td>
+<td>0.91/0.99/0.96</td>
+<td>2026-08-09 03:20:07</td>
+</tr>
+<tr>
+<td>1****</td>
+<td>1.45/4.40/5.80</td>
+<td>1.47/4.50/5.80</td>
+<td>63.31%/20.86%/15.83%</td>
+<td>91.80%</td>
+<td>0.92/0.93/0.89</td>
+<td>2026-08-08 03:58:09</td>
+</tr>
+<tr>
+<td>C****</td>
+<td>1.44/4.20/5.50</td>
+<td>1.44/4.00/5.50</td>
+<td>62.32%/21.37%/16.32%</td>
+<td>89.74%</td>
+<td>0.91/0.89/0.84</td>
+<td>2026-08-08 23:34:49</td>
+</tr>
+<tr>
+<td>利*</td>
+<td>1.44/4.25/5.70</td>
+<td>1.42/4.20/6.20</td>
+<td>62.84%/21.29%/15.87%</td>
+<td>90.48%</td>
+<td>0.91/0.90/0.88</td>
+<td>2026-08-09 02:45:57</td>
+</tr>
+<tr>
+<td>U<strong><em>*</em></strong>****</td>
+<td>1.46/4.35/6.00</td>
+<td>1.48/4.50/6.00</td>
+<td>63.33%/21.26%/15.41%</td>
+<td>92.47%</td>
+<td>0.93/0.92/0.92</td>
+<td>2026-08-08 03:53:41</td>
+</tr>
+<tr>
+<td>S<strong><em>*</em></strong><strong><em>*</em></strong>**</td>
+<td>1.46/4.50/6.00</td>
+<td>1.49/4.33/6.25</td>
+<td>63.78%/20.69%/15.52%</td>
+<td>93.13%</td>
+<td>0.93/0.95/0.92</td>
+<td>2026-08-09 01:55:38</td>
+</tr>
+<tr>
+<td>I<strong><em>*</em></strong>***</td>
+<td>1.45/4.30/6.30</td>
+<td>1.45/4.15/6.50</td>
+<td>63.80%/21.51%/14.68%</td>
+<td>92.51%</td>
+<td>0.92/0.91/0.97</td>
+<td>2026-08-09 03:11:14</td>
+</tr>
+<tr>
+<td>M<strong><em>*</em></strong><strong>*</strong>*</td>
+<td>1.45/4.30/6.30</td>
+<td>1.46/4.15/6.50</td>
+<td>63.80%/21.51%/14.68%</td>
+<td>92.51%</td>
+<td>0.92/0.91/0.97</td>
+<td>2026-08-09 03:21:17</td>
+</tr>
+<tr>
+<td>香***</td>
+<td>1.32/4.55/6.30</td>
+<td>1.32/4.55/6.30</td>
+<td>66.68%/19.35%/13.97%</td>
+<td>88.02%</td>
+<td>0.84/0.96/0.97</td>
+<td>2026-08-07 05:40:36</td>
+</tr>
+<tr>
+<td>1<strong><em>*</em></strong>***</td>
+<td>1.45/4.30/6.30</td>
+<td>1.46/4.15/6.50</td>
+<td>63.80%/21.51%/14.68%</td>
+<td>92.51%</td>
+<td>0.92/0.91/0.97</td>
+<td>2026-08-09 03:22:06</td>
+</tr>
+<tr>
+<td>8<strong><em>*</em></strong></td>
+<td>1.44/4.40/5.75</td>
+<td>1.44/4.20/5.75</td>
+<td>63.38%/20.74%/15.87%</td>
+<td>91.27%</td>
+<td>0.91/0.93/0.88</td>
+<td>2026-08-08 03:53:16</td>
+</tr>
+<tr>
+<td>大**</td>
+<td>1.46/4.50/6.00</td>
+<td>1.49/4.70/6.00</td>
+<td>63.78%/20.69%/15.52%</td>
+<td>93.13%</td>
+<td>0.93/0.95/0.92</td>
+<td>2026-08-08 03:53:13</td>
+</tr>
+<tr>
+<td>必*</td>
+<td>1.42/4.50/5.25</td>
+<td>1.50/4.70/7.00</td>
+<td>63.05%/19.90%/17.05%</td>
+<td>89.53%</td>
+<td>0.90/0.95/0.81</td>
+<td>2026-08-09 02:45:40</td>
+</tr>
+<tr>
+<td>1****</td>
+<td>1.41/4.60/6.25</td>
+<td>1.46/4.40/6.00</td>
+<td>65.27%/20.01%/14.72%</td>
+<td>92.03%</td>
+<td>0.90/0.97/0.96</td>
+<td>2026-08-09 02:57:57</td>
+</tr>
+<tr>
+<td>1****</td>
+<td>1.47/4.45/6.15</td>
+<td>1.47/4.40/6.25</td>
+<td>63.72%/21.05%/15.23%</td>
+<td>93.67%</td>
+<td>0.93/0.94/0.94</td>
+<td>2026-08-09 03:13:30</td>
+</tr>
+<tr>
+<td>I<strong><em>*</em></strong>*</td>
+<td>1.40/4.33/5.50</td>
+<td>1.40/4.33/5.50</td>
+<td>63.38%/20.49%/16.13%</td>
+<td>88.73%</td>
+<td>0.89/0.91/0.84</td>
+<td>2026-08-03 16:30:11</td>
+</tr>
+<tr>
+<td><strong>t</strong><strong>*</strong>*</td>
+<td>1.43/4.30/5.75</td>
+<td>1.45/4.30/5.75</td>
+<td>63.24%/21.03%/15.73%</td>
+<td>90.43%</td>
+<td>0.91/0.91/0.88</td>
+<td>2026-08-09 03:11:12</td>
+</tr>
+<tr>
+<td><strong>t</strong>**</td>
+<td>1.43/4.30/5.80</td>
+<td>1.45/4.40/5.70</td>
+<td>63.33%/21.06%/15.61%</td>
+<td>90.56%</td>
+<td>0.91/0.91/0.89</td>
+<td>2026-08-08 04:41:43</td>
+</tr>
+<tr>
+<td><strong>t</strong>**</td>
+<td>1.43/4.50/6.00</td>
+<td>1.45/4.35/6.00</td>
+<td>64.26%/20.42%/15.32%</td>
+<td>91.90%</td>
+<td>0.91/0.95/0.92</td>
+<td>2026-08-09 02:52:13</td>
+</tr>
+</tbody>
+</table></div>
+</main>
+<footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
+</body>
+</html>
