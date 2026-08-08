@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-08T02:30:27Z",
+  "last_updated_utc": "2026-08-08T02:40:26Z",
   "matches": [
     {
       "xml_id": "2040750",
@@ -306,24 +306,6 @@
       "matchnum_label": "周日001",
       "home_team_id": "775",
       "away_team_id": "2272"
-    },
-    {
-      "xml_id": "2040774",
-      "matchnum": "7002",
-      "date": "2026-08-09",
-      "dayofweek": "星期天",
-      "league": "日本职业联赛",
-      "home": "长崎航海",
-      "away": "京都不死鸟",
-      "spf_win": "1.52",
-      "spf_draw": "3.70",
-      "spf_lost": "5.00",
-      "spf_updated": "2026-08-07 09:35:10",
-      "gameid": "1418868",
-      "kickoff_cst": "2026-08-09 18:00",
-      "matchnum_label": "周日002",
-      "home_team_id": "6072",
-      "away_team_id": "907"
     },
     {
       "xml_id": "2040775",
