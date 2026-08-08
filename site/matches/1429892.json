@@ -24,7 +24,7 @@
       "lost": "3.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T08:40:26Z"
+    "fetched_at_utc": "2026-08-08T08:50:25Z"
   },
   "shuju": {
     "title": "纽伦堡VS德累斯顿(2026/2027德乙)-数据分析-500彩票网",
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "平手/半球降",
-        "away_water": "0.840↑",
-        "time": "08-07 03:37"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "半球/一球",
-        "away_water": "0.720",
-        "time": "07-29 19:37"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "半球",
         "away_water": "0.910",
         "time": "07-29 23:32"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "平手/半球降",
+        "away_water": "0.840↑",
+        "time": "08-07 03:37"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "半球/一球",
+        "away_water": "0.720",
+        "time": "07-29 19:37"
       }
     },
     {
