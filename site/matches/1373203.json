@@ -24,7 +24,7 @@
       "lost": "2.25",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T13:50:08Z"
+    "fetched_at_utc": "2026-08-08T14:00:09Z"
   },
   "shuju": {
     "title": "安养FCVS大田市民(2026K1联赛)-数据分析-500彩票网",
@@ -699,10 +699,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.960↓",
+        "home_water": "0.970↓",
         "handicap": "受半球降",
-        "away_water": "0.930↑",
-        "time": "08-08 18:54"
+        "away_water": "0.910↑",
+        "time": "08-08 19:00"
       },
       "init": {
         "home_water": "1.070",
@@ -747,10 +747,10 @@
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "0.910↓",
+        "home_water": "0.850↓",
         "handicap": "受半球降",
-        "away_water": "0.880↑",
-        "time": "08-08 18:55"
+        "away_water": "0.950↑",
+        "time": "08-08 19:00"
       },
       "init": {
         "home_water": "1.020",
@@ -763,16 +763,32 @@
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.950↑",
         "handicap": "受半球降",
         "away_water": "0.930",
-        "time": "08-08 18:58"
+        "time": "08-08 19:01"
       },
       "init": {
         "home_water": "0.880",
         "handicap": "受平手/半球",
         "away_water": "0.930",
         "time": "08-02 18:42"
+      }
+    },
+    {
+      "cid": "16",
+      "company": "1****",
+      "live": {
+        "home_water": "",
+        "handicap": "平手",
+        "away_water": "",
+        "time": "08-08 19:01"
+      },
+      "init": {
+        "home_water": "",
+        "handicap": "平手",
+        "away_water": "",
+        "time": "08-08 19:01"
       }
     },
     {
@@ -827,10 +843,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.870↑",
+        "home_water": "0.830↑",
         "handicap": "受半球降",
-        "away_water": "0.870↓",
-        "time": "08-08 18:59"
+        "away_water": "0.910↓",
+        "time": "08-08 19:00"
       },
       "init": {
         "home_water": "0.730",
