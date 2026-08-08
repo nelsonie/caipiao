@@ -24,7 +24,7 @@
       "lost": "6.15",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T04:40:26Z"
+    "fetched_at_utc": "2026-08-08T04:50:28Z"
   },
   "shuju": {
     "title": "库普斯VSTPS土尔库(2026芬超)-数据分析-500彩票网",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.040↑",
-        "handicap": "一球/球半",
-        "away_water": "0.790↓",
-        "time": "08-08 03:53"
-      },
-      "init": {
-        "home_water": "1.010",
-        "handicap": "一球/球半",
-        "away_water": "0.810",
-        "time": "08-06 20:07"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "一球",
         "away_water": "1.010",
         "time": "08-02 21:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.040↑",
+        "handicap": "一球/球半",
+        "away_water": "0.790↓",
+        "time": "08-08 03:53"
+      },
+      "init": {
+        "home_water": "1.010",
+        "handicap": "一球/球半",
+        "away_water": "0.810",
+        "time": "08-06 20:07"
       }
     },
     {
