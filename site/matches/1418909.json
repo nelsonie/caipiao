@@ -24,7 +24,7 @@
       "lost": "3.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T08:20:42Z"
+    "fetched_at_utc": "2026-08-08T08:30:43Z"
   },
   "shuju": {
     "title": "大宫松鼠VS新泻天鹅(2026/2027日职乙)-数据分析-500彩票网",
@@ -396,15 +396,219 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "14",
+            "name": "泉柊椰",
+            "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "卡利尼奥斯",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "卡普里尼",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "丰川裕太",
+            "position": "前锋"
+          },
+          {
+            "number": "18",
+            "name": "山本樱大",
+            "position": "前锋"
+          },
+          {
+            "number": "16",
+            "name": "加藤玄",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "加藤圣",
+            "position": "后卫"
+          },
+          {
+            "number": "88",
+            "name": "西尾隆矢",
+            "position": "后卫"
+          },
+          {
+            "number": "19",
+            "name": "尾崎优成",
+            "position": "后卫"
+          },
+          {
+            "number": "37",
+            "name": "关口凯心",
+            "position": "后卫"
+          },
+          {
+            "number": "24",
+            "name": "汤姆·格洛弗",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "1",
+            "name": "笠原昂史",
+            "position": "守门员"
+          },
+          {
+            "number": "44",
+            "name": "木寺优直",
+            "position": "后卫"
+          },
+          {
+            "number": "77",
+            "name": "小林柚希",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "小岛干敏",
+            "position": "中场"
+          },
+          {
+            "number": "49",
+            "name": "麦基·杰拉尼·莲",
+            "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "素帕那·穆安塔",
+            "position": "前锋"
+          },
+          {
+            "number": "2",
+            "name": "村上阳介",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "中山昂大",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "杉本健勇",
+            "position": "前锋"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "18",
+            "name": "若月大和",
+            "position": "前锋"
+          },
+          {
+            "number": "32",
+            "name": "桑山侃士",
+            "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "岛袋一良",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "大西悠介",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "新井泰贵",
+            "position": "中场"
+          },
+          {
+            "number": "30",
+            "name": "奥村仁",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "加藤哲也",
+            "position": "后卫"
+          },
+          {
+            "number": "77",
+            "name": "舩木翔",
+            "position": "后卫"
+          },
+          {
+            "number": "34",
+            "name": "藤原优大",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "藤原奏哉",
+            "position": "后卫"
+          },
+          {
+            "number": "46",
+            "name": "诺姆·鲍曼",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "8",
+            "name": "白井永地",
+            "position": "中场"
+          },
+          {
+            "number": "26",
+            "name": "佐藤海宏",
+            "position": "后卫"
+          },
+          {
+            "number": "24",
+            "name": "森璃太",
+            "position": "后卫"
+          },
+          {
+            "number": "41",
+            "name": "松浦大翔",
+            "position": "守门员"
+          },
+          {
+            "number": "70",
+            "name": "前田椋介",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "笠井佳祐",
+            "position": "中场"
+          },
+          {
+            "number": "40",
+            "name": "石山青空",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "早川史哉",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "迈克尔·詹姆斯·菲茨杰拉德",
+            "position": "后卫"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
@@ -559,10 +763,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.890↓",
         "handicap": "平手/半球",
-        "away_water": "1.040↑",
-        "time": "08-08 16:05"
+        "away_water": "1.030↑",
+        "time": "08-08 16:18"
       },
       "init": {
         "home_water": "0.930",
