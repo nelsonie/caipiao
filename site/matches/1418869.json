@@ -24,7 +24,7 @@
       "lost": "3.50",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T01:00:07Z"
+    "fetched_at_utc": "2026-08-08T01:10:10Z"
   },
   "shuju": {
     "title": "大阪樱花VS冈山绿雉(2026/2027日职)-数据分析-500彩票网",
@@ -495,10 +495,10 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.920↑",
         "handicap": "半球",
-        "away_water": "0.920↓",
-        "time": "08-08 08:26"
+        "away_water": "0.910↓",
+        "time": "08-08 08:56"
       },
       "init": {
         "home_water": "0.870",
@@ -508,35 +508,35 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "半球",
-        "away_water": "0.930↓",
-        "time": "08-08 08:28"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "半球",
-        "away_water": "0.980",
-        "time": "08-03 16:18"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
-        "home_water": "1.090↑",
+        "home_water": "1.100↑",
         "handicap": "半球/一球",
-        "away_water": "0.630↓",
-        "time": "08-08 08:47"
+        "away_water": "0.620↓",
+        "time": "08-08 09:02"
       },
       "init": {
         "home_water": "1.040",
         "handicap": "半球/一球",
         "away_water": "0.660",
         "time": "08-03 16:01"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "半球",
+        "away_water": "0.920↓",
+        "time": "08-08 08:59"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "半球",
+        "away_water": "0.980",
+        "time": "08-03 16:18"
       }
     },
     {
@@ -559,10 +559,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.940↑",
+        "home_water": "0.960↑",
         "handicap": "半球",
         "away_water": "0.960↓",
-        "time": "08-08 08:24"
+        "time": "08-08 08:54"
       },
       "init": {
         "home_water": "0.900",
@@ -639,10 +639,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.960↑",
         "handicap": "半球",
-        "away_water": "0.950↓",
-        "time": "08-08 08:26"
+        "away_water": "0.940↓",
+        "time": "08-08 08:57"
       },
       "init": {
         "home_water": "0.880",
