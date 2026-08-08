@@ -24,7 +24,7 @@
       "lost": "2.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T05:00:12Z"
+    "fetched_at_utc": "2026-08-08T05:10:09Z"
   },
   "shuju": {
     "title": "奥尔格里特VSAIK索尔纳(2026瑞典超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.720↑",
-        "handicap": "受平手/半球升",
-        "away_water": "0.960↓",
-        "time": "08-08 11:33"
-      },
-      "init": {
-        "home_water": "0.410",
-        "handicap": "受球半",
-        "away_water": "1.680",
-        "time": "08-01 22:15"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.830",
         "time": "08-04 03:42"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.720↑",
+        "handicap": "受平手/半球升",
+        "away_water": "0.960↓",
+        "time": "08-08 11:33"
+      },
+      "init": {
+        "home_water": "0.410",
+        "handicap": "受球半",
+        "away_water": "1.680",
+        "time": "08-01 22:15"
       }
     },
     {
