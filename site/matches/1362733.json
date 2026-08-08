@@ -13,9 +13,9 @@
       "lost": "4.28"
     },
     "asia_main": {
-      "handicap": "受平手/半球",
-      "home_water": "0.700↓",
-      "away_water": "0.950↓",
+      "handicap": "受半球降",
+      "home_water": "0.500↓",
+      "away_water": "1.400↑",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "2.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T07:40:10Z"
+    "fetched_at_utc": "2026-08-08T07:50:12Z"
   },
   "shuju": {
     "title": "奥尔格里特VSAIK索尔纳(2026瑞典超)-数据分析-500彩票网",
@@ -619,10 +619,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.700↓",
-        "handicap": "受平手/半球",
-        "away_water": "0.950↓",
-        "time": "08-08 11:04"
+        "home_water": "0.500↓",
+        "handicap": "受半球降",
+        "away_water": "1.400↑",
+        "time": "08-08 15:49"
       },
       "init": {
         "home_water": "0.740",
@@ -699,10 +699,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.080↑",
+        "home_water": "1.040↑",
         "handicap": "平手升",
-        "away_water": "0.810↓",
-        "time": "08-08 15:33"
+        "away_water": "0.850↓",
+        "time": "08-08 15:45"
       },
       "init": {
         "home_water": "0.870",
@@ -715,32 +715,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "1.030↑",
+        "home_water": "1.010↑",
         "handicap": "平手升",
-        "away_water": "0.810↓",
-        "time": "08-08 14:54"
+        "away_water": "0.820↓",
+        "time": "08-08 15:46"
       },
       "init": {
         "home_water": "0.930",
         "handicap": "受平手/半球",
         "away_water": "0.830",
         "time": "08-03 19:50"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "平手升",
-        "away_water": "0.770↓",
-        "time": "08-08 15:00"
-      },
-      "init": {
-        "home_water": "0.410",
-        "handicap": "受球半",
-        "away_water": "1.680",
-        "time": "08-01 22:15"
       }
     },
     {
@@ -760,13 +744,29 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "平手升",
+        "away_water": "0.810↓",
+        "time": "08-08 15:45"
+      },
+      "init": {
+        "home_water": "0.410",
+        "handicap": "受球半",
+        "away_water": "1.680",
+        "time": "08-01 22:15"
+      }
+    },
+    {
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "1.050↑",
+        "home_water": "0.990↑",
         "handicap": "平手升",
-        "away_water": "0.830↓",
-        "time": "08-08 14:17"
+        "away_water": "0.880↑",
+        "time": "08-08 15:42"
       },
       "init": {
         "home_water": "0.930",
@@ -795,10 +795,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "1.090↑",
+        "home_water": "1.030↑",
         "handicap": "平手升",
-        "away_water": "0.830↓",
-        "time": "08-08 15:32"
+        "away_water": "0.890↓",
+        "time": "08-08 15:43"
       },
       "init": {
         "home_water": "0.940",
@@ -827,10 +827,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "1.090↑",
+        "home_water": "1.030↑",
         "handicap": "平手升",
-        "away_water": "0.830↓",
-        "time": "08-08 15:31"
+        "away_water": "0.890↓",
+        "time": "08-08 15:43"
       },
       "init": {
         "home_water": "0.950",
@@ -843,10 +843,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "0.990↑",
         "handicap": "平手升",
-        "away_water": "0.760↓",
-        "time": "08-08 15:32"
+        "away_water": "0.780↓",
+        "time": "08-08 15:46"
       },
       "init": {
         "home_water": "0.810",
@@ -859,10 +859,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "1.070↑",
+        "home_water": "1.030↑",
         "handicap": "平手升",
-        "away_water": "0.830↓",
-        "time": "08-08 14:50"
+        "away_water": "0.870↓",
+        "time": "08-08 15:49"
       },
       "init": {
         "home_water": "0.950",
