@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-08T01:30:27Z",
+  "last_updated_utc": "2026-08-08T01:40:24Z",
   "matches": [
     {
       "xml_id": "2040750",
@@ -164,42 +164,6 @@
       "away_team_id": "3928"
     },
     {
-      "xml_id": "2040764",
-      "matchnum": "6016",
-      "date": "2026-08-09",
-      "dayofweek": "星期天",
-      "league": "荷兰甲级联赛",
-      "home": "前进之鹰",
-      "away": "威廉二世",
-      "spf_win": "2.30",
-      "spf_draw": "3.60",
-      "spf_lost": "2.40",
-      "spf_updated": "2026-08-07 09:35:10",
-      "gameid": "1415836",
-      "kickoff_cst": "2026-08-09 00:45",
-      "matchnum_label": "周六016",
-      "home_team_id": "1796",
-      "away_team_id": "1248"
-    },
-    {
-      "xml_id": "2040765",
-      "matchnum": "6017",
-      "date": "2026-08-09",
-      "dayofweek": "星期天",
-      "league": "葡萄牙超级联赛",
-      "home": "吉马良斯",
-      "away": "阿罗卡",
-      "spf_win": "3.50",
-      "spf_draw": "3.40",
-      "spf_lost": "1.82",
-      "spf_updated": "2026-08-07 09:35:10",
-      "gameid": "1438055",
-      "kickoff_cst": "2026-08-09 01:00",
-      "matchnum_label": "周六017",
-      "home_team_id": "893",
-      "away_team_id": "5551"
-    },
-    {
       "xml_id": "2040766",
       "matchnum": "6018",
       "date": "2026-08-09",
@@ -254,24 +218,6 @@
       "away_team_id": "774"
     },
     {
-      "xml_id": "2040769",
-      "matchnum": "6022",
-      "date": "2026-08-09",
-      "dayofweek": "星期天",
-      "league": "荷兰甲级联赛",
-      "home": "阿尔克马尔",
-      "away": "海牙",
-      "spf_win": "2.13",
-      "spf_draw": "3.75",
-      "spf_lost": "2.55",
-      "spf_updated": "2026-08-07 09:35:10",
-      "gameid": "1415840",
-      "kickoff_cst": "2026-08-09 03:00",
-      "matchnum_label": "周六022",
-      "home_team_id": "224",
-      "away_team_id": "211"
-    },
-    {
       "xml_id": "2040771",
       "matchnum": "6024",
       "date": "2026-08-09",
@@ -288,24 +234,6 @@
       "matchnum_label": "周六024",
       "home_team_id": "551",
       "away_team_id": "1000"
-    },
-    {
-      "xml_id": "2040773",
-      "matchnum": "7001",
-      "date": "2026-08-09",
-      "dayofweek": "星期天",
-      "league": "日本职业联赛",
-      "home": "东京绿茵",
-      "away": "川崎前锋",
-      "spf_win": "1.47",
-      "spf_draw": "3.80",
-      "spf_lost": "5.40",
-      "spf_updated": "2026-08-07 09:35:10",
-      "gameid": "1418889",
-      "kickoff_cst": "2026-08-09 17:00",
-      "matchnum_label": "周日001",
-      "home_team_id": "775",
-      "away_team_id": "2272"
     },
     {
       "xml_id": "2040774",
