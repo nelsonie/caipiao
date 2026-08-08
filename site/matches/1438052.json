@@ -24,7 +24,7 @@
       "lost": "3.32",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T15:50:14Z"
+    "fetched_at_utc": "2026-08-08T16:00:13Z"
   },
   "shuju": {
     "title": "马里迪莫VS卡萨匹亚(2026/2027葡超)-数据分析-500彩票网",
@@ -699,22 +699,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.080↑",
-        "handicap": "半球升",
-        "away_water": "0.800↓",
-        "time": "08-08 21:59"
-      },
-      "init": {
-        "home_water": "1.070",
-        "handicap": "平手",
-        "away_water": "0.810",
-        "time": "07-28 16:56"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -728,6 +712,22 @@
         "handicap": "平手",
         "away_water": "0.850",
         "time": "07-26 11:39"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.080↑",
+        "handicap": "半球升",
+        "away_water": "0.800↓",
+        "time": "08-08 21:59"
+      },
+      "init": {
+        "home_water": "1.070",
+        "handicap": "平手",
+        "away_water": "0.810",
+        "time": "07-28 16:56"
       }
     },
     {
