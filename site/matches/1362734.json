@@ -24,7 +24,7 @@
       "lost": "8.25",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T17:40:27Z"
+    "fetched_at_utc": "2026-08-08T17:50:29Z"
   },
   "shuju": {
     "title": "天狼星VS布鲁马波卡纳(2026瑞典超)-数据分析-500彩票网",
@@ -396,15 +396,219 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "9",
+            "name": "罗比·乌雷",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "伊萨克·比耶克博",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "维克多·斯文森",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "奥德拉·塞缪尔·奥努楚库·阿丁杜",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "马库斯·林伯格",
+            "position": "中场"
+          },
+          {
+            "number": "21",
+            "name": "查理·尼尔登",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "克鲁斯尼尔",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "托比亚斯·安克",
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "穆罕默德·苏玛",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "卡斯特格伦",
+            "position": "后卫"
+          },
+          {
+            "number": "34",
+            "name": "大卫·塞利克",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "35",
+            "name": "埃利奥特·埃尔德",
+            "position": "后卫"
+          },
+          {
+            "number": "36",
+            "name": "奥古斯特·永贝里",
+            "position": "前锋"
+          },
+          {
+            "number": "23",
+            "name": "芬利·尼特",
+            "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "乔基姆·佩尔森",
+            "position": "前锋"
+          },
+          {
+            "number": "15",
+            "name": "S.桑德堡",
+            "position": "后卫"
+          },
+          {
+            "number": "18",
+            "name": "亚当·维克曼",
+            "position": "中场"
+          },
+          {
+            "number": "1",
+            "name": "伊斯梅尔·迪瓦拉",
+            "position": "守门员"
+          },
+          {
+            "number": "20",
+            "name": "维克多·埃克斯特罗姆",
+            "position": "后卫"
+          },
+          {
+            "number": "37",
+            "name": "罗宾克鲁格尔",
+            "position": "中场"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "34",
+            "name": "大卫·伊索",
+            "position": "前锋"
+          },
+          {
+            "number": "33",
+            "name": "奥彭",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "奥利弗·伯格",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "奥比洛尔·奥凯凯",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "穆罕默德·瓦埃尔·德巴利",
+            "position": "中场"
+          },
+          {
+            "number": "27",
+            "name": "卡尔·巴尔斯伦德",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "奥利弗·赞丹",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "安德烈亚斯·特罗尔森",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "乔丹·辛普森",
+            "position": "后卫"
+          },
+          {
+            "number": "16",
+            "name": "西蒙·斯特兰德",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "利奥·卡瓦利乌斯",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "14",
+            "name": "卡米尔坎·塞弗",
+            "position": "前锋"
+          },
+          {
+            "number": "5",
+            "name": "恩古阿利",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "安东·库罗奇金",
+            "position": "中场"
+          },
+          {
+            "number": "4",
+            "name": "奥斯卡·尼尔斯·科顿",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "戴维尔·布列泽维奇",
+            "position": "守门员"
+          },
+          {
+            "number": "30",
+            "name": "卢卡斯·比约克伦德",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "拉斯穆斯·贝里瓦尔",
+            "position": "后卫"
+          },
+          {
+            "number": "12",
+            "name": "比德米·阿莫尔",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "拉斯穆斯·厄克斯特",
+            "position": "中场"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
