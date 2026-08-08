@@ -24,7 +24,7 @@
       "lost": "5.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T15:40:13Z"
+    "fetched_at_utc": "2026-08-08T15:50:14Z"
   },
   "shuju": {
     "title": "奈梅亨VS特尔斯达(2026/2027荷甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.960↓",
-        "handicap": "一球/球半",
-        "away_water": "0.910↑",
-        "time": "08-08 22:29"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "一球/球半",
-        "away_water": "0.840",
-        "time": "07-10 08:07"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "一球/球半",
         "away_water": "0.870",
         "time": "07-10 22:00"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.960↓",
+        "handicap": "一球/球半",
+        "away_water": "0.910↑",
+        "time": "08-08 22:29"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "一球/球半",
+        "away_water": "0.840",
+        "time": "07-10 08:07"
       }
     },
     {
