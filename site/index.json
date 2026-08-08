@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-08T14:00:45Z",
+  "last_updated_utc": "2026-08-08T14:10:43Z",
   "matches": [
     {
       "xml_id": "2040750",
@@ -92,24 +92,6 @@
       "away_team_id": "703"
     },
     {
-      "xml_id": "2040755",
-      "matchnum": "6007",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "英格兰联赛杯",
-      "home": "女王公园巡游者",
-      "away": "米尔沃尔",
-      "spf_win": "1.34",
-      "spf_draw": "4.45",
-      "spf_lost": "6.30",
-      "spf_updated": "2026-08-08 20:46:34",
-      "gameid": "1428970",
-      "kickoff_cst": "2026-08-08 21:00",
-      "matchnum_label": "周六007",
-      "home_team_id": "954",
-      "away_team_id": "1097"
-    },
-    {
       "xml_id": "2040756",
       "matchnum": "6008",
       "date": "2026-08-08",
@@ -126,24 +108,6 @@
       "matchnum_label": "周六008",
       "home_team_id": "606",
       "away_team_id": "215"
-    },
-    {
-      "xml_id": "2040757",
-      "matchnum": "6009",
-      "date": "2026-08-08",
-      "dayofweek": "星期六",
-      "league": "英格兰联赛杯",
-      "home": "西汉姆联",
-      "away": "朴次茅斯",
-      "spf_win": "1.88",
-      "spf_draw": "3.72",
-      "spf_lost": "3.05",
-      "spf_updated": "2026-08-08 20:30:27",
-      "gameid": "1428984",
-      "kickoff_cst": "2026-08-08 22:00",
-      "matchnum_label": "周六009",
-      "home_team_id": "1286",
-      "away_team_id": "1163"
     },
     {
       "xml_id": "2040758",
