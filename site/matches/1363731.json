@@ -13,9 +13,9 @@
       "lost": "2.03"
     },
     "asia_main": {
-      "handicap": "半球/一球",
-      "home_water": "0.980↑",
-      "away_water": "0.750↓",
+      "handicap": "半球降",
+      "home_water": "0.850↓",
+      "away_water": "0.850↑",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "4.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T10:50:32Z"
+    "fetched_at_utc": "2026-08-08T11:00:30Z"
   },
   "shuju": {
     "title": "国际图尔库VS拉赫蒂(2026芬超)-数据分析-500彩票网",
@@ -600,10 +600,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.980↑",
-        "handicap": "半球/一球",
-        "away_water": "0.750↓",
-        "time": "08-03 18:12"
+        "home_water": "0.850↓",
+        "handicap": "半球降",
+        "away_water": "0.850↑",
+        "time": "08-08 18:53"
       },
       "init": {
         "home_water": "0.960",
@@ -693,22 +693,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "半球",
-        "away_water": "0.940↓",
-        "time": "08-08 17:56"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "半球",
-        "away_water": "1.010",
-        "time": "08-06 22:45"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -722,6 +706,22 @@
         "handicap": "半球/一球",
         "away_water": "0.830",
         "time": "08-02 21:13"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↑",
+        "handicap": "半球",
+        "away_water": "0.940↓",
+        "time": "08-08 17:56"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "半球",
+        "away_water": "1.010",
+        "time": "08-06 22:45"
       }
     },
     {
