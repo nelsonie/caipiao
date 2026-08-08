@@ -24,7 +24,7 @@
       "lost": "5.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-08T05:20:11Z"
+    "fetched_at_utc": "2026-08-08T05:30:10Z"
   },
   "shuju": {
     "title": "西汉姆联VS朴茨茅斯(2026/2027英联杯)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.810↓",
-        "handicap": "一球",
-        "away_water": "1.020↑",
-        "time": "08-08 13:11"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "一球",
-        "away_water": "0.970",
-        "time": "07-18 22:18"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "半球/一球",
         "away_water": "0.930",
         "time": "07-03 15:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↓",
+        "handicap": "一球",
+        "away_water": "1.030↑",
+        "time": "08-08 13:23"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "一球",
+        "away_water": "0.970",
+        "time": "07-18 22:18"
       }
     },
     {
