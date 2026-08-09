@@ -24,7 +24,7 @@
       "lost": "2.10",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-09T11:20:16Z"
+    "fetched_at_utc": "2026-08-09T11:30:14Z"
   },
   "shuju": {
     "title": "海伦芬VS特温特(2026/2027荷甲)-数据分析-500彩票网",
@@ -738,22 +738,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940",
-        "handicap": "受平手/半球",
-        "away_water": "0.910",
-        "time": "08-09 19:13"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "受平手/半球",
-        "away_water": "0.910",
-        "time": "07-11 22:01"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -767,6 +751,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.820",
         "time": "07-11 21:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940",
+        "handicap": "受平手/半球",
+        "away_water": "0.910",
+        "time": "08-09 19:13"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "受平手/半球",
+        "away_water": "0.910",
+        "time": "07-11 22:01"
       }
     },
     {
@@ -853,10 +853,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.930↑",
+        "home_water": "0.900↑",
         "handicap": "受平手/半球",
-        "away_water": "0.880↑",
-        "time": "08-09 19:09"
+        "away_water": "0.910↑",
+        "time": "08-09 19:19"
       },
       "init": {
         "home_water": "0.880",
