@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-09T13:50:25Z",
+  "last_updated_utc": "2026-08-09T14:00:23Z",
   "matches": [
     {
       "xml_id": "2040773",
@@ -387,10 +387,10 @@
       "league": "瑞典超级联赛",
       "home": "天狼星",
       "away": "布鲁马波卡纳",
-      "spf_win": "1.72",
-      "spf_draw": "4.00",
-      "spf_lost": "3.36",
-      "spf_updated": "2026-08-08 09:34:14",
+      "spf_win": "1.80",
+      "spf_draw": "3.90",
+      "spf_lost": "3.15",
+      "spf_updated": "2026-08-09 21:48:14",
       "gameid": "1362734",
       "kickoff_cst": "2026-08-11 01:00",
       "matchnum_label": "周一001",
@@ -468,6 +468,24 @@
       "matchnum_label": "周日005",
       "home_team_id": "495",
       "away_team_id": "794"
+    },
+    {
+      "xml_id": "2040801",
+      "matchnum": "7020",
+      "date": "2026-08-10",
+      "dayofweek": "星期一",
+      "league": "葡萄牙超级联赛",
+      "home": "本菲卡",
+      "away": "维塞乌",
+      "spf_win": "1.82",
+      "spf_draw": "3.96",
+      "spf_lost": "3.05",
+      "spf_updated": "2026-08-09 21:07:38",
+      "gameid": "1438047",
+      "kickoff_cst": "2026-08-10 03:30",
+      "matchnum_label": "周日020",
+      "home_team_id": "678",
+      "away_team_id": "2174"
     }
   ]
 }
