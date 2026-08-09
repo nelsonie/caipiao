@@ -24,7 +24,7 @@
       "lost": "4.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-09T12:30:11Z"
+    "fetched_at_utc": "2026-08-09T12:40:11Z"
   },
   "shuju": {
     "title": "哈马比VS赫根(2026瑞典超)-数据分析-500彩票网",
@@ -418,23 +418,23 @@
             "position": "中场"
           },
           {
-            "number": "28",
-            "name": "弗兰克·吉尼尔·阿德耶",
-            "position": "中场"
-          },
-          {
             "number": "8",
             "name": "马库斯·卡尔森",
             "position": "中场"
           },
           {
-            "number": "24",
-            "name": "韦伦·雷内克",
-            "position": "后卫"
+            "number": "28",
+            "name": "弗兰克·吉尼尔·阿德耶",
+            "position": "中场"
           },
           {
             "number": "16",
             "name": "诺亚·佩尔森",
+            "position": "后卫"
+          },
+          {
+            "number": "24",
+            "name": "韦伦·雷内克",
             "position": "后卫"
           },
           {
@@ -507,6 +507,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "10",
+            "name": "米克尔·里加尔德",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "古斯塔夫·林德格伦",
             "position": "前锋"
@@ -517,13 +522,8 @@
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "米克尔·里加尔德",
-            "position": "中场"
-          },
-          {
-            "number": "32",
-            "name": "华伦·易卜拉欣",
+            "number": "6",
+            "name": "阿卜杜拉耶敦比亚",
             "position": "中场"
           },
           {
@@ -532,8 +532,8 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "阿卜杜拉耶敦比亚",
+            "number": "32",
+            "name": "华伦·易卜拉欣",
             "position": "中场"
           },
           {
