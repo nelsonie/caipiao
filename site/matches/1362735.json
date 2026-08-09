@@ -24,7 +24,7 @@
       "lost": "1.64",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-09T20:00:09Z"
+    "fetched_at_utc": "2026-08-09T20:10:09Z"
   },
   "shuju": {
     "title": "瓦斯特拉斯VS佐加顿斯(2026瑞典超)-数据分析-500彩票网",
@@ -656,10 +656,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "1.020↑",
-        "handicap": "受半球",
-        "away_water": "0.770↓",
-        "time": "08-10 02:49"
+        "home_water": "0.800↓",
+        "handicap": "受半球/一球降",
+        "away_water": "1.000↑",
+        "time": "08-10 03:22"
       },
       "init": {
         "home_water": "0.950",
@@ -717,22 +717,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.690↓",
-        "handicap": "受半球/一球降",
-        "away_water": "0.940↑",
-        "time": "08-10 02:36"
-      },
-      "init": {
-        "home_water": "1.700",
-        "handicap": "平手",
-        "away_water": "0.370",
-        "time": "08-02 23:53"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -746,6 +730,22 @@
         "handicap": "受半球",
         "away_water": "0.820",
         "time": "08-05 21:28"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.190↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.560↑",
+        "time": "08-10 03:52"
+      },
+      "init": {
+        "home_water": "1.700",
+        "handicap": "平手",
+        "away_water": "0.370",
+        "time": "08-02 23:53"
       }
     },
     {
@@ -832,10 +832,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.940↑",
         "handicap": "受半球",
         "away_water": "0.800",
-        "time": "08-10 02:28"
+        "time": "08-10 03:45"
       },
       "init": {
         "home_water": "0.930",
@@ -1992,7 +1992,7 @@
     {
       "cid": "18",
       "company": "必*",
-      "time": "2026-08-10 02:35:23",
+      "time": "2026-08-10 03:57:22",
       "odds": {
         "live": [
           "3.60",
