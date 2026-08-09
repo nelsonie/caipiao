@@ -24,7 +24,7 @@
       "lost": "2.61",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-09T10:10:12Z"
+    "fetched_at_utc": "2026-08-09T10:20:14Z"
   },
   "shuju": {
     "title": "利勒斯特罗姆VS罗森博格(2026挪超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.810↑",
-        "handicap": "平手",
-        "away_water": "1.020↓",
-        "time": "08-09 17:49"
-      },
-      "init": {
-        "home_water": "0.490",
-        "handicap": "平手",
-        "away_water": "1.640",
-        "time": "08-02 23:35"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.810",
         "time": "08-08 03:36"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.810↑",
+        "handicap": "平手",
+        "away_water": "1.010↓",
+        "time": "08-09 18:08"
+      },
+      "init": {
+        "home_water": "0.490",
+        "handicap": "平手",
+        "away_water": "1.640",
+        "time": "08-02 23:35"
       }
     },
     {
@@ -795,10 +795,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.860↓",
         "handicap": "平手降",
-        "away_water": "1.070↑",
-        "time": "08-09 17:57"
+        "away_water": "1.060↑",
+        "time": "08-09 18:08"
       },
       "init": {
         "home_water": "1.050",
