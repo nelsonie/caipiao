@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-09T14:10:24Z",
+  "last_updated_utc": "2026-08-09T14:20:28Z",
   "matches": [
     {
       "xml_id": "2040773",
@@ -72,6 +72,24 @@
       "matchnum_label": "周日006",
       "home_team_id": "1138",
       "away_team_id": "4654"
+    },
+    {
+      "xml_id": "2040777",
+      "matchnum": "7007",
+      "date": "2026-08-09",
+      "dayofweek": "星期天",
+      "league": "瑞典超级联赛",
+      "home": "哈马比",
+      "away": "赫根",
+      "spf_win": "2.33",
+      "spf_draw": "3.65",
+      "spf_lost": "2.35",
+      "spf_updated": "2026-08-09 18:34:33",
+      "gameid": "1362730",
+      "kickoff_cst": "2026-08-09 20:00",
+      "matchnum_label": "周日007",
+      "home_team_id": "852",
+      "away_team_id": "850"
     },
     {
       "xml_id": "2040778",
