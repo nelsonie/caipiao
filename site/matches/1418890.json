@@ -24,7 +24,7 @@
       "lost": "2.56",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-09T11:30:23Z"
+    "fetched_at_utc": "2026-08-09T11:40:26Z"
   },
   "shuju": {
     "title": "山形山神VS枥木市FC(2026/2027日职乙)-数据分析-500彩票网",
@@ -668,22 +668,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.810↑",
-        "handicap": "平手",
-        "away_water": "1.000↑",
-        "time": "08-09 17:59"
-      },
-      "init": {
-        "home_water": "0.790",
-        "handicap": "平手",
-        "away_water": "0.910",
-        "time": "08-07 17:24"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -697,6 +681,22 @@
         "handicap": "平手/半球",
         "away_water": "0.780",
         "time": "08-09 16:13"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.810↑",
+        "handicap": "平手",
+        "away_water": "1.000↑",
+        "time": "08-09 17:59"
+      },
+      "init": {
+        "home_water": "0.790",
+        "handicap": "平手",
+        "away_water": "0.910",
+        "time": "08-07 17:24"
       }
     },
     {
