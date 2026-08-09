@@ -24,7 +24,7 @@
       "lost": "1.41",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-09T13:00:10Z"
+    "fetched_at_utc": "2026-08-09T13:10:10Z"
   },
   "shuju": {
     "title": "兹沃勒VS阿贾克斯(2026/2027荷甲)-数据分析-500彩票网",
@@ -398,28 +398,28 @@
         "formation": null,
         "starters": [
           {
-            "number": "22",
-            "name": "易卜拉欣·西索科",
-            "position": "前锋"
-          },
-          {
             "number": "10",
             "name": "科恩·科斯顿斯",
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "姆巴约·迪伦",
-            "position": "前锋"
-          },
-          {
-            "number": "30",
-            "name": "瑞安·托马斯",
+            "number": "22",
+            "name": "易卜拉欣·西索科",
             "position": "中场"
           },
           {
             "number": "25",
             "name": "蒂伊斯·奥斯汀",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "姆巴约·迪伦",
+            "position": "中场"
+          },
+          {
+            "number": "30",
+            "name": "瑞安·托马斯",
             "position": "中场"
           },
           {
@@ -495,16 +495,6 @@
             "position": "中场"
           },
           {
-            "number": "9",
-            "name": "伊莱亚斯·索伦森",
-            "position": "前锋"
-          },
-          {
-            "number": "42",
-            "name": "迪伦·鲁沃德",
-            "position": "后卫"
-          },
-          {
             "number": "5",
             "name": "提斯·维特胡斯",
             "position": "后卫"
@@ -513,6 +503,16 @@
             "number": "33",
             "name": "达米安·范德哈尔",
             "position": "后卫"
+          },
+          {
+            "number": "42",
+            "name": "迪伦·鲁沃德",
+            "position": "后卫"
+          },
+          {
+            "number": "9",
+            "name": "伊莱亚斯·索伦森",
+            "position": "前锋"
           }
         ],
         "injured": [],

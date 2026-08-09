@@ -24,7 +24,7 @@
       "lost": "2.61",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-09T13:00:12Z"
+    "fetched_at_utc": "2026-08-09T13:10:12Z"
   },
   "shuju": {
     "title": "利勒斯特罗姆VS罗森博格(2026挪超)-数据分析-500彩票网",
@@ -418,13 +418,13 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "莱纳斯·阿尔佩鲁德",
+            "number": "29",
+            "name": "伊卜拉希马吉",
             "position": "中场"
           },
           {
-            "number": "29",
-            "name": "伊卜拉希马吉",
+            "number": "7",
+            "name": "莱纳斯·阿尔佩鲁德",
             "position": "中场"
           },
           {
@@ -433,8 +433,8 @@
             "position": "后卫"
           },
           {
-            "number": "2",
-            "name": "拉尔斯·兰吉尔",
+            "number": "47",
+            "name": "斯蒂安·克里斯蒂安森",
             "position": "后卫"
           },
           {
@@ -443,8 +443,8 @@
             "position": "后卫"
           },
           {
-            "number": "47",
-            "name": "斯蒂安·克里斯蒂安森",
+            "number": "2",
+            "name": "拉尔斯·兰吉尔",
             "position": "后卫"
           },
           {
@@ -493,6 +493,11 @@
             "number": "6",
             "name": "哈拉尔德·沃克森",
             "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "塞恩·阿坎吉",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -502,19 +507,19 @@
         "formation": null,
         "starters": [
           {
-            "number": "35",
-            "name": "埃米尔·孔拉德森·塞德",
-            "position": "前锋"
-          },
-          {
             "number": "18",
             "name": "阿明·奇亚卡",
             "position": "前锋"
           },
           {
+            "number": "35",
+            "name": "埃米尔·孔拉德森·塞德",
+            "position": "中场"
+          },
+          {
             "number": "29",
             "name": "大卫·杜里斯",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "17",
@@ -522,13 +527,13 @@
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "奥莱·塞尔纳斯",
+            "number": "11",
+            "name": "诺亚·萨沙",
             "position": "中场"
           },
           {
-            "number": "11",
-            "name": "诺亚·萨沙",
+            "number": "10",
+            "name": "奥莱·塞尔纳斯",
             "position": "中场"
           },
           {
@@ -723,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "平手",
-        "away_water": "0.960↓",
-        "time": "08-09 20:25"
-      },
-      "init": {
-        "home_water": "0.490",
-        "handicap": "平手",
-        "away_water": "1.640",
-        "time": "08-02 23:35"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -752,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.810",
         "time": "08-08 03:36"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "平手",
+        "away_water": "0.960↓",
+        "time": "08-09 20:25"
+      },
+      "init": {
+        "home_water": "0.490",
+        "handicap": "平手",
+        "away_water": "1.640",
+        "time": "08-02 23:35"
       }
     },
     {

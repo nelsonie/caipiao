@@ -24,7 +24,7 @@
       "lost": "2.70",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-09T13:00:10Z"
+    "fetched_at_utc": "2026-08-09T13:10:10Z"
   },
   "shuju": {
     "title": "格罗宁根VS乌德勒支(2026/2027荷甲)-数据分析-500彩票网",
@@ -398,6 +398,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "26",
+            "name": "汤姆·范伯根",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "布林约尔·达里·威鲁姆松",
             "position": "前锋"
@@ -408,13 +413,8 @@
             "position": "中场"
           },
           {
-            "number": "26",
-            "name": "汤姆·范伯根",
-            "position": "中场"
-          },
-          {
-            "number": "17",
-            "name": "大卫·范德沃夫",
+            "number": "8",
+            "name": "蒂卡·德容格",
             "position": "中场"
           },
           {
@@ -423,8 +423,8 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "蒂卡·德容格",
+            "number": "14",
+            "name": "乔格·施罗德",
             "position": "中场"
           },
           {
@@ -433,18 +433,18 @@
             "position": "后卫"
           },
           {
-            "number": "3",
-            "name": "蒂曼·布洛克齐尔",
-            "position": "后卫"
-          },
-          {
             "number": "5",
             "name": "马尔科·伦特",
             "position": "后卫"
           },
           {
-            "number": "14",
-            "name": "乔格·施罗德",
+            "number": "3",
+            "name": "蒂曼·布洛克齐尔",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "大卫·范德沃夫",
             "position": "后卫"
           },
           {
@@ -500,6 +500,11 @@
             "position": "中场"
           },
           {
+            "number": "13",
+            "name": "罗夫洛·斯图比亚尔",
+            "position": "守门员"
+          },
+          {
             "number": "7",
             "name": "亨利·特拉维斯·赫内斯",
             "position": "中场"
@@ -508,11 +513,6 @@
             "number": "15",
             "name": "埃尔维斯·兰德·范",
             "position": "后卫"
-          },
-          {
-            "number": "13",
-            "name": "罗夫洛·斯图比亚尔",
-            "position": "守门员"
           }
         ],
         "injured": [],
@@ -522,28 +522,23 @@
         "formation": null,
         "starters": [
           {
+            "number": "10",
+            "name": "约安·卡塞林",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "大卫·敏",
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "约安·卡塞林",
-            "position": "中场"
-          },
-          {
             "number": "11",
             "name": "安赫尔·阿拉尔孔",
-            "position": "中场"
+            "position": "前锋"
           },
           {
-            "number": "92",
-            "name": "亚瑟·扎格尔",
-            "position": "中场"
-          },
-          {
-            "number": "20",
-            "name": "丹尼·德维特",
+            "number": "53",
+            "name": "费迪南德·波尔",
             "position": "中场"
           },
           {
@@ -552,9 +547,14 @@
             "position": "中场"
           },
           {
-            "number": "23",
-            "name": "尼克拉斯·维斯特隆",
+            "number": "20",
+            "name": "丹尼·德维特",
             "position": "中场"
+          },
+          {
+            "number": "92",
+            "name": "亚瑟·扎格尔",
+            "position": "后卫"
           },
           {
             "number": "44",
@@ -562,13 +562,13 @@
             "position": "后卫"
           },
           {
-            "number": "53",
-            "name": "费迪南德·波尔",
+            "number": "2",
+            "name": "西贝·霍莱曼斯",
             "position": "后卫"
           },
           {
-            "number": "2",
-            "name": "西贝·霍莱曼斯",
+            "number": "23",
+            "name": "尼克拉斯·维斯特隆",
             "position": "后卫"
           },
           {
@@ -578,11 +578,6 @@
           }
         ],
         "subs": [
-          {
-            "number": "15",
-            "name": "阿德里安·布莱克",
-            "position": "前锋"
-          },
           {
             "number": "47",
             "name": "伊曼纽尔·奇戈兹勒·欧文",
@@ -617,6 +612,11 @@
             "number": "34",
             "name": "戴维·范登伯格",
             "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "阿德里安·布莱克",
+            "position": "前锋"
           }
         ],
         "injured": [],
