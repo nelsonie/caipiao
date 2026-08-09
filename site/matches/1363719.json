@@ -24,7 +24,7 @@
       "lost": "1.85",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-09T13:40:18Z"
+    "fetched_at_utc": "2026-08-09T13:50:18Z"
   },
   "shuju": {
     "title": "AC奥卢VS赫尔辛基(2026芬超)-数据分析-500彩票网",
@@ -376,21 +376,6 @@
           {
             "number": "27",
             "name": "埃利亚斯·卡利奥",
-            "position": "前锋"
-          },
-          {
-            "number": "32",
-            "name": "阿卜杜拉耶·科内",
-            "position": "前锋"
-          },
-          {
-            "number": "11",
-            "name": "拉米尼·哥扎利",
-            "position": "前锋"
-          },
-          {
-            "number": "6",
-            "name": "朱利叶斯·帕纳宁",
             "position": "中场"
           },
           {
@@ -399,14 +384,24 @@
             "position": "中场"
           },
           {
+            "number": "6",
+            "name": "朱利叶斯·帕纳宁",
+            "position": "中场"
+          },
+          {
             "number": "25",
             "name": "马库斯·阿尔萨洛",
             "position": "中场"
           },
           {
+            "number": "11",
+            "name": "拉米尼·哥扎利",
+            "position": "中场"
+          },
+          {
             "number": "18",
             "name": "阿德拉曼·卡萨马",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "66",
@@ -421,7 +416,7 @@
           {
             "number": "22",
             "name": "图马斯·考库亚",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "13",
@@ -431,9 +426,19 @@
         ],
         "subs": [
           {
+            "number": "10",
+            "name": "卡米洛·特里亚纳",
+            "position": "前锋"
+          },
+          {
+            "number": "34",
+            "name": "伊罗·门多林",
+            "position": "中场"
+          },
+          {
             "number": "20",
             "name": "卡利法·贾塔",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "14",
@@ -451,18 +456,8 @@
             "position": "后卫"
           },
           {
-            "number": "16",
-            "name": "奥托·肯佩宁",
-            "position": "后卫"
-          },
-          {
             "number": "5",
             "name": "米科·皮特卡宁",
-            "position": "后卫"
-          },
-          {
-            "number": "2",
-            "name": "萨米·西波拉",
             "position": "后卫"
           },
           {
@@ -471,9 +466,9 @@
             "position": "守门员"
           },
           {
-            "number": "21",
-            "name": "伊罗·门多林",
-            "position": "中场"
+            "number": "2",
+            "name": "萨米·西波拉",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -483,38 +478,38 @@
         "formation": null,
         "starters": [
           {
-            "number": "9",
-            "name": "马兹·博彻斯",
+            "number": "20",
+            "name": "特姆·普基",
             "position": "前锋"
           },
           {
-            "number": "18",
-            "name": "霍普·梅罗",
+            "number": "7",
+            "name": "阿尔菲·西卡莱",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "马丁·基里洛夫",
             "position": "中场"
           },
           {
             "number": "29",
             "name": "桑特里·哈拉拉",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "卢卡斯·林曼",
             "position": "中场"
           },
           {
-            "number": "22",
-            "name": "利亚姆·穆勒",
+            "number": "32",
+            "name": "穆罕默德·盖伊",
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "皮里·门图",
-            "position": "中场"
-          },
-          {
-            "number": "4",
-            "name": "亚历山大·林",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "莱昂内尔·蒙塔托",
+            "number": "13",
+            "name": "卡卢斯·西莫约基",
             "position": "后卫"
           },
           {
@@ -540,64 +535,44 @@
         ],
         "subs": [
           {
-            "number": "24",
-            "name": "埃米尔·莱韦阿拉赫蒂",
-            "position": "后卫"
-          },
-          {
-            "number": "26",
-            "name": "拉西·拉帕莱宁",
-            "position": "前锋"
-          },
-          {
-            "number": "15",
-            "name": "杰里·卡利宁",
-            "position": "中场"
-          },
-          {
-            "number": "12",
-            "name": "米贾·哈帕宁",
-            "position": "守门员"
-          },
-          {
-            "number": "32",
-            "name": "穆罕默德·盖伊",
-            "position": "中场"
-          },
-          {
-            "number": "7",
-            "name": "阿尔菲·西卡莱",
-            "position": "前锋"
-          },
-          {
             "number": "1",
             "name": "谢斯·奥斯特",
             "position": "守门员"
           },
           {
-            "number": "5",
+            "number": "14",
+            "name": "莱昂内尔·蒙塔托",
+            "position": "后卫"
+          },
+          {
+            "number": "65",
             "name": "阿马拉·纳洛",
             "position": "后卫"
           },
           {
-            "number": "10",
-            "name": "卢卡斯·林曼",
+            "number": "4",
+            "name": "亚历山大·林",
             "position": "中场"
           },
           {
-            "number": "20",
-            "name": "特姆·普基",
+            "number": "8",
+            "name": "皮里·门图",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "利亚姆·穆勒",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "霍普·梅罗",
+            "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "马兹·博彻斯",
             "position": "前锋"
-          },
-          {
-            "number": "13",
-            "name": "卡卢斯·西莫约基",
-            "position": "后卫"
-          },
-          {
-            "number": "17",
-            "name": "马丁·基里洛夫",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -719,22 +694,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "受平手/半球",
-        "away_water": "0.890↑",
-        "time": "08-09 21:12"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "受平手/半球",
-        "away_water": "0.870",
-        "time": "08-07 00:28"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -748,6 +707,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.830",
         "time": "08-03 16:41"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "受平手/半球",
+        "away_water": "0.890↑",
+        "time": "08-09 21:12"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "受平手/半球",
+        "away_water": "0.870",
+        "time": "08-07 00:28"
       }
     },
     {

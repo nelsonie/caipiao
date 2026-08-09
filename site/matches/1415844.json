@@ -24,7 +24,7 @@
       "lost": "2.70",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-09T13:40:12Z"
+    "fetched_at_utc": "2026-08-09T13:50:12Z"
   },
   "shuju": {
     "title": "格罗宁根VS乌德勒支(2026/2027荷甲)-数据分析-500彩票网",
@@ -398,11 +398,6 @@
         "formation": null,
         "starters": [
           {
-            "number": "26",
-            "name": "汤姆·范伯根",
-            "position": "前锋"
-          },
-          {
             "number": "9",
             "name": "布林约尔·达里·威鲁姆松",
             "position": "前锋"
@@ -413,8 +408,13 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "蒂卡·德容格",
+            "number": "26",
+            "name": "汤姆·范伯根",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "大卫·范德沃夫",
             "position": "中场"
           },
           {
@@ -423,8 +423,8 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "乔格·施罗德",
+            "number": "8",
+            "name": "蒂卡·德容格",
             "position": "中场"
           },
           {
@@ -443,8 +443,8 @@
             "position": "后卫"
           },
           {
-            "number": "17",
-            "name": "大卫·范德沃夫",
+            "number": "14",
+            "name": "乔格·施罗德",
             "position": "后卫"
           },
           {
@@ -500,11 +500,6 @@
             "position": "中场"
           },
           {
-            "number": "13",
-            "name": "罗夫洛·斯图比亚尔",
-            "position": "守门员"
-          },
-          {
             "number": "7",
             "name": "亨利·特拉维斯·赫内斯",
             "position": "中场"
@@ -513,6 +508,11 @@
             "number": "15",
             "name": "埃尔维斯·兰德·范",
             "position": "后卫"
+          },
+          {
+            "number": "13",
+            "name": "罗夫洛·斯图比亚尔",
+            "position": "守门员"
           }
         ],
         "injured": [],
@@ -579,6 +579,11 @@
         ],
         "subs": [
           {
+            "number": "15",
+            "name": "阿德里安·布莱克",
+            "position": "前锋"
+          },
+          {
             "number": "47",
             "name": "伊曼纽尔·奇戈兹勒·欧文",
             "position": "前锋"
@@ -612,11 +617,6 @@
             "number": "34",
             "name": "戴维·范登伯格",
             "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "阿德里安·布莱克",
-            "position": "前锋"
           }
         ],
         "injured": [],
@@ -738,22 +738,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "平手/半球",
-        "away_water": "0.950↑",
-        "time": "08-09 20:31"
-      },
-      "init": {
-        "home_water": "1.080",
-        "handicap": "平手/半球",
-        "away_water": "0.790",
-        "time": "07-11 13:42"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -767,6 +751,22 @@
         "handicap": "平手",
         "away_water": "1.070",
         "time": "07-11 00:38"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "平手/半球",
+        "away_water": "0.950↑",
+        "time": "08-09 20:31"
+      },
+      "init": {
+        "home_water": "1.080",
+        "handicap": "平手/半球",
+        "away_water": "0.790",
+        "time": "07-11 13:42"
       }
     },
     {
