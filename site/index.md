@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-08-10T19:00:05Z'
+last_updated_utc: '2026-08-10T19:10:05Z'
 total_matches: 1
 leagues_covered:
 - 葡萄牙超级联赛
