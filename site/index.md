@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-08-10T19:10:05Z'
-total_matches: 1
-leagues_covered:
-- 葡萄牙超级联赛
+last_updated_utc: '2026-08-10T19:20:06Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 葡萄牙超级联赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 1003 | 2026-08-11 星期二 | 圣克拉拉 vs 葡萄牙国民 | 3.43/3.10/1.94 | [1438054](matches/1438054.md) |
