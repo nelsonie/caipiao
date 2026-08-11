@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-11T16:40:10Z",
+  "last_updated_utc": "2026-08-11T16:50:12Z",
   "matches": [
     {
       "xml_id": "2040814",
@@ -126,24 +126,6 @@
       "matchnum_label": "周三003",
       "home_team_id": "1567",
       "away_team_id": "2062"
-    },
-    {
-      "xml_id": "2040830",
-      "matchnum": "2006",
-      "date": "2026-08-12",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "采列",
-      "away": "亚拉腊",
-      "spf_win": "2.16",
-      "spf_draw": "3.17",
-      "spf_lost": "2.85",
-      "spf_updated": "2026-08-11 21:38:54",
-      "gameid": "1460545",
-      "kickoff_cst": "2026-08-12 02:15",
-      "matchnum_label": "周二006",
-      "home_team_id": "1397",
-      "away_team_id": "87469"
     },
     {
       "xml_id": "2040831",
