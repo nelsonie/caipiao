@@ -24,7 +24,7 @@
       "lost": "4.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-11T10:10:09Z"
+    "fetched_at_utc": "2026-08-11T10:20:11Z"
   },
   "shuju": {
     "title": "巴黎圣日耳曼VS阿斯顿维拉(2026欧超杯)-数据分析-500彩票网",
@@ -696,32 +696,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.980↓",
+        "home_water": "0.960↓",
         "handicap": "半球/一球",
-        "away_water": "0.970↑",
-        "time": "08-11 17:49"
+        "away_water": "0.990↑",
+        "time": "08-11 18:06"
       },
       "init": {
         "home_water": "1.010",
         "handicap": "半球/一球",
         "away_water": "0.940",
         "time": "08-06 21:02"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↑",
-        "handicap": "半球/一球",
-        "away_water": "0.810↓",
-        "time": "08-11 17:52"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "半球/一球",
-        "away_water": "0.880",
-        "time": "07-17 19:27"
       }
     },
     {
@@ -738,6 +722,22 @@
         "handicap": "半球/一球",
         "away_water": "0.890",
         "time": "07-15 13:59"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "半球/一球",
+        "away_water": "0.820↓",
+        "time": "08-11 18:09"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "半球/一球",
+        "away_water": "0.880",
+        "time": "07-17 19:27"
       }
     },
     {
