@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-12T19:00:11Z",
+  "last_updated_utc": "2026-08-12T19:10:09Z",
   "matches": [
     {
       "xml_id": "2040819",
@@ -90,24 +90,6 @@
       "matchnum_label": "周四010",
       "home_team_id": "1034",
       "away_team_id": "1572"
-    },
-    {
-      "xml_id": "2040831",
-      "matchnum": "3001",
-      "date": "2026-08-13",
-      "dayofweek": "星期四",
-      "league": "欧洲超级杯",
-      "home": "巴黎圣日尔曼",
-      "away": "阿斯顿维拉",
-      "spf_win": "3.00",
-      "spf_draw": "3.25",
-      "spf_lost": "2.05",
-      "spf_updated": "2026-08-12 21:39:22",
-      "gameid": "1413295",
-      "kickoff_cst": "2026-08-13 03:00",
-      "matchnum_label": "周三001",
-      "home_team_id": "647",
-      "away_team_id": "555"
     },
     {
       "xml_id": "2040832",
