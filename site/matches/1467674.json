@@ -24,7 +24,7 @@
       "lost": "1.57",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-08-12T11:30:08Z"
+    "fetched_at_utc": "2026-08-12T11:40:08Z"
   },
   "shuju": {
     "title": "利雅得青年人VS卡达西亚(2026/2027沙特联)-数据分析-500彩票网",
@@ -396,15 +396,204 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "21",
+            "name": "蒂恩·耶德瓦伊",
+            "position": "后卫"
+          },
+          {
+            "number": "10",
+            "name": "扬尼克·卡拉斯科",
+            "position": "前锋"
+          },
+          {
+            "number": "13",
+            "name": "卡洛斯·儒尼奥尔",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "乔什·布朗希尔",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "马马杜·蒂尔诺·巴里",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "穆哈迈德·泰恩",
+            "position": "前锋"
+          },
+          {
+            "number": "16",
+            "name": "侯赛因·塞比亚尼",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "哈曼·哈马米",
+            "position": "前锋"
+          },
+          {
+            "number": "33",
+            "name": "穆罕默德·马哈斯涅",
+            "position": "守门员"
+          },
+          {
+            "number": "29",
+            "name": "雅辛·阿德利",
+            "position": "中场"
+          },
+          {
+            "number": "40",
+            "name": "阿里·阿斯马里",
+            "position": "中场"
+          }
+        ],
+        "subs": [
+          {
+            "number": "5",
+            "name": "阿里·马基",
+            "position": "后卫"
+          },
+          {
+            "number": "77",
+            "name": "希沙姆·杜拜斯",
+            "position": "前锋"
+          },
+          {
+            "number": "0",
+            "name": "Hamad Al-Khorayef",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "穆特布·阿尔穆特拉克",
+            "position": "后卫"
+          },
+          {
+            "number": "14",
+            "name": "阿瓦德·纳什利",
+            "position": "中场"
+          },
+          {
+            "number": "94",
+            "name": "穆巴拉克·拉杰",
+            "position": "后卫"
+          },
+          {
+            "number": "20",
+            "name": "巴兹尔·优素福·萨亚利",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "穆罕默德·施维赫",
+            "position": "后卫"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "88",
+            "name": "卡梅伦·普尔塔斯",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "尤利安·魏格尔",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "纳西坦·南德斯",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "奥塔维奥",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "纳乔·费尔南德斯",
+            "position": "后卫"
+          },
+          {
+            "number": "16",
+            "name": "索菲安·卡拉瓦尼",
+            "position": "后卫"
+          },
+          {
+            "number": "19",
+            "name": "海瑟姆·阿西里",
+            "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "加斯顿·阿尔瓦雷斯",
+            "position": "后卫"
+          },
+          {
+            "number": "12",
+            "name": "亚西尔·沙赫拉尼",
+            "position": "后卫"
+          },
+          {
+            "number": "7",
+            "name": "图尔基·阿马尔",
+            "position": "中场"
+          },
+          {
+            "number": "50",
+            "name": "马沙里·桑约尔",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "49",
+            "name": "亚历杭德罗·韦尔加斯",
+            "position": "后卫"
+          },
+          {
+            "number": "40",
+            "name": "易卜拉欣·莫汉纳西",
+            "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "加布里埃尔·卡瓦略",
+            "position": "中场"
+          },
+          {
+            "number": "80",
+            "name": "米格尔·卡瓦略·维亚纳",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "穆罕默德·哈马德·卡塔尼",
+            "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "阿卜杜拉·贾瓦赞",
+            "position": "后卫"
+          },
+          {
+            "number": "0",
+            "name": "亚伦",
+            "position": "中场"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
