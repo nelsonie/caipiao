@@ -24,7 +24,7 @@
       "lost": "11.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-12T16:50:06Z"
+    "fetched_at_utc": "2026-08-12T17:00:08Z"
   },
   "shuju": {
     "title": "帕尔梅拉斯VS波特诺山丘(2026解放者杯)-数据分析-500彩票网",
@@ -734,22 +734,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.800↑",
-        "handicap": "一球/球半",
-        "away_water": "0.840↓",
-        "time": "08-13 00:35"
-      },
-      "init": {
-        "home_water": "0.730",
-        "handicap": "一球/球半",
-        "away_water": "0.920",
-        "time": "07-22 10:03"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -762,6 +746,22 @@
         "home_water": "0.810",
         "handicap": "一球/球半",
         "away_water": "0.990",
+        "time": "07-22 10:03"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.800↑",
+        "handicap": "一球/球半",
+        "away_water": "0.840↓",
+        "time": "08-13 00:35"
+      },
+      "init": {
+        "home_water": "0.730",
+        "handicap": "一球/球半",
+        "away_water": "0.920",
         "time": "07-22 10:03"
       }
     },
@@ -865,10 +865,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.890↓",
         "handicap": "一球/球半降",
-        "away_water": "1.000↑",
-        "time": "08-13 00:35"
+        "away_water": "0.990↑",
+        "time": "08-13 00:50"
       },
       "init": {
         "home_water": "1.000",
@@ -2058,7 +2058,7 @@
     {
       "cid": "863",
       "company": "1****",
-      "time": "2026-08-13 00:40:23",
+      "time": "2026-08-13 00:52:30",
       "odds": {
         "live": [
           "1.28",
