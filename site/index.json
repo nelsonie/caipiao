@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-12T11:10:08Z",
+  "last_updated_utc": "2026-08-12T11:20:09Z",
   "matches": [
     {
       "xml_id": "2040819",
@@ -52,8 +52,8 @@
       "gameid": "1467674",
       "kickoff_cst": "2026-08-14 02:00",
       "matchnum_label": "周四005",
-      "home_team_id": "",
-      "away_team_id": ""
+      "home_team_id": "2320",
+      "away_team_id": "4890"
     },
     {
       "xml_id": "2040827",
@@ -124,8 +124,8 @@
       "gameid": "1467672",
       "kickoff_cst": "2026-08-14 00:15",
       "matchnum_label": "周四001",
-      "home_team_id": "",
-      "away_team_id": ""
+      "home_team_id": "7823",
+      "away_team_id": "4882"
     }
   ]
 }
