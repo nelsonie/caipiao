@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-13T10:00:17Z",
+  "last_updated_utc": "2026-08-13T10:10:16Z",
   "matches": [
     {
       "xml_id": "2040821",
@@ -344,42 +344,6 @@
       "away_team_id": "518"
     },
     {
-      "xml_id": "2040852",
-      "matchnum": "5011",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "荷兰乙级联赛",
-      "home": "瓦尔韦克",
-      "away": "多德勒支",
-      "spf_win": "3.35",
-      "spf_draw": "3.60",
-      "spf_lost": "1.81",
-      "spf_updated": "2026-08-13 13:53:27",
-      "gameid": "1415866",
-      "kickoff_cst": "2026-08-15 02:00",
-      "matchnum_label": "周五011",
-      "home_team_id": "385",
-      "away_team_id": "785"
-    },
-    {
-      "xml_id": "2040853",
-      "matchnum": "5012",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "荷兰乙级联赛",
-      "home": "赫拉克勒斯",
-      "away": "登博思",
-      "spf_win": "2.50",
-      "spf_draw": "3.65",
-      "spf_lost": "2.20",
-      "spf_updated": "2026-08-13 13:53:27",
-      "gameid": "1415859",
-      "kickoff_cst": "2026-08-15 02:00",
-      "matchnum_label": "周五012",
-      "home_team_id": "296",
-      "away_team_id": "756"
-    },
-    {
       "xml_id": "2040854",
       "matchnum": "5013",
       "date": "2026-08-15",
@@ -414,24 +378,6 @@
       "matchnum_label": "周五014",
       "home_team_id": "975",
       "away_team_id": "3962"
-    },
-    {
-      "xml_id": "2040856",
-      "matchnum": "5015",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "法国乙级联赛",
-      "home": "圣埃蒂安",
-      "away": "克莱蒙",
-      "spf_win": "2.19",
-      "spf_draw": "3.45",
-      "spf_lost": "2.62",
-      "spf_updated": "2026-08-13 13:53:27",
-      "gameid": "1416869",
-      "kickoff_cst": "2026-08-15 02:45",
-      "matchnum_label": "周五015",
-      "home_team_id": "494",
-      "away_team_id": "944"
     },
     {
       "xml_id": "2040857",
