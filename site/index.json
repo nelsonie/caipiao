@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-13T07:40:17Z",
+  "last_updated_utc": "2026-08-13T07:50:15Z",
   "matches": [
     {
       "xml_id": "2040821",
@@ -200,24 +200,6 @@
       "away_team_id": "658"
     },
     {
-      "xml_id": "2040844",
-      "matchnum": "5002",
-      "date": "2026-08-14",
-      "dayofweek": "星期五",
-      "league": "芬兰超级联赛",
-      "home": "瓦萨",
-      "away": "TPS图尔库",
-      "spf_win": "2.66",
-      "spf_draw": "3.50",
-      "spf_lost": "2.14",
-      "spf_updated": "2026-08-13 13:53:27",
-      "gameid": "1363748",
-      "kickoff_cst": "2026-08-14 23:00",
-      "matchnum_label": "周五002",
-      "home_team_id": "434",
-      "away_team_id": "415"
-    },
-    {
       "xml_id": "2040845",
       "matchnum": "5003",
       "date": "2026-08-15",
@@ -272,22 +254,22 @@
       "away_team_id": "7829"
     },
     {
-      "xml_id": "2040848",
-      "matchnum": "5006",
+      "xml_id": "2040849",
+      "matchnum": "5007",
       "date": "2026-08-15",
       "dayofweek": "星期六",
-      "league": "瑞典超级联赛",
-      "home": "埃尔夫斯堡",
-      "away": "韦斯特罗斯",
-      "spf_win": "3.00",
-      "spf_draw": "3.45",
-      "spf_lost": "1.98",
+      "league": "挪威超级联赛",
+      "home": "罗森博格",
+      "away": "维京",
+      "spf_win": "1.48",
+      "spf_draw": "4.25",
+      "spf_lost": "4.60",
       "spf_updated": "2026-08-13 13:53:27",
-      "gameid": "1362739",
+      "gameid": "1364333",
       "kickoff_cst": "2026-08-15 01:00",
-      "matchnum_label": "周五006",
-      "home_team_id": "563",
-      "away_team_id": "1253"
+      "matchnum_label": "周五007",
+      "home_team_id": "1035",
+      "away_team_id": "1259"
     },
     {
       "xml_id": "2040850",
@@ -324,6 +306,24 @@
       "matchnum_label": "周五010",
       "home_team_id": "1799",
       "away_team_id": "518"
+    },
+    {
+      "xml_id": "2040852",
+      "matchnum": "5011",
+      "date": "2026-08-15",
+      "dayofweek": "星期六",
+      "league": "荷兰乙级联赛",
+      "home": "瓦尔韦克",
+      "away": "多德勒支",
+      "spf_win": "3.35",
+      "spf_draw": "3.60",
+      "spf_lost": "1.81",
+      "spf_updated": "2026-08-13 13:53:27",
+      "gameid": "1415866",
+      "kickoff_cst": "2026-08-15 02:00",
+      "matchnum_label": "周五011",
+      "home_team_id": "385",
+      "away_team_id": "785"
     },
     {
       "xml_id": "2040853",
