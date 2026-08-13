@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-13T22:30:11Z",
+  "last_updated_utc": "2026-08-13T22:40:16Z",
   "matches": [
     {
       "xml_id": "2040828",
@@ -110,24 +110,6 @@
       "away_team_id": "7829"
     },
     {
-      "xml_id": "2040848",
-      "matchnum": "5006",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "瑞典超级联赛",
-      "home": "埃尔夫斯堡",
-      "away": "韦斯特罗斯",
-      "spf_win": "3.06",
-      "spf_draw": "3.45",
-      "spf_lost": "1.95",
-      "spf_updated": "2026-08-13 21:40:41",
-      "gameid": "1362739",
-      "kickoff_cst": "2026-08-15 01:00",
-      "matchnum_label": "周五006",
-      "home_team_id": "563",
-      "away_team_id": "1253"
-    },
-    {
       "xml_id": "2040850",
       "matchnum": "5008",
       "date": "2026-08-15",
@@ -144,24 +126,6 @@
       "matchnum_label": "周五008",
       "home_team_id": "4880",
       "away_team_id": "7831"
-    },
-    {
-      "xml_id": "2040851",
-      "matchnum": "5010",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "荷兰甲级联赛",
-      "home": "特尔斯达",
-      "away": "鹿特丹斯巴达",
-      "spf_win": "4.40",
-      "spf_draw": "4.10",
-      "spf_lost": "1.52",
-      "spf_updated": "2026-08-13 13:53:27",
-      "gameid": "1415850",
-      "kickoff_cst": "2026-08-15 02:00",
-      "matchnum_label": "周五010",
-      "home_team_id": "1799",
-      "away_team_id": "518"
     },
     {
       "xml_id": "2040852",
@@ -234,24 +198,6 @@
       "matchnum_label": "周五014",
       "home_team_id": "975",
       "away_team_id": "3962"
-    },
-    {
-      "xml_id": "2040856",
-      "matchnum": "5015",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "法国乙级联赛",
-      "home": "圣埃蒂安",
-      "away": "克莱蒙",
-      "spf_win": "2.19",
-      "spf_draw": "3.45",
-      "spf_lost": "2.62",
-      "spf_updated": "2026-08-13 13:53:27",
-      "gameid": "1416869",
-      "kickoff_cst": "2026-08-15 02:45",
-      "matchnum_label": "周五015",
-      "home_team_id": "494",
-      "away_team_id": "944"
     },
     {
       "xml_id": "2040857",

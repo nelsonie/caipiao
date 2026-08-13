@@ -24,7 +24,7 @@
       "lost": "3.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-13T22:30:08Z"
+    "fetched_at_utc": "2026-08-13T22:40:13Z"
   },
   "shuju": {
     "title": "瓦尔韦克VS多德勒支(2026/2027荷乙)-数据分析-500彩票网",
@@ -727,22 +727,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820",
-        "handicap": "半球",
-        "away_water": "0.980",
-        "time": "08-13 09:01"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "半球",
-        "away_water": "0.980",
-        "time": "08-13 09:01"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -756,6 +740,22 @@
         "handicap": "半球/一球",
         "away_water": "0.690",
         "time": "08-08 03:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820",
+        "handicap": "半球",
+        "away_water": "0.980",
+        "time": "08-13 09:01"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "半球",
+        "away_water": "0.980",
+        "time": "08-13 09:01"
       }
     },
     {
