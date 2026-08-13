@@ -8,9 +8,9 @@
     "away": "基多体育大学",
     "kickoff_cst": "2026-08-14 06:00",
     "spf": {
-      "win": "2.90",
+      "win": "2.97",
       "draw": "3.03",
-      "lost": "2.20"
+      "lost": "2.16"
     },
     "asia_main": {
       "handicap": "半球/一球",
@@ -24,7 +24,7 @@
       "lost": "5.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-13T09:30:10Z"
+    "fetched_at_utc": "2026-08-13T09:40:09Z"
   },
   "shuju": {
     "title": "米拉索尔VS基多体育大学(2026解放者杯)-数据分析-500彩票网",
@@ -714,22 +714,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "半球/一球",
-        "away_water": "0.810↑",
-        "time": "08-13 16:21"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "半球/一球",
-        "away_water": "0.750",
-        "time": "08-09 15:15"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -743,6 +727,22 @@
         "handicap": "半球",
         "away_water": "1.010",
         "time": "07-26 21:22"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "半球/一球",
+        "away_water": "0.810↑",
+        "time": "08-13 16:21"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "半球/一球",
+        "away_water": "0.750",
+        "time": "08-09 15:15"
       }
     },
     {
