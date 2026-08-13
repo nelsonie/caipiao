@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-13T16:50:18Z",
+  "last_updated_utc": "2026-08-13T17:00:15Z",
   "matches": [
     {
       "xml_id": "2040821",
@@ -254,6 +254,24 @@
       "away_team_id": "7829"
     },
     {
+      "xml_id": "2040848",
+      "matchnum": "5006",
+      "date": "2026-08-15",
+      "dayofweek": "星期六",
+      "league": "瑞典超级联赛",
+      "home": "埃尔夫斯堡",
+      "away": "韦斯特罗斯",
+      "spf_win": "3.06",
+      "spf_draw": "3.45",
+      "spf_lost": "1.95",
+      "spf_updated": "2026-08-13 21:40:41",
+      "gameid": "1362739",
+      "kickoff_cst": "2026-08-15 01:00",
+      "matchnum_label": "周五006",
+      "home_team_id": "563",
+      "away_team_id": "1253"
+    },
+    {
       "xml_id": "2040849",
       "matchnum": "5007",
       "date": "2026-08-15",
@@ -290,6 +308,24 @@
       "away_team_id": "7831"
     },
     {
+      "xml_id": "2040851",
+      "matchnum": "5010",
+      "date": "2026-08-15",
+      "dayofweek": "星期六",
+      "league": "荷兰甲级联赛",
+      "home": "特尔斯达",
+      "away": "鹿特丹斯巴达",
+      "spf_win": "4.40",
+      "spf_draw": "4.10",
+      "spf_lost": "1.52",
+      "spf_updated": "2026-08-13 13:53:27",
+      "gameid": "1415850",
+      "kickoff_cst": "2026-08-15 02:00",
+      "matchnum_label": "周五010",
+      "home_team_id": "1799",
+      "away_team_id": "518"
+    },
+    {
       "xml_id": "2040852",
       "matchnum": "5011",
       "date": "2026-08-15",
@@ -306,6 +342,42 @@
       "matchnum_label": "周五011",
       "home_team_id": "385",
       "away_team_id": "785"
+    },
+    {
+      "xml_id": "2040853",
+      "matchnum": "5012",
+      "date": "2026-08-15",
+      "dayofweek": "星期六",
+      "league": "荷兰乙级联赛",
+      "home": "赫拉克勒斯",
+      "away": "登博思",
+      "spf_win": "2.50",
+      "spf_draw": "3.65",
+      "spf_lost": "2.20",
+      "spf_updated": "2026-08-13 13:53:27",
+      "gameid": "1415859",
+      "kickoff_cst": "2026-08-15 02:00",
+      "matchnum_label": "周五012",
+      "home_team_id": "296",
+      "away_team_id": "756"
+    },
+    {
+      "xml_id": "2040854",
+      "matchnum": "5013",
+      "date": "2026-08-15",
+      "dayofweek": "星期六",
+      "league": "法国乙级联赛",
+      "home": "阿纳西",
+      "away": "罗德兹",
+      "spf_win": "4.20",
+      "spf_draw": "3.60",
+      "spf_lost": "1.63",
+      "spf_updated": "2026-08-13 13:53:27",
+      "gameid": "1416861",
+      "kickoff_cst": "2026-08-15 02:45",
+      "matchnum_label": "周五013",
+      "home_team_id": "5091",
+      "away_team_id": "2155"
     },
     {
       "xml_id": "2040855",
