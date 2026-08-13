@@ -24,7 +24,7 @@
       "lost": "11.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-13T23:30:10Z"
+    "fetched_at_utc": "2026-08-13T23:40:12Z"
   },
   "shuju": {
     "title": "里斯本竞技VS吉马良斯(2026/2027葡超)-数据分析-500彩票网",
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "球半/两球",
-        "away_water": "0.970↓",
-        "time": "08-14 01:00"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "球半/两球",
-        "away_water": "1.180",
-        "time": "08-09 03:58"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "两球",
         "away_water": "0.910",
         "time": "08-09 08:18"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "球半/两球",
+        "away_water": "0.970↓",
+        "time": "08-14 01:00"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "球半/两球",
+        "away_water": "1.180",
+        "time": "08-09 03:58"
       }
     },
     {
