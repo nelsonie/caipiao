@@ -24,7 +24,7 @@
       "lost": "5.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-13T12:40:10Z"
+    "fetched_at_utc": "2026-08-13T12:50:10Z"
   },
   "shuju": {
     "title": "米拉索尔VS基多体育大学(2026解放者杯)-数据分析-500彩票网",
@@ -714,22 +714,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.910↓",
-        "time": "08-13 20:21"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "半球",
-        "away_water": "1.010",
-        "time": "07-26 21:22"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -743,6 +727,22 @@
         "handicap": "半球/一球",
         "away_water": "0.750",
         "time": "08-09 15:15"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.910↓",
+        "time": "08-13 20:21"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "半球",
+        "away_water": "1.010",
+        "time": "07-26 21:22"
       }
     },
     {
