@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-08-13T18:00:14Z",
+  "last_updated_utc": "2026-08-13T18:10:13Z",
   "matches": [
-    {
-      "xml_id": "2040823",
-      "matchnum": "4005",
-      "date": "2026-08-14",
-      "dayofweek": "星期五",
-      "league": "沙特职业联赛",
-      "home": "利雅得青年",
-      "away": "胡巴尔卡德西亚",
-      "spf_win": "2.34",
-      "spf_draw": "3.40",
-      "spf_lost": "2.46",
-      "spf_updated": "2026-08-13 19:37:49",
-      "gameid": "1467674",
-      "kickoff_cst": "2026-08-14 02:00",
-      "matchnum_label": "周四005",
-      "home_team_id": "2320",
-      "away_team_id": "4890"
-    },
     {
       "xml_id": "2040824",
       "matchnum": "4006",
@@ -198,24 +180,6 @@
       "matchnum_label": "周五005",
       "home_team_id": "15541",
       "away_team_id": "7829"
-    },
-    {
-      "xml_id": "2040848",
-      "matchnum": "5006",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "瑞典超级联赛",
-      "home": "埃尔夫斯堡",
-      "away": "韦斯特罗斯",
-      "spf_win": "3.06",
-      "spf_draw": "3.45",
-      "spf_lost": "1.95",
-      "spf_updated": "2026-08-13 21:40:41",
-      "gameid": "1362739",
-      "kickoff_cst": "2026-08-15 01:00",
-      "matchnum_label": "周五006",
-      "home_team_id": "563",
-      "away_team_id": "1253"
     },
     {
       "xml_id": "2040849",
