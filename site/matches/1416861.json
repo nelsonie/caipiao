@@ -24,7 +24,7 @@
       "lost": "3.25",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-13T15:30:15Z"
+    "fetched_at_utc": "2026-08-13T15:40:14Z"
   },
   "shuju": {
     "title": "阿纳西VS罗德兹(2026/2027法乙)-数据分析-500彩票网",
@@ -713,22 +713,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "平手/半球",
-        "away_water": "0.960↓",
-        "time": "08-12 21:00"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "平手/半球",
-        "away_water": "0.970",
-        "time": "08-10 20:41"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -742,6 +726,22 @@
         "handicap": "平手",
         "away_water": "1.400",
         "time": "08-09 03:24"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↑",
+        "handicap": "平手/半球",
+        "away_water": "0.960↓",
+        "time": "08-12 21:00"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "平手/半球",
+        "away_water": "0.970",
+        "time": "08-10 20:41"
       }
     },
     {
@@ -812,10 +812,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.840↑",
+        "home_water": "0.850↑",
         "handicap": "平手/半球",
-        "away_water": "0.930↑",
-        "time": "08-12 20:59"
+        "away_water": "0.940↑",
+        "time": "08-13 22:53"
       },
       "init": {
         "home_water": "0.830",
