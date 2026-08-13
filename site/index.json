@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-13T23:10:13Z",
+  "last_updated_utc": "2026-08-13T23:20:13Z",
   "matches": [
     {
       "xml_id": "2040828",
@@ -252,24 +252,6 @@
       "matchnum_label": "周五014",
       "home_team_id": "975",
       "away_team_id": "3962"
-    },
-    {
-      "xml_id": "2040856",
-      "matchnum": "5015",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "法国乙级联赛",
-      "home": "圣埃蒂安",
-      "away": "克莱蒙",
-      "spf_win": "2.19",
-      "spf_draw": "3.45",
-      "spf_lost": "2.62",
-      "spf_updated": "2026-08-13 13:53:27",
-      "gameid": "1416869",
-      "kickoff_cst": "2026-08-15 02:45",
-      "matchnum_label": "周五015",
-      "home_team_id": "494",
-      "away_team_id": "944"
     },
     {
       "xml_id": "2040857",
