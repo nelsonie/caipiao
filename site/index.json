@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-13T16:10:15Z",
+  "last_updated_utc": "2026-08-13T16:20:15Z",
   "matches": [
     {
       "xml_id": "2040821",
@@ -144,24 +144,6 @@
       "matchnum_label": "周四010",
       "home_team_id": "1034",
       "away_team_id": "1572"
-    },
-    {
-      "xml_id": "2040832",
-      "matchnum": "4001",
-      "date": "2026-08-14",
-      "dayofweek": "星期五",
-      "league": "沙特职业联赛",
-      "home": "艾卜哈",
-      "away": "拉斯决心",
-      "spf_win": "5.60",
-      "spf_draw": "4.05",
-      "spf_lost": "1.42",
-      "spf_updated": "2026-08-13 16:47:00",
-      "gameid": "1467672",
-      "kickoff_cst": "2026-08-14 00:15",
-      "matchnum_label": "周四001",
-      "home_team_id": "7823",
-      "away_team_id": "4882"
     },
     {
       "xml_id": "2040833",
