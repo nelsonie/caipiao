@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-13T06:30:15Z",
+  "last_updated_utc": "2026-08-13T06:40:18Z",
   "matches": [
     {
       "xml_id": "2040821",
@@ -254,24 +254,6 @@
       "away_team_id": "695"
     },
     {
-      "xml_id": "2040847",
-      "matchnum": "5005",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "沙特职业联赛",
-      "home": "新未来SC",
-      "away": "迈季迈阿宽广",
-      "spf_win": "3.25",
-      "spf_draw": "3.45",
-      "spf_lost": "1.88",
-      "spf_updated": "2026-08-13 13:53:27",
-      "gameid": "1467675",
-      "kickoff_cst": "2026-08-15 00:50",
-      "matchnum_label": "周五005",
-      "home_team_id": "15541",
-      "away_team_id": "7829"
-    },
-    {
       "xml_id": "2040848",
       "matchnum": "5006",
       "date": "2026-08-15",
@@ -378,24 +360,6 @@
       "matchnum_label": "周五012",
       "home_team_id": "296",
       "away_team_id": "756"
-    },
-    {
-      "xml_id": "2040854",
-      "matchnum": "5013",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "法国乙级联赛",
-      "home": "阿纳西",
-      "away": "罗德兹",
-      "spf_win": "4.20",
-      "spf_draw": "3.60",
-      "spf_lost": "1.63",
-      "spf_updated": "2026-08-13 13:53:27",
-      "gameid": "1416861",
-      "kickoff_cst": "2026-08-15 02:45",
-      "matchnum_label": "周五013",
-      "home_team_id": "5091",
-      "away_team_id": "2155"
     },
     {
       "xml_id": "2040855",
