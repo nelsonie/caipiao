@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-13T07:50:15Z",
+  "last_updated_utc": "2026-08-13T08:00:16Z",
   "matches": [
     {
       "xml_id": "2040821",
@@ -200,6 +200,24 @@
       "away_team_id": "658"
     },
     {
+      "xml_id": "2040844",
+      "matchnum": "5002",
+      "date": "2026-08-14",
+      "dayofweek": "星期五",
+      "league": "芬兰超级联赛",
+      "home": "瓦萨",
+      "away": "TPS图尔库",
+      "spf_win": "2.66",
+      "spf_draw": "3.50",
+      "spf_lost": "2.14",
+      "spf_updated": "2026-08-13 13:53:27",
+      "gameid": "1363748",
+      "kickoff_cst": "2026-08-14 23:00",
+      "matchnum_label": "周五002",
+      "home_team_id": "434",
+      "away_team_id": "415"
+    },
+    {
       "xml_id": "2040845",
       "matchnum": "5003",
       "date": "2026-08-15",
@@ -252,6 +270,24 @@
       "matchnum_label": "周五005",
       "home_team_id": "15541",
       "away_team_id": "7829"
+    },
+    {
+      "xml_id": "2040848",
+      "matchnum": "5006",
+      "date": "2026-08-15",
+      "dayofweek": "星期六",
+      "league": "瑞典超级联赛",
+      "home": "埃尔夫斯堡",
+      "away": "韦斯特罗斯",
+      "spf_win": "3.00",
+      "spf_draw": "3.45",
+      "spf_lost": "1.98",
+      "spf_updated": "2026-08-13 13:53:27",
+      "gameid": "1362739",
+      "kickoff_cst": "2026-08-15 01:00",
+      "matchnum_label": "周五006",
+      "home_team_id": "563",
+      "away_team_id": "1253"
     },
     {
       "xml_id": "2040849",
