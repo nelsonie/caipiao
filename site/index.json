@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-14T04:50:23Z",
+  "last_updated_utc": "2026-08-14T05:00:25Z",
   "matches": [
     {
       "xml_id": "2040843",
@@ -45,10 +45,10 @@
       "league": "德国乙级联赛",
       "home": "基尔",
       "away": "圣保利",
-      "spf_win": "5.10",
+      "spf_win": "5.22",
       "spf_draw": "4.10",
-      "spf_lost": "1.45",
-      "spf_updated": "2026-08-13 13:53:27",
+      "spf_lost": "1.44",
+      "spf_updated": "2026-08-14 12:52:28",
       "gameid": "1430001",
       "kickoff_cst": "2026-08-15 00:30",
       "matchnum_label": "周五003",
@@ -153,10 +153,10 @@
       "league": "荷兰甲级联赛",
       "home": "特尔斯达",
       "away": "鹿特丹斯巴达",
-      "spf_win": "4.20",
-      "spf_draw": "4.00",
-      "spf_lost": "1.56",
-      "spf_updated": "2026-08-14 11:26:25",
+      "spf_win": "4.10",
+      "spf_draw": "3.85",
+      "spf_lost": "1.60",
+      "spf_updated": "2026-08-14 12:51:05",
       "gameid": "1415850",
       "kickoff_cst": "2026-08-15 02:00",
       "matchnum_label": "周五010",
@@ -740,24 +740,6 @@
       "away_team_id": "1616"
     },
     {
-      "xml_id": "2040903",
-      "matchnum": "7016",
-      "date": "2026-08-16",
-      "dayofweek": "星期天",
-      "league": "荷兰甲级联赛",
-      "home": "阿贾克斯",
-      "away": "海伦芬",
-      "spf_win": "2.00",
-      "spf_draw": "3.80",
-      "spf_lost": "2.74",
-      "spf_updated": "2026-08-14 09:47:39",
-      "gameid": "1415865",
-      "kickoff_cst": "2026-08-16 22:45",
-      "matchnum_label": "周日016",
-      "home_team_id": "540",
-      "away_team_id": "857"
-    },
-    {
       "xml_id": "2040907",
       "matchnum": "7022",
       "date": "2026-08-17",
@@ -792,24 +774,6 @@
       "matchnum_label": "周日023",
       "home_team_id": "5551",
       "away_team_id": "1110"
-    },
-    {
-      "xml_id": "2040921",
-      "matchnum": "7018",
-      "date": "2026-08-16",
-      "dayofweek": "星期天",
-      "league": "西班牙甲级联赛",
-      "home": "桑坦德竞技",
-      "away": "比利亚雷亚尔",
-      "spf_win": "1.69",
-      "spf_draw": "3.70",
-      "spf_lost": "3.75",
-      "spf_updated": "2026-08-14 09:47:39",
-      "gameid": "1427943",
-      "kickoff_cst": "2026-08-16 23:00",
-      "matchnum_label": "周日018",
-      "home_team_id": "471",
-      "away_team_id": "683"
     }
   ]
 }
