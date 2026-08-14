@@ -24,7 +24,7 @@
       "lost": "1.40",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-14T06:30:21Z"
+    "fetched_at_utc": "2026-08-14T06:40:23Z"
   },
   "shuju": {
     "title": "SBV精英VSPSV埃因霍温(2026/2027荷甲)-数据分析-500彩票网",
@@ -716,22 +716,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.710↓",
-        "handicap": "受一球/球半降",
-        "away_water": "1.190↑",
-        "time": "08-14 14:00"
-      },
-      "init": {
-        "home_water": "2.880",
-        "handicap": "平手",
-        "away_water": "0.270",
-        "time": "08-08 10:42"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -745,6 +729,22 @@
         "handicap": "受一球",
         "away_water": "0.990",
         "time": "08-10 19:29"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.710↓",
+        "handicap": "受一球/球半降",
+        "away_water": "1.190↑",
+        "time": "08-14 14:00"
+      },
+      "init": {
+        "home_water": "2.880",
+        "handicap": "平手",
+        "away_water": "0.270",
+        "time": "08-08 10:42"
       }
     },
     {
