@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-14T07:40:36Z",
+  "last_updated_utc": "2026-08-14T07:50:38Z",
   "matches": [
     {
       "xml_id": "2040843",
@@ -684,6 +684,24 @@
       "matchnum_label": "周日008",
       "home_team_id": "1231",
       "away_team_id": "1353"
+    },
+    {
+      "xml_id": "2040896",
+      "matchnum": "7009",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "费耶诺德",
+      "away": "前进之鹰",
+      "spf_win": "1.87",
+      "spf_draw": "3.90",
+      "spf_lost": "2.96",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1415862",
+      "kickoff_cst": "2026-08-16 20:30",
+      "matchnum_label": "周日009",
+      "home_team_id": "801",
+      "away_team_id": "1796"
     },
     {
       "xml_id": "2040898",
