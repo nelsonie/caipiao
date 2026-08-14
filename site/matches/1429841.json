@@ -24,7 +24,7 @@
       "lost": "2.48",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-14T05:40:06Z"
+    "fetched_at_utc": "2026-08-14T05:50:06Z"
   },
   "shuju": {
     "title": "不伦瑞克VS波鸿(2026/2027德乙)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.050↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.760↓",
-        "time": "08-14 13:17"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "平手",
-        "away_water": "0.950",
-        "time": "08-10 03:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.880",
         "time": "08-08 20:35"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.050↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.760↓",
+        "time": "08-14 13:17"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "平手",
+        "away_water": "0.950",
+        "time": "08-10 03:05"
       }
     },
     {
@@ -859,10 +859,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "1.090↑",
+        "home_water": "1.080↑",
         "handicap": "平手/半球升",
-        "away_water": "0.810↓",
-        "time": "08-14 13:17"
+        "away_water": "0.820↓",
+        "time": "08-14 13:40"
       },
       "init": {
         "home_water": "0.920",
@@ -2052,7 +2052,7 @@
     {
       "cid": "863",
       "company": "1****",
-      "time": "2026-08-14 12:50:37",
+      "time": "2026-08-14 13:36:14",
       "odds": {
         "live": [
           "2.55",
