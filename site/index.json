@@ -1,42 +1,6 @@
 {
-  "last_updated_utc": "2026-08-14T16:00:45Z",
+  "last_updated_utc": "2026-08-14T16:10:35Z",
   "matches": [
-    {
-      "xml_id": "2040843",
-      "matchnum": "5001",
-      "date": "2026-08-14",
-      "dayofweek": "星期五",
-      "league": "日本职业联赛",
-      "home": "东京绿茵",
-      "away": "柏太阳神",
-      "spf_win": "1.81",
-      "spf_draw": "3.15",
-      "spf_lost": "3.85",
-      "spf_updated": "2026-08-14 14:44:55",
-      "gameid": "1419227",
-      "kickoff_cst": "2026-08-14 18:00",
-      "matchnum_label": "周五001",
-      "home_team_id": "775",
-      "away_team_id": "658"
-    },
-    {
-      "xml_id": "2040844",
-      "matchnum": "5002",
-      "date": "2026-08-14",
-      "dayofweek": "星期五",
-      "league": "芬兰超级联赛",
-      "home": "瓦萨",
-      "away": "TPS图尔库",
-      "spf_win": "3.05",
-      "spf_draw": "3.30",
-      "spf_lost": "2.01",
-      "spf_updated": "2026-08-14 19:39:32",
-      "gameid": "1363748",
-      "kickoff_cst": "2026-08-14 23:00",
-      "matchnum_label": "周五002",
-      "home_team_id": "434",
-      "away_team_id": "415"
-    },
     {
       "xml_id": "2040845",
       "matchnum": "5003",
@@ -128,24 +92,6 @@
       "away_team_id": "1259"
     },
     {
-      "xml_id": "2040850",
-      "matchnum": "5008",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "沙特职业联赛",
-      "home": "达曼协定",
-      "away": "利雅得",
-      "spf_win": "3.75",
-      "spf_draw": "3.70",
-      "spf_lost": "1.69",
-      "spf_updated": "2026-08-14 18:52:20",
-      "gameid": "1467676",
-      "kickoff_cst": "2026-08-15 02:00",
-      "matchnum_label": "周五008",
-      "home_team_id": "4880",
-      "away_team_id": "7831"
-    },
-    {
       "xml_id": "2040851",
       "matchnum": "5010",
       "date": "2026-08-15",
@@ -180,24 +126,6 @@
       "matchnum_label": "周五011",
       "home_team_id": "385",
       "away_team_id": "785"
-    },
-    {
-      "xml_id": "2040853",
-      "matchnum": "5012",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "荷兰乙级联赛",
-      "home": "赫拉克勒斯",
-      "away": "登博思",
-      "spf_win": "2.43",
-      "spf_draw": "3.53",
-      "spf_lost": "2.30",
-      "spf_updated": "2026-08-14 10:32:02",
-      "gameid": "1415859",
-      "kickoff_cst": "2026-08-15 02:00",
-      "matchnum_label": "周五012",
-      "home_team_id": "296",
-      "away_team_id": "756"
     },
     {
       "xml_id": "2040854",
