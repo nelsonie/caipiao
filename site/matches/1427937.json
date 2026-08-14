@@ -24,7 +24,7 @@
       "lost": "3.38",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-14T05:00:16Z"
+    "fetched_at_utc": "2026-08-14T05:10:14Z"
   },
   "shuju": {
     "title": "阿拉维斯VS赫塔费(2026/2027西甲)-数据分析-500彩票网",
@@ -637,10 +637,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.970",
+        "home_water": "0.950↓",
         "handicap": "平手/半球",
-        "away_water": "0.870",
-        "time": "08-08 03:46"
+        "away_water": "0.900↑",
+        "time": "08-14 12:59"
       },
       "init": {
         "home_water": "0.970",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.010↓",
-        "handicap": "平手/半球",
-        "away_water": "0.930↑",
-        "time": "08-14 11:03"
-      },
-      "init": {
-        "home_water": "1.060",
-        "handicap": "平手/半球",
-        "away_water": "0.880",
-        "time": "08-11 02:16"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "平手/半球",
         "away_water": "0.860",
         "time": "07-14 18:15"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.030↓",
+        "handicap": "平手/半球",
+        "away_water": "0.910↑",
+        "time": "08-14 12:53"
+      },
+      "init": {
+        "home_water": "1.060",
+        "handicap": "平手/半球",
+        "away_water": "0.880",
+        "time": "08-11 02:16"
       }
     },
     {

@@ -24,7 +24,7 @@
       "lost": "2.77",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-14T05:00:14Z"
+    "fetched_at_utc": "2026-08-14T05:10:13Z"
   },
   "shuju": {
     "title": "柏林赫塔VS海登海姆(2026/2027德乙)-数据分析-500彩票网",
@@ -684,22 +684,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "平手/半球",
-        "away_water": "0.810↓",
-        "time": "08-14 02:00"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "平手/半球",
-        "away_water": "0.920",
-        "time": "08-11 10:35"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -713,6 +697,22 @@
         "handicap": "平手/半球",
         "away_water": "0.920",
         "time": "08-10 15:18"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "平手/半球",
+        "away_water": "0.810↓",
+        "time": "08-14 02:00"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "平手/半球",
+        "away_water": "0.920",
+        "time": "08-11 10:35"
       }
     },
     {
@@ -799,10 +799,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.950↑",
         "handicap": "平手/半球",
-        "away_water": "0.800↓",
-        "time": "08-14 01:52"
+        "away_water": "0.820↓",
+        "time": "08-14 12:06"
       },
       "init": {
         "home_water": "0.870",
