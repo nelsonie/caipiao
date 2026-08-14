@@ -24,7 +24,7 @@
       "lost": "2.18",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-14T14:20:25Z"
+    "fetched_at_utc": "2026-08-14T14:30:24Z"
   },
   "shuju": {
     "title": "乌德勒支VS阿尔克马尔(2026/2027荷甲)-数据分析-500彩票网",
@@ -722,22 +722,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.710↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.970↓",
-        "time": "08-13 20:19"
-      },
-      "init": {
-        "home_water": "0.790",
-        "handicap": "平手",
-        "away_water": "1.060",
-        "time": "08-08 01:08"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -751,6 +735,22 @@
         "handicap": "平手",
         "away_water": "0.800",
         "time": "08-10 08:44"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.710↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.970↓",
+        "time": "08-13 20:19"
+      },
+      "init": {
+        "home_water": "0.790",
+        "handicap": "平手",
+        "away_water": "1.060",
+        "time": "08-08 01:08"
       }
     },
     {
