@@ -24,7 +24,7 @@
       "lost": "10.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-14T21:10:20Z"
+    "fetched_at_utc": "2026-08-14T21:20:20Z"
   },
   "shuju": {
     "title": "特温特VS兹沃勒(2026/2027荷甲)-数据分析-500彩票网",
@@ -737,22 +737,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "球半/两球",
-        "away_water": "1.010↑",
-        "time": "08-14 02:57"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "球半/两球",
-        "away_water": "0.970",
-        "time": "08-09 19:23"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -766,6 +750,22 @@
         "handicap": "球半/两球",
         "away_water": "0.980",
         "time": "08-11 08:22"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "球半/两球",
+        "away_water": "1.010↑",
+        "time": "08-14 02:57"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "球半/两球",
+        "away_water": "0.970",
+        "time": "08-09 19:23"
       }
     },
     {
