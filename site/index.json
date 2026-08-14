@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-14T09:00:39Z",
+  "last_updated_utc": "2026-08-14T09:10:40Z",
   "matches": [
     {
       "xml_id": "2040843",
@@ -27,10 +27,10 @@
       "league": "芬兰超级联赛",
       "home": "瓦萨",
       "away": "TPS图尔库",
-      "spf_win": "2.88",
-      "spf_draw": "3.35",
-      "spf_lost": "2.07",
-      "spf_updated": "2026-08-14 16:35:43",
+      "spf_win": "2.95",
+      "spf_draw": "3.30",
+      "spf_lost": "2.05",
+      "spf_updated": "2026-08-14 17:00:54",
       "gameid": "1363748",
       "kickoff_cst": "2026-08-14 23:00",
       "matchnum_label": "周五002",
@@ -756,24 +756,6 @@
       "matchnum_label": "周日016",
       "home_team_id": "540",
       "away_team_id": "857"
-    },
-    {
-      "xml_id": "2040907",
-      "matchnum": "7022",
-      "date": "2026-08-17",
-      "dayofweek": "星期一",
-      "league": "西班牙甲级联赛",
-      "home": "西班牙人",
-      "away": "莱万特",
-      "spf_win": "3.78",
-      "spf_draw": "3.45",
-      "spf_lost": "1.74",
-      "spf_updated": "2026-08-14 11:51:55",
-      "gameid": "1427941",
-      "kickoff_cst": "2026-08-17 01:00",
-      "matchnum_label": "周日022",
-      "home_team_id": "1283",
-      "away_team_id": "985"
     },
     {
       "xml_id": "2040908",
