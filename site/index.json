@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-14T15:10:41Z",
+  "last_updated_utc": "2026-08-14T15:20:40Z",
   "matches": [
     {
       "xml_id": "2040843",
@@ -738,24 +738,6 @@
       "matchnum_label": "周日013",
       "home_team_id": "1099",
       "away_team_id": "1616"
-    },
-    {
-      "xml_id": "2040903",
-      "matchnum": "7016",
-      "date": "2026-08-16",
-      "dayofweek": "星期天",
-      "league": "荷兰甲级联赛",
-      "home": "阿贾克斯",
-      "away": "海伦芬",
-      "spf_win": "2.00",
-      "spf_draw": "3.80",
-      "spf_lost": "2.74",
-      "spf_updated": "2026-08-14 09:47:39",
-      "gameid": "1415865",
-      "kickoff_cst": "2026-08-16 22:45",
-      "matchnum_label": "周日016",
-      "home_team_id": "540",
-      "away_team_id": "857"
     },
     {
       "xml_id": "2040907",
