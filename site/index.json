@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-14T16:40:34Z",
+  "last_updated_utc": "2026-08-14T16:50:35Z",
   "matches": [
     {
       "xml_id": "2040847",
@@ -236,6 +236,24 @@
       "away_team_id": "723"
     },
     {
+      "xml_id": "2040862",
+      "matchnum": "6001",
+      "date": "2026-08-15",
+      "dayofweek": "星期六",
+      "league": "日本职业联赛",
+      "home": "鹿岛鹿角",
+      "away": "名古屋鲸八",
+      "spf_win": "3.55",
+      "spf_draw": "3.40",
+      "spf_lost": "1.81",
+      "spf_updated": "2026-08-14 21:16:44",
+      "gameid": "1418882",
+      "kickoff_cst": "2026-08-15 17:00",
+      "matchnum_label": "周六001",
+      "home_team_id": "1029",
+      "away_team_id": "1100"
+    },
+    {
       "xml_id": "2040863",
       "matchnum": "6002",
       "date": "2026-08-15",
@@ -396,6 +414,24 @@
       "matchnum_label": "周六017",
       "home_team_id": "1275",
       "away_team_id": "224"
+    },
+    {
+      "xml_id": "2040878",
+      "matchnum": "6018",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "葡萄牙超级联赛",
+      "home": "维塞乌",
+      "away": "圣克拉拉",
+      "spf_win": "1.50",
+      "spf_draw": "3.65",
+      "spf_lost": "5.30",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1438056",
+      "kickoff_cst": "2026-08-16 01:00",
+      "matchnum_label": "周六018",
+      "home_team_id": "2174",
+      "away_team_id": "470"
     },
     {
       "xml_id": "2040879",
