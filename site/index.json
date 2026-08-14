@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-14T09:30:37Z",
+  "last_updated_utc": "2026-08-14T09:40:39Z",
   "matches": [
     {
       "xml_id": "2040843",
@@ -306,6 +306,24 @@
       "matchnum_label": "周五016",
       "home_team_id": "978",
       "away_team_id": "723"
+    },
+    {
+      "xml_id": "2040862",
+      "matchnum": "6001",
+      "date": "2026-08-15",
+      "dayofweek": "星期六",
+      "league": "日本职业联赛",
+      "home": "鹿岛鹿角",
+      "away": "名古屋鲸八",
+      "spf_win": "3.45",
+      "spf_draw": "3.38",
+      "spf_lost": "1.84",
+      "spf_updated": "2026-08-14 15:28:00",
+      "gameid": "1418882",
+      "kickoff_cst": "2026-08-15 17:00",
+      "matchnum_label": "周六001",
+      "home_team_id": "1029",
+      "away_team_id": "1100"
     },
     {
       "xml_id": "2040863",
