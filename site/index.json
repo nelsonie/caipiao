@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-14T20:50:24Z",
+  "last_updated_utc": "2026-08-14T21:00:27Z",
   "matches": [
     {
       "xml_id": "2040862",
@@ -216,6 +216,60 @@
       "matchnum_label": "周六019",
       "home_team_id": "542",
       "away_team_id": "838"
+    },
+    {
+      "xml_id": "2040882",
+      "matchnum": "6022",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "SBV精英",
+      "away": "PSV埃因霍温",
+      "spf_win": "2.45",
+      "spf_draw": "3.95",
+      "spf_lost": "2.14",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1415856",
+      "kickoff_cst": "2026-08-16 02:00",
+      "matchnum_label": "周六022",
+      "home_team_id": "393",
+      "away_team_id": "378"
+    },
+    {
+      "xml_id": "2040883",
+      "matchnum": "6023",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "福图纳锡塔德",
+      "away": "坎布尔",
+      "spf_win": "2.68",
+      "spf_draw": "3.70",
+      "spf_lost": "2.06",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1415858",
+      "kickoff_cst": "2026-08-16 03:00",
+      "matchnum_label": "周六023",
+      "home_team_id": "1303",
+      "away_team_id": "235"
+    },
+    {
+      "xml_id": "2040884",
+      "matchnum": "6024",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "西班牙甲级联赛",
+      "home": "塞维利亚",
+      "away": "巴列卡诺",
+      "spf_win": "5.20",
+      "spf_draw": "3.65",
+      "spf_lost": "1.51",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1427945",
+      "kickoff_cst": "2026-08-16 03:30",
+      "matchnum_label": "周六024",
+      "home_team_id": "464",
+      "away_team_id": "650"
     },
     {
       "xml_id": "2040885",
