@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-14T01:50:12Z",
+  "last_updated_utc": "2026-08-14T02:00:12Z",
   "matches": [
     {
       "xml_id": "2040843",
@@ -128,6 +128,24 @@
       "away_team_id": "1259"
     },
     {
+      "xml_id": "2040850",
+      "matchnum": "5008",
+      "date": "2026-08-15",
+      "dayofweek": "星期六",
+      "league": "沙特职业联赛",
+      "home": "达曼协定",
+      "away": "利雅得",
+      "spf_win": "3.57",
+      "spf_draw": "3.70",
+      "spf_lost": "1.73",
+      "spf_updated": "2026-08-13 13:53:27",
+      "gameid": "1467676",
+      "kickoff_cst": "2026-08-15 02:00",
+      "matchnum_label": "周五008",
+      "home_team_id": "4880",
+      "away_team_id": "7831"
+    },
+    {
       "xml_id": "2040851",
       "matchnum": "5010",
       "date": "2026-08-15",
@@ -162,6 +180,24 @@
       "matchnum_label": "周五011",
       "home_team_id": "385",
       "away_team_id": "785"
+    },
+    {
+      "xml_id": "2040853",
+      "matchnum": "5012",
+      "date": "2026-08-15",
+      "dayofweek": "星期六",
+      "league": "荷兰乙级联赛",
+      "home": "赫拉克勒斯",
+      "away": "登博思",
+      "spf_win": "2.50",
+      "spf_draw": "3.65",
+      "spf_lost": "2.20",
+      "spf_updated": "2026-08-13 13:53:27",
+      "gameid": "1415859",
+      "kickoff_cst": "2026-08-15 02:00",
+      "matchnum_label": "周五012",
+      "home_team_id": "296",
+      "away_team_id": "756"
     },
     {
       "xml_id": "2040854",
