@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-14T23:10:24Z",
+  "last_updated_utc": "2026-08-14T23:20:25Z",
   "matches": [
     {
       "xml_id": "2040862",
@@ -90,6 +90,42 @@
       "matchnum_label": "周六005",
       "home_team_id": "1606",
       "away_team_id": "1611"
+    },
+    {
+      "xml_id": "2040867",
+      "matchnum": "6006",
+      "date": "2026-08-15",
+      "dayofweek": "星期六",
+      "league": "韩国职业联赛",
+      "home": "光州FC",
+      "away": "浦项制铁",
+      "spf_win": "1.72",
+      "spf_draw": "3.35",
+      "spf_lost": "4.00",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1373182",
+      "kickoff_cst": "2026-08-15 18:30",
+      "matchnum_label": "周六006",
+      "home_team_id": "6477",
+      "away_team_id": "1608"
+    },
+    {
+      "xml_id": "2040868",
+      "matchnum": "6007",
+      "date": "2026-08-15",
+      "dayofweek": "星期六",
+      "league": "德国乙级联赛",
+      "home": "柏林赫塔",
+      "away": "海登海姆",
+      "spf_win": "4.32",
+      "spf_draw": "3.95",
+      "spf_lost": "1.55",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1429756",
+      "kickoff_cst": "2026-08-15 19:00",
+      "matchnum_label": "周六007",
+      "home_team_id": "659",
+      "away_team_id": "5315"
     },
     {
       "xml_id": "2040872",
@@ -360,6 +396,24 @@
       "matchnum_label": "周日009",
       "home_team_id": "801",
       "away_team_id": "1796"
+    },
+    {
+      "xml_id": "2040898",
+      "matchnum": "7011",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "英格兰社区盾杯",
+      "home": "阿森纳",
+      "away": "曼彻斯特城",
+      "spf_win": "5.40",
+      "spf_draw": "4.00",
+      "spf_lost": "1.44",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1411691",
+      "kickoff_cst": "2026-08-16 22:00",
+      "matchnum_label": "周日011",
+      "home_team_id": "554",
+      "away_team_id": "1072"
     },
     {
       "xml_id": "2040900",
