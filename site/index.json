@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-15T17:40:38Z",
+  "last_updated_utc": "2026-08-15T17:50:36Z",
   "matches": [
     {
       "xml_id": "2040880",
@@ -648,42 +648,6 @@
       "matchnum_label": "周一002",
       "home_team_id": "850",
       "away_team_id": "848"
-    },
-    {
-      "xml_id": "2040916",
-      "matchnum": "1003",
-      "date": "2026-08-18",
-      "dayofweek": "星期二",
-      "league": "英格兰冠军联赛",
-      "home": "加的夫城",
-      "away": "雷克斯汉姆",
-      "spf_win": "4.80",
-      "spf_draw": "4.15",
-      "spf_lost": "1.47",
-      "spf_updated": "2026-08-15 09:45:57",
-      "gameid": "1425306",
-      "kickoff_cst": "2026-08-18 03:00",
-      "matchnum_label": "周一003",
-      "home_team_id": "909",
-      "away_team_id": "1332"
-    },
-    {
-      "xml_id": "2040917",
-      "matchnum": "1005",
-      "date": "2026-08-18",
-      "dayofweek": "星期二",
-      "league": "葡萄牙超级联赛",
-      "home": "卡萨皮亚",
-      "away": "本菲卡",
-      "spf_win": "2.14",
-      "spf_draw": "3.90",
-      "spf_lost": "2.47",
-      "spf_updated": "2026-08-15 09:45:57",
-      "gameid": "1438060",
-      "kickoff_cst": "2026-08-18 03:15",
-      "matchnum_label": "周一005",
-      "home_team_id": "3928",
-      "away_team_id": "678"
     },
     {
       "xml_id": "2040918",
