@@ -24,7 +24,7 @@
       "lost": "2.95",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T04:00:09Z"
+    "fetched_at_utc": "2026-08-15T04:10:10Z"
   },
   "shuju": {
     "title": "神户胜利船VS东京FC(2026/2027日职)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "平手/半球",
-        "away_water": "1.010↑",
-        "time": "08-15 11:53"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "平手/半球",
-        "away_water": "0.850",
-        "time": "08-08 20:46"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -760,13 +744,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "平手/半球",
+        "away_water": "1.010↑",
+        "time": "08-15 11:53"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "平手/半球",
+        "away_water": "0.850",
+        "time": "08-08 20:46"
+      }
+    },
+    {
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.890↓",
+        "home_water": "0.880↓",
         "handicap": "平手/半球",
-        "away_water": "1.020↑",
-        "time": "08-15 08:47"
+        "away_water": "1.030↑",
+        "time": "08-15 11:54"
       },
       "init": {
         "home_water": "1.010",
@@ -843,10 +843,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.870↓",
         "handicap": "平手/半球",
-        "away_water": "0.960↑",
-        "time": "08-15 11:39"
+        "away_water": "0.940↑",
+        "time": "08-15 12:03"
       },
       "init": {
         "home_water": "0.950",
