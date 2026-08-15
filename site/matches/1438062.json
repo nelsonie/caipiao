@@ -24,7 +24,7 @@
       "lost": "2.62",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T15:40:35Z"
+    "fetched_at_utc": "2026-08-15T15:50:35Z"
   },
   "shuju": {
     "title": "葡萄牙国民VS埃斯托里尔(2026/2027葡超)-数据分析-500彩票网",
@@ -738,35 +738,35 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
+      "cid": "1484",
+      "company": "o***",
       "live": {
         "home_water": "0.970↑",
         "handicap": "平手",
         "away_water": "0.900↓",
-        "time": "08-15 22:54"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "平手",
-        "away_water": "0.990",
-        "time": "08-11 04:09"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "平手",
-        "away_water": "0.890↓",
-        "time": "08-14 23:53"
+        "time": "08-15 23:45"
       },
       "init": {
         "home_water": "0.910",
         "handicap": "平手",
         "away_water": "0.970",
         "time": "08-11 03:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "平手",
+        "away_water": "0.900↓",
+        "time": "08-15 23:46"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "平手",
+        "away_water": "0.990",
+        "time": "08-11 04:09"
       }
     },
     {
@@ -808,7 +808,7 @@
         "home_water": "0.980↓",
         "handicap": "平手降",
         "away_water": "0.910↑",
-        "time": "08-15 15:53"
+        "time": "08-15 23:29"
       },
       "init": {
         "home_water": "1.230",
