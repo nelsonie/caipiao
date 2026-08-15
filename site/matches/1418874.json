@@ -24,7 +24,7 @@
       "lost": "2.68",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T04:40:26Z"
+    "fetched_at_utc": "2026-08-15T04:50:26Z"
   },
   "shuju": {
     "title": "德岛漩涡VS鸟栖沙岩(2026/2027日职乙)-数据分析-500彩票网",
@@ -676,22 +676,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.070↑",
-        "handicap": "平手/半球",
-        "away_water": "0.760↓",
-        "time": "08-14 20:43"
-      },
-      "init": {
-        "home_water": "1.040",
-        "handicap": "平手/半球",
-        "away_water": "0.790",
-        "time": "08-12 19:01"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -705,6 +689,22 @@
         "handicap": "平手",
         "away_water": "1.100",
         "time": "08-11 19:23"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.070↑",
+        "handicap": "平手/半球",
+        "away_water": "0.760↓",
+        "time": "08-14 20:43"
+      },
+      "init": {
+        "home_water": "1.040",
+        "handicap": "平手/半球",
+        "away_water": "0.790",
+        "time": "08-12 19:01"
       }
     },
     {
