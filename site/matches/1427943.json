@@ -24,7 +24,7 @@
       "lost": "1.90",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T01:20:25Z"
+    "fetched_at_utc": "2026-08-15T01:30:29Z"
   },
   "shuju": {
     "title": "桑坦德竞技VS比利亚雷亚尔(2026/2027西甲)-数据分析-500彩票网",
@@ -733,22 +733,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↓",
-        "handicap": "受平手/半球",
-        "away_water": "0.900↑",
-        "time": "08-15 07:50"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "受平手/半球",
-        "away_water": "0.890",
-        "time": "07-22 15:17"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -761,6 +745,22 @@
         "home_water": "0.890",
         "handicap": "受平手/半球",
         "away_water": "0.830",
+        "time": "07-22 15:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↓",
+        "handicap": "受平手/半球",
+        "away_water": "0.900↑",
+        "time": "08-15 07:50"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "受平手/半球",
+        "away_water": "0.890",
         "time": "07-22 15:17"
       }
     },
