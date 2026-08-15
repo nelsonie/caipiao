@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-15T08:30:50Z",
+  "last_updated_utc": "2026-08-15T08:40:59Z",
   "matches": [
     {
       "xml_id": "2040862",
@@ -369,10 +369,10 @@
       "league": "荷兰甲级联赛",
       "home": "SBV精英",
       "away": "PSV埃因霍温",
-      "spf_win": "2.45",
+      "spf_win": "2.50",
       "spf_draw": "3.95",
-      "spf_lost": "2.14",
-      "spf_updated": "2026-08-14 09:47:39",
+      "spf_lost": "2.10",
+      "spf_updated": "2026-08-15 16:26:27",
       "gameid": "1415856",
       "kickoff_cst": "2026-08-16 02:00",
       "matchnum_label": "周六022",
@@ -666,6 +666,24 @@
       "matchnum_label": "周日011",
       "home_team_id": "554",
       "away_team_id": "1072"
+    },
+    {
+      "xml_id": "2040899",
+      "matchnum": "7012",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "AC奥卢",
+      "away": "国际图尔库",
+      "spf_win": "1.52",
+      "spf_draw": "3.85",
+      "spf_lost": "4.75",
+      "spf_updated": "2026-08-15 09:45:57",
+      "gameid": "1363759",
+      "kickoff_cst": "2026-08-16 22:00",
+      "matchnum_label": "周日012",
+      "home_team_id": "363",
+      "away_team_id": "1327"
     },
     {
       "xml_id": "2040900",
