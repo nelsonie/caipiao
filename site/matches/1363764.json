@@ -24,7 +24,7 @@
       "lost": "1.39",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T09:00:19Z"
+    "fetched_at_utc": "2026-08-15T09:10:16Z"
   },
   "shuju": {
     "title": "玛丽港VS塞那乔恩(2026芬超)-数据分析-500彩票网",
@@ -680,22 +680,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "受一球升",
-        "away_water": "0.840↓",
-        "time": "08-15 15:38"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "受一球/球半",
-        "away_water": "0.960",
-        "time": "08-14 00:30"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -709,6 +693,22 @@
         "handicap": "受球半",
         "away_water": "1.200",
         "time": "08-09 23:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "受一球升",
+        "away_water": "0.840↓",
+        "time": "08-15 15:38"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "受一球/球半",
+        "away_water": "0.960",
+        "time": "08-14 00:30"
       }
     },
     {
