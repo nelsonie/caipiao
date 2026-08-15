@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-15T03:30:49Z",
+  "last_updated_utc": "2026-08-15T03:40:51Z",
   "matches": [
     {
       "xml_id": "2040862",
@@ -650,24 +650,6 @@
       "away_team_id": "1242"
     },
     {
-      "xml_id": "2040898",
-      "matchnum": "7011",
-      "date": "2026-08-16",
-      "dayofweek": "星期天",
-      "league": "英格兰社区盾杯",
-      "home": "阿森纳",
-      "away": "曼彻斯特城",
-      "spf_win": "5.40",
-      "spf_draw": "4.00",
-      "spf_lost": "1.44",
-      "spf_updated": "2026-08-14 09:47:39",
-      "gameid": "1411691",
-      "kickoff_cst": "2026-08-16 22:00",
-      "matchnum_label": "周日011",
-      "home_team_id": "554",
-      "away_team_id": "1072"
-    },
-    {
       "xml_id": "2040899",
       "matchnum": "7012",
       "date": "2026-08-16",
@@ -774,24 +756,6 @@
       "matchnum_label": "周日019",
       "home_team_id": "1109",
       "away_team_id": "1226"
-    },
-    {
-      "xml_id": "2040905",
-      "matchnum": "7020",
-      "date": "2026-08-16",
-      "dayofweek": "星期天",
-      "league": "挪威超级联赛",
-      "home": "布兰",
-      "away": "汉坎",
-      "spf_win": "2.13",
-      "spf_draw": "3.75",
-      "spf_lost": "2.54",
-      "spf_updated": "2026-08-15 09:45:57",
-      "gameid": "1364337",
-      "kickoff_cst": "2026-08-16 23:00",
-      "matchnum_label": "周日020",
-      "home_team_id": "722",
-      "away_team_id": "861"
     },
     {
       "xml_id": "2040906",
