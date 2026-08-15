@@ -24,14 +24,14 @@
       "lost": "2.59",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T13:50:44Z"
+    "fetched_at_utc": "2026-08-15T14:00:47Z"
   },
   "shuju": {
     "title": "加的夫城VS雷克斯汉姆(2026/2027英冠)-数据分析-500彩票网",
     "h2h_summary": "双方近 1 次交战，卡迪夫城 1胜 0平 0负 ，进2球，失1球 ，大球1次，小球0次",
     "team_ranks": [
       "卡迪夫城 [英冠18]",
-      "雷克瑟姆 [英冠5]"
+      "雷克瑟姆 [英冠6]"
     ],
     "h2h_rows": [
       {
@@ -469,22 +469,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.760↓",
-        "handicap": "平手",
-        "away_water": "1.000↑",
-        "time": "08-14 22:01"
-      },
-      "init": {
-        "home_water": "0.770",
-        "handicap": "平手",
-        "away_water": "0.980",
-        "time": "07-20 03:08"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -498,6 +482,22 @@
         "handicap": "平手",
         "away_water": "1.040",
         "time": "07-13 20:32"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.760↓",
+        "handicap": "平手",
+        "away_water": "1.000↑",
+        "time": "08-14 22:01"
+      },
+      "init": {
+        "home_water": "0.770",
+        "handicap": "平手",
+        "away_water": "0.980",
+        "time": "07-20 03:08"
       }
     },
     {
