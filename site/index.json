@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-15T19:10:31Z",
+  "last_updated_utc": "2026-08-15T19:20:29Z",
   "matches": [
     {
       "xml_id": "2040884",
@@ -92,22 +92,22 @@
       "away_team_id": "3839"
     },
     {
-      "xml_id": "2040889",
-      "matchnum": "7002",
+      "xml_id": "2040890",
+      "matchnum": "7003",
       "date": "2026-08-16",
       "dayofweek": "星期天",
-      "league": "荷兰甲级联赛",
-      "home": "海牙",
-      "away": "格罗宁根",
-      "spf_win": "1.46",
-      "spf_draw": "4.10",
-      "spf_lost": "5.00",
+      "league": "韩国职业联赛",
+      "home": "富川FC",
+      "away": "全北现代",
+      "spf_win": "1.95",
+      "spf_draw": "3.35",
+      "spf_lost": "3.15",
       "spf_updated": "2026-08-14 09:47:39",
-      "gameid": "1415860",
-      "kickoff_cst": "2026-08-16 18:15",
-      "matchnum_label": "周日002",
-      "home_team_id": "211",
-      "away_team_id": "834"
+      "gameid": "1373240",
+      "kickoff_cst": "2026-08-16 18:30",
+      "matchnum_label": "周日003",
+      "home_team_id": "7075",
+      "away_team_id": "1609"
     },
     {
       "xml_id": "2040892",
@@ -182,6 +182,24 @@
       "away_team_id": "1353"
     },
     {
+      "xml_id": "2040896",
+      "matchnum": "7009",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "费耶诺德",
+      "away": "前进之鹰",
+      "spf_win": "1.87",
+      "spf_draw": "3.90",
+      "spf_lost": "2.96",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1415862",
+      "kickoff_cst": "2026-08-16 20:30",
+      "matchnum_label": "周日009",
+      "home_team_id": "801",
+      "away_team_id": "1796"
+    },
+    {
       "xml_id": "2040897",
       "matchnum": "7010",
       "date": "2026-08-16",
@@ -198,6 +216,24 @@
       "matchnum_label": "周日010",
       "home_team_id": "546",
       "away_team_id": "1242"
+    },
+    {
+      "xml_id": "2040898",
+      "matchnum": "7011",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "英格兰社区盾杯",
+      "home": "阿森纳",
+      "away": "曼彻斯特城",
+      "spf_win": "5.40",
+      "spf_draw": "4.00",
+      "spf_lost": "1.44",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1411691",
+      "kickoff_cst": "2026-08-16 22:00",
+      "matchnum_label": "周日011",
+      "home_team_id": "554",
+      "away_team_id": "1072"
     },
     {
       "xml_id": "2040901",
