@@ -8,9 +8,9 @@
     "away": "大田市民",
     "kickoff_cst": "2026-08-15 18:30",
     "spf": {
-      "win": "4.10",
-      "draw": "3.50",
-      "lost": "1.67"
+      "win": "4.35",
+      "draw": "3.55",
+      "lost": "1.62"
     },
     "asia_main": {
       "handicap": "半球",
@@ -24,7 +24,7 @@
       "lost": "3.42",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T10:00:09Z"
+    "fetched_at_utc": "2026-08-15T10:10:09Z"
   },
   "shuju": {
     "title": "首尔FCVS大田市民(2026K1联赛)-数据分析-500彩票网",
@@ -398,28 +398,23 @@
         "formation": null,
         "starters": [
           {
+            "number": "42",
+            "name": "孙承范",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "亚赞·阿拉伯",
+            "position": "后卫"
+          },
+          {
             "number": "10",
             "name": "安德森·奥利维拉",
             "position": "前锋"
           },
           {
-            "number": "18",
-            "name": "曹永旭",
-            "position": "前锋"
-          },
-          {
-            "number": "34",
-            "name": "宋旻揆",
-            "position": "中场"
-          },
-          {
             "number": "6",
             "name": "赫伏伊·巴贝克",
-            "position": "中场"
-          },
-          {
-            "number": "42",
-            "name": "孙承范",
             "position": "中场"
           },
           {
@@ -433,18 +428,23 @@
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "亚赞·阿拉伯",
+            "number": "9",
+            "name": "帕特里克·克里马拉",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "李胜模",
+            "position": "中场"
+          },
+          {
+            "number": "66",
+            "name": "朴秀日",
             "position": "后卫"
           },
           {
             "number": "37",
             "name": "胡安·安东尼奥·罗斯",
-            "position": "后卫"
-          },
-          {
-            "number": "66",
-            "name": "朴秀日",
             "position": "后卫"
           },
           {
@@ -454,6 +454,11 @@
           }
         ],
         "subs": [
+          {
+            "number": "19",
+            "name": "千成薰",
+            "position": "前锋"
+          },
           {
             "number": "40",
             "name": "朴声勋",
@@ -467,22 +472,12 @@
           {
             "number": "27",
             "name": "文宣民",
-            "position": "前锋"
-          },
-          {
-            "number": "8",
-            "name": "李胜模",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "20",
             "name": "李韩道",
             "position": "后卫"
-          },
-          {
-            "number": "9",
-            "name": "帕特里克·克里马拉",
-            "position": "前锋"
           },
           {
             "number": "31",
@@ -495,8 +490,13 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "郑贤宇",
+            "number": "16",
+            "name": "崔俊",
+            "position": "后卫"
+          },
+          {
+            "number": "34",
+            "name": "宋旻揆",
             "position": "前锋"
           }
         ],
@@ -507,34 +507,9 @@
         "formation": null,
         "starters": [
           {
-            "number": "7",
-            "name": "石田雅俊",
-            "position": "前锋"
-          },
-          {
-            "number": "10",
-            "name": "周敏圭",
-            "position": "前锋"
-          },
-          {
             "number": "17",
             "name": "古斯塔夫·卢德维格松",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "姜允盛",
-            "position": "中场"
-          },
-          {
-            "number": "30",
-            "name": "金奉首",
-            "position": "中场"
-          },
-          {
-            "number": "11",
-            "name": "严元相",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "16",
@@ -547,27 +522,47 @@
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "赵诚权",
-            "position": "后卫"
-          },
-          {
             "number": "33",
             "name": "金纹奂",
             "position": "后卫"
           },
           {
+            "number": "30",
+            "name": "金奉首",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "姜允盛",
+            "position": "后卫"
+          },
+          {
+            "number": "10",
+            "name": "周敏圭",
+            "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "石田雅俊",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "严元相",
+            "position": "前锋"
+          },
+          {
             "number": "1",
             "name": "李昌根",
             "position": "守门员"
+          },
+          {
+            "number": "4",
+            "name": "赵诚权",
+            "position": "后卫"
           }
         ],
         "subs": [
-          {
-            "number": "45",
-            "name": "河昌来",
-            "position": "后卫"
-          },
           {
             "number": "27",
             "name": "郑在熙",
@@ -577,11 +572,6 @@
             "number": "35",
             "name": "金道延",
             "position": "后卫"
-          },
-          {
-            "number": "70",
-            "name": "金贤旭",
-            "position": "中场"
           },
           {
             "number": "31",
@@ -599,6 +589,11 @@
             "position": "前锋"
           },
           {
+            "number": "8",
+            "name": "维克托·博辛",
+            "position": "中场"
+          },
+          {
             "number": "99",
             "name": "柳康铉",
             "position": "前锋"
@@ -607,6 +602,11 @@
             "number": "9",
             "name": "迪奥戈·奥利维拉",
             "position": "前锋"
+          },
+          {
+            "number": "45",
+            "name": "河昌来",
+            "position": "后卫"
           }
         ],
         "injured": [],

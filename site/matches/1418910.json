@@ -24,7 +24,7 @@
       "lost": "2.95",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T10:00:08Z"
+    "fetched_at_utc": "2026-08-15T10:10:09Z"
   },
   "shuju": {
     "title": "神户胜利船VS东京FC(2026/2027日职)-数据分析-500彩票网",
@@ -398,8 +398,8 @@
         "formation": null,
         "starters": [
           {
-            "number": "41",
-            "name": "永户胜也",
+            "number": "15",
+            "name": "迭戈·哈拉·罗德里格斯",
             "position": "前锋"
           },
           {
@@ -413,8 +413,8 @@
             "position": "前锋"
           },
           {
-            "number": "5",
-            "name": "乡家友太",
+            "number": "7",
+            "name": "井手口阳介",
             "position": "中场"
           },
           {
@@ -423,13 +423,13 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "井手口阳介",
+            "number": "5",
+            "name": "乡家友太",
             "position": "中场"
           },
           {
-            "number": "15",
-            "name": "迭戈·哈拉·罗德里格斯",
+            "number": "41",
+            "name": "永户胜也",
             "position": "后卫"
           },
           {
@@ -455,8 +455,38 @@
         ],
         "subs": [
           {
+            "number": "44",
+            "name": "日高光挥",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "井出遥也",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "岩本悠庵",
+            "position": "中场"
+          },
+          {
+            "number": "31",
+            "name": "岩波拓也",
+            "position": "后卫"
+          },
+          {
+            "number": "29",
+            "name": "小松莲",
+            "position": "前锋"
+          },
+          {
             "number": "20",
             "name": "渡边皓太",
+            "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "滨崎健斗",
             "position": "中场"
           },
           {
@@ -468,36 +498,6 @@
             "number": "1",
             "name": "前川黛也",
             "position": "守门员"
-          },
-          {
-            "number": "29",
-            "name": "小松莲",
-            "position": "前锋"
-          },
-          {
-            "number": "26",
-            "name": "让·帕特里克",
-            "position": "前锋"
-          },
-          {
-            "number": "31",
-            "name": "岩波拓也",
-            "position": "后卫"
-          },
-          {
-            "number": "23",
-            "name": "岩本悠庵",
-            "position": "中场"
-          },
-          {
-            "number": "18",
-            "name": "井出遥也",
-            "position": "中场"
-          },
-          {
-            "number": "44",
-            "name": "日高光挥",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -507,18 +507,18 @@
         "formation": null,
         "starters": [
           {
-            "number": "9",
-            "name": "马塞洛",
-            "position": "前锋"
-          },
-          {
             "number": "26",
             "name": "长仓干树",
             "position": "前锋"
           },
           {
-            "number": "33",
-            "name": "俵积田晃太",
+            "number": "9",
+            "name": "马塞洛",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "本间至恩",
             "position": "中场"
           },
           {
@@ -537,13 +537,13 @@
             "position": "中场"
           },
           {
-            "number": "42",
-            "name": "桥本健人",
+            "number": "6",
+            "name": "卡西夫·班加纳甘德",
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "稻村隼翔",
+            "number": "3",
+            "name": "森重真人",
             "position": "后卫"
           },
           {
@@ -564,23 +564,18 @@
         ],
         "subs": [
           {
-            "number": "27",
-            "name": "常盘亨太",
+            "number": "7",
+            "name": "安斋飒马",
             "position": "中场"
           },
           {
-            "number": "1",
-            "name": "田中飒",
-            "position": "守门员"
-          },
-          {
-            "number": "15",
-            "name": "大森理生",
+            "number": "4",
+            "name": "稻村隼翔",
             "position": "后卫"
           },
           {
-            "number": "39",
-            "name": "仲川辉人",
+            "number": "25",
+            "name": "小凑绊",
             "position": "前锋"
           },
           {
@@ -589,9 +584,14 @@
             "position": "后卫"
           },
           {
-            "number": "3",
-            "name": "森重真人",
-            "position": "后卫"
+            "number": "39",
+            "name": "仲川辉人",
+            "position": "前锋"
+          },
+          {
+            "number": "1",
+            "name": "田中飒",
+            "position": "守门员"
           },
           {
             "number": "22",
@@ -599,13 +599,13 @@
             "position": "后卫"
           },
           {
-            "number": "19",
-            "name": "本间至恩",
+            "number": "71",
+            "name": "山田枫喜",
             "position": "中场"
           },
           {
-            "number": "71",
-            "name": "山田枫喜",
+            "number": "27",
+            "name": "常盘亨太",
             "position": "中场"
           }
         ],
