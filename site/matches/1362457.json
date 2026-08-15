@@ -24,7 +24,7 @@
       "lost": "5.70",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T17:01:47Z"
+    "fetched_at_utc": "2026-08-15T17:11:24Z"
   },
   "shuju": {
     "title": "巴西国际VS瑞模贝雷(2026巴甲)-数据分析-500彩票网",
@@ -352,15 +352,249 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "10",
+            "name": "阿兰·帕特里克",
+            "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "乔汉·卡博内罗",
+            "position": "中场"
+          },
+          {
+            "number": "26",
+            "name": "亚历山大·伯纳比",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "马修斯·巴伊亚",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "布鲁诺·恩里克",
+            "position": "中场"
+          },
+          {
+            "number": "27",
+            "name": "保罗·卢卡斯·桑托斯·德保拉",
+            "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "维蒂尼奥",
+            "position": "中场"
+          },
+          {
+            "number": "4",
+            "name": "费利克斯·托雷斯",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "吉列尔莫·马里潘",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "布鲁诺·戈麦斯",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "马特乌斯·库尼亚",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "9",
+            "name": "阿莱兰德罗",
+            "position": "前锋"
+          },
+          {
+            "number": "16",
+            "name": "罗纳尔多·达席尔瓦·苏扎",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "加布里埃尔·梅尔卡多",
+            "position": "后卫"
+          },
+          {
+            "number": "18",
+            "name": "儒尼尼奥",
+            "position": "后卫"
+          },
+          {
+            "number": "49",
+            "name": "贝泽拉",
+            "position": "前锋"
+          },
+          {
+            "number": "30",
+            "name": "卡莱比",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "安托尼·斯皮尔·苏扎",
+            "position": "守门员"
+          },
+          {
+            "number": "31",
+            "name": "阿莱克斯·罗德里格斯·佩雷拉·达席尔瓦",
+            "position": "中场"
+          },
+          {
+            "number": "35",
+            "name": "布莱恩·阿吉雷",
+            "position": "后卫"
+          },
+          {
+            "number": "53",
+            "name": "路易斯·费利佩",
+            "position": "后卫"
+          },
+          {
+            "number": "52",
+            "name": "加布里埃尔·维尼修斯",
+            "position": "中场"
+          },
+          {
+            "number": "51",
+            "name": "若昂·肯佩斯",
+            "position": "中场"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "19",
+            "name": "加布里埃尔·塔利亚里",
+            "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "贾迪尔·布雷诺·索萨·席尔瓦",
+            "position": "中场"
+          },
+          {
+            "number": "55",
+            "name": "泽·里卡多",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "格莱布森·亚戈·索萨·里斯本",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "利昂内尔·皮科",
+            "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "赫塞.威利森",
+            "position": "中场"
+          },
+          {
+            "number": "77",
+            "name": "梅克·范",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "马修斯·费利佩",
+            "position": "后卫"
+          },
+          {
+            "number": "13",
+            "name": "M.博尔赫斯",
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "马修斯·亚历山大",
+            "position": "后卫"
+          },
+          {
+            "number": "88",
+            "name": "马塞洛·兰热尔",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "35",
+            "name": "埃德森·费尔南多",
+            "position": "中场"
+          },
+          {
+            "number": "61",
+            "name": "保罗·塞尔吉奥·达·科斯塔·埃文赫利斯塔·朱尼奥尔",
+            "position": "中场"
+          },
+          {
+            "number": "94",
+            "name": "伊戈尔·维尼亚斯",
+            "position": "守门员"
+          },
+          {
+            "number": "26",
+            "name": "弗朗西斯科·特林达德",
+            "position": "中场"
+          },
+          {
+            "number": "97",
+            "name": "伊凡",
+            "position": "守门员"
+          },
+          {
+            "number": "5",
+            "name": "莱昂纳多·安德拉德",
+            "position": "后卫"
+          },
+          {
+            "number": "8",
+            "name": "帕特里克·贝泽拉·多·纳西门托",
+            "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "加布里埃尔·波维达",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "阿莱夫·漫画",
+            "position": "前锋"
+          },
+          {
+            "number": "39",
+            "name": "爱德华多·梅洛",
+            "position": "前锋"
+          },
+          {
+            "number": "15",
+            "name": "维托尔·布埃诺",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "雅德森·弗洛雷斯·多斯·雷斯",
+            "position": "前锋"
+          }
+        ],
         "injured": [],
         "suspended": []
       }

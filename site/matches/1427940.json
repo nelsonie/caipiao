@@ -24,7 +24,7 @@
       "lost": "3.05",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T17:01:48Z"
+    "fetched_at_utc": "2026-08-15T17:11:25Z"
   },
   "shuju": {
     "title": "拉科鲁尼亚VS埃尔切(2026/2027西甲)-数据分析-500彩票网",
@@ -396,15 +396,249 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "7",
+            "name": "皮埃尔·埃默里克·奥巴梅扬",
+            "position": "前锋"
+          },
+          {
+            "number": "32",
+            "name": "比尔·多诺尔·恩松戈·汤法克",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "路易斯·克鲁兹",
+            "position": "中场"
+          },
+          {
+            "number": "21",
+            "name": "马里奥·索里亚诺",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "洛伦佐·阿马图奇",
+            "position": "中场"
+          },
+          {
+            "number": "37",
+            "name": "诺埃·卡里略",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "安赫利尼奥",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "布莱特·埃德",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "卢卡斯·努比",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "西莫·纳瓦罗",
+            "position": "后卫"
+          },
+          {
+            "number": "13",
+            "name": "莱昂纳多·罗曼",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "3",
+            "name": "阿尔瑙·库马斯",
+            "position": "后卫"
+          },
+          {
+            "number": "9",
+            "name": "扎卡莉亚·埃达霍里",
+            "position": "前锋"
+          },
+          {
+            "number": "25",
+            "name": "阿尔瓦罗·费尔南德斯",
+            "position": "守门员"
+          },
+          {
+            "number": "34",
+            "name": "特恩·吉塞尔哈特",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "洛雷罗",
+            "position": "后卫"
+          },
+          {
+            "number": "11",
+            "name": "大卫·梅拉",
+            "position": "前锋"
+          },
+          {
+            "number": "1",
+            "name": "热尔曼·帕雷尼奥",
+            "position": "守门员"
+          },
+          {
+            "number": "12",
+            "name": "吉亚科莫·夸利亚塔",
+            "position": "后卫"
+          },
+          {
+            "number": "33",
+            "name": "凯文·桑切斯·雷伊",
+            "position": "前锋"
+          },
+          {
+            "number": "14",
+            "name": "里基·罗德里格斯",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "丹尼尔·巴西亚·拉玛",
+            "position": "后卫"
+          },
+          {
+            "number": "8",
+            "name": "迭戈·维拉雷斯",
+            "position": "中场"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "36",
+            "name": "奥马鲁·科纳雷",
+            "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "卢卡斯·塞佩达",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "杰曼·瓦莱拉",
+            "position": "中场"
+          },
+          {
+            "number": "29",
+            "name": "阿里·胡里",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "马克·阿瓜多",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "贡萨洛·比利亚尔",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "费德里科·雷东多",
+            "position": "中场"
+          },
+          {
+            "number": "42",
+            "name": "布巴·桑加雷",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "达维德·阿芬格鲁贝尔",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "维克托·丘斯特",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "马蒂亚斯·迪图罗",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "38",
+            "name": "亚历克斯·桑切斯",
+            "position": "前锋"
+          },
+          {
+            "number": "0",
+            "name": "阿尔瓦罗·米拉莱斯",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "亚历山大·拉莫斯",
+            "position": "守门员"
+          },
+          {
+            "number": "0",
+            "name": "阿尔瓦罗·帕迪利亚",
+            "position": "前锋"
+          },
+          {
+            "number": "34",
+            "name": "诺丁·阿拉·米鲁德",
+            "position": "中场"
+          },
+          {
+            "number": "19",
+            "name": "格雷迪·迪安加纳",
+            "position": "中场"
+          },
+          {
+            "number": "0",
+            "name": "乔桑",
+            "position": "中场"
+          },
+          {
+            "number": "43",
+            "name": "亚历克斯·赫拉伊斯",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "班博·迪亚比",
+            "position": "后卫"
+          },
+          {
+            "number": "31",
+            "name": "大卫·德尔加多",
+            "position": "后卫"
+          },
+          {
+            "number": "40",
+            "name": "欧文·博世",
+            "position": "守门员"
+          },
+          {
+            "number": "26",
+            "name": "马蒂亚·巴尔齐克·古铁雷斯",
+            "position": "后卫"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
