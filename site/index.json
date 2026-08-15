@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-15T21:00:32Z",
+  "last_updated_utc": "2026-08-15T21:10:34Z",
   "matches": [
     {
       "xml_id": "2040887",
@@ -576,24 +576,6 @@
       "matchnum_label": "周一006",
       "home_team_id": "1582",
       "away_team_id": "2417"
-    },
-    {
-      "xml_id": "2040920",
-      "matchnum": "7017",
-      "date": "2026-08-16",
-      "dayofweek": "星期天",
-      "league": "英格兰冠军联赛",
-      "home": "伯恩利",
-      "away": "西汉姆联",
-      "spf_win": "1.62",
-      "spf_draw": "3.82",
-      "spf_lost": "4.00",
-      "spf_updated": "2026-08-15 09:45:57",
-      "gameid": "1425303",
-      "kickoff_cst": "2026-08-16 23:00",
-      "matchnum_label": "周日017",
-      "home_team_id": "700",
-      "away_team_id": "1286"
     },
     {
       "xml_id": "2040921",
