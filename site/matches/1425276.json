@@ -24,7 +24,7 @@
       "lost": "3.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T13:20:45Z"
+    "fetched_at_utc": "2026-08-15T13:30:50Z"
   },
   "shuju": {
     "title": "博尔顿VS普雷斯顿(2026/2027英冠)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.020↑",
-        "handicap": "平手/半球",
-        "away_water": "0.860↓",
-        "time": "08-15 19:28"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "平手/半球",
-        "away_water": "0.870",
-        "time": "07-17 09:36"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.910",
         "time": "07-10 14:54"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "平手/半球",
+        "away_water": "0.860↓",
+        "time": "08-15 19:28"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "平手/半球",
+        "away_water": "0.870",
+        "time": "07-17 09:36"
       }
     },
     {
