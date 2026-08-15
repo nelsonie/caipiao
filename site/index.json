@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-08-15T16:40:38Z",
+  "last_updated_utc": "2026-08-15T16:50:40Z",
   "matches": [
-    {
-      "xml_id": "2040877",
-      "matchnum": "6017",
-      "date": "2026-08-16",
-      "dayofweek": "星期天",
-      "league": "荷兰甲级联赛",
-      "home": "乌德勒支",
-      "away": "阿尔克马尔",
-      "spf_win": "1.51",
-      "spf_draw": "4.00",
-      "spf_lost": "4.60",
-      "spf_updated": "2026-08-14 09:47:39",
-      "gameid": "1415854",
-      "kickoff_cst": "2026-08-16 00:45",
-      "matchnum_label": "周六017",
-      "home_team_id": "1275",
-      "away_team_id": "224"
-    },
     {
       "xml_id": "2040878",
       "matchnum": "6018",
@@ -360,6 +342,24 @@
       "matchnum_label": "周日009",
       "home_team_id": "801",
       "away_team_id": "1796"
+    },
+    {
+      "xml_id": "2040897",
+      "matchnum": "7010",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "挪威超级联赛",
+      "home": "奥勒松",
+      "away": "瓦勒伦加",
+      "spf_win": "1.52",
+      "spf_draw": "4.25",
+      "spf_lost": "4.25",
+      "spf_updated": "2026-08-15 09:45:57",
+      "gameid": "1364281",
+      "kickoff_cst": "2026-08-16 20:30",
+      "matchnum_label": "周日010",
+      "home_team_id": "546",
+      "away_team_id": "1242"
     },
     {
       "xml_id": "2040898",
@@ -738,24 +738,6 @@
       "matchnum_label": "周一006",
       "home_team_id": "1582",
       "away_team_id": "2417"
-    },
-    {
-      "xml_id": "2040920",
-      "matchnum": "7017",
-      "date": "2026-08-16",
-      "dayofweek": "星期天",
-      "league": "英格兰冠军联赛",
-      "home": "伯恩利",
-      "away": "西汉姆联",
-      "spf_win": "1.62",
-      "spf_draw": "3.82",
-      "spf_lost": "4.00",
-      "spf_updated": "2026-08-15 09:45:57",
-      "gameid": "1425303",
-      "kickoff_cst": "2026-08-16 23:00",
-      "matchnum_label": "周日017",
-      "home_team_id": "700",
-      "away_team_id": "1286"
     },
     {
       "xml_id": "2040921",
