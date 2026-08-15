@@ -24,7 +24,7 @@
       "lost": "4.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T14:40:22Z"
+    "fetched_at_utc": "2026-08-15T14:50:21Z"
   },
   "shuju": {
     "title": "福图纳锡塔德VS坎布尔(2026/2027荷甲)-数据分析-500彩票网",
@@ -677,10 +677,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.900↑",
+        "home_water": "0.770↓",
         "handicap": "半球/一球升",
-        "away_water": "0.900↓",
-        "time": "08-11 15:54"
+        "away_water": "1.020↑",
+        "time": "08-15 22:35"
       },
       "init": {
         "home_water": "0.850",
@@ -709,32 +709,16 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.780↓",
+        "home_water": "0.770↓",
         "handicap": "半球/一球",
-        "away_water": "1.120↑",
-        "time": "08-15 22:07"
+        "away_water": "1.130↑",
+        "time": "08-15 22:40"
       },
       "init": {
         "home_water": "0.960",
         "handicap": "半球/一球",
         "away_water": "0.920",
         "time": "08-10 01:13"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.040↑",
-        "handicap": "一球升",
-        "away_water": "0.820↓",
-        "time": "08-15 22:24"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "半球/一球",
-        "away_water": "0.930",
-        "time": "08-10 08:44"
       }
     },
     {
@@ -751,6 +735,22 @@
         "handicap": "平手",
         "away_water": "1.850",
         "time": "08-09 19:33"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.040↑",
+        "handicap": "一球升",
+        "away_water": "0.820↓",
+        "time": "08-15 22:24"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "半球/一球",
+        "away_water": "0.930",
+        "time": "08-10 08:44"
       }
     },
     {
@@ -1066,7 +1066,7 @@
     {
       "cid": "3",
       "company": "B*****",
-      "time": "2026-08-15 22:31:10",
+      "time": "2026-08-15 22:41:37",
       "odds": {
         "live": [
           "1.85",

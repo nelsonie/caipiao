@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-15T14:40:53Z",
+  "last_updated_utc": "2026-08-15T14:50:50Z",
   "matches": [
     {
       "xml_id": "2040862",
@@ -180,42 +180,6 @@
       "matchnum_label": "周六011",
       "home_team_id": "5263",
       "away_team_id": "1009"
-    },
-    {
-      "xml_id": "2040872",
-      "matchnum": "6012",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "荷兰甲级联赛",
-      "home": "威廉二世",
-      "away": "奈梅亨",
-      "spf_win": "2.27",
-      "spf_draw": "3.64",
-      "spf_lost": "2.42",
-      "spf_updated": "2026-08-15 22:05:10",
-      "gameid": "1415852",
-      "kickoff_cst": "2026-08-15 22:30",
-      "matchnum_label": "周六012",
-      "home_team_id": "1248",
-      "away_team_id": "353"
-    },
-    {
-      "xml_id": "2040873",
-      "matchnum": "6013",
-      "date": "2026-08-15",
-      "dayofweek": "星期六",
-      "league": "葡萄牙超级联赛",
-      "home": "阿尔维卡",
-      "away": "阿马多拉",
-      "spf_win": "4.45",
-      "spf_draw": "3.45",
-      "spf_lost": "1.63",
-      "spf_updated": "2026-08-15 21:10:10",
-      "gameid": "1438057",
-      "kickoff_cst": "2026-08-15 22:30",
-      "matchnum_label": "周六013",
-      "home_team_id": "577",
-      "away_team_id": "551"
     },
     {
       "xml_id": "2040874",
