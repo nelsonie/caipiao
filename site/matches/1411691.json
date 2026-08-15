@@ -24,7 +24,7 @@
       "lost": "2.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T16:20:23Z"
+    "fetched_at_utc": "2026-08-15T16:30:21Z"
   },
   "shuju": {
     "title": "阿森纳VS曼彻斯特城(2026社区盾)-数据分析-500彩票网",
@@ -792,14 +792,30 @@
       "live": {
         "home_water": "0.860↓",
         "handicap": "平手",
-        "away_water": "0.990↑",
-        "time": "08-15 23:45"
+        "away_water": "0.980↑",
+        "time": "08-16 00:08"
       },
       "init": {
         "home_water": "0.880",
         "handicap": "平手",
         "away_water": "0.970",
         "time": "08-10 22:06"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↑",
+        "handicap": "平手",
+        "away_water": "0.920↓",
+        "time": "08-16 00:07"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "平手",
+        "away_water": "0.990",
+        "time": "06-30 23:28"
       }
     },
     {
@@ -816,22 +832,6 @@
         "handicap": "平手",
         "away_water": "1.050",
         "time": "07-18 02:56"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↑",
-        "handicap": "平手",
-        "away_water": "0.920↓",
-        "time": "08-15 23:46"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "平手",
-        "away_water": "0.990",
-        "time": "06-30 23:28"
       }
     },
     {
@@ -854,10 +854,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.890↓",
         "handicap": "平手",
-        "away_water": "1.020↑",
-        "time": "08-15 23:41"
+        "away_water": "1.010↑",
+        "time": "08-16 00:05"
       },
       "init": {
         "home_water": "0.950",
