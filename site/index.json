@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-15T19:50:32Z",
+  "last_updated_utc": "2026-08-15T20:00:32Z",
   "matches": [
     {
       "xml_id": "2040887",
@@ -164,6 +164,24 @@
       "away_team_id": "1353"
     },
     {
+      "xml_id": "2040896",
+      "matchnum": "7009",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "费耶诺德",
+      "away": "前进之鹰",
+      "spf_win": "1.87",
+      "spf_draw": "3.90",
+      "spf_lost": "2.96",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1415862",
+      "kickoff_cst": "2026-08-16 20:30",
+      "matchnum_label": "周日009",
+      "home_team_id": "801",
+      "away_team_id": "1796"
+    },
+    {
       "xml_id": "2040897",
       "matchnum": "7010",
       "date": "2026-08-16",
@@ -198,6 +216,42 @@
       "matchnum_label": "周日011",
       "home_team_id": "554",
       "away_team_id": "1072"
+    },
+    {
+      "xml_id": "2040899",
+      "matchnum": "7012",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "AC奥卢",
+      "away": "国际图尔库",
+      "spf_win": "1.52",
+      "spf_draw": "3.85",
+      "spf_lost": "4.75",
+      "spf_updated": "2026-08-15 09:45:57",
+      "gameid": "1363759",
+      "kickoff_cst": "2026-08-16 22:00",
+      "matchnum_label": "周日012",
+      "home_team_id": "363",
+      "away_team_id": "1327"
+    },
+    {
+      "xml_id": "2040900",
+      "matchnum": "7013",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "葡萄牙超级联赛",
+      "home": "葡萄牙国民",
+      "away": "埃斯托里尔",
+      "spf_win": "5.20",
+      "spf_draw": "3.90",
+      "spf_lost": "1.47",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1438062",
+      "kickoff_cst": "2026-08-16 22:30",
+      "matchnum_label": "周日013",
+      "home_team_id": "1099",
+      "away_team_id": "1616"
     },
     {
       "xml_id": "2040901",
