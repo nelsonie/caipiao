@@ -24,7 +24,7 @@
       "lost": "3.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T11:50:38Z"
+    "fetched_at_utc": "2026-08-15T12:00:41Z"
   },
   "shuju": {
     "title": "阿罗卡VS摩雷伦斯(2026/2027葡超)-数据分析-500彩票网",
@@ -753,22 +753,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "平手/半球",
-        "away_water": "1.040↑",
-        "time": "08-15 18:46"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "平手/半球",
-        "away_water": "0.890",
-        "time": "08-10 04:12"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -782,6 +766,22 @@
         "handicap": "平手/半球",
         "away_water": "0.900",
         "time": "08-10 04:21"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "平手/半球",
+        "away_water": "1.030↑",
+        "time": "08-15 19:37"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "平手/半球",
+        "away_water": "0.890",
+        "time": "08-10 04:12"
       }
     },
     {
