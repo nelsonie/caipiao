@@ -24,7 +24,7 @@
       "lost": "3.05",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-15T15:10:24Z"
+    "fetched_at_utc": "2026-08-15T15:20:23Z"
   },
   "shuju": {
     "title": "塞维利亚VS巴列卡诺(2026/2027西甲)-数据分析-500彩票网",
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.100↑",
-        "handicap": "平手/半球",
-        "away_water": "0.850↓",
-        "time": "08-15 22:34"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "平手/半球",
-        "away_water": "0.950",
-        "time": "08-11 13:58"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "平手/半球",
         "away_water": "0.900",
         "time": "07-15 06:40"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.100↑",
+        "handicap": "平手/半球",
+        "away_water": "0.850↓",
+        "time": "08-15 22:34"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "平手/半球",
+        "away_water": "0.950",
+        "time": "08-11 13:58"
       }
     },
     {
@@ -842,10 +842,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "1.160↑",
+        "home_water": "1.140↑",
         "handicap": "平手/半球",
-        "away_water": "0.800↓",
-        "time": "08-15 23:05"
+        "away_water": "0.810↓",
+        "time": "08-15 23:08"
       },
       "init": {
         "home_water": "0.950",
@@ -1087,7 +1087,7 @@
     {
       "cid": "3",
       "company": "B*****",
-      "time": "2026-08-15 22:54:11",
+      "time": "2026-08-15 23:05:57",
       "odds": {
         "live": [
           "2.20",
