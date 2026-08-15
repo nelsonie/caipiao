@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-15T05:30:52Z",
+  "last_updated_utc": "2026-08-15T05:40:49Z",
   "matches": [
     {
       "xml_id": "2040862",
@@ -171,10 +171,10 @@
       "league": "挪威超级联赛",
       "home": "奥斯陆KFUM",
       "away": "利勒斯特罗姆",
-      "spf_win": "1.51",
-      "spf_draw": "4.00",
-      "spf_lost": "4.60",
-      "spf_updated": "2026-08-15 09:45:57",
+      "spf_win": "1.54",
+      "spf_draw": "3.95",
+      "spf_lost": "4.40",
+      "spf_updated": "2026-08-15 13:35:27",
       "gameid": "1364110",
       "kickoff_cst": "2026-08-15 22:00",
       "matchnum_label": "周六011",
@@ -378,6 +378,24 @@
       "matchnum_label": "周六022",
       "home_team_id": "393",
       "away_team_id": "378"
+    },
+    {
+      "xml_id": "2040883",
+      "matchnum": "6023",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "福图纳锡塔德",
+      "away": "坎布尔",
+      "spf_win": "2.68",
+      "spf_draw": "3.70",
+      "spf_lost": "2.06",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1415858",
+      "kickoff_cst": "2026-08-16 03:00",
+      "matchnum_label": "周六023",
+      "home_team_id": "1303",
+      "away_team_id": "235"
     },
     {
       "xml_id": "2040884",
