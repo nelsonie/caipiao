@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-15T14:10:52Z",
+  "last_updated_utc": "2026-08-15T14:20:50Z",
   "matches": [
     {
       "xml_id": "2040862",
@@ -234,6 +234,24 @@
       "matchnum_label": "周六014",
       "home_team_id": "2326",
       "away_team_id": "6492"
+    },
+    {
+      "xml_id": "2040875",
+      "matchnum": "6015",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "沙特职业联赛",
+      "home": "布赖代合作",
+      "away": "赛哈特海湾",
+      "spf_win": "3.55",
+      "spf_draw": "3.75",
+      "spf_lost": "1.72",
+      "spf_updated": "2026-08-15 21:54:11",
+      "gameid": "1467678",
+      "kickoff_cst": "2026-08-16 00:15",
+      "matchnum_label": "周六015",
+      "home_team_id": "6759",
+      "away_team_id": "7478"
     },
     {
       "xml_id": "2040876",
