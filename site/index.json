@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-16T15:50:29Z",
+  "last_updated_utc": "2026-08-16T16:00:33Z",
   "matches": [
     {
       "xml_id": "2040888",
@@ -90,6 +90,42 @@
       "matchnum_label": "周日005",
       "home_team_id": "1764",
       "away_team_id": "606"
+    },
+    {
+      "xml_id": "2040893",
+      "matchnum": "7006",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "瑞典超级联赛",
+      "home": "代格福什",
+      "away": "IFK哥德堡",
+      "spf_win": "1.63",
+      "spf_draw": "3.80",
+      "spf_lost": "3.95",
+      "spf_updated": "2026-08-16 19:23:08",
+      "gameid": "1362737",
+      "kickoff_cst": "2026-08-16 20:00",
+      "matchnum_label": "周日006",
+      "home_team_id": "245",
+      "away_team_id": "823"
+    },
+    {
+      "xml_id": "2040894",
+      "matchnum": "7007",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "瑞典超级联赛",
+      "home": "佐加顿斯",
+      "away": "AIK索尔纳",
+      "spf_win": "1.97",
+      "spf_draw": "3.70",
+      "spf_lost": "2.85",
+      "spf_updated": "2026-08-16 19:13:56",
+      "gameid": "1362738",
+      "kickoff_cst": "2026-08-16 20:00",
+      "matchnum_label": "周日007",
+      "home_team_id": "1355",
+      "away_team_id": "215"
     },
     {
       "xml_id": "2040895",

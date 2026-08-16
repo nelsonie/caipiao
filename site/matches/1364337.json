@@ -24,7 +24,7 @@
       "lost": "5.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-16T15:50:18Z"
+    "fetched_at_utc": "2026-08-16T16:00:23Z"
   },
   "shuju": {
     "title": "布兰VS汉坎(2026挪超)-数据分析-500彩票网",
@@ -403,8 +403,8 @@
             "position": "前锋"
           },
           {
-            "number": "16",
-            "name": "克里斯蒂安·埃里克森",
+            "number": "29",
+            "name": "诺亚·让·霍姆",
             "position": "前锋"
           },
           {
@@ -413,18 +413,18 @@
             "position": "前锋"
           },
           {
-            "number": "29",
-            "name": "诺亚·让·霍姆",
-            "position": "中场"
-          },
-          {
-            "number": "18",
-            "name": "贾科布·索伦森",
+            "number": "16",
+            "name": "克里斯蒂安·埃里克森",
             "position": "中场"
           },
           {
             "number": "19",
             "name": "埃格特·阿伦·古蒙德森",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "贾科布·索伦森",
             "position": "中场"
           },
           {
@@ -475,13 +475,13 @@
             "position": "前锋"
           },
           {
-            "number": "37",
-            "name": "文德内斯",
+            "number": "43",
+            "name": "布拉格·贝格·豪根",
             "position": "中场"
           },
           {
-            "number": "43",
-            "name": "布拉格·贝格·豪根",
+            "number": "37",
+            "name": "文德内斯",
             "position": "中场"
           },
           {
@@ -713,22 +713,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850",
-        "handicap": "一球",
-        "away_water": "1.000",
-        "time": "08-16 23:00"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "一球",
-        "away_water": "1.000",
-        "time": "08-11 08:55"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -742,6 +726,22 @@
         "handicap": "一球",
         "away_water": "0.900",
         "time": "08-09 23:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850",
+        "handicap": "一球",
+        "away_water": "1.000",
+        "time": "08-16 23:00"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "一球",
+        "away_water": "1.000",
+        "time": "08-11 08:55"
       }
     },
     {
