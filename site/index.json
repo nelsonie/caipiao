@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-16T22:40:12Z",
+  "last_updated_utc": "2026-08-16T22:50:09Z",
   "matches": [
     {
       "xml_id": "2040914",
@@ -72,6 +72,42 @@
       "matchnum_label": "周一005",
       "home_team_id": "3928",
       "away_team_id": "678"
+    },
+    {
+      "xml_id": "2040918",
+      "matchnum": "1006",
+      "date": "2026-08-18",
+      "dayofweek": "星期二",
+      "league": "巴西甲级联赛",
+      "home": "巴西国际",
+      "away": "里莫",
+      "spf_win": "2.48",
+      "spf_draw": "3.30",
+      "spf_lost": "2.37",
+      "spf_updated": "2026-08-15 09:45:57",
+      "gameid": "1362457",
+      "kickoff_cst": "2026-08-18 07:00",
+      "matchnum_label": "周一006",
+      "home_team_id": "1582",
+      "away_team_id": "2417"
+    },
+    {
+      "xml_id": "2040922",
+      "matchnum": "1004",
+      "date": "2026-08-18",
+      "dayofweek": "星期二",
+      "league": "西班牙甲级联赛",
+      "home": "拉科鲁尼亚",
+      "away": "埃尔切",
+      "spf_win": "5.00",
+      "spf_draw": "3.65",
+      "spf_lost": "1.53",
+      "spf_updated": "2026-08-15 09:45:57",
+      "gameid": "1427940",
+      "kickoff_cst": "2026-08-18 03:00",
+      "matchnum_label": "周一004",
+      "home_team_id": "959",
+      "away_team_id": "564"
     }
   ]
 }
