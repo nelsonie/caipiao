@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-16T02:30:31Z",
+  "last_updated_utc": "2026-08-16T02:40:32Z",
   "matches": [
     {
       "xml_id": "2040888",
@@ -252,6 +252,42 @@
       "matchnum_label": "周日014",
       "home_team_id": "913",
       "away_team_id": "852"
+    },
+    {
+      "xml_id": "2040902",
+      "matchnum": "7015",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "瑞典超级联赛",
+      "home": "哥德堡盖斯",
+      "away": "马尔默",
+      "spf_win": "4.10",
+      "spf_draw": "3.90",
+      "spf_lost": "1.59",
+      "spf_updated": "2026-08-16 09:39:45",
+      "gameid": "1362740",
+      "kickoff_cst": "2026-08-16 22:30",
+      "matchnum_label": "周日015",
+      "home_team_id": "288",
+      "away_team_id": "1051"
+    },
+    {
+      "xml_id": "2040903",
+      "matchnum": "7016",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "阿贾克斯",
+      "away": "海伦芬",
+      "spf_win": "2.00",
+      "spf_draw": "3.80",
+      "spf_lost": "2.74",
+      "spf_updated": "2026-08-14 09:47:39",
+      "gameid": "1415865",
+      "kickoff_cst": "2026-08-16 22:45",
+      "matchnum_label": "周日016",
+      "home_team_id": "540",
+      "away_team_id": "857"
     },
     {
       "xml_id": "2040904",
