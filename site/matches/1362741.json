@@ -24,13 +24,13 @@
       "lost": "8.05",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-16T16:30:12Z"
+    "fetched_at_utc": "2026-08-16T16:40:09Z"
   },
   "shuju": {
     "title": "赫根VS哈尔姆(2026瑞典超)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，赫根 3胜 1平 2负 ，进10球，失5球 ，大球3次，小球3次",
     "team_ranks": [
-      "赫根 [瑞典超7]",
+      "赫根 [瑞典超6]",
       "哈姆斯塔德 [瑞典超16]"
     ],
     "h2h_rows": [
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.800↑",
-        "handicap": "球半",
-        "away_water": "0.840↓",
-        "time": "08-16 00:06"
-      },
-      "init": {
-        "home_water": "0.620",
-        "handicap": "球半",
-        "away_water": "1.110",
-        "time": "08-10 16:30"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "球半",
         "away_water": "0.920",
         "time": "08-12 01:24"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.800↑",
+        "handicap": "球半",
+        "away_water": "0.840↓",
+        "time": "08-16 00:06"
+      },
+      "init": {
+        "home_water": "0.620",
+        "handicap": "球半",
+        "away_water": "1.110",
+        "time": "08-10 16:30"
       }
     },
     {
