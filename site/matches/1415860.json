@@ -24,7 +24,7 @@
       "lost": "2.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-16T10:30:10Z"
+    "fetched_at_utc": "2026-08-16T10:40:08Z"
   },
   "shuju": {
     "title": "海牙VS格罗宁根(2026/2027荷甲)-数据分析-500彩票网",
@@ -408,8 +408,8 @@
             "position": "前锋"
           },
           {
-            "number": "8",
-            "name": "简·扎姆布雷克",
+            "number": "10",
+            "name": "伊莱伊·德·鲁伊特",
             "position": "中场"
           },
           {
@@ -418,8 +418,8 @@
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "伊莱伊·德·鲁伊特",
+            "number": "8",
+            "name": "简·扎姆布雷克",
             "position": "中场"
           },
           {
@@ -508,6 +508,11 @@
             "number": "23",
             "name": "尼格拉斯·希德",
             "position": "守门员"
+          },
+          {
+            "number": "29",
+            "name": "亚历山大·韦谢洛夫",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -748,22 +753,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "平手",
-        "away_water": "0.980↑",
-        "time": "08-16 18:16"
-      },
-      "init": {
-        "home_water": "1.080",
-        "handicap": "平手",
-        "away_water": "0.790",
-        "time": "08-11 03:20"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -777,6 +766,22 @@
         "handicap": "平手",
         "away_water": "0.780",
         "time": "08-09 19:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "平手",
+        "away_water": "0.980↑",
+        "time": "08-16 18:16"
+      },
+      "init": {
+        "home_water": "1.080",
+        "handicap": "平手",
+        "away_water": "0.790",
+        "time": "08-11 03:20"
       }
     },
     {
