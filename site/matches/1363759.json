@@ -24,7 +24,7 @@
       "lost": "2.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-16T04:00:14Z"
+    "fetched_at_utc": "2026-08-16T04:10:15Z"
   },
   "shuju": {
     "title": "AC奥卢VS国际图尔库(2026芬超)-数据分析-500彩票网",
@@ -713,22 +713,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.750↓",
-        "handicap": "受平手/半球",
-        "away_water": "1.090↑",
-        "time": "08-16 07:55"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "受平手/半球",
-        "away_water": "0.900",
-        "time": "08-13 22:43"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -742,6 +726,22 @@
         "handicap": "平手",
         "away_water": "0.660",
         "time": "08-09 22:16"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.090↑",
+        "handicap": "平手升",
+        "away_water": "0.750↓",
+        "time": "08-16 11:48"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "受平手/半球",
+        "away_water": "0.900",
+        "time": "08-13 22:43"
       }
     },
     {
@@ -828,10 +828,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.730↓",
-        "handicap": "受平手/半球升",
-        "away_water": "1.060↑",
-        "time": "08-16 10:36"
+        "home_water": "1.050↑",
+        "handicap": "平手升",
+        "away_water": "0.740↓",
+        "time": "08-16 11:57"
       },
       "init": {
         "home_water": "0.750",
@@ -2037,7 +2037,7 @@
     {
       "cid": "863",
       "company": "1****",
-      "time": "2026-08-16 10:56:41",
+      "time": "2026-08-16 11:47:44",
       "odds": {
         "live": [
           "3.50",
