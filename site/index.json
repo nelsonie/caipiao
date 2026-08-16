@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-16T09:20:30Z",
+  "last_updated_utc": "2026-08-16T09:30:30Z",
   "matches": [
     {
       "xml_id": "2040888",
@@ -63,10 +63,10 @@
       "league": "韩国职业联赛",
       "home": "仁川联",
       "away": "金泉尚武",
-      "spf_win": "4.50",
-      "spf_draw": "3.55",
-      "spf_lost": "1.60",
-      "spf_updated": "2026-08-16 14:08:25",
+      "spf_win": "4.35",
+      "spf_draw": "3.50",
+      "spf_lost": "1.63",
+      "spf_updated": "2026-08-16 17:20:40",
       "gameid": "1373222",
       "kickoff_cst": "2026-08-16 18:30",
       "matchnum_label": "周日004",
@@ -486,6 +486,24 @@
       "matchnum_label": "周一002",
       "home_team_id": "850",
       "away_team_id": "848"
+    },
+    {
+      "xml_id": "2040916",
+      "matchnum": "1003",
+      "date": "2026-08-18",
+      "dayofweek": "星期二",
+      "league": "英格兰冠军联赛",
+      "home": "加的夫城",
+      "away": "雷克斯汉姆",
+      "spf_win": "4.80",
+      "spf_draw": "4.15",
+      "spf_lost": "1.47",
+      "spf_updated": "2026-08-15 09:45:57",
+      "gameid": "1425306",
+      "kickoff_cst": "2026-08-18 03:00",
+      "matchnum_label": "周一003",
+      "home_team_id": "909",
+      "away_team_id": "1332"
     },
     {
       "xml_id": "2040917",
