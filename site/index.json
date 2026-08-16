@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-16T10:40:28Z",
+  "last_updated_utc": "2026-08-16T10:50:28Z",
   "matches": [
     {
       "xml_id": "2040888",
@@ -441,10 +441,10 @@
       "league": "美国职业大联盟",
       "home": "纽约城",
       "away": "费城联合",
-      "spf_win": "4.40",
-      "spf_draw": "3.95",
-      "spf_lost": "1.54",
-      "spf_updated": "2026-08-16 17:35:53",
+      "spf_win": "4.50",
+      "spf_draw": "4.15",
+      "spf_lost": "1.50",
+      "spf_updated": "2026-08-16 18:41:36",
       "gameid": "1358541",
       "kickoff_cst": "2026-08-17 06:00",
       "matchnum_label": "周日028",
@@ -486,6 +486,24 @@
       "matchnum_label": "周一002",
       "home_team_id": "850",
       "away_team_id": "848"
+    },
+    {
+      "xml_id": "2040916",
+      "matchnum": "1003",
+      "date": "2026-08-18",
+      "dayofweek": "星期二",
+      "league": "英格兰冠军联赛",
+      "home": "加的夫城",
+      "away": "雷克斯汉姆",
+      "spf_win": "4.80",
+      "spf_draw": "4.15",
+      "spf_lost": "1.47",
+      "spf_updated": "2026-08-15 09:45:57",
+      "gameid": "1425306",
+      "kickoff_cst": "2026-08-18 03:00",
+      "matchnum_label": "周一003",
+      "home_team_id": "909",
+      "away_team_id": "1332"
     },
     {
       "xml_id": "2040917",
