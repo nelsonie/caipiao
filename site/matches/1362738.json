@@ -24,7 +24,7 @@
       "lost": "5.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-16T07:20:12Z"
+    "fetched_at_utc": "2026-08-16T07:30:12Z"
   },
   "shuju": {
     "title": "佐加顿斯VSAIK索尔纳(2026瑞典超)-数据分析-500彩票网",
@@ -699,10 +699,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.800↓",
         "handicap": "一球降",
-        "away_water": "1.070↑",
-        "time": "08-16 14:28"
+        "away_water": "1.090↑",
+        "time": "08-16 15:22"
       },
       "init": {
         "home_water": "1.050",
@@ -728,35 +728,35 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.770↓",
-        "handicap": "一球",
-        "away_water": "1.040↑",
-        "time": "08-16 14:44"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "一球",
-        "away_water": "1.030",
-        "time": "08-11 08:41"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
-        "home_water": "0.990↓",
+        "home_water": "1.000↓",
         "handicap": "一球/球半降",
         "away_water": "0.760↑",
-        "time": "08-16 14:39"
+        "time": "08-16 15:22"
       },
       "init": {
         "home_water": "1.200",
         "handicap": "球半",
         "away_water": "0.620",
         "time": "08-09 22:27"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.780",
+        "handicap": "一球",
+        "away_water": "1.030",
+        "time": "08-16 15:21"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "一球",
+        "away_water": "1.030",
+        "time": "08-11 08:41"
       }
     },
     {
