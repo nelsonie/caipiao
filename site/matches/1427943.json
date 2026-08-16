@@ -24,7 +24,7 @@
       "lost": "1.90",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-16T15:10:31Z"
+    "fetched_at_utc": "2026-08-16T15:20:30Z"
   },
   "shuju": {
     "title": "桑坦德竞技VS比利亚雷亚尔(2026/2027西甲)-数据分析-500彩票网",
@@ -433,13 +433,13 @@
             "position": "后卫"
           },
           {
-            "number": "22",
-            "name": "佩德罗·费利佩",
+            "number": "5",
+            "name": "巴勃罗·拉蒙",
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "巴勃罗·拉蒙",
+            "number": "22",
+            "name": "佩德罗·费利佩",
             "position": "后卫"
           },
           {
@@ -495,6 +495,11 @@
             "position": "前锋"
           },
           {
+            "number": "6",
+            "name": "伊尼戈·塞恩斯-马萨",
+            "position": "中场"
+          },
+          {
             "number": "4",
             "name": "马努·埃尔南多",
             "position": "后卫"
@@ -508,11 +513,6 @@
             "number": "16",
             "name": "法昆多·冈萨雷斯",
             "position": "后卫"
-          },
-          {
-            "number": "6",
-            "name": "伊尼戈·塞恩斯-马萨",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -537,13 +537,13 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "桑蒂·科梅萨尼亚",
+            "number": "18",
+            "name": "帕普·盖伊",
             "position": "中场"
           },
           {
-            "number": "18",
-            "name": "帕普·盖伊",
+            "number": "14",
+            "name": "桑蒂·科梅萨尼亚",
             "position": "中场"
           },
           {
@@ -579,6 +579,16 @@
         ],
         "subs": [
           {
+            "number": "3",
+            "name": "亚历克斯·弗里曼",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "彼得·古拉西",
+            "position": "守门员"
+          },
+          {
             "number": "5",
             "name": "威利·坎布瓦拉",
             "position": "后卫"
@@ -604,16 +614,6 @@
             "position": "前锋"
           },
           {
-            "number": "3",
-            "name": "亚历克斯·弗里曼",
-            "position": "后卫"
-          },
-          {
-            "number": "2",
-            "name": "洛根·科斯塔",
-            "position": "后卫"
-          },
-          {
             "number": "23",
             "name": "塞尔吉·卡多纳",
             "position": "后卫"
@@ -629,13 +629,13 @@
             "position": "前锋"
           },
           {
-            "number": "25",
-            "name": "彼得·古拉西",
-            "position": "守门员"
+            "number": "2",
+            "name": "洛根·科斯塔",
+            "position": "后卫"
           },
           {
             "number": "30",
-            "name": "Cheikh Ahmad Tidiane Thiam",
+            "name": "谢赫·艾哈迈德·蒂贾内·蒂亚姆",
             "position": "中场"
           }
         ],

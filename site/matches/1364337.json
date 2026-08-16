@@ -24,7 +24,7 @@
       "lost": "5.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-16T15:10:19Z"
+    "fetched_at_utc": "2026-08-16T15:20:22Z"
   },
   "shuju": {
     "title": "布兰VS汉坎(2026挪超)-数据分析-500彩票网",
@@ -433,13 +433,13 @@
             "position": "后卫"
           },
           {
-            "number": "23",
-            "name": "索尔·佩德森",
+            "number": "20",
+            "name": "维特·德拉格斯内斯",
             "position": "后卫"
           },
           {
-            "number": "20",
-            "name": "维特·德拉格斯内斯",
+            "number": "23",
+            "name": "索尔·佩德森",
             "position": "后卫"
           },
           {
@@ -475,6 +475,11 @@
             "position": "前锋"
           },
           {
+            "number": "37",
+            "name": "文德内斯",
+            "position": "中场"
+          },
+          {
             "number": "43",
             "name": "布拉格·贝格·豪根",
             "position": "中场"
@@ -482,11 +487,6 @@
           {
             "number": "7",
             "name": "基雅坦·马尔·基雅坦森",
-            "position": "中场"
-          },
-          {
-            "number": "37",
-            "name": "文德内斯",
             "position": "中场"
           }
         ],
@@ -713,22 +713,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850",
-        "handicap": "一球",
-        "away_water": "1.000",
-        "time": "08-16 23:00"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "一球",
-        "away_water": "1.000",
-        "time": "08-11 08:55"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -742,6 +726,22 @@
         "handicap": "一球",
         "away_water": "0.900",
         "time": "08-09 23:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850",
+        "handicap": "一球",
+        "away_water": "1.000",
+        "time": "08-16 23:00"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "一球",
+        "away_water": "1.000",
+        "time": "08-11 08:55"
       }
     },
     {

@@ -24,7 +24,7 @@
       "lost": "3.48",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-16T15:10:21Z"
+    "fetched_at_utc": "2026-08-16T15:20:20Z"
   },
   "shuju": {
     "title": "萨尔普斯堡VS桑纳菲尤尔(2026挪超)-数据分析-500彩票网",
@@ -398,6 +398,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "33",
+            "name": "安德烈亚斯·汉森",
+            "position": "前锋"
+          },
+          {
             "number": "11",
             "name": "丹尼尔·塞兰德·卡尔斯巴克",
             "position": "前锋"
@@ -408,13 +413,8 @@
             "position": "中场"
           },
           {
-            "number": "33",
-            "name": "安德烈亚斯·汉森",
-            "position": "中场"
-          },
-          {
-            "number": "10",
-            "name": "松德雷·索尔利",
+            "number": "8",
+            "name": "桑德·约翰·克里斯蒂安森",
             "position": "中场"
           },
           {
@@ -423,8 +423,8 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "桑德·约翰·克里斯蒂安森",
+            "number": "10",
+            "name": "松德雷·索尔利",
             "position": "中场"
           },
           {
@@ -438,13 +438,13 @@
             "position": "后卫"
           },
           {
-            "number": "32",
-            "name": "埃里克.维茨",
+            "number": "12",
+            "name": "克劳斯·巴博·尼尤库里",
             "position": "后卫"
           },
           {
-            "number": "12",
-            "name": "克劳斯·巴博·尼尤库里",
+            "number": "32",
+            "name": "埃里克.维茨",
             "position": "后卫"
           },
           {
@@ -454,11 +454,6 @@
           }
         ],
         "subs": [
-          {
-            "number": "7",
-            "name": "卡米尔·姆梅·恩瓦梅本",
-            "position": "中场"
-          },
           {
             "number": "18",
             "name": "波普·盖耶",
@@ -498,6 +493,11 @@
             "number": "56",
             "name": "马兹·巴雷特-奥尔森",
             "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "卡米尔·姆梅·恩瓦梅本",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -512,18 +512,8 @@
             "position": "前锋"
           },
           {
-            "number": "8",
-            "name": "托比亚斯·博吉克",
-            "position": "中场"
-          },
-          {
             "number": "27",
             "name": "雅各布·马斯洛·邓斯比",
-            "position": "中场"
-          },
-          {
-            "number": "7",
-            "name": "埃万盖洛斯·帕图里迪斯",
             "position": "中场"
           },
           {
@@ -537,6 +527,11 @@
             "position": "中场"
           },
           {
+            "number": "7",
+            "name": "埃万盖洛斯·帕图里迪斯",
+            "position": "中场"
+          },
+          {
             "number": "3",
             "name": "维特尔·瓦勒·埃格尔",
             "position": "后卫"
@@ -544,6 +539,11 @@
           {
             "number": "44",
             "name": "山德·兰布里克斯",
+            "position": "后卫"
+          },
+          {
+            "number": "8",
+            "name": "托比亚斯·博吉克",
             "position": "后卫"
           },
           {
@@ -594,14 +594,14 @@
             "position": "前锋"
           },
           {
-            "number": "5",
-            "name": "古斯塔夫·霍伊比约",
-            "position": "后卫"
-          },
-          {
             "number": "32",
             "name": "丹尼尔·约翰·斯卡鲁德",
             "position": "前锋"
+          },
+          {
+            "number": "5",
+            "name": "古斯塔夫·霍伊比约",
+            "position": "后卫"
           },
           {
             "number": "21",
