@@ -24,7 +24,7 @@
       "lost": "2.22",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-16T11:10:09Z"
+    "fetched_at_utc": "2026-08-16T11:20:12Z"
   },
   "shuju": {
     "title": "代格福什VS哥德堡(2026瑞典超)-数据分析-500彩票网",
@@ -418,8 +418,8 @@
             "position": "中场"
           },
           {
-            "number": "22",
-            "name": "纳洪·吉尔迈",
+            "number": "8",
+            "name": "比拉尔·侯赛因",
             "position": "中场"
           },
           {
@@ -455,19 +455,24 @@
         ],
         "subs": [
           {
-            "number": "15",
-            "name": "纳西鲁·摩洛",
-            "position": "后卫"
-          },
-          {
-            "number": "19",
-            "name": "亚历山大·林德格伦",
+            "number": "13",
+            "name": "吉迪恩·亚乌·伊里永",
             "position": "中场"
           },
           {
-            "number": "24",
-            "name": "奥勒·伦纳德松",
-            "position": "前锋"
+            "number": "6",
+            "name": "丹尼尔·松德格伦",
+            "position": "后卫"
+          },
+          {
+            "number": "7",
+            "name": "塞巴斯蒂安奥尔森",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "纳西鲁·摩洛",
+            "position": "后卫"
           },
           {
             "number": "1",
@@ -480,6 +485,11 @@
             "position": "后卫"
           },
           {
+            "number": "22",
+            "name": "纳洪·吉尔迈",
+            "position": "中场"
+          },
+          {
             "number": "9",
             "name": "布特拉",
             "position": "前锋"
@@ -488,11 +498,6 @@
             "number": "14",
             "name": "费特森",
             "position": "前锋"
-          },
-          {
-            "number": "7",
-            "name": "塞巴斯蒂安奥尔森",
-            "position": "后卫"
           }
         ],
         "injured": [],
@@ -501,36 +506,6 @@
       "away": {
         "formation": null,
         "starters": [
-          {
-            "number": "14",
-            "name": "托比亚斯·亨茨",
-            "position": "前锋"
-          },
-          {
-            "number": "29",
-            "name": "亚当·贝里马克·威伯",
-            "position": "前锋"
-          },
-          {
-            "number": "7",
-            "name": "塞巴斯蒂安·克莱门森",
-            "position": "前锋"
-          },
-          {
-            "number": "8",
-            "name": "萨姆·拉尔森",
-            "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "大卫·克鲁斯",
-            "position": "中场"
-          },
-          {
-            "number": "24",
-            "name": "奥利弗·曼森",
-            "position": "中场"
-          },
           {
             "number": "22",
             "name": "诺亚·托尔夫",
@@ -544,11 +519,6 @@
           {
             "number": "3",
             "name": "奥古斯特·伊林马克",
-            "position": "后卫"
-          },
-          {
-            "number": "17",
-            "name": "亚历山大·贾洛",
             "position": "后卫"
           },
           {
@@ -673,10 +643,10 @@
       "cid": "4",
       "company": "I**********",
       "live": {
-        "home_water": "1.100↑",
+        "home_water": "1.200↑",
         "handicap": "平手",
-        "away_water": "0.650↓",
-        "time": "08-16 06:21"
+        "away_water": "0.600↓",
+        "time": "08-16 19:13"
       },
       "init": {
         "home_water": "0.950",
@@ -689,10 +659,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.990↑",
         "handicap": "受平手/半球",
-        "away_water": "0.920↓",
-        "time": "08-16 19:00"
+        "away_water": "0.900↓",
+        "time": "08-16 19:17"
       },
       "init": {
         "home_water": "0.820",
@@ -705,10 +675,10 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.930↑",
         "handicap": "受平手/半球",
-        "away_water": "0.920↓",
-        "time": "08-16 19:01"
+        "away_water": "0.900↓",
+        "time": "08-16 19:15"
       },
       "init": {
         "home_water": "0.790",
@@ -718,29 +688,13 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "受平手/半球",
-        "away_water": "0.910↓",
-        "time": "08-16 19:00"
-      },
-      "init": {
-        "home_water": "0.790",
-        "handicap": "受平手/半球",
-        "away_water": "1.010",
-        "time": "08-11 08:23"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.830↓",
         "handicap": "受平手/半球降",
-        "away_water": "0.840↑",
-        "time": "08-16 19:00"
+        "away_water": "0.830↑",
+        "time": "08-16 19:03"
       },
       "init": {
         "home_water": "1.000",
@@ -750,13 +704,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.890↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.900↓",
+        "time": "08-16 19:14"
+      },
+      "init": {
+        "home_water": "0.790",
+        "handicap": "受平手/半球",
+        "away_water": "1.010",
+        "time": "08-11 08:23"
+      }
+    },
+    {
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.940↓",
+        "home_water": "0.970↓",
         "handicap": "受平手/半球降",
-        "away_water": "0.930↑",
-        "time": "08-16 19:00"
+        "away_water": "0.900↑",
+        "time": "08-16 19:15"
       },
       "init": {
         "home_water": "1.040",
@@ -769,10 +739,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.980↑",
         "handicap": "受平手/半球",
-        "away_water": "0.950↓",
-        "time": "08-16 19:01"
+        "away_water": "0.940↓",
+        "time": "08-16 19:14"
       },
       "init": {
         "home_water": "0.840",
@@ -788,7 +758,7 @@
         "home_water": "0.950↑",
         "handicap": "受平手/半球",
         "away_water": "0.970↓",
-        "time": "08-16 19:02"
+        "time": "08-16 19:13"
       },
       "init": {
         "home_water": "0.840",
@@ -817,10 +787,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.990↑",
         "handicap": "受平手/半球",
-        "away_water": "0.970↓",
-        "time": "08-16 19:00"
+        "away_water": "0.930↓",
+        "time": "08-16 19:16"
       },
       "init": {
         "home_water": "0.830",
@@ -833,10 +803,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.860↓",
         "handicap": "受平手/半球降",
-        "away_water": "0.920↑",
-        "time": "08-16 19:01"
+        "away_water": "0.900↑",
+        "time": "08-16 19:14"
       },
       "init": {
         "home_water": "1.010",
@@ -849,10 +819,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.880↑",
+        "home_water": "0.930↑",
         "handicap": "受平手/半球",
-        "away_water": "1.020↓",
-        "time": "08-16 18:59"
+        "away_water": "0.970↓",
+        "time": "08-16 19:16"
       },
       "init": {
         "home_water": "0.830",
@@ -866,7 +836,7 @@
     {
       "cid": "1",
       "company": "官*",
-      "time": "2026-08-16 16:31:46",
+      "time": "2026-08-16 19:03:29",
       "odds": {
         "live": [
           "2.67",
@@ -874,9 +844,9 @@
           "2.22"
         ],
         "init": [
-          "2.87",
+          "2.97",
           "3.30",
-          "2.09"
+          "2.04"
         ]
       },
       "prob": {
@@ -886,9 +856,9 @@
           "39.87%"
         ],
         "init": [
-          "30.84%",
+          "29.80%",
           "26.82%",
-          "42.34%"
+          "43.38%"
         ]
       },
       "ret": {
@@ -906,9 +876,9 @@
           "0.92"
         ],
         "init": [
-          "0.89",
           "0.92",
-          "0.86"
+          "0.92",
+          "0.84"
         ]
       }
     },
