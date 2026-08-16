@@ -24,7 +24,7 @@
       "lost": "2.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-16T13:00:11Z"
+    "fetched_at_utc": "2026-08-16T13:10:16Z"
   },
   "shuju": {
     "title": "奥勒松VS瓦勒伦加(2026挪超)-数据分析-500彩票网",
@@ -408,8 +408,8 @@
             "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "马蒂亚斯·克里斯滕森",
+            "number": "6",
+            "name": "哈肯·布特利·哈默",
             "position": "中场"
           },
           {
@@ -418,13 +418,13 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "哈肯·布特利·哈默",
+            "number": "21",
+            "name": "马蒂亚斯·克里斯滕森",
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "乌巴·查尔斯·恩沃科马",
+            "number": "16",
+            "name": "雅各布·尼兰·奥萨",
             "position": "后卫"
           },
           {
@@ -443,8 +443,8 @@
             "position": "后卫"
           },
           {
-            "number": "16",
-            "name": "雅各布·尼兰·奥萨",
+            "number": "14",
+            "name": "乌巴·查尔斯·恩沃科马",
             "position": "后卫"
           },
           {
@@ -465,9 +465,9 @@
             "position": "后卫"
           },
           {
-            "number": "20",
-            "name": "伊万·詹图",
-            "position": "前锋"
+            "number": "45",
+            "name": "菲利普·桑德维克·奥克兰",
+            "position": "后卫"
           },
           {
             "number": "10",
@@ -495,9 +495,9 @@
             "position": "中场"
           },
           {
-            "number": "45",
-            "name": "菲利普·桑德维克·奥克兰",
-            "position": "后卫"
+            "number": "20",
+            "name": "伊万·詹图",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -507,13 +507,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "17",
-            "name": "马蒂亚斯·格伦德杰恩",
+            "number": "9",
+            "name": "加布里埃尔·拉伊科维奇",
             "position": "前锋"
           },
           {
-            "number": "7",
-            "name": "穆罕默德·奥弗基尔",
+            "number": "17",
+            "name": "马蒂亚斯·格伦德杰恩",
             "position": "前锋"
           },
           {
@@ -527,13 +527,13 @@
             "position": "中场"
           },
           {
-            "number": "9",
-            "name": "加布里埃尔·拉伊科维奇",
+            "number": "24",
+            "name": "彼得·斯特兰德",
             "position": "中场"
           },
           {
-            "number": "24",
-            "name": "彼得·斯特兰德",
+            "number": "7",
+            "name": "穆罕默德·奥弗基尔",
             "position": "中场"
           },
           {
@@ -564,9 +564,9 @@
         ],
         "subs": [
           {
-            "number": "90",
-            "name": "奥莱·克里斯蒂安·哈默菲尔·塞特",
-            "position": "前锋"
+            "number": "15",
+            "name": "奥丁·蒂亚戈·霍姆",
+            "position": "中场"
           },
           {
             "number": "13",
@@ -574,8 +574,18 @@
             "position": "守门员"
           },
           {
-            "number": "15",
-            "name": "奥丁·蒂亚戈·霍姆",
+            "number": "11",
+            "name": "加亚斯·扎希德",
+            "position": "中场"
+          },
+          {
+            "number": "90",
+            "name": "奥莱·克里斯蒂安·哈默菲尔·塞特",
+            "position": "前锋"
+          },
+          {
+            "number": "28",
+            "name": "马格努斯·韦斯特加德",
             "position": "中场"
           },
           {
@@ -589,24 +599,14 @@
             "position": "后卫"
           },
           {
-            "number": "11",
-            "name": "加亚斯·扎希德",
-            "position": "中场"
-          },
-          {
-            "number": "3",
-            "name": "哈康·斯亚蒂尔",
-            "position": "后卫"
-          },
-          {
             "number": "49",
             "name": "阿卜杜利·贾塔",
             "position": "后卫"
           },
           {
-            "number": "28",
-            "name": "马格努斯·韦斯特加德",
-            "position": "中场"
+            "number": "3",
+            "name": "哈康·斯亚蒂尔",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "平手升",
-        "away_water": "0.870↓",
-        "time": "08-16 20:27"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "受平手/半球",
-        "away_water": "1.000",
-        "time": "08-11 08:30"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.860",
         "time": "08-09 20:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "平手升",
+        "away_water": "0.870↓",
+        "time": "08-16 20:27"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "受平手/半球",
+        "away_water": "1.000",
+        "time": "08-11 08:30"
       }
     },
     {
