@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-16T14:50:27Z",
+  "last_updated_utc": "2026-08-16T15:00:29Z",
   "matches": [
     {
       "xml_id": "2040888",
@@ -108,6 +108,42 @@
       "matchnum_label": "周日006",
       "home_team_id": "245",
       "away_team_id": "823"
+    },
+    {
+      "xml_id": "2040894",
+      "matchnum": "7007",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "瑞典超级联赛",
+      "home": "佐加顿斯",
+      "away": "AIK索尔纳",
+      "spf_win": "1.97",
+      "spf_draw": "3.70",
+      "spf_lost": "2.85",
+      "spf_updated": "2026-08-16 19:13:56",
+      "gameid": "1362738",
+      "kickoff_cst": "2026-08-16 20:00",
+      "matchnum_label": "周日007",
+      "home_team_id": "1355",
+      "away_team_id": "215"
+    },
+    {
+      "xml_id": "2040895",
+      "matchnum": "7008",
+      "date": "2026-08-16",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "特温特",
+      "away": "兹沃勒",
+      "spf_win": "2.58",
+      "spf_draw": "4.05",
+      "spf_lost": "2.02",
+      "spf_updated": "2026-08-16 19:37:41",
+      "gameid": "1415863",
+      "kickoff_cst": "2026-08-16 20:30",
+      "matchnum_label": "周日008",
+      "home_team_id": "1231",
+      "away_team_id": "1353"
     },
     {
       "xml_id": "2040896",
@@ -531,10 +567,10 @@
       "league": "西班牙甲级联赛",
       "home": "桑坦德竞技",
       "away": "比利亚雷亚尔",
-      "spf_win": "1.77",
+      "spf_win": "1.82",
       "spf_draw": "3.65",
-      "spf_lost": "3.45",
-      "spf_updated": "2026-08-16 22:37:39",
+      "spf_lost": "3.27",
+      "spf_updated": "2026-08-16 22:48:07",
       "gameid": "1427943",
       "kickoff_cst": "2026-08-16 23:00",
       "matchnum_label": "周日018",
