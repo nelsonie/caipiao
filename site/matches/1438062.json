@@ -24,7 +24,7 @@
       "lost": "2.62",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-16T14:40:14Z"
+    "fetched_at_utc": "2026-08-16T14:50:12Z"
   },
   "shuju": {
     "title": "葡萄牙国民VS埃斯托里尔(2026/2027葡超)-数据分析-500彩票网",
@@ -399,8 +399,8 @@
         "starters": [
           {
             "number": "10",
-            "name": "丹尼尔",
-            "position": "中场"
+            "name": "丹尼尔·儒尼奥尔",
+            "position": "前锋"
           },
           {
             "number": "99",
@@ -410,7 +410,7 @@
           {
             "number": "8",
             "name": "米格尔·贝扎·佩雷斯",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "28",
@@ -430,7 +430,7 @@
           {
             "number": "7",
             "name": "马库斯·延森",
-            "position": "前锋"
+            "position": "后卫"
           },
           {
             "number": "38",
@@ -454,11 +454,6 @@
           }
         ],
         "subs": [
-          {
-            "number": "30",
-            "name": "马蒂姆·瓦茨",
-            "position": "中场"
-          },
           {
             "number": "26",
             "name": "乔尔·达·席尔瓦",
@@ -492,7 +487,7 @@
           {
             "number": "11",
             "name": "斯塔夫罗斯·加夫里尔",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "14",
@@ -500,14 +495,24 @@
             "position": "后卫"
           },
           {
+            "number": "30",
+            "name": "马蒂姆·瓦茨",
+            "position": "中场"
+          },
+          {
             "number": "2",
-            "name": "丹尼尔·克鲁兹拉德",
+            "name": "丹尼尔·德拉克鲁兹",
             "position": "后卫"
           },
           {
             "number": "88",
-            "name": "德伊维森",
+            "name": "德伊维松·苏扎·布里托",
             "position": "中场"
+          },
+          {
+            "number": "55",
+            "name": "佩德罗",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -524,7 +529,7 @@
           {
             "number": "7",
             "name": "安德烈·拉克西米坎特",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "12",
@@ -534,17 +539,17 @@
           {
             "number": "99",
             "name": "拉菲克·吉丹",
-            "position": "前锋"
-          },
-          {
-            "number": "8",
-            "name": "米古埃尔·安吉洛·达席尔瓦·罗查",
             "position": "中场"
           },
           {
             "number": "5",
             "name": "安特夫·宗吉",
-            "position": "后卫"
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "米古埃尔·安吉洛·达席尔瓦·罗查",
+            "position": "中场"
           },
           {
             "number": "3",
@@ -574,11 +579,6 @@
         ],
         "subs": [
           {
-            "number": "42",
-            "name": "J.阿诺林",
-            "position": "后卫"
-          },
-          {
             "number": "16",
             "name": "马丁·图尔克",
             "position": "守门员"
@@ -591,11 +591,6 @@
           {
             "number": "22",
             "name": "佩德罗·卡瓦略",
-            "position": "后卫"
-          },
-          {
-            "number": "18",
-            "name": "贡卡洛·科斯塔",
             "position": "后卫"
           },
           {
@@ -626,6 +621,16 @@
           {
             "number": "25",
             "name": "斯特利奥斯·安德烈",
+            "position": "后卫"
+          },
+          {
+            "number": "42",
+            "name": "乔丹·阿诺林",
+            "position": "后卫"
+          },
+          {
+            "number": "18",
+            "name": "贡卡洛·科斯塔",
             "position": "后卫"
           }
         ],
