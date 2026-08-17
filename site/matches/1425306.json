@@ -24,7 +24,7 @@
       "lost": "2.59",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-17T18:20:08Z"
+    "fetched_at_utc": "2026-08-17T18:30:08Z"
   },
   "shuju": {
     "title": "加的夫城VS雷克斯汉姆(2026/2027英冠)-数据分析-500彩票网",
@@ -348,13 +348,18 @@
             "position": "前锋"
           },
           {
-            "number": "39",
-            "name": "伊萨克·戴维斯",
+            "number": "16",
+            "name": "克里斯·威尔诺克",
             "position": "中场"
           },
           {
             "number": "45",
             "name": "锡安·阿什福德",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "杰克·莫兰",
             "position": "中场"
           },
           {
@@ -365,11 +370,6 @@
           {
             "number": "18",
             "name": "亚历山大·罗伯逊",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "大卫·特恩布尔",
             "position": "中场"
           },
           {
@@ -388,8 +388,8 @@
             "position": "后卫"
           },
           {
-            "number": "44",
-            "name": "罗南·卡帕基奥",
+            "number": "23",
+            "name": "卡鲁姆·斯坎伦",
             "position": "后卫"
           },
           {
@@ -400,14 +400,14 @@
         ],
         "subs": [
           {
-            "number": "16",
-            "name": "克里斯·威尔诺克",
-            "position": "中场"
-          },
-          {
             "number": "30",
             "name": "哈里·泰勒",
             "position": "守门员"
+          },
+          {
+            "number": "14",
+            "name": "大卫·特恩布尔",
+            "position": "中场"
           },
           {
             "number": "33",
@@ -420,18 +420,23 @@
             "position": "前锋"
           },
           {
-            "number": "8",
-            "name": "杰克·莫兰",
+            "number": "44",
+            "name": "罗南·卡帕基奥",
+            "position": "后卫"
+          },
+          {
+            "number": "39",
+            "name": "伊萨克·戴维斯",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "罗宾·科尔威尔",
             "position": "中场"
           },
           {
             "number": "27",
             "name": "乔尔·科尔威尔",
-            "position": "中场"
-          },
-          {
-            "number": "43",
-            "name": "保罗·乌乔博洛·莫雷诺",
             "position": "中场"
           },
           {
@@ -452,8 +457,8 @@
             "position": "前锋"
           },
           {
-            "number": "28",
-            "name": "山姆·史密斯",
+            "number": "19",
+            "name": "基弗·摩尔",
             "position": "前锋"
           },
           {
@@ -497,8 +502,8 @@
             "position": "后卫"
           },
           {
-            "number": "21",
-            "name": "丹尼·沃德",
+            "number": "22",
+            "name": "安东尼·帕特森",
             "position": "守门员"
           }
         ],
@@ -529,19 +534,19 @@
             "position": "中场"
           },
           {
-            "number": "19",
-            "name": "基弗·摩尔",
-            "position": "前锋"
-          },
-          {
-            "number": "1",
-            "name": "亚瑟·奥孔科沃",
-            "position": "守门员"
-          },
-          {
             "number": "24",
             "name": "丹·斯卡尔",
             "position": "后卫"
+          },
+          {
+            "number": "28",
+            "name": "山姆·史密斯",
+            "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "丹尼·沃德",
+            "position": "守门员"
           },
           {
             "number": "8",
@@ -668,22 +673,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.790↑",
-        "handicap": "平手",
-        "away_water": "0.960↓",
-        "time": "08-18 01:55"
-      },
-      "init": {
-        "home_water": "0.770",
-        "handicap": "平手",
-        "away_water": "0.980",
-        "time": "07-20 03:08"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -697,6 +686,22 @@
         "handicap": "平手",
         "away_water": "1.040",
         "time": "07-13 20:32"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.790↑",
+        "handicap": "平手",
+        "away_water": "0.960↓",
+        "time": "08-18 01:55"
+      },
+      "init": {
+        "home_water": "0.770",
+        "handicap": "平手",
+        "away_water": "0.980",
+        "time": "07-20 03:08"
       }
     },
     {
