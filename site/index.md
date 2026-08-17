@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-08-17T23:00:07Z'
-total_matches: 1
-leagues_covered:
-- 巴西甲级联赛
+last_updated_utc: '2026-08-17T23:10:06Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 巴西甲级联赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 1006 | 2026-08-18 星期二 | 巴西国际 vs 里莫 | 2.44/3.15/2.49 | [1362457](matches/1362457.md) |
