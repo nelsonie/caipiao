@@ -24,7 +24,7 @@
       "lost": "3.05",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-18T10:40:07Z"
+    "fetched_at_utc": "2026-08-18T10:50:08Z"
   },
   "shuju": {
     "title": "门多萨独立VS弗鲁米嫩塞(2026解放者杯)-数据分析-500彩票网",
@@ -725,22 +725,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.080↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.740↓",
-        "time": "08-18 18:27"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手",
-        "away_water": "0.970",
-        "time": "08-12 12:31"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -754,6 +738,22 @@
         "handicap": "平手",
         "away_water": "0.970",
         "time": "08-12 10:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.080↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.740↓",
+        "time": "08-18 18:27"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手",
+        "away_water": "0.970",
+        "time": "08-12 12:31"
       }
     },
     {
