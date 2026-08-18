@@ -24,7 +24,7 @@
       "lost": "4.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-18T14:00:11Z"
+    "fetched_at_utc": "2026-08-18T14:10:09Z"
   },
   "shuju": {
     "title": "凯尔特人VSLASK林茨(2026/2027欧冠)-数据分析-500彩票网",
@@ -644,10 +644,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.080↑",
+        "home_water": "1.120↑",
         "handicap": "一球",
-        "away_water": "0.800↓",
-        "time": "08-18 21:50"
+        "away_water": "0.770↓",
+        "time": "08-18 22:00"
       },
       "init": {
         "home_water": "1.010",
@@ -673,22 +673,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.810↑",
-        "handicap": "半球/一球",
-        "away_water": "1.050↑",
-        "time": "08-18 21:52"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "半球/一球",
-        "away_water": "1.000",
-        "time": "08-13 03:35"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -702,6 +686,22 @@
         "handicap": "一球",
         "away_water": "1.070",
         "time": "08-12 15:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↑",
+        "handicap": "半球/一球",
+        "away_water": "1.050↑",
+        "time": "08-18 21:52"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "半球/一球",
+        "away_water": "1.000",
+        "time": "08-13 03:35"
       }
     },
     {
