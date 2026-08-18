@@ -24,7 +24,7 @@
       "lost": "2.41",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-18T17:30:07Z"
+    "fetched_at_utc": "2026-08-18T17:40:07Z"
   },
   "shuju": {
     "title": "安养FCVS济州联队(2026/2027韩国杯)-数据分析-500彩票网",
@@ -680,22 +680,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.660↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.980↑",
-        "time": "08-19 00:16"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "平手",
-        "away_water": "0.960",
-        "time": "08-16 19:01"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -709,6 +693,22 @@
         "handicap": "平手",
         "away_water": "0.720",
         "time": "08-16 19:26"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.660↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.980↑",
+        "time": "08-19 00:16"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "平手",
+        "away_water": "0.960",
+        "time": "08-16 19:01"
       }
     },
     {
