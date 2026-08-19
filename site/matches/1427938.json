@@ -24,7 +24,7 @@
       "lost": "10.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-19T07:40:10Z"
+    "fetched_at_utc": "2026-08-19T07:50:09Z"
   },
   "shuju": {
     "title": "马德里竞技VS马拉加(2026/2027西甲)-数据分析-500彩票网",
@@ -720,8 +720,8 @@
       "live": {
         "home_water": "0.900↑",
         "handicap": "球半",
-        "away_water": "0.830↓",
-        "time": "08-19 15:26"
+        "away_water": "0.850↓",
+        "time": "08-19 15:38"
       },
       "init": {
         "home_water": "0.850",
@@ -763,22 +763,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "球半",
-        "away_water": "0.890↓",
-        "time": "08-19 15:17"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "球半",
-        "away_water": "0.910",
-        "time": "07-22 22:57"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -792,6 +776,22 @@
         "handicap": "球半",
         "away_water": "0.970",
         "time": "08-11 19:16"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "球半",
+        "away_water": "0.890↓",
+        "time": "08-19 15:17"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "球半",
+        "away_water": "0.910",
+        "time": "07-22 22:57"
       }
     },
     {
