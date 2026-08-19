@@ -8,9 +8,9 @@
     "away": "博德闪耀",
     "kickoff_cst": "2026-08-20 03:00",
     "spf": {
-      "win": "5.30",
-      "draw": "4.75",
-      "lost": "1.37"
+      "win": "5.15",
+      "draw": "4.55",
+      "lost": "1.40"
     },
     "asia_main": {
       "handicap": "平手",
@@ -24,7 +24,7 @@
       "lost": "2.40",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-19T11:10:11Z"
+    "fetched_at_utc": "2026-08-19T11:20:11Z"
   },
   "shuju": {
     "title": "奈梅亨VS博德闪耀(2026/2027欧冠)-数据分析-500彩票网",
@@ -681,22 +681,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.040↑",
-        "handicap": "平手",
-        "away_water": "0.870↓",
-        "time": "08-19 17:04"
-      },
-      "init": {
-        "home_water": "0.760",
-        "handicap": "平手",
-        "away_water": "1.170",
-        "time": "08-12 15:14"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -710,6 +694,22 @@
         "handicap": "平手/半球",
         "away_water": "0.770",
         "time": "08-13 03:35"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.040↑",
+        "handicap": "平手",
+        "away_water": "0.870↓",
+        "time": "08-19 17:04"
+      },
+      "init": {
+        "home_water": "0.760",
+        "handicap": "平手",
+        "away_water": "1.170",
+        "time": "08-12 15:14"
       }
     },
     {
