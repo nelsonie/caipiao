@@ -24,7 +24,7 @@
       "lost": "1.66",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-19T06:10:08Z"
+    "fetched_at_utc": "2026-08-19T06:20:07Z"
   },
   "shuju": {
     "title": "波特诺山丘VS帕尔梅拉斯(2026解放者杯)-数据分析-500彩票网",
@@ -740,22 +740,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.770↑",
-        "handicap": "受半球/一球",
-        "away_water": "1.090↓",
-        "time": "08-19 13:32"
-      },
-      "init": {
-        "home_water": "0.740",
-        "handicap": "受半球/一球",
-        "away_water": "1.140",
-        "time": "08-13 08:38"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -769,6 +753,22 @@
         "handicap": "受半球",
         "away_water": "0.870",
         "time": "08-13 09:44"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.770↑",
+        "handicap": "受半球/一球",
+        "away_water": "1.090↓",
+        "time": "08-19 13:32"
+      },
+      "init": {
+        "home_water": "0.740",
+        "handicap": "受半球/一球",
+        "away_water": "1.140",
+        "time": "08-13 08:38"
       }
     },
     {
