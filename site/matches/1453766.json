@@ -24,7 +24,7 @@
       "lost": "1.66",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-19T19:10:07Z"
+    "fetched_at_utc": "2026-08-19T19:20:06Z"
   },
   "shuju": {
     "title": "波特诺山丘VS帕尔梅拉斯(2026解放者杯)-数据分析-500彩票网",
@@ -679,10 +679,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.750↓",
-        "handicap": "受半球/一球",
-        "away_water": "1.050↑",
-        "time": "08-20 03:05"
+        "home_water": "1.000↑",
+        "handicap": "受半球升",
+        "away_water": "0.850↓",
+        "time": "08-20 03:16"
       },
       "init": {
         "home_water": "0.820",
@@ -730,29 +730,13 @@
         "home_water": "1.010↑",
         "handicap": "受半球升",
         "away_water": "0.830↓",
-        "time": "08-20 03:03"
+        "time": "08-20 03:11"
       },
       "init": {
         "home_water": "0.770",
         "handicap": "受半球/一球",
         "away_water": "1.060",
         "time": "08-17 08:25"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.740",
-        "handicap": "受半球/一球",
-        "away_water": "1.130↓",
-        "time": "08-20 02:55"
-      },
-      "init": {
-        "home_water": "0.740",
-        "handicap": "受半球/一球",
-        "away_water": "1.140",
-        "time": "08-13 08:38"
       }
     },
     {
@@ -769,6 +753,22 @@
         "handicap": "受半球",
         "away_water": "0.870",
         "time": "08-13 09:44"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.740",
+        "handicap": "受半球/一球",
+        "away_water": "1.130↓",
+        "time": "08-20 02:55"
+      },
+      "init": {
+        "home_water": "0.740",
+        "handicap": "受半球/一球",
+        "away_water": "1.140",
+        "time": "08-13 08:38"
       }
     },
     {
@@ -1280,7 +1280,7 @@
     {
       "cid": "9",
       "company": "易**",
-      "time": "2026-08-20 03:01:12",
+      "time": "2026-08-20 03:10:23",
       "odds": {
         "live": [
           "4.70",
