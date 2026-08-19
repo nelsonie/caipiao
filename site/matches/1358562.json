@@ -24,7 +24,7 @@
       "lost": "2.24",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-19T19:50:08Z"
+    "fetched_at_utc": "2026-08-19T20:00:08Z"
   },
   "shuju": {
     "title": "科罗拉多急流VS洛杉矶FC(2026美职联)-数据分析-500彩票网",
@@ -715,32 +715,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.850↓",
         "handicap": "平手",
-        "away_water": "1.040↑",
-        "time": "08-20 03:46"
+        "away_water": "1.060↑",
+        "time": "08-20 03:48"
       },
       "init": {
         "home_water": "1.000",
         "handicap": "平手",
         "away_water": "0.810",
         "time": "08-17 08:25"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "2.960↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.200↓",
-        "time": "08-20 01:49"
-      },
-      "init": {
-        "home_water": "1.090",
-        "handicap": "平手",
-        "away_water": "0.800",
-        "time": "08-02 19:32"
       }
     },
     {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.820",
         "time": "08-18 03:38"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "2.960↑",
+        "handicap": "一球/球半升",
+        "away_water": "0.200↓",
+        "time": "08-20 01:49"
+      },
+      "init": {
+        "home_water": "1.090",
+        "handicap": "平手",
+        "away_water": "0.800",
+        "time": "08-02 19:32"
       }
     },
     {
