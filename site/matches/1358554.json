@@ -24,7 +24,7 @@
       "lost": "2.08",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-19T15:20:08Z"
+    "fetched_at_utc": "2026-08-19T15:30:08Z"
   },
   "shuju": {
     "title": "纽约红牛VS纳什维尔(2026美职联)-数据分析-500彩票网",
@@ -728,35 +728,35 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "平手升",
-        "away_water": "0.810↓",
-        "time": "08-19 23:07"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "受平手/半球",
-        "away_water": "0.890",
-        "time": "08-14 08:35"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
-        "home_water": "0.290↓",
-        "handicap": "受一球降",
-        "away_water": "2.260↑",
-        "time": "08-19 23:11"
+        "home_water": "0.240↓",
+        "handicap": "受一球/球半降",
+        "away_water": "2.580↑",
+        "time": "08-19 23:21"
       },
       "init": {
         "home_water": "0.760",
         "handicap": "受平手/半球",
         "away_water": "0.950",
         "time": "08-02 19:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.040↑",
+        "handicap": "平手升",
+        "away_water": "0.800↓",
+        "time": "08-19 23:27"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "受平手/半球",
+        "away_water": "0.890",
+        "time": "08-14 08:35"
       }
     },
     {
