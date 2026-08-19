@@ -24,7 +24,7 @@
       "lost": "2.41",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-19T10:40:08Z"
+    "fetched_at_utc": "2026-08-19T10:50:08Z"
   },
   "shuju": {
     "title": "安养FCVS济州联队(2026/2027韩国杯)-数据分析-500彩票网",
@@ -398,14 +398,34 @@
         "formation": null,
         "starters": [
           {
-            "number": "3",
-            "name": "金智勋",
-            "position": "后卫"
+            "number": "11",
+            "name": "艾尔顿",
+            "position": "前锋"
           },
           {
-            "number": "99",
-            "name": "朱眩宇",
-            "position": "后卫"
+            "number": "28",
+            "name": "布莱斯",
+            "position": "前锋"
+          },
+          {
+            "number": "71",
+            "name": "蔡贤宇",
+            "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "韩加兰",
+            "position": "中场"
+          },
+          {
+            "number": "26",
+            "name": "李珍镕",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "金甫炅",
+            "position": "中场"
           },
           {
             "number": "22",
@@ -418,45 +438,45 @@
             "position": "后卫"
           },
           {
+            "number": "3",
+            "name": "金智勋",
+            "position": "后卫"
+          },
+          {
+            "number": "99",
+            "name": "朱眩宇",
+            "position": "后卫"
+          },
+          {
             "number": "31",
             "name": "金多率",
             "position": "守门员"
-          },
-          {
-            "number": "24",
-            "name": "金甫炅",
-            "position": "前锋"
-          },
-          {
-            "number": "13",
-            "name": "韩加兰",
-            "position": "中场"
-          },
-          {
-            "number": "71",
-            "name": "蔡贤宇",
-            "position": "前锋"
-          },
-          {
-            "number": "28",
-            "name": "布莱斯",
-            "position": "前锋"
-          },
-          {
-            "number": "26",
-            "name": "李珍镕",
-            "position": "中场"
-          },
-          {
-            "number": "11",
-            "name": "艾尔顿",
-            "position": "前锋"
           }
         ],
         "subs": [
           {
-            "number": "27",
-            "name": "崔建柱",
+            "number": "14",
+            "name": "文诚友",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "布拉尼斯拉夫·内泽维奇",
+            "position": "中场"
+          },
+          {
+            "number": "42",
+            "name": "金成东",
+            "position": "守门员"
+          },
+          {
+            "number": "25",
+            "name": "金在贤",
+            "position": "前锋"
+          },
+          {
+            "number": "47",
+            "name": "金刚",
             "position": "前锋"
           },
           {
@@ -465,39 +485,19 @@
             "position": "后卫"
           },
           {
-            "number": "47",
-            "name": "金刚",
-            "position": "前锋"
-          },
-          {
-            "number": "25",
-            "name": "金在贤",
-            "position": "后卫"
-          },
-          {
-            "number": "42",
-            "name": "金成东",
-            "position": "守门员"
-          },
-          {
-            "number": "19",
-            "name": "金云",
-            "position": "前锋"
-          },
-          {
-            "number": "18",
-            "name": "布拉尼斯拉夫·内泽维奇",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "文诚友",
+            "number": "27",
+            "name": "崔建柱",
             "position": "中场"
           },
           {
             "number": "33",
             "name": "丹尼·巴克",
             "position": "后卫"
+          },
+          {
+            "number": "19",
+            "name": "恩·金",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -507,8 +507,8 @@
         "formation": null,
         "starters": [
           {
-            "number": "47",
-            "name": "朴敏宰",
+            "number": "18",
+            "name": "金信珍",
             "position": "前锋"
           },
           {
@@ -517,24 +517,14 @@
             "position": "前锋"
           },
           {
-            "number": "6",
-            "name": "权基民",
-            "position": "后卫"
-          },
-          {
-            "number": "18",
-            "name": "金信珍",
+            "number": "11",
+            "name": "申相垠",
             "position": "前锋"
           },
           {
-            "number": "41",
-            "name": "金载雨",
-            "position": "后卫"
-          },
-          {
-            "number": "88",
-            "name": "赵仁正",
-            "position": "后卫"
+            "number": "24",
+            "name": "崔秉旭",
+            "position": "中场"
           },
           {
             "number": "20",
@@ -547,26 +537,41 @@
             "position": "中场"
           },
           {
-            "number": "24",
-            "name": "崔秉旭",
-            "position": "中场"
+            "number": "88",
+            "name": "赵仁正",
+            "position": "后卫"
+          },
+          {
+            "number": "41",
+            "name": "金载雨",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "权基敏",
+            "position": "后卫"
+          },
+          {
+            "number": "47",
+            "name": "朴敏宰",
+            "position": "后卫"
           },
           {
             "number": "81",
             "name": "许仔雄",
             "position": "守门员"
-          },
-          {
-            "number": "11",
-            "name": "申相垠",
-            "position": "前锋"
           }
         ],
         "subs": [
           {
+            "number": "22",
+            "name": "埃拉多·西纳里",
+            "position": "前锋"
+          },
+          {
             "number": "94",
             "name": "埃默森·内格巴",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "4",
@@ -594,18 +599,13 @@
             "position": "中场"
           },
           {
-            "number": "9",
-            "name": "艾亚斯·马修斯",
-            "position": "前锋"
-          },
-          {
             "number": "17",
             "name": "俞仁秀",
             "position": "中场"
           },
           {
-            "number": "22",
-            "name": "埃拉多·西纳里",
+            "number": "9",
+            "name": "马修斯·艾阿斯",
             "position": "前锋"
           }
         ],
