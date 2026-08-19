@@ -24,7 +24,7 @@
       "lost": "4.05",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-19T12:50:11Z"
+    "fetched_at_utc": "2026-08-19T13:00:11Z"
   },
   "shuju": {
     "title": "布拉迪斯拉发VS采列(2026/2027欧冠)-数据分析-500彩票网",
@@ -689,22 +689,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870",
-        "handicap": "半球降",
-        "away_water": "0.980↑",
-        "time": "08-19 19:58"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "半球/一球",
-        "away_water": "0.870",
-        "time": "08-13 03:35"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -718,6 +702,22 @@
         "handicap": "一球",
         "away_water": "0.530",
         "time": "08-12 13:44"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870",
+        "handicap": "半球降",
+        "away_water": "0.980↑",
+        "time": "08-19 19:58"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "半球/一球",
+        "away_water": "0.870",
+        "time": "08-13 03:35"
       }
     },
     {
