@@ -24,7 +24,7 @@
       "lost": "13.00",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-08-20T11:20:10Z"
+    "fetched_at_utc": "2026-08-20T11:30:10Z"
   },
   "shuju": {
     "title": "本菲卡VS奥胡斯(2026/2027欧罗巴)-数据分析-500彩票网",
@@ -676,22 +676,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "两球/两球半降",
-        "away_water": "0.840↑",
-        "time": "08-20 18:45"
-      },
-      "init": {
-        "home_water": "1.230",
-        "handicap": "两球半",
-        "away_water": "0.710",
-        "time": "08-14 18:45"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -705,6 +689,22 @@
         "handicap": "两球/两球半",
         "away_water": "0.880",
         "time": "08-15 19:29"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "两球/两球半降",
+        "away_water": "0.840↑",
+        "time": "08-20 18:45"
+      },
+      "init": {
+        "home_water": "1.230",
+        "handicap": "两球半",
+        "away_water": "0.710",
+        "time": "08-14 18:45"
       }
     },
     {
