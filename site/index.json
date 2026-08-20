@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-20T18:10:13Z",
+  "last_updated_utc": "2026-08-20T18:20:10Z",
   "matches": [
     {
       "xml_id": "2040935",
@@ -144,6 +144,42 @@
       "matchnum_label": "周五005",
       "home_team_id": "4067",
       "away_team_id": "850"
+    },
+    {
+      "xml_id": "2040965",
+      "matchnum": "5006",
+      "date": "2026-08-22",
+      "dayofweek": "星期六",
+      "league": "沙特职业联赛",
+      "home": "胡巴尔卡德西亚",
+      "away": "吉达联合",
+      "spf_win": "2.34",
+      "spf_draw": "3.75",
+      "spf_lost": "2.30",
+      "spf_updated": "2026-08-20 13:45:05",
+      "gameid": "1467685",
+      "kickoff_cst": "2026-08-22 02:00",
+      "matchnum_label": "周五006",
+      "home_team_id": "4890",
+      "away_team_id": "8310"
+    },
+    {
+      "xml_id": "2040966",
+      "matchnum": "5007",
+      "date": "2026-08-22",
+      "dayofweek": "星期六",
+      "league": "法国乙级联赛",
+      "home": "敦刻尔克",
+      "away": "蒙彼利埃",
+      "spf_win": "5.15",
+      "spf_draw": "3.85",
+      "spf_lost": "1.48",
+      "spf_updated": "2026-08-20 13:45:05",
+      "gameid": "1416872",
+      "kickoff_cst": "2026-08-22 02:00",
+      "matchnum_label": "周五007",
+      "home_team_id": "3962",
+      "away_team_id": "1090"
     },
     {
       "xml_id": "2040967",
