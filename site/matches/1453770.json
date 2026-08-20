@@ -24,7 +24,7 @@
       "lost": "4.40",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-20T19:50:07Z"
+    "fetched_at_utc": "2026-08-20T20:00:09Z"
   },
   "shuju": {
     "title": "科林蒂安VS罗萨里奥中央(2026解放者杯)-数据分析-500彩票网",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "平手/半球降",
-        "away_water": "0.940↑",
-        "time": "08-21 02:32"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "半球",
-        "away_water": "0.900",
-        "time": "08-15 08:23"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -730,13 +714,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "平手/半球降",
+        "away_water": "0.940↑",
+        "time": "08-21 02:32"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "半球",
+        "away_water": "0.900",
+        "time": "08-15 08:23"
+      }
+    },
+    {
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.900↓",
+        "home_water": "0.880↓",
         "handicap": "平手/半球降",
-        "away_water": "0.990↑",
-        "time": "08-21 02:23"
+        "away_water": "1.010↑",
+        "time": "08-21 03:50"
       },
       "init": {
         "home_water": "0.990",
