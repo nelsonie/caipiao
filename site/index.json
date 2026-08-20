@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-20T16:40:15Z",
+  "last_updated_utc": "2026-08-20T16:50:13Z",
   "matches": [
     {
       "xml_id": "2040934",
@@ -236,6 +236,24 @@
       "away_team_id": "8310"
     },
     {
+      "xml_id": "2040966",
+      "matchnum": "5007",
+      "date": "2026-08-22",
+      "dayofweek": "星期六",
+      "league": "法国乙级联赛",
+      "home": "敦刻尔克",
+      "away": "蒙彼利埃",
+      "spf_win": "5.15",
+      "spf_draw": "3.85",
+      "spf_lost": "1.48",
+      "spf_updated": "2026-08-20 13:45:05",
+      "gameid": "1416872",
+      "kickoff_cst": "2026-08-22 02:00",
+      "matchnum_label": "周五007",
+      "home_team_id": "3962",
+      "away_team_id": "1090"
+    },
+    {
       "xml_id": "2040967",
       "matchnum": "5008",
       "date": "2026-08-22",
@@ -270,6 +288,24 @@
       "matchnum_label": "周五009",
       "home_team_id": "1064",
       "away_team_id": "1194"
+    },
+    {
+      "xml_id": "2040969",
+      "matchnum": "5011",
+      "date": "2026-08-22",
+      "dayofweek": "星期六",
+      "league": "西班牙甲级联赛",
+      "home": "皇家贝蒂斯",
+      "away": "皇家社会",
+      "spf_win": "4.20",
+      "spf_draw": "3.65",
+      "spf_lost": "1.62",
+      "spf_updated": "2026-08-20 13:45:05",
+      "gameid": "1427950",
+      "kickoff_cst": "2026-08-22 03:00",
+      "matchnum_label": "周五011",
+      "home_team_id": "673",
+      "away_team_id": "885"
     },
     {
       "xml_id": "2040970",
