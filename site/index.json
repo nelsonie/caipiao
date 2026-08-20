@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-20T16:00:21Z",
+  "last_updated_utc": "2026-08-20T16:10:12Z",
   "matches": [
     {
       "xml_id": "2040934",
@@ -90,42 +90,6 @@
       "matchnum_label": "周四008",
       "home_team_id": "2553",
       "away_team_id": "1167"
-    },
-    {
-      "xml_id": "2040951",
-      "matchnum": "4004",
-      "date": "2026-08-20",
-      "dayofweek": "星期四",
-      "league": "欧罗巴联赛",
-      "home": "阿拉木图凯拉特",
-      "away": "安德莱赫特",
-      "spf_win": "1.56",
-      "spf_draw": "3.60",
-      "spf_lost": "4.75",
-      "spf_updated": "2026-08-20 21:35:17",
-      "gameid": "1464477",
-      "kickoff_cst": "2026-08-20 23:00",
-      "matchnum_label": "周四004",
-      "home_team_id": "2814",
-      "away_team_id": "590"
-    },
-    {
-      "xml_id": "2040952",
-      "matchnum": "4005",
-      "date": "2026-08-21",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "米亚尔比",
-      "away": "萨尔茨堡",
-      "spf_win": "2.04",
-      "spf_draw": "3.30",
-      "spf_lost": "2.97",
-      "spf_updated": "2026-08-20 21:43:59",
-      "gameid": "1464474",
-      "kickoff_cst": "2026-08-21 00:00",
-      "matchnum_label": "周四005",
-      "home_team_id": "2465",
-      "away_team_id": "446"
     },
     {
       "xml_id": "2040953",
