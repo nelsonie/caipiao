@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "半球/一球升",
-      "home_water": "0.740↑",
-      "away_water": "0.900↓",
+      "home_water": "0.760↑",
+      "away_water": "0.880↓",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "4.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-20T04:50:09Z"
+    "fetched_at_utc": "2026-08-20T05:00:10Z"
   },
   "shuju": {
     "title": "特拉布宗体育VS费伦茨瓦罗斯(2026/2027欧罗巴)-数据分析-500彩票网",
@@ -595,10 +595,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.740↑",
+        "home_water": "0.760↑",
         "handicap": "半球/一球升",
-        "away_water": "0.900↓",
-        "time": "08-20 12:12"
+        "away_water": "0.880↓",
+        "time": "08-20 12:20"
       },
       "init": {
         "home_water": "0.620",
@@ -675,10 +675,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.880↑",
+        "home_water": "0.830↑",
         "handicap": "半球/一球",
-        "away_water": "1.010↓",
-        "time": "08-20 12:02"
+        "away_water": "1.060↑",
+        "time": "08-20 12:46"
       },
       "init": {
         "home_water": "0.790",
@@ -704,22 +704,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.720↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.950↑",
-        "time": "08-20 12:04"
-      },
-      "init": {
-        "home_water": "1.710",
-        "handicap": "球半",
-        "away_water": "0.500",
-        "time": "08-15 21:25"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -733,6 +717,22 @@
         "handicap": "半球/一球",
         "away_water": "0.990",
         "time": "08-17 18:11"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.720↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.950↑",
+        "time": "08-20 12:04"
+      },
+      "init": {
+        "home_water": "1.710",
+        "handicap": "球半",
+        "away_water": "0.500",
+        "time": "08-15 21:25"
       }
     },
     {
@@ -771,10 +771,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.840↑",
+        "home_water": "0.830↑",
         "handicap": "半球/一球",
-        "away_water": "1.040↑",
-        "time": "08-20 12:17"
+        "away_water": "1.050↑",
+        "time": "08-20 12:28"
       },
       "init": {
         "home_water": "0.800",
@@ -787,10 +787,10 @@
       "cid": "122",
       "company": "香***",
       "live": {
-        "home_water": "0.820",
+        "home_water": "0.830↑",
         "handicap": "半球/一球",
-        "away_water": "0.950",
-        "time": "08-19 19:31"
+        "away_water": "0.970↑",
+        "time": "08-20 12:37"
       },
       "init": {
         "home_water": "0.820",
@@ -803,10 +803,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "1.090↑",
-        "handicap": "一球升",
-        "away_water": "0.770↓",
-        "time": "08-20 12:05"
+        "home_water": "0.830↑",
+        "handicap": "半球/一球",
+        "away_water": "1.050↑",
+        "time": "08-20 12:28"
       },
       "init": {
         "home_water": "0.800",
@@ -819,10 +819,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.780↓",
+        "home_water": "0.800↓",
         "handicap": "半球/一球",
-        "away_water": "0.990↑",
-        "time": "08-20 11:48"
+        "away_water": "0.970↑",
+        "time": "08-20 12:40"
       },
       "init": {
         "home_water": "0.810",
@@ -835,10 +835,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.800",
+        "home_water": "0.820↑",
         "handicap": "半球/一球",
-        "away_water": "1.020↑",
-        "time": "08-20 12:10"
+        "away_water": "1.040↑",
+        "time": "08-20 12:47"
       },
       "init": {
         "home_water": "0.800",
