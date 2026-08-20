@@ -8,8 +8,8 @@
     "away": "费伦茨瓦罗斯",
     "kickoff_cst": "2026-08-21 01:00",
     "spf": {
-      "win": "2.65",
-      "draw": "3.47",
+      "win": "2.72",
+      "draw": "3.35",
       "lost": "2.16"
     },
     "asia_main": {
@@ -24,7 +24,7 @@
       "lost": "4.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-20T09:10:10Z"
+    "fetched_at_utc": "2026-08-20T09:20:09Z"
   },
   "shuju": {
     "title": "特拉布宗体育VS费伦茨瓦罗斯(2026/2027欧罗巴)-数据分析-500彩票网",
@@ -704,22 +704,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.810↑",
-        "handicap": "半球/一球",
-        "away_water": "1.070↑",
-        "time": "08-20 16:46"
-      },
-      "init": {
-        "home_water": "0.760",
-        "handicap": "半球/一球",
-        "away_water": "0.990",
-        "time": "08-17 18:11"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -733,6 +717,22 @@
         "handicap": "球半",
         "away_water": "0.500",
         "time": "08-15 21:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↑",
+        "handicap": "半球/一球",
+        "away_water": "1.070↑",
+        "time": "08-20 16:46"
+      },
+      "init": {
+        "home_water": "0.760",
+        "handicap": "半球/一球",
+        "away_water": "0.990",
+        "time": "08-17 18:11"
       }
     },
     {
