@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>今日全部对阵 (0 场) · caipiao</title>
+<title>今日全部对阵 (9 场) · caipiao</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="alternate" type="text/markdown" href="index.md">
 <style>
@@ -82,10 +82,179 @@ button:disabled { opacity: .5; cursor: default; }
   <a href="/_meta.json">_meta.json</a>
 </nav>
 <main>
-<h1>今日全部对阵 (0 场)</h1>
-<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-08-20T03:00:06Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">0</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v"></div></div></div>
+<h1>今日全部对阵 (9 场)</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-08-20T03:10:10Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">9</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v">南美解放者杯、欧罗巴联赛、沙特职业联赛、西班牙甲级联赛</div></div></div>
+
+<section class="quick">
+  <h2>快查（9 场 · 按日期升序）</h2>
+  <ul>
+    <li><span class="meta">2026-08-20 · 欧罗巴联赛</span><span class="teams">阿拉木图凯拉特 vs 安德莱赫特</span><a class="url" href="/matches/1464477.html">{ORIGIN}/matches/1464477.html</a></li>
+<li><span class="meta">2026-08-21 · 沙特职业联赛</span><span class="teams">迈季迈阿宽广 vs 利雅得新月</span><a class="url" href="/matches/1467681.html">{ORIGIN}/matches/1467681.html</a></li>
+<li><span class="meta">2026-08-21 · 西班牙甲级联赛</span><span class="teams">巴列卡诺 vs 阿拉维斯</span><a class="url" href="/matches/1427956.html">{ORIGIN}/matches/1427956.html</a></li>
+<li><span class="meta">2026-08-21 · 南美解放者杯</span><span class="teams">科林蒂安 vs 罗萨里奥中央</span><a class="url" href="/matches/1453770.html">{ORIGIN}/matches/1453770.html</a></li>
+<li><span class="meta">2026-08-21 · 欧罗巴联赛</span><span class="teams">米亚尔比 vs 萨尔茨堡</span><a class="url" href="/matches/1464474.html">{ORIGIN}/matches/1464474.html</a></li>
+<li><span class="meta">2026-08-21 · 欧罗巴联赛</span><span class="teams">特拉布宗体育 vs 费伦茨瓦罗斯</span><a class="url" href="/matches/1464457.html">{ORIGIN}/matches/1464457.html</a></li>
+<li><span class="meta">2026-08-21 · 欧罗巴联赛</span><span class="teams">波兹南莱赫 vs 图恩</span><a class="url" href="/matches/1464478.html">{ORIGIN}/matches/1464478.html</a></li>
+<li><span class="meta">2026-08-21 · 欧罗巴联赛</span><span class="teams">贝尔格莱德红星 vs 比尔森</span><a class="url" href="/matches/1464469.html">{ORIGIN}/matches/1464469.html</a></li>
+<li><span class="meta">2026-08-21 · 欧罗巴联赛</span><span class="teams">本菲卡 vs 奥胡斯</span><a class="url" href="/matches/1464482.html">{ORIGIN}/matches/1464482.html</a></li>
+  </ul>
+  <button id="copy-all" type="button">复制全部对阵及链接</button>
+  <p class="hint">点按钮会把每场一行，格式：<code>日期 联赛 主队 vs 客队 URL</code>，复制到剪贴板。</p>
+  <script>
+    (function () {
+      var ITEMS = [{"line": "2026-08-20 欧罗巴联赛 阿拉木图凯拉特 vs 安德莱赫特 {ORIGIN}/matches/1464477.html"}, {"line": "2026-08-21 沙特职业联赛 迈季迈阿宽广 vs 利雅得新月 {ORIGIN}/matches/1467681.html"}, {"line": "2026-08-21 西班牙甲级联赛 巴列卡诺 vs 阿拉维斯 {ORIGIN}/matches/1427956.html"}, {"line": "2026-08-21 南美解放者杯 科林蒂安 vs 罗萨里奥中央 {ORIGIN}/matches/1453770.html"}, {"line": "2026-08-21 欧罗巴联赛 米亚尔比 vs 萨尔茨堡 {ORIGIN}/matches/1464474.html"}, {"line": "2026-08-21 欧罗巴联赛 特拉布宗体育 vs 费伦茨瓦罗斯 {ORIGIN}/matches/1464457.html"}, {"line": "2026-08-21 欧罗巴联赛 波兹南莱赫 vs 图恩 {ORIGIN}/matches/1464478.html"}, {"line": "2026-08-21 欧罗巴联赛 贝尔格莱德红星 vs 比尔森 {ORIGIN}/matches/1464469.html"}, {"line": "2026-08-21 欧罗巴联赛 本菲卡 vs 奥胡斯 {ORIGIN}/matches/1464482.html"}];
+      var origin = location.origin;
+      // 页面加载时把 li 里的 {ORIGIN} 占位符都换成真实域名
+      document.querySelectorAll('.quick .url').forEach(function (a) {
+        if (a.textContent.indexOf('{ORIGIN}') === 0) {
+          a.textContent = origin + a.textContent.slice('{ORIGIN}'.length);
+        }
+      });
+      var btn = document.getElementById('copy-all');
+      btn.addEventListener('click', function () {
+        var text = ITEMS.map(function (it) { return it.line.replace('{ORIGIN}', origin); }).join('\n');
+        var done = function () {
+          var prev = btn.textContent;
+          btn.textContent = '已复制 ' + ITEMS.length + ' 条 ✓';
+          btn.disabled = true;
+          setTimeout(function () { btn.textContent = prev; btn.disabled = false; }, 2000);
+        };
+        if (navigator.clipboard && window.isSecureContext) {
+          navigator.clipboard.writeText(text).then(done, function (err) {
+            alert('复制失败：' + err);
+          });
+        } else {
+          var ta = document.createElement('textarea');
+          ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+          document.body.appendChild(ta); ta.select();
+          try { document.execCommand('copy'); done(); } catch (e) { alert('复制失败'); }
+          document.body.removeChild(ta);
+        }
+      });
+    })();
+  </script>
+</section>
 
 <h1>今日全部对阵</h1>
+<h2>南美解放者杯 (1)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4003</td>
+<td>2026-08-21 星期五</td>
+<td>科林蒂安 vs 罗萨里奥中央</td>
+<td>4.12/3.20/1.74</td>
+<td><a href="matches/1453770.html">1453770</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2>欧罗巴联赛 (6)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4004</td>
+<td>2026-08-20 星期四</td>
+<td>阿拉木图凯拉特 vs 安德莱赫特</td>
+<td>1.68/3.60/3.90</td>
+<td><a href="matches/1464477.html">1464477</a></td>
+</tr>
+<tr>
+<td>4005</td>
+<td>2026-08-21 星期五</td>
+<td>米亚尔比 vs 萨尔茨堡</td>
+<td>2.04/3.55/2.80</td>
+<td><a href="matches/1464474.html">1464474</a></td>
+</tr>
+<tr>
+<td>4006</td>
+<td>2026-08-21 星期五</td>
+<td>特拉布宗体育 vs 费伦茨瓦罗斯</td>
+<td>2.65/3.47/2.16</td>
+<td><a href="matches/1464457.html">1464457</a></td>
+</tr>
+<tr>
+<td>4007</td>
+<td>2026-08-21 星期五</td>
+<td>波兹南莱赫 vs 图恩</td>
+<td>2.31/3.45/2.46</td>
+<td><a href="matches/1464478.html">1464478</a></td>
+</tr>
+<tr>
+<td>4008</td>
+<td>2026-08-21 星期五</td>
+<td>贝尔格莱德红星 vs 比尔森</td>
+<td>2.96/3.40/2.01</td>
+<td><a href="matches/1464469.html">1464469</a></td>
+</tr>
+<tr>
+<td>4009</td>
+<td>2026-08-21 星期五</td>
+<td>本菲卡 vs 奥胡斯</td>
+<td>2.18/4.00/2.38</td>
+<td><a href="matches/1464482.html">1464482</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2>沙特职业联赛 (1)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4001</td>
+<td>2026-08-21 星期五</td>
+<td>迈季迈阿宽广 vs 利雅得新月</td>
+<td>1.98/3.95/2.70</td>
+<td><a href="matches/1467681.html">1467681</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2>西班牙甲级联赛 (1)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4002</td>
+<td>2026-08-21 星期五</td>
+<td>巴列卡诺 vs 阿拉维斯</td>
+<td>4.60/3.40/1.62</td>
+<td><a href="matches/1427956.html">1427956</a></td>
+</tr>
+</tbody>
+</table></div>
 </main>
 <footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
 </body>
