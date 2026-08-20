@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-20T18:30:11Z",
+  "last_updated_utc": "2026-08-20T18:40:15Z",
   "matches": [
     {
       "xml_id": "2040935",
@@ -234,24 +234,6 @@
       "matchnum_label": "周五011",
       "home_team_id": "673",
       "away_team_id": "885"
-    },
-    {
-      "xml_id": "2040970",
-      "matchnum": "5010",
-      "date": "2026-08-22",
-      "dayofweek": "星期六",
-      "league": "英格兰超级联赛",
-      "home": "阿森纳",
-      "away": "考文垂",
-      "spf_win": "2.23",
-      "spf_draw": "3.80",
-      "spf_lost": "2.40",
-      "spf_updated": "2026-08-20 13:45:05",
-      "gameid": "1420315",
-      "kickoff_cst": "2026-08-22 03:00",
-      "matchnum_label": "周五010",
-      "home_team_id": "554",
-      "away_team_id": "930"
     }
   ]
 }
