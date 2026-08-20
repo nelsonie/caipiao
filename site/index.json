@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-20T06:40:14Z",
+  "last_updated_utc": "2026-08-20T06:50:16Z",
   "matches": [
     {
       "xml_id": "2040934",
@@ -252,24 +252,6 @@
       "matchnum_label": "周五005",
       "home_team_id": "4067",
       "away_team_id": "850"
-    },
-    {
-      "xml_id": "2040965",
-      "matchnum": "5006",
-      "date": "2026-08-22",
-      "dayofweek": "星期六",
-      "league": "沙特职业联赛",
-      "home": "胡巴尔卡德西亚",
-      "away": "吉达联合",
-      "spf_win": "2.34",
-      "spf_draw": "3.75",
-      "spf_lost": "2.30",
-      "spf_updated": "2026-08-20 13:45:05",
-      "gameid": "1467685",
-      "kickoff_cst": "2026-08-22 02:00",
-      "matchnum_label": "周五006",
-      "home_team_id": "4890",
-      "away_team_id": "8310"
     },
     {
       "xml_id": "2040966",
