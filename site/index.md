@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-08-20T14:40:14Z'
+last_updated_utc: '2026-08-20T14:50:15Z'
 total_matches: 20
 leagues_covered:
 - 南美解放者杯
