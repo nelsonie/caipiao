@@ -24,7 +24,7 @@
       "lost": "4.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-20T07:10:07Z"
+    "fetched_at_utc": "2026-08-20T07:20:09Z"
   },
   "shuju": {
     "title": "特拉布宗体育VS费伦茨瓦罗斯(2026/2027欧罗巴)-数据分析-500彩票网",
@@ -693,8 +693,8 @@
       "live": {
         "home_water": "0.810↓",
         "handicap": "半球/一球",
-        "away_water": "1.010↑",
-        "time": "08-20 14:20"
+        "away_water": "1.000↑",
+        "time": "08-20 15:08"
       },
       "init": {
         "home_water": "0.850",
@@ -704,35 +704,35 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↑",
-        "handicap": "半球/一球",
-        "away_water": "1.040↑",
-        "time": "08-20 15:06"
-      },
-      "init": {
-        "home_water": "0.760",
-        "handicap": "半球/一球",
-        "away_water": "0.990",
-        "time": "08-17 18:11"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
-        "home_water": "1.350↓",
-        "handicap": "一球/球半降",
-        "away_water": "0.550↑",
-        "time": "08-20 14:21"
+        "home_water": "0.740↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.930↑",
+        "time": "08-20 15:08"
       },
       "init": {
         "home_water": "1.710",
         "handicap": "球半",
         "away_water": "0.500",
         "time": "08-15 21:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↑",
+        "handicap": "半球/一球",
+        "away_water": "1.030↑",
+        "time": "08-20 15:08"
+      },
+      "init": {
+        "home_water": "0.760",
+        "handicap": "半球/一球",
+        "away_water": "0.990",
+        "time": "08-17 18:11"
       }
     },
     {
@@ -803,10 +803,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.830↑",
+        "home_water": "0.840↑",
         "handicap": "半球/一球",
-        "away_water": "1.050↑",
-        "time": "08-20 14:17"
+        "away_water": "1.040↑",
+        "time": "08-20 15:08"
       },
       "init": {
         "home_water": "0.800",
