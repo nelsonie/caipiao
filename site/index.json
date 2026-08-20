@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-20T13:10:14Z",
+  "last_updated_utc": "2026-08-20T13:20:17Z",
   "matches": [
     {
       "xml_id": "2040934",
@@ -117,10 +117,10 @@
       "league": "欧罗巴联赛",
       "home": "米亚尔比",
       "away": "萨尔茨堡",
-      "spf_win": "2.10",
+      "spf_win": "2.08",
       "spf_draw": "3.30",
-      "spf_lost": "2.86",
-      "spf_updated": "2026-08-20 20:59:04",
+      "spf_lost": "2.90",
+      "spf_updated": "2026-08-20 21:10:52",
       "gameid": "1464474",
       "kickoff_cst": "2026-08-21 00:00",
       "matchnum_label": "周四005",
@@ -342,24 +342,6 @@
       "matchnum_label": "周五011",
       "home_team_id": "673",
       "away_team_id": "885"
-    },
-    {
-      "xml_id": "2040970",
-      "matchnum": "5010",
-      "date": "2026-08-22",
-      "dayofweek": "星期六",
-      "league": "英格兰超级联赛",
-      "home": "阿森纳",
-      "away": "考文垂",
-      "spf_win": "2.23",
-      "spf_draw": "3.80",
-      "spf_lost": "2.40",
-      "spf_updated": "2026-08-20 13:45:05",
-      "gameid": "1420315",
-      "kickoff_cst": "2026-08-22 03:00",
-      "matchnum_label": "周五010",
-      "home_team_id": "554",
-      "away_team_id": "930"
     }
   ]
 }
