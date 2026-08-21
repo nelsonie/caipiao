@@ -24,7 +24,7 @@
       "lost": "2.70",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T16:10:21Z"
+    "fetched_at_utc": "2026-08-21T16:20:17Z"
   },
   "shuju": {
     "title": "伊普斯维奇VS桑德兰(2026/2027英超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "平手",
-        "away_water": "0.900↑",
-        "time": "08-21 22:57"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手",
-        "away_water": "0.850",
-        "time": "06-19 18:32"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.920",
         "time": "06-19 18:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "平手",
+        "away_water": "0.900↑",
+        "time": "08-21 22:57"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手",
+        "away_water": "0.850",
+        "time": "06-19 18:32"
       }
     },
     {
