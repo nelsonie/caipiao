@@ -24,7 +24,7 @@
       "lost": "6.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T01:40:08Z"
+    "fetched_at_utc": "2026-08-21T01:50:09Z"
   },
   "shuju": {
     "title": "柏太阳神VS长崎航海(2026/2027日职)-数据分析-500彩票网",
@@ -677,32 +677,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.980↑",
+        "home_water": "0.990↑",
         "handicap": "一球升",
         "away_water": "0.860↓",
-        "time": "08-21 08:56"
+        "time": "08-21 09:41"
       },
       "init": {
         "home_water": "0.820",
         "handicap": "半球/一球",
         "away_water": "1.000",
         "time": "08-17 12:28"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.960↓",
-        "handicap": "一球降",
-        "away_water": "0.790↑",
-        "time": "08-20 21:05"
-      },
-      "init": {
-        "home_water": "1.740",
-        "handicap": "球半",
-        "away_water": "0.470",
-        "time": "08-15 19:17"
       }
     },
     {
@@ -719,6 +703,22 @@
         "handicap": "半球/一球",
         "away_water": "0.980",
         "time": "08-16 12:23"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.960↓",
+        "handicap": "一球降",
+        "away_water": "0.790↑",
+        "time": "08-20 21:05"
+      },
+      "init": {
+        "home_water": "1.740",
+        "handicap": "球半",
+        "away_water": "0.470",
+        "time": "08-15 19:17"
       }
     },
     {
@@ -757,10 +757,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "1.040↑",
+        "home_water": "1.050↑",
         "handicap": "一球升",
-        "away_water": "0.880↓",
-        "time": "08-21 09:24"
+        "away_water": "0.870↓",
+        "time": "08-21 09:35"
       },
       "init": {
         "home_water": "0.840",
@@ -789,10 +789,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "1.050↑",
         "handicap": "一球升",
         "away_water": "0.870↓",
-        "time": "08-21 07:45"
+        "time": "08-21 09:34"
       },
       "init": {
         "home_water": "0.840",
@@ -805,10 +805,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.980↑",
         "handicap": "一球升",
-        "away_water": "0.840↓",
-        "time": "08-21 08:51"
+        "away_water": "0.830↓",
+        "time": "08-21 09:44"
       },
       "init": {
         "home_water": "0.820",
@@ -1965,7 +1965,7 @@
     {
       "cid": "863",
       "company": "1****",
-      "time": "2026-08-21 09:24:16",
+      "time": "2026-08-21 09:41:28",
       "odds": {
         "live": [
           "1.64",
