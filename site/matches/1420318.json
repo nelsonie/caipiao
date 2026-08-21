@@ -24,7 +24,7 @@
       "lost": "3.12",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T03:50:18Z"
+    "fetched_at_utc": "2026-08-21T04:00:19Z"
   },
   "shuju": {
     "title": "埃弗顿VS水晶宫(2026/2027英超)-数据分析-500彩票网",
@@ -783,22 +783,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "平手/半球降",
-        "away_water": "0.940↑",
-        "time": "08-21 11:39"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "半球",
-        "away_water": "0.820",
-        "time": "06-19 18:32"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -812,6 +796,22 @@
         "handicap": "平手/半球",
         "away_water": "1.120",
         "time": "06-19 18:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "平手/半球降",
+        "away_water": "0.940↑",
+        "time": "08-21 11:39"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "半球",
+        "away_water": "0.820",
+        "time": "06-19 18:32"
       }
     },
     {

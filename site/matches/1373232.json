@@ -24,7 +24,7 @@
       "lost": "1.72",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T03:50:18Z"
+    "fetched_at_utc": "2026-08-21T04:00:18Z"
   },
   "shuju": {
     "title": "安养FCVS首尔FC(2026K1联赛)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.590↓",
-        "handicap": "受半球/一球",
-        "away_water": "1.080↑",
-        "time": "08-21 10:48"
-      },
-      "init": {
-        "home_water": "0.610",
-        "handicap": "受半球/一球",
-        "away_water": "1.060",
-        "time": "08-15 19:46"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受半球",
         "away_water": "0.890",
         "time": "08-18 19:18"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.590↓",
+        "handicap": "受半球/一球",
+        "away_water": "1.080↑",
+        "time": "08-21 10:48"
+      },
+      "init": {
+        "home_water": "0.610",
+        "handicap": "受半球/一球",
+        "away_water": "1.060",
+        "time": "08-15 19:46"
       }
     },
     {

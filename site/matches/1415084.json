@@ -24,7 +24,7 @@
       "lost": "2.28",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T03:50:30Z"
+    "fetched_at_utc": "2026-08-21T04:00:30Z"
   },
   "shuju": {
     "title": "图卢兹VS里昂(2026/2027法甲)-数据分析-500彩票网",
@@ -763,22 +763,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.070↑",
-        "handicap": "平手升",
-        "away_water": "0.760↓",
-        "time": "08-21 02:05"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "受半球",
-        "away_water": "1.010",
-        "time": "07-07 12:04"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -792,6 +776,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.680",
         "time": "07-07 18:10"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.070↑",
+        "handicap": "平手升",
+        "away_water": "0.760↓",
+        "time": "08-21 02:05"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "受半球",
+        "away_water": "1.010",
+        "time": "07-07 12:04"
       }
     },
     {
