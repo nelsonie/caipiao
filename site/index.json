@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T12:00:46Z",
+  "last_updated_utc": "2026-08-21T12:10:45Z",
   "matches": [
     {
       "xml_id": "2040960",
@@ -189,10 +189,10 @@
       "league": "英格兰超级联赛",
       "home": "阿森纳",
       "away": "考文垂",
-      "spf_win": "2.28",
+      "spf_win": "2.32",
       "spf_draw": "3.80",
-      "spf_lost": "2.34",
-      "spf_updated": "2026-08-21 12:35:18",
+      "spf_lost": "2.30",
+      "spf_updated": "2026-08-21 19:58:27",
       "gameid": "1420315",
       "kickoff_cst": "2026-08-22 03:00",
       "matchnum_label": "周五010",
@@ -560,24 +560,6 @@
       "away_team_id": "917"
     },
     {
-      "xml_id": "2040997",
-      "matchnum": "6025",
-      "date": "2026-08-23",
-      "dayofweek": "星期天",
-      "league": "法国甲级联赛",
-      "home": "尼斯",
-      "away": "洛里昂",
-      "spf_win": "3.95",
-      "spf_draw": "3.60",
-      "spf_lost": "1.67",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1415082",
-      "kickoff_cst": "2026-08-23 02:45",
-      "matchnum_label": "周六025",
-      "home_team_id": "1134",
-      "away_team_id": "980"
-    },
-    {
       "xml_id": "2040998",
       "matchnum": "6026",
       "date": "2026-08-23",
@@ -704,24 +686,6 @@
       "away_team_id": "834"
     },
     {
-      "xml_id": "2041009",
-      "matchnum": "7009",
-      "date": "2026-08-23",
-      "dayofweek": "星期天",
-      "league": "英格兰超级联赛",
-      "home": "曼彻斯特城",
-      "away": "伯恩茅斯",
-      "spf_win": "2.00",
-      "spf_draw": "3.80",
-      "spf_lost": "2.74",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1420336",
-      "kickoff_cst": "2026-08-23 21:00",
-      "matchnum_label": "周日009",
-      "home_team_id": "1072",
-      "away_team_id": "667"
-    },
-    {
       "xml_id": "2041010",
       "matchnum": "7010",
       "date": "2026-08-23",
@@ -756,24 +720,6 @@
       "matchnum_label": "周日011",
       "home_team_id": "731",
       "away_team_id": "660"
-    },
-    {
-      "xml_id": "2041012",
-      "matchnum": "7012",
-      "date": "2026-08-23",
-      "dayofweek": "星期天",
-      "league": "葡萄牙超级联赛",
-      "home": "吉马良斯",
-      "away": "葡萄牙国民",
-      "spf_win": "2.90",
-      "spf_draw": "3.30",
-      "spf_lost": "2.08",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1438073",
-      "kickoff_cst": "2026-08-23 22:30",
-      "matchnum_label": "周日012",
-      "home_team_id": "893",
-      "away_team_id": "1099"
     },
     {
       "xml_id": "2041014",
