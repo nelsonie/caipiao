@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T07:30:43Z",
+  "last_updated_utc": "2026-08-21T07:40:43Z",
   "matches": [
     {
       "xml_id": "2040960",
@@ -810,24 +810,6 @@
       "matchnum_label": "周日015",
       "home_team_id": "1046",
       "away_team_id": "683"
-    },
-    {
-      "xml_id": "2041017",
-      "matchnum": "7017",
-      "date": "2026-08-23",
-      "dayofweek": "星期天",
-      "league": "英格兰超级联赛",
-      "home": "纽卡斯尔联",
-      "away": "利物浦",
-      "spf_win": "1.82",
-      "spf_draw": "3.90",
-      "spf_lost": "3.10",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1420339",
-      "kickoff_cst": "2026-08-23 23:30",
-      "matchnum_label": "周日017",
-      "home_team_id": "1137",
-      "away_team_id": "1011"
     },
     {
       "xml_id": "2041018",
