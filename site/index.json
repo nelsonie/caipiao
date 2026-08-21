@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T07:10:47Z",
+  "last_updated_utc": "2026-08-21T07:20:44Z",
   "matches": [
     {
       "xml_id": "2040960",
@@ -171,10 +171,10 @@
       "league": "西班牙甲级联赛",
       "home": "皇家贝蒂斯",
       "away": "皇家社会",
-      "spf_win": "4.05",
-      "spf_draw": "3.58",
-      "spf_lost": "1.66",
-      "spf_updated": "2026-08-21 12:15:00",
+      "spf_win": "3.90",
+      "spf_draw": "3.55",
+      "spf_lost": "1.69",
+      "spf_updated": "2026-08-21 15:16:28",
       "gameid": "1427950",
       "kickoff_cst": "2026-08-22 03:00",
       "matchnum_label": "周五011",
@@ -954,6 +954,24 @@
       "matchnum_label": "周日025",
       "home_team_id": "694",
       "away_team_id": "5551"
+    },
+    {
+      "xml_id": "2041039",
+      "matchnum": "6007",
+      "date": "2026-08-22",
+      "dayofweek": "星期六",
+      "league": "英格兰超级联赛",
+      "home": "赫尔城",
+      "away": "曼彻斯特联",
+      "spf_win": "3.32",
+      "spf_draw": "3.80",
+      "spf_lost": "1.77",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1420317",
+      "kickoff_cst": "2026-08-22 19:30",
+      "matchnum_label": "周六007",
+      "home_team_id": "872",
+      "away_team_id": "1075"
     }
   ]
 }
