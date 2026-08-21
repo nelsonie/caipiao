@@ -24,7 +24,7 @@
       "lost": "7.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T04:20:33Z"
+    "fetched_at_utc": "2026-08-21T04:30:33Z"
   },
   "shuju": {
     "title": "PSV埃因霍温VS格罗宁根(2026/2027荷甲)-数据分析-500彩票网",
@@ -668,8 +668,8 @@
       "live": {
         "home_water": "0.850",
         "handicap": "球半",
-        "away_water": "0.850",
-        "time": "08-20 20:17"
+        "away_water": "0.830↓",
+        "time": "08-21 10:32"
       },
       "init": {
         "home_water": "0.850",
@@ -743,35 +743,35 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "球半升",
-        "away_water": "0.940↑",
-        "time": "08-21 08:06"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "一球/球半",
-        "away_water": "0.900",
-        "time": "08-16 17:11"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
         "home_water": "0.900↓",
         "handicap": "球半",
         "away_water": "0.950↑",
-        "time": "08-21 08:15"
+        "time": "08-21 11:24"
       },
       "init": {
         "home_water": "0.970",
         "handicap": "球半",
         "away_water": "0.880",
         "time": "08-16 22:03"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "球半升",
+        "away_water": "0.940↑",
+        "time": "08-21 11:40"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "一球/球半",
+        "away_water": "0.900",
+        "time": "08-16 17:11"
       }
     },
     {
@@ -874,10 +874,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.910↓",
+        "home_water": "0.900↓",
         "handicap": "球半",
-        "away_water": "0.970↑",
-        "time": "08-21 04:33"
+        "away_water": "0.980↑",
+        "time": "08-21 12:06"
       },
       "init": {
         "home_water": "0.930",
@@ -2018,7 +2018,7 @@
     {
       "cid": "1259",
       "company": "1****",
-      "time": "2026-08-21 06:34:54",
+      "time": "2026-08-21 11:45:07",
       "odds": {
         "live": [
           "1.47",
