@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-08-21T01:50:11Z'
+last_updated_utc: '2026-08-21T02:00:10Z'
 total_matches: 11
 leagues_covered:
 - 日本职业联赛
