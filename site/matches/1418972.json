@@ -24,7 +24,7 @@
       "lost": "4.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T14:00:16Z"
+    "fetched_at_utc": "2026-08-21T14:10:20Z"
   },
   "shuju": {
     "title": "鹿岛鹿角VS福冈黄蜂(2026/2027日职)-数据分析-500彩票网",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010",
-        "handicap": "半球/一球",
-        "away_water": "0.840",
-        "time": "08-21 17:26"
-      },
-      "init": {
-        "home_water": "1.010",
-        "handicap": "半球/一球",
-        "away_water": "0.840",
-        "time": "08-16 13:32"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "球半",
         "away_water": "0.330",
         "time": "08-15 19:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010",
+        "handicap": "半球/一球",
+        "away_water": "0.840",
+        "time": "08-21 17:26"
+      },
+      "init": {
+        "home_water": "1.010",
+        "handicap": "半球/一球",
+        "away_water": "0.840",
+        "time": "08-16 13:32"
       }
     },
     {
