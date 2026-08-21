@@ -24,7 +24,7 @@
       "lost": "1.16",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T13:10:09Z"
+    "fetched_at_utc": "2026-08-21T13:20:07Z"
   },
   "shuju": {
     "title": "利雅得体育VS利雅得胜利(2026/2027沙特联)-数据分析-500彩票网",
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "受球半/两球",
-        "away_water": "0.930↑",
-        "time": "08-21 21:05"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "受球半/两球",
-        "away_water": "0.810",
-        "time": "08-20 12:01"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "受球半/两球",
         "away_water": "0.730",
         "time": "08-16 02:56"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "受球半/两球",
+        "away_water": "0.940↑",
+        "time": "08-21 21:07"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "受球半/两球",
+        "away_water": "0.810",
+        "time": "08-20 12:01"
       }
     },
     {
@@ -810,10 +810,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.930↓",
+        "home_water": "0.950↓",
         "handicap": "受球半/两球",
-        "away_water": "0.970↑",
-        "time": "08-21 21:03"
+        "away_water": "0.950↑",
+        "time": "08-21 21:07"
       },
       "init": {
         "home_water": "0.960",
