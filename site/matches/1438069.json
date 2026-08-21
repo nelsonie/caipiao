@@ -24,7 +24,7 @@
       "lost": "3.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T10:30:23Z"
+    "fetched_at_utc": "2026-08-21T10:40:22Z"
   },
   "shuju": {
     "title": "马里迪莫VS维塞乌(2026/2027葡超)-数据分析-500彩票网",
@@ -687,10 +687,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "1.020",
+        "home_water": "1.050↑",
         "handicap": "半球",
-        "away_water": "0.820",
-        "time": "08-18 03:24"
+        "away_water": "0.800↓",
+        "time": "08-21 17:38"
       },
       "init": {
         "home_water": "1.020",
@@ -748,22 +748,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.050↓",
-        "handicap": "半球",
-        "away_water": "0.820↑",
-        "time": "08-21 17:02"
-      },
-      "init": {
-        "home_water": "1.070",
-        "handicap": "半球",
-        "away_water": "0.810",
-        "time": "08-17 23:02"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -777,6 +761,22 @@
         "handicap": "平手",
         "away_water": "1.590",
         "time": "08-17 18:33"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.050↓",
+        "handicap": "半球",
+        "away_water": "0.820↑",
+        "time": "08-21 17:02"
+      },
+      "init": {
+        "home_water": "1.070",
+        "handicap": "半球",
+        "away_water": "0.810",
+        "time": "08-17 23:02"
       }
     },
     {
@@ -863,10 +863,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "1.060↑",
+        "home_water": "1.050↑",
         "handicap": "半球升",
-        "away_water": "0.820↓",
-        "time": "08-21 14:52"
+        "away_water": "0.830↓",
+        "time": "08-21 17:58"
       },
       "init": {
         "home_water": "0.840",
