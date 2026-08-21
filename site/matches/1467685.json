@@ -24,7 +24,7 @@
       "lost": "4.82",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T17:10:08Z"
+    "fetched_at_utc": "2026-08-21T17:20:06Z"
   },
   "shuju": {
     "title": "卡达西亚VS吉达联合(2026/2027沙特联)-数据分析-500彩票网",
@@ -398,23 +398,28 @@
         "formation": null,
         "starters": [
           {
+            "number": "33",
+            "name": "胡利安·基尼奥内斯",
+            "position": "前锋"
+          },
+          {
             "number": "32",
             "name": "马特奥·雷特吉",
             "position": "前锋"
           },
           {
-            "number": "9",
-            "name": "阿卜杜拉·萨利姆",
-            "position": "前锋"
-          },
-          {
             "number": "22",
             "name": "克里斯托弗·巴阿",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "25",
             "name": "奥塔维奥",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "尤利安·魏格尔",
             "position": "中场"
           },
           {
@@ -423,13 +428,8 @@
             "position": "中场"
           },
           {
-            "number": "40",
-            "name": "易卜拉欣·莫汉纳西",
-            "position": "中场"
-          },
-          {
-            "number": "5",
-            "name": "尤利安·魏格尔",
+            "number": "2",
+            "name": "穆罕默德·阿布·沙马特",
             "position": "中场"
           },
           {
@@ -443,8 +443,8 @@
             "position": "后卫"
           },
           {
-            "number": "12",
-            "name": "亚西尔·沙赫拉尼",
+            "number": "4",
+            "name": "吉哈德·塔克里",
             "position": "后卫"
           },
           {
@@ -455,8 +455,18 @@
         ],
         "subs": [
           {
-            "number": "4",
-            "name": "吉哈德·塔克里",
+            "number": "15",
+            "name": "穆罕默德·哈马德·卡塔尼",
+            "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "阿卜杜拉·萨利姆",
+            "position": "前锋"
+          },
+          {
+            "number": "12",
+            "name": "亚西尔·沙赫拉尼",
             "position": "后卫"
           },
           {
@@ -465,9 +475,14 @@
             "position": "守门员"
           },
           {
-            "number": "33",
-            "name": "胡利安·基尼奥内斯",
-            "position": "前锋"
+            "number": "14",
+            "name": "蒂贾尼·赖因德斯",
+            "position": "中场"
+          },
+          {
+            "number": "40",
+            "name": "易卜拉欣·莫汉纳西",
+            "position": "中场"
           },
           {
             "number": "27",
@@ -475,34 +490,9 @@
             "position": "中场"
           },
           {
-            "number": "11",
-            "name": "阿里·哈扎齐",
-            "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "穆罕默德·哈马德·卡塔尼",
-            "position": "中场"
-          },
-          {
             "number": "90",
             "name": "阿马尔·尤海比",
             "position": "中场"
-          },
-          {
-            "number": "2",
-            "name": "穆罕默德·阿布·沙马特",
-            "position": "中场"
-          },
-          {
-            "number": "77",
-            "name": "苏尔坦·哈鲁恩",
-            "position": "前锋"
-          },
-          {
-            "number": "60",
-            "name": "瓦菲·阿尔·阿克拉比",
-            "position": "守门员"
           },
           {
             "number": "7",
@@ -517,24 +507,19 @@
         "formation": null,
         "starters": [
           {
-            "number": "9",
-            "name": "乔治·伊列尼赫纳",
+            "number": "34",
+            "name": "史蒂文·贝尔温",
             "position": "前锋"
           },
           {
-            "number": "27",
-            "name": "艾哈迈德·加姆迪",
-            "position": "中场"
+            "number": "21",
+            "name": "尤瑟夫·恩-内斯里",
+            "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "胡萨姆·阿瓦尔",
-            "position": "中场"
-          },
-          {
-            "number": "22",
-            "name": "马尔万·萨哈菲",
-            "position": "中场"
+            "number": "9",
+            "name": "乔治·伊列尼赫纳",
+            "position": "前锋"
           },
           {
             "number": "60",
@@ -547,8 +532,13 @@
             "position": "中场"
           },
           {
-            "number": "42",
-            "name": "穆阿特·法基希",
+            "number": "10",
+            "name": "胡萨姆·阿瓦尔",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "法里斯·阿布迪",
             "position": "后卫"
           },
           {
@@ -557,8 +547,8 @@
             "position": "后卫"
           },
           {
-            "number": "2",
-            "name": "达尼洛·佩雷拉",
+            "number": "3",
+            "name": "斯蒂芬·凯勒",
             "position": "后卫"
           },
           {
@@ -574,19 +564,14 @@
         ],
         "subs": [
           {
-            "number": "41",
-            "name": "穆罕默德·艾哈迈德·法拉塔",
-            "position": "中场"
+            "number": "50",
+            "name": "穆罕默德·阿布西",
+            "position": "守门员"
           },
           {
-            "number": "3",
-            "name": "斯蒂芬·凯勒",
-            "position": "后卫"
-          },
-          {
-            "number": "29",
-            "name": "法哈·沙姆拉尼",
-            "position": "中场"
+            "number": "27",
+            "name": "艾哈迈德·加姆迪",
+            "position": "前锋"
           },
           {
             "number": "32",
@@ -594,33 +579,13 @@
             "position": "后卫"
           },
           {
-            "number": "50",
-            "name": "穆罕默德·阿布西",
-            "position": "守门员"
-          },
-          {
-            "number": "21",
-            "name": "尤瑟夫·恩-内斯里",
+            "number": "22",
+            "name": "马尔万·萨哈菲",
             "position": "前锋"
           },
           {
-            "number": "35",
-            "name": "法里斯·阿布迪",
-            "position": "后卫"
-          },
-          {
-            "number": "34",
-            "name": "史蒂文·贝尔温",
-            "position": "前锋"
-          },
-          {
-            "number": "66",
-            "name": "穆罕默德·巴纳维",
-            "position": "后卫"
-          },
-          {
-            "number": "8",
-            "name": "穆赫塔尔·阿里",
+            "number": "29",
+            "name": "法哈·沙姆拉尼",
             "position": "中场"
           },
           {
@@ -629,9 +594,19 @@
             "position": "前锋"
           },
           {
-            "number": "88",
-            "name": "奥萨马·马鲁什",
-            "position": "守门员"
+            "number": "8",
+            "name": "穆赫塔尔·阿里",
+            "position": "中场"
+          },
+          {
+            "number": "66",
+            "name": "穆罕默德·巴纳维",
+            "position": "后卫"
+          },
+          {
+            "number": "42",
+            "name": "穆阿特·法基希",
+            "position": "后卫"
           }
         ],
         "injured": [],

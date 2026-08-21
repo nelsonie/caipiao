@@ -24,7 +24,7 @@
       "lost": "3.57",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T17:10:40Z"
+    "fetched_at_utc": "2026-08-21T17:20:34Z"
   },
   "shuju": {
     "title": "威尼斯VS莱切(2026/2027意甲)-数据分析-500彩票网",
@@ -396,15 +396,259 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "10",
+            "name": "霍恩·耶博阿",
+            "position": "前锋"
+          },
+          {
+            "number": "45",
+            "name": "阿科·亚当斯",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "西蒙·索姆",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "詹卢卡·布西奥",
+            "position": "中场"
+          },
+          {
+            "number": "71",
+            "name": "恩里克·佩雷斯·穆尼奥斯",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "安托万·海诺",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "里奇西亚诺·哈普斯",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "拉德万·哈勒哈勒",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "阿米尔·贝拉-科沙",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "乔尔·辛蒂安",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "菲利普·斯坦科维奇",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "20",
+            "name": "里奇·萨格拉多",
+            "position": "后卫"
+          },
+          {
+            "number": "8",
+            "name": "拉敏·达波",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "马尔科·法尔吉",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "马泰奥·格兰迪",
+            "position": "守门员"
+          },
+          {
+            "number": "21",
+            "name": "约翰·托里·赫尔加松",
+            "position": "中场"
+          },
+          {
+            "number": "29",
+            "name": "里恩·劳伯巴赫",
+            "position": "前锋"
+          },
+          {
+            "number": "56",
+            "name": "科内尔·利斯曼",
+            "position": "中场"
+          },
+          {
+            "number": "4",
+            "name": "巴托·弗兰季奇",
+            "position": "后卫"
+          },
+          {
+            "number": "90",
+            "name": "阿尔文·奥科罗",
+            "position": "前锋"
+          },
+          {
+            "number": "55",
+            "name": "西蒙尼·帕纳达",
+            "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "阿莱西奥·埃奥齐",
+            "position": "守门员"
+          },
+          {
+            "number": "14",
+            "name": "蒂埃里·科雷亚",
+            "position": "后卫"
+          },
+          {
+            "number": "7",
+            "name": "阿尔比恩·拉赫马尼",
+            "position": "前锋"
+          },
+          {
+            "number": "95",
+            "name": "亚历杭德罗·戈麦斯·富尔塔多",
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "马蒂亚斯·莫雷诺",
+            "position": "后卫"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "69",
+            "name": "威廉·热贝尔斯",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "科南·恩德里",
+            "position": "中场"
+          },
+          {
+            "number": "29",
+            "name": "拉萨那·库利巴里",
+            "position": "中场"
+          },
+          {
+            "number": "50",
+            "name": "圣地亚哥·皮耶罗蒂",
+            "position": "中场"
+          },
+          {
+            "number": "79",
+            "name": "奥马尔·恩戈姆",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "优素福·马勒",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "安东尼奥·加洛",
+            "position": "后卫"
+          },
+          {
+            "number": "44",
+            "name": "蒂亚戈·加布里埃尔",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "齐亚隆达·加斯帕",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "达尼洛·维加",
+            "position": "后卫"
+          },
+          {
+            "number": "30",
+            "name": "法尔科内",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "3",
+            "name": "科里·纳德巴",
+            "position": "后卫"
+          },
+          {
+            "number": "8",
+            "name": "萨迪克·福法纳",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "奥姆里·甘德尔曼",
+            "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "奥拉夫·戈特",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "加比·吉恩",
+            "position": "后卫"
+          },
+          {
+            "number": "77",
+            "name": "穆罕默德·卡巴",
+            "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "尼古拉·斯图利奇",
+            "position": "前锋"
+          },
+          {
+            "number": "33",
+            "name": "普拉门·佩内夫",
+            "position": "守门员"
+          },
+          {
+            "number": "22",
+            "name": "帕科·埃斯特班",
+            "position": "前锋"
+          },
+          {
+            "number": "12",
+            "name": "克里斯蒂安·卢波",
+            "position": "守门员"
+          },
+          {
+            "number": "34",
+            "name": "贾尔特·莱尔克",
+            "position": "前锋"
+          }
+        ],
         "injured": [],
         "suspended": []
       }

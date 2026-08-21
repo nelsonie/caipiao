@@ -24,7 +24,7 @@
       "lost": "3.40",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T17:10:08Z"
+    "fetched_at_utc": "2026-08-21T17:20:05Z"
   },
   "shuju": {
     "title": "邓博施VS埃因霍温FC(2026/2027荷乙)-数据分析-500彩票网",
@@ -398,6 +398,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "40",
+            "name": "伊利亚斯·布马萨乌迪",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "塞巴斯蒂安·卡尔森·格拉奇",
             "position": "前锋"
@@ -408,13 +413,13 @@
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "德文·芬德尔·德科尔特",
+            "number": "18",
+            "name": "赫塞尔·艾克尔布姆",
             "position": "中场"
           },
           {
-            "number": "40",
-            "name": "伊利亚斯·布马萨乌迪",
+            "number": "10",
+            "name": "德文·芬德尔·德科尔特",
             "position": "中场"
           },
           {
@@ -423,23 +428,18 @@
             "position": "中场"
           },
           {
-            "number": "18",
-            "name": "赫塞尔·艾克尔布姆",
-            "position": "中场"
-          },
-          {
             "number": "33",
             "name": "米斯·拉罗斯",
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "贾斯珀·范希特姆",
+            "number": "3",
+            "name": "斯坦·马斯",
             "position": "后卫"
           },
           {
-            "number": "3",
-            "name": "斯坦·马斯",
+            "number": "4",
+            "name": "贾斯珀·范希特姆",
             "position": "后卫"
           },
           {
@@ -455,19 +455,14 @@
         ],
         "subs": [
           {
-            "number": "55",
-            "name": "乔瓦尼·赫塞尔斯",
-            "position": "中场"
+            "number": "31",
+            "name": "埃米尔·拜尔斯玛",
+            "position": "守门员"
           },
           {
-            "number": "27",
-            "name": "洛伦佐·霍夫曼",
-            "position": "前锋"
-          },
-          {
-            "number": "41",
-            "name": "卡伊·德鲁伊",
-            "position": "中场"
+            "number": "25",
+            "name": "西尔万·布罗克尔",
+            "position": "后卫"
           },
           {
             "number": "39",
@@ -475,8 +470,23 @@
             "position": "中场"
           },
           {
+            "number": "41",
+            "name": "卡伊·德鲁伊",
+            "position": "中场"
+          },
+          {
             "number": "19",
             "name": "拉菲·沃尔特斯",
+            "position": "前锋"
+          },
+          {
+            "number": "16",
+            "name": "王博豪",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "根里奇·西勒",
             "position": "前锋"
           },
           {
@@ -487,16 +497,6 @@
           {
             "number": "21",
             "name": "芬恩·穆尔",
-            "position": "守门员"
-          },
-          {
-            "number": "25",
-            "name": "西尔万·布罗克尔",
-            "position": "后卫"
-          },
-          {
-            "number": "31",
-            "name": "埃米尔·拜尔斯玛",
             "position": "守门员"
           },
           {
@@ -512,13 +512,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "19",
-            "name": "西格特·巴特曼斯",
+            "number": "9",
+            "name": "凯文范维恩",
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "蒂斯·穆勒",
+            "number": "19",
+            "name": "西格特·巴特曼斯",
             "position": "前锋"
           },
           {
@@ -527,8 +527,8 @@
             "position": "中场"
           },
           {
-            "number": "13",
-            "name": "阿米尔·布赖森",
+            "number": "11",
+            "name": "米卡·德容格",
             "position": "中场"
           },
           {
@@ -537,13 +537,13 @@
             "position": "中场"
           },
           {
-            "number": "11",
-            "name": "米卡·德容格",
+            "number": "35",
+            "name": "延斯·埃尔伯斯",
             "position": "中场"
           },
           {
-            "number": "2",
-            "name": "泰瑞斯·西蒙斯",
+            "number": "20",
+            "name": "拉夫·范·德·里特",
             "position": "后卫"
           },
           {
@@ -569,43 +569,23 @@
         ],
         "subs": [
           {
-            "number": "27",
-            "name": "埃姆雷·埃克西",
+            "number": "29",
+            "name": "海曼·阿里",
+            "position": "后卫"
+          },
+          {
+            "number": "13",
+            "name": "阿米尔·布赖森",
             "position": "前锋"
           },
           {
-            "number": "35",
-            "name": "延斯·埃尔伯斯",
-            "position": "后卫"
+            "number": "7",
+            "name": "雨果·迪南",
+            "position": "前锋"
           },
           {
-            "number": "5",
-            "name": "伦斯·布恩",
-            "position": "后卫"
-          },
-          {
-            "number": "31",
-            "name": "詹森",
-            "position": "守门员"
-          },
-          {
-            "number": "23",
-            "name": "瑞安·梅耶尔",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "尼克·芒斯特",
-            "position": "中场"
-          },
-          {
-            "number": "17",
-            "name": "吕克·内托",
-            "position": "后卫"
-          },
-          {
-            "number": "21",
-            "name": "阿金·奥兹詹",
+            "number": "27",
+            "name": "埃姆雷·埃克西",
             "position": "前锋"
           },
           {
@@ -614,19 +594,39 @@
             "position": "中场"
           },
           {
-            "number": "20",
-            "name": "拉夫·范·德·里特",
+            "number": "21",
+            "name": "阿金·奥兹詹",
+            "position": "前锋"
+          },
+          {
+            "number": "17",
+            "name": "吕克·内托",
             "position": "后卫"
           },
           {
-            "number": "29",
-            "name": "海曼·阿里",
-            "position": "后卫"
+            "number": "14",
+            "name": "尼克·芒斯特",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "瑞安·梅耶尔",
+            "position": "中场"
+          },
+          {
+            "number": "31",
+            "name": "詹森",
+            "position": "守门员"
           },
           {
             "number": "30",
             "name": "尼诺·范西托",
             "position": "守门员"
+          },
+          {
+            "number": "5",
+            "name": "伦斯·布恩",
+            "position": "后卫"
           }
         ],
         "injured": [],
