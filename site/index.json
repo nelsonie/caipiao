@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T08:00:45Z",
+  "last_updated_utc": "2026-08-21T08:10:43Z",
   "matches": [
     {
       "xml_id": "2040960",
@@ -252,24 +252,6 @@
       "matchnum_label": "周六003",
       "home_team_id": "753",
       "away_team_id": "1178"
-    },
-    {
-      "xml_id": "2040977",
-      "matchnum": "6004",
-      "date": "2026-08-22",
-      "dayofweek": "星期六",
-      "league": "日本乙级联赛",
-      "home": "磐田喜悦",
-      "away": "德岛漩涡",
-      "spf_win": "5.31",
-      "spf_draw": "3.70",
-      "spf_lost": "1.49",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1419023",
-      "kickoff_cst": "2026-08-22 18:00",
-      "matchnum_label": "周六004",
-      "home_team_id": "1151",
-      "away_team_id": "3840"
     },
     {
       "xml_id": "2040978",

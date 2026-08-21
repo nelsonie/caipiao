@@ -24,7 +24,7 @@
       "lost": "3.27",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T08:00:30Z"
+    "fetched_at_utc": "2026-08-21T08:10:27Z"
   },
   "shuju": {
     "title": "尼斯VS洛里昂(2026/2027法甲)-数据分析-500彩票网",
@@ -636,22 +636,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.890↓",
-        "handicap": "平手/半球",
-        "away_water": "1.050↑",
-        "time": "08-20 19:38"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "平手/半球",
-        "away_water": "0.970",
-        "time": "07-07 18:10"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -664,6 +648,22 @@
         "home_water": "0.890",
         "handicap": "平手/半球",
         "away_water": "0.910",
+        "time": "07-07 18:10"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.890↓",
+        "handicap": "平手/半球",
+        "away_water": "1.050↑",
+        "time": "08-20 19:38"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "平手/半球",
+        "away_water": "0.970",
         "time": "07-07 18:10"
       }
     },
