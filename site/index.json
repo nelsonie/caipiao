@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T23:00:37Z",
+  "last_updated_utc": "2026-08-21T23:10:35Z",
   "matches": [
     {
       "xml_id": "2040974",
@@ -198,24 +198,6 @@
       "matchnum_label": "周六015",
       "home_team_id": "1050",
       "away_team_id": "2174"
-    },
-    {
-      "xml_id": "2040988",
-      "matchnum": "6016",
-      "date": "2026-08-22",
-      "dayofweek": "星期六",
-      "league": "西班牙甲级联赛",
-      "home": "毕尔巴鄂竞技",
-      "away": "塞维利亚",
-      "spf_win": "3.15",
-      "spf_draw": "3.15",
-      "spf_lost": "2.03",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1427948",
-      "kickoff_cst": "2026-08-22 23:00",
-      "matchnum_label": "周六016",
-      "home_team_id": "690",
-      "away_team_id": "464"
     },
     {
       "xml_id": "2040989",
