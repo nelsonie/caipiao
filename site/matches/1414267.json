@@ -24,7 +24,7 @@
       "lost": "3.57",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T21:00:34Z"
+    "fetched_at_utc": "2026-08-21T21:10:32Z"
   },
   "shuju": {
     "title": "威尼斯VS莱切(2026/2027意甲)-数据分析-500彩票网",
@@ -768,22 +768,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "平手/半球",
-        "away_water": "1.000↑",
-        "time": "08-22 01:21"
-      },
-      "init": {
-        "home_water": "1.040",
-        "handicap": "平手/半球",
-        "away_water": "0.900",
-        "time": "06-28 03:13"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -797,6 +781,22 @@
         "handicap": "平手/半球",
         "away_water": "0.870",
         "time": "06-21 08:16"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "平手/半球",
+        "away_water": "1.000↑",
+        "time": "08-22 01:21"
+      },
+      "init": {
+        "home_water": "1.040",
+        "handicap": "平手/半球",
+        "away_water": "0.900",
+        "time": "06-28 03:13"
       }
     },
     {
