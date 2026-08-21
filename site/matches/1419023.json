@@ -24,7 +24,7 @@
       "lost": "2.91",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T15:40:17Z"
+    "fetched_at_utc": "2026-08-21T15:50:17Z"
   },
   "shuju": {
     "title": "磐田喜悦VS德岛漩涡(2026/2027日职乙)-数据分析-500彩票网",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.700↓",
-        "handicap": "平手",
-        "away_water": "0.990↑",
-        "time": "08-21 18:08"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "平手",
-        "away_water": "0.930",
-        "time": "08-16 19:02"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "平手",
         "away_water": "1.090",
         "time": "08-18 19:12"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.700↓",
+        "handicap": "平手",
+        "away_water": "0.990↑",
+        "time": "08-21 18:08"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "平手",
+        "away_water": "0.930",
+        "time": "08-16 19:02"
       }
     },
     {
