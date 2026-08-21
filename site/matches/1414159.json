@@ -24,7 +24,7 @@
       "lost": "1.56",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T16:40:48Z"
+    "fetched_at_utc": "2026-08-21T16:50:41Z"
   },
   "shuju": {
     "title": "都灵VSAC米兰(2026/2027意甲)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↑",
-        "handicap": "受半球/一球",
-        "away_water": "1.040↓",
-        "time": "08-21 17:46"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "受半球/一球",
-        "away_water": "1.070",
-        "time": "07-03 22:34"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "受半球/一球",
         "away_water": "1.070",
         "time": "06-30 21:31"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↑",
+        "handicap": "受半球/一球",
+        "away_water": "1.040↓",
+        "time": "08-21 17:46"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "受半球/一球",
+        "away_water": "1.070",
+        "time": "07-03 22:34"
       }
     },
     {
