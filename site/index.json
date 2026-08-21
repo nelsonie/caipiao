@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T11:00:45Z",
+  "last_updated_utc": "2026-08-21T11:10:42Z",
   "matches": [
     {
       "xml_id": "2040960",
@@ -306,24 +306,6 @@
       "matchnum_label": "周六006",
       "home_team_id": "4544",
       "away_team_id": "1606"
-    },
-    {
-      "xml_id": "2040982",
-      "matchnum": "6010",
-      "date": "2026-08-22",
-      "dayofweek": "星期六",
-      "league": "英格兰超级联赛",
-      "home": "埃弗顿",
-      "away": "水晶宫",
-      "spf_win": "4.50",
-      "spf_draw": "3.65",
-      "spf_lost": "1.58",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1420318",
-      "kickoff_cst": "2026-08-22 22:00",
-      "matchnum_label": "周六010",
-      "home_team_id": "565",
-      "away_team_id": "516"
     },
     {
       "xml_id": "2040983",
@@ -884,42 +866,6 @@
       "away_team_id": "261"
     },
     {
-      "xml_id": "2041021",
-      "matchnum": "7021",
-      "date": "2026-08-24",
-      "dayofweek": "星期一",
-      "league": "西班牙甲级联赛",
-      "home": "赫塔费",
-      "away": "桑坦德竞技",
-      "spf_win": "4.20",
-      "spf_draw": "3.40",
-      "spf_lost": "1.68",
-      "spf_updated": "2026-08-21 10:42:17",
-      "gameid": "1427953",
-      "kickoff_cst": "2026-08-24 01:30",
-      "matchnum_label": "周日021",
-      "home_team_id": "838",
-      "away_team_id": "471"
-    },
-    {
-      "xml_id": "2041022",
-      "matchnum": "7022",
-      "date": "2026-08-24",
-      "dayofweek": "星期一",
-      "league": "意大利甲级联赛",
-      "home": "都灵",
-      "away": "AC米兰",
-      "spf_win": "2.07",
-      "spf_draw": "3.32",
-      "spf_lost": "2.90",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1414159",
-      "kickoff_cst": "2026-08-24 02:45",
-      "matchnum_label": "周日022",
-      "home_team_id": "776",
-      "away_team_id": "210"
-    },
-    {
       "xml_id": "2041024",
       "matchnum": "7024",
       "date": "2026-08-24",
@@ -936,24 +882,6 @@
       "matchnum_label": "周日024",
       "home_team_id": "564",
       "away_team_id": "653"
-    },
-    {
-      "xml_id": "2041025",
-      "matchnum": "7025",
-      "date": "2026-08-24",
-      "dayofweek": "星期一",
-      "league": "葡萄牙超级联赛",
-      "home": "波尔图",
-      "away": "阿罗卡",
-      "spf_win": "2.75",
-      "spf_draw": "3.95",
-      "spf_lost": "1.95",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1438067",
-      "kickoff_cst": "2026-08-24 03:30",
-      "matchnum_label": "周日025",
-      "home_team_id": "694",
-      "away_team_id": "5551"
     },
     {
       "xml_id": "2041039",
