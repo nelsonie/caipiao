@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T03:10:37Z",
+  "last_updated_utc": "2026-08-21T03:20:44Z",
   "matches": [
     {
       "xml_id": "2040960",
@@ -27,10 +27,10 @@
       "league": "日本职业联赛",
       "home": "东京FC",
       "away": "千叶市原",
-      "spf_win": "2.33",
+      "spf_win": "2.38",
       "spf_draw": "3.25",
-      "spf_lost": "2.55",
-      "spf_updated": "2026-08-20 13:45:05",
+      "spf_lost": "2.50",
+      "spf_updated": "2026-08-21 11:06:58",
       "gameid": "1419230",
       "kickoff_cst": "2026-08-21 18:30",
       "matchnum_label": "周五002",
@@ -776,6 +776,24 @@
       "away_team_id": "1099"
     },
     {
+      "xml_id": "2041014",
+      "matchnum": "7014",
+      "date": "2026-08-23",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "坎布尔",
+      "away": "费耶诺德",
+      "spf_win": "2.09",
+      "spf_draw": "4.15",
+      "spf_lost": "2.44",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1415880",
+      "kickoff_cst": "2026-08-23 22:45",
+      "matchnum_label": "周日014",
+      "home_team_id": "235",
+      "away_team_id": "801"
+    },
+    {
       "xml_id": "2041015",
       "matchnum": "7015",
       "date": "2026-08-23",
@@ -810,6 +828,24 @@
       "matchnum_label": "周日017",
       "home_team_id": "1137",
       "away_team_id": "1011"
+    },
+    {
+      "xml_id": "2041018",
+      "matchnum": "7018",
+      "date": "2026-08-24",
+      "dayofweek": "星期一",
+      "league": "意大利甲级联赛",
+      "home": "弗洛西诺内",
+      "away": "尤文图斯",
+      "spf_win": "2.82",
+      "spf_draw": "3.45",
+      "spf_lost": "2.06",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1414208",
+      "kickoff_cst": "2026-08-24 00:30",
+      "matchnum_label": "周日018",
+      "home_team_id": "2000",
+      "away_team_id": "1330"
     },
     {
       "xml_id": "2041019",
