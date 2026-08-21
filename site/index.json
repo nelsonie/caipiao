@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T20:50:35Z",
+  "last_updated_utc": "2026-08-21T21:00:38Z",
   "matches": [
     {
       "xml_id": "2040974",
@@ -344,6 +344,42 @@
       "away_team_id": "1125"
     },
     {
+      "xml_id": "2040996",
+      "matchnum": "6024",
+      "date": "2026-08-23",
+      "dayofweek": "星期天",
+      "league": "意大利甲级联赛",
+      "home": "帕尔马",
+      "away": "卡利亚里",
+      "spf_win": "5.70",
+      "spf_draw": "3.65",
+      "spf_lost": "1.47",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1414252",
+      "kickoff_cst": "2026-08-23 02:45",
+      "matchnum_label": "周六024",
+      "home_team_id": "1149",
+      "away_team_id": "917"
+    },
+    {
+      "xml_id": "2040997",
+      "matchnum": "6025",
+      "date": "2026-08-23",
+      "dayofweek": "星期天",
+      "league": "法国甲级联赛",
+      "home": "尼斯",
+      "away": "洛里昂",
+      "spf_win": "3.95",
+      "spf_draw": "3.60",
+      "spf_lost": "1.67",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1415082",
+      "kickoff_cst": "2026-08-23 02:45",
+      "matchnum_label": "周六025",
+      "home_team_id": "1134",
+      "away_team_id": "980"
+    },
+    {
       "xml_id": "2040998",
       "matchnum": "6026",
       "date": "2026-08-23",
@@ -360,6 +396,24 @@
       "matchnum_label": "周六026",
       "home_team_id": "1233",
       "away_team_id": "997"
+    },
+    {
+      "xml_id": "2040999",
+      "matchnum": "6027",
+      "date": "2026-08-23",
+      "dayofweek": "星期天",
+      "league": "西班牙甲级联赛",
+      "home": "西班牙人",
+      "away": "皇家马德里",
+      "spf_win": "2.70",
+      "spf_draw": "3.45",
+      "spf_lost": "2.13",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1427952",
+      "kickoff_cst": "2026-08-23 03:30",
+      "matchnum_label": "周六027",
+      "home_team_id": "1283",
+      "away_team_id": "883"
     },
     {
       "xml_id": "2041001",
