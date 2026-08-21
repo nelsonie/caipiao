@@ -24,7 +24,7 @@
       "lost": "3.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T10:20:44Z"
+    "fetched_at_utc": "2026-08-21T10:30:44Z"
   },
   "shuju": {
     "title": "赫塔费VS桑坦德竞技(2026/2027西甲)-数据分析-500彩票网",
@@ -463,10 +463,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.800↓",
         "handicap": "平手/半球降",
-        "away_water": "1.020↑",
-        "time": "08-19 19:40"
+        "away_water": "1.050↑",
+        "time": "08-21 18:26"
       },
       "init": {
         "home_water": "0.900",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.890↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.050↑",
-        "time": "08-21 13:56"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "半球/一球",
-        "away_water": "0.730",
-        "time": "08-02 18:04"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "半球",
         "away_water": "0.910",
         "time": "08-16 03:28"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.890↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.050↑",
+        "time": "08-21 13:56"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "半球/一球",
+        "away_water": "0.730",
+        "time": "08-02 18:04"
       }
     },
     {
