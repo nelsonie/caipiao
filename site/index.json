@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T09:20:46Z",
+  "last_updated_utc": "2026-08-21T09:30:45Z",
   "matches": [
     {
       "xml_id": "2040960",
@@ -27,10 +27,10 @@
       "league": "日本职业联赛",
       "home": "东京FC",
       "away": "千叶市原",
-      "spf_win": "2.57",
+      "spf_win": "2.62",
       "spf_draw": "3.32",
-      "spf_lost": "2.28",
-      "spf_updated": "2026-08-21 16:10:06",
+      "spf_lost": "2.24",
+      "spf_updated": "2026-08-21 17:22:52",
       "gameid": "1419230",
       "kickoff_cst": "2026-08-21 18:30",
       "matchnum_label": "周五002",
@@ -900,6 +900,24 @@
       "matchnum_label": "周日021",
       "home_team_id": "838",
       "away_team_id": "471"
+    },
+    {
+      "xml_id": "2041022",
+      "matchnum": "7022",
+      "date": "2026-08-24",
+      "dayofweek": "星期一",
+      "league": "意大利甲级联赛",
+      "home": "都灵",
+      "away": "AC米兰",
+      "spf_win": "2.07",
+      "spf_draw": "3.32",
+      "spf_lost": "2.90",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1414159",
+      "kickoff_cst": "2026-08-24 02:45",
+      "matchnum_label": "周日022",
+      "home_team_id": "776",
+      "away_team_id": "210"
     },
     {
       "xml_id": "2041024",
