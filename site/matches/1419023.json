@@ -24,7 +24,7 @@
       "lost": "2.91",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T10:00:17Z"
+    "fetched_at_utc": "2026-08-21T10:10:16Z"
   },
   "shuju": {
     "title": "磐田喜悦VS德岛漩涡(2026/2027日职乙)-数据分析-500彩票网",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.760↑",
-        "handicap": "平手",
-        "away_water": "1.080↓",
-        "time": "08-21 12:08"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "平手",
-        "away_water": "1.090",
-        "time": "08-18 19:12"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -744,13 +728,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.760↑",
+        "handicap": "平手",
+        "away_water": "1.070↓",
+        "time": "08-21 18:04"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "平手",
+        "away_water": "1.090",
+        "time": "08-18 19:12"
+      }
+    },
+    {
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.760↓",
+        "home_water": "0.770↓",
         "handicap": "平手降",
         "away_water": "1.090↑",
-        "time": "08-21 06:02"
+        "time": "08-21 18:00"
       },
       "init": {
         "home_water": "0.940",
@@ -813,8 +813,8 @@
       "live": {
         "home_water": "0.740↓",
         "handicap": "平手",
-        "away_water": "1.020↑",
-        "time": "08-21 17:02"
+        "away_water": "1.030↑",
+        "time": "08-21 17:10"
       },
       "init": {
         "home_water": "0.790",
