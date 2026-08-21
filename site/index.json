@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T23:20:38Z",
+  "last_updated_utc": "2026-08-21T23:30:35Z",
   "matches": [
     {
       "xml_id": "2040974",
@@ -452,6 +452,24 @@
       "away_team_id": "1164"
     },
     {
+      "xml_id": "2041003",
+      "matchnum": "7003",
+      "date": "2026-08-23",
+      "dayofweek": "星期天",
+      "league": "韩国职业联赛",
+      "home": "大田市民",
+      "away": "江原FC",
+      "spf_win": "5.90",
+      "spf_draw": "4.00",
+      "spf_lost": "1.41",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1373201",
+      "kickoff_cst": "2026-08-23 18:30",
+      "matchnum_label": "周日003",
+      "home_team_id": "1611",
+      "away_team_id": "5739"
+    },
+    {
       "xml_id": "2041005",
       "matchnum": "7005",
       "date": "2026-08-23",
@@ -666,6 +684,24 @@
       "matchnum_label": "周日020",
       "home_team_id": "470",
       "away_team_id": "261"
+    },
+    {
+      "xml_id": "2041021",
+      "matchnum": "7021",
+      "date": "2026-08-24",
+      "dayofweek": "星期一",
+      "league": "西班牙甲级联赛",
+      "home": "赫塔费",
+      "away": "桑坦德竞技",
+      "spf_win": "4.20",
+      "spf_draw": "3.40",
+      "spf_lost": "1.68",
+      "spf_updated": "2026-08-21 10:42:17",
+      "gameid": "1427953",
+      "kickoff_cst": "2026-08-24 01:30",
+      "matchnum_label": "周日021",
+      "home_team_id": "838",
+      "away_team_id": "471"
     },
     {
       "xml_id": "2041022",
