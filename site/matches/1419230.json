@@ -24,7 +24,7 @@
       "lost": "6.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T12:20:09Z"
+    "fetched_at_utc": "2026-08-21T12:30:08Z"
   },
   "shuju": {
     "title": "东京FCVS千叶市原(2026/2027日职)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "一球降",
-        "away_water": "0.990↑",
-        "time": "08-21 18:32"
-      },
-      "init": {
-        "home_water": "1.480",
-        "handicap": "球半",
-        "away_water": "0.550",
-        "time": "08-15 19:17"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球",
         "away_water": "0.960",
         "time": "08-16 12:22"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "一球降",
+        "away_water": "0.990↑",
+        "time": "08-21 18:32"
+      },
+      "init": {
+        "home_water": "1.480",
+        "handicap": "球半",
+        "away_water": "0.550",
+        "time": "08-15 19:17"
       }
     },
     {
