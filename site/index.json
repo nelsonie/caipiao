@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T12:40:45Z",
+  "last_updated_utc": "2026-08-21T12:50:46Z",
   "matches": [
     {
       "xml_id": "2040960",
@@ -776,42 +776,6 @@
       "away_team_id": "1099"
     },
     {
-      "xml_id": "2041014",
-      "matchnum": "7014",
-      "date": "2026-08-23",
-      "dayofweek": "星期天",
-      "league": "荷兰甲级联赛",
-      "home": "坎布尔",
-      "away": "费耶诺德",
-      "spf_win": "2.09",
-      "spf_draw": "4.15",
-      "spf_lost": "2.44",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1415880",
-      "kickoff_cst": "2026-08-23 22:45",
-      "matchnum_label": "周日014",
-      "home_team_id": "235",
-      "away_team_id": "801"
-    },
-    {
-      "xml_id": "2041015",
-      "matchnum": "7015",
-      "date": "2026-08-23",
-      "dayofweek": "星期天",
-      "league": "西班牙甲级联赛",
-      "home": "马德里竞技",
-      "away": "比利亚雷亚尔",
-      "spf_win": "3.15",
-      "spf_draw": "3.55",
-      "spf_lost": "1.89",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1427949",
-      "kickoff_cst": "2026-08-23 23:00",
-      "matchnum_label": "周日015",
-      "home_team_id": "1046",
-      "away_team_id": "683"
-    },
-    {
       "xml_id": "2041017",
       "matchnum": "7017",
       "date": "2026-08-23",
@@ -884,24 +848,6 @@
       "away_team_id": "261"
     },
     {
-      "xml_id": "2041021",
-      "matchnum": "7021",
-      "date": "2026-08-24",
-      "dayofweek": "星期一",
-      "league": "西班牙甲级联赛",
-      "home": "赫塔费",
-      "away": "桑坦德竞技",
-      "spf_win": "4.20",
-      "spf_draw": "3.40",
-      "spf_lost": "1.68",
-      "spf_updated": "2026-08-21 10:42:17",
-      "gameid": "1427953",
-      "kickoff_cst": "2026-08-24 01:30",
-      "matchnum_label": "周日021",
-      "home_team_id": "838",
-      "away_team_id": "471"
-    },
-    {
       "xml_id": "2041022",
       "matchnum": "7022",
       "date": "2026-08-24",
@@ -918,24 +864,6 @@
       "matchnum_label": "周日022",
       "home_team_id": "776",
       "away_team_id": "210"
-    },
-    {
-      "xml_id": "2041024",
-      "matchnum": "7024",
-      "date": "2026-08-24",
-      "dayofweek": "星期一",
-      "league": "西班牙甲级联赛",
-      "home": "埃尔切",
-      "away": "巴塞罗那",
-      "spf_win": "3.35",
-      "spf_draw": "3.90",
-      "spf_lost": "1.74",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1427951",
-      "kickoff_cst": "2026-08-24 03:30",
-      "matchnum_label": "周日024",
-      "home_team_id": "564",
-      "away_team_id": "653"
     },
     {
       "xml_id": "2041025",
