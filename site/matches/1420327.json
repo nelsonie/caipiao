@@ -24,7 +24,7 @@
       "lost": "2.66",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-21T11:30:24Z"
+    "fetched_at_utc": "2026-08-21T11:40:23Z"
   },
   "shuju": {
     "title": "布伦特福德VS托特纳姆热刺(2026/2027英超)-数据分析-500彩票网",
@@ -733,22 +733,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "平手",
-        "away_water": "1.100↑",
-        "time": "08-21 14:01"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "平手",
-        "away_water": "0.980",
-        "time": "06-19 17:58"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -762,6 +746,22 @@
         "handicap": "平手",
         "away_water": "0.900",
         "time": "06-19 18:30"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "平手",
+        "away_water": "1.100↑",
+        "time": "08-21 14:01"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "平手",
+        "away_water": "0.980",
+        "time": "06-19 17:58"
       }
     },
     {
