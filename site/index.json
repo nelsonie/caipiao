@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T20:10:36Z",
+  "last_updated_utc": "2026-08-21T20:20:38Z",
   "matches": [
     {
       "xml_id": "2040974",
@@ -110,42 +110,6 @@
       "away_team_id": "1606"
     },
     {
-      "xml_id": "2040982",
-      "matchnum": "6010",
-      "date": "2026-08-22",
-      "dayofweek": "星期六",
-      "league": "英格兰超级联赛",
-      "home": "埃弗顿",
-      "away": "水晶宫",
-      "spf_win": "4.50",
-      "spf_draw": "3.65",
-      "spf_lost": "1.58",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1420318",
-      "kickoff_cst": "2026-08-22 22:00",
-      "matchnum_label": "周六010",
-      "home_team_id": "565",
-      "away_team_id": "516"
-    },
-    {
-      "xml_id": "2040983",
-      "matchnum": "6011",
-      "date": "2026-08-22",
-      "dayofweek": "星期六",
-      "league": "英格兰超级联赛",
-      "home": "诺丁汉森林",
-      "away": "利兹联",
-      "spf_win": "4.60",
-      "spf_draw": "3.70",
-      "spf_lost": "1.56",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1420323",
-      "kickoff_cst": "2026-08-22 22:00",
-      "matchnum_label": "周六011",
-      "home_team_id": "1142",
-      "away_team_id": "1015"
-    },
-    {
       "xml_id": "2040984",
       "matchnum": "6012",
       "date": "2026-08-22",
@@ -252,6 +216,24 @@
       "matchnum_label": "周六018",
       "home_team_id": "1361",
       "away_team_id": "1238"
+    },
+    {
+      "xml_id": "2040991",
+      "matchnum": "6019",
+      "date": "2026-08-23",
+      "dayofweek": "星期天",
+      "league": "意大利甲级联赛",
+      "home": "乌迪内斯",
+      "away": "科莫",
+      "spf_win": "2.01",
+      "spf_draw": "3.25",
+      "spf_lost": "3.10",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1414260",
+      "kickoff_cst": "2026-08-23 00:30",
+      "matchnum_label": "周六019",
+      "home_team_id": "1276",
+      "away_team_id": "935"
     },
     {
       "xml_id": "2040992",
@@ -470,6 +452,24 @@
       "away_team_id": "695"
     },
     {
+      "xml_id": "2041008",
+      "matchnum": "7008",
+      "date": "2026-08-23",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "PSV埃因霍温",
+      "away": "格罗宁根",
+      "spf_win": "1.77",
+      "spf_draw": "4.05",
+      "spf_lost": "3.15",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1415878",
+      "kickoff_cst": "2026-08-23 20:30",
+      "matchnum_label": "周日008",
+      "home_team_id": "378",
+      "away_team_id": "834"
+    },
+    {
       "xml_id": "2041009",
       "matchnum": "7009",
       "date": "2026-08-23",
@@ -504,6 +504,24 @@
       "matchnum_label": "周日010",
       "home_team_id": "597",
       "away_team_id": "998"
+    },
+    {
+      "xml_id": "2041011",
+      "matchnum": "7011",
+      "date": "2026-08-23",
+      "dayofweek": "星期天",
+      "league": "德国杯",
+      "home": "不伦瑞克",
+      "away": "柏林联合",
+      "spf_win": "1.89",
+      "spf_draw": "3.60",
+      "spf_lost": "3.10",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1414808",
+      "kickoff_cst": "2026-08-23 21:30",
+      "matchnum_label": "周日011",
+      "home_team_id": "731",
+      "away_team_id": "660"
     },
     {
       "xml_id": "2041012",
