@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-08-21T21:30:18Z"
+    "fetched_at_utc": "2026-08-21T21:40:20Z"
   },
   "shuju": {
     "title": "国际米兰VS蒙扎(2026/2027意甲)-数据分析-500彩票网",
@@ -713,10 +713,10 @@
       "cid": "4",
       "company": "I**********",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.900↑",
         "handicap": "两球升",
-        "away_water": "0.800↓",
-        "time": "08-22 04:13"
+        "away_water": "0.830↓",
+        "time": "08-22 05:24"
       },
       "init": {
         "home_water": "0.670",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "两球升",
-        "away_water": "0.820↓",
-        "time": "08-22 05:12"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "球半/两球",
-        "away_water": "0.990",
-        "time": "06-29 16:03"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -786,6 +770,22 @@
         "home_water": "0.910",
         "handicap": "球半/两球",
         "away_water": "0.970",
+        "time": "06-29 16:03"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "两球升",
+        "away_water": "0.820↓",
+        "time": "08-22 05:12"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "球半/两球",
+        "away_water": "0.990",
         "time": "06-29 16:03"
       }
     },
