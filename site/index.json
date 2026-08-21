@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T17:40:43Z",
+  "last_updated_utc": "2026-08-21T17:50:40Z",
   "matches": [
     {
       "xml_id": "2040965",
@@ -774,24 +774,6 @@
       "matchnum_label": "周日019",
       "home_team_id": "1249",
       "away_team_id": "972"
-    },
-    {
-      "xml_id": "2041020",
-      "matchnum": "7020",
-      "date": "2026-08-24",
-      "dayofweek": "星期一",
-      "league": "葡萄牙超级联赛",
-      "home": "圣克拉拉",
-      "away": "法马利康",
-      "spf_win": "6.50",
-      "spf_draw": "3.85",
-      "spf_lost": "1.40",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1438071",
-      "kickoff_cst": "2026-08-24 01:00",
-      "matchnum_label": "周日020",
-      "home_team_id": "470",
-      "away_team_id": "261"
     },
     {
       "xml_id": "2041021",
