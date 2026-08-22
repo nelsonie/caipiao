@@ -24,7 +24,7 @@
       "lost": "5.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T22:40:10Z"
+    "fetched_at_utc": "2026-08-22T22:50:09Z"
   },
   "shuju": {
     "title": "温哥华白帽VS达拉斯FC(2026美职联)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.000↓",
-        "handicap": "一球/球半降",
-        "away_water": "0.810↑",
-        "time": "08-23 05:14"
-      },
-      "init": {
-        "home_water": "1.250",
-        "handicap": "球半",
-        "away_water": "0.710",
-        "time": "08-16 17:40"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球/球半",
         "away_water": "0.820",
         "time": "08-16 19:43"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.000↓",
+        "handicap": "一球/球半降",
+        "away_water": "0.810↑",
+        "time": "08-23 05:14"
+      },
+      "init": {
+        "home_water": "1.250",
+        "handicap": "球半",
+        "away_water": "0.710",
+        "time": "08-16 17:40"
       }
     },
     {
@@ -795,10 +795,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.830↓",
         "handicap": "一球降",
-        "away_water": "1.060↑",
-        "time": "08-23 05:26"
+        "away_water": "1.070↑",
+        "time": "08-23 06:46"
       },
       "init": {
         "home_water": "0.970",
@@ -1072,7 +1072,7 @@
     {
       "cid": "3",
       "company": "B*****",
-      "time": "2026-08-23 06:30:37",
+      "time": "2026-08-23 06:43:05",
       "odds": {
         "live": [
           "1.48",
