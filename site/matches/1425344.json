@@ -8,9 +8,9 @@
     "away": "谢菲尔德联",
     "kickoff_cst": "2026-08-22 22:00",
     "spf": {
-      "win": "5.40",
-      "draw": "4.10",
-      "lost": "1.43"
+      "win": "5.60",
+      "draw": "4.15",
+      "lost": "1.41"
     },
     "asia_main": {
       "handicap": "平手降",
@@ -24,7 +24,7 @@
       "lost": "2.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T13:10:15Z"
+    "fetched_at_utc": "2026-08-22T13:20:14Z"
   },
   "shuju": {
     "title": "斯旺西VS谢菲尔德联(2026/2027英冠)-数据分析-500彩票网",
@@ -398,9 +398,9 @@
         "formation": null,
         "starters": [
           {
-            "number": "9",
-            "name": "赞·维波特尼克",
-            "position": "前锋"
+            "number": "22",
+            "name": "劳伦斯·维戈罗克斯",
+            "position": "守门员"
           },
           {
             "number": "49",
@@ -408,24 +408,9 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "马尔科·斯塔梅尼奇",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "以利亚·贾斯特",
-            "position": "中场"
-          },
-          {
-            "number": "30",
-            "name": "约瑟夫·阿曼夸·奥波库",
-            "position": "中场"
-          },
-          {
-            "number": "4",
-            "name": "杰·富尔顿",
-            "position": "中场"
+            "number": "23",
+            "name": "斯蒂芬·威尔士",
+            "position": "后卫"
           },
           {
             "number": "14",
@@ -433,14 +418,14 @@
             "position": "后卫"
           },
           {
-            "number": "23",
-            "name": "斯蒂芬·威尔士",
-            "position": "后卫"
+            "number": "6",
+            "name": "马尔科·斯塔梅尼奇",
+            "position": "中场"
           },
           {
-            "number": "5",
-            "name": "本·卡班戈",
-            "position": "后卫"
+            "number": "30",
+            "name": "约瑟夫·阿曼夸·奥波库",
+            "position": "前锋"
           },
           {
             "number": "26",
@@ -448,9 +433,24 @@
             "position": "后卫"
           },
           {
-            "number": "22",
-            "name": "劳伦斯·维戈罗克斯",
-            "position": "守门员"
+            "number": "8",
+            "name": "以利亚·贾斯特",
+            "position": "前锋"
+          },
+          {
+            "number": "33",
+            "name": "亚当·伊达",
+            "position": "前锋"
+          },
+          {
+            "number": "4",
+            "name": "杰·富尔顿",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "本·卡班戈",
+            "position": "后卫"
           }
         ],
         "subs": [
@@ -460,29 +460,19 @@
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "严智星",
+            "number": "21",
+            "name": "里奥·沃尔塔",
+            "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "赞·维波特尼克",
             "position": "前锋"
           },
           {
-            "number": "1",
-            "name": "安德鲁·费舍尔",
-            "position": "守门员"
-          },
-          {
-            "number": "33",
-            "name": "亚当·伊达",
+            "number": "11",
+            "name": "罗斯·斯图尔特",
             "position": "前锋"
-          },
-          {
-            "number": "2",
-            "name": "乔希·凯",
-            "position": "后卫"
-          },
-          {
-            "number": "20",
-            "name": "蒂亚戈·帕伦特",
-            "position": "后卫"
           },
           {
             "number": "35",
@@ -490,14 +480,24 @@
             "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "里奥·沃尔塔",
-            "position": "中场"
+            "number": "20",
+            "name": "蒂亚戈·帕伦特",
+            "position": "后卫"
           },
           {
-            "number": "50",
-            "name": "卡特·海伍德",
+            "number": "2",
+            "name": "乔希·凯",
             "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "安德鲁·费舍尔",
+            "position": "守门员"
+          },
+          {
+            "number": "10",
+            "name": "严智星",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -507,23 +507,28 @@
         "formation": null,
         "starters": [
           {
-            "number": "9",
-            "name": "托马斯·坎农",
-            "position": "前锋"
-          },
-          {
             "number": "45",
             "name": "帕特里克·班福德",
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "卡勒姆·奥黑尔",
-            "position": "中场"
+            "number": "14",
+            "name": "哈里森·布洛斯",
+            "position": "后卫"
           },
           {
-            "number": "11",
-            "name": "罗梅勒·多诺万",
+            "number": "3",
+            "name": "萨姆·麦卡勒姆",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "马克·麦吉尼斯",
+            "position": "后卫"
+          },
+          {
+            "number": "10",
+            "name": "卡勒姆·奥黑尔",
             "position": "中场"
           },
           {
@@ -537,21 +542,6 @@
             "position": "中场"
           },
           {
-            "number": "3",
-            "name": "萨姆·麦卡勒姆",
-            "position": "后卫"
-          },
-          {
-            "number": "25",
-            "name": "马克·麦吉尼斯",
-            "position": "后卫"
-          },
-          {
-            "number": "5",
-            "name": "贾菲特·坦甘加",
-            "position": "后卫"
-          },
-          {
             "number": "38",
             "name": "费米·塞里基",
             "position": "后卫"
@@ -560,17 +550,37 @@
             "number": "1",
             "name": "迈克尔·库珀",
             "position": "守门员"
+          },
+          {
+            "number": "4",
+            "name": "奥莱·阿布拉斯特",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "贾菲特·坦甘加",
+            "position": "后卫"
           }
         ],
         "subs": [
           {
-            "number": "44",
-            "name": "里尔德沃德",
-            "position": "中场"
+            "number": "16",
+            "name": "贾米·沙克莱顿",
+            "position": "后卫"
           },
           {
-            "number": "26",
-            "name": "里昂·奥内",
+            "number": "44",
+            "name": "里尔德沃德",
+            "position": "后卫"
+          },
+          {
+            "number": "30",
+            "name": "里斯·戴维斯",
+            "position": "后卫"
+          },
+          {
+            "number": "11",
+            "name": "罗梅勒·多诺万",
             "position": "前锋"
           },
           {
@@ -584,29 +594,19 @@
             "position": "守门员"
           },
           {
-            "number": "19",
-            "name": "陈达毅",
-            "position": "中场"
-          },
-          {
-            "number": "4",
-            "name": "奥莱·阿布拉斯特",
-            "position": "中场"
-          },
-          {
-            "number": "33",
-            "name": "贾马尔·巴蒂斯特",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "哈里森·布洛斯",
-            "position": "后卫"
+            "number": "9",
+            "name": "托马斯·坎农",
+            "position": "前锋"
           },
           {
             "number": "23",
             "name": "泰尔斯·坎贝尔",
             "position": "前锋"
+          },
+          {
+            "number": "33",
+            "name": "贾马尔·巴蒂斯特",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -635,10 +635,10 @@
       "cid": "5",
       "company": "*门",
       "live": {
-        "home_water": "0.760",
+        "home_water": "0.880↑",
         "handicap": "平手",
-        "away_water": "1.020",
-        "time": "08-17 20:49"
+        "away_water": "0.900↓",
+        "time": "08-22 21:14"
       },
       "init": {
         "home_water": "0.760",
@@ -699,10 +699,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.870↑",
+        "home_water": "0.980↑",
         "handicap": "平手",
-        "away_water": "1.020↓",
-        "time": "08-22 19:57"
+        "away_water": "0.910↓",
+        "time": "08-22 21:15"
       },
       "init": {
         "home_water": "0.800",
@@ -715,10 +715,10 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.830↑",
+        "home_water": "0.940↑",
         "handicap": "平手",
-        "away_water": "1.010↓",
-        "time": "08-22 21:03"
+        "away_water": "0.910↓",
+        "time": "08-22 21:16"
       },
       "init": {
         "home_water": "0.750",
@@ -731,10 +731,10 @@
       "cid": "1484",
       "company": "o***",
       "live": {
-        "home_water": "0.790",
+        "home_water": "0.860↑",
         "handicap": "平手",
-        "away_water": "0.960↑",
-        "time": "08-22 20:44"
+        "away_water": "0.880↓",
+        "time": "08-22 21:17"
       },
       "init": {
         "home_water": "0.790",
@@ -747,10 +747,10 @@
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.860↓",
         "handicap": "平手",
-        "away_water": "1.010↑",
-        "time": "08-22 20:59"
+        "away_water": "1.000↑",
+        "time": "08-22 21:16"
       },
       "init": {
         "home_water": "0.880",
@@ -763,10 +763,10 @@
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.950↓",
         "handicap": "平手",
-        "away_water": "1.060↑",
-        "time": "08-22 21:00"
+        "away_water": "0.950↑",
+        "time": "08-22 21:11"
       },
       "init": {
         "home_water": "1.040",
@@ -779,10 +779,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.860↑",
+        "home_water": "0.970↑",
         "handicap": "平手",
-        "away_water": "1.040↓",
-        "time": "08-22 21:03"
+        "away_water": "0.930↓",
+        "time": "08-22 21:16"
       },
       "init": {
         "home_water": "0.750",
@@ -795,10 +795,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.860↓",
+        "home_water": "1.000↓",
         "handicap": "平手降",
-        "away_water": "1.040↑",
-        "time": "08-22 21:03"
+        "away_water": "0.900↑",
+        "time": "08-22 21:17"
       },
       "init": {
         "home_water": "1.070",
@@ -811,10 +811,10 @@
       "cid": "122",
       "company": "香***",
       "live": {
-        "home_water": "0.840↓",
+        "home_water": "0.860↑",
         "handicap": "平手",
-        "away_water": "0.960↑",
-        "time": "08-22 20:31"
+        "away_water": "0.940↑",
+        "time": "08-22 21:16"
       },
       "init": {
         "home_water": "0.850",
@@ -827,10 +827,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.980↓",
         "handicap": "平手降",
-        "away_water": "1.050↑",
-        "time": "08-22 20:22"
+        "away_water": "0.920↑",
+        "time": "08-22 21:14"
       },
       "init": {
         "home_water": "1.070",
@@ -843,10 +843,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.750↓",
+        "home_water": "0.840↑",
         "handicap": "平手",
-        "away_water": "1.080↑",
-        "time": "08-22 19:56"
+        "away_water": "0.970↑",
+        "time": "08-22 21:16"
       },
       "init": {
         "home_water": "0.820",
@@ -859,10 +859,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.870↓",
+        "home_water": "0.970↑",
         "handicap": "平手",
-        "away_water": "1.030↑",
-        "time": "08-22 20:53"
+        "away_water": "0.930↓",
+        "time": "08-22 21:17"
       },
       "init": {
         "home_water": "0.890",
