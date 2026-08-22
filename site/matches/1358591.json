@@ -24,7 +24,7 @@
       "lost": "5.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T07:40:27Z"
+    "fetched_at_utc": "2026-08-22T07:50:27Z"
   },
   "shuju": {
     "title": "温哥华白帽VS达拉斯FC(2026美职联)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↓",
-        "handicap": "一球/球半",
-        "away_water": "0.850↑",
-        "time": "08-22 15:09"
-      },
-      "init": {
-        "home_water": "1.020",
-        "handicap": "一球/球半",
-        "away_water": "0.820",
-        "time": "08-16 19:43"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "球半",
         "away_water": "0.710",
         "time": "08-16 17:40"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↓",
+        "handicap": "一球/球半",
+        "away_water": "0.850↑",
+        "time": "08-22 15:09"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "一球/球半",
+        "away_water": "0.820",
+        "time": "08-16 19:43"
       }
     },
     {
