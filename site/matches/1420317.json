@@ -24,7 +24,7 @@
       "lost": "1.22",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T13:20:52Z"
+    "fetched_at_utc": "2026-08-22T13:30:53Z"
   },
   "shuju": {
     "title": "赫尔城VS曼彻斯特联(2026/2027英超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "受球半降",
-        "away_water": "0.940↑",
-        "time": "08-22 19:28"
-      },
-      "init": {
-        "home_water": "1.100",
-        "handicap": "受一球",
-        "away_water": "0.720",
-        "time": "06-19 18:04"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受一球/球半",
         "away_water": "1.000",
         "time": "06-19 18:00"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "受球半降",
+        "away_water": "0.940↑",
+        "time": "08-22 19:28"
+      },
+      "init": {
+        "home_water": "1.100",
+        "handicap": "受一球",
+        "away_water": "0.720",
+        "time": "06-19 18:04"
       }
     },
     {
