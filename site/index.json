@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-22T10:40:52Z",
+  "last_updated_utc": "2026-08-22T10:50:53Z",
   "matches": [
     {
       "xml_id": "2040974",
@@ -72,42 +72,6 @@
       "matchnum_label": "周六004",
       "home_team_id": "1151",
       "away_team_id": "3840"
-    },
-    {
-      "xml_id": "2040978",
-      "matchnum": "6005",
-      "date": "2026-08-22",
-      "dayofweek": "星期六",
-      "league": "韩国职业联赛",
-      "home": "全北现代",
-      "away": "蔚山现代",
-      "spf_win": "3.95",
-      "spf_draw": "3.80",
-      "spf_lost": "1.63",
-      "spf_updated": "2026-08-22 18:08:01",
-      "gameid": "1373197",
-      "kickoff_cst": "2026-08-22 18:30",
-      "matchnum_label": "周六005",
-      "home_team_id": "1609",
-      "away_team_id": "1603"
-    },
-    {
-      "xml_id": "2040979",
-      "matchnum": "6006",
-      "date": "2026-08-22",
-      "dayofweek": "星期六",
-      "league": "韩国职业联赛",
-      "home": "安养FC",
-      "away": "首尔FC",
-      "spf_win": "1.83",
-      "spf_draw": "3.35",
-      "spf_lost": "3.52",
-      "spf_updated": "2026-08-22 18:12:17",
-      "gameid": "1373232",
-      "kickoff_cst": "2026-08-22 18:30",
-      "matchnum_label": "周六006",
-      "home_team_id": "4544",
-      "away_team_id": "1606"
     },
     {
       "xml_id": "2040980",
@@ -334,9 +298,9 @@
       "home": "国际米兰",
       "away": "蒙扎",
       "spf_win": "2.30",
-      "spf_draw": "3.60",
-      "spf_lost": "2.40",
-      "spf_updated": "2026-08-22 17:44:54",
+      "spf_draw": "3.50",
+      "spf_lost": "2.45",
+      "spf_updated": "2026-08-22 18:36:40",
       "gameid": "1414242",
       "kickoff_cst": "2026-08-23 00:30",
       "matchnum_label": "周六020",
@@ -596,6 +560,24 @@
       "away_team_id": "563"
     },
     {
+      "xml_id": "2041007",
+      "matchnum": "7007",
+      "date": "2026-08-23",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "赫尔辛基",
+      "away": "赫尔辛基火花",
+      "spf_win": "2.26",
+      "spf_draw": "3.55",
+      "spf_lost": "2.47",
+      "spf_updated": "2026-08-22 09:44:32",
+      "gameid": "1363813",
+      "kickoff_cst": "2026-08-23 20:00",
+      "matchnum_label": "周日007",
+      "home_team_id": "866",
+      "away_team_id": "2687"
+    },
+    {
       "xml_id": "2041008",
       "matchnum": "7008",
       "date": "2026-08-23",
@@ -612,6 +594,24 @@
       "matchnum_label": "周日008",
       "home_team_id": "378",
       "away_team_id": "834"
+    },
+    {
+      "xml_id": "2041009",
+      "matchnum": "7009",
+      "date": "2026-08-23",
+      "dayofweek": "星期天",
+      "league": "英格兰超级联赛",
+      "home": "曼彻斯特城",
+      "away": "伯恩茅斯",
+      "spf_win": "2.00",
+      "spf_draw": "3.80",
+      "spf_lost": "2.74",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1420336",
+      "kickoff_cst": "2026-08-23 21:00",
+      "matchnum_label": "周日009",
+      "home_team_id": "1072",
+      "away_team_id": "667"
     },
     {
       "xml_id": "2041010",
@@ -830,6 +830,24 @@
       "away_team_id": "471"
     },
     {
+      "xml_id": "2041022",
+      "matchnum": "7022",
+      "date": "2026-08-24",
+      "dayofweek": "星期一",
+      "league": "意大利甲级联赛",
+      "home": "都灵",
+      "away": "AC米兰",
+      "spf_win": "2.07",
+      "spf_draw": "3.32",
+      "spf_lost": "2.90",
+      "spf_updated": "2026-08-21 09:55:30",
+      "gameid": "1414159",
+      "kickoff_cst": "2026-08-24 02:45",
+      "matchnum_label": "周日022",
+      "home_team_id": "776",
+      "away_team_id": "210"
+    },
+    {
       "xml_id": "2041023",
       "matchnum": "7023",
       "date": "2026-08-24",
@@ -882,6 +900,24 @@
       "matchnum_label": "周日025",
       "home_team_id": "694",
       "away_team_id": "5551"
+    },
+    {
+      "xml_id": "2041026",
+      "matchnum": "7026",
+      "date": "2026-08-24",
+      "dayofweek": "星期一",
+      "league": "美国职业大联盟",
+      "home": "新英格兰革命",
+      "away": "纽约城",
+      "spf_win": "4.15",
+      "spf_draw": "3.85",
+      "spf_lost": "1.59",
+      "spf_updated": "2026-08-22 13:43:03",
+      "gameid": "1358601",
+      "kickoff_cst": "2026-08-24 04:30",
+      "matchnum_label": "周日026",
+      "home_team_id": "1302",
+      "away_team_id": "7947"
     },
     {
       "xml_id": "2041027",
