@@ -24,7 +24,7 @@
       "lost": "2.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T15:30:11Z"
+    "fetched_at_utc": "2026-08-22T15:40:11Z"
   },
   "shuju": {
     "title": "米尔沃尔VS诺维奇(2026/2027英冠)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.130↓",
-        "handicap": "平手降",
-        "away_water": "0.770↑",
-        "time": "08-22 19:28"
-      },
-      "init": {
-        "home_water": "1.870",
-        "handicap": "球半",
-        "away_water": "0.330",
-        "time": "08-15 18:44"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球",
         "away_water": "1.020",
         "time": "08-15 21:44"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.130↓",
+        "handicap": "平手降",
+        "away_water": "0.770↑",
+        "time": "08-22 19:28"
+      },
+      "init": {
+        "home_water": "1.870",
+        "handicap": "球半",
+        "away_water": "0.330",
+        "time": "08-15 18:44"
       }
     },
     {
