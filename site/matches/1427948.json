@@ -24,7 +24,7 @@
       "lost": "5.25",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T15:40:16Z"
+    "fetched_at_utc": "2026-08-22T15:50:16Z"
   },
   "shuju": {
     "title": "毕尔巴鄂竞技VS塞维利亚(2026/2027西甲)-数据分析-500彩票网",
@@ -629,14 +629,14 @@
             "position": "中场"
           },
           {
-            "number": "26",
-            "name": "曼努埃尔·安格尔",
-            "position": "中场"
-          },
-          {
             "number": "27",
             "name": "尼古拉斯·吉兰",
             "position": "中场"
+          },
+          {
+            "number": "26",
+            "name": "曼努埃尔·安赫尔·卡斯蒂略·罗德里格斯",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.990↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.890↑",
-        "time": "08-22 23:00"
-      },
-      "init": {
-        "home_water": "1.100",
-        "handicap": "一球",
-        "away_water": "0.700",
-        "time": "08-05 17:59"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "半球/一球",
         "away_water": "1.060",
         "time": "08-08 23:36"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.990↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.890↑",
+        "time": "08-22 23:00"
+      },
+      "init": {
+        "home_water": "1.100",
+        "handicap": "一球",
+        "away_water": "0.700",
+        "time": "08-05 17:59"
       }
     },
     {
