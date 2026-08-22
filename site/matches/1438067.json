@@ -24,7 +24,7 @@
       "lost": "11.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T03:10:44Z"
+    "fetched_at_utc": "2026-08-22T03:20:46Z"
   },
   "shuju": {
     "title": "波尔图VS阿罗卡(2026/2027葡超)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "球半/两球",
-        "away_water": "1.000↓",
-        "time": "08-22 05:21"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "球半/两球",
-        "away_water": "1.070",
-        "time": "08-17 04:15"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "球半",
         "away_water": "1.330",
         "time": "08-17 03:55"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↑",
+        "handicap": "球半/两球",
+        "away_water": "1.000↓",
+        "time": "08-22 05:21"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "球半/两球",
+        "away_water": "1.070",
+        "time": "08-17 04:15"
       }
     },
     {
