@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-22T18:20:38Z",
+  "last_updated_utc": "2026-08-22T18:30:36Z",
   "matches": [
     {
       "xml_id": "2040994",
@@ -702,6 +702,24 @@
       "matchnum_label": "周一007",
       "home_team_id": "975",
       "away_team_id": "5091"
+    },
+    {
+      "xml_id": "2041035",
+      "matchnum": "1008",
+      "date": "2026-08-25",
+      "dayofweek": "星期二",
+      "league": "英格兰超级联赛",
+      "home": "富勒姆",
+      "away": "切尔西",
+      "spf_win": "1.80",
+      "spf_draw": "3.65",
+      "spf_lost": "3.35",
+      "spf_updated": "2026-08-22 09:44:32",
+      "gameid": "1420342",
+      "kickoff_cst": "2026-08-25 03:00",
+      "matchnum_label": "周一008",
+      "home_team_id": "811",
+      "away_team_id": "1173"
     },
     {
       "xml_id": "2041036",
