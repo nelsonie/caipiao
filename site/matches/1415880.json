@@ -24,7 +24,7 @@
       "lost": "1.14",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T05:00:39Z"
+    "fetched_at_utc": "2026-08-22T05:10:36Z"
   },
   "shuju": {
     "title": "坎布尔VS费耶诺德(2026/2027荷甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "受球半/两球降",
-        "away_water": "0.970↓",
-        "time": "08-22 08:53"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "受球半",
-        "away_water": "1.050",
-        "time": "08-17 00:02"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "平手",
         "away_water": "0.180",
         "time": "08-16 04:43"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "受球半/两球降",
+        "away_water": "0.970↓",
+        "time": "08-22 08:53"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "受球半",
+        "away_water": "1.050",
+        "time": "08-17 00:02"
       }
     },
     {
