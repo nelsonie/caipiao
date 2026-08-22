@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-22T19:10:36Z",
+  "last_updated_utc": "2026-08-22T19:20:32Z",
   "matches": [
     {
       "xml_id": "2040999",
@@ -648,6 +648,24 @@
       "matchnum_label": "周一009",
       "home_team_id": "1263",
       "away_team_id": "3928"
+    },
+    {
+      "xml_id": "2041037",
+      "matchnum": "1010",
+      "date": "2026-08-25",
+      "dayofweek": "星期二",
+      "league": "西班牙甲级联赛",
+      "home": "马拉加",
+      "away": "拉科鲁尼亚",
+      "spf_win": "5.50",
+      "spf_draw": "3.80",
+      "spf_lost": "1.46",
+      "spf_updated": "2026-08-22 09:44:32",
+      "gameid": "1427954",
+      "kickoff_cst": "2026-08-25 03:30",
+      "matchnum_label": "周一010",
+      "home_team_id": "1056",
+      "away_team_id": "959"
     },
     {
       "xml_id": "2041038",
