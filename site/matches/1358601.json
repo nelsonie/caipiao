@@ -24,7 +24,7 @@
       "lost": "2.77",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T13:50:43Z"
+    "fetched_at_utc": "2026-08-22T14:00:48Z"
   },
   "shuju": {
     "title": "新英格兰革命VS纽约城(2026美职联)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↓",
-        "handicap": "平手/半球",
-        "away_water": "0.870↑",
-        "time": "08-22 16:59"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "平手/半球",
-        "away_water": "0.850",
-        "time": "08-20 08:01"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.990",
         "time": "08-15 00:50"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↓",
+        "handicap": "平手/半球",
+        "away_water": "0.870↑",
+        "time": "08-22 16:59"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "平手/半球",
+        "away_water": "0.850",
+        "time": "08-20 08:01"
       }
     },
     {

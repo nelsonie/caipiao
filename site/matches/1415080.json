@@ -24,7 +24,7 @@
       "lost": "6.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T13:50:15Z"
+    "fetched_at_utc": "2026-08-22T14:00:17Z"
   },
   "shuju": {
     "title": "朗斯VS欧塞尔(2026/2027法甲)-数据分析-500彩票网",
@@ -709,10 +709,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.050↑",
+        "home_water": "1.070↑",
         "handicap": "一球/球半升",
-        "away_water": "0.840",
-        "time": "08-22 21:34"
+        "away_water": "0.820↓",
+        "time": "08-22 21:52"
       },
       "init": {
         "home_water": "1.040",
@@ -738,22 +738,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.070↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.810↓",
-        "time": "08-22 21:28"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "一球",
-        "away_water": "0.820",
-        "time": "07-07 18:10"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -767,6 +751,22 @@
         "handicap": "一球",
         "away_water": "0.850",
         "time": "07-07 14:48"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.070↑",
+        "handicap": "一球/球半升",
+        "away_water": "0.810↓",
+        "time": "08-22 21:28"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "一球",
+        "away_water": "0.820",
+        "time": "07-07 18:10"
       }
     },
     {
@@ -837,10 +837,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "1.060",
+        "home_water": "1.070↑",
         "handicap": "一球/球半升",
-        "away_water": "0.860↑",
-        "time": "08-22 21:24"
+        "away_water": "0.850↑",
+        "time": "08-22 21:44"
       },
       "init": {
         "home_water": "1.060",

@@ -8,9 +8,9 @@
     "away": "阿尔克马尔",
     "kickoff_cst": "2026-08-22 22:30",
     "spf": {
-      "win": "2.25",
-      "draw": "3.65",
-      "lost": "2.43"
+      "win": "2.35",
+      "draw": "3.58",
+      "lost": "2.36"
     },
     "asia_main": {
       "handicap": "受半球/一球降",
@@ -24,7 +24,7 @@
       "lost": "1.47",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T13:50:12Z"
+    "fetched_at_utc": "2026-08-22T14:00:16Z"
   },
   "shuju": {
     "title": "福图纳锡塔德VS阿尔克马尔(2026/2027荷甲)-数据分析-500彩票网",
@@ -408,23 +408,23 @@
             "position": "中场"
           },
           {
-            "number": "52",
-            "name": "穆罕默德·伊哈塔伦",
+            "number": "9",
+            "name": "安东尼·德斯科特",
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "贾斯珀·达尔豪斯",
+            "number": "15",
+            "name": "尼克·德格鲁特",
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "亚辛·乌基里",
+            "number": "20",
+            "name": "爱德华·米祖特",
             "position": "中场"
           },
           {
-            "number": "23",
-            "name": "菲利普·布里蒂恩",
+            "number": "22",
+            "name": "夏洛·赞德",
             "position": "中场"
           },
           {
@@ -443,8 +443,8 @@
             "position": "后卫"
           },
           {
-            "number": "12",
-            "name": "伊沃·平托",
+            "number": "23",
+            "name": "菲利普·布里蒂恩",
             "position": "后卫"
           },
           {
@@ -455,24 +455,24 @@
         ],
         "subs": [
           {
-            "number": "22",
-            "name": "夏洛·赞德",
-            "position": "中场"
-          },
-          {
-            "number": "20",
-            "name": "爱德华·米祖特",
-            "position": "中场"
-          },
-          {
-            "number": "1",
-            "name": "卢克·科普曼斯",
-            "position": "守门员"
-          },
-          {
             "number": "33",
             "name": "凯伦·莱特迈尔",
             "position": "守门员"
+          },
+          {
+            "number": "5",
+            "name": "亚辛·乌基里",
+            "position": "中场"
+          },
+          {
+            "number": "52",
+            "name": "穆罕默德·伊哈塔伦",
+            "position": "中场"
+          },
+          {
+            "number": "3",
+            "name": "罗德里戈·古思",
+            "position": "后卫"
           },
           {
             "number": "38",
@@ -480,24 +480,19 @@
             "position": "中场"
           },
           {
-            "number": "9",
-            "name": "安东尼·德斯科特",
-            "position": "前锋"
-          },
-          {
-            "number": "15",
-            "name": "尼克·德格鲁特",
+            "number": "12",
+            "name": "伊沃·平托",
             "position": "后卫"
           },
           {
-            "number": "35",
-            "name": "凯文·范·伯格斯特登",
-            "position": "中场"
+            "number": "8",
+            "name": "贾斯珀·达尔豪斯",
+            "position": "后卫"
           },
           {
-            "number": "39",
-            "name": "加尼·杜尔穆什·布尤克汗",
-            "position": "中场"
+            "number": "1",
+            "name": "卢克·科普曼斯",
+            "position": "守门员"
           }
         ],
         "injured": [],
@@ -507,7 +502,7 @@
         "formation": null,
         "starters": [
           {
-            "number": "35",
+            "number": "9",
             "name": "梅克斯·梅尔丁克",
             "position": "前锋"
           },
@@ -542,7 +537,7 @@
             "position": "后卫"
           },
           {
-            "number": "16",
+            "number": "4",
             "name": "刘易斯·斯考顿",
             "position": "后卫"
           },
@@ -564,24 +559,19 @@
         ],
         "subs": [
           {
-            "number": "12",
-            "name": "霍比·维赫斯特",
-            "position": "守门员"
+            "number": "19",
+            "name": "吉兹·霍恩坎普",
+            "position": "前锋"
           },
           {
-            "number": "75",
-            "name": "赫塞尔·德维特",
-            "position": "中场"
-          },
-          {
-            "number": "34",
-            "name": "米斯·德·威特",
+            "number": "31",
+            "name": "市原吏音",
             "position": "后卫"
           },
           {
-            "number": "27",
-            "name": "范杜因",
-            "position": "前锋"
+            "number": "8",
+            "name": "约尔迪·克拉西",
+            "position": "中场"
           },
           {
             "number": "23",
@@ -589,13 +579,23 @@
             "position": "后卫"
           },
           {
-            "number": "14",
-            "name": "加尔文·斯滕斯",
+            "number": "75",
+            "name": "赫塞尔·德维特",
             "position": "中场"
           },
           {
-            "number": "33",
-            "name": "马特伊·辛",
+            "number": "13",
+            "name": "山姆·德格兰德",
+            "position": "后卫"
+          },
+          {
+            "number": "12",
+            "name": "霍比·维赫斯特",
+            "position": "守门员"
+          },
+          {
+            "number": "14",
+            "name": "加尔文·斯滕斯",
             "position": "中场"
           },
           {
@@ -609,19 +609,14 @@
             "position": "前锋"
           },
           {
-            "number": "2",
-            "name": "每熊晟矢",
-            "position": "后卫"
-          },
-          {
-            "number": "18",
-            "name": "市原吏音",
-            "position": "后卫"
-          },
-          {
             "number": "45",
             "name": "本德古兹·科瓦奇",
             "position": "前锋"
+          },
+          {
+            "number": "2",
+            "name": "每熊晟矢",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -730,16 +725,32 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.810↓",
+        "home_water": "0.820↓",
         "handicap": "受一球",
         "away_water": "1.040↑",
-        "time": "08-22 21:43"
+        "time": "08-22 21:49"
       },
       "init": {
         "home_water": "0.850",
         "handicap": "受一球",
         "away_water": "0.950",
         "time": "08-17 03:48"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "受一球",
+        "away_water": "1.030↑",
+        "time": "08-22 21:47"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "受一球",
+        "away_water": "0.960",
+        "time": "08-17 01:32"
       }
     },
     {
@@ -756,22 +767,6 @@
         "handicap": "受半球/一球",
         "away_water": "0.930",
         "time": "08-16 01:48"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "受一球",
-        "away_water": "1.040↑",
-        "time": "08-22 21:43"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "受一球",
-        "away_water": "0.960",
-        "time": "08-17 01:32"
       }
     },
     {
@@ -794,10 +789,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.830↓",
+        "home_water": "0.840↓",
         "handicap": "受一球",
-        "away_water": "1.070↑",
-        "time": "08-22 21:43"
+        "away_water": "1.060↑",
+        "time": "08-22 21:49"
       },
       "init": {
         "home_water": "0.850",
@@ -858,10 +853,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.780↓",
+        "home_water": "0.790↓",
         "handicap": "受一球降",
-        "away_water": "1.030↑",
-        "time": "08-22 21:43"
+        "away_water": "1.020↑",
+        "time": "08-22 21:47"
       },
       "init": {
         "home_water": "0.870",
@@ -874,10 +869,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "1.070↑",
-        "handicap": "受半球/一球升",
-        "away_water": "0.830↓",
-        "time": "08-22 21:00"
+        "home_water": "0.860↓",
+        "handicap": "受一球",
+        "away_water": "1.040↑",
+        "time": "08-22 21:49"
       },
       "init": {
         "home_water": "0.910",
@@ -1234,7 +1229,7 @@
     {
       "cid": "280",
       "company": "*冠",
-      "time": "2026-08-22 21:46:10",
+      "time": "2026-08-22 21:48:23",
       "odds": {
         "live": [
           "4.70",
@@ -1242,9 +1237,9 @@
           "1.61"
         ],
         "init": [
-          "4.55",
-          "4.55",
-          "1.64"
+          "4.60",
+          "4.60",
+          "1.63"
         ]
       },
       "prob": {
@@ -1254,9 +1249,9 @@
           "59.08%"
         ],
         "init": [
-          "20.95%",
-          "20.95%",
-          "58.11%"
+          "20.74%",
+          "20.74%",
+          "58.52%"
         ]
       },
       "ret": {
@@ -1264,7 +1259,7 @@
           "95.12%"
         ],
         "init": [
-          "95.30%"
+          "95.39%"
         ]
       },
       "kelly": {
@@ -1274,9 +1269,9 @@
           "0.93"
         ],
         "init": [
-          "0.91",
-          "1.02",
-          "0.95"
+          "0.92",
+          "1.03",
+          "0.94"
         ]
       }
     },
