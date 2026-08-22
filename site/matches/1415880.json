@@ -24,14 +24,14 @@
       "lost": "1.14",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T17:00:20Z"
+    "fetched_at_utc": "2026-08-22T17:10:22Z"
   },
   "shuju": {
     "title": "坎布尔VS费耶诺德(2026/2027荷甲)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，坎布尔 0胜 0平 6负 ，进5球，失16球 ，大球5次，小球1次",
     "team_ranks": [
       "坎布尔 [荷甲18]",
-      "费耶诺德 [荷甲7]"
+      "费耶诺德 [荷甲6]"
     ],
     "h2h_rows": [
       {
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "受球半/两球降",
-        "away_water": "0.990↓",
-        "time": "08-22 22:52"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "受球半",
-        "away_water": "1.050",
-        "time": "08-17 00:02"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "平手",
         "away_water": "0.180",
         "time": "08-16 04:43"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "受球半/两球降",
+        "away_water": "0.990↓",
+        "time": "08-22 22:52"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "受球半",
+        "away_water": "1.050",
+        "time": "08-17 00:02"
       }
     },
     {
