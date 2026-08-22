@@ -24,13 +24,13 @@
       "lost": "7.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T16:50:15Z"
+    "fetched_at_utc": "2026-08-22T17:00:16Z"
   },
   "shuju": {
     "title": "PSV埃因霍温VS格罗宁根(2026/2027荷甲)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，埃因霍温 5胜 0平 1负 ，进22球，失8球 ，大球6次，小球0次",
     "team_ranks": [
-      "埃因霍温 [荷甲6]",
+      "埃因霍温 [荷甲5]",
       "格罗宁根 [荷甲2]"
     ],
     "h2h_rows": [
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "球半升",
-        "away_water": "0.920↑",
-        "time": "08-22 21:45"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "一球/球半",
-        "away_water": "0.900",
-        "time": "08-16 17:11"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "球半",
         "away_water": "0.880",
         "time": "08-16 22:03"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.920↑",
+        "handicap": "球半升",
+        "away_water": "0.920↑",
+        "time": "08-22 21:45"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "一球/球半",
+        "away_water": "0.900",
+        "time": "08-16 17:11"
       }
     },
     {
