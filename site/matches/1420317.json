@@ -24,7 +24,7 @@
       "lost": "1.22",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T11:50:53Z"
+    "fetched_at_utc": "2026-08-22T12:00:54Z"
   },
   "shuju": {
     "title": "赫尔城VS曼彻斯特联(2026/2027英超)-数据分析-500彩票网",
@@ -403,18 +403,8 @@
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "穆罕默德·贝鲁米",
-            "position": "中场"
-          },
-          {
             "number": "21",
             "name": "埃利奥特·斯特劳德",
-            "position": "中场"
-          },
-          {
-            "number": "3",
-            "name": "瑞恩·贾尔斯",
             "position": "中场"
           },
           {
@@ -428,13 +418,18 @@
             "position": "中场"
           },
           {
-            "number": "2",
-            "name": "路易·科伊尔",
+            "number": "10",
+            "name": "穆罕默德·贝鲁米",
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "塞姆·阿贾伊",
+            "number": "3",
+            "name": "瑞恩·贾尔斯",
+            "position": "后卫"
+          },
+          {
+            "number": "32",
+            "name": "诺贝尔·门迪",
             "position": "后卫"
           },
           {
@@ -443,8 +438,13 @@
             "position": "后卫"
           },
           {
-            "number": "32",
-            "name": "诺贝尔·门迪",
+            "number": "6",
+            "name": "塞姆·阿贾伊",
+            "position": "后卫"
+          },
+          {
+            "number": "2",
+            "name": "路易·科伊尔",
             "position": "后卫"
           },
           {
@@ -455,19 +455,29 @@
         ],
         "subs": [
           {
+            "number": "26",
+            "name": "基兰·道尔",
+            "position": "中场"
+          },
+          {
             "number": "29",
             "name": "卢卡斯·古纳-杜阿斯",
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "延斯·耶尔特-达尔",
-            "position": "中场"
+            "number": "12",
+            "name": "狄龙·菲利普斯",
+            "position": "守门员"
           },
           {
-            "number": "7",
-            "name": "利亚姆·米勒",
-            "position": "前锋"
+            "number": "22",
+            "name": "卢卡斯·赫林顿",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "马特·塔格特",
+            "position": "后卫"
           },
           {
             "number": "18",
@@ -480,24 +490,14 @@
             "position": "后卫"
           },
           {
-            "number": "23",
-            "name": "马特·塔格特",
-            "position": "后卫"
-          },
-          {
-            "number": "22",
-            "name": "卢卡斯·赫林顿",
-            "position": "后卫"
-          },
-          {
-            "number": "12",
-            "name": "狄龙·菲利普斯",
-            "position": "守门员"
-          },
-          {
-            "number": "26",
-            "name": "基兰·道尔",
+            "number": "14",
+            "name": "延斯·耶尔特-达尔",
             "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "利亚姆·米勒",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -527,13 +527,13 @@
             "position": "中场"
           },
           {
-            "number": "18",
-            "name": "尤里·蒂勒曼斯",
+            "number": "17",
+            "name": "安德雷·桑托斯",
             "position": "中场"
           },
           {
-            "number": "17",
-            "name": "安德雷·桑托斯",
+            "number": "18",
+            "name": "尤里·蒂勒曼斯",
             "position": "中场"
           },
           {
@@ -569,19 +569,9 @@
             "position": "中场"
           },
           {
-            "number": "30",
-            "name": "本亚明·谢什科",
-            "position": "前锋"
-          },
-          {
-            "number": "9",
-            "name": "马库斯·拉什福德",
-            "position": "前锋"
-          },
-          {
-            "number": "11",
-            "name": "约书亚·齐尔克泽",
-            "position": "前锋"
+            "number": "6",
+            "name": "利桑德罗·马丁内斯",
+            "position": "后卫"
           },
           {
             "number": "15",
@@ -599,9 +589,19 @@
             "position": "守门员"
           },
           {
-            "number": "6",
-            "name": "利桑德罗·马丁内斯",
-            "position": "后卫"
+            "number": "9",
+            "name": "马库斯·拉什福德",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "约书亚·齐尔克泽",
+            "position": "前锋"
+          },
+          {
+            "number": "30",
+            "name": "本亚明·谢什科",
+            "position": "前锋"
           },
           {
             "number": "31",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890↑",
-        "handicap": "受球半降",
-        "away_water": "0.980↓",
-        "time": "08-22 19:26"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "受一球/球半",
-        "away_water": "1.000",
-        "time": "06-19 18:00"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受一球",
         "away_water": "0.720",
         "time": "06-19 18:04"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.890↑",
+        "handicap": "受球半降",
+        "away_water": "0.980↓",
+        "time": "08-22 19:26"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "受一球/球半",
+        "away_water": "1.000",
+        "time": "06-19 18:00"
       }
     },
     {
