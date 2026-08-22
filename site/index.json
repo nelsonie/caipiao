@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-22T10:20:52Z",
+  "last_updated_utc": "2026-08-22T10:30:52Z",
   "matches": [
     {
       "xml_id": "2040974",
@@ -864,24 +864,6 @@
       "matchnum_label": "周日021",
       "home_team_id": "838",
       "away_team_id": "471"
-    },
-    {
-      "xml_id": "2041022",
-      "matchnum": "7022",
-      "date": "2026-08-24",
-      "dayofweek": "星期一",
-      "league": "意大利甲级联赛",
-      "home": "都灵",
-      "away": "AC米兰",
-      "spf_win": "2.07",
-      "spf_draw": "3.32",
-      "spf_lost": "2.90",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1414159",
-      "kickoff_cst": "2026-08-24 02:45",
-      "matchnum_label": "周日022",
-      "home_team_id": "776",
-      "away_team_id": "210"
     },
     {
       "xml_id": "2041023",
