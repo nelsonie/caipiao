@@ -24,7 +24,7 @@
       "lost": "1.47",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T15:00:16Z"
+    "fetched_at_utc": "2026-08-22T15:10:18Z"
   },
   "shuju": {
     "title": "福图纳锡塔德VS阿尔克马尔(2026/2027荷甲)-数据分析-500彩票网",
@@ -403,13 +403,13 @@
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "奥勒·罗梅尼",
+            "number": "9",
+            "name": "安东尼·德斯科特",
             "position": "中场"
           },
           {
-            "number": "9",
-            "name": "安东尼·德斯科特",
+            "number": "10",
+            "name": "奥勒·罗梅尼",
             "position": "中场"
           },
           {
@@ -438,13 +438,13 @@
             "position": "后卫"
           },
           {
-            "number": "6",
-            "name": "塞伯·范奥特尔",
+            "number": "23",
+            "name": "菲利普·布里蒂恩",
             "position": "后卫"
           },
           {
-            "number": "23",
-            "name": "菲利普·布里蒂恩",
+            "number": "6",
+            "name": "塞伯·范奥特尔",
             "position": "后卫"
           },
           {
@@ -455,23 +455,8 @@
         ],
         "subs": [
           {
-            "number": "33",
-            "name": "凯伦·莱特迈尔",
-            "position": "守门员"
-          },
-          {
-            "number": "5",
-            "name": "亚辛·乌基里",
-            "position": "中场"
-          },
-          {
-            "number": "52",
-            "name": "穆罕默德·伊哈塔伦",
-            "position": "中场"
-          },
-          {
-            "number": "3",
-            "name": "罗德里戈·古思",
+            "number": "12",
+            "name": "伊沃·平托",
             "position": "后卫"
           },
           {
@@ -480,9 +465,29 @@
             "position": "中场"
           },
           {
-            "number": "12",
-            "name": "伊沃·平托",
+            "number": "3",
+            "name": "罗德里戈·古思",
             "position": "后卫"
+          },
+          {
+            "number": "52",
+            "name": "穆罕默德·伊哈塔伦",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "亚辛·乌基里",
+            "position": "中场"
+          },
+          {
+            "number": "33",
+            "name": "凯伦·莱特迈尔",
+            "position": "守门员"
+          },
+          {
+            "number": "1",
+            "name": "卢克·科普曼斯",
+            "position": "守门员"
           },
           {
             "number": "8",
@@ -490,9 +495,9 @@
             "position": "后卫"
           },
           {
-            "number": "1",
-            "name": "卢克·科普曼斯",
-            "position": "守门员"
+            "number": "44",
+            "name": "大卫·斯托克布林克",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -559,53 +564,13 @@
         ],
         "subs": [
           {
-            "number": "19",
-            "name": "吉兹·霍恩坎普",
-            "position": "前锋"
-          },
-          {
-            "number": "31",
-            "name": "市原吏音",
-            "position": "后卫"
-          },
-          {
             "number": "8",
             "name": "约尔迪·克拉西",
             "position": "中场"
           },
           {
-            "number": "23",
-            "name": "比利·杜伊尔",
-            "position": "后卫"
-          },
-          {
-            "number": "75",
-            "name": "赫塞尔·德维特",
-            "position": "中场"
-          },
-          {
-            "number": "13",
-            "name": "山姆·德格兰德",
-            "position": "后卫"
-          },
-          {
-            "number": "12",
-            "name": "霍比·维赫斯特",
-            "position": "守门员"
-          },
-          {
-            "number": "14",
-            "name": "加尔文·斯滕斯",
-            "position": "中场"
-          },
-          {
-            "number": "1",
-            "name": "罗马杰登·奥杜罗",
-            "position": "守门员"
-          },
-          {
-            "number": "24",
-            "name": "阿尤布·奥夫基尔",
+            "number": "19",
+            "name": "吉兹·霍恩坎普",
             "position": "前锋"
           },
           {
@@ -616,6 +581,46 @@
           {
             "number": "2",
             "name": "每熊晟矢",
+            "position": "后卫"
+          },
+          {
+            "number": "24",
+            "name": "阿尤布·奥夫基尔",
+            "position": "前锋"
+          },
+          {
+            "number": "1",
+            "name": "罗马杰登·奥杜罗",
+            "position": "守门员"
+          },
+          {
+            "number": "14",
+            "name": "加尔文·斯滕斯",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "霍比·维赫斯特",
+            "position": "守门员"
+          },
+          {
+            "number": "13",
+            "name": "山姆·德格兰德",
+            "position": "后卫"
+          },
+          {
+            "number": "75",
+            "name": "赫塞尔·德维特",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "比利·杜伊尔",
+            "position": "后卫"
+          },
+          {
+            "number": "31",
+            "name": "市原吏音",
             "position": "后卫"
           }
         ],
@@ -738,22 +743,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "受一球",
-        "away_water": "0.920↓",
-        "time": "08-22 22:28"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "受一球",
-        "away_water": "0.960",
-        "time": "08-17 01:32"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -767,6 +756,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.930",
         "time": "08-16 01:48"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "受一球",
+        "away_water": "0.920↓",
+        "time": "08-22 22:28"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "受一球",
+        "away_water": "0.960",
+        "time": "08-17 01:32"
       }
     },
     {
