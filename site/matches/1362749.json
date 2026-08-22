@@ -24,7 +24,7 @@
       "lost": "3.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T14:20:10Z"
+    "fetched_at_utc": "2026-08-22T14:30:10Z"
   },
   "shuju": {
     "title": "奥尔格里特VS哈尔姆(2026瑞典超)-数据分析-500彩票网",
@@ -418,13 +418,13 @@
             "position": "中场"
           },
           {
-            "number": "23",
-            "name": "欧文·帕克·普赖斯",
+            "number": "8",
+            "name": "本杰明·拉图恩",
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "本杰明·拉图恩",
+            "number": "23",
+            "name": "欧文·帕克·普赖斯",
             "position": "中场"
           },
           {
@@ -470,6 +470,16 @@
             "position": "后卫"
           },
           {
+            "number": "7",
+            "name": "查理·文德霍尔",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "杰罗姆·提布灵·乌国",
+            "position": "前锋"
+          },
+          {
             "number": "21",
             "name": "威廉·肯达尔",
             "position": "中场"
@@ -488,16 +498,6 @@
             "number": "5",
             "name": "克里斯托弗·斯蒂夫",
             "position": "后卫"
-          },
-          {
-            "number": "15",
-            "name": "杰罗姆·提布灵·乌国",
-            "position": "前锋"
-          },
-          {
-            "number": "7",
-            "name": "查理·文德霍尔",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -507,19 +507,19 @@
         "formation": null,
         "starters": [
           {
-            "number": "14",
-            "name": "侯赛因·卡尼尔",
-            "position": "前锋"
-          },
-          {
             "number": "18",
             "name": "马尔特·佩尔松",
             "position": "前锋"
           },
           {
-            "number": "19",
-            "name": "马文·伊拉里",
+            "number": "27",
+            "name": "罗科·阿斯科内",
             "position": "前锋"
+          },
+          {
+            "number": "14",
+            "name": "侯赛因·卡尼尔",
+            "position": "中场"
           },
           {
             "number": "8",
@@ -532,8 +532,8 @@
             "position": "中场"
           },
           {
-            "number": "27",
-            "name": "罗科·阿斯科内",
+            "number": "19",
+            "name": "马文·伊拉里",
             "position": "中场"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↓",
-        "handicap": "半球",
-        "away_water": "0.840↑",
-        "time": "08-22 21:00"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "半球",
-        "away_water": "0.820",
-        "time": "08-19 02:11"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "1.220",
         "time": "08-16 11:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↓",
+        "handicap": "半球",
+        "away_water": "0.840↑",
+        "time": "08-22 21:00"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "半球",
+        "away_water": "0.820",
+        "time": "08-19 02:11"
       }
     },
     {
