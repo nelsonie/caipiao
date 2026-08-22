@@ -24,7 +24,7 @@
       "lost": "3.85",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T19:30:19Z"
+    "fetched_at_utc": "2026-08-22T19:40:17Z"
   },
   "shuju": {
     "title": "马德里竞技VS比利亚雷亚尔(2026/2027西甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.070↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.720↑",
-        "time": "08-22 23:13"
-      },
-      "init": {
-        "home_water": "1.600",
-        "handicap": "一球",
-        "away_water": "0.450",
-        "time": "08-05 17:59"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "半球",
         "away_water": "0.980",
         "time": "08-11 01:23"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.070↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.720↑",
+        "time": "08-22 23:13"
+      },
+      "init": {
+        "home_water": "1.600",
+        "handicap": "一球",
+        "away_water": "0.450",
+        "time": "08-05 17:59"
       }
     },
     {
