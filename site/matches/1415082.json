@@ -24,7 +24,7 @@
       "lost": "3.27",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T08:40:25Z"
+    "fetched_at_utc": "2026-08-22T08:50:24Z"
   },
   "shuju": {
     "title": "尼斯VS洛里昂(2026/2027法甲)-数据分析-500彩票网",
@@ -623,32 +623,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.880↑",
+        "home_water": "0.890↑",
         "handicap": "平手/半球",
-        "away_water": "1.000↓",
-        "time": "08-22 16:28"
+        "away_water": "0.980↓",
+        "time": "08-22 16:31"
       },
       "init": {
         "home_water": "0.840",
         "handicap": "平手/半球",
         "away_water": "1.010",
         "time": "08-16 16:05"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "平手/半球",
-        "away_water": "1.040↑",
-        "time": "08-22 14:32"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "平手/半球",
-        "away_water": "0.970",
-        "time": "07-07 18:10"
       }
     },
     {
@@ -664,6 +648,22 @@
         "home_water": "0.890",
         "handicap": "平手/半球",
         "away_water": "0.910",
+        "time": "07-07 18:10"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "平手/半球",
+        "away_water": "1.040↑",
+        "time": "08-22 14:32"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "平手/半球",
+        "away_water": "0.970",
         "time": "07-07 18:10"
       }
     },
@@ -687,10 +687,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.890↓",
+        "home_water": "0.910↓",
         "handicap": "平手/半球",
-        "away_water": "1.030↑",
-        "time": "08-22 12:07"
+        "away_water": "1.010↑",
+        "time": "08-22 16:31"
       },
       "init": {
         "home_water": "0.940",
@@ -735,10 +735,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.900↓",
+        "home_water": "0.910↓",
         "handicap": "平手/半球",
-        "away_water": "1.020↑",
-        "time": "08-22 13:50"
+        "away_water": "1.010↑",
+        "time": "08-22 16:32"
       },
       "init": {
         "home_water": "0.960",

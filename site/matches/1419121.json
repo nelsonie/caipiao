@@ -24,7 +24,7 @@
       "lost": "3.25",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T08:40:09Z"
+    "fetched_at_utc": "2026-08-22T08:50:09Z"
   },
   "shuju": {
     "title": "秋田蓝色闪电VS甲府风林(2026/2027日职乙)-数据分析-500彩票网",
@@ -430,7 +430,7 @@
           {
             "number": "13",
             "name": "才藤龙治",
-            "position": "前锋"
+            "position": "后卫"
           },
           {
             "number": "17",
@@ -477,7 +477,7 @@
           {
             "number": "10",
             "name": "石田凌太郎",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "27",
@@ -492,7 +492,7 @@
           {
             "number": "14",
             "name": "大石龙平",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "4",
@@ -514,12 +514,12 @@
           {
             "number": "19",
             "name": "水野飒太",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "29",
             "name": "大岛康树",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "6",
@@ -534,7 +534,7 @@
           {
             "number": "27",
             "name": "武井成豪",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "7",
@@ -554,7 +554,7 @@
           {
             "number": "20",
             "name": "远藤光",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "33",
@@ -596,12 +596,12 @@
           {
             "number": "13",
             "name": "村上千步",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "96",
             "name": "黑川淳史",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "97",
@@ -651,10 +651,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.900↓",
         "handicap": "平手/半球",
-        "away_water": "0.850↓",
-        "time": "08-20 01:53"
+        "away_water": "0.900↑",
+        "time": "08-22 16:45"
       },
       "init": {
         "home_water": "0.920",
@@ -686,7 +686,7 @@
         "home_water": "0.930↓",
         "handicap": "平手/半球",
         "away_water": "0.960↑",
-        "time": "08-22 16:32"
+        "time": "08-22 16:47"
       },
       "init": {
         "home_water": "0.960",
@@ -699,10 +699,10 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.900↓",
-        "handicap": "平手/半球",
-        "away_water": "0.920↑",
-        "time": "08-22 16:16"
+        "home_water": "↓",
+        "handicap": "受一球降",
+        "away_water": "↓",
+        "time": "08-22 16:46"
       },
       "init": {
         "home_water": "0.920",
@@ -715,10 +715,10 @@
       "cid": "1484",
       "company": "o***",
       "live": {
-        "home_water": "0.830↑",
+        "home_water": "0.900↑",
         "handicap": "平手/半球升",
-        "away_water": "0.830↓",
-        "time": "08-22 15:47"
+        "away_water": "0.900↓",
+        "time": "08-22 16:46"
       },
       "init": {
         "home_water": "0.650",
@@ -731,10 +731,10 @@
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "0.910",
+        "home_water": "0.920↑",
         "handicap": "平手/半球",
-        "away_water": "0.900",
-        "time": "08-22 16:33"
+        "away_water": "0.880↓",
+        "time": "08-22 16:47"
       },
       "init": {
         "home_water": "0.910",
@@ -747,10 +747,10 @@
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.960↓",
+        "home_water": "0.930↓",
         "handicap": "平手/半球",
-        "away_water": "0.880↑",
-        "time": "08-22 16:31"
+        "away_water": "0.920↑",
+        "time": "08-22 16:46"
       },
       "init": {
         "home_water": "1.010",
@@ -763,10 +763,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.930↓",
+        "home_water": "0.960↓",
         "handicap": "平手/半球",
-        "away_water": "0.970↑",
-        "time": "08-22 15:54"
+        "away_water": "0.940↑",
+        "time": "08-22 16:41"
       },
       "init": {
         "home_water": "0.980",
@@ -782,7 +782,7 @@
         "home_water": "0.960↓",
         "handicap": "平手/半球",
         "away_water": "0.940↑",
-        "time": "08-22 16:32"
+        "time": "08-22 16:44"
       },
       "init": {
         "home_water": "0.970",
@@ -811,10 +811,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.960↓",
+        "home_water": "0.940↓",
         "handicap": "平手/半球",
-        "away_water": "0.940↑",
-        "time": "08-22 16:32"
+        "away_water": "0.960↑",
+        "time": "08-22 16:47"
       },
       "init": {
         "home_water": "0.970",
@@ -827,10 +827,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.910↓",
+        "home_water": "0.920↓",
         "handicap": "平手/半球",
-        "away_water": "0.850↑",
-        "time": "08-22 16:31"
+        "away_water": "0.840↑",
+        "time": "08-22 16:45"
       },
       "init": {
         "home_water": "1.010",
@@ -843,10 +843,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.940↓",
+        "home_water": "0.980↓",
         "handicap": "平手/半球",
-        "away_water": "0.960↑",
-        "time": "08-22 15:59"
+        "away_water": "0.920↑",
+        "time": "08-22 16:44"
       },
       "init": {
         "home_water": "1.040",
