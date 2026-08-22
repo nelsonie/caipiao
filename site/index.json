@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-22T20:40:32Z",
+  "last_updated_utc": "2026-08-22T20:50:31Z",
   "matches": [
     {
       "xml_id": "2041000",
@@ -342,24 +342,6 @@
       "matchnum_label": "周日018",
       "home_team_id": "2000",
       "away_team_id": "1330"
-    },
-    {
-      "xml_id": "2041019",
-      "matchnum": "7019",
-      "date": "2026-08-24",
-      "dayofweek": "星期一",
-      "league": "意大利甲级联赛",
-      "home": "威尼斯",
-      "away": "莱切",
-      "spf_win": "4.30",
-      "spf_draw": "3.40",
-      "spf_lost": "1.66",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1414267",
-      "kickoff_cst": "2026-08-24 00:30",
-      "matchnum_label": "周日019",
-      "home_team_id": "1249",
-      "away_team_id": "972"
     },
     {
       "xml_id": "2041020",
