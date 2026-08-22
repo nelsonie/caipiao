@@ -24,7 +24,7 @@
       "lost": "2.07",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T17:10:31Z"
+    "fetched_at_utc": "2026-08-22T17:20:32Z"
   },
   "shuju": {
     "title": "马尔默VS佐加顿斯(2026瑞典超)-数据分析-500彩票网",
@@ -396,15 +396,219 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "29",
+            "name": "塞亚德·哈克萨巴诺维奇",
+            "position": "前锋"
+          },
+          {
+            "number": "20",
+            "name": "埃里克·博特海姆",
+            "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "迭戈·加西亚",
+            "position": "前锋"
+          },
+          {
+            "number": "37",
+            "name": "斯科格玛",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "奥托·罗森格伦",
+            "position": "中场"
+          },
+          {
+            "number": "40",
+            "name": "凯南·布苏拉季奇",
+            "position": "中场"
+          },
+          {
+            "number": "25",
+            "name": "布萨内洛",
+            "position": "后卫"
+          },
+          {
+            "number": "44",
+            "name": "马尔特·维勒姆·弗雷捷德·帕尔森",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "安德烈·朱里克",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "延斯·斯特扬·拉尔森",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "罗宾·奥尔森",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "45",
+            "name": "安东·塞巴斯蒂安·赫格",
+            "position": "中场"
+          },
+          {
+            "number": "32",
+            "name": "丹尼尔·古德约翰森",
+            "position": "前锋"
+          },
+          {
+            "number": "27",
+            "name": "约翰.达林",
+            "position": "守门员"
+          },
+          {
+            "number": "10",
+            "name": "安德斯·克里斯蒂安森",
+            "position": "中场"
+          },
+          {
+            "number": "39",
+            "name": "艾萨克·阿西布",
+            "position": "前锋"
+          },
+          {
+            "number": "4",
+            "name": "布莱昂·库尔图勒斯",
+            "position": "后卫"
+          },
+          {
+            "number": "28",
+            "name": "约万·米洛萨夫列维奇",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "约翰·卡尔森",
+            "position": "后卫"
+          },
+          {
+            "number": "47",
+            "name": "西奥多·伦德贝里",
+            "position": "中场"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "9",
+            "name": "克里斯蒂安·斯特罗姆兰·连恩",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "奥斯卡·法伦纽斯",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "博·奥苏尔夫·赫格兰",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "帕特里克·阿斯隆德",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "哈普斯",
+            "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "马蒂亚斯·希尔塔宁",
+            "position": "中场"
+          },
+          {
+            "number": "24",
+            "name": "马克斯·拉尔森",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "拉尔森",
+            "position": "后卫"
+          },
+          {
+            "number": "21",
+            "name": "米凯尔·马奎斯",
+            "position": "后卫"
+          },
+          {
+            "number": "18",
+            "name": "亚当·斯塔尔",
+            "position": "后卫"
+          },
+          {
+            "number": "35",
+            "name": "雅各布·林恩",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "13",
+            "name": "丹尼尔·斯滕森",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "彼得·约翰森",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "达里尔·楚米-纳纳",
+            "position": "后卫"
+          },
+          {
+            "number": "30",
+            "name": "卢卡斯·琼森",
+            "position": "守门员"
+          },
+          {
+            "number": "23",
+            "name": "尼诺·祖格利",
+            "position": "前锋"
+          },
+          {
+            "number": "27",
+            "name": "桑德·芬乔德·林伯格",
+            "position": "前锋"
+          },
+          {
+            "number": "19",
+            "name": "杰佩·奥科尔斯",
+            "position": "前锋"
+          },
+          {
+            "number": "29",
+            "name": "亚历山大·约翰逊",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "克里斯托斯·阿尔米拉斯",
+            "position": "中场"
+          }
+        ],
         "injured": [],
         "suspended": []
       }

@@ -24,7 +24,7 @@
       "lost": "2.92",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T17:10:38Z"
+    "fetched_at_utc": "2026-08-22T17:20:36Z"
   },
   "shuju": {
     "title": "马拉加VS拉科鲁尼亚(2026/2027西甲)-数据分析-500彩票网",
@@ -396,15 +396,244 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "9",
+            "name": "丘佩",
+            "position": "前锋"
+          },
+          {
+            "number": "11",
+            "name": "华金·穆尼奥斯",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "丹尼·洛伦佐",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "卡洛斯·冈萨雷斯",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "戴维·拉鲁维亚",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "伊赞·梅里诺",
+            "position": "中场"
+          },
+          {
+            "number": "31",
+            "name": "拉斐尔·加里多",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "埃纳尔·加利莱亚",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "安赫尔·雷西奥",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "卡洛斯·普加",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "阿方索·埃雷罗",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "19",
+            "name": "胡安·克鲁斯",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "拉蒙·恩里克斯",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "埃内科·豪雷吉",
+            "position": "前锋"
+          },
+          {
+            "number": "24",
+            "name": "胡伦·洛韦特",
+            "position": "前锋"
+          },
+          {
+            "number": "13",
+            "name": "卡洛斯·洛佩斯",
+            "position": "守门员"
+          },
+          {
+            "number": "5",
+            "name": "亚历克斯·帕斯托尔",
+            "position": "后卫"
+          },
+          {
+            "number": "14",
+            "name": "拉法·罗德里格斯",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "海赛姆·阿拜达",
+            "position": "前锋"
+          },
+          {
+            "number": "32",
+            "name": "胡安尼",
+            "position": "前锋"
+          },
+          {
+            "number": "28",
+            "name": "约瑟夫·奥图",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "何塞·萨利纳斯",
+            "position": "后卫"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "7",
+            "name": "皮埃尔·埃默里克·奥巴梅扬",
+            "position": "前锋"
+          },
+          {
+            "number": "18",
+            "name": "乔纳森·阿斯普·延森",
+            "position": "中场"
+          },
+          {
+            "number": "32",
+            "name": "比尔·多诺尔·恩松戈·汤法克",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "阿德里亚·阿尔蒂米拉",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "洛伦佐·阿马图奇",
+            "position": "中场"
+          },
+          {
+            "number": "21",
+            "name": "马里奥·索里亚诺",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "吉亚科莫·夸利亚塔",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "布莱特·埃德",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "卢卡斯·努比",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "西莫·纳瓦罗",
+            "position": "后卫"
+          },
+          {
+            "number": "13",
+            "name": "莱昂纳多·罗曼",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "24",
+            "name": "安赫利尼奥",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "阿尔瑙·科马斯",
+            "position": "后卫"
+          },
+          {
+            "number": "9",
+            "name": "扎卡里亚·埃达乔里",
+            "position": "前锋"
+          },
+          {
+            "number": "25",
+            "name": "阿尔瓦罗·费洛",
+            "position": "守门员"
+          },
+          {
+            "number": "34",
+            "name": "特恩·吉塞尔哈特",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "米格尔·洛雷罗",
+            "position": "后卫"
+          },
+          {
+            "number": "11",
+            "name": "戴维·梅利亚",
+            "position": "前锋"
+          },
+          {
+            "number": "1",
+            "name": "热尔曼·帕雷尼奥",
+            "position": "守门员"
+          },
+          {
+            "number": "14",
+            "name": "里基·罗德里格斯",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "迭戈·比利亚雷斯",
+            "position": "中场"
+          },
+          {
+            "number": "19",
+            "name": "路易斯米·克鲁斯",
+            "position": "前锋"
+          },
+          {
+            "number": "33",
+            "name": "凯文·桑切斯·雷伊",
+            "position": "前锋"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
@@ -524,22 +753,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.120↓",
-        "handicap": "平手/半球",
-        "away_water": "0.770",
-        "time": "08-22 00:22"
-      },
-      "init": {
-        "home_water": "1.130",
-        "handicap": "平手/半球",
-        "away_water": "0.770",
-        "time": "08-12 11:01"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -553,6 +766,22 @@
         "handicap": "平手",
         "away_water": "1.160",
         "time": "08-05 17:59"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.120↓",
+        "handicap": "平手/半球",
+        "away_water": "0.770",
+        "time": "08-22 00:22"
+      },
+      "init": {
+        "home_water": "1.130",
+        "handicap": "平手/半球",
+        "away_water": "0.770",
+        "time": "08-12 11:01"
       }
     },
     {

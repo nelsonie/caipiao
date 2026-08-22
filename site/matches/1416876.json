@@ -24,7 +24,7 @@
       "lost": "4.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T17:10:34Z"
+    "fetched_at_utc": "2026-08-22T17:20:33Z"
   },
   "shuju": {
     "title": "兰斯VS阿纳西(2026/2027法乙)-数据分析-500彩票网",
@@ -352,15 +352,209 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "99",
+            "name": "桑布·苏马诺",
+            "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "穆罕默德·达拉米",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "亚亚·福法纳",
+            "position": "中场"
+          },
+          {
+            "number": "62",
+            "name": "阿明·卡西",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "西奥·莱昂尼",
+            "position": "中场"
+          },
+          {
+            "number": "87",
+            "name": "安格·马夏尔·蒂亚",
+            "position": "中场"
+          },
+          {
+            "number": "27",
+            "name": "道乌达·冈多",
+            "position": "后卫"
+          },
+          {
+            "number": "22",
+            "name": "萨缪尔·科托",
+            "position": "后卫"
+          },
+          {
+            "number": "28",
+            "name": "恩塔蒙·埃利·阿霍农",
+            "position": "后卫"
+          },
+          {
+            "number": "63",
+            "name": "阿梅尔·佐瓦里",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "汤姆·里齐·胡尔斯曼",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "77",
+            "name": "昆汀·帕里斯",
+            "position": "前锋"
+          },
+          {
+            "number": "5",
+            "name": "约翰·奥托梅沃",
+            "position": "后卫"
+          },
+          {
+            "number": "12",
+            "name": "埃丁·奥莫拉吉",
+            "position": "守门员"
+          },
+          {
+            "number": "48",
+            "name": "阿罗恩·加杜",
+            "position": "前锋"
+          },
+          {
+            "number": "7",
+            "name": "蒂迪亚娜·迪亚拉苏巴",
+            "position": "前锋"
+          },
+          {
+            "number": "44",
+            "name": "曼祖尔·奥克瓦罗",
+            "position": "后卫"
+          },
+          {
+            "number": "10",
+            "name": "尤瑟夫·埃尔卡查蒂",
+            "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "吉安·马姆布库",
+            "position": "后卫"
+          },
+          {
+            "number": "61",
+            "name": "查姆赛丁·库兰法尔",
+            "position": "中场"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "17",
+            "name": "泽皮克诺·雷德蒙德",
+            "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "迪宝尔特·兰保德",
+            "position": "前锋"
+          },
+          {
+            "number": "28",
+            "name": "安托万·拉罗斯",
+            "position": "前锋"
+          },
+          {
+            "number": "25",
+            "name": "保罗·韦诺",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "阿梅德·卡什",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "科内",
+            "position": "中场"
+          },
+          {
+            "number": "27",
+            "name": "朱利安·库阿迪奥",
+            "position": "后卫"
+          },
+          {
+            "number": "18",
+            "name": "阿克塞尔·德鲁辛",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "弗朗索瓦·拉朱吉",
+            "position": "后卫"
+          },
+          {
+            "number": "41",
+            "name": "蒂博·德尔菲斯",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "弗洛里安·艾斯卡勒斯",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
+          {
+            "number": "19",
+            "name": "基利安·维尼尔",
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "马特奥·维永",
+            "position": "后卫"
+          },
+          {
+            "number": "15",
+            "name": "帕斯卡·莫齐",
+            "position": "中场"
+          },
+          {
+            "number": "4",
+            "name": "萨沙·利马",
+            "position": "后卫"
+          },
+          {
+            "number": "80",
+            "name": "莫伊斯·萨希",
+            "position": "前锋"
+          },
+          {
+            "number": "16",
+            "name": "托马斯·卡伦斯",
+            "position": "守门员"
+          },
+          {
+            "number": "12",
+            "name": "卡丹·杨",
+            "position": "前锋"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
@@ -480,22 +674,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.760↑",
-        "time": "08-22 08:48"
-      },
-      "init": {
-        "home_water": "1.200",
-        "handicap": "一球",
-        "away_water": "0.620",
-        "time": "08-17 19:55"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -509,6 +687,22 @@
         "handicap": "半球",
         "away_water": "1.010",
         "time": "08-19 08:22"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.760↑",
+        "time": "08-22 08:48"
+      },
+      "init": {
+        "home_water": "1.200",
+        "handicap": "一球",
+        "away_water": "0.620",
+        "time": "08-17 19:55"
       }
     },
     {
