@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-22T19:40:33Z",
+  "last_updated_utc": "2026-08-22T19:50:32Z",
   "matches": [
     {
       "xml_id": "2041000",
@@ -216,60 +216,6 @@
       "matchnum_label": "周日011",
       "home_team_id": "731",
       "away_team_id": "660"
-    },
-    {
-      "xml_id": "2041012",
-      "matchnum": "7012",
-      "date": "2026-08-23",
-      "dayofweek": "星期天",
-      "league": "葡萄牙超级联赛",
-      "home": "吉马良斯",
-      "away": "葡萄牙国民",
-      "spf_win": "2.90",
-      "spf_draw": "3.30",
-      "spf_lost": "2.08",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1438073",
-      "kickoff_cst": "2026-08-23 22:30",
-      "matchnum_label": "周日012",
-      "home_team_id": "893",
-      "away_team_id": "1099"
-    },
-    {
-      "xml_id": "2041013",
-      "matchnum": "7013",
-      "date": "2026-08-23",
-      "dayofweek": "星期天",
-      "league": "瑞典超级联赛",
-      "home": "哈马比",
-      "away": "哥德堡盖斯",
-      "spf_win": "2.00",
-      "spf_draw": "3.60",
-      "spf_lost": "2.85",
-      "spf_updated": "2026-08-22 09:44:32",
-      "gameid": "1362747",
-      "kickoff_cst": "2026-08-23 22:30",
-      "matchnum_label": "周日013",
-      "home_team_id": "852",
-      "away_team_id": "288"
-    },
-    {
-      "xml_id": "2041014",
-      "matchnum": "7014",
-      "date": "2026-08-23",
-      "dayofweek": "星期天",
-      "league": "荷兰甲级联赛",
-      "home": "坎布尔",
-      "away": "费耶诺德",
-      "spf_win": "2.09",
-      "spf_draw": "4.15",
-      "spf_lost": "2.44",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1415880",
-      "kickoff_cst": "2026-08-23 22:45",
-      "matchnum_label": "周日014",
-      "home_team_id": "235",
-      "away_team_id": "801"
     },
     {
       "xml_id": "2041015",
