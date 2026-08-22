@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-22T06:40:55Z",
+  "last_updated_utc": "2026-08-22T06:50:55Z",
   "matches": [
     {
       "xml_id": "2040974",
@@ -154,9 +154,9 @@
       "home": "埃弗顿",
       "away": "水晶宫",
       "spf_win": "4.50",
-      "spf_draw": "3.65",
-      "spf_lost": "1.58",
-      "spf_updated": "2026-08-21 09:55:30",
+      "spf_draw": "3.55",
+      "spf_lost": "1.60",
+      "spf_updated": "2026-08-22 14:37:23",
       "gameid": "1420318",
       "kickoff_cst": "2026-08-22 22:00",
       "matchnum_label": "周六010",
@@ -1098,6 +1098,24 @@
       "matchnum_label": "周一009",
       "home_team_id": "1263",
       "away_team_id": "3928"
+    },
+    {
+      "xml_id": "2041037",
+      "matchnum": "1010",
+      "date": "2026-08-25",
+      "dayofweek": "星期二",
+      "league": "西班牙甲级联赛",
+      "home": "马拉加",
+      "away": "拉科鲁尼亚",
+      "spf_win": "5.50",
+      "spf_draw": "3.80",
+      "spf_lost": "1.46",
+      "spf_updated": "2026-08-22 09:44:32",
+      "gameid": "1427954",
+      "kickoff_cst": "2026-08-25 03:30",
+      "matchnum_label": "周一010",
+      "home_team_id": "1056",
+      "away_team_id": "959"
     },
     {
       "xml_id": "2041038",

@@ -24,7 +24,7 @@
       "lost": "3.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T06:40:48Z"
+    "fetched_at_utc": "2026-08-22T06:50:50Z"
   },
   "shuju": {
     "title": "博洛尼亚VS拉齐奥(2026/2027意甲)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "平手/半球",
-        "away_water": "1.030↓",
-        "time": "08-22 01:32"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "平手/半球",
-        "away_water": "1.100",
-        "time": "06-29 16:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "平手/半球",
         "away_water": "1.050",
         "time": "08-10 00:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "平手/半球",
+        "away_water": "1.030↓",
+        "time": "08-22 01:32"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "平手/半球",
+        "away_water": "1.100",
+        "time": "06-29 16:03"
       }
     },
     {
