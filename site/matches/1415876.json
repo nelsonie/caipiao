@@ -24,7 +24,7 @@
       "lost": "3.48",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T09:30:26Z"
+    "fetched_at_utc": "2026-08-22T09:40:28Z"
   },
   "shuju": {
     "title": "前进之鹰VS海牙(2026/2027荷甲)-数据分析-500彩票网",
@@ -748,22 +748,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.930↑",
-        "time": "08-21 20:55"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "一球",
-        "away_water": "0.860",
-        "time": "08-16 20:37"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -777,6 +761,22 @@
         "handicap": "球半",
         "away_water": "0.560",
         "time": "08-16 02:35"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.930↑",
+        "time": "08-21 20:55"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "一球",
+        "away_water": "0.860",
+        "time": "08-16 20:37"
       }
     },
     {
