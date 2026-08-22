@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-22T11:20:55Z",
+  "last_updated_utc": "2026-08-22T11:30:53Z",
   "matches": [
     {
       "xml_id": "2040974",
@@ -117,10 +117,10 @@
       "league": "英格兰冠军联赛",
       "home": "米尔沃尔",
       "away": "诺维奇",
-      "spf_win": "5.45",
-      "spf_draw": "4.15",
-      "spf_lost": "1.42",
-      "spf_updated": "2026-08-22 19:13:08",
+      "spf_win": "5.90",
+      "spf_draw": "4.25",
+      "spf_lost": "1.38",
+      "spf_updated": "2026-08-22 19:17:55",
       "gameid": "1425319",
       "kickoff_cst": "2026-08-22 19:30",
       "matchnum_label": "周六008",
@@ -920,24 +920,6 @@
       "away_team_id": "653"
     },
     {
-      "xml_id": "2041025",
-      "matchnum": "7025",
-      "date": "2026-08-24",
-      "dayofweek": "星期一",
-      "league": "葡萄牙超级联赛",
-      "home": "波尔图",
-      "away": "阿罗卡",
-      "spf_win": "2.75",
-      "spf_draw": "3.95",
-      "spf_lost": "1.95",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1438067",
-      "kickoff_cst": "2026-08-24 03:30",
-      "matchnum_label": "周日025",
-      "home_team_id": "694",
-      "away_team_id": "5551"
-    },
-    {
       "xml_id": "2041026",
       "matchnum": "7026",
       "date": "2026-08-24",
@@ -1026,24 +1008,6 @@
       "matchnum_label": "周一004",
       "home_team_id": "622",
       "away_team_id": "985"
-    },
-    {
-      "xml_id": "2041033",
-      "matchnum": "1006",
-      "date": "2026-08-25",
-      "dayofweek": "星期二",
-      "league": "意大利甲级联赛",
-      "home": "罗马",
-      "away": "佛罗伦萨",
-      "spf_win": "2.64",
-      "spf_draw": "3.35",
-      "spf_lost": "2.21",
-      "spf_updated": "2026-08-22 09:44:32",
-      "gameid": "1414147",
-      "kickoff_cst": "2026-08-25 02:45",
-      "matchnum_label": "周一006",
-      "home_team_id": "1032",
-      "away_team_id": "803"
     },
     {
       "xml_id": "2041034",
