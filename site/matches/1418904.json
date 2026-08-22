@@ -24,7 +24,7 @@
       "lost": "3.70",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T09:10:27Z"
+    "fetched_at_utc": "2026-08-22T09:20:29Z"
   },
   "shuju": {
     "title": "町田泽维亚VS浦和红钻(2026/2027日职)-数据分析-500彩票网",
@@ -718,29 +718,13 @@
         "home_water": "0.810↑",
         "handicap": "半球",
         "away_water": "1.030↑",
-        "time": "08-22 06:39"
+        "time": "08-22 17:08"
       },
       "init": {
         "home_water": "0.800",
         "handicap": "半球",
         "away_water": "1.000",
         "time": "08-17 14:52"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "半球降",
-        "away_water": "1.020↑",
-        "time": "08-22 08:01"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "半球/一球",
-        "away_water": "0.830",
-        "time": "08-16 20:02"
       }
     },
     {
@@ -757,6 +741,22 @@
         "handicap": "球半",
         "away_water": "0.330",
         "time": "08-16 19:36"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "半球降",
+        "away_water": "1.020↑",
+        "time": "08-22 17:09"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "半球/一球",
+        "away_water": "0.830",
+        "time": "08-16 20:02"
       }
     },
     {
