@@ -24,7 +24,7 @@
       "lost": "5.50",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T16:30:38Z"
+    "fetched_at_utc": "2026-08-22T16:40:38Z"
   },
   "shuju": {
     "title": "吉维森特VS卡萨匹亚(2026/2027葡超)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "半球/一球",
-        "away_water": "0.940↑",
-        "time": "08-22 17:24"
-      },
-      "init": {
-        "home_water": "1.040",
-        "handicap": "半球/一球",
-        "away_water": "0.770",
-        "time": "08-18 04:10"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "球半",
         "away_water": "0.370",
         "time": "08-17 21:41"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "半球/一球",
+        "away_water": "0.940↑",
+        "time": "08-22 17:24"
+      },
+      "init": {
+        "home_water": "1.040",
+        "handicap": "半球/一球",
+        "away_water": "0.770",
+        "time": "08-18 04:10"
       }
     },
     {
