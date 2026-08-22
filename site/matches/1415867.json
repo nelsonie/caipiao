@@ -24,7 +24,7 @@
       "lost": "1.47",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T14:50:13Z"
+    "fetched_at_utc": "2026-08-22T15:00:16Z"
   },
   "shuju": {
     "title": "福图纳锡塔德VS阿尔克马尔(2026/2027荷甲)-数据分析-500彩票网",
@@ -738,22 +738,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "受一球降",
-        "away_water": "0.920↓",
-        "time": "08-22 22:32"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "受半球/一球",
-        "away_water": "0.930",
-        "time": "08-16 01:48"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -767,6 +751,22 @@
         "handicap": "受一球",
         "away_water": "0.960",
         "time": "08-17 01:32"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "受一球降",
+        "away_water": "0.920↓",
+        "time": "08-22 22:32"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "受半球/一球",
+        "away_water": "0.930",
+        "time": "08-16 01:48"
       }
     },
     {
