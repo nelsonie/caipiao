@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-22T00:00:38Z",
+  "last_updated_utc": "2026-08-22T00:10:37Z",
   "matches": [
     {
       "xml_id": "2040974",
@@ -504,24 +504,6 @@
       "matchnum_label": "周日008",
       "home_team_id": "378",
       "away_team_id": "834"
-    },
-    {
-      "xml_id": "2041009",
-      "matchnum": "7009",
-      "date": "2026-08-23",
-      "dayofweek": "星期天",
-      "league": "英格兰超级联赛",
-      "home": "曼彻斯特城",
-      "away": "伯恩茅斯",
-      "spf_win": "2.00",
-      "spf_draw": "3.80",
-      "spf_lost": "2.74",
-      "spf_updated": "2026-08-21 09:55:30",
-      "gameid": "1420336",
-      "kickoff_cst": "2026-08-23 21:00",
-      "matchnum_label": "周日009",
-      "home_team_id": "1072",
-      "away_team_id": "667"
     },
     {
       "xml_id": "2041010",
