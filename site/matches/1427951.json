@@ -24,7 +24,7 @@
       "lost": "1.22",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T23:00:24Z"
+    "fetched_at_utc": "2026-08-22T23:10:25Z"
   },
   "shuju": {
     "title": "埃尔切VS巴塞罗那(2026/2027西甲)-数据分析-500彩票网",
@@ -730,8 +730,8 @@
       "live": {
         "home_water": "0.900",
         "handicap": "受球半",
-        "away_water": "0.830",
-        "time": "08-23 06:35"
+        "away_water": "0.850↑",
+        "time": "08-23 06:46"
       },
       "init": {
         "home_water": "0.900",
@@ -763,29 +763,13 @@
         "home_water": "0.960↓",
         "handicap": "受球半",
         "away_water": "0.890↓",
-        "time": "08-23 06:33"
+        "time": "08-23 07:02"
       },
       "init": {
         "home_water": "0.980",
         "handicap": "受球半",
         "away_water": "0.920",
         "time": "08-17 14:52"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "受球半",
-        "away_water": "0.930↓",
-        "time": "08-22 22:24"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "受球半",
-        "away_water": "0.960",
-        "time": "08-02 19:15"
       }
     },
     {
@@ -802,6 +786,22 @@
         "handicap": "受球半",
         "away_water": "0.900",
         "time": "08-11 00:04"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "受球半",
+        "away_water": "0.930↓",
+        "time": "08-22 22:24"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "受球半",
+        "away_water": "0.960",
+        "time": "08-02 19:15"
       }
     },
     {
@@ -1313,7 +1313,7 @@
     {
       "cid": "9",
       "company": "易**",
-      "time": "2026-08-23 06:31:49",
+      "time": "2026-08-23 06:58:51",
       "odds": {
         "live": [
           "9.80",
