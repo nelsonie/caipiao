@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-23T13:40:32Z",
+  "last_updated_utc": "2026-08-23T13:50:31Z",
   "matches": [
     {
       "xml_id": "2041001",
@@ -54,24 +54,6 @@
       "matchnum_label": "周日003",
       "home_team_id": "1611",
       "away_team_id": "5739"
-    },
-    {
-      "xml_id": "2041004",
-      "matchnum": "7004",
-      "date": "2026-08-23",
-      "dayofweek": "星期天",
-      "league": "英格兰冠军联赛",
-      "home": "西布罗姆维奇",
-      "away": "伯恩利",
-      "spf_win": "1.38",
-      "spf_draw": "4.30",
-      "spf_lost": "5.80",
-      "spf_updated": "2026-08-23 18:25:09",
-      "gameid": "1425333",
-      "kickoff_cst": "2026-08-23 19:00",
-      "matchnum_label": "周日004",
-      "home_team_id": "1284",
-      "away_team_id": "700"
     },
     {
       "xml_id": "2041005",
@@ -576,6 +558,24 @@
       "matchnum_label": "周一005",
       "home_team_id": "8310",
       "away_team_id": "4882"
+    },
+    {
+      "xml_id": "2041033",
+      "matchnum": "1006",
+      "date": "2026-08-25",
+      "dayofweek": "星期二",
+      "league": "意大利甲级联赛",
+      "home": "罗马",
+      "away": "佛罗伦萨",
+      "spf_win": "2.64",
+      "spf_draw": "3.35",
+      "spf_lost": "2.21",
+      "spf_updated": "2026-08-22 09:44:32",
+      "gameid": "1414147",
+      "kickoff_cst": "2026-08-25 02:45",
+      "matchnum_label": "周一006",
+      "home_team_id": "1032",
+      "away_team_id": "803"
     },
     {
       "xml_id": "2041034",
