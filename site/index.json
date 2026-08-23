@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-23T07:10:32Z",
+  "last_updated_utc": "2026-08-23T07:20:33Z",
   "matches": [
     {
       "xml_id": "2041001",
@@ -387,10 +387,10 @@
       "league": "意大利甲级联赛",
       "home": "都灵",
       "away": "AC米兰",
-      "spf_win": "2.04",
-      "spf_draw": "3.34",
-      "spf_lost": "2.94",
-      "spf_updated": "2026-08-23 12:17:40",
+      "spf_win": "1.95",
+      "spf_draw": "3.45",
+      "spf_lost": "3.06",
+      "spf_updated": "2026-08-23 15:13:29",
       "gameid": "1414159",
       "kickoff_cst": "2026-08-24 02:45",
       "matchnum_label": "周日022",
@@ -666,24 +666,6 @@
       "matchnum_label": "周一010",
       "home_team_id": "1056",
       "away_team_id": "959"
-    },
-    {
-      "xml_id": "2041038",
-      "matchnum": "1011",
-      "date": "2026-08-25",
-      "dayofweek": "星期二",
-      "league": "巴西甲级联赛",
-      "home": "博塔弗戈",
-      "away": "巴拉纳竞技",
-      "spf_win": "4.90",
-      "spf_draw": "3.70",
-      "spf_lost": "1.53",
-      "spf_updated": "2026-08-22 09:44:32",
-      "gameid": "1362490",
-      "kickoff_cst": "2026-08-25 07:00",
-      "matchnum_label": "周一011",
-      "home_team_id": "1568",
-      "away_team_id": "1571"
     }
   ]
 }
