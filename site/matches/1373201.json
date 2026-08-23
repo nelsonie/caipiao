@@ -24,7 +24,7 @@
       "lost": "2.58",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-23T03:50:09Z"
+    "fetched_at_utc": "2026-08-23T04:00:07Z"
   },
   "shuju": {
     "title": "大田市民VS江原FC(2026K1联赛)-数据分析-500彩票网",
@@ -728,6 +728,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↓",
+        "handicap": "平手",
+        "away_water": "0.990↑",
+        "time": "08-23 11:37"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "平手",
+        "away_water": "0.980",
+        "time": "08-18 09:04"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -741,22 +757,6 @@
         "handicap": "平手",
         "away_water": "0.770",
         "time": "08-16 18:57"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "平手",
-        "away_water": "1.000↑",
-        "time": "08-23 10:35"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "平手",
-        "away_water": "0.980",
-        "time": "08-18 09:04"
       }
     },
     {
@@ -795,10 +795,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.890↑",
+        "home_water": "0.880↑",
         "handicap": "平手",
-        "away_water": "1.010↓",
-        "time": "08-23 11:29"
+        "away_water": "1.020↓",
+        "time": "08-23 11:47"
       },
       "init": {
         "home_water": "0.790",
