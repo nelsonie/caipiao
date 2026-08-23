@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-23T01:50:31Z",
+  "last_updated_utc": "2026-08-23T02:00:34Z",
   "matches": [
     {
       "xml_id": "2041001",
@@ -432,6 +432,24 @@
       "matchnum_label": "周日024",
       "home_team_id": "564",
       "away_team_id": "653"
+    },
+    {
+      "xml_id": "2041025",
+      "matchnum": "7025",
+      "date": "2026-08-24",
+      "dayofweek": "星期一",
+      "league": "葡萄牙超级联赛",
+      "home": "波尔图",
+      "away": "阿罗卡",
+      "spf_win": "2.68",
+      "spf_draw": "3.90",
+      "spf_lost": "2.00",
+      "spf_updated": "2026-08-22 19:25:47",
+      "gameid": "1438067",
+      "kickoff_cst": "2026-08-24 03:30",
+      "matchnum_label": "周日025",
+      "home_team_id": "694",
+      "away_team_id": "5551"
     },
     {
       "xml_id": "2041026",
