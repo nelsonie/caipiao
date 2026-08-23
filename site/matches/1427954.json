@@ -24,7 +24,7 @@
       "lost": "2.92",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-23T04:20:33Z"
+    "fetched_at_utc": "2026-08-23T04:30:28Z"
   },
   "shuju": {
     "title": "马拉加VS拉科鲁尼亚(2026/2027西甲)-数据分析-500彩票网",
@@ -753,22 +753,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.780↓",
-        "handicap": "平手降",
-        "away_water": "1.110↑",
-        "time": "08-23 10:01"
-      },
-      "init": {
-        "home_water": "1.130",
-        "handicap": "平手/半球",
-        "away_water": "0.770",
-        "time": "08-12 11:01"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -782,6 +766,22 @@
         "handicap": "平手",
         "away_water": "1.160",
         "time": "08-05 17:59"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.780↓",
+        "handicap": "平手降",
+        "away_water": "1.110↑",
+        "time": "08-23 10:01"
+      },
+      "init": {
+        "home_water": "1.130",
+        "handicap": "平手/半球",
+        "away_water": "0.770",
+        "time": "08-12 11:01"
       }
     },
     {
