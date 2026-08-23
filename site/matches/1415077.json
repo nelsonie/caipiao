@@ -24,7 +24,7 @@
       "lost": "1.58",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-23T12:50:12Z"
+    "fetched_at_utc": "2026-08-23T13:00:15Z"
   },
   "shuju": {
     "title": "昂热VS里尔(2026/2027法甲)-数据分析-500彩票网",
@@ -405,11 +405,11 @@
           {
             "number": "19",
             "name": "阿明·埃尔·瓦扎尼",
-            "position": "前锋"
+            "position": "中场"
           },
           {
-            "number": "3",
-            "name": "雅克·埃科米",
+            "number": "26",
+            "name": "安东尼·贝尔蒙特",
             "position": "中场"
           },
           {
@@ -428,13 +428,8 @@
             "position": "中场"
           },
           {
-            "number": "27",
-            "name": "利连·拉奥-利索亚",
-            "position": "中场"
-          },
-          {
-            "number": "26",
-            "name": "安东尼·贝尔蒙特",
+            "number": "3",
+            "name": "雅克·埃科米",
             "position": "后卫"
           },
           {
@@ -448,32 +443,17 @@
             "position": "后卫"
           },
           {
+            "number": "27",
+            "name": "利连·拉奥-利索亚",
+            "position": "后卫"
+          },
+          {
             "number": "1",
             "name": "安东尼·洛佩斯",
             "position": "守门员"
           }
         ],
         "subs": [
-          {
-            "number": "17",
-            "name": "约瑟夫·卡卢卢",
-            "position": "后卫"
-          },
-          {
-            "number": "34",
-            "name": "马埃尔·热尔尼贡",
-            "position": "后卫"
-          },
-          {
-            "number": "11",
-            "name": "哈鲁纳·吉比林",
-            "position": "前锋"
-          },
-          {
-            "number": "36",
-            "name": "贝恩·迪亚塔",
-            "position": "中场"
-          },
           {
             "number": "2",
             "name": "卡伦斯·阿尔屈",
@@ -485,6 +465,31 @@
             "position": "中场"
           },
           {
+            "number": "36",
+            "name": "贝恩·迪亚塔",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "哈鲁纳·吉比林",
+            "position": "前锋"
+          },
+          {
+            "number": "34",
+            "name": "马埃尔·热尔尼贡",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "约瑟夫·卡卢卢",
+            "position": "后卫"
+          },
+          {
+            "number": "7",
+            "name": "乌斯曼·辛巴科利",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "普罗斯珀·彼得",
             "position": "前锋"
@@ -493,11 +498,6 @@
             "number": "16",
             "name": "梅尔文·津加",
             "position": "守门员"
-          },
-          {
-            "number": "7",
-            "name": "乌斯曼·辛巴科利",
-            "position": "前锋"
           }
         ],
         "injured": [],
@@ -522,8 +522,8 @@
             "position": "中场"
           },
           {
-            "number": "17",
-            "name": "恩加阿耶尔·穆考",
+            "number": "8",
+            "name": "埃唐·姆巴佩",
             "position": "中场"
           },
           {
@@ -532,8 +532,8 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "埃唐·姆巴佩",
+            "number": "17",
+            "name": "恩加阿耶尔·穆考",
             "position": "中场"
           },
           {
@@ -569,6 +569,11 @@
             "position": "后卫"
           },
           {
+            "number": "27",
+            "name": "菲利克斯·科雷亚",
+            "position": "前锋"
+          },
+          {
             "number": "16",
             "name": "阿诺德·博达特",
             "position": "守门员"
@@ -594,19 +599,14 @@
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "奥萨梅·萨赫拉维",
-            "position": "前锋"
-          },
-          {
-            "number": "27",
-            "name": "菲利克斯·科雷亚",
-            "position": "前锋"
-          },
-          {
             "number": "2",
             "name": "卢恩·斯尔达诺维奇",
             "position": "后卫"
+          },
+          {
+            "number": "11",
+            "name": "奥萨梅·萨赫拉维",
+            "position": "前锋"
           }
         ],
         "injured": [],
