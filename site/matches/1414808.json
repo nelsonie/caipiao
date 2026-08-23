@@ -24,7 +24,7 @@
       "lost": "1.69",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-23T05:00:14Z"
+    "fetched_at_utc": "2026-08-23T05:10:16Z"
   },
   "shuju": {
     "title": "不伦瑞克VS柏林联合(2026/2027德国杯)-数据分析-500彩票网",
@@ -738,22 +738,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.620↓",
-        "handicap": "受半球/一球",
-        "away_water": "1.040↑",
-        "time": "08-23 10:20"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "受半球/一球",
-        "away_water": "0.870",
-        "time": "08-16 17:50"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -767,6 +751,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.980",
         "time": "08-16 20:09"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.620↓",
+        "handicap": "受半球/一球",
+        "away_water": "1.040↑",
+        "time": "08-23 10:20"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "受半球/一球",
+        "away_water": "0.870",
+        "time": "08-16 17:50"
       }
     },
     {
