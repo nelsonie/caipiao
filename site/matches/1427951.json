@@ -24,7 +24,7 @@
       "lost": "1.22",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-23T08:30:24Z"
+    "fetched_at_utc": "2026-08-23T08:40:23Z"
   },
   "shuju": {
     "title": "埃尔切VS巴塞罗那(2026/2027西甲)-数据分析-500彩票网",
@@ -773,22 +773,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "受球半",
-        "away_water": "1.000↑",
-        "time": "08-23 16:21"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "受球半",
-        "away_water": "0.900",
-        "time": "08-11 00:04"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -802,6 +786,22 @@
         "handicap": "受球半",
         "away_water": "0.960",
         "time": "08-02 19:15"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "受球半",
+        "away_water": "1.000↑",
+        "time": "08-23 16:21"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "受球半",
+        "away_water": "0.900",
+        "time": "08-11 00:04"
       }
     },
     {
