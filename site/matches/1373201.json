@@ -24,7 +24,7 @@
       "lost": "2.58",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-23T11:00:09Z"
+    "fetched_at_utc": "2026-08-23T11:10:08Z"
   },
   "shuju": {
     "title": "大田市民VS江原FC(2026K1联赛)-数据分析-500彩票网",
@@ -522,13 +522,13 @@
             "position": "中场"
           },
           {
-            "number": "97",
-            "name": "李裕贤",
+            "number": "4",
+            "name": "徐珉优",
             "position": "中场"
           },
           {
-            "number": "4",
-            "name": "徐珉优",
+            "number": "97",
+            "name": "李裕贤",
             "position": "中场"
           },
           {
@@ -542,13 +542,13 @@
             "position": "后卫"
           },
           {
-            "number": "47",
-            "name": "信敏河",
+            "number": "23",
+            "name": "马尔科·图奇",
             "position": "后卫"
           },
           {
-            "number": "23",
-            "name": "马尔科·图奇",
+            "number": "47",
+            "name": "信敏河",
             "position": "后卫"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.960↓",
-        "handicap": "平手/半球升",
-        "away_water": "0.860↑",
-        "time": "08-23 18:17"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "平手",
-        "away_water": "0.770",
-        "time": "08-16 18:57"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.980",
         "time": "08-18 09:04"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.960↓",
+        "handicap": "平手/半球升",
+        "away_water": "0.860↑",
+        "time": "08-23 18:17"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "平手",
+        "away_water": "0.770",
+        "time": "08-16 18:57"
       }
     },
     {
