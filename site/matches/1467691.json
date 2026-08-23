@@ -24,7 +24,7 @@
       "lost": "6.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-23T23:40:08Z"
+    "fetched_at_utc": "2026-08-23T23:50:09Z"
   },
   "shuju": {
     "title": "吉达联合VS艾哈斯姆(2026/2027沙特联)-数据分析-500彩票网",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.780↓",
-        "time": "08-24 06:59"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "一球",
-        "away_water": "0.880",
-        "time": "08-23 14:42"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "球半",
         "away_water": "0.730",
         "time": "08-22 02:38"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "一球/球半升",
+        "away_water": "0.780↓",
+        "time": "08-24 06:59"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "一球",
+        "away_water": "0.880",
+        "time": "08-23 14:42"
       }
     },
     {
