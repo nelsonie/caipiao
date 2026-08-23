@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-23T01:40:32Z",
+  "last_updated_utc": "2026-08-23T01:50:31Z",
   "matches": [
     {
       "xml_id": "2041001",
@@ -434,24 +434,6 @@
       "away_team_id": "653"
     },
     {
-      "xml_id": "2041025",
-      "matchnum": "7025",
-      "date": "2026-08-24",
-      "dayofweek": "星期一",
-      "league": "葡萄牙超级联赛",
-      "home": "波尔图",
-      "away": "阿罗卡",
-      "spf_win": "2.68",
-      "spf_draw": "3.90",
-      "spf_lost": "2.00",
-      "spf_updated": "2026-08-22 19:25:47",
-      "gameid": "1438067",
-      "kickoff_cst": "2026-08-24 03:30",
-      "matchnum_label": "周日025",
-      "home_team_id": "694",
-      "away_team_id": "5551"
-    },
-    {
       "xml_id": "2041026",
       "matchnum": "7026",
       "date": "2026-08-24",
@@ -459,10 +441,10 @@
       "league": "美国职业大联盟",
       "home": "新英格兰革命",
       "away": "纽约城",
-      "spf_win": "4.15",
-      "spf_draw": "3.85",
-      "spf_lost": "1.59",
-      "spf_updated": "2026-08-22 13:43:03",
+      "spf_win": "4.25",
+      "spf_draw": "3.90",
+      "spf_lost": "1.57",
+      "spf_updated": "2026-08-23 09:40:25",
       "gameid": "1358601",
       "kickoff_cst": "2026-08-24 04:30",
       "matchnum_label": "周日026",

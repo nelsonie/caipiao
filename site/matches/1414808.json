@@ -24,7 +24,7 @@
       "lost": "1.69",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-23T01:40:14Z"
+    "fetched_at_utc": "2026-08-23T01:50:14Z"
   },
   "shuju": {
     "title": "不伦瑞克VS柏林联合(2026/2027德国杯)-数据分析-500彩票网",
@@ -725,16 +725,32 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.890↓",
+        "home_water": "0.900↓",
         "handicap": "受半球",
-        "away_water": "0.890↑",
-        "time": "08-23 09:26"
+        "away_water": "0.900↑",
+        "time": "08-23 09:39"
       },
       "init": {
         "home_water": "0.930",
         "handicap": "受半球",
         "away_water": "0.830",
         "time": "08-17 14:52"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.630↓",
+        "handicap": "受半球/一球",
+        "away_water": "1.030↑",
+        "time": "08-23 09:36"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "受半球/一球",
+        "away_water": "0.870",
+        "time": "08-16 17:50"
       }
     },
     {
@@ -751,22 +767,6 @@
         "handicap": "受半球/一球",
         "away_water": "0.980",
         "time": "08-16 20:09"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.620↓",
-        "handicap": "受半球/一球",
-        "away_water": "1.040↑",
-        "time": "08-23 09:28"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "受半球/一球",
-        "away_water": "0.870",
-        "time": "08-16 17:50"
       }
     },
     {
@@ -853,10 +853,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.890↓",
         "handicap": "受半球升",
-        "away_water": "0.880↑",
-        "time": "08-23 09:26"
+        "away_water": "0.870↑",
+        "time": "08-23 09:37"
       },
       "init": {
         "home_water": "0.920",
@@ -869,10 +869,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.930↓",
+        "home_water": "0.940",
         "handicap": "受半球升",
-        "away_water": "0.950↑",
-        "time": "08-23 09:29"
+        "away_water": "0.940↑",
+        "time": "08-23 09:35"
       },
       "init": {
         "home_water": "0.940",
