@@ -24,7 +24,7 @@
       "lost": "4.05",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-22T23:50:26Z"
+    "fetched_at_utc": "2026-08-23T00:00:27Z"
   },
   "shuju": {
     "title": "桑托斯VS米拉索尔(2026巴甲)-数据分析-500彩票网",
@@ -723,29 +723,13 @@
         "home_water": "0.880↓",
         "handicap": "半球",
         "away_water": "0.950↑",
-        "time": "08-23 07:02"
+        "time": "08-23 07:48"
       },
       "init": {
         "home_water": "0.900",
         "handicap": "半球",
         "away_water": "0.940",
         "time": "08-20 03:01"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.080↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.620↓",
-        "time": "08-23 05:45"
-      },
-      "init": {
-        "home_water": "0.500",
-        "handicap": "平手",
-        "away_water": "1.650",
-        "time": "08-11 00:44"
       }
     },
     {
@@ -762,6 +746,22 @@
         "handicap": "半球",
         "away_water": "0.950",
         "time": "08-17 06:22"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.080↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.620↓",
+        "time": "08-23 05:45"
+      },
+      "init": {
+        "home_water": "0.500",
+        "handicap": "平手",
+        "away_water": "1.650",
+        "time": "08-11 00:44"
       }
     },
     {
