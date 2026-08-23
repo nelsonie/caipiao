@@ -24,7 +24,7 @@
       "lost": "2.68",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-23T14:10:21Z"
+    "fetched_at_utc": "2026-08-23T14:20:21Z"
   },
   "shuju": {
     "title": "圣克拉拉VS法马利康(2026/2027葡超)-数据分析-500彩票网",
@@ -748,22 +748,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "平手",
-        "away_water": "0.940↑",
-        "time": "08-23 20:53"
-      },
-      "init": {
-        "home_water": "1.020",
-        "handicap": "平手",
-        "away_water": "0.870",
-        "time": "08-17 03:55"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -777,6 +761,22 @@
         "handicap": "平手",
         "away_water": "0.850",
         "time": "08-17 04:15"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "平手",
+        "away_water": "0.940↑",
+        "time": "08-23 20:53"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "平手",
+        "away_water": "0.870",
+        "time": "08-17 03:55"
       }
     },
     {
