@@ -24,7 +24,7 @@
       "lost": "7.20",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-23T14:20:11Z"
+    "fetched_at_utc": "2026-08-23T14:30:12Z"
   },
   "shuju": {
     "title": "PSV埃因霍温VS格罗宁根(2026/2027荷甲)-数据分析-500彩票网",
@@ -753,22 +753,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890↓",
-        "handicap": "球半/两球升",
-        "away_water": "0.960↑",
-        "time": "08-23 20:30"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "球半",
-        "away_water": "0.880",
-        "time": "08-16 22:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -782,6 +766,22 @@
         "handicap": "一球/球半",
         "away_water": "0.900",
         "time": "08-16 17:11"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.890↓",
+        "handicap": "球半/两球升",
+        "away_water": "0.960↑",
+        "time": "08-23 20:30"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "球半",
+        "away_water": "0.880",
+        "time": "08-16 22:03"
       }
     },
     {
