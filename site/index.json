@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-23T13:50:31Z",
+  "last_updated_utc": "2026-08-23T14:00:33Z",
   "matches": [
     {
       "xml_id": "2041001",
@@ -54,6 +54,24 @@
       "matchnum_label": "周日003",
       "home_team_id": "1611",
       "away_team_id": "5739"
+    },
+    {
+      "xml_id": "2041004",
+      "matchnum": "7004",
+      "date": "2026-08-23",
+      "dayofweek": "星期天",
+      "league": "英格兰冠军联赛",
+      "home": "西布罗姆维奇",
+      "away": "伯恩利",
+      "spf_win": "1.38",
+      "spf_draw": "4.30",
+      "spf_lost": "5.80",
+      "spf_updated": "2026-08-23 18:25:09",
+      "gameid": "1425333",
+      "kickoff_cst": "2026-08-23 19:00",
+      "matchnum_label": "周日004",
+      "home_team_id": "1284",
+      "away_team_id": "700"
     },
     {
       "xml_id": "2041005",
@@ -189,10 +207,10 @@
       "league": "葡萄牙超级联赛",
       "home": "吉马良斯",
       "away": "葡萄牙国民",
-      "spf_win": "2.88",
-      "spf_draw": "3.15",
-      "spf_lost": "2.15",
-      "spf_updated": "2026-08-23 19:53:23",
+      "spf_win": "2.84",
+      "spf_draw": "3.10",
+      "spf_lost": "2.20",
+      "spf_updated": "2026-08-23 21:56:14",
       "gameid": "1438073",
       "kickoff_cst": "2026-08-23 22:30",
       "matchnum_label": "周日012",
