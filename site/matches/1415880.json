@@ -24,7 +24,7 @@
       "lost": "1.14",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-23T15:10:16Z"
+    "fetched_at_utc": "2026-08-23T15:20:16Z"
   },
   "shuju": {
     "title": "坎布尔VS费耶诺德(2026/2027荷甲)-数据分析-500彩票网",
@@ -522,28 +522,23 @@
         "formation": null,
         "starters": [
           {
+            "number": "27",
+            "name": "高苏·卡苏·迪亚拉",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "上田绮世",
             "position": "前锋"
           },
           {
-            "number": "27",
-            "name": "高苏·卡苏·迪亚拉",
-            "position": "中场"
+            "number": "23",
+            "name": "哈吉·穆萨",
+            "position": "前锋"
           },
           {
             "number": "10",
             "name": "卢西亚诺·瓦伦特",
-            "position": "中场"
-          },
-          {
-            "number": "23",
-            "name": "哈吉·穆萨",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "吉瓦伊·泽基尔",
             "position": "中场"
           },
           {
@@ -552,13 +547,18 @@
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "耶利米·圣杰斯特",
-            "position": "后卫"
+            "number": "8",
+            "name": "吉瓦伊·泽基尔",
+            "position": "中场"
           },
           {
             "number": "35",
             "name": "米卡·马尔莫",
+            "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "耶利米·圣杰斯特",
             "position": "后卫"
           },
           {
