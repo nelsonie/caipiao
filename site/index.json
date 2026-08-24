@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-24T05:20:17Z",
+  "last_updated_utc": "2026-08-24T05:30:13Z",
   "matches": [
     {
       "xml_id": "2041028",
@@ -81,10 +81,10 @@
       "league": "沙特职业联赛",
       "home": "吉达联合",
       "away": "拉斯决心",
-      "spf_win": "2.19",
-      "spf_draw": "3.50",
-      "spf_lost": "2.58",
-      "spf_updated": "2026-08-23 13:09:37",
+      "spf_win": "2.17",
+      "spf_draw": "3.48",
+      "spf_lost": "2.62",
+      "spf_updated": "2026-08-24 13:23:31",
       "gameid": "1467691",
       "kickoff_cst": "2026-08-25 02:00",
       "matchnum_label": "周一005",
@@ -135,10 +135,10 @@
       "league": "英格兰超级联赛",
       "home": "富勒姆",
       "away": "切尔西",
-      "spf_win": "1.90",
-      "spf_draw": "3.50",
+      "spf_win": "1.93",
+      "spf_draw": "3.40",
       "spf_lost": "3.15",
-      "spf_updated": "2026-08-24 11:36:45",
+      "spf_updated": "2026-08-24 13:20:13",
       "gameid": "1420342",
       "kickoff_cst": "2026-08-25 03:00",
       "matchnum_label": "周一008",
@@ -198,6 +198,42 @@
       "matchnum_label": "周一011",
       "home_team_id": "1568",
       "away_team_id": "1571"
+    },
+    {
+      "xml_id": "2041053",
+      "matchnum": "2005",
+      "date": "2026-08-26",
+      "dayofweek": "星期三",
+      "league": "欧洲冠军联赛",
+      "home": "LASK林茨",
+      "away": "凯尔特人",
+      "spf_win": "3.25",
+      "spf_draw": "3.75",
+      "spf_lost": "1.80",
+      "spf_updated": "2026-08-24 13:15:22",
+      "gameid": "1464449",
+      "kickoff_cst": "2026-08-26 03:00",
+      "matchnum_label": "周二005",
+      "home_team_id": "334",
+      "away_team_id": "926"
+    },
+    {
+      "xml_id": "2041054",
+      "matchnum": "2006",
+      "date": "2026-08-26",
+      "dayofweek": "星期三",
+      "league": "欧洲冠军联赛",
+      "home": "博德闪耀",
+      "away": "奈梅亨",
+      "spf_win": "2.24",
+      "spf_draw": "3.75",
+      "spf_lost": "2.40",
+      "spf_updated": "2026-08-24 13:15:22",
+      "gameid": "1464464",
+      "kickoff_cst": "2026-08-26 03:00",
+      "matchnum_label": "周二006",
+      "home_team_id": "703",
+      "away_team_id": "353"
     }
   ]
 }
