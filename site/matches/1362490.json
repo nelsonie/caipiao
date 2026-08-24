@@ -24,7 +24,7 @@
       "lost": "2.98",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-24T06:00:12Z"
+    "fetched_at_utc": "2026-08-24T06:10:12Z"
   },
   "shuju": {
     "title": "博塔弗戈VS巴拉纳竞技(2026巴甲)-数据分析-500彩票网",
@@ -729,10 +729,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.960↑",
+        "home_water": "0.970↑",
         "handicap": "平手/半球",
-        "away_water": "0.930",
-        "time": "08-24 12:03"
+        "away_water": "0.920↓",
+        "time": "08-24 13:51"
       },
       "init": {
         "home_water": "0.950",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↑",
-        "handicap": "平手/半球",
-        "away_water": "0.880↓",
-        "time": "08-24 12:46"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手/半球",
-        "away_water": "0.890",
-        "time": "08-17 07:43"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "平手",
         "away_water": "1.550",
         "time": "08-11 00:49"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↑",
+        "handicap": "平手/半球",
+        "away_water": "0.880↓",
+        "time": "08-24 12:46"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手/半球",
+        "away_water": "0.890",
+        "time": "08-17 07:43"
       }
     },
     {
@@ -2033,7 +2033,7 @@
     {
       "cid": "863",
       "company": "1****",
-      "time": "2026-08-24 13:26:17",
+      "time": "2026-08-24 13:55:12",
       "odds": {
         "live": [
           "2.00",
