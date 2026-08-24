@@ -24,7 +24,7 @@
       "lost": "5.15",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-24T15:10:08Z"
+    "fetched_at_utc": "2026-08-24T15:20:11Z"
   },
   "shuju": {
     "title": "罗马VS佛罗伦萨(2026/2027意甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.700↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.550↓",
-        "time": "08-24 23:02"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "一球",
-        "away_water": "0.900",
-        "time": "07-27 00:35"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "一球",
         "away_water": "0.900",
         "time": "07-27 01:23"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.700↑",
+        "handicap": "一球/球半升",
+        "away_water": "0.550↓",
+        "time": "08-24 23:02"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "一球",
+        "away_water": "0.900",
+        "time": "07-27 00:35"
       }
     },
     {

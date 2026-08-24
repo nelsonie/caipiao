@@ -24,7 +24,7 @@
       "lost": "4.66",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-24T15:10:08Z"
+    "fetched_at_utc": "2026-08-24T15:20:09Z"
   },
   "shuju": {
     "title": "奥萨苏纳VS莱万特(2026/2027西甲)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "半球降",
-        "away_water": "0.990↑",
-        "time": "08-24 23:02"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "半球/一球",
-        "away_water": "0.920",
-        "time": "08-10 21:44"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "半球/一球",
         "away_water": "0.900",
         "time": "08-02 19:15"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "半球降",
+        "away_water": "0.990↑",
+        "time": "08-24 23:02"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "半球/一球",
+        "away_water": "0.920",
+        "time": "08-10 21:44"
       }
     },
     {
