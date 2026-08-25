@@ -24,7 +24,7 @@
       "lost": "2.88",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-25T22:30:07Z"
+    "fetched_at_utc": "2026-08-25T22:40:08Z"
   },
   "shuju": {
     "title": "大田市民VS蔚山现代(2026K1联赛)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "平手/半球",
-        "away_water": "0.820↓",
-        "time": "08-26 06:14"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "平手/半球",
-        "away_water": "0.830",
-        "time": "08-23 19:04"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.820",
         "time": "08-23 18:49"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "平手/半球",
+        "away_water": "0.820↓",
+        "time": "08-26 06:14"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "平手/半球",
+        "away_water": "0.830",
+        "time": "08-23 19:04"
       }
     },
     {
@@ -843,10 +843,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.940↓",
+        "home_water": "0.950↓",
         "handicap": "平手/半球",
-        "away_water": "0.830↑",
-        "time": "08-26 06:15"
+        "away_water": "0.820↑",
+        "time": "08-26 06:19"
       },
       "init": {
         "home_water": "0.970",
@@ -859,10 +859,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "1.000↓",
         "handicap": "平手/半球",
-        "away_water": "0.880↑",
-        "time": "08-26 05:04"
+        "away_water": "0.900↑",
+        "time": "08-26 06:21"
       },
       "init": {
         "home_water": "1.010",
