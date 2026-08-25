@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "一球",
-      "home_water": "0.830↓",
-      "away_water": "0.800↑",
+      "home_water": "0.790↓",
+      "away_water": "0.830↑",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "6.25",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-25T07:20:10Z"
+    "fetched_at_utc": "2026-08-25T07:30:10Z"
   },
   "shuju": {
     "title": "雅典AEKVS索菲亚利夫斯基(2026/2027欧冠)-数据分析-500彩票网",
@@ -589,10 +589,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.830↓",
+        "home_water": "0.790↓",
         "handicap": "一球",
-        "away_water": "0.800↑",
-        "time": "08-25 14:48"
+        "away_water": "0.830↑",
+        "time": "08-25 15:16"
       },
       "init": {
         "home_water": "0.940",
@@ -605,10 +605,10 @@
       "cid": "5",
       "company": "*门",
       "live": {
-        "home_water": "0.930",
+        "home_water": "0.800↓",
         "handicap": "一球",
-        "away_water": "0.850",
-        "time": "08-23 18:05"
+        "away_water": "0.980↑",
+        "time": "08-25 15:20"
       },
       "init": {
         "home_water": "0.930",
@@ -685,32 +685,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.830↓",
         "handicap": "一球",
-        "away_water": "0.960↑",
-        "time": "08-25 14:40"
+        "away_water": "0.970↑",
+        "time": "08-25 15:13"
       },
       "init": {
         "home_water": "0.900",
         "handicap": "一球",
         "away_water": "0.930",
         "time": "08-23 06:30"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "一球",
-        "away_water": "1.030↑",
-        "time": "08-25 15:05"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "一球",
-        "away_water": "0.800",
-        "time": "08-20 08:24"
       }
     },
     {
@@ -727,6 +711,22 @@
         "handicap": "半球/一球",
         "away_water": "0.820",
         "time": "08-19 05:53"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "一球",
+        "away_water": "1.030↑",
+        "time": "08-25 15:05"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "一球",
+        "away_water": "0.800",
+        "time": "08-20 08:24"
       }
     },
     {
