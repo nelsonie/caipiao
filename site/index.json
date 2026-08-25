@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-25T22:10:13Z",
+  "last_updated_utc": "2026-08-25T22:20:09Z",
   "matches": [
     {
       "xml_id": "2041058",
@@ -108,6 +108,24 @@
       "matchnum_label": "周三008",
       "home_team_id": "997",
       "away_team_id": "797"
+    },
+    {
+      "xml_id": "2041067",
+      "matchnum": "3010",
+      "date": "2026-08-27",
+      "dayofweek": "星期四",
+      "league": "西班牙甲级联赛",
+      "home": "皇家马德里",
+      "away": "皇家社会",
+      "spf_win": "1.72",
+      "spf_draw": "4.05",
+      "spf_lost": "3.32",
+      "spf_updated": "2026-08-25 09:34:32",
+      "gameid": "1427944",
+      "kickoff_cst": "2026-08-27 03:00",
+      "matchnum_label": "周三010",
+      "home_team_id": "883",
+      "away_team_id": "885"
     }
   ]
 }
