@@ -24,7 +24,7 @@
       "lost": "2.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-25T11:10:12Z"
+    "fetched_at_utc": "2026-08-25T11:20:10Z"
   },
   "shuju": {
     "title": "巴伦西亚VS皇家贝蒂斯(2026/2027西甲)-数据分析-500彩票网",
@@ -748,22 +748,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.040↑",
-        "handicap": "平手",
-        "away_water": "0.840↓",
-        "time": "08-25 19:05"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手",
-        "away_water": "0.930",
-        "time": "07-22 17:40"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -777,6 +761,22 @@
         "handicap": "平手",
         "away_water": "0.960",
         "time": "07-28 00:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.040↑",
+        "handicap": "平手",
+        "away_water": "0.840↓",
+        "time": "08-25 19:05"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手",
+        "away_water": "0.930",
+        "time": "07-22 17:40"
       }
     },
     {
@@ -863,10 +863,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.000↑",
         "handicap": "平手",
-        "away_water": "0.800↓",
-        "time": "08-25 19:03"
+        "away_water": "0.810↓",
+        "time": "08-25 19:08"
       },
       "init": {
         "home_water": "0.860",
