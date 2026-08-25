@@ -24,7 +24,7 @@
       "lost": "2.88",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-25T03:20:08Z"
+    "fetched_at_utc": "2026-08-25T03:30:07Z"
   },
   "shuju": {
     "title": "济州联队VS浦项制铁(2026K1联赛)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.020↓",
-        "handicap": "平手/半球升",
-        "away_water": "0.740↑",
-        "time": "08-24 17:40"
-      },
-      "init": {
-        "home_water": "1.040",
-        "handicap": "平手",
-        "away_water": "0.730",
-        "time": "08-22 18:59"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.740",
         "time": "08-22 19:47"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.020↓",
+        "handicap": "平手/半球升",
+        "away_water": "0.740↑",
+        "time": "08-24 17:40"
+      },
+      "init": {
+        "home_water": "1.040",
+        "handicap": "平手",
+        "away_water": "0.730",
+        "time": "08-22 18:59"
       }
     },
     {
