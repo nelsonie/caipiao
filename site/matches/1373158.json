@@ -24,7 +24,7 @@
       "lost": "2.88",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-25T10:40:06Z"
+    "fetched_at_utc": "2026-08-25T10:50:07Z"
   },
   "shuju": {
     "title": "济州联队VS浦项制铁(2026K1联赛)-数据分析-500彩票网",
@@ -418,13 +418,13 @@
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "伊塔洛·莫雷拉·巴塞洛斯",
+            "number": "7",
+            "name": "朴彰俊",
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "朴彰俊",
+            "number": "5",
+            "name": "伊塔洛·莫雷拉·巴塞洛斯",
             "position": "中场"
           },
           {
@@ -460,11 +460,6 @@
             "position": "守门员"
           },
           {
-            "number": "20",
-            "name": "张敏圭",
-            "position": "后卫"
-          },
-          {
             "number": "13",
             "name": "郑沄",
             "position": "后卫"
@@ -498,6 +493,11 @@
             "number": "77",
             "name": "柳承宰",
             "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "张敏圭",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -564,8 +564,28 @@
         ],
         "subs": [
           {
-            "number": "37",
-            "name": "郑翰旻",
+            "number": "1",
+            "name": "尹平国",
+            "position": "守门员"
+          },
+          {
+            "number": "14",
+            "name": "李昌佑",
+            "position": "后卫"
+          },
+          {
+            "number": "11",
+            "name": "儒尼尼奥·罗查",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "金昇浩",
+            "position": "中场"
+          },
+          {
+            "number": "12",
+            "name": "黄载焕",
             "position": "前锋"
           },
           {
@@ -574,28 +594,8 @@
             "position": "后卫"
           },
           {
-            "number": "8",
-            "name": "金昇浩",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "李昌佑",
-            "position": "后卫"
-          },
-          {
-            "number": "1",
-            "name": "尹平国",
-            "position": "守门员"
-          },
-          {
-            "number": "5",
-            "name": "陈时宇",
-            "position": "后卫"
-          },
-          {
-            "number": "12",
-            "name": "黄载焕",
+            "number": "37",
+            "name": "郑翰旻",
             "position": "前锋"
           },
           {
@@ -604,9 +604,9 @@
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "儒尼尼奥·罗查",
-            "position": "前锋"
+            "number": "5",
+            "name": "陈时宇",
+            "position": "后卫"
           }
         ],
         "injured": [],
