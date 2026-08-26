@@ -24,7 +24,7 @@
       "lost": "2.88",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-26T10:40:07Z"
+    "fetched_at_utc": "2026-08-26T10:50:10Z"
   },
   "shuju": {
     "title": "大田市民VS蔚山现代(2026K1联赛)-数据分析-500彩票网",
@@ -405,17 +405,17 @@
           {
             "number": "19",
             "name": "徐进水",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "7",
             "name": "石田雅俊",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "27",
             "name": "郑在熙",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "44",
@@ -455,18 +455,18 @@
         ],
         "subs": [
           {
-            "number": "31",
-            "name": "金民秀",
-            "position": "守门员"
-          },
-          {
             "number": "14",
             "name": "金俊范",
             "position": "中场"
           },
           {
-            "number": "6",
-            "name": "姜允盛",
+            "number": "31",
+            "name": "金民秀",
+            "position": "守门员"
+          },
+          {
+            "number": "5",
+            "name": "林宗垠",
             "position": "后卫"
           },
           {
@@ -477,7 +477,12 @@
           {
             "number": "17",
             "name": "古斯塔夫·卢德维格松",
-            "position": "前锋"
+            "position": "中场"
+          },
+          {
+            "number": "41",
+            "name": "朴秉灿",
+            "position": "中场"
           },
           {
             "number": "10",
@@ -490,14 +495,9 @@
             "position": "中场"
           },
           {
-            "number": "5",
-            "name": "林宗垠",
+            "number": "6",
+            "name": "姜允盛",
             "position": "后卫"
-          },
-          {
-            "number": "41",
-            "name": "朴炳灿",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -507,29 +507,29 @@
         "formation": null,
         "starters": [
           {
+            "number": "10",
+            "name": "李东炅",
+            "position": "前锋"
+          },
+          {
             "number": "11",
             "name": "埃里克·法里亚斯",
             "position": "前锋"
           },
           {
-            "number": "10",
-            "name": "李东炅",
-            "position": "中场"
-          },
-          {
             "number": "14",
             "name": "李镇贤",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "26",
             "name": "赵玹泽",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "55",
             "name": "托马斯·伍德·科特",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "24",
@@ -539,7 +539,7 @@
           {
             "number": "33",
             "name": "张时荣",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "66",
@@ -596,7 +596,7 @@
           {
             "number": "8",
             "name": "李熙均",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "9",
