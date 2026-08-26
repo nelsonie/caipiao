@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "一球",
-      "home_water": "0.930↑",
-      "away_water": "0.730↓",
+      "home_water": "0.910↑",
+      "away_water": "0.740↓",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "5.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-26T10:00:10Z"
+    "fetched_at_utc": "2026-08-26T10:10:11Z"
   },
   "shuju": {
     "title": "帕尔梅拉斯VS桑托斯(2026巴西杯)-数据分析-500彩票网",
@@ -649,10 +649,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.930↑",
+        "home_water": "0.910↑",
         "handicap": "一球",
-        "away_water": "0.730↓",
-        "time": "08-26 17:37"
+        "away_water": "0.740↓",
+        "time": "08-26 18:00"
       },
       "init": {
         "home_water": "0.720",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "一球",
-        "away_water": "0.870↓",
-        "time": "08-26 17:48"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "一球",
-        "away_water": "0.940",
-        "time": "08-21 09:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "一球",
         "away_water": "0.950",
         "time": "08-19 21:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↑",
+        "handicap": "一球",
+        "away_water": "0.870↓",
+        "time": "08-26 17:48"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "一球",
+        "away_water": "0.940",
+        "time": "08-21 09:05"
       }
     },
     {
