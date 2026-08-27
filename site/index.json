@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-27T20:00:14Z",
+  "last_updated_utc": "2026-08-27T20:10:15Z",
   "matches": [
     {
       "xml_id": "2041077",
@@ -128,24 +128,6 @@
       "away_team_id": "1303"
     },
     {
-      "xml_id": "2041105",
-      "matchnum": "5007",
-      "date": "2026-08-29",
-      "dayofweek": "星期六",
-      "league": "荷兰乙级联赛",
-      "home": "罗达JC",
-      "away": "布雷达",
-      "spf_win": "1.66",
-      "spf_draw": "3.85",
-      "spf_lost": "3.75",
-      "spf_updated": "2026-08-27 13:40:48",
-      "gameid": "1415904",
-      "kickoff_cst": "2026-08-29 02:00",
-      "matchnum_label": "周五007",
-      "home_team_id": "1030",
-      "away_team_id": "350"
-    },
-    {
       "xml_id": "2041106",
       "matchnum": "5008",
       "date": "2026-08-29",
@@ -180,24 +162,6 @@
       "matchnum_label": "周五009",
       "home_team_id": "210",
       "away_team_id": "1249"
-    },
-    {
-      "xml_id": "2041108",
-      "matchnum": "5010",
-      "date": "2026-08-29",
-      "dayofweek": "星期六",
-      "league": "法国甲级联赛",
-      "home": "里尔",
-      "away": "巴黎圣日尔曼",
-      "spf_win": "2.09",
-      "spf_draw": "3.55",
-      "spf_lost": "2.72",
-      "spf_updated": "2026-08-27 13:40:48",
-      "gameid": "1415095",
-      "kickoff_cst": "2026-08-29 02:45",
-      "matchnum_label": "周五010",
-      "home_team_id": "998",
-      "away_team_id": "647"
     },
     {
       "xml_id": "2041109",
