@@ -24,7 +24,7 @@
       "lost": "3.15",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-27T18:20:10Z"
+    "fetched_at_utc": "2026-08-27T18:30:10Z"
   },
   "shuju": {
     "title": "桑坦德竞技VS埃尔切(2026/2027西甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "平手/半球升",
-        "away_water": "1.040↓",
-        "time": "08-27 19:37"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "平手",
-        "away_water": "1.070",
-        "time": "08-23 20:22"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "平手",
         "away_water": "1.070",
         "time": "08-23 21:04"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "平手/半球升",
+        "away_water": "1.040↓",
+        "time": "08-27 19:37"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "平手",
+        "away_water": "1.070",
+        "time": "08-23 20:22"
       }
     },
     {
