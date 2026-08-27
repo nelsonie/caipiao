@@ -24,7 +24,7 @@
       "lost": "1.21",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-27T12:00:15Z"
+    "fetched_at_utc": "2026-08-27T12:10:14Z"
   },
   "shuju": {
     "title": "里奥阿维VS里斯本竞技(2026/2027葡超)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "受球半升",
-        "away_water": "0.990↓",
-        "time": "08-27 16:45"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "受球半/两球",
-        "away_water": "1.000",
-        "time": "08-23 04:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "受球半",
         "away_water": "0.820",
         "time": "08-23 03:54"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "受球半升",
+        "away_water": "0.990↓",
+        "time": "08-27 16:45"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "受球半/两球",
+        "away_water": "1.000",
+        "time": "08-23 04:05"
       }
     },
     {
