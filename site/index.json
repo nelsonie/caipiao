@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-27T08:30:18Z",
+  "last_updated_utc": "2026-08-27T08:40:17Z",
   "matches": [
     {
       "xml_id": "2041070",
@@ -252,24 +252,6 @@
       "matchnum_label": "周五005",
       "home_team_id": "1090",
       "away_team_id": "706"
-    },
-    {
-      "xml_id": "2041104",
-      "matchnum": "5006",
-      "date": "2026-08-29",
-      "dayofweek": "星期六",
-      "league": "荷兰甲级联赛",
-      "home": "格罗宁根",
-      "away": "福图纳锡塔德",
-      "spf_win": "2.31",
-      "spf_draw": "3.70",
-      "spf_lost": "2.35",
-      "spf_updated": "2026-08-27 13:40:48",
-      "gameid": "1415886",
-      "kickoff_cst": "2026-08-29 02:00",
-      "matchnum_label": "周五006",
-      "home_team_id": "834",
-      "away_team_id": "1303"
     },
     {
       "xml_id": "2041105",
