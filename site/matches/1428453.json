@@ -24,7 +24,7 @@
       "lost": "8.25",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-27T16:10:12Z"
+    "fetched_at_utc": "2026-08-27T16:20:13Z"
   },
   "shuju": {
     "title": "拜仁慕尼黑VS斯图加特(2026/2027德甲)-数据分析-500彩票网",
@@ -715,16 +715,32 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.970↑",
+        "home_water": "0.940↑",
         "handicap": "两球升",
-        "away_water": "0.920↑",
-        "time": "08-27 21:39"
+        "away_water": "0.940↑",
+        "time": "08-28 00:07"
       },
       "init": {
         "home_water": "0.920",
         "handicap": "球半/两球",
         "away_water": "0.900",
         "time": "08-22 12:02"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.950↓",
+        "handicap": "两球升",
+        "away_water": "0.890↓",
+        "time": "08-28 00:10"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "球半/两球",
+        "away_water": "0.970",
+        "time": "07-31 16:57"
       }
     },
     {
@@ -741,22 +757,6 @@
         "handicap": "球半/两球",
         "away_water": "0.890",
         "time": "07-15 12:52"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.810↓",
-        "handicap": "球半/两球",
-        "away_water": "1.160↑",
-        "time": "08-27 23:41"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "球半/两球",
-        "away_water": "0.970",
-        "time": "07-31 16:57"
       }
     },
     {
@@ -859,10 +859,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.960↑",
+        "home_water": "0.970↑",
         "handicap": "两球升",
-        "away_water": "0.920↓",
-        "time": "08-27 23:50"
+        "away_water": "0.910↓",
+        "time": "08-28 00:13"
       },
       "init": {
         "home_water": "0.940",
