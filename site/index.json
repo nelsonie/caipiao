@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-27T19:10:13Z",
+  "last_updated_utc": "2026-08-27T19:20:11Z",
   "matches": [
     {
       "xml_id": "2041077",
@@ -128,6 +128,24 @@
       "away_team_id": "1303"
     },
     {
+      "xml_id": "2041105",
+      "matchnum": "5007",
+      "date": "2026-08-29",
+      "dayofweek": "星期六",
+      "league": "荷兰乙级联赛",
+      "home": "罗达JC",
+      "away": "布雷达",
+      "spf_win": "1.66",
+      "spf_draw": "3.85",
+      "spf_lost": "3.75",
+      "spf_updated": "2026-08-27 13:40:48",
+      "gameid": "1415904",
+      "kickoff_cst": "2026-08-29 02:00",
+      "matchnum_label": "周五007",
+      "home_team_id": "1030",
+      "away_team_id": "350"
+    },
+    {
       "xml_id": "2041106",
       "matchnum": "5008",
       "date": "2026-08-29",
@@ -180,6 +198,24 @@
       "matchnum_label": "周五010",
       "home_team_id": "998",
       "away_team_id": "647"
+    },
+    {
+      "xml_id": "2041109",
+      "matchnum": "5011",
+      "date": "2026-08-29",
+      "dayofweek": "星期六",
+      "league": "英格兰超级联赛",
+      "home": "水晶宫",
+      "away": "曼彻斯特城",
+      "spf_win": "2.26",
+      "spf_draw": "3.50",
+      "spf_lost": "2.50",
+      "spf_updated": "2026-08-27 13:40:48",
+      "gameid": "1420359",
+      "kickoff_cst": "2026-08-29 03:00",
+      "matchnum_label": "周五011",
+      "home_team_id": "516",
+      "away_team_id": "1072"
     },
     {
       "xml_id": "2041110",
