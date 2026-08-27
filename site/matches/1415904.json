@@ -24,7 +24,7 @@
       "lost": "1.96",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-27T15:30:11Z"
+    "fetched_at_utc": "2026-08-27T15:40:14Z"
   },
   "shuju": {
     "title": "罗达JCVS布雷达(2026/2027荷乙)-数据分析-500彩票网",
@@ -722,22 +722,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.810",
-        "handicap": "受平手/半球",
-        "away_water": "0.990",
-        "time": "08-27 17:19"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "受平手/半球",
-        "away_water": "0.990",
-        "time": "08-25 21:01"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -751,6 +735,22 @@
         "handicap": "平手",
         "away_water": "0.560",
         "time": "08-24 02:24"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810",
+        "handicap": "受平手/半球",
+        "away_water": "0.990",
+        "time": "08-27 17:19"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "受平手/半球",
+        "away_water": "0.990",
+        "time": "08-25 21:01"
       }
     },
     {
