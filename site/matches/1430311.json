@@ -24,7 +24,7 @@
       "lost": "2.31",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-27T13:10:11Z"
+    "fetched_at_utc": "2026-08-27T13:20:11Z"
   },
   "shuju": {
     "title": "不伦瑞克VS柏林赫塔(2026/2027德乙)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "平手",
-        "away_water": "0.890↓",
-        "time": "08-27 20:04"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "平手",
-        "away_water": "0.910",
-        "time": "08-22 21:06"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.660",
         "time": "08-16 17:41"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "平手",
+        "away_water": "0.890↓",
+        "time": "08-27 20:04"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "平手",
+        "away_water": "0.910",
+        "time": "08-22 21:06"
       }
     },
     {
