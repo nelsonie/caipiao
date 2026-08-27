@@ -1,42 +1,6 @@
 {
-  "last_updated_utc": "2026-08-27T17:00:15Z",
+  "last_updated_utc": "2026-08-27T17:10:14Z",
   "matches": [
-    {
-      "xml_id": "2041070",
-      "matchnum": "4001",
-      "date": "2026-08-28",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "比尔森",
-      "away": "贝尔格莱德红星",
-      "spf_win": "3.98",
-      "spf_draw": "3.90",
-      "spf_lost": "1.61",
-      "spf_updated": "2026-08-27 18:09:30",
-      "gameid": "1464468",
-      "kickoff_cst": "2026-08-28 01:00",
-      "matchnum_label": "周四001",
-      "home_team_id": "1167",
-      "away_team_id": "2553"
-    },
-    {
-      "xml_id": "2041071",
-      "matchnum": "4003",
-      "date": "2026-08-28",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "萨尔茨堡",
-      "away": "米亚尔比",
-      "spf_win": "2.56",
-      "spf_draw": "3.88",
-      "spf_lost": "2.08",
-      "spf_updated": "2026-08-27 12:27:05",
-      "gameid": "1464475",
-      "kickoff_cst": "2026-08-28 01:00",
-      "matchnum_label": "周四003",
-      "home_team_id": "446",
-      "away_team_id": "2465"
-    },
     {
       "xml_id": "2041072",
       "matchnum": "4004",
@@ -144,24 +108,6 @@
       "matchnum_label": "周四009",
       "home_team_id": "1582",
       "away_team_id": "1580"
-    },
-    {
-      "xml_id": "2041078",
-      "matchnum": "4002",
-      "date": "2026-08-28",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "奥莫尼亚",
-      "away": "圣图尔登",
-      "spf_win": "3.92",
-      "spf_draw": "3.50",
-      "spf_lost": "1.70",
-      "spf_updated": "2026-08-27 20:48:59",
-      "gameid": "1464467",
-      "kickoff_cst": "2026-08-28 01:00",
-      "matchnum_label": "周四002",
-      "home_team_id": "2513",
-      "away_team_id": "502"
     },
     {
       "xml_id": "2041099",
