@@ -24,7 +24,7 @@
       "lost": "1.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-27T09:30:13Z"
+    "fetched_at_utc": "2026-08-27T09:40:14Z"
   },
   "shuju": {
     "title": "里尔VS巴黎圣日耳曼(2026/2027法甲)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890↑",
-        "handicap": "受半球/一球",
-        "away_water": "0.920↓",
-        "time": "08-27 12:35"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "受半球/一球",
-        "away_water": "0.940",
-        "time": "08-24 01:00"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.530",
         "time": "08-23 14:23"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.890↑",
+        "handicap": "受半球/一球",
+        "away_water": "0.920↓",
+        "time": "08-27 12:35"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "受半球/一球",
+        "away_water": "0.940",
+        "time": "08-24 01:00"
       }
     },
     {
