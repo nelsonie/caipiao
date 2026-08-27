@@ -24,7 +24,7 @@
       "lost": "2.72",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-27T19:50:11Z"
+    "fetched_at_utc": "2026-08-27T20:00:13Z"
   },
   "shuju": {
     "title": "雷克斯汉姆VS伯明翰(2026/2027英冠)-数据分析-500彩票网",
@@ -717,22 +717,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.740↓",
-        "time": "08-26 04:01"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "平手",
-        "away_water": "1.000",
-        "time": "08-23 00:17"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -746,6 +730,22 @@
         "handicap": "平手",
         "away_water": "1.060",
         "time": "08-23 01:07"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.740↓",
+        "time": "08-26 04:01"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "平手",
+        "away_water": "1.000",
+        "time": "08-23 00:17"
       }
     },
     {
