@@ -24,7 +24,7 @@
       "lost": "8.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-27T07:30:09Z"
+    "fetched_at_utc": "2026-08-27T07:40:11Z"
   },
   "shuju": {
     "title": "巴塞罗那VS毕尔巴鄂竞技(2026/2027西甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "球半/两球升",
-        "away_water": "1.060↑",
-        "time": "08-27 14:39"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "一球/球半",
-        "away_water": "0.860",
-        "time": "07-30 00:20"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "一球/球半",
         "away_water": "0.980",
         "time": "07-22 21:27"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "球半/两球升",
+        "away_water": "1.060↑",
+        "time": "08-27 14:39"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "一球/球半",
+        "away_water": "0.860",
+        "time": "07-30 00:20"
       }
     },
     {
