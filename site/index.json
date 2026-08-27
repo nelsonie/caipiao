@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-27T07:50:19Z",
+  "last_updated_utc": "2026-08-27T08:00:20Z",
   "matches": [
     {
       "xml_id": "2041070",
@@ -162,6 +162,24 @@
       "matchnum_label": "周四002",
       "home_team_id": "2513",
       "away_team_id": "502"
+    },
+    {
+      "xml_id": "2041099",
+      "matchnum": "5001",
+      "date": "2026-08-29",
+      "dayofweek": "星期六",
+      "league": "德国乙级联赛",
+      "home": "不伦瑞克",
+      "away": "柏林赫塔",
+      "spf_win": "1.46",
+      "spf_draw": "4.10",
+      "spf_lost": "5.00",
+      "spf_updated": "2026-08-27 13:40:48",
+      "gameid": "1430311",
+      "kickoff_cst": "2026-08-29 00:30",
+      "matchnum_label": "周五001",
+      "home_team_id": "731",
+      "away_team_id": "659"
     },
     {
       "xml_id": "2041100",
