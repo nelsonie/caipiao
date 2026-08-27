@@ -24,7 +24,7 @@
       "lost": "4.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-27T01:20:07Z"
+    "fetched_at_utc": "2026-08-27T01:30:09Z"
   },
   "shuju": {
     "title": "巴西国际VS格雷米奥(2026巴西杯)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.670↓",
-        "handicap": "平手/半球",
-        "away_water": "1.190↑",
-        "time": "08-27 06:09"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "平手/半球",
-        "away_water": "0.920",
-        "time": "08-21 14:20"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "平手/半球",
         "away_water": "0.940",
         "time": "08-22 08:24"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.670↓",
+        "handicap": "平手/半球",
+        "away_water": "1.190↑",
+        "time": "08-27 06:09"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "平手/半球",
+        "away_water": "0.920",
+        "time": "08-21 14:20"
       }
     },
     {
