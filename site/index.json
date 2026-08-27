@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-08-27T18:00:13Z",
+  "last_updated_utc": "2026-08-27T18:10:14Z",
   "matches": [
-    {
-      "xml_id": "2041072",
-      "matchnum": "4004",
-      "date": "2026-08-28",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "奥胡斯",
-      "away": "本菲卡",
-      "spf_win": "2.95",
-      "spf_draw": "3.88",
-      "spf_lost": "1.88",
-      "spf_updated": "2026-08-27 17:32:04",
-      "gameid": "1464483",
-      "kickoff_cst": "2026-08-28 02:00",
-      "matchnum_label": "周四004",
-      "home_team_id": "609",
-      "away_team_id": "678"
-    },
     {
       "xml_id": "2041073",
       "matchnum": "4005",
@@ -234,24 +216,6 @@
       "matchnum_label": "周五007",
       "home_team_id": "1030",
       "away_team_id": "350"
-    },
-    {
-      "xml_id": "2041106",
-      "matchnum": "5008",
-      "date": "2026-08-29",
-      "dayofweek": "星期六",
-      "league": "德国甲级联赛",
-      "home": "拜仁慕尼黑",
-      "away": "斯图加特",
-      "spf_win": "2.29",
-      "spf_draw": "4.40",
-      "spf_lost": "2.15",
-      "spf_updated": "2026-08-27 13:40:48",
-      "gameid": "1428453",
-      "kickoff_cst": "2026-08-29 02:30",
-      "matchnum_label": "周五008",
-      "home_team_id": "664",
-      "away_team_id": "1195"
     },
     {
       "xml_id": "2041107",
