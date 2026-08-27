@@ -24,7 +24,7 @@
       "lost": "4.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-27T09:00:10Z"
+    "fetched_at_utc": "2026-08-27T09:10:10Z"
   },
   "shuju": {
     "title": "波鸿VS奥斯纳布吕克(2026/2027德乙)-数据分析-500彩票网",
@@ -524,22 +524,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.810↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.990↑",
-        "time": "08-27 12:22"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "一球",
-        "away_water": "0.820",
-        "time": "08-23 08:29"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -553,6 +537,22 @@
         "handicap": "球半",
         "away_water": "0.540",
         "time": "08-17 20:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.810↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.990↑",
+        "time": "08-27 12:22"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "一球",
+        "away_water": "0.820",
+        "time": "08-23 08:29"
       }
     },
     {
