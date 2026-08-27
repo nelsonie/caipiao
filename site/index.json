@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-27T06:10:21Z",
+  "last_updated_utc": "2026-08-27T06:20:15Z",
   "matches": [
     {
       "xml_id": "2041070",
@@ -81,10 +81,10 @@
       "league": "欧罗巴联赛",
       "home": "安德莱赫特",
       "away": "阿拉木图凯拉特",
-      "spf_win": "1.97",
-      "spf_draw": "3.50",
-      "spf_lost": "2.98",
-      "spf_updated": "2026-08-27 09:21:52",
+      "spf_win": "1.93",
+      "spf_draw": "3.55",
+      "spf_lost": "3.04",
+      "spf_updated": "2026-08-27 14:11:40",
       "gameid": "1464476",
       "kickoff_cst": "2026-08-28 02:30",
       "matchnum_label": "周四006",
@@ -270,6 +270,24 @@
       "matchnum_label": "周五006",
       "home_team_id": "834",
       "away_team_id": "1303"
+    },
+    {
+      "xml_id": "2041105",
+      "matchnum": "5007",
+      "date": "2026-08-29",
+      "dayofweek": "星期六",
+      "league": "荷兰乙级联赛",
+      "home": "罗达JC",
+      "away": "布雷达",
+      "spf_win": "1.66",
+      "spf_draw": "3.85",
+      "spf_lost": "3.75",
+      "spf_updated": "2026-08-27 13:40:48",
+      "gameid": "1415904",
+      "kickoff_cst": "2026-08-29 02:00",
+      "matchnum_label": "周五007",
+      "home_team_id": "1030",
+      "away_team_id": "350"
     },
     {
       "xml_id": "2041106",
