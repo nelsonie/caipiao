@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-27T15:00:14Z",
+  "last_updated_utc": "2026-08-27T15:10:21Z",
   "matches": [
     {
       "xml_id": "2041070",
@@ -254,24 +254,6 @@
       "away_team_id": "706"
     },
     {
-      "xml_id": "2041104",
-      "matchnum": "5006",
-      "date": "2026-08-29",
-      "dayofweek": "星期六",
-      "league": "荷兰甲级联赛",
-      "home": "格罗宁根",
-      "away": "福图纳锡塔德",
-      "spf_win": "2.31",
-      "spf_draw": "3.70",
-      "spf_lost": "2.35",
-      "spf_updated": "2026-08-27 13:40:48",
-      "gameid": "1415886",
-      "kickoff_cst": "2026-08-29 02:00",
-      "matchnum_label": "周五006",
-      "home_team_id": "834",
-      "away_team_id": "1303"
-    },
-    {
       "xml_id": "2041105",
       "matchnum": "5007",
       "date": "2026-08-29",
@@ -288,42 +270,6 @@
       "matchnum_label": "周五007",
       "home_team_id": "1030",
       "away_team_id": "350"
-    },
-    {
-      "xml_id": "2041106",
-      "matchnum": "5008",
-      "date": "2026-08-29",
-      "dayofweek": "星期六",
-      "league": "德国甲级联赛",
-      "home": "拜仁慕尼黑",
-      "away": "斯图加特",
-      "spf_win": "2.29",
-      "spf_draw": "4.40",
-      "spf_lost": "2.15",
-      "spf_updated": "2026-08-27 13:40:48",
-      "gameid": "1428453",
-      "kickoff_cst": "2026-08-29 02:30",
-      "matchnum_label": "周五008",
-      "home_team_id": "664",
-      "away_team_id": "1195"
-    },
-    {
-      "xml_id": "2041107",
-      "matchnum": "5009",
-      "date": "2026-08-29",
-      "dayofweek": "星期六",
-      "league": "意大利甲级联赛",
-      "home": "AC米兰",
-      "away": "威尼斯",
-      "spf_win": "2.01",
-      "spf_draw": "3.45",
-      "spf_lost": "2.93",
-      "spf_updated": "2026-08-27 13:40:48",
-      "gameid": "1414200",
-      "kickoff_cst": "2026-08-29 02:45",
-      "matchnum_label": "周五009",
-      "home_team_id": "210",
-      "away_team_id": "1249"
     },
     {
       "xml_id": "2041108",
@@ -378,24 +324,6 @@
       "matchnum_label": "周五012",
       "home_team_id": "1332",
       "away_team_id": "701"
-    },
-    {
-      "xml_id": "2041111",
-      "matchnum": "5013",
-      "date": "2026-08-29",
-      "dayofweek": "星期六",
-      "league": "葡萄牙超级联赛",
-      "home": "里奥阿维",
-      "away": "里斯本竞技",
-      "spf_win": "3.40",
-      "spf_draw": "3.80",
-      "spf_lost": "1.75",
-      "spf_updated": "2026-08-27 13:40:48",
-      "gameid": "1438082",
-      "kickoff_cst": "2026-08-29 03:15",
-      "matchnum_label": "周五013",
-      "home_team_id": "1002",
-      "away_team_id": "1000"
     },
     {
       "xml_id": "2041112",
