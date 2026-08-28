@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-28T21:00:40Z",
+  "last_updated_utc": "2026-08-28T21:10:39Z",
   "matches": [
     {
       "xml_id": "2041123",
@@ -648,24 +648,6 @@
       "matchnum_label": "周日017",
       "home_team_id": "959",
       "away_team_id": "1243"
-    },
-    {
-      "xml_id": "2041167",
-      "matchnum": "7018",
-      "date": "2026-08-31",
-      "dayofweek": "星期一",
-      "league": "荷兰甲级联赛",
-      "home": "坎布尔",
-      "away": "特温特",
-      "spf_win": "3.22",
-      "spf_draw": "3.90",
-      "spf_lost": "1.78",
-      "spf_updated": "2026-08-28 09:47:12",
-      "gameid": "1415903",
-      "kickoff_cst": "2026-08-31 02:00",
-      "matchnum_label": "周日018",
-      "home_team_id": "235",
-      "away_team_id": "1231"
     },
     {
       "xml_id": "2041168",
