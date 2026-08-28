@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-28T15:20:48Z",
+  "last_updated_utc": "2026-08-28T15:30:52Z",
   "matches": [
     {
       "xml_id": "2041099",
@@ -614,6 +614,42 @@
       "away_team_id": "1283"
     },
     {
+      "xml_id": "2041146",
+      "matchnum": "6026",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "葡萄牙超级联赛",
+      "home": "维塞乌",
+      "away": "波尔图",
+      "spf_win": "3.30",
+      "spf_draw": "3.55",
+      "spf_lost": "1.84",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1438074",
+      "kickoff_cst": "2026-08-30 01:00",
+      "matchnum_label": "周六026",
+      "home_team_id": "2174",
+      "away_team_id": "694"
+    },
+    {
+      "xml_id": "2041147",
+      "matchnum": "6027",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "意大利甲级联赛",
+      "home": "尤文图斯",
+      "away": "帕尔马",
+      "spf_win": "2.60",
+      "spf_draw": "3.85",
+      "spf_lost": "2.06",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1414193",
+      "kickoff_cst": "2026-08-30 02:45",
+      "matchnum_label": "周六027",
+      "home_team_id": "1330",
+      "away_team_id": "1149"
+    },
+    {
       "xml_id": "2041148",
       "matchnum": "6028",
       "date": "2026-08-30",
@@ -630,6 +666,24 @@
       "matchnum_label": "周六028",
       "home_team_id": "464",
       "away_team_id": "1046"
+    },
+    {
+      "xml_id": "2041150",
+      "matchnum": "7001",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "乌德勒支",
+      "away": "PSV埃因霍温",
+      "spf_win": "2.14",
+      "spf_draw": "3.90",
+      "spf_lost": "2.47",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1415895",
+      "kickoff_cst": "2026-08-30 18:15",
+      "matchnum_label": "周日001",
+      "home_team_id": "1275",
+      "away_team_id": "378"
     },
     {
       "xml_id": "2041151",
@@ -758,6 +812,24 @@
       "away_team_id": "540"
     },
     {
+      "xml_id": "2041162",
+      "matchnum": "7013",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "西班牙甲级联赛",
+      "home": "皇家马德里",
+      "away": "马拉加",
+      "spf_win": "1.75",
+      "spf_draw": "4.28",
+      "spf_lost": "3.10",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1427973",
+      "kickoff_cst": "2026-08-30 23:00",
+      "matchnum_label": "周日013",
+      "home_team_id": "883",
+      "away_team_id": "1056"
+    },
+    {
       "xml_id": "2041163",
       "matchnum": "7014",
       "date": "2026-08-30",
@@ -830,6 +902,42 @@
       "away_team_id": "1243"
     },
     {
+      "xml_id": "2041167",
+      "matchnum": "7018",
+      "date": "2026-08-31",
+      "dayofweek": "星期一",
+      "league": "荷兰甲级联赛",
+      "home": "坎布尔",
+      "away": "特温特",
+      "spf_win": "3.22",
+      "spf_draw": "3.90",
+      "spf_lost": "1.78",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1415903",
+      "kickoff_cst": "2026-08-31 02:00",
+      "matchnum_label": "周日018",
+      "home_team_id": "235",
+      "away_team_id": "1231"
+    },
+    {
+      "xml_id": "2041168",
+      "matchnum": "7019",
+      "date": "2026-08-31",
+      "dayofweek": "星期一",
+      "league": "意大利甲级联赛",
+      "home": "拉齐奥",
+      "away": "热那亚",
+      "spf_win": "4.20",
+      "spf_draw": "3.35",
+      "spf_lost": "1.69",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1414196",
+      "kickoff_cst": "2026-08-31 02:45",
+      "matchnum_label": "周日019",
+      "home_team_id": "964",
+      "away_team_id": "1179"
+    },
+    {
       "xml_id": "2041169",
       "matchnum": "7020",
       "date": "2026-08-31",
@@ -846,6 +954,24 @@
       "matchnum_label": "周日020",
       "home_team_id": "917",
       "away_team_id": "846"
+    },
+    {
+      "xml_id": "2041173",
+      "matchnum": "7024",
+      "date": "2026-08-31",
+      "dayofweek": "星期一",
+      "league": "葡萄牙超级联赛",
+      "home": "法马利康",
+      "away": "吉维森特",
+      "spf_win": "4.25",
+      "spf_draw": "3.45",
+      "spf_lost": "1.66",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1438080",
+      "kickoff_cst": "2026-08-31 03:30",
+      "matchnum_label": "周日024",
+      "home_team_id": "261",
+      "away_team_id": "1263"
     },
     {
       "xml_id": "2041187",
