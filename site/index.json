@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-28T08:50:48Z",
+  "last_updated_utc": "2026-08-28T09:00:52Z",
   "matches": [
     {
       "xml_id": "2041099",
@@ -578,6 +578,24 @@
       "away_team_id": "776"
     },
     {
+      "xml_id": "2041144",
+      "matchnum": "6024",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "阿尔克马尔",
+      "away": "前进之鹰",
+      "spf_win": "1.85",
+      "spf_draw": "3.80",
+      "spf_lost": "3.07",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1415891",
+      "kickoff_cst": "2026-08-30 00:45",
+      "matchnum_label": "周六024",
+      "home_team_id": "224",
+      "away_team_id": "1796"
+    },
+    {
       "xml_id": "2041145",
       "matchnum": "6025",
       "date": "2026-08-30",
@@ -684,6 +702,42 @@
       "matchnum_label": "周日002",
       "home_team_id": "3410",
       "away_team_id": "1611"
+    },
+    {
+      "xml_id": "2041152",
+      "matchnum": "7003",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "韩国职业联赛",
+      "home": "仁川联",
+      "away": "全北现代",
+      "spf_win": "1.50",
+      "spf_draw": "3.70",
+      "spf_lost": "5.20",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1373172",
+      "kickoff_cst": "2026-08-30 18:30",
+      "matchnum_label": "周日003",
+      "home_team_id": "1612",
+      "away_team_id": "1609"
+    },
+    {
+      "xml_id": "2041153",
+      "matchnum": "7004",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "德国乙级联赛",
+      "home": "圣保利",
+      "away": "凯泽斯劳滕",
+      "spf_win": "3.25",
+      "spf_draw": "3.55",
+      "spf_lost": "1.85",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1430629",
+      "kickoff_cst": "2026-08-30 19:30",
+      "matchnum_label": "周日004",
+      "home_team_id": "495",
+      "away_team_id": "928"
     },
     {
       "xml_id": "2041155",
