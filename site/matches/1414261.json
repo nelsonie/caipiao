@@ -24,7 +24,7 @@
       "lost": "2.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-28T06:50:27Z"
+    "fetched_at_utc": "2026-08-28T07:00:32Z"
   },
   "shuju": {
     "title": "蒙扎VS乌迪内斯(2026/2027意甲)-数据分析-500彩票网",
@@ -753,22 +753,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↑",
-        "handicap": "受平手/半球",
-        "away_water": "1.060↓",
-        "time": "08-28 05:45"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "受平手/半球",
-        "away_water": "1.090",
-        "time": "08-23 23:19"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -782,6 +766,22 @@
         "handicap": "平手",
         "away_water": "0.750",
         "time": "08-23 22:06"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↑",
+        "handicap": "受平手/半球",
+        "away_water": "1.060↓",
+        "time": "08-28 05:45"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "受平手/半球",
+        "away_water": "1.090",
+        "time": "08-23 23:19"
       }
     },
     {
