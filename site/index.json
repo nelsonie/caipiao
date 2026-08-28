@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-28T05:20:50Z",
+  "last_updated_utc": "2026-08-28T05:30:49Z",
   "matches": [
     {
       "xml_id": "2041099",
@@ -63,10 +63,10 @@
       "league": "沙特职业联赛",
       "home": "赛哈特海湾",
       "away": "利雅得新月",
-      "spf_win": "2.00",
+      "spf_win": "2.06",
       "spf_draw": "4.10",
-      "spf_lost": "2.60",
-      "spf_updated": "2026-08-28 11:21:15",
+      "spf_lost": "2.50",
+      "spf_updated": "2026-08-28 13:19:04",
       "gameid": "1467700",
       "kickoff_cst": "2026-08-29 02:00",
       "matchnum_label": "周五004",
@@ -812,24 +812,6 @@
       "away_team_id": "540"
     },
     {
-      "xml_id": "2041162",
-      "matchnum": "7013",
-      "date": "2026-08-30",
-      "dayofweek": "星期天",
-      "league": "西班牙甲级联赛",
-      "home": "皇家马德里",
-      "away": "马拉加",
-      "spf_win": "1.75",
-      "spf_draw": "4.28",
-      "spf_lost": "3.10",
-      "spf_updated": "2026-08-28 09:47:12",
-      "gameid": "1427973",
-      "kickoff_cst": "2026-08-30 23:00",
-      "matchnum_label": "周日013",
-      "home_team_id": "883",
-      "away_team_id": "1056"
-    },
-    {
       "xml_id": "2041163",
       "matchnum": "7014",
       "date": "2026-08-30",
@@ -918,24 +900,6 @@
       "matchnum_label": "周日018",
       "home_team_id": "235",
       "away_team_id": "1231"
-    },
-    {
-      "xml_id": "2041168",
-      "matchnum": "7019",
-      "date": "2026-08-31",
-      "dayofweek": "星期一",
-      "league": "意大利甲级联赛",
-      "home": "拉齐奥",
-      "away": "热那亚",
-      "spf_win": "4.20",
-      "spf_draw": "3.35",
-      "spf_lost": "1.69",
-      "spf_updated": "2026-08-28 09:47:12",
-      "gameid": "1414196",
-      "kickoff_cst": "2026-08-31 02:45",
-      "matchnum_label": "周日019",
-      "home_team_id": "964",
-      "away_team_id": "1179"
     },
     {
       "xml_id": "2041169",
