@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-08-28T18:30:46Z",
+  "last_updated_utc": "2026-08-28T18:40:46Z",
   "matches": [
-    {
-      "xml_id": "2041106",
-      "matchnum": "5008",
-      "date": "2026-08-29",
-      "dayofweek": "星期六",
-      "league": "德国甲级联赛",
-      "home": "拜仁慕尼黑",
-      "away": "斯图加特",
-      "spf_win": "2.03",
-      "spf_draw": "4.52",
-      "spf_lost": "2.41",
-      "spf_updated": "2026-08-28 16:18:35",
-      "gameid": "1428453",
-      "kickoff_cst": "2026-08-29 02:30",
-      "matchnum_label": "周五008",
-      "home_team_id": "664",
-      "away_team_id": "1195"
-    },
     {
       "xml_id": "2041107",
       "matchnum": "5009",
@@ -668,6 +650,24 @@
       "away_team_id": "1134"
     },
     {
+      "xml_id": "2041161",
+      "matchnum": "7012",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "特尔斯达",
+      "away": "阿贾克斯",
+      "spf_win": "2.38",
+      "spf_draw": "3.80",
+      "spf_lost": "2.25",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1415901",
+      "kickoff_cst": "2026-08-30 22:45",
+      "matchnum_label": "周日012",
+      "home_team_id": "1799",
+      "away_team_id": "540"
+    },
+    {
       "xml_id": "2041162",
       "matchnum": "7013",
       "date": "2026-08-30",
@@ -828,24 +828,6 @@
       "matchnum_label": "周日024",
       "home_team_id": "261",
       "away_team_id": "1263"
-    },
-    {
-      "xml_id": "2041187",
-      "matchnum": "6003",
-      "date": "2026-08-29",
-      "dayofweek": "星期六",
-      "league": "日本乙级联赛",
-      "home": "大宫松鼠RB",
-      "away": "湘南海洋",
-      "spf_win": "3.61",
-      "spf_draw": "3.60",
-      "spf_lost": "1.74",
-      "spf_updated": "2026-08-28 09:47:12",
-      "gameid": "1419095",
-      "kickoff_cst": "2026-08-29 18:00",
-      "matchnum_label": "周六003",
-      "home_team_id": "2273",
-      "away_team_id": "3838"
     },
     {
       "xml_id": "2041188",
