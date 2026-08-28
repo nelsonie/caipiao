@@ -24,7 +24,7 @@
       "lost": "13.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-28T19:10:26Z"
+    "fetched_at_utc": "2026-08-28T19:20:26Z"
   },
   "shuju": {
     "title": "尤文图斯VS帕尔马(2026/2027意甲)-数据分析-500彩票网",
@@ -783,6 +783,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "球半/两球",
+        "away_water": "0.900↓",
+        "time": "08-29 03:02"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "球半/两球",
+        "away_water": "1.020",
+        "time": "08-23 23:43"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -796,22 +812,6 @@
         "handicap": "球半",
         "away_water": "0.800",
         "time": "08-21 18:13"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "球半/两球",
-        "away_water": "0.910↓",
-        "time": "08-28 23:05"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "球半/两球",
-        "away_water": "1.020",
-        "time": "08-23 23:43"
       }
     },
     {
@@ -882,10 +882,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "1.010↑",
         "handicap": "球半/两球",
-        "away_water": "0.900↓",
-        "time": "08-28 22:54"
+        "away_water": "0.890↓",
+        "time": "08-29 03:01"
       },
       "init": {
         "home_water": "0.890",
