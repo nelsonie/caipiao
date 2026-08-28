@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-28T22:40:40Z",
+  "last_updated_utc": "2026-08-28T22:50:36Z",
   "matches": [
     {
       "xml_id": "2041123",
@@ -452,24 +452,6 @@
       "away_team_id": "1611"
     },
     {
-      "xml_id": "2041152",
-      "matchnum": "7003",
-      "date": "2026-08-30",
-      "dayofweek": "星期天",
-      "league": "韩国职业联赛",
-      "home": "仁川联",
-      "away": "全北现代",
-      "spf_win": "1.50",
-      "spf_draw": "3.70",
-      "spf_lost": "5.20",
-      "spf_updated": "2026-08-28 09:47:12",
-      "gameid": "1373172",
-      "kickoff_cst": "2026-08-30 18:30",
-      "matchnum_label": "周日003",
-      "home_team_id": "1612",
-      "away_team_id": "1609"
-    },
-    {
       "xml_id": "2041153",
       "matchnum": "7004",
       "date": "2026-08-30",
@@ -576,24 +558,6 @@
       "matchnum_label": "周日013",
       "home_team_id": "883",
       "away_team_id": "1056"
-    },
-    {
-      "xml_id": "2041163",
-      "matchnum": "7014",
-      "date": "2026-08-30",
-      "dayofweek": "星期天",
-      "league": "英格兰超级联赛",
-      "home": "曼彻斯特联",
-      "away": "伊普斯维奇",
-      "spf_win": "1.88",
-      "spf_draw": "3.70",
-      "spf_lost": "3.06",
-      "spf_updated": "2026-08-28 09:47:12",
-      "gameid": "1420368",
-      "kickoff_cst": "2026-08-30 23:30",
-      "matchnum_label": "周日014",
-      "home_team_id": "1075",
-      "away_team_id": "1314"
     },
     {
       "xml_id": "2041164",
