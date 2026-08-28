@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-28T15:00:51Z",
+  "last_updated_utc": "2026-08-28T15:10:49Z",
   "matches": [
     {
       "xml_id": "2041099",
@@ -722,24 +722,6 @@
       "away_team_id": "1609"
     },
     {
-      "xml_id": "2041153",
-      "matchnum": "7004",
-      "date": "2026-08-30",
-      "dayofweek": "星期天",
-      "league": "德国乙级联赛",
-      "home": "圣保利",
-      "away": "凯泽斯劳滕",
-      "spf_win": "3.25",
-      "spf_draw": "3.55",
-      "spf_lost": "1.85",
-      "spf_updated": "2026-08-28 09:47:12",
-      "gameid": "1430629",
-      "kickoff_cst": "2026-08-30 19:30",
-      "matchnum_label": "周日004",
-      "home_team_id": "495",
-      "away_team_id": "928"
-    },
-    {
       "xml_id": "2041155",
       "matchnum": "7006",
       "date": "2026-08-30",
@@ -756,24 +738,6 @@
       "matchnum_label": "周日006",
       "home_team_id": "801",
       "away_team_id": "211"
-    },
-    {
-      "xml_id": "2041158",
-      "matchnum": "7009",
-      "date": "2026-08-30",
-      "dayofweek": "星期天",
-      "league": "英格兰超级联赛",
-      "home": "利兹联",
-      "away": "布伦特福德",
-      "spf_win": "4.90",
-      "spf_draw": "4.25",
-      "spf_lost": "1.45",
-      "spf_updated": "2026-08-28 09:47:12",
-      "gameid": "1420362",
-      "kickoff_cst": "2026-08-30 21:00",
-      "matchnum_label": "周日009",
-      "home_team_id": "1015",
-      "away_team_id": "1361"
     },
     {
       "xml_id": "2041159",
