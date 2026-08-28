@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-28T17:40:49Z",
+  "last_updated_utc": "2026-08-28T17:50:49Z",
   "matches": [
     {
       "xml_id": "2041102",
@@ -306,6 +306,24 @@
       "matchnum_label": "周六010",
       "home_team_id": "970",
       "away_team_id": "1089"
+    },
+    {
+      "xml_id": "2041131",
+      "matchnum": "6011",
+      "date": "2026-08-29",
+      "dayofweek": "星期六",
+      "league": "德国甲级联赛",
+      "home": "柏林联合",
+      "away": "法兰克福",
+      "spf_win": "5.25",
+      "spf_draw": "4.35",
+      "spf_lost": "1.41",
+      "spf_updated": "2026-08-28 11:36:31",
+      "gameid": "1428468",
+      "kickoff_cst": "2026-08-29 21:30",
+      "matchnum_label": "周六011",
+      "home_team_id": "660",
+      "away_team_id": "791"
     },
     {
       "xml_id": "2041132",
