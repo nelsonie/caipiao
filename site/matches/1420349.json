@@ -24,7 +24,7 @@
       "lost": "3.38",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-28T12:00:27Z"
+    "fetched_at_utc": "2026-08-28T12:10:27Z"
   },
   "shuju": {
     "title": "伯恩茅斯VS埃弗顿(2026/2027英超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.820↑",
-        "handicap": "平手/半球升",
-        "away_water": "1.130↓",
-        "time": "08-28 18:18"
-      },
-      "init": {
-        "home_water": "0.360",
-        "handicap": "平手",
-        "away_water": "2.550",
-        "time": "08-21 21:06"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球",
         "away_water": "0.940",
         "time": "08-23 03:36"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.820↑",
+        "handicap": "平手/半球升",
+        "away_water": "1.130↓",
+        "time": "08-28 18:18"
+      },
+      "init": {
+        "home_water": "0.360",
+        "handicap": "平手",
+        "away_water": "2.550",
+        "time": "08-21 21:06"
       }
     },
     {
