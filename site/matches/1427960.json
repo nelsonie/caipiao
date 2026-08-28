@@ -24,7 +24,7 @@
       "lost": "2.10",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-28T08:40:17Z"
+    "fetched_at_utc": "2026-08-28T08:50:18Z"
   },
   "shuju": {
     "title": "阿拉维斯VS比利亚雷亚尔(2026/2027西甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.360↑",
-        "handicap": "平手",
-        "away_water": "0.690↓",
-        "time": "08-28 14:47"
-      },
-      "init": {
-        "home_water": "1.100",
-        "handicap": "平手",
-        "away_water": "0.850",
-        "time": "08-23 20:22"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "平手",
         "away_water": "0.790",
         "time": "08-23 21:44"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.360↑",
+        "handicap": "平手",
+        "away_water": "0.690↓",
+        "time": "08-28 14:47"
+      },
+      "init": {
+        "home_water": "1.100",
+        "handicap": "平手",
+        "away_water": "0.850",
+        "time": "08-23 20:22"
       }
     },
     {
@@ -889,10 +889,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.950↓",
+        "home_water": "0.960↓",
         "handicap": "受平手/半球降",
-        "away_water": "0.950↑",
-        "time": "08-28 16:07"
+        "away_water": "0.940↑",
+        "time": "08-28 16:32"
       },
       "init": {
         "home_water": "1.010",
