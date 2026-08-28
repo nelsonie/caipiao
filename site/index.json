@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-28T21:30:39Z",
+  "last_updated_utc": "2026-08-28T21:40:39Z",
   "matches": [
     {
       "xml_id": "2041123",
@@ -126,6 +126,24 @@
       "matchnum_label": "周六011",
       "home_team_id": "660",
       "away_team_id": "791"
+    },
+    {
+      "xml_id": "2041132",
+      "matchnum": "6012",
+      "date": "2026-08-29",
+      "dayofweek": "星期六",
+      "league": "德国甲级联赛",
+      "home": "科隆",
+      "away": "霍芬海姆",
+      "spf_win": "1.57",
+      "spf_draw": "4.00",
+      "spf_lost": "4.12",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1428461",
+      "kickoff_cst": "2026-08-29 21:30",
+      "matchnum_label": "周六012",
+      "home_team_id": "932",
+      "away_team_id": "1869"
     },
     {
       "xml_id": "2041133",
