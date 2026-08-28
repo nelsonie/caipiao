@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-28T10:20:51Z",
+  "last_updated_utc": "2026-08-28T10:30:50Z",
   "matches": [
     {
       "xml_id": "2041099",
@@ -81,10 +81,10 @@
       "league": "法国乙级联赛",
       "home": "蒙彼利埃",
       "away": "布洛涅",
-      "spf_win": "2.90",
+      "spf_win": "3.02",
       "spf_draw": "3.10",
-      "spf_lost": "2.17",
-      "spf_updated": "2026-08-28 17:30:32",
+      "spf_lost": "2.10",
+      "spf_updated": "2026-08-28 18:20:46",
       "gameid": "1416884",
       "kickoff_cst": "2026-08-29 02:00",
       "matchnum_label": "周五005",
@@ -740,6 +740,24 @@
       "away_team_id": "928"
     },
     {
+      "xml_id": "2041155",
+      "matchnum": "7006",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "费耶诺德",
+      "away": "海牙",
+      "spf_win": "2.09",
+      "spf_draw": "4.20",
+      "spf_lost": "2.42",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1415897",
+      "kickoff_cst": "2026-08-30 20:30",
+      "matchnum_label": "周日006",
+      "home_team_id": "801",
+      "away_team_id": "211"
+    },
+    {
       "xml_id": "2041158",
       "matchnum": "7009",
       "date": "2026-08-30",
@@ -828,6 +846,24 @@
       "matchnum_label": "周日014",
       "home_team_id": "1075",
       "away_team_id": "1314"
+    },
+    {
+      "xml_id": "2041164",
+      "matchnum": "7015",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "德国甲级联赛",
+      "home": "奥格斯堡",
+      "away": "沙尔克04",
+      "spf_win": "3.90",
+      "spf_draw": "3.75",
+      "spf_lost": "1.65",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1428454",
+      "kickoff_cst": "2026-08-30 23:30",
+      "matchnum_label": "周日015",
+      "home_team_id": "1923",
+      "away_team_id": "478"
     },
     {
       "xml_id": "2041165",
