@@ -24,7 +24,7 @@
       "lost": "2.10",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-28T04:10:26Z"
+    "fetched_at_utc": "2026-08-28T04:20:28Z"
   },
   "shuju": {
     "title": "莱万特VS皇家贝蒂斯(2026/2027西甲)-数据分析-500彩票网",
@@ -753,22 +753,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.840↓",
-        "time": "08-27 16:21"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "平手",
-        "away_water": "0.960",
-        "time": "08-21 18:13"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -782,6 +766,22 @@
         "handicap": "受平手/半球",
         "away_water": "1.020",
         "time": "08-23 18:22"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.840↓",
+        "time": "08-27 16:21"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "平手",
+        "away_water": "0.960",
+        "time": "08-21 18:13"
       }
     },
     {
