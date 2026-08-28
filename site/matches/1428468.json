@@ -24,7 +24,7 @@
       "lost": "2.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-28T07:30:22Z"
+    "fetched_at_utc": "2026-08-28T07:40:24Z"
   },
   "shuju": {
     "title": "柏林联合VS法兰克福(2026/2027德甲)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "平手降",
-        "away_water": "0.900↑",
-        "time": "08-28 13:10"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "平手/半球",
-        "away_water": "0.770",
-        "time": "07-15 12:52"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.850",
         "time": "07-31 00:38"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "平手降",
+        "away_water": "0.900↑",
+        "time": "08-28 13:10"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "平手/半球",
+        "away_water": "0.770",
+        "time": "07-15 12:52"
       }
     },
     {
@@ -827,10 +827,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.940↑",
+        "home_water": "0.960↑",
         "handicap": "平手",
         "away_water": "0.940↓",
-        "time": "08-27 19:24"
+        "time": "08-28 15:03"
       },
       "init": {
         "home_water": "0.830",
@@ -843,10 +843,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.890↑",
+        "home_water": "0.900↑",
         "handicap": "平手",
-        "away_water": "0.890↓",
-        "time": "08-28 13:07"
+        "away_water": "0.880↓",
+        "time": "08-28 15:23"
       },
       "init": {
         "home_water": "0.770",
@@ -1072,7 +1072,7 @@
     {
       "cid": "3",
       "company": "B*****",
-      "time": "2026-08-28 12:58:50",
+      "time": "2026-08-28 15:29:53",
       "odds": {
         "live": [
           "2.50",
