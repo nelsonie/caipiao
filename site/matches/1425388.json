@@ -24,7 +24,7 @@
       "lost": "2.72",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-28T18:40:09Z"
+    "fetched_at_utc": "2026-08-28T18:50:08Z"
   },
   "shuju": {
     "title": "雷克斯汉姆VS伯明翰(2026/2027英冠)-数据分析-500彩票网",
@@ -402,8 +402,8 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "乔治·托马森",
+            "number": "3",
+            "name": "雅克·埃科米",
             "position": "中场"
           },
           {
@@ -449,11 +449,6 @@
             "position": "守门员"
           },
           {
-            "number": "28",
-            "name": "山姆·史密斯",
-            "position": "前锋"
-          },
-          {
             "number": "24",
             "name": "丹·斯卡尔",
             "position": "后卫"
@@ -464,18 +459,13 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "戴维斯·凯洛邓恩",
-            "position": "前锋"
+            "number": "12",
+            "name": "伊萨·卡博雷",
+            "position": "后卫"
           },
           {
             "number": "37",
             "name": "马修-詹姆斯",
-            "position": "中场"
-          },
-          {
-            "number": "15",
-            "name": "乔治·多比森",
             "position": "中场"
           },
           {
@@ -487,6 +477,11 @@
             "number": "11",
             "name": "卡达马特里",
             "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "乔什·温达斯",
+            "position": "中场"
           }
         ],
         "injured": [],
@@ -496,18 +491,18 @@
         "formation": null,
         "starters": [
           {
-            "number": "32",
-            "name": "路易斯·巴斯克斯",
+            "number": "9",
+            "name": "奥古斯特·普里斯克",
             "position": "前锋"
+          },
+          {
+            "number": "28",
+            "name": "杰伊·斯坦斯菲尔德",
+            "position": "中场"
           },
           {
             "number": "10",
             "name": "德马莱·格雷",
-            "position": "中场"
-          },
-          {
-            "number": "27",
-            "name": "藤本宽也",
             "position": "中场"
           },
           {
@@ -516,18 +511,18 @@
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "白昇浩",
-            "position": "中场"
-          },
-          {
             "number": "14",
             "name": "乔恩·埃尔默·索利斯",
             "position": "中场"
           },
           {
-            "number": "25",
-            "name": "克里斯托弗·隆德",
+            "number": "24",
+            "name": "岩田智辉",
+            "position": "中场"
+          },
+          {
+            "number": "20",
+            "name": "亚历山大·威廉·科克伦",
             "position": "后卫"
           },
           {
@@ -536,8 +531,8 @@
             "position": "后卫"
           },
           {
-            "number": "23",
-            "name": "戴尔·弗莱",
+            "number": "5",
+            "name": "菲利·诺依曼",
             "position": "后卫"
           },
           {
@@ -546,26 +541,21 @@
             "position": "后卫"
           },
           {
-            "number": "21",
-            "name": "莱安·阿尔索普",
+            "number": "1",
+            "name": "詹姆斯·比德尔",
             "position": "守门员"
           }
         ],
         "subs": [
-          {
-            "number": "20",
-            "name": "亚历山大·威廉·科克伦",
-            "position": "后卫"
-          },
           {
             "number": "33",
             "name": "马尔文·杜克施",
             "position": "前锋"
           },
           {
-            "number": "24",
-            "name": "岩田智辉",
-            "position": "中场"
+            "number": "23",
+            "name": "戴尔·弗莱",
+            "position": "后卫"
           },
           {
             "number": "2",
@@ -573,14 +563,14 @@
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "菲利·诺依曼",
+            "number": "25",
+            "name": "克里斯托弗·隆德",
             "position": "后卫"
           },
           {
-            "number": "9",
-            "name": "奥古斯特·普里斯克",
-            "position": "前锋"
+            "number": "8",
+            "name": "白昇浩",
+            "position": "中场"
           },
           {
             "number": "16",
@@ -588,13 +578,18 @@
             "position": "中场"
           },
           {
-            "number": "28",
-            "name": "杰伊·斯坦斯菲尔德",
+            "number": "32",
+            "name": "路易斯·巴斯克斯",
             "position": "前锋"
           },
           {
-            "number": "1",
-            "name": "詹姆斯·比德尔",
+            "number": "11",
+            "name": "斯科特·赖特",
+            "position": "前锋"
+          },
+          {
+            "number": "21",
+            "name": "莱安·阿尔索普",
             "position": "守门员"
           }
         ],
@@ -688,10 +683,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.900↓",
+        "home_water": "0.910↓",
         "handicap": "平手/半球",
-        "away_water": "0.980↑",
-        "time": "08-29 02:31"
+        "away_water": "0.970↑",
+        "time": "08-29 02:41"
       },
       "init": {
         "home_water": "1.080",
@@ -704,10 +699,10 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.890↓",
+        "home_water": "0.920↓",
         "handicap": "平手/半球",
-        "away_water": "0.990↑",
-        "time": "08-29 02:36"
+        "away_water": "0.970↑",
+        "time": "08-29 02:46"
       },
       "init": {
         "home_water": "1.080",
@@ -736,10 +731,10 @@
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "0.900↑",
+        "home_water": "0.890↑",
         "handicap": "平手/半球升",
-        "away_water": "0.950↓",
-        "time": "08-29 02:36"
+        "away_water": "0.960↓",
+        "time": "08-29 02:41"
       },
       "init": {
         "home_water": "0.730",
@@ -768,10 +763,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.920↑",
+        "home_water": "0.910↑",
         "handicap": "平手/半球升",
-        "away_water": "0.980↓",
-        "time": "08-29 02:25"
+        "away_water": "0.990↓",
+        "time": "08-29 02:46"
       },
       "init": {
         "home_water": "0.760",
