@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-28T09:40:52Z",
+  "last_updated_utc": "2026-08-28T09:50:48Z",
   "matches": [
     {
       "xml_id": "2041099",
@@ -153,10 +153,10 @@
       "league": "意大利甲级联赛",
       "home": "AC米兰",
       "away": "威尼斯",
-      "spf_win": "2.03",
+      "spf_win": "2.09",
       "spf_draw": "3.52",
-      "spf_lost": "2.85",
-      "spf_updated": "2026-08-28 13:40:17",
+      "spf_lost": "2.73",
+      "spf_updated": "2026-08-28 17:48:04",
       "gameid": "1414200",
       "kickoff_cst": "2026-08-29 02:45",
       "matchnum_label": "周五009",
@@ -776,24 +776,6 @@
       "away_team_id": "1361"
     },
     {
-      "xml_id": "2041159",
-      "matchnum": "7010",
-      "date": "2026-08-30",
-      "dayofweek": "星期天",
-      "league": "法国甲级联赛",
-      "home": "巴黎FC",
-      "away": "尼斯",
-      "spf_win": "4.15",
-      "spf_draw": "3.55",
-      "spf_lost": "1.65",
-      "spf_updated": "2026-08-28 09:47:12",
-      "gameid": "1415092",
-      "kickoff_cst": "2026-08-30 21:00",
-      "matchnum_label": "周日010",
-      "home_team_id": "4599",
-      "away_team_id": "1134"
-    },
-    {
       "xml_id": "2041161",
       "matchnum": "7012",
       "date": "2026-08-30",
@@ -900,24 +882,6 @@
       "matchnum_label": "周日017",
       "home_team_id": "959",
       "away_team_id": "1243"
-    },
-    {
-      "xml_id": "2041167",
-      "matchnum": "7018",
-      "date": "2026-08-31",
-      "dayofweek": "星期一",
-      "league": "荷兰甲级联赛",
-      "home": "坎布尔",
-      "away": "特温特",
-      "spf_win": "3.22",
-      "spf_draw": "3.90",
-      "spf_lost": "1.78",
-      "spf_updated": "2026-08-28 09:47:12",
-      "gameid": "1415903",
-      "kickoff_cst": "2026-08-31 02:00",
-      "matchnum_label": "周日018",
-      "home_team_id": "235",
-      "away_team_id": "1231"
     },
     {
       "xml_id": "2041168",
