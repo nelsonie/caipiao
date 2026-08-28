@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-28T23:20:37Z",
+  "last_updated_utc": "2026-08-28T23:30:40Z",
   "matches": [
     {
       "xml_id": "2041123",
@@ -470,6 +470,24 @@
       "away_team_id": "1609"
     },
     {
+      "xml_id": "2041153",
+      "matchnum": "7004",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "德国乙级联赛",
+      "home": "圣保利",
+      "away": "凯泽斯劳滕",
+      "spf_win": "3.25",
+      "spf_draw": "3.55",
+      "spf_lost": "1.85",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1430629",
+      "kickoff_cst": "2026-08-30 19:30",
+      "matchnum_label": "周日004",
+      "home_team_id": "495",
+      "away_team_id": "928"
+    },
+    {
       "xml_id": "2041155",
       "matchnum": "7006",
       "date": "2026-08-30",
@@ -504,6 +522,24 @@
       "matchnum_label": "周日009",
       "home_team_id": "1015",
       "away_team_id": "1361"
+    },
+    {
+      "xml_id": "2041159",
+      "matchnum": "7010",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "法国甲级联赛",
+      "home": "巴黎FC",
+      "away": "尼斯",
+      "spf_win": "4.15",
+      "spf_draw": "3.55",
+      "spf_lost": "1.65",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1415092",
+      "kickoff_cst": "2026-08-30 21:00",
+      "matchnum_label": "周日010",
+      "home_team_id": "4599",
+      "away_team_id": "1134"
     },
     {
       "xml_id": "2041161",
@@ -576,6 +612,24 @@
       "matchnum_label": "周日015",
       "home_team_id": "1923",
       "away_team_id": "478"
+    },
+    {
+      "xml_id": "2041165",
+      "matchnum": "7016",
+      "date": "2026-08-31",
+      "dayofweek": "星期一",
+      "league": "意大利甲级联赛",
+      "home": "那不勒斯",
+      "away": "科莫",
+      "spf_win": "5.20",
+      "spf_draw": "3.70",
+      "spf_lost": "1.50",
+      "spf_updated": "2026-08-28 09:47:12",
+      "gameid": "1414156",
+      "kickoff_cst": "2026-08-31 00:30",
+      "matchnum_label": "周日016",
+      "home_team_id": "1125",
+      "away_team_id": "935"
     },
     {
       "xml_id": "2041166",
