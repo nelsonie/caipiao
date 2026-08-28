@@ -24,7 +24,7 @@
       "lost": "1.84",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-28T03:50:35Z"
+    "fetched_at_utc": "2026-08-28T04:00:37Z"
   },
   "shuju": {
     "title": "塞维利亚VS马德里竞技(2026/2027西甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.960↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.770↓",
-        "time": "08-26 23:13"
-      },
-      "init": {
-        "home_water": "1.160",
-        "handicap": "平手",
-        "away_water": "0.810",
-        "time": "08-21 18:13"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.860",
         "time": "08-23 23:15"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.960↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.770↓",
+        "time": "08-26 23:13"
+      },
+      "init": {
+        "home_water": "1.160",
+        "handicap": "平手",
+        "away_water": "0.810",
+        "time": "08-21 18:13"
       }
     },
     {
