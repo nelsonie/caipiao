@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-29T09:40:54Z",
+  "last_updated_utc": "2026-08-29T09:50:55Z",
   "matches": [
     {
       "xml_id": "2041123",
@@ -423,10 +423,10 @@
       "league": "葡萄牙超级联赛",
       "home": "维塞乌",
       "away": "波尔图",
-      "spf_win": "3.65",
-      "spf_draw": "3.75",
-      "spf_lost": "1.70",
-      "spf_updated": "2026-08-29 15:38:49",
+      "spf_win": "3.75",
+      "spf_draw": "3.85",
+      "spf_lost": "1.66",
+      "spf_updated": "2026-08-29 17:38:29",
       "gameid": "1438074",
       "kickoff_cst": "2026-08-30 01:00",
       "matchnum_label": "周六026",
@@ -992,6 +992,24 @@
       "away_team_id": "1032"
     },
     {
+      "xml_id": "2041178",
+      "matchnum": "1004",
+      "date": "2026-09-01",
+      "dayofweek": "星期二",
+      "league": "瑞典超级联赛",
+      "home": "佐加顿斯",
+      "away": "米亚尔比",
+      "spf_win": "2.32",
+      "spf_draw": "3.55",
+      "spf_lost": "2.40",
+      "spf_updated": "2026-08-29 09:36:26",
+      "gameid": "1362753",
+      "kickoff_cst": "2026-09-01 01:00",
+      "matchnum_label": "周一004",
+      "home_team_id": "1355",
+      "away_team_id": "2465"
+    },
+    {
       "xml_id": "2041179",
       "matchnum": "1005",
       "date": "2026-09-01",
@@ -1044,24 +1062,6 @@
       "matchnum_label": "周一007",
       "home_team_id": "1308",
       "away_team_id": "707"
-    },
-    {
-      "xml_id": "2041182",
-      "matchnum": "1008",
-      "date": "2026-09-01",
-      "dayofweek": "星期二",
-      "league": "法国乙级联赛",
-      "home": "第戎",
-      "away": "圣埃蒂安",
-      "spf_win": "1.91",
-      "spf_draw": "3.35",
-      "spf_lost": "3.25",
-      "spf_updated": "2026-08-29 09:36:26",
-      "gameid": "1416881",
-      "kickoff_cst": "2026-09-01 02:45",
-      "matchnum_label": "周一008",
-      "home_team_id": "774",
-      "away_team_id": "494"
     },
     {
       "xml_id": "2041183",
