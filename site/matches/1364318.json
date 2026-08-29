@@ -24,7 +24,7 @@
       "lost": "9.50",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T20:40:09Z"
+    "fetched_at_utc": "2026-08-29T20:50:09Z"
   },
   "shuju": {
     "title": "维京VS奥勒松(2026挪超)-数据分析-500彩票网",
@@ -738,22 +738,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "球半/两球降",
-        "away_water": "0.910↑",
-        "time": "08-29 23:45"
-      },
-      "init": {
-        "home_water": "1.290",
-        "handicap": "两球半",
-        "away_water": "0.630",
-        "time": "08-19 04:18"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -767,6 +751,22 @@
         "handicap": "球半/两球",
         "away_water": "1.010",
         "time": "08-25 20:45"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "球半/两球降",
+        "away_water": "0.910↑",
+        "time": "08-29 23:45"
+      },
+      "init": {
+        "home_water": "1.290",
+        "handicap": "两球半",
+        "away_water": "0.630",
+        "time": "08-19 04:18"
       }
     },
     {
