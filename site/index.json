@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-29T18:00:33Z",
+  "last_updated_utc": "2026-08-29T18:10:33Z",
   "matches": [
     {
       "xml_id": "2041138",
@@ -216,24 +216,6 @@
       "matchnum_label": "周日008",
       "home_team_id": "466",
       "away_team_id": "811"
-    },
-    {
-      "xml_id": "2041158",
-      "matchnum": "7009",
-      "date": "2026-08-30",
-      "dayofweek": "星期天",
-      "league": "英格兰超级联赛",
-      "home": "利兹联",
-      "away": "布伦特福德",
-      "spf_win": "4.90",
-      "spf_draw": "4.25",
-      "spf_lost": "1.45",
-      "spf_updated": "2026-08-28 09:47:12",
-      "gameid": "1420362",
-      "kickoff_cst": "2026-08-30 21:00",
-      "matchnum_label": "周日009",
-      "home_team_id": "1015",
-      "away_team_id": "1361"
     },
     {
       "xml_id": "2041159",
