@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-29T14:00:55Z",
+  "last_updated_utc": "2026-08-29T14:10:55Z",
   "matches": [
     {
       "xml_id": "2041123",
@@ -477,10 +477,10 @@
       "league": "美国职业大联盟",
       "home": "华盛顿联",
       "away": "洛杉矶FC",
-      "spf_win": "1.74",
-      "spf_draw": "3.70",
-      "spf_lost": "3.52",
-      "spf_updated": "2026-08-29 10:46:46",
+      "spf_win": "1.78",
+      "spf_draw": "3.65",
+      "spf_lost": "3.40",
+      "spf_updated": "2026-08-29 22:05:01",
       "gameid": "1358610",
       "kickoff_cst": "2026-08-30 07:30",
       "matchnum_label": "周六029",
@@ -1116,24 +1116,6 @@
       "matchnum_label": "周一010",
       "home_team_id": "678",
       "away_team_id": "1616"
-    },
-    {
-      "xml_id": "2041185",
-      "matchnum": "1011",
-      "date": "2026-09-01",
-      "dayofweek": "星期二",
-      "league": "葡萄牙超级联赛",
-      "home": "布拉加",
-      "away": "吉马良斯",
-      "spf_win": "2.82",
-      "spf_draw": "3.35",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-08-29 09:36:26",
-      "gameid": "1438078",
-      "kickoff_cst": "2026-09-01 03:15",
-      "matchnum_label": "周一011",
-      "home_team_id": "719",
-      "away_team_id": "893"
     },
     {
       "xml_id": "2041186",
