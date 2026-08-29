@@ -24,13 +24,13 @@
       "lost": "17.00",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-08-29T22:10:17Z"
+    "fetched_at_utc": "2026-08-29T22:20:19Z"
   },
   "shuju": {
     "title": "皇家马德里VS马拉加(2026/2027西甲)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，皇马 4胜 2平 0负 ，进10球，失5球 ，大球3次，小球3次",
     "team_ranks": [
-      "皇马 [西甲3]",
+      "皇马 [西甲4]",
       "马拉加 [西甲18]"
     ],
     "h2h_rows": [
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.950↓",
-        "handicap": "两球半",
-        "away_water": "0.990↑",
-        "time": "08-30 05:58"
-      },
-      "init": {
-        "home_water": "1.320",
-        "handicap": "两球半",
-        "away_water": "0.710",
-        "time": "08-23 20:22"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "两球/两球半",
         "away_water": "0.840",
         "time": "08-25 03:10"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.950↓",
+        "handicap": "两球半",
+        "away_water": "0.990↑",
+        "time": "08-30 05:58"
+      },
+      "init": {
+        "home_water": "1.320",
+        "handicap": "两球半",
+        "away_water": "0.710",
+        "time": "08-23 20:22"
       }
     },
     {
