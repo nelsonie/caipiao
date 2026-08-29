@@ -24,7 +24,7 @@
       "lost": "13.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T03:30:24Z"
+    "fetched_at_utc": "2026-08-29T03:40:26Z"
   },
   "shuju": {
     "title": "尤文图斯VS帕尔马(2026/2027意甲)-数据分析-500彩票网",
@@ -754,10 +754,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.990↑",
+        "home_water": "1.000↑",
         "handicap": "球半/两球",
-        "away_water": "0.890↓",
-        "time": "08-29 10:33"
+        "away_water": "0.880↓",
+        "time": "08-29 11:23"
       },
       "init": {
         "home_water": "0.870",
@@ -783,35 +783,35 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.000↓",
-        "handicap": "球半/两球升",
-        "away_water": "0.930↑",
-        "time": "08-29 04:15"
-      },
-      "init": {
-        "home_water": "1.170",
-        "handicap": "球半",
-        "away_water": "0.800",
-        "time": "08-21 18:13"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.020↑",
         "handicap": "球半/两球",
-        "away_water": "0.880↓",
-        "time": "08-29 09:01"
+        "away_water": "0.870↓",
+        "time": "08-29 11:21"
       },
       "init": {
         "home_water": "0.870",
         "handicap": "球半/两球",
         "away_water": "1.020",
         "time": "08-23 23:43"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.010↓",
+        "handicap": "球半/两球升",
+        "away_water": "0.920↑",
+        "time": "08-29 11:22"
+      },
+      "init": {
+        "home_water": "1.170",
+        "handicap": "球半",
+        "away_water": "0.800",
+        "time": "08-21 18:13"
       }
     },
     {
@@ -901,7 +901,7 @@
         "home_water": "0.950↑",
         "handicap": "球半/两球升",
         "away_water": "0.830↓",
-        "time": "08-29 10:42"
+        "time": "08-29 11:33"
       },
       "init": {
         "home_water": "0.880",
