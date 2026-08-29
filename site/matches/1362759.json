@@ -24,14 +24,14 @@
       "lost": "3.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T15:30:53Z"
+    "fetched_at_utc": "2026-08-29T15:40:53Z"
   },
   "shuju": {
     "title": "天狼星VS马尔默(2026瑞典超)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，天狼星 3胜 1平 2负 ，进14球，失11球 ，大球4次，小球2次",
     "team_ranks": [
       "天狼星 [瑞典超1]",
-      "马尔默 [瑞典超7]"
+      "马尔默 [瑞典超8]"
     ],
     "h2h_rows": [
       {
@@ -492,22 +492,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.070↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.640↑",
-        "time": "08-29 19:32"
-      },
-      "init": {
-        "home_water": "1.590",
-        "handicap": "球半",
-        "away_water": "0.400",
-        "time": "08-24 20:58"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -521,6 +505,22 @@
         "handicap": "半球/一球",
         "away_water": "0.800",
         "time": "08-26 08:13"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.070↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.640↑",
+        "time": "08-29 19:32"
+      },
+      "init": {
+        "home_water": "1.590",
+        "handicap": "球半",
+        "away_water": "0.400",
+        "time": "08-24 20:58"
       }
     },
     {
