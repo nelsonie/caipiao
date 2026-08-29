@@ -24,7 +24,7 @@
       "lost": "5.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T07:50:22Z"
+    "fetched_at_utc": "2026-08-29T08:00:23Z"
   },
   "shuju": {
     "title": "佛罗伦萨VS弗洛西诺内(2026/2027意甲)-数据分析-500彩票网",
@@ -707,10 +707,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.750↓",
+        "home_water": "0.820↓",
         "handicap": "半球/一球降",
-        "away_water": "1.050↑",
-        "time": "08-28 15:55"
+        "away_water": "1.020↑",
+        "time": "08-29 15:45"
       },
       "init": {
         "home_water": "0.870",
@@ -768,6 +768,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "半球/一球降",
+        "away_water": "1.020↑",
+        "time": "08-29 15:48"
+      },
+      "init": {
+        "home_water": "1.040",
+        "handicap": "一球",
+        "away_water": "0.850",
+        "time": "08-23 23:19"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -781,22 +797,6 @@
         "handicap": "一球/球半",
         "away_water": "0.710",
         "time": "08-23 22:06"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "半球/一球降",
-        "away_water": "1.040↑",
-        "time": "08-29 15:18"
-      },
-      "init": {
-        "home_water": "1.040",
-        "handicap": "一球",
-        "away_water": "0.850",
-        "time": "08-23 23:19"
       }
     },
     {
@@ -899,10 +899,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.850↑",
+        "home_water": "0.870↑",
         "handicap": "半球/一球",
-        "away_water": "1.050↓",
-        "time": "08-29 15:09"
+        "away_water": "1.030↓",
+        "time": "08-29 15:47"
       },
       "init": {
         "home_water": "0.820",
