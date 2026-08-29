@@ -24,7 +24,7 @@
       "lost": "1.96",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T07:10:19Z"
+    "fetched_at_utc": "2026-08-29T07:20:17Z"
   },
   "shuju": {
     "title": "斯特拉斯堡VS朗斯(2026/2027法甲)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "受半球降",
-        "away_water": "0.940↑",
-        "time": "08-29 14:22"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "受平手/半球",
-        "away_water": "0.830",
-        "time": "08-24 08:39"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.840",
         "time": "08-23 14:23"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "受半球降",
+        "away_water": "0.940↑",
+        "time": "08-29 14:22"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "受平手/半球",
+        "away_water": "0.830",
+        "time": "08-24 08:39"
       }
     },
     {

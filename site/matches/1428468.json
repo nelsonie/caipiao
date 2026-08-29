@@ -24,7 +24,7 @@
       "lost": "2.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T07:10:14Z"
+    "fetched_at_utc": "2026-08-29T07:20:13Z"
   },
   "shuju": {
     "title": "柏林联合VS法兰克福(2026/2027德甲)-数据分析-500彩票网",
@@ -715,16 +715,32 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.940↑",
+        "home_water": "0.970↑",
         "handicap": "平手",
-        "away_water": "0.940↓",
-        "time": "08-29 14:04"
+        "away_water": "0.920↓",
+        "time": "08-29 14:57"
       },
       "init": {
         "home_water": "0.830",
         "handicap": "平手",
         "away_water": "1.030",
         "time": "08-23 15:41"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↓",
+        "handicap": "平手降",
+        "away_water": "0.920↑",
+        "time": "08-29 15:06"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "平手/半球",
+        "away_water": "0.770",
+        "time": "07-15 12:52"
       }
     },
     {
@@ -741,22 +757,6 @@
         "handicap": "平手/半球",
         "away_water": "0.850",
         "time": "07-31 00:38"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "平手降",
-        "away_water": "0.920↑",
-        "time": "08-29 13:57"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "平手/半球",
-        "away_water": "0.770",
-        "time": "07-15 12:52"
       }
     },
     {
@@ -781,8 +781,8 @@
       "live": {
         "home_water": "0.970↓",
         "handicap": "平手降",
-        "away_water": "0.950↑",
-        "time": "08-29 12:10"
+        "away_water": "0.960↑",
+        "time": "08-29 15:00"
       },
       "init": {
         "home_water": "1.130",
@@ -797,8 +797,8 @@
       "live": {
         "home_water": "0.970↓",
         "handicap": "平手降",
-        "away_water": "0.950↑",
-        "time": "08-29 12:54"
+        "away_water": "0.960↑",
+        "time": "08-29 15:14"
       },
       "init": {
         "home_water": "1.110",
@@ -829,8 +829,8 @@
       "live": {
         "home_water": "0.970↑",
         "handicap": "平手",
-        "away_water": "0.950↓",
-        "time": "08-29 12:56"
+        "away_water": "0.960↓",
+        "time": "08-29 15:04"
       },
       "init": {
         "home_water": "0.830",
