@@ -24,13 +24,13 @@
       "lost": "2.85",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T17:30:27Z"
+    "fetched_at_utc": "2026-08-29T17:40:30Z"
   },
   "shuju": {
     "title": "维戈塞尔塔VS毕尔巴鄂竞技(2026/2027西甲)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，塞尔塔 2胜 1平 3负 ，进10球，失11球 ，大球4次，小球2次",
     "team_ranks": [
-      "塞尔塔 [西甲15]",
+      "塞尔塔 [西甲14]",
       "毕尔巴鄂 [西甲19]"
     ],
     "h2h_rows": [
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.060",
-        "handicap": "平手/半球",
-        "away_water": "0.820",
-        "time": "08-29 20:24"
-      },
-      "init": {
-        "home_water": "1.060",
-        "handicap": "平手/半球",
-        "away_water": "0.820",
-        "time": "08-24 08:25"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "平手",
         "away_water": "1.340",
         "time": "08-21 20:28"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.060",
+        "handicap": "平手/半球",
+        "away_water": "0.820",
+        "time": "08-29 20:24"
+      },
+      "init": {
+        "home_water": "1.060",
+        "handicap": "平手/半球",
+        "away_water": "0.820",
+        "time": "08-24 08:25"
       }
     },
     {
