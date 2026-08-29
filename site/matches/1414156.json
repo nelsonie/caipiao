@@ -24,7 +24,7 @@
       "lost": "2.92",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T15:40:44Z"
+    "fetched_at_utc": "2026-08-29T15:50:42Z"
   },
   "shuju": {
     "title": "那不勒斯VS科莫(2026/2027意甲)-数据分析-500彩票网",
@@ -778,22 +778,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.800↑",
-        "handicap": "平手降",
-        "away_water": "1.170↓",
-        "time": "08-29 22:55"
-      },
-      "init": {
-        "home_water": "0.760",
-        "handicap": "平手/半球",
-        "away_water": "1.240",
-        "time": "08-21 18:13"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -807,6 +791,22 @@
         "handicap": "平手/半球",
         "away_water": "0.780",
         "time": "08-24 10:21"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.800↑",
+        "handicap": "平手降",
+        "away_water": "1.170↓",
+        "time": "08-29 22:55"
+      },
+      "init": {
+        "home_water": "0.760",
+        "handicap": "平手/半球",
+        "away_water": "1.240",
+        "time": "08-21 18:13"
       }
     },
     {
