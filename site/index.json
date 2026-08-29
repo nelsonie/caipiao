@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-29T19:00:34Z",
+  "last_updated_utc": "2026-08-29T19:10:33Z",
   "matches": [
     {
       "xml_id": "2041138",
@@ -452,24 +452,6 @@
       "away_team_id": "1568"
     },
     {
-      "xml_id": "2041172",
-      "matchnum": "7023",
-      "date": "2026-08-31",
-      "dayofweek": "星期一",
-      "league": "西班牙甲级联赛",
-      "home": "维戈塞尔塔",
-      "away": "毕尔巴鄂竞技",
-      "spf_win": "4.90",
-      "spf_draw": "3.80",
-      "spf_lost": "1.51",
-      "spf_updated": "2026-08-29 09:36:26",
-      "gameid": "1427962",
-      "kickoff_cst": "2026-08-31 03:30",
-      "matchnum_label": "周日023",
-      "home_team_id": "457",
-      "away_team_id": "690"
-    },
-    {
       "xml_id": "2041173",
       "matchnum": "7024",
       "date": "2026-08-31",
@@ -486,60 +468,6 @@
       "matchnum_label": "周日024",
       "home_team_id": "261",
       "away_team_id": "1263"
-    },
-    {
-      "xml_id": "2041174",
-      "matchnum": "7025",
-      "date": "2026-08-31",
-      "dayofweek": "星期一",
-      "league": "美国职业大联盟",
-      "home": "圣路易斯城",
-      "away": "达拉斯FC",
-      "spf_win": "3.70",
-      "spf_draw": "3.85",
-      "spf_lost": "1.67",
-      "spf_updated": "2026-08-29 09:36:26",
-      "gameid": "1358632",
-      "kickoff_cst": "2026-08-31 07:00",
-      "matchnum_label": "周日025",
-      "home_team_id": "14129",
-      "away_team_id": "750"
-    },
-    {
-      "xml_id": "2041175",
-      "matchnum": "1001",
-      "date": "2026-09-01",
-      "dayofweek": "星期二",
-      "league": "芬兰超级联赛",
-      "home": "国际图尔库",
-      "away": "库奥皮奥",
-      "spf_win": "4.60",
-      "spf_draw": "3.75",
-      "spf_lost": "1.55",
-      "spf_updated": "2026-08-29 09:36:26",
-      "gameid": "1363834",
-      "kickoff_cst": "2026-09-01 00:00",
-      "matchnum_label": "周一001",
-      "home_team_id": "1327",
-      "away_team_id": "841"
-    },
-    {
-      "xml_id": "2041176",
-      "matchnum": "1002",
-      "date": "2026-09-01",
-      "dayofweek": "星期二",
-      "league": "芬兰超级联赛",
-      "home": "赫尔辛基火花",
-      "away": "TPS图尔库",
-      "spf_win": "3.70",
-      "spf_draw": "3.70",
-      "spf_lost": "1.70",
-      "spf_updated": "2026-08-29 09:36:26",
-      "gameid": "1363823",
-      "kickoff_cst": "2026-09-01 00:00",
-      "matchnum_label": "周一002",
-      "home_team_id": "2687",
-      "away_team_id": "415"
     },
     {
       "xml_id": "2041177",
@@ -630,24 +558,6 @@
       "matchnum_label": "周一007",
       "home_team_id": "1308",
       "away_team_id": "707"
-    },
-    {
-      "xml_id": "2041182",
-      "matchnum": "1008",
-      "date": "2026-09-01",
-      "dayofweek": "星期二",
-      "league": "法国乙级联赛",
-      "home": "第戎",
-      "away": "圣埃蒂安",
-      "spf_win": "1.91",
-      "spf_draw": "3.35",
-      "spf_lost": "3.25",
-      "spf_updated": "2026-08-29 09:36:26",
-      "gameid": "1416881",
-      "kickoff_cst": "2026-09-01 02:45",
-      "matchnum_label": "周一008",
-      "home_team_id": "774",
-      "away_team_id": "494"
     },
     {
       "xml_id": "2041183",
