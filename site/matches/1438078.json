@@ -24,7 +24,7 @@
       "lost": "4.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T05:40:53Z"
+    "fetched_at_utc": "2026-08-29T05:50:51Z"
   },
   "shuju": {
     "title": "布拉加VS吉马良斯(2026/2027葡超)-数据分析-500彩票网",
@@ -492,22 +492,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.750↓",
-        "time": "08-29 01:05"
-      },
-      "init": {
-        "home_water": "0.600",
-        "handicap": "平手/半球",
-        "away_water": "1.470",
-        "time": "08-24 23:05"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -521,6 +505,22 @@
         "handicap": "半球/一球",
         "away_water": "0.920",
         "time": "08-26 08:24"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.920↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.750↓",
+        "time": "08-29 01:05"
+      },
+      "init": {
+        "home_water": "0.600",
+        "handicap": "平手/半球",
+        "away_water": "1.470",
+        "time": "08-24 23:05"
       }
     },
     {
