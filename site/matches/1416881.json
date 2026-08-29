@@ -24,7 +24,7 @@
       "lost": "1.68",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T16:10:40Z"
+    "fetched_at_utc": "2026-08-29T16:20:38Z"
   },
   "shuju": {
     "title": "第戎VS圣埃蒂安(2026/2027法乙)-数据分析-500彩票网",
@@ -508,22 +508,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.670↓",
-        "handicap": "受半球/一球降",
-        "away_water": "0.970↑",
-        "time": "08-29 23:34"
-      },
-      "init": {
-        "home_water": "1.700",
-        "handicap": "平手",
-        "away_water": "0.400",
-        "time": "08-24 22:25"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -537,6 +521,22 @@
         "handicap": "受半球",
         "away_water": "0.860",
         "time": "08-27 02:07"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.670↓",
+        "handicap": "受半球/一球降",
+        "away_water": "0.970↑",
+        "time": "08-29 23:34"
+      },
+      "init": {
+        "home_water": "1.700",
+        "handicap": "平手",
+        "away_water": "0.400",
+        "time": "08-24 22:25"
       }
     },
     {
