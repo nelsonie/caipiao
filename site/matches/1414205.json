@@ -24,7 +24,7 @@
       "lost": "3.08",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T10:10:25Z"
+    "fetched_at_utc": "2026-08-29T10:20:24Z"
   },
   "shuju": {
     "title": "萨索洛VS都灵(2026/2027意甲)-数据分析-500彩票网",
@@ -783,6 +783,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "平手/半球",
+        "away_water": "0.900↓",
+        "time": "08-29 18:05"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手/半球",
+        "away_water": "0.940",
+        "time": "08-24 08:29"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -796,22 +812,6 @@
         "handicap": "平手/半球",
         "away_water": "0.850",
         "time": "08-23 22:06"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "平手/半球",
-        "away_water": "0.890↓",
-        "time": "08-29 17:59"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手/半球",
-        "away_water": "0.940",
-        "time": "08-24 08:29"
       }
     },
     {
@@ -852,8 +852,8 @@
       "live": {
         "home_water": "1.020↓",
         "handicap": "平手/半球",
-        "away_water": "0.910↑",
-        "time": "08-29 17:36"
+        "away_water": "0.920↑",
+        "time": "08-29 18:02"
       },
       "init": {
         "home_water": "1.070",

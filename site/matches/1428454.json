@@ -24,7 +24,7 @@
       "lost": "3.15",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T10:10:42Z"
+    "fetched_at_utc": "2026-08-29T10:20:41Z"
   },
   "shuju": {
     "title": "奥格斯堡VS沙尔克04(2026/2027德甲)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "平手/半球",
-        "away_water": "0.990↓",
-        "time": "08-28 15:56"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "平手/半球",
-        "away_water": "1.000",
-        "time": "08-01 02:28"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.960",
         "time": "07-15 12:52"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "平手/半球",
+        "away_water": "0.990↓",
+        "time": "08-28 15:56"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "平手/半球",
+        "away_water": "1.000",
+        "time": "08-01 02:28"
       }
     },
     {
