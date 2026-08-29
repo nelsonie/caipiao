@@ -24,7 +24,7 @@
       "lost": "2.92",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T23:40:19Z"
+    "fetched_at_utc": "2026-08-29T23:50:20Z"
   },
   "shuju": {
     "title": "那不勒斯VS科莫(2026/2027意甲)-数据分析-500彩票网",
@@ -778,29 +778,13 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.800↑",
-        "handicap": "平手降",
-        "away_water": "1.170↓",
-        "time": "08-30 07:10"
-      },
-      "init": {
-        "home_water": "0.760",
-        "handicap": "平手/半球",
-        "away_water": "1.240",
-        "time": "08-21 18:13"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
         "home_water": "1.090↓",
         "handicap": "平手/半球",
         "away_water": "0.720↓",
-        "time": "08-30 07:12"
+        "time": "08-30 07:47"
       },
       "init": {
         "home_water": "1.140",
@@ -810,13 +794,29 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.170↑",
+        "handicap": "平手/半球",
+        "away_water": "0.790↓",
+        "time": "08-30 07:44"
+      },
+      "init": {
+        "home_water": "0.760",
+        "handicap": "平手/半球",
+        "away_water": "1.240",
+        "time": "08-21 18:13"
+      }
+    },
+    {
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.770↓",
-        "handicap": "平手降",
-        "away_water": "1.180↑",
-        "time": "08-30 00:54"
+        "home_water": "1.170↑",
+        "handicap": "平手/半球",
+        "away_water": "0.770↑",
+        "time": "08-30 07:44"
       },
       "init": {
         "home_water": "1.100",
@@ -829,10 +829,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "1.140↑",
+        "home_water": "1.160↑",
         "handicap": "平手/半球",
-        "away_water": "0.770↓",
-        "time": "08-30 06:51"
+        "away_water": "0.760↓",
+        "time": "08-30 07:39"
       },
       "init": {
         "home_water": "1.130",
@@ -893,10 +893,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.730↓",
+        "home_water": "0.720↓",
         "handicap": "平手",
-        "away_water": "1.090↑",
-        "time": "08-30 00:55"
+        "away_water": "1.100↑",
+        "time": "08-30 07:40"
       },
       "init": {
         "home_water": "0.750",
