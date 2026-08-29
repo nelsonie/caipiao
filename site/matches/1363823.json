@@ -24,7 +24,7 @@
       "lost": "3.15",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T20:00:26Z"
+    "fetched_at_utc": "2026-08-29T20:10:28Z"
   },
   "shuju": {
     "title": "格尼斯坦VSTPS土尔库(2026芬超)-数据分析-500彩票网",
@@ -617,22 +617,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "半球",
-        "away_water": "0.990↑",
-        "time": "08-30 01:45"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "半球",
-        "away_water": "0.970",
-        "time": "08-29 00:45"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -646,6 +630,22 @@
         "handicap": "平手",
         "away_water": "1.520",
         "time": "08-24 22:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "半球",
+        "away_water": "0.990↑",
+        "time": "08-30 01:45"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "半球",
+        "away_water": "0.970",
+        "time": "08-29 00:45"
       }
     },
     {
