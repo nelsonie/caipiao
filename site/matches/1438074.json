@@ -24,7 +24,7 @@
       "lost": "1.22",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T02:40:23Z"
+    "fetched_at_utc": "2026-08-29T02:50:25Z"
   },
   "shuju": {
     "title": "维塞乌VS波尔图(2026/2027葡超)-数据分析-500彩票网",
@@ -747,22 +747,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↑",
-        "handicap": "受球半",
-        "away_water": "0.960↓",
-        "time": "08-29 07:33"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "受球半",
-        "away_water": "1.020",
-        "time": "08-25 00:20"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -776,6 +760,22 @@
         "handicap": "受球半",
         "away_water": "1.020",
         "time": "08-24 23:05"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "受球半",
+        "away_water": "0.960↓",
+        "time": "08-29 07:33"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "受球半",
+        "away_water": "1.020",
+        "time": "08-25 00:20"
       }
     },
     {
