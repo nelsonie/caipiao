@@ -24,7 +24,7 @@
       "lost": "7.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T18:20:22Z"
+    "fetched_at_utc": "2026-08-29T18:30:22Z"
   },
   "shuju": {
     "title": "曼彻斯特联VS伊普斯维奇(2026/2027英超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890↓",
-        "handicap": "一球/球半",
-        "away_water": "0.980↑",
-        "time": "08-29 23:38"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "一球/球半",
-        "away_water": "0.890",
-        "time": "08-24 08:25"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "球半",
         "away_water": "0.830",
         "time": "08-23 00:21"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.890↓",
+        "handicap": "一球/球半",
+        "away_water": "0.980↑",
+        "time": "08-29 23:38"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "一球/球半",
+        "away_water": "0.890",
+        "time": "08-24 08:25"
       }
     },
     {
@@ -795,10 +795,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.890↓",
+        "home_water": "0.870↓",
         "handicap": "一球/球半",
-        "away_water": "1.010↑",
-        "time": "08-30 00:32"
+        "away_water": "1.030↑",
+        "time": "08-30 02:26"
       },
       "init": {
         "home_water": "1.010",
@@ -827,10 +827,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.890↓",
+        "home_water": "0.870↓",
         "handicap": "一球/球半",
-        "away_water": "1.010↑",
-        "time": "08-30 00:33"
+        "away_water": "1.030↑",
+        "time": "08-30 02:26"
       },
       "init": {
         "home_water": "0.990",
