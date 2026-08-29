@@ -24,7 +24,7 @@
       "lost": "2.62",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T06:40:37Z"
+    "fetched_at_utc": "2026-08-29T06:50:32Z"
   },
   "shuju": {
     "title": "利兹联VS布伦特福德(2026/2027英超)-数据分析-500彩票网",
@@ -728,6 +728,22 @@
       }
     },
     {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "平手",
+        "away_water": "1.020↑",
+        "time": "08-29 13:52"
+      },
+      "init": {
+        "home_water": "1.120",
+        "handicap": "平手",
+        "away_water": "0.830",
+        "time": "08-21 18:35"
+      }
+    },
+    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -741,22 +757,6 @@
         "handicap": "平手",
         "away_water": "0.970",
         "time": "08-24 08:23"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "平手",
-        "away_water": "1.020↑",
-        "time": "08-29 12:29"
-      },
-      "init": {
-        "home_water": "1.120",
-        "handicap": "平手",
-        "away_water": "0.830",
-        "time": "08-21 18:35"
       }
     },
     {
@@ -827,10 +827,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.890↑",
+        "home_water": "0.910↑",
         "handicap": "平手",
         "away_water": "0.990↓",
-        "time": "08-28 14:20"
+        "time": "08-29 13:37"
       },
       "init": {
         "home_water": "0.870",
