@@ -24,7 +24,7 @@
       "lost": "1.23",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T21:30:21Z"
+    "fetched_at_utc": "2026-08-29T21:40:21Z"
   },
   "shuju": {
     "title": "坎布尔VS特温特(2026/2027荷甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "受球半降",
-        "away_water": "0.980↑",
-        "time": "08-30 02:36"
-      },
-      "init": {
-        "home_water": "4.020",
-        "handicap": "平手",
-        "away_water": "0.180",
-        "time": "08-21 19:38"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "受球半",
         "away_water": "0.990",
         "time": "08-24 02:25"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "受球半降",
+        "away_water": "0.980↑",
+        "time": "08-30 02:36"
+      },
+      "init": {
+        "home_water": "4.020",
+        "handicap": "平手",
+        "away_water": "0.180",
+        "time": "08-21 19:38"
       }
     },
     {

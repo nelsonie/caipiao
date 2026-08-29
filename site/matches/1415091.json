@@ -24,14 +24,14 @@
       "lost": "2.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T21:30:24Z"
+    "fetched_at_utc": "2026-08-29T21:40:24Z"
   },
   "shuju": {
     "title": "摩纳哥VS马赛(2026/2027法甲)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，摩纳哥 3胜 1平 2负 ，进11球，失8球 ，大球5次，小球1次",
     "team_ranks": [
-      "摩纳哥 [法甲5]",
-      "马赛 [法甲2]"
+      "摩纳哥 [法甲6]",
+      "马赛 [法甲4]"
     ],
     "h2h_rows": [
       {
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.790↓",
-        "handicap": "平手",
-        "away_water": "1.040↑",
-        "time": "08-30 03:33"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手",
-        "away_water": "0.870",
-        "time": "08-24 21:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "平手",
         "away_water": "1.160",
         "time": "08-24 00:18"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.790↓",
+        "handicap": "平手",
+        "away_water": "1.040↑",
+        "time": "08-30 03:33"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手",
+        "away_water": "0.870",
+        "time": "08-24 21:03"
       }
     },
     {
