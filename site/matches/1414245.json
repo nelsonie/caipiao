@@ -24,7 +24,7 @@
       "lost": "1.27",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T00:20:38Z"
+    "fetched_at_utc": "2026-08-29T00:30:39Z"
   },
   "shuju": {
     "title": "卡利亚里VS国际米兰(2026/2027意甲)-数据分析-500彩票网",
@@ -773,22 +773,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "受一球/球半",
-        "away_water": "1.040↓",
-        "time": "08-29 01:05"
-      },
-      "init": {
-        "home_water": "0.690",
-        "handicap": "受一球/球半",
-        "away_water": "1.360",
-        "time": "08-23 22:06"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -802,6 +786,22 @@
         "handicap": "受一球",
         "away_water": "0.830",
         "time": "08-24 10:21"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "受一球/球半",
+        "away_water": "1.040↓",
+        "time": "08-29 01:05"
+      },
+      "init": {
+        "home_water": "0.690",
+        "handicap": "受一球/球半",
+        "away_water": "1.360",
+        "time": "08-23 22:06"
       }
     },
     {
