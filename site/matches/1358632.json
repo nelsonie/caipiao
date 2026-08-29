@@ -24,7 +24,7 @@
       "lost": "2.99",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T05:20:49Z"
+    "fetched_at_utc": "2026-08-29T05:30:48Z"
   },
   "shuju": {
     "title": "圣路易斯城VS达拉斯FC(2026美职联)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.600↑",
-        "handicap": "一球升",
-        "away_water": "0.460↓",
-        "time": "08-29 06:48"
-      },
-      "init": {
-        "home_water": "0.440",
-        "handicap": "平手",
-        "away_water": "1.960",
-        "time": "08-23 18:58"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球",
         "away_water": "0.930",
         "time": "08-24 08:41"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.600↑",
+        "handicap": "一球升",
+        "away_water": "0.460↓",
+        "time": "08-29 06:48"
+      },
+      "init": {
+        "home_water": "0.440",
+        "handicap": "平手",
+        "away_water": "1.960",
+        "time": "08-23 18:58"
       }
     },
     {
