@@ -24,7 +24,7 @@
       "lost": "5.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T15:20:11Z"
+    "fetched_at_utc": "2026-08-29T15:30:10Z"
   },
   "shuju": {
     "title": "利物浦VS诺丁汉森林(2026/2027英超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "一球/球半",
-        "away_water": "0.870↑",
-        "time": "08-29 19:30"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "一球/球半",
-        "away_water": "0.850",
-        "time": "08-23 01:56"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "球半",
         "away_water": "0.760",
         "time": "08-23 00:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "一球/球半",
+        "away_water": "0.870↑",
+        "time": "08-29 19:30"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "一球/球半",
+        "away_water": "0.850",
+        "time": "08-23 01:56"
       }
     },
     {

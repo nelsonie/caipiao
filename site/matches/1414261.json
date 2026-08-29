@@ -24,7 +24,7 @@
       "lost": "2.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T15:20:24Z"
+    "fetched_at_utc": "2026-08-29T15:30:23Z"
   },
   "shuju": {
     "title": "蒙扎VS乌迪内斯(2026/2027意甲)-数据分析-500彩票网",
@@ -753,35 +753,35 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.170↓",
-        "handicap": "平手",
-        "away_water": "0.800↑",
-        "time": "08-29 23:07"
-      },
-      "init": {
-        "home_water": "1.250",
-        "handicap": "平手",
-        "away_water": "0.750",
-        "time": "08-23 22:06"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "1.150↑",
-        "handicap": "平手升",
-        "away_water": "0.770↓",
-        "time": "08-29 23:00"
+        "home_water": "0.760↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.160↑",
+        "time": "08-29 23:11"
       },
       "init": {
         "home_water": "0.810",
         "handicap": "受平手/半球",
         "away_water": "1.090",
         "time": "08-23 23:19"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.700↓",
+        "handicap": "受平手/半球降",
+        "away_water": "1.060↑",
+        "time": "08-29 23:10"
+      },
+      "init": {
+        "home_water": "1.250",
+        "handicap": "平手",
+        "away_water": "0.750",
+        "time": "08-23 22:06"
       }
     },
     {
@@ -804,10 +804,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "1.170↑",
-        "handicap": "平手升",
-        "away_water": "0.790↓",
-        "time": "08-29 20:55"
+        "home_water": "0.800↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.160↑",
+        "time": "08-29 23:09"
       },
       "init": {
         "home_water": "0.920",
@@ -868,10 +868,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "1.110↑",
+        "home_water": "1.120↑",
         "handicap": "平手升",
-        "away_water": "0.750↓",
-        "time": "08-29 22:47"
+        "away_water": "0.740↓",
+        "time": "08-29 23:09"
       },
       "init": {
         "home_water": "0.750",
