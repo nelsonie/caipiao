@@ -24,7 +24,7 @@
       "lost": "3.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T17:10:29Z"
+    "fetched_at_utc": "2026-08-29T17:20:32Z"
   },
   "shuju": {
     "title": "天狼星VS马尔默(2026瑞典超)-数据分析-500彩票网",
@@ -396,15 +396,219 @@
     "lineup": {
       "home": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "0",
+            "name": "塔利布·本·亚当·马格努森",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "查理·尼尔登",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "乔基姆·佩尔森",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "S.桑德堡",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "维克多·斯文森",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "亚当·维克曼",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "奥德拉·塞缪尔·奥努楚库·阿丁杜",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "艾萨克·胡克",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "奥古斯特·永贝里",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "维克多·埃克斯特罗姆",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "伊斯梅尔·迪瓦拉",
+            "position": "未知"
+          }
+        ],
+        "subs": [
+          {
+            "number": "0",
+            "name": "埃利奥特·埃尔德",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "梅尔克·海尔",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "杰森",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "罗宾克鲁格尔",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "诺埃尔·米勒斯科格",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "穆罕默德·穆纳塞尔",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "穆罕默德·苏玛",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "杰斯帕·乌内肯",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "大卫·塞利克",
+            "position": "未知"
+          }
+        ],
         "injured": [],
         "suspended": []
       },
       "away": {
         "formation": null,
-        "starters": [],
-        "subs": [],
+        "starters": [
+          {
+            "number": "0",
+            "name": "延斯·斯特扬·拉尔森",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "威廉·尼罗斯·伦德格伦",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "约万·米洛萨夫列维奇",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "西奥多·伦德贝里",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "布莱昂·库尔图勒斯",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "塞亚德·哈克萨巴诺维奇",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "丹尼尔·古德约翰森",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "马尔特·维勒姆·弗雷捷德·帕尔森",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "艾萨克·阿西布",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "奥托·罗森格伦",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "凯南·布苏拉季奇",
+            "position": "未知"
+          }
+        ],
+        "subs": [
+          {
+            "number": "0",
+            "name": "奥马尔·克拉伊纳",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "伊利亚斯·哈利勒",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "维果·杰普森",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "安东·塞巴斯蒂安·赫格",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "雅尼斯·卡拉贝柳夫",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "维森特·庞内尔特·伊达尔戈",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "阿尔比恩·费拉蒂",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "特克斯·耶普松·贝里奎斯特",
+            "position": "未知"
+          },
+          {
+            "number": "0",
+            "name": "安东尼奥·帕拉克",
+            "position": "未知"
+          }
+        ],
         "injured": [],
         "suspended": []
       }
