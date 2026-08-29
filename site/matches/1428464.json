@@ -24,7 +24,7 @@
       "lost": "4.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T14:30:14Z"
+    "fetched_at_utc": "2026-08-29T14:40:15Z"
   },
   "shuju": {
     "title": "美因茨VS帕德博恩(2026/2027德甲)-数据分析-500彩票网",
@@ -512,13 +512,13 @@
             "position": "前锋"
           },
           {
-            "number": "18",
-            "name": "马文·皮林格",
+            "number": "30",
+            "name": "斯特凡诺·马里诺",
             "position": "前锋"
           },
           {
-            "number": "30",
-            "name": "斯特凡诺·马里诺",
+            "number": "18",
+            "name": "马文·皮林格",
             "position": "前锋"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "一球升",
-        "away_water": "1.040↑",
-        "time": "08-29 21:29"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球/一球",
-        "away_water": "0.910",
-        "time": "07-15 12:52"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球/一球",
         "away_water": "0.890",
         "time": "07-31 01:32"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "一球升",
+        "away_water": "1.040↑",
+        "time": "08-29 21:29"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球/一球",
+        "away_water": "0.910",
+        "time": "07-15 12:52"
       }
     },
     {

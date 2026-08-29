@@ -8,9 +8,9 @@
     "away": "朗斯",
     "kickoff_cst": "2026-08-29 23:15",
     "spf": {
-      "win": "1.88",
+      "win": "1.91",
       "draw": "3.80",
-      "lost": "2.99"
+      "lost": "2.92"
     },
     "asia_main": {
       "handicap": "受半球降",
@@ -24,7 +24,7 @@
       "lost": "1.96",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T14:30:18Z"
+    "fetched_at_utc": "2026-08-29T14:40:18Z"
   },
   "shuju": {
     "title": "斯特拉斯堡VS朗斯(2026/2027法甲)-数据分析-500彩票网",
@@ -398,14 +398,14 @@
         "formation": null,
         "starters": [
           {
-            "number": "14",
-            "name": "塞库·玛拉",
-            "position": "前锋"
+            "number": "24",
+            "name": "卢卡斯·霍格斯伯格",
+            "position": "后卫"
           },
           {
-            "number": "80",
-            "name": "贾西姆·亚辛",
-            "position": "中场"
+            "number": "4",
+            "name": "杰兰·米切尔",
+            "position": "后卫"
           },
           {
             "number": "11",
@@ -413,13 +413,18 @@
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "萨缪尔·阿米亚耶",
-            "position": "中场"
+            "number": "2",
+            "name": "安德鲁·奥莫巴米德勒",
+            "position": "后卫"
           },
           {
-            "number": "29",
-            "name": "萨米尔·穆拉贝特",
+            "number": "30",
+            "name": "哈科沃·奥尔特加",
+            "position": "前锋"
+          },
+          {
+            "number": "10",
+            "name": "乔瓦尼·雷纳",
             "position": "中场"
           },
           {
@@ -428,24 +433,19 @@
             "position": "中场"
           },
           {
+            "number": "80",
+            "name": "贾西姆·亚辛",
+            "position": "中场"
+          },
+          {
             "number": "16",
             "name": "吉妮西丝·安特维",
-            "position": "后卫"
+            "position": "中场"
           },
           {
-            "number": "24",
-            "name": "卢卡斯·霍格斯伯格",
-            "position": "后卫"
-          },
-          {
-            "number": "2",
-            "name": "安德鲁·奥莫巴米德勒",
-            "position": "后卫"
-          },
-          {
-            "number": "22",
-            "name": "盖拉·杜埃",
-            "position": "后卫"
+            "number": "21",
+            "name": "帕佩·登巴·迪奥普",
+            "position": "中场"
           },
           {
             "number": "1",
@@ -507,24 +507,9 @@
         "formation": null,
         "starters": [
           {
-            "number": "19",
-            "name": "阿卜杜拉·西玛",
-            "position": "前锋"
-          },
-          {
-            "number": "29",
-            "name": "弗朗乔·伊万诺维奇",
-            "position": "中场"
-          },
-          {
-            "number": "10",
-            "name": "弗洛里安·托万",
-            "position": "中场"
-          },
-          {
             "number": "14",
             "name": "马蒂厄·乌多尔",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "8",
@@ -532,40 +517,8 @@
             "position": "中场"
           },
           {
-            "number": "27",
-            "name": "米卡埃尔·屈桑斯",
-            "position": "中场"
-          },
-          {
-            "number": "23",
-            "name": "萨德·阿卜杜勒哈米德",
-            "position": "中场"
-          },
-          {
-            "number": "31",
-            "name": "苏莱曼·萨尼扬",
-            "position": "后卫"
-          },
-          {
-            "number": "25",
-            "name": "伊斯梅洛·加尼乌",
-            "position": "后卫"
-          },
-          {
-            "number": "3",
-            "name": "迈克·纳夫罗茨基",
-            "position": "后卫"
-          },
-          {
-            "number": "40",
-            "name": "罗班·里塞",
-            "position": "守门员"
-          }
-        ],
-        "subs": [
-          {
-            "number": "7",
-            "name": "弗洛里安·索托卡",
+            "number": "10",
+            "name": "弗洛里安·托万",
             "position": "前锋"
           },
           {
@@ -574,10 +527,42 @@
             "position": "前锋"
           },
           {
-            "number": "38",
-            "name": "梅齐安·梅斯卢布",
+            "number": "19",
+            "name": "阿卜杜拉·西玛",
+            "position": "前锋"
+          },
+          {
+            "number": "31",
+            "name": "苏莱曼·萨尼扬",
+            "position": "后卫"
+          },
+          {
+            "number": "3",
+            "name": "迈克·纳夫罗茨基",
+            "position": "后卫"
+          },
+          {
+            "number": "29",
+            "name": "弗朗乔·伊万诺维奇",
+            "position": "前锋"
+          },
+          {
+            "number": "25",
+            "name": "伊斯梅洛·加尼乌",
+            "position": "后卫"
+          },
+          {
+            "number": "27",
+            "name": "米卡埃尔·屈桑斯",
             "position": "中场"
           },
+          {
+            "number": "40",
+            "name": "罗班·里塞",
+            "position": "守门员"
+          }
+        ],
+        "subs": [
           {
             "number": "9",
             "name": "索尔根·阿扎尔",
@@ -599,13 +584,28 @@
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "欧蒂桑内·爱德华",
-            "position": "前锋"
+            "number": "4",
+            "name": "尼达尔·切利克",
+            "position": "后卫"
           },
           {
             "number": "5",
             "name": "安德里亚·布拉托维奇",
+            "position": "中场"
+          },
+          {
+            "number": "2",
+            "name": "鲁本·阿圭勒",
+            "position": "后卫"
+          },
+          {
+            "number": "7",
+            "name": "弗洛里安·索托卡",
+            "position": "前锋"
+          },
+          {
+            "number": "38",
+            "name": "梅齐安·梅斯卢布",
             "position": "中场"
           }
         ],
@@ -876,7 +876,7 @@
     {
       "cid": "1",
       "company": "官*",
-      "time": "2026-08-29 21:40:26",
+      "time": "2026-08-29 22:28:12",
       "odds": {
         "live": [
           "3.02",
@@ -884,9 +884,9 @@
           "1.96"
         ],
         "init": [
-          "3.65",
           "3.75",
-          "1.70"
+          "3.80",
+          "1.67"
         ]
       },
       "prob": {
@@ -896,9 +896,9 @@
           "45.20%"
         ],
         "init": [
-          "24.27%",
-          "23.62%",
-          "52.11%"
+          "23.63%",
+          "23.32%",
+          "53.06%"
         ]
       },
       "ret": {
@@ -906,7 +906,7 @@
           "88.60%"
         ],
         "init": [
-          "88.58%"
+          "88.60%"
         ]
       },
       "kelly": {
@@ -916,9 +916,9 @@
           "0.96"
         ],
         "init": [
-          "0.93",
           "0.95",
-          "0.84"
+          "0.97",
+          "0.82"
         ]
       }
     },
