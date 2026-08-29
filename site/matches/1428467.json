@@ -24,7 +24,7 @@
       "lost": "5.05",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-29T00:40:11Z"
+    "fetched_at_utc": "2026-08-29T00:50:12Z"
   },
   "shuju": {
     "title": "莱比锡红牛VS门兴格拉德巴赫(2026/2027德甲)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "一球",
-        "away_water": "0.870↓",
-        "time": "08-28 21:19"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "一球",
-        "away_water": "0.940",
-        "time": "07-15 12:52"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球",
         "away_water": "0.920",
         "time": "07-31 08:07"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "一球",
+        "away_water": "0.870↓",
+        "time": "08-28 21:19"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "一球",
+        "away_water": "0.940",
+        "time": "07-15 12:52"
       }
     },
     {
