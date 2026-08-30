@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-30T07:00:32Z",
+  "last_updated_utc": "2026-08-30T07:10:34Z",
   "matches": [
     {
       "xml_id": "2041138",
@@ -27,10 +27,10 @@
       "league": "荷兰甲级联赛",
       "home": "乌德勒支",
       "away": "PSV埃因霍温",
-      "spf_win": "2.47",
+      "spf_win": "2.55",
       "spf_draw": "4.10",
-      "spf_lost": "2.08",
-      "spf_updated": "2026-08-30 13:30:21",
+      "spf_lost": "2.03",
+      "spf_updated": "2026-08-30 15:02:59",
       "gameid": "1415895",
       "kickoff_cst": "2026-08-30 18:15",
       "matchnum_label": "周日001",
@@ -99,10 +99,10 @@
       "league": "瑞典超级联赛",
       "home": "AIK索尔纳",
       "away": "哈马比",
-      "spf_win": "2.50",
+      "spf_win": "2.60",
       "spf_draw": "3.70",
-      "spf_lost": "2.18",
-      "spf_updated": "2026-08-30 14:07:04",
+      "spf_lost": "2.11",
+      "spf_updated": "2026-08-30 14:59:30",
       "gameid": "1362752",
       "kickoff_cst": "2026-08-30 20:00",
       "matchnum_label": "周日005",
@@ -614,24 +614,6 @@
       "away_team_id": "494"
     },
     {
-      "xml_id": "2041183",
-      "matchnum": "1009",
-      "date": "2026-09-01",
-      "dayofweek": "星期二",
-      "league": "英格兰超级联赛",
-      "home": "阿斯顿维拉",
-      "away": "阿森纳",
-      "spf_win": "2.45",
-      "spf_draw": "3.38",
-      "spf_lost": "2.35",
-      "spf_updated": "2026-08-30 11:25:05",
-      "gameid": "1420346",
-      "kickoff_cst": "2026-09-01 03:00",
-      "matchnum_label": "周一009",
-      "home_team_id": "555",
-      "away_team_id": "554"
-    },
-    {
       "xml_id": "2041184",
       "matchnum": "1010",
       "date": "2026-09-01",
@@ -648,42 +630,6 @@
       "matchnum_label": "周一010",
       "home_team_id": "678",
       "away_team_id": "1616"
-    },
-    {
-      "xml_id": "2041185",
-      "matchnum": "1011",
-      "date": "2026-09-01",
-      "dayofweek": "星期二",
-      "league": "葡萄牙超级联赛",
-      "home": "布拉加",
-      "away": "吉马良斯",
-      "spf_win": "2.82",
-      "spf_draw": "3.35",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-08-29 09:36:26",
-      "gameid": "1438078",
-      "kickoff_cst": "2026-09-01 03:15",
-      "matchnum_label": "周一011",
-      "home_team_id": "719",
-      "away_team_id": "893"
-    },
-    {
-      "xml_id": "2041186",
-      "matchnum": "1012",
-      "date": "2026-09-01",
-      "dayofweek": "星期二",
-      "league": "西班牙甲级联赛",
-      "home": "巴塞罗那",
-      "away": "巴列卡诺",
-      "spf_win": "2.00",
-      "spf_draw": "4.20",
-      "spf_lost": "2.56",
-      "spf_updated": "2026-08-29 09:36:26",
-      "gameid": "1427965",
-      "kickoff_cst": "2026-09-01 03:30",
-      "matchnum_label": "周一012",
-      "home_team_id": "653",
-      "away_team_id": "650"
     }
   ]
 }
