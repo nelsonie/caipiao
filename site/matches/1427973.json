@@ -24,7 +24,7 @@
       "lost": "17.00",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-08-30T15:40:17Z"
+    "fetched_at_utc": "2026-08-30T15:50:13Z"
   },
   "shuju": {
     "title": "皇家马德里VS马拉加(2026/2027西甲)-数据分析-500彩票网",
@@ -522,6 +522,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "8",
+            "name": "卡洛斯·冈萨雷斯",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "丘佩",
             "position": "前锋"
@@ -532,23 +537,18 @@
             "position": "中场"
           },
           {
+            "number": "23",
+            "name": "伊赞·梅里诺",
+            "position": "中场"
+          },
+          {
             "number": "14",
             "name": "拉法·罗德里格斯",
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "卡洛斯·冈萨雷斯",
-            "position": "中场"
-          },
-          {
             "number": "10",
             "name": "戴维·拉鲁维亚",
-            "position": "中场"
-          },
-          {
-            "number": "23",
-            "name": "伊赞·梅里诺",
             "position": "中场"
           },
           {
@@ -753,22 +753,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "两球半/三球升",
-        "away_water": "1.010↑",
-        "time": "08-30 23:00"
-      },
-      "init": {
-        "home_water": "1.320",
-        "handicap": "两球半",
-        "away_water": "0.710",
-        "time": "08-23 20:22"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -782,6 +766,22 @@
         "handicap": "两球/两球半",
         "away_water": "0.840",
         "time": "08-25 03:10"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "两球半/三球升",
+        "away_water": "1.010↑",
+        "time": "08-30 23:00"
+      },
+      "init": {
+        "home_water": "1.320",
+        "handicap": "两球半",
+        "away_water": "0.710",
+        "time": "08-23 20:22"
       }
     },
     {
