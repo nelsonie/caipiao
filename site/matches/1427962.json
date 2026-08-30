@@ -14,7 +14,7 @@
     },
     "asia_main": {
       "handicap": "平手/半球",
-      "home_water": "0.910↓",
+      "home_water": "0.920↓",
       "away_water": "0.720↓",
       "company": "威***"
     },
@@ -24,7 +24,7 @@
       "lost": "2.85",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T00:00:27Z"
+    "fetched_at_utc": "2026-08-30T00:10:25Z"
   },
   "shuju": {
     "title": "维戈塞尔塔VS毕尔巴鄂竞技(2026/2027西甲)-数据分析-500彩票网",
@@ -649,10 +649,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.910↓",
+        "home_water": "0.920↓",
         "handicap": "平手/半球",
         "away_water": "0.720↓",
-        "time": "08-24 18:18"
+        "time": "08-30 07:26"
       },
       "init": {
         "home_water": "1.010",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.080↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.870↓",
-        "time": "08-30 00:36"
-      },
-      "init": {
-        "home_water": "0.700",
-        "handicap": "平手",
-        "away_water": "1.340",
-        "time": "08-21 20:28"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "平手/半球",
         "away_water": "0.820",
         "time": "08-24 08:25"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.080↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.870↓",
+        "time": "08-30 00:36"
+      },
+      "init": {
+        "home_water": "0.700",
+        "handicap": "平手",
+        "away_water": "1.340",
+        "time": "08-21 20:28"
       }
     },
     {
@@ -873,10 +873,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "1.030↑",
         "handicap": "平手/半球",
-        "away_water": "0.780↓",
-        "time": "08-30 03:50"
+        "away_water": "0.770↓",
+        "time": "08-30 08:06"
       },
       "init": {
         "home_water": "0.940",
