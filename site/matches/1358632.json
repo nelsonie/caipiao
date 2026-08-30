@@ -24,14 +24,14 @@
       "lost": "2.99",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T02:30:26Z"
+    "fetched_at_utc": "2026-08-30T02:40:28Z"
   },
   "shuju": {
     "title": "圣路易斯城VS达拉斯FC(2026美职联)-数据分析-500彩票网",
     "h2h_summary": "双方近 6 次交战，圣路易斯城 1胜 3平 2负 ，进4球，失8球 ，大球2次，小球4次",
     "team_ranks": [
-      "圣路易斯城 [美职联10]",
-      "达拉斯FC [美职联9]"
+      "圣路易斯城 [美职联11]",
+      "达拉斯FC [美职联10]"
     ],
     "h2h_rows": [
       {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "半球",
-        "away_water": "0.850↓",
-        "time": "08-30 09:39"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "半球",
-        "away_water": "0.930",
-        "time": "08-24 08:41"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "1.960",
         "time": "08-23 18:58"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "半球",
+        "away_water": "0.850↓",
+        "time": "08-30 09:39"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "半球",
+        "away_water": "0.930",
+        "time": "08-24 08:41"
       }
     },
     {
