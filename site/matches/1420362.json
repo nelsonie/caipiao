@@ -24,7 +24,7 @@
       "lost": "2.62",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T08:40:14Z"
+    "fetched_at_utc": "2026-08-30T08:50:16Z"
   },
   "shuju": {
     "title": "利兹联VS布伦特福德(2026/2027英超)-数据分析-500彩票网",
@@ -667,10 +667,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.900↑",
+        "home_water": "0.850↓",
         "handicap": "平手",
-        "away_water": "0.950↓",
-        "time": "08-30 16:30"
+        "away_water": "1.000↑",
+        "time": "08-30 16:43"
       },
       "init": {
         "home_water": "0.870",
@@ -728,35 +728,35 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "平手",
-        "away_water": "1.010↑",
-        "time": "08-30 15:52"
-      },
-      "init": {
-        "home_water": "1.120",
-        "handicap": "平手",
-        "away_water": "0.830",
-        "time": "08-21 18:35"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
         "home_water": "0.900↑",
         "handicap": "平手",
-        "away_water": "0.970",
-        "time": "08-30 16:10"
+        "away_water": "0.960↓",
+        "time": "08-30 16:42"
       },
       "init": {
         "home_water": "0.830",
         "handicap": "平手",
         "away_water": "0.970",
         "time": "08-24 08:23"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "平手",
+        "away_water": "1.000↑",
+        "time": "08-30 16:40"
+      },
+      "init": {
+        "home_water": "1.120",
+        "handicap": "平手",
+        "away_water": "0.830",
+        "time": "08-21 18:35"
       }
     },
     {
@@ -843,10 +843,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.890↓",
+        "home_water": "0.880↓",
         "handicap": "平手",
-        "away_water": "0.940↑",
-        "time": "08-30 16:09"
+        "away_water": "0.950↑",
+        "time": "08-30 16:44"
       },
       "init": {
         "home_water": "1.030",
