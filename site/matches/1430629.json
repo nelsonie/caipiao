@@ -24,7 +24,7 @@
       "lost": "3.70",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T05:10:11Z"
+    "fetched_at_utc": "2026-08-30T05:20:12Z"
   },
   "shuju": {
     "title": "圣保利VS凯泽斯劳滕(2026/2027德乙)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.850↓",
-        "time": "08-30 12:58"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "半球",
-        "away_water": "0.990",
-        "time": "08-25 08:31"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "1.780",
         "time": "08-17 20:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.850↓",
+        "time": "08-30 12:58"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "半球",
+        "away_water": "0.990",
+        "time": "08-25 08:31"
       }
     },
     {
