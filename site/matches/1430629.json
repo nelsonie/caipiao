@@ -24,7 +24,7 @@
       "lost": "3.70",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T11:30:12Z"
+    "fetched_at_utc": "2026-08-30T11:40:12Z"
   },
   "shuju": {
     "title": "圣保利VS凯泽斯劳滕(2026/2027德乙)-数据分析-500彩票网",
@@ -398,36 +398,6 @@
         "formation": null,
         "starters": [
           {
-            "number": "11",
-            "name": "阿尔卡迪乌斯·皮尔卡",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "马库斯马西森",
-            "position": "后卫"
-          },
-          {
-            "number": "23",
-            "name": "路易斯·奥皮",
-            "position": "后卫"
-          },
-          {
-            "number": "20",
-            "name": "马蒂亚斯·拉斯姆森",
-            "position": "中场"
-          },
-          {
-            "number": "1",
-            "name": "本·沃尔",
-            "position": "守门员"
-          },
-          {
-            "number": "4",
-            "name": "大卫·内默斯",
-            "position": "后卫"
-          },
-          {
             "number": "19",
             "name": "马尔蒂金·卡尔斯",
             "position": "前锋"
@@ -435,12 +405,17 @@
           {
             "number": "10",
             "name": "布拉尼米尔·赫尔戈塔",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "18",
             "name": "原大智",
-            "position": "前锋"
+            "position": "中场"
+          },
+          {
+            "number": "23",
+            "name": "路易斯·奥皮",
+            "position": "中场"
           },
           {
             "number": "8",
@@ -448,9 +423,34 @@
             "position": "中场"
           },
           {
+            "number": "20",
+            "name": "马蒂亚斯·拉斯姆森",
+            "position": "中场"
+          },
+          {
+            "number": "11",
+            "name": "阿尔卡迪乌斯·皮尔卡",
+            "position": "中场"
+          },
+          {
             "number": "15",
             "name": "安藤智哉",
             "position": "后卫"
+          },
+          {
+            "number": "6",
+            "name": "马库斯马西森",
+            "position": "后卫"
+          },
+          {
+            "number": "4",
+            "name": "大卫·内默斯",
+            "position": "后卫"
+          },
+          {
+            "number": "1",
+            "name": "本·沃尔",
+            "position": "守门员"
           }
         ],
         "subs": [
@@ -462,7 +462,7 @@
           {
             "number": "25",
             "name": "亚当·德维加拉",
-            "position": "中场"
+            "position": "后卫"
           },
           {
             "number": "16",
@@ -477,7 +477,7 @@
           {
             "number": "24",
             "name": "康纳·梅特卡夫",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "33",
@@ -487,7 +487,7 @@
           {
             "number": "7",
             "name": "尤苏法·尼昂",
-            "position": "未知"
+            "position": "前锋"
           },
           {
             "number": "21",
@@ -507,9 +507,9 @@
         "formation": null,
         "starters": [
           {
-            "number": "8",
-            "name": "塞米·沙欣",
-            "position": "中场"
+            "number": "17",
+            "name": "埃伦詹·雅迪米奇",
+            "position": "前锋"
           },
           {
             "number": "7",
@@ -517,9 +517,19 @@
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "雅各布·拉斯穆森",
-            "position": "后卫"
+            "number": "11",
+            "name": "易卜拉欣·卡纳特",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "米卡·哈斯",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "塞米·沙欣",
+            "position": "中场"
           },
           {
             "number": "6",
@@ -527,18 +537,13 @@
             "position": "中场"
           },
           {
-            "number": "11",
-            "name": "易卜拉欣·卡纳特",
-            "position": "前锋"
-          },
-          {
             "number": "26",
             "name": "保罗·乔利",
-            "position": "后卫"
+            "position": "中场"
           },
           {
-            "number": "22",
-            "name": "米卡·哈斯",
+            "number": "14",
+            "name": "雅各布·拉斯穆森",
             "position": "后卫"
           },
           {
@@ -555,11 +560,6 @@
             "number": "1",
             "name": "朱利安·克拉尔",
             "position": "守门员"
-          },
-          {
-            "number": "17",
-            "name": "埃伦詹·雅迪米奇",
-            "position": "前锋"
           }
         ],
         "subs": [
@@ -599,14 +599,14 @@
             "position": "中场"
           },
           {
-            "number": "39",
-            "name": "蒂埃里·塔泽梅塔·菲杰乌",
-            "position": "前锋"
-          },
-          {
             "number": "2",
             "name": "西蒙·阿斯塔",
             "position": "后卫"
+          },
+          {
+            "number": "39",
+            "name": "蒂埃里·菲德耶乌·塔泽梅塔",
+            "position": "中场"
           }
         ],
         "injured": [],
