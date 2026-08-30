@@ -24,7 +24,7 @@
       "lost": "2.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T15:20:23Z"
+    "fetched_at_utc": "2026-08-30T15:30:23Z"
   },
   "shuju": {
     "title": "摩纳哥VS马赛(2026/2027法甲)-数据分析-500彩票网",
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.970↓",
-        "time": "08-30 22:58"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "平手",
-        "away_water": "1.160",
-        "time": "08-24 00:18"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "平手",
         "away_water": "0.870",
         "time": "08-24 21:03"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.950↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.980↓",
+        "time": "08-30 23:13"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "平手",
+        "away_water": "1.160",
+        "time": "08-24 00:18"
       }
     },
     {
@@ -860,8 +860,8 @@
       "live": {
         "home_water": "0.890↑",
         "handicap": "平手/半球升",
-        "away_water": "0.940↓",
-        "time": "08-30 22:47"
+        "away_water": "0.930↓",
+        "time": "08-30 23:13"
       },
       "init": {
         "home_water": "0.750",
