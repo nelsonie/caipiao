@@ -24,7 +24,7 @@
       "lost": "3.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T12:10:21Z"
+    "fetched_at_utc": "2026-08-30T12:20:22Z"
   },
   "shuju": {
     "title": "拉齐奥VS热那亚(2026/2027意甲)-数据分析-500彩票网",
@@ -773,22 +773,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "平手/半球降",
-        "away_water": "0.900↓",
-        "time": "08-30 19:58"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "半球",
-        "away_water": "0.930",
-        "time": "08-24 10:30"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -802,6 +786,22 @@
         "handicap": "平手",
         "away_water": "2.890",
         "time": "08-22 00:11"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "平手/半球降",
+        "away_water": "0.900↓",
+        "time": "08-30 19:58"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "半球",
+        "away_water": "0.930",
+        "time": "08-24 10:30"
       }
     },
     {
@@ -872,10 +872,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "1.010↑",
         "handicap": "平手/半球降",
-        "away_water": "0.910↓",
-        "time": "08-30 19:54"
+        "away_water": "0.920↓",
+        "time": "08-30 20:08"
       },
       "init": {
         "home_water": "0.940",
@@ -888,10 +888,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.950↓",
+        "home_water": "0.940↓",
         "handicap": "平手/半球降",
-        "away_water": "0.870↑",
-        "time": "08-30 19:55"
+        "away_water": "0.880↑",
+        "time": "08-30 20:11"
       },
       "init": {
         "home_water": "1.030",

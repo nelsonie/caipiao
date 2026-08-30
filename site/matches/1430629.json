@@ -24,7 +24,7 @@
       "lost": "3.70",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T12:10:10Z"
+    "fetched_at_utc": "2026-08-30T12:20:11Z"
   },
   "shuju": {
     "title": "圣保利VS凯泽斯劳滕(2026/2027德乙)-数据分析-500彩票网",
@@ -398,6 +398,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "18",
+            "name": "原大智",
+            "position": "前锋"
+          },
+          {
             "number": "19",
             "name": "马尔蒂金·卡尔斯",
             "position": "前锋"
@@ -408,23 +413,18 @@
             "position": "中场"
           },
           {
-            "number": "18",
-            "name": "原大智",
-            "position": "中场"
-          },
-          {
             "number": "23",
             "name": "路易斯·奥皮",
             "position": "中场"
           },
           {
-            "number": "8",
-            "name": "埃里克·史密斯",
+            "number": "20",
+            "name": "马蒂亚斯·拉斯姆森",
             "position": "中场"
           },
           {
-            "number": "20",
-            "name": "马蒂亚斯·拉斯姆森",
+            "number": "8",
+            "name": "埃里克·史密斯",
             "position": "中场"
           },
           {
@@ -454,6 +454,11 @@
           }
         ],
         "subs": [
+          {
+            "number": "14",
+            "name": "埃里克·艾尔斯特朗",
+            "position": "中场"
+          },
           {
             "number": "9",
             "name": "阿卜杜利·塞赛",
@@ -493,11 +498,6 @@
             "number": "21",
             "name": "拉尔斯·里兹卡",
             "position": "后卫"
-          },
-          {
-            "number": "14",
-            "name": "埃里克·艾尔斯特朗",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -507,6 +507,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "11",
+            "name": "易卜拉欣·卡纳特",
+            "position": "前锋"
+          },
+          {
             "number": "17",
             "name": "埃伦詹·雅迪米奇",
             "position": "前锋"
@@ -514,12 +519,7 @@
           {
             "number": "7",
             "name": "马龙·里特尔",
-            "position": "中场"
-          },
-          {
-            "number": "11",
-            "name": "易卜拉欣·卡纳特",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "22",
@@ -564,6 +564,11 @@
         ],
         "subs": [
           {
+            "number": "2",
+            "name": "西蒙·阿斯塔",
+            "position": "后卫"
+          },
+          {
             "number": "20",
             "name": "梅吉姆·贝里沙",
             "position": "前锋"
@@ -597,11 +602,6 @@
             "number": "41",
             "name": "大卫·施拉姆",
             "position": "中场"
-          },
-          {
-            "number": "2",
-            "name": "西蒙·阿斯塔",
-            "position": "后卫"
           },
           {
             "number": "39",
