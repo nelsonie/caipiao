@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-30T22:20:15Z",
+  "last_updated_utc": "2026-08-30T22:30:11Z",
   "matches": [
     {
       "xml_id": "2041174",
@@ -216,6 +216,24 @@
       "matchnum_label": "周一011",
       "home_team_id": "719",
       "away_team_id": "893"
+    },
+    {
+      "xml_id": "2041186",
+      "matchnum": "1012",
+      "date": "2026-09-01",
+      "dayofweek": "星期二",
+      "league": "西班牙甲级联赛",
+      "home": "巴塞罗那",
+      "away": "巴列卡诺",
+      "spf_win": "1.95",
+      "spf_draw": "4.20",
+      "spf_lost": "2.64",
+      "spf_updated": "2026-08-30 21:58:09",
+      "gameid": "1427965",
+      "kickoff_cst": "2026-09-01 03:30",
+      "matchnum_label": "周一012",
+      "home_team_id": "653",
+      "away_team_id": "650"
     }
   ]
 }
