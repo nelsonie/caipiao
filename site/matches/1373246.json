@@ -24,7 +24,7 @@
       "lost": "1.85",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T11:00:09Z"
+    "fetched_at_utc": "2026-08-30T11:10:09Z"
   },
   "shuju": {
     "title": "济州联队VS大田市民(2026K1联赛)-数据分析-500彩票网",
@@ -399,7 +399,7 @@
         "starters": [
           {
             "number": "9",
-            "name": "艾亚斯·马修斯",
+            "name": "马修斯·艾阿斯",
             "position": "前锋"
           },
           {
@@ -415,7 +415,7 @@
           {
             "number": "20",
             "name": "张敏圭",
-            "position": "后卫"
+            "position": "中场"
           },
           {
             "number": "5",
@@ -425,7 +425,7 @@
           {
             "number": "22",
             "name": "埃拉多·西纳里",
-            "position": "前锋"
+            "position": "中场"
           },
           {
             "number": "13",
@@ -438,14 +438,14 @@
             "position": "后卫"
           },
           {
-            "number": "6",
-            "name": "权基民",
+            "number": "41",
+            "name": "金载雨",
             "position": "后卫"
           },
           {
             "number": "47",
             "name": "朴敏宰",
-            "position": "前锋"
+            "position": "后卫"
           },
           {
             "number": "1",
@@ -455,24 +455,14 @@
         ],
         "subs": [
           {
-            "number": "81",
-            "name": "许仔雄",
-            "position": "守门员"
-          },
-          {
             "number": "24",
             "name": "崔秉旭",
             "position": "中场"
           },
           {
-            "number": "41",
-            "name": "金载雨",
-            "position": "后卫"
-          },
-          {
-            "number": "18",
-            "name": "金信珍",
-            "position": "前锋"
+            "number": "81",
+            "name": "许仔雄",
+            "position": "守门员"
           },
           {
             "number": "88",
@@ -480,14 +470,9 @@
             "position": "后卫"
           },
           {
-            "number": "17",
-            "name": "俞仁秀",
-            "position": "中场"
-          },
-          {
-            "number": "77",
-            "name": "柳承宰",
-            "position": "中场"
+            "number": "18",
+            "name": "金信珍",
+            "position": "前锋"
           },
           {
             "number": "7",
@@ -498,6 +483,16 @@
             "number": "11",
             "name": "申相垠",
             "position": "前锋"
+          },
+          {
+            "number": "77",
+            "name": "柳承宰",
+            "position": "中场"
+          },
+          {
+            "number": "17",
+            "name": "俞仁秀",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -512,23 +507,18 @@
             "position": "前锋"
           },
           {
-            "number": "17",
-            "name": "古斯塔夫·卢德维格松",
-            "position": "前锋"
+            "number": "27",
+            "name": "郑在熙",
+            "position": "中场"
           },
           {
             "number": "7",
             "name": "石田雅俊",
-            "position": "前锋"
+            "position": "中场"
           },
           {
-            "number": "27",
-            "name": "郑在熙",
-            "position": "前锋"
-          },
-          {
-            "number": "44",
-            "name": "李淳敏",
+            "number": "17",
+            "name": "古斯塔夫·卢德维格松",
             "position": "中场"
           },
           {
@@ -537,13 +527,13 @@
             "position": "中场"
           },
           {
-            "number": "16",
-            "name": "李明载",
-            "position": "后卫"
+            "number": "44",
+            "name": "李淳敏",
+            "position": "中场"
           },
           {
-            "number": "98",
-            "name": "安东·科里沃塞乌克",
+            "number": "6",
+            "name": "姜允盛",
             "position": "后卫"
           },
           {
@@ -552,8 +542,13 @@
             "position": "后卫"
           },
           {
-            "number": "6",
-            "name": "姜允盛",
+            "number": "98",
+            "name": "安东·科里沃塞乌克",
+            "position": "后卫"
+          },
+          {
+            "number": "16",
+            "name": "李明载",
             "position": "后卫"
           },
           {
@@ -563,31 +558,6 @@
           }
         ],
         "subs": [
-          {
-            "number": "9",
-            "name": "迪奥戈·奥利维拉",
-            "position": "前锋"
-          },
-          {
-            "number": "45",
-            "name": "河昌来",
-            "position": "后卫"
-          },
-          {
-            "number": "70",
-            "name": "金贤旭",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "金俊范",
-            "position": "中场"
-          },
-          {
-            "number": "41",
-            "name": "朴秉灿",
-            "position": "中场"
-          },
           {
             "number": "2",
             "name": "朴规现",
@@ -607,6 +577,31 @@
             "number": "31",
             "name": "金民秀",
             "position": "守门员"
+          },
+          {
+            "number": "14",
+            "name": "金俊范",
+            "position": "中场"
+          },
+          {
+            "number": "70",
+            "name": "金贤旭",
+            "position": "中场"
+          },
+          {
+            "number": "45",
+            "name": "河昌来",
+            "position": "后卫"
+          },
+          {
+            "number": "41",
+            "name": "朴秉灿",
+            "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "迪奥戈·奥利维拉",
+            "position": "前锋"
           }
         ],
         "injured": [],
