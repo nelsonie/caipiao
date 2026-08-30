@@ -24,7 +24,7 @@
       "lost": "2.85",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T16:10:11Z"
+    "fetched_at_utc": "2026-08-30T16:20:11Z"
   },
   "shuju": {
     "title": "维戈塞尔塔VS毕尔巴鄂竞技(2026/2027西甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "平手",
-        "away_water": "0.970↓",
-        "time": "08-30 23:45"
-      },
-      "init": {
-        "home_water": "0.700",
-        "handicap": "平手",
-        "away_water": "1.340",
-        "time": "08-21 20:28"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "平手/半球",
         "away_water": "0.820",
         "time": "08-24 08:25"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "平手",
+        "away_water": "0.970↓",
+        "time": "08-30 23:45"
+      },
+      "init": {
+        "home_water": "0.700",
+        "handicap": "平手",
+        "away_water": "1.340",
+        "time": "08-21 20:28"
       }
     },
     {
