@@ -24,7 +24,7 @@
       "lost": "3.26",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T06:20:17Z"
+    "fetched_at_utc": "2026-08-30T06:30:16Z"
   },
   "shuju": {
     "title": "巴黎FCVS尼斯(2026/2027法甲)-数据分析-500彩票网",
@@ -684,22 +684,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.080↑",
-        "handicap": "半球升",
-        "away_water": "0.800↓",
-        "time": "08-30 14:04"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "平手/半球",
-        "away_water": "1.050",
-        "time": "08-24 20:41"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -713,6 +697,22 @@
         "handicap": "平手",
         "away_water": "1.410",
         "time": "08-23 21:13"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.080↑",
+        "handicap": "半球升",
+        "away_water": "0.800↓",
+        "time": "08-30 14:04"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "平手/半球",
+        "away_water": "1.050",
+        "time": "08-24 20:41"
       }
     },
     {
