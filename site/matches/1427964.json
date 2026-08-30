@@ -24,7 +24,7 @@
       "lost": "2.70",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T02:40:21Z"
+    "fetched_at_utc": "2026-08-30T02:50:21Z"
   },
   "shuju": {
     "title": "拉科鲁尼亚VS巴伦西亚(2026/2027西甲)-数据分析-500彩票网",
@@ -697,10 +697,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "1.100↑",
+        "home_water": "1.120↑",
         "handicap": "平手/半球升",
-        "away_water": "0.770↓",
-        "time": "08-30 08:45"
+        "away_water": "0.750↓",
+        "time": "08-30 10:42"
       },
       "init": {
         "home_water": "0.800",
@@ -758,6 +758,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.140↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.760↓",
+        "time": "08-30 10:42"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "平手",
+        "away_water": "1.050",
+        "time": "08-24 08:25"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -771,22 +787,6 @@
         "handicap": "平手",
         "away_water": "0.970",
         "time": "08-21 18:38"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.760↓",
-        "handicap": "平手",
-        "away_water": "1.140↑",
-        "time": "08-30 10:22"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "平手",
-        "away_water": "1.050",
-        "time": "08-24 08:25"
       }
     },
     {
@@ -876,7 +876,7 @@
         "home_water": "0.730↑",
         "handicap": "平手升",
         "away_water": "1.110↓",
-        "time": "08-30 10:30"
+        "time": "08-30 10:42"
       },
       "init": {
         "home_water": "0.630",
