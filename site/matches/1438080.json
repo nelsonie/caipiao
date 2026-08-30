@@ -24,7 +24,7 @@
       "lost": "3.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T00:40:26Z"
+    "fetched_at_utc": "2026-08-30T00:50:26Z"
   },
   "shuju": {
     "title": "法马利康VS吉维森特(2026/2027葡超)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "平手/半球降",
-        "away_water": "1.030↑",
-        "time": "08-30 04:04"
-      },
-      "init": {
-        "home_water": "1.050",
-        "handicap": "半球",
-        "away_water": "0.830",
-        "time": "08-25 05:44"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "平手/半球",
         "away_water": "1.140",
         "time": "08-24 23:05"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "平手/半球降",
+        "away_water": "1.030↑",
+        "time": "08-30 04:04"
+      },
+      "init": {
+        "home_water": "1.050",
+        "handicap": "半球",
+        "away_water": "0.830",
+        "time": "08-25 05:44"
       }
     },
     {
