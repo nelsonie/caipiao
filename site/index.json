@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-30T13:10:32Z",
+  "last_updated_utc": "2026-08-30T13:20:32Z",
   "matches": [
     {
       "xml_id": "2041138",
@@ -594,24 +594,6 @@
       "matchnum_label": "周一007",
       "home_team_id": "1308",
       "away_team_id": "707"
-    },
-    {
-      "xml_id": "2041182",
-      "matchnum": "1008",
-      "date": "2026-09-01",
-      "dayofweek": "星期二",
-      "league": "法国乙级联赛",
-      "home": "第戎",
-      "away": "圣埃蒂安",
-      "spf_win": "1.91",
-      "spf_draw": "3.35",
-      "spf_lost": "3.25",
-      "spf_updated": "2026-08-29 09:36:26",
-      "gameid": "1416881",
-      "kickoff_cst": "2026-09-01 02:45",
-      "matchnum_label": "周一008",
-      "home_team_id": "774",
-      "away_team_id": "494"
     },
     {
       "xml_id": "2041183",
