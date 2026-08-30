@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "平手降",
-      "home_water": "0.800↓",
-      "away_water": "0.850↑",
+      "home_water": "0.770↓",
+      "away_water": "0.820↑",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "2.85",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T16:00:31Z"
+    "fetched_at_utc": "2026-08-30T16:10:11Z"
   },
   "shuju": {
     "title": "维戈塞尔塔VS毕尔巴鄂竞技(2026/2027西甲)-数据分析-500彩票网",
@@ -649,10 +649,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.800↓",
+        "home_water": "0.770↓",
         "handicap": "平手降",
-        "away_water": "0.850↑",
-        "time": "08-30 22:10"
+        "away_water": "0.820↑",
+        "time": "08-30 23:53"
       },
       "init": {
         "home_water": "1.010",
@@ -665,10 +665,10 @@
       "cid": "5",
       "company": "*门",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.960↓",
         "handicap": "平手降",
-        "away_water": "0.960↑",
-        "time": "08-30 13:22"
+        "away_water": "0.880↑",
+        "time": "08-30 23:56"
       },
       "init": {
         "home_water": "1.030",
@@ -697,10 +697,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.920↓",
+        "home_water": "0.970↓",
         "handicap": "平手降",
-        "away_water": "0.920↑",
-        "time": "08-30 19:45"
+        "away_water": "0.870↑",
+        "time": "08-30 23:55"
       },
       "init": {
         "home_water": "1.050",
@@ -729,10 +729,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.000↓",
+        "home_water": "1.010↓",
         "handicap": "平手降",
-        "away_water": "0.890↑",
-        "time": "08-30 23:47"
+        "away_water": "0.880↑",
+        "time": "08-30 23:56"
       },
       "init": {
         "home_water": "1.050",
@@ -892,7 +892,7 @@
         "home_water": "1.020↓",
         "handicap": "平手降",
         "away_water": "0.900↑",
-        "time": "08-30 23:47"
+        "time": "08-30 23:57"
       },
       "init": {
         "home_water": "1.050",
