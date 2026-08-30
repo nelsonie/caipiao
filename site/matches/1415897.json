@@ -24,7 +24,7 @@
       "lost": "11.00",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-08-30T02:20:11Z"
+    "fetched_at_utc": "2026-08-30T02:30:10Z"
   },
   "shuju": {
     "title": "费耶诺德VS海牙(2026/2027荷甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "两球/两球半降",
-        "away_water": "0.950↑",
-        "time": "08-30 09:53"
-      },
-      "init": {
-        "home_water": "1.330",
-        "handicap": "两球半",
-        "away_water": "0.630",
-        "time": "08-23 23:26"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "两球/两球半",
         "away_water": "0.900",
         "time": "08-25 08:42"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "两球/两球半降",
+        "away_water": "0.950↑",
+        "time": "08-30 09:53"
+      },
+      "init": {
+        "home_water": "1.330",
+        "handicap": "两球半",
+        "away_water": "0.630",
+        "time": "08-23 23:26"
       }
     },
     {
@@ -873,10 +873,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.880↑",
+        "home_water": "0.890↑",
         "handicap": "两球/两球半升",
         "away_water": "0.920↑",
-        "time": "08-30 09:50"
+        "time": "08-30 10:20"
       },
       "init": {
         "home_water": "0.850",
@@ -1053,7 +1053,7 @@
     {
       "cid": "3",
       "company": "B*****",
-      "time": "2026-08-30 09:32:34",
+      "time": "2026-08-30 10:21:55",
       "odds": {
         "live": [
           "1.18",
