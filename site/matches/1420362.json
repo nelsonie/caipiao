@@ -15,7 +15,7 @@
     "asia_main": {
       "handicap": "平手",
       "home_water": "0.760↓",
-      "away_water": "0.850↑",
+      "away_water": "0.860↑",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "2.62",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T04:30:15Z"
+    "fetched_at_utc": "2026-08-30T04:40:13Z"
   },
   "shuju": {
     "title": "利兹联VS布伦特福德(2026/2027英超)-数据分析-500彩票网",
@@ -621,8 +621,8 @@
       "live": {
         "home_water": "0.760↓",
         "handicap": "平手",
-        "away_water": "0.850↑",
-        "time": "08-29 21:44"
+        "away_water": "0.860↑",
+        "time": "08-30 12:22"
       },
       "init": {
         "home_water": "0.960",
@@ -728,6 +728,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.890↑",
+        "handicap": "平手",
+        "away_water": "0.980↑",
+        "time": "08-30 12:23"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手",
+        "away_water": "0.970",
+        "time": "08-24 08:23"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -741,22 +757,6 @@
         "handicap": "平手",
         "away_water": "0.830",
         "time": "08-21 18:35"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "平手",
-        "away_water": "0.990↑",
-        "time": "08-30 11:01"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手",
-        "away_water": "0.970",
-        "time": "08-24 08:23"
       }
     },
     {
@@ -859,10 +859,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.890↑",
+        "home_water": "0.900↑",
         "handicap": "平手",
-        "away_water": "1.010",
-        "time": "08-30 12:06"
+        "away_water": "1.000↓",
+        "time": "08-30 12:21"
       },
       "init": {
         "home_water": "0.870",
