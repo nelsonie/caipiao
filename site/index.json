@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-30T15:50:31Z",
+  "last_updated_utc": "2026-08-30T16:00:37Z",
   "matches": [
     {
       "xml_id": "2041150",
@@ -90,6 +90,24 @@
       "matchnum_label": "周日005",
       "home_team_id": "215",
       "away_team_id": "852"
+    },
+    {
+      "xml_id": "2041155",
+      "matchnum": "7006",
+      "date": "2026-08-30",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "费耶诺德",
+      "away": "海牙",
+      "spf_win": "1.92",
+      "spf_draw": "4.35",
+      "spf_lost": "2.65",
+      "spf_updated": "2026-08-30 19:29:09",
+      "gameid": "1415897",
+      "kickoff_cst": "2026-08-30 20:30",
+      "matchnum_label": "周日006",
+      "home_team_id": "801",
+      "away_team_id": "211"
     },
     {
       "xml_id": "2041157",
@@ -612,6 +630,24 @@
       "matchnum_label": "周一011",
       "home_team_id": "719",
       "away_team_id": "893"
+    },
+    {
+      "xml_id": "2041186",
+      "matchnum": "1012",
+      "date": "2026-09-01",
+      "dayofweek": "星期二",
+      "league": "西班牙甲级联赛",
+      "home": "巴塞罗那",
+      "away": "巴列卡诺",
+      "spf_win": "1.95",
+      "spf_draw": "4.20",
+      "spf_lost": "2.64",
+      "spf_updated": "2026-08-30 21:58:09",
+      "gameid": "1427965",
+      "kickoff_cst": "2026-09-01 03:30",
+      "matchnum_label": "周一012",
+      "home_team_id": "653",
+      "away_team_id": "650"
     }
   ]
 }
