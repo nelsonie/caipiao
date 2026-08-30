@@ -24,7 +24,7 @@
       "lost": "5.05",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-08-30T13:40:29Z"
+    "fetched_at_utc": "2026-08-30T13:50:29Z"
   },
   "shuju": {
     "title": "佐加顿斯VS米亚尔比(2026瑞典超)-数据分析-500彩票网",
@@ -706,22 +706,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "一球",
-        "away_water": "0.910↑",
-        "time": "08-30 13:10"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "一球",
-        "away_water": "0.900",
-        "time": "08-26 03:24"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -735,6 +719,22 @@
         "handicap": "球半",
         "away_water": "0.460",
         "time": "08-24 20:58"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "一球",
+        "away_water": "0.910↑",
+        "time": "08-30 13:10"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "一球",
+        "away_water": "0.900",
+        "time": "08-26 03:24"
       }
     },
     {
