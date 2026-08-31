@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-08-31T19:30:07Z'
-total_matches: 1
-leagues_covered:
-- 西班牙甲级联赛
+last_updated_utc: '2026-08-31T19:40:04Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 西班牙甲级联赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 1012 | 2026-09-01 星期二 | 巴塞罗那 vs 巴列卡诺 | 1.57/4.65/3.60 | [1427965](matches/1427965.md) |
