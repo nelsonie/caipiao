@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-08-31T19:20:05Z'
+last_updated_utc: '2026-08-31T19:30:07Z'
 total_matches: 1
 leagues_covered:
 - 西班牙甲级联赛
