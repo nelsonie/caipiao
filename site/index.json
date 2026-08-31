@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-08-31T10:10:09Z",
+  "last_updated_utc": "2026-08-31T10:21:24Z",
   "matches": [
-    {
-      "xml_id": "2041175",
-      "matchnum": "1001",
-      "date": "2026-09-01",
-      "dayofweek": "星期二",
-      "league": "芬兰超级联赛",
-      "home": "国际图尔库",
-      "away": "库奥皮奥",
-      "spf_win": "5.10",
-      "spf_draw": "3.88",
-      "spf_lost": "1.48",
-      "spf_updated": "2026-08-31 14:52:55",
-      "gameid": "1363834",
-      "kickoff_cst": "2026-09-01 00:00",
-      "matchnum_label": "周一001",
-      "home_team_id": "1327",
-      "away_team_id": "841"
-    },
     {
       "xml_id": "2041176",
       "matchnum": "1002",
@@ -36,24 +18,6 @@
       "matchnum_label": "周一002",
       "home_team_id": "2687",
       "away_team_id": "415"
-    },
-    {
-      "xml_id": "2041177",
-      "matchnum": "1003",
-      "date": "2026-09-01",
-      "dayofweek": "星期二",
-      "league": "意大利甲级联赛",
-      "home": "莱切",
-      "away": "罗马",
-      "spf_win": "2.80",
-      "spf_draw": "3.46",
-      "spf_lost": "2.07",
-      "spf_updated": "2026-08-31 13:48:53",
-      "gameid": "1414254",
-      "kickoff_cst": "2026-09-01 00:30",
-      "matchnum_label": "周一003",
-      "home_team_id": "972",
-      "away_team_id": "1032"
     },
     {
       "xml_id": "2041178",
