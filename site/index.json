@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-01T03:10:12Z",
+  "last_updated_utc": "2026-09-01T03:20:10Z",
   "matches": [
     {
       "xml_id": "2041215",
@@ -36,6 +36,24 @@
       "matchnum_label": "周二002",
       "home_team_id": "511",
       "away_team_id": "1274"
+    },
+    {
+      "xml_id": "2041217",
+      "matchnum": "2003",
+      "date": "2026-09-02",
+      "dayofweek": "星期三",
+      "league": "英格兰冠军联赛",
+      "home": "西汉姆联",
+      "away": "伍尔弗汉普顿",
+      "spf_win": "3.38",
+      "spf_draw": "3.60",
+      "spf_lost": "1.80",
+      "spf_updated": "2026-09-01 09:26:16",
+      "gameid": "1425412",
+      "kickoff_cst": "2026-09-02 02:45",
+      "matchnum_label": "周二003",
+      "home_team_id": "1286",
+      "away_team_id": "978"
     },
     {
       "xml_id": "2041218",
