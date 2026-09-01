@@ -24,7 +24,7 @@
       "lost": "3.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-09-01T09:20:11Z"
+    "fetched_at_utc": "2026-09-01T09:30:12Z"
   },
   "shuju": {
     "title": "町田泽维亚VS川崎前锋(2026/2027日职)-数据分析-500彩票网",
@@ -696,22 +696,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↓",
-        "handicap": "半球",
-        "away_water": "0.900↑",
-        "time": "09-01 15:01"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "半球",
-        "away_water": "0.890",
-        "time": "08-29 20:27"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -725,6 +709,22 @@
         "handicap": "平手/半球",
         "away_water": "1.190",
         "time": "08-29 19:36"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↓",
+        "handicap": "半球",
+        "away_water": "0.900↑",
+        "time": "09-01 15:01"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "半球",
+        "away_water": "0.890",
+        "time": "08-29 20:27"
       }
     },
     {

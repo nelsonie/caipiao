@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-01T09:20:12Z",
+  "last_updated_utc": "2026-09-01T09:30:14Z",
   "matches": [
     {
       "xml_id": "2041215",
@@ -288,6 +288,24 @@
       "matchnum_label": "周三010",
       "home_team_id": "624",
       "away_team_id": "664"
+    },
+    {
+      "xml_id": "2041244",
+      "matchnum": "3001",
+      "date": "2026-09-02",
+      "dayofweek": "星期三",
+      "league": "日本联赛杯",
+      "home": "八户南源",
+      "away": "枥木城",
+      "spf_win": "1.42",
+      "spf_draw": "4.00",
+      "spf_lost": "5.70",
+      "spf_updated": "2026-09-01 09:26:16",
+      "gameid": "1427262",
+      "kickoff_cst": "2026-09-02 17:30",
+      "matchnum_label": "周三001",
+      "home_team_id": "7204",
+      "away_team_id": "11323"
     }
   ]
 }
