@@ -24,7 +24,7 @@
       "lost": "3.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-09-01T06:10:06Z"
+    "fetched_at_utc": "2026-09-01T06:20:10Z"
   },
   "shuju": {
     "title": "斯旺西VS沃特福德(2026/2027英冠)-数据分析-500彩票网",
@@ -696,22 +696,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.590↓",
-        "handicap": "平手/半球",
-        "away_water": "1.270↑",
-        "time": "09-01 13:52"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "平手/半球",
-        "away_water": "0.920",
-        "time": "08-29 20:33"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -725,6 +709,22 @@
         "handicap": "平手/半球",
         "away_water": "1.000",
         "time": "08-29 22:05"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.590↓",
+        "handicap": "平手/半球",
+        "away_water": "1.270↑",
+        "time": "09-01 13:52"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "平手/半球",
+        "away_water": "0.920",
+        "time": "08-29 20:33"
       }
     },
     {
