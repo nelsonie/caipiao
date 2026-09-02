@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-02T05:40:07Z",
+  "last_updated_utc": "2026-09-02T05:50:07Z",
   "matches": [
     {
       "xml_id": "2041224",
@@ -324,6 +324,24 @@
       "matchnum_label": "周三010",
       "home_team_id": "624",
       "away_team_id": "664"
+    },
+    {
+      "xml_id": "2041243",
+      "matchnum": "4004",
+      "date": "2026-09-04",
+      "dayofweek": "星期五",
+      "league": "沙特职业联赛",
+      "home": "迪里耶",
+      "away": "胡巴尔卡德西亚",
+      "spf_win": "2.37",
+      "spf_draw": "3.60",
+      "spf_lost": "2.33",
+      "spf_updated": "2026-09-02 09:26:06",
+      "gameid": "1467710",
+      "kickoff_cst": "2026-09-04 02:00",
+      "matchnum_label": "周四004",
+      "home_team_id": "7830",
+      "away_team_id": "4890"
     },
     {
       "xml_id": "2041244",
