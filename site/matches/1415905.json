@@ -1,0 +1,38 @@
+{
+  "frontmatter": {
+    "gameid": 1415905,
+    "matchnum": "5006",
+    "date": "2026-09-05",
+    "league": "荷兰甲级联赛",
+    "home": "鹿特丹斯巴达",
+    "away": "兹沃勒",
+    "kickoff_cst": "2026-09-05 02:00",
+    "spf": {
+      "win": "2.89",
+      "draw": "3.90",
+      "lost": "1.90"
+    },
+    "asia_main": null,
+    "euro_main": null,
+    "fetched_at_utc": "2026-09-03T06:10:06Z"
+  },
+  "shuju": {
+    "title": null,
+    "team_ranks": [],
+    "h2h_rows": [],
+    "recent_form": {
+      "home": {},
+      "away": {}
+    },
+    "future_fixtures": {
+      "home": [],
+      "away": []
+    },
+    "lineup": {
+      "home": {},
+      "away": {}
+    }
+  },
+  "yazhi": [],
+  "ouzhi": []
+}
