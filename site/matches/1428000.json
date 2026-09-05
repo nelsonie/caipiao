@@ -1,0 +1,38 @@
+{
+  "frontmatter": {
+    "gameid": 1428000,
+    "matchnum": "7023",
+    "date": "2026-09-07",
+    "league": "西班牙甲级联赛",
+    "home": "西班牙人",
+    "away": "塞维利亚",
+    "kickoff_cst": "2026-09-07 03:00",
+    "spf": {
+      "win": "4.65",
+      "draw": "3.50",
+      "lost": "1.59"
+    },
+    "asia_main": null,
+    "euro_main": null,
+    "fetched_at_utc": "2026-09-05T03:10:07Z"
+  },
+  "shuju": {
+    "title": null,
+    "team_ranks": [],
+    "h2h_rows": [],
+    "recent_form": {
+      "home": {},
+      "away": {}
+    },
+    "future_fixtures": {
+      "home": [],
+      "away": []
+    },
+    "lineup": {
+      "home": {},
+      "away": {}
+    }
+  },
+  "yazhi": [],
+  "ouzhi": []
+}
