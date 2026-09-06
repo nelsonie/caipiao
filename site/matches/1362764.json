@@ -1,0 +1,38 @@
+{
+  "frontmatter": {
+    "gameid": 1362764,
+    "matchnum": "1003",
+    "date": "2026-09-08",
+    "league": "瑞典超级联赛",
+    "home": "马尔默",
+    "away": "AIK索尔纳",
+    "kickoff_cst": "2026-09-08 01:00",
+    "spf": {
+      "win": "2.90",
+      "draw": "3.70",
+      "lost": "1.95"
+    },
+    "asia_main": null,
+    "euro_main": null,
+    "fetched_at_utc": "2026-09-06T03:10:05Z"
+  },
+  "shuju": {
+    "title": null,
+    "team_ranks": [],
+    "h2h_rows": [],
+    "recent_form": {
+      "home": {},
+      "away": {}
+    },
+    "future_fixtures": {
+      "home": [],
+      "away": []
+    },
+    "lineup": {
+      "home": {},
+      "away": {}
+    }
+  },
+  "yazhi": [],
+  "ouzhi": []
+}
