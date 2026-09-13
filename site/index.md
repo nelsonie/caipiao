@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-09-13T23:20:07Z'
+last_updated_utc: '2026-09-13T23:30:05Z'
 total_matches: 10
 leagues_covered:
 - 意大利甲级联赛
