@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-09-14T19:40:05Z'
-total_matches: 1
-leagues_covered:
-- 葡萄牙超级联赛
+last_updated_utc: '2026-09-14T19:50:05Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 葡萄牙超级联赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 1012 | 2026-09-15 星期二 | 布拉加 vs 埃斯托里尔 | 1.93/3.40/3.15 | [1438102](matches/1438102.md) |
