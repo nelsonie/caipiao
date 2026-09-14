@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-14T07:40:06Z",
+  "last_updated_utc": "2026-09-14T07:50:07Z",
   "matches": [
     {
       "xml_id": "2041459",
@@ -27,10 +27,10 @@
       "league": "意大利甲级联赛",
       "home": "科莫",
       "away": "帕尔马",
-      "spf_win": "2.65",
-      "spf_draw": "3.90",
-      "spf_lost": "2.02",
-      "spf_updated": "2026-09-14 10:41:00",
+      "spf_win": "2.60",
+      "spf_draw": "3.82",
+      "spf_lost": "2.07",
+      "spf_updated": "2026-09-14 15:46:35",
       "gameid": "1414184",
       "kickoff_cst": "2026-09-15 00:30",
       "matchnum_label": "周一003",
@@ -63,10 +63,10 @@
       "league": "瑞典超级联赛",
       "home": "佐加顿斯",
       "away": "哥德堡盖斯",
-      "spf_win": "2.13",
-      "spf_draw": "3.65",
+      "spf_win": "2.10",
+      "spf_draw": "3.72",
       "spf_lost": "2.60",
-      "spf_updated": "2026-09-14 14:42:34",
+      "spf_updated": "2026-09-14 15:45:31",
       "gameid": "1362769",
       "kickoff_cst": "2026-09-15 01:00",
       "matchnum_label": "周一005",
@@ -198,6 +198,24 @@
       "matchnum_label": "周一012",
       "home_team_id": "719",
       "away_team_id": "1616"
+    },
+    {
+      "xml_id": "2041524",
+      "matchnum": "1014",
+      "date": "2026-09-14",
+      "dayofweek": "星期一",
+      "league": "亚运会女足",
+      "home": "中国女足",
+      "away": "中国香港女足",
+      "spf_win": "1.70",
+      "spf_draw": "5.30",
+      "spf_lost": "2.85",
+      "spf_updated": "2026-09-14 14:44:28",
+      "gameid": "1454158",
+      "kickoff_cst": "2026-09-14 18:00",
+      "matchnum_label": "周一014",
+      "home_team_id": "6639",
+      "away_team_id": "1351"
     }
   ]
 }
