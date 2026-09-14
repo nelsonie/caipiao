@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-14T07:20:05Z",
+  "last_updated_utc": "2026-09-14T07:30:08Z",
   "matches": [
     {
       "xml_id": "2041459",
@@ -189,33 +189,15 @@
       "league": "葡萄牙超级联赛",
       "home": "布拉加",
       "away": "埃斯托里尔",
-      "spf_win": "2.09",
+      "spf_win": "2.03",
       "spf_draw": "3.43",
-      "spf_lost": "2.78",
-      "spf_updated": "2026-09-14 12:19:42",
+      "spf_lost": "2.90",
+      "spf_updated": "2026-09-14 15:22:35",
       "gameid": "1438102",
       "kickoff_cst": "2026-09-15 03:45",
       "matchnum_label": "周一012",
       "home_team_id": "719",
       "away_team_id": "1616"
-    },
-    {
-      "xml_id": "2041524",
-      "matchnum": "1014",
-      "date": "2026-09-14",
-      "dayofweek": "星期一",
-      "league": "亚运会女足",
-      "home": "中国女足",
-      "away": "中国香港女足",
-      "spf_win": "1.70",
-      "spf_draw": "5.30",
-      "spf_lost": "2.85",
-      "spf_updated": "2026-09-14 14:44:28",
-      "gameid": "1454158",
-      "kickoff_cst": "2026-09-14 18:00",
-      "matchnum_label": "周一014",
-      "home_team_id": "6639",
-      "away_team_id": "1351"
     }
   ]
 }
