@@ -1,6 +1,24 @@
 {
-  "last_updated_utc": "2026-09-16T03:30:07Z",
+  "last_updated_utc": "2026-09-16T03:40:06Z",
   "matches": [
+    {
+      "xml_id": "2041494",
+      "matchnum": "3001",
+      "date": "2026-09-16",
+      "dayofweek": "星期三",
+      "league": "亚运会男足",
+      "home": "中国亚运男足",
+      "away": "朝鲜亚运男足",
+      "spf_win": "5.80",
+      "spf_draw": "3.95",
+      "spf_lost": "1.42",
+      "spf_updated": "2026-09-16 11:29:16",
+      "gameid": "1454170",
+      "kickoff_cst": "2026-09-16 18:00",
+      "matchnum_label": "周三001",
+      "home_team_id": "3947",
+      "away_team_id": "6140"
+    },
     {
       "xml_id": "2041495",
       "matchnum": "3002",
@@ -18,6 +36,24 @@
       "matchnum_label": "周三002",
       "home_team_id": "1609",
       "away_team_id": "658"
+    },
+    {
+      "xml_id": "2041496",
+      "matchnum": "3003",
+      "date": "2026-09-16",
+      "dayofweek": "星期三",
+      "league": "亚运会男足",
+      "home": "日本亚足",
+      "away": "中国香港亚运男足",
+      "spf_win": "2.05",
+      "spf_draw": "5.05",
+      "spf_lost": "2.26",
+      "spf_updated": "2026-09-16 11:14:46",
+      "gameid": "1454164",
+      "kickoff_cst": "2026-09-16 18:30",
+      "matchnum_label": "周三003",
+      "home_team_id": "4143",
+      "away_team_id": "4144"
     },
     {
       "xml_id": "2041497",
