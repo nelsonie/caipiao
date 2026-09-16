@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-09-16T00:30:07Z'
+last_updated_utc: '2026-09-16T00:40:05Z'
 total_matches: 8
 leagues_covered:
 - 亚洲冠军精英联赛
