@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-17T16:40:05Z",
+  "last_updated_utc": "2026-09-17T16:50:06Z",
   "matches": [
     {
       "xml_id": "2041510",
@@ -72,24 +72,6 @@
       "matchnum_label": "周四011",
       "home_team_id": "1577",
       "away_team_id": "6165"
-    },
-    {
-      "xml_id": "2041518",
-      "matchnum": "4003",
-      "date": "2026-09-18",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "克里特",
-      "away": "霍芬海姆",
-      "spf_win": "3.56",
-      "spf_draw": "4.00",
-      "spf_lost": "1.67",
-      "spf_updated": "2026-09-17 21:25:08",
-      "gameid": "1480084",
-      "kickoff_cst": "2026-09-18 00:45",
-      "matchnum_label": "周四003",
-      "home_team_id": "358",
-      "away_team_id": "1869"
     },
     {
       "xml_id": "2041519",
