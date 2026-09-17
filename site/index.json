@@ -1,24 +1,6 @@
 {
-  "last_updated_utc": "2026-09-17T16:00:11Z",
+  "last_updated_utc": "2026-09-17T16:10:07Z",
   "matches": [
-    {
-      "xml_id": "2041509",
-      "matchnum": "4001",
-      "date": "2026-09-17",
-      "dayofweek": "星期四",
-      "league": "亚运会女足",
-      "home": "乌兹别克斯坦女足",
-      "away": "中国女足",
-      "spf_win": "2.58",
-      "spf_draw": "4.65",
-      "spf_lost": "1.90",
-      "spf_updated": "2026-09-17 12:24:57",
-      "gameid": "1454157",
-      "kickoff_cst": "2026-09-17 13:00",
-      "matchnum_label": "周四001",
-      "home_team_id": "6640",
-      "away_team_id": "1351"
-    },
     {
       "xml_id": "2041510",
       "matchnum": "4004",
@@ -90,24 +72,6 @@
       "matchnum_label": "周四011",
       "home_team_id": "1577",
       "away_team_id": "6165"
-    },
-    {
-      "xml_id": "2041517",
-      "matchnum": "4002",
-      "date": "2026-09-17",
-      "dayofweek": "星期四",
-      "league": "亚洲冠军乙级联赛",
-      "home": "上海申花",
-      "away": "淡宾尼士流浪",
-      "spf_win": "3.36",
-      "spf_draw": "4.35",
-      "spf_lost": "1.66",
-      "spf_updated": "2026-09-17 19:47:49",
-      "gameid": "1474064",
-      "kickoff_cst": "2026-09-17 20:15",
-      "matchnum_label": "周四002",
-      "home_team_id": "489",
-      "away_team_id": "2803"
     },
     {
       "xml_id": "2041518",
