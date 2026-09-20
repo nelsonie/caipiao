@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-09-20T18:20:05Z'
+last_updated_utc: '2026-09-20T18:30:05Z'
 total_matches: 6
 leagues_covered:
 - 亚运会女足
