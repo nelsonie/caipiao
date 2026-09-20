@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-20T08:10:07Z",
+  "last_updated_utc": "2026-09-20T08:20:06Z",
   "matches": [
     {
       "xml_id": "2041586",
@@ -81,10 +81,10 @@
       "league": "亚运会男足",
       "home": "吉尔吉斯斯坦亚足",
       "away": "日本亚足",
-      "spf_win": "3.29",
-      "spf_draw": "4.27",
-      "spf_lost": "1.69",
-      "spf_updated": "2026-09-20 14:39:33",
+      "spf_win": "3.41",
+      "spf_draw": "4.35",
+      "spf_lost": "1.65",
+      "spf_updated": "2026-09-20 16:12:45",
       "gameid": "1454163",
       "kickoff_cst": "2026-09-20 18:30",
       "matchnum_label": "周日005",
@@ -315,10 +315,10 @@
       "league": "挪威超级联赛",
       "home": "维京",
       "away": "利勒斯特罗姆",
-      "spf_win": "1.77",
+      "spf_win": "1.73",
       "spf_draw": "4.15",
-      "spf_lost": "3.10",
-      "spf_updated": "2026-09-20 15:33:02",
+      "spf_lost": "3.22",
+      "spf_updated": "2026-09-20 16:08:09",
       "gameid": "1364114",
       "kickoff_cst": "2026-09-20 23:00",
       "matchnum_label": "周日018",
@@ -540,6 +540,24 @@
       "matchnum_label": "周日030",
       "home_team_id": "1571",
       "away_team_id": "2277"
+    },
+    {
+      "xml_id": "2041616",
+      "matchnum": "1001",
+      "date": "2026-09-21",
+      "dayofweek": "星期一",
+      "league": "亚运会女足",
+      "home": "中国女足",
+      "away": "菲律宾女足",
+      "spf_win": "1.78",
+      "spf_draw": "4.18",
+      "spf_lost": "3.05",
+      "spf_updated": "2026-09-20 10:05:19",
+      "gameid": "1454156",
+      "kickoff_cst": "2026-09-21 15:00",
+      "matchnum_label": "周一001",
+      "home_team_id": "1351",
+      "away_team_id": "9905"
     }
   ]
 }
