@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-09-21T02:50:05Z'
-total_matches: 1
-leagues_covered:
-- 亚运会女足
+last_updated_utc: '2026-09-21T03:00:06Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 亚运会女足 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 1001 | 2026-09-21 星期一 | 中国女足 vs 菲律宾女足 | 1.81/4.18/2.96 | [1454156](matches/1454156.md) |
