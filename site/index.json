@@ -1,4 +1,59 @@
 {
-  "last_updated_utc": "2026-09-22T03:10:05Z",
-  "matches": []
+  "last_updated_utc": "2026-09-22T03:20:07Z",
+  "matches": [
+    {
+      "xml_id": "2041643",
+      "matchnum": "2002",
+      "date": "2026-09-23",
+      "dayofweek": "星期三",
+      "league": "英格兰锦标赛",
+      "home": "米尔顿凯恩斯",
+      "away": "克劳利",
+      "spf_win": "2.22",
+      "spf_draw": "3.60",
+      "spf_lost": "2.50",
+      "spf_updated": "2026-09-22 10:31:51",
+      "gameid": "1491193",
+      "kickoff_cst": "2026-09-23 02:00",
+      "matchnum_label": "周二002",
+      "home_team_id": "2023",
+      "away_team_id": "1956"
+    },
+    {
+      "xml_id": "2041644",
+      "matchnum": "2004",
+      "date": "2026-09-23",
+      "dayofweek": "星期三",
+      "league": "英格兰锦标赛",
+      "home": "维冈竞技",
+      "away": "布莱克浦",
+      "spf_win": "4.15",
+      "spf_draw": "4.05",
+      "spf_lost": "1.56",
+      "spf_updated": "2026-09-21 14:28:44",
+      "gameid": "1491224",
+      "kickoff_cst": "2026-09-23 02:00",
+      "matchnum_label": "周二004",
+      "home_team_id": "1258",
+      "away_team_id": "869"
+    },
+    {
+      "xml_id": "2041655",
+      "matchnum": "2003",
+      "date": "2026-09-23",
+      "dayofweek": "星期三",
+      "league": "英格兰锦标赛",
+      "home": "诺茨郡",
+      "away": "格里姆斯比",
+      "spf_win": "4.15",
+      "spf_draw": "3.80",
+      "spf_lost": "1.60",
+      "spf_updated": "2026-09-22 11:00:31",
+      "gameid": "1491204",
+      "kickoff_cst": "2026-09-23 02:00",
+      "matchnum_label": "周二003",
+      "home_team_id": "1143",
+      "away_team_id": "832"
+    }
+  ]
 }
