@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>今日全部对阵 (0 场) · caipiao</title>
+<title>今日全部对阵 (8 场) · caipiao</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="alternate" type="text/markdown" href="index.md">
 <style>
@@ -82,10 +82,143 @@ button:disabled { opacity: .5; cursor: default; }
   <a href="/_meta.json">_meta.json</a>
 </nav>
 <main>
-<h1>今日全部对阵 (0 场)</h1>
-<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-09-24T03:00:06Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">0</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v"></div></div></div>
+<h1>今日全部对阵 (8 场)</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-09-24T03:10:06Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">8</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v">国际赛、欧洲国家联赛</div></div></div>
+
+<section class="quick">
+  <h2>快查（8 场 · 按日期升序）</h2>
+  <ul>
+    <li><span class="meta">2026-09-24 · 国际赛</span><span class="teams">日本 vs 乌拉圭</span><a class="url" href="/matches/1493932.html">{ORIGIN}/matches/1493932.html</a></li>
+<li><span class="meta">2026-09-24 · 国际赛</span><span class="teams">韩国 vs 厄瓜多尔</span><a class="url" href="/matches/1494432.html">{ORIGIN}/matches/1494432.html</a></li>
+<li><span class="meta">2026-09-24 · 国际赛</span><span class="teams">中国 vs 马尔代夫</span><a class="url" href="/matches/1494419.html">{ORIGIN}/matches/1494419.html</a></li>
+<li><span class="meta">2026-09-25 · 欧洲国家联赛</span><span class="teams">科索沃 vs 爱尔兰</span><a class="url" href="/matches/1398460.html">{ORIGIN}/matches/1398460.html</a></li>
+<li><span class="meta">2026-09-25 · 欧洲国家联赛</span><span class="teams">葡萄牙 vs 威尔士</span><a class="url" href="/matches/1398448.html">{ORIGIN}/matches/1398448.html</a></li>
+<li><span class="meta">2026-09-25 · 欧洲国家联赛</span><span class="teams">荷兰 vs 德国</span><a class="url" href="/matches/1398449.html">{ORIGIN}/matches/1398449.html</a></li>
+<li><span class="meta">2026-09-25 · 欧洲国家联赛</span><span class="teams">塞尔维亚 vs 希腊</span><a class="url" href="/matches/1398450.html">{ORIGIN}/matches/1398450.html</a></li>
+<li><span class="meta">2026-09-25 · 欧洲国家联赛</span><span class="teams">挪威 vs 丹麦</span><a class="url" href="/matches/1398451.html">{ORIGIN}/matches/1398451.html</a></li>
+  </ul>
+  <button id="copy-all" type="button">复制全部对阵及链接</button>
+  <p class="hint">点按钮会把每场一行，格式：<code>日期 联赛 主队 vs 客队 URL</code>，复制到剪贴板。</p>
+  <script>
+    (function () {
+      var ITEMS = [{"line": "2026-09-24 国际赛 日本 vs 乌拉圭 {ORIGIN}/matches/1493932.html"}, {"line": "2026-09-24 国际赛 韩国 vs 厄瓜多尔 {ORIGIN}/matches/1494432.html"}, {"line": "2026-09-24 国际赛 中国 vs 马尔代夫 {ORIGIN}/matches/1494419.html"}, {"line": "2026-09-25 欧洲国家联赛 科索沃 vs 爱尔兰 {ORIGIN}/matches/1398460.html"}, {"line": "2026-09-25 欧洲国家联赛 葡萄牙 vs 威尔士 {ORIGIN}/matches/1398448.html"}, {"line": "2026-09-25 欧洲国家联赛 荷兰 vs 德国 {ORIGIN}/matches/1398449.html"}, {"line": "2026-09-25 欧洲国家联赛 塞尔维亚 vs 希腊 {ORIGIN}/matches/1398450.html"}, {"line": "2026-09-25 欧洲国家联赛 挪威 vs 丹麦 {ORIGIN}/matches/1398451.html"}];
+      var origin = location.origin;
+      // 页面加载时把 li 里的 {ORIGIN} 占位符都换成真实域名
+      document.querySelectorAll('.quick .url').forEach(function (a) {
+        if (a.textContent.indexOf('{ORIGIN}') === 0) {
+          a.textContent = origin + a.textContent.slice('{ORIGIN}'.length);
+        }
+      });
+      var btn = document.getElementById('copy-all');
+      btn.addEventListener('click', function () {
+        var text = ITEMS.map(function (it) { return it.line.replace('{ORIGIN}', origin); }).join('\n');
+        var done = function () {
+          var prev = btn.textContent;
+          btn.textContent = '已复制 ' + ITEMS.length + ' 条 ✓';
+          btn.disabled = true;
+          setTimeout(function () { btn.textContent = prev; btn.disabled = false; }, 2000);
+        };
+        if (navigator.clipboard && window.isSecureContext) {
+          navigator.clipboard.writeText(text).then(done, function (err) {
+            alert('复制失败：' + err);
+          });
+        } else {
+          var ta = document.createElement('textarea');
+          ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+          document.body.appendChild(ta); ta.select();
+          try { document.execCommand('copy'); done(); } catch (e) { alert('复制失败'); }
+          document.body.removeChild(ta);
+        }
+      });
+    })();
+  </script>
+</section>
 
 <h1>今日全部对阵</h1>
+<h2>国际赛 (3)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4001</td>
+<td>2026-09-24 星期四</td>
+<td>日本 vs 乌拉圭</td>
+<td>3.45/3.32/1.86</td>
+<td><a href="matches/1493932.html">1493932</a></td>
+</tr>
+<tr>
+<td>4002</td>
+<td>2026-09-24 星期四</td>
+<td>韩国 vs 厄瓜多尔</td>
+<td>4.75/3.50/1.58</td>
+<td><a href="matches/1494432.html">1494432</a></td>
+</tr>
+<tr>
+<td>4003</td>
+<td>2026-09-24 星期四</td>
+<td>中国 vs 马尔代夫</td>
+<td>2.30/4.80/2.06</td>
+<td><a href="matches/1494419.html">1494419</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2>欧洲国家联赛 (5)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4004</td>
+<td>2026-09-25 星期五</td>
+<td>科索沃 vs 爱尔兰</td>
+<td>5.50/3.95/1.44</td>
+<td><a href="matches/1398460.html">1398460</a></td>
+</tr>
+<tr>
+<td>4005</td>
+<td>2026-09-25 星期五</td>
+<td>葡萄牙 vs 威尔士</td>
+<td>2.34/3.88/2.25</td>
+<td><a href="matches/1398448.html">1398448</a></td>
+</tr>
+<tr>
+<td>4006</td>
+<td>2026-09-25 星期五</td>
+<td>荷兰 vs 德国</td>
+<td>4.62/4.30/1.47</td>
+<td><a href="matches/1398449.html">1398449</a></td>
+</tr>
+<tr>
+<td>4007</td>
+<td>2026-09-25 星期五</td>
+<td>塞尔维亚 vs 希腊</td>
+<td>5.40/4.00/1.44</td>
+<td><a href="matches/1398450.html">1398450</a></td>
+</tr>
+<tr>
+<td>4008</td>
+<td>2026-09-25 星期五</td>
+<td>挪威 vs 丹麦</td>
+<td>2.70/3.53/2.10</td>
+<td><a href="matches/1398451.html">1398451</a></td>
+</tr>
+</tbody>
+</table></div>
 </main>
 <footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
 </body>
