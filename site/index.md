@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-09-25T23:20:06Z'
+last_updated_utc: '2026-09-25T23:30:07Z'
 total_matches: 18
 leagues_covered:
 - 亚运会男足
