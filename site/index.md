@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-09-27T23:00:06Z'
-total_matches: 1
-leagues_covered:
-- 美国职业大联盟
+last_updated_utc: '2026-09-27T23:10:07Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 美国职业大联盟 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 7009 | 2026-09-28 星期一 | 哥伦布机员 vs 迈阿密国际 | 1.64/4.08/3.65 | [1358600](matches/1358600.md) |
