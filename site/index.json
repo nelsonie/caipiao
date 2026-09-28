@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-28T06:00:07Z",
+  "last_updated_utc": "2026-09-28T06:10:06Z",
   "matches": [
     {
       "xml_id": "2041740",
@@ -135,15 +135,51 @@
       "league": "欧洲国家联赛",
       "home": "北爱尔兰",
       "away": "匈牙利",
-      "spf_win": "1.39",
-      "spf_draw": "4.10",
-      "spf_lost": "6.05",
-      "spf_updated": "2026-09-28 09:23:02",
+      "spf_win": "1.41",
+      "spf_draw": "4.00",
+      "spf_lost": "5.90",
+      "spf_updated": "2026-09-28 13:55:46",
       "gameid": "1398590",
       "kickoff_cst": "2026-09-29 02:45",
       "matchnum_label": "周一008",
       "home_team_id": "97",
       "away_team_id": "55"
+    },
+    {
+      "xml_id": "2041775",
+      "matchnum": "2001",
+      "date": "2026-09-29",
+      "dayofweek": "星期二",
+      "league": "亚运会女足",
+      "home": "朝鲜女足",
+      "away": "中国女足",
+      "spf_win": "2.07",
+      "spf_draw": "3.42",
+      "spf_lost": "2.83",
+      "spf_updated": "2026-09-28 13:51:13",
+      "gameid": "1495539",
+      "kickoff_cst": "2026-09-29 14:00",
+      "matchnum_label": "周二001",
+      "home_team_id": "127",
+      "away_team_id": "1351"
+    },
+    {
+      "xml_id": "2041780",
+      "matchnum": "2007",
+      "date": "2026-09-29",
+      "dayofweek": "星期二",
+      "league": "亚运会女足",
+      "home": "日本女足",
+      "away": "韩国女足",
+      "spf_win": "2.73",
+      "spf_draw": "3.80",
+      "spf_lost": "2.00",
+      "spf_updated": "2026-09-28 13:51:13",
+      "gameid": "1495540",
+      "kickoff_cst": "2026-09-29 18:30",
+      "matchnum_label": "周二007",
+      "home_team_id": "1180",
+      "away_team_id": "858"
     }
   ]
 }
