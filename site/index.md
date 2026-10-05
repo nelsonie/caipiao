@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-10-05T18:00:06Z'
+last_updated_utc: '2026-10-05T18:10:07Z'
 total_matches: 6
 leagues_covered:
 - 欧洲国家联赛
