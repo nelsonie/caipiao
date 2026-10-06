@@ -1,42 +1,6 @@
 {
-  "last_updated_utc": "2026-10-06T16:00:07Z",
+  "last_updated_utc": "2026-10-06T16:10:07Z",
   "matches": [
-    {
-      "xml_id": "2041812",
-      "matchnum": "2001",
-      "date": "2026-10-06",
-      "dayofweek": "星期二",
-      "league": "国际赛",
-      "home": "韩国",
-      "away": "乌兹别克斯坦",
-      "spf_win": "2.65",
-      "spf_draw": "3.01",
-      "spf_lost": "2.38",
-      "spf_updated": "2026-10-06 17:58:26",
-      "gameid": "1459748",
-      "kickoff_cst": "2026-10-06 19:00",
-      "matchnum_label": "周二001",
-      "home_team_id": "25",
-      "away_team_id": "91"
-    },
-    {
-      "xml_id": "2041813",
-      "matchnum": "2003",
-      "date": "2026-10-06",
-      "dayofweek": "星期二",
-      "league": "欧洲国家联赛",
-      "home": "哈萨克斯坦",
-      "away": "法罗群岛",
-      "spf_win": "5.70",
-      "spf_draw": "3.65",
-      "spf_lost": "1.47",
-      "spf_updated": "2026-10-06 21:44:11",
-      "gameid": "1398660",
-      "kickoff_cst": "2026-10-06 22:00",
-      "matchnum_label": "周二003",
-      "home_team_id": "108",
-      "away_team_id": "112"
-    },
     {
       "xml_id": "2041814",
       "matchnum": "2004",
@@ -198,24 +162,6 @@
       "matchnum_label": "周二012",
       "home_team_id": "1349",
       "away_team_id": "4285"
-    },
-    {
-      "xml_id": "2041835",
-      "matchnum": "2002",
-      "date": "2026-10-06",
-      "dayofweek": "星期二",
-      "league": "国际赛",
-      "home": "中国",
-      "away": "塔吉克斯坦",
-      "spf_win": "4.50",
-      "spf_draw": "3.55",
-      "spf_lost": "1.60",
-      "spf_updated": "2026-10-06 19:31:36",
-      "gameid": "1494417",
-      "kickoff_cst": "2026-10-06 19:35",
-      "matchnum_label": "周二002",
-      "home_team_id": "1",
-      "away_team_id": "161"
     }
   ]
 }
