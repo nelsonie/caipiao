@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-10-07T00:30:11Z'
-total_matches: 1
-leagues_covered:
-- 美国职业大联盟
+last_updated_utc: '2026-10-07T00:40:05Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 美国职业大联盟 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 2012 | 2026-10-07 星期三 | 芝加哥火焰 vs 温哥华白帽 | 1.58/3.95/4.12 | [1358414](matches/1358414.md) |
