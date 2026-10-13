@@ -1,42 +1,6 @@
 {
-  "last_updated_utc": "2026-10-13T16:00:06Z",
+  "last_updated_utc": "2026-10-13T16:10:07Z",
   "matches": [
-    {
-      "xml_id": "2041951",
-      "matchnum": "2002",
-      "date": "2026-10-13",
-      "dayofweek": "星期二",
-      "league": "亚洲冠军精英联赛",
-      "home": "上海海港",
-      "away": "大田市民",
-      "spf_win": "4.25",
-      "spf_draw": "3.85",
-      "spf_lost": "1.58",
-      "spf_updated": "2026-10-13 17:42:50",
-      "gameid": "1473877",
-      "kickoff_cst": "2026-10-13 18:00",
-      "matchnum_label": "周二002",
-      "home_team_id": "5230",
-      "away_team_id": "1611"
-    },
-    {
-      "xml_id": "2041952",
-      "matchnum": "2003",
-      "date": "2026-10-13",
-      "dayofweek": "星期二",
-      "league": "亚洲冠军精英联赛",
-      "home": "布里兰",
-      "away": "北京国安",
-      "spf_win": "3.35",
-      "spf_draw": "3.50",
-      "spf_lost": "1.84",
-      "spf_updated": "2026-10-13 20:03:48",
-      "gameid": "1473909",
-      "kickoff_cst": "2026-10-13 20:15",
-      "matchnum_label": "周二003",
-      "home_team_id": "6876",
-      "away_team_id": "672"
-    },
     {
       "xml_id": "2041953",
       "matchnum": "2004",
@@ -396,24 +360,6 @@
       "matchnum_label": "周三013",
       "home_team_id": "1578",
       "away_team_id": "1567"
-    },
-    {
-      "xml_id": "2041988",
-      "matchnum": "2001",
-      "date": "2026-10-13",
-      "dayofweek": "星期二",
-      "league": "亚洲冠军精英联赛",
-      "home": "纽卡斯尔喷气机",
-      "away": "大阪钢巴",
-      "spf_win": "2.08",
-      "spf_draw": "3.80",
-      "spf_lost": "2.60",
-      "spf_updated": "2026-10-13 14:54:14",
-      "gameid": "1473944",
-      "kickoff_cst": "2026-10-13 15:45",
-      "matchnum_label": "周二001",
-      "home_team_id": "3617",
-      "away_team_id": "752"
     }
   ]
 }
