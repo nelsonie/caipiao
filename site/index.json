@@ -1,60 +1,6 @@
 {
-  "last_updated_utc": "2026-10-14T16:00:07Z",
+  "last_updated_utc": "2026-10-14T16:10:07Z",
   "matches": [
-    {
-      "xml_id": "2041962",
-      "matchnum": "3002",
-      "date": "2026-10-14",
-      "dayofweek": "星期三",
-      "league": "亚洲冠军精英联赛",
-      "home": "神户胜利船",
-      "away": "全北现代",
-      "spf_win": "2.51",
-      "spf_draw": "3.10",
-      "spf_lost": "2.45",
-      "spf_updated": "2026-10-14 17:56:46",
-      "gameid": "1473986",
-      "kickoff_cst": "2026-10-14 18:00",
-      "matchnum_label": "周三002",
-      "home_team_id": "492",
-      "away_team_id": "1609"
-    },
-    {
-      "xml_id": "2041963",
-      "matchnum": "3003",
-      "date": "2026-10-14",
-      "dayofweek": "星期三",
-      "league": "亚洲冠军精英联赛",
-      "home": "柏太阳神",
-      "away": "曼谷港务",
-      "spf_win": "1.78",
-      "spf_draw": "4.30",
-      "spf_lost": "2.98",
-      "spf_updated": "2026-10-14 17:36:17",
-      "gameid": "1474043",
-      "kickoff_cst": "2026-10-14 18:00",
-      "matchnum_label": "周三003",
-      "home_team_id": "658",
-      "away_team_id": "7805"
-    },
-    {
-      "xml_id": "2041964",
-      "matchnum": "3004",
-      "date": "2026-10-14",
-      "dayofweek": "星期三",
-      "league": "日本联赛杯",
-      "home": "横滨水手",
-      "away": "清水鼓动",
-      "spf_win": "4.05",
-      "spf_draw": "3.40",
-      "spf_lost": "1.70",
-      "spf_updated": "2026-10-14 16:58:02",
-      "gameid": "1498149",
-      "kickoff_cst": "2026-10-14 18:00",
-      "matchnum_label": "周三004",
-      "home_team_id": "870",
-      "away_team_id": "1178"
-    },
     {
       "xml_id": "2041965",
       "matchnum": "3005",
@@ -234,24 +180,6 @@
       "matchnum_label": "周三014",
       "home_team_id": "14129",
       "away_team_id": "4285"
-    },
-    {
-      "xml_id": "2041990",
-      "matchnum": "3001",
-      "date": "2026-10-14",
-      "dayofweek": "星期三",
-      "league": "亚洲冠军乙级联赛",
-      "home": "墨尔本胜利",
-      "away": "首尔FC",
-      "spf_win": "2.40",
-      "spf_draw": "3.50",
-      "spf_lost": "2.34",
-      "spf_updated": "2026-10-14 15:22:30",
-      "gameid": "1474005",
-      "kickoff_cst": "2026-10-14 15:45",
-      "matchnum_label": "周三001",
-      "home_team_id": "3615",
-      "away_team_id": "1606"
     }
   ]
 }
