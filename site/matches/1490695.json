@@ -24,7 +24,7 @@
       "lost": "6.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-27T07:30:10Z"
+    "fetched_at_utc": "2026-10-27T07:40:09Z"
   },
   "shuju": {
     "title": "多特蒙德VS云达不莱梅(2026/2027德国杯)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "一球/球半降",
-        "away_water": "0.970↑",
-        "time": "10-27 13:34"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "球半",
-        "away_water": "0.890",
-        "time": "10-07 18:34"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "球半",
         "away_water": "0.770",
         "time": "10-02 22:14"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "一球/球半降",
+        "away_water": "0.970↑",
+        "time": "10-27 13:34"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "球半",
+        "away_water": "0.890",
+        "time": "10-07 18:34"
       }
     },
     {
