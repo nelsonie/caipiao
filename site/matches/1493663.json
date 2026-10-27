@@ -24,7 +24,7 @@
       "lost": "1.99",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-27T11:20:18Z"
+    "fetched_at_utc": "2026-10-27T11:30:18Z"
   },
   "shuju": {
     "title": "桑德兰VS布伦特福德(2026/2027英联杯)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.020↑",
-        "handicap": "受平手/半球",
-        "away_water": "0.800↓",
-        "time": "10-27 14:05"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "受平手/半球",
-        "away_water": "0.920",
-        "time": "09-30 00:47"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.920",
         "time": "10-14 07:57"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.800↓",
+        "time": "10-27 14:05"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "受平手/半球",
+        "away_water": "0.920",
+        "time": "09-30 00:47"
       }
     },
     {
