@@ -24,7 +24,7 @@
       "lost": "6.95",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-27T10:30:08Z"
+    "fetched_at_utc": "2026-10-27T10:40:09Z"
   },
   "shuju": {
     "title": "京都不死鸟VS纽卡斯尔喷气机(2026/2027亚冠杯)-数据分析-500彩票网",
@@ -336,13 +336,13 @@
             "position": "前锋"
           },
           {
-            "number": "38",
-            "name": "埃弗顿·马塞约",
+            "number": "11",
+            "name": "马尔科·图里奥",
             "position": "中场"
           },
           {
-            "number": "11",
-            "name": "马尔科·图里奥",
+            "number": "38",
+            "name": "埃弗顿·马塞约",
             "position": "中场"
           },
           {
@@ -371,13 +371,13 @@
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "伊萨希·阿皮亚·塔维亚",
+            "number": "43",
+            "name": "韦弗顿",
             "position": "后卫"
           },
           {
-            "number": "43",
-            "name": "韦弗顿",
+            "number": "5",
+            "name": "伊萨希·阿皮亚·塔维亚",
             "position": "后卫"
           },
           {
@@ -676,22 +676,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "球半升",
-        "away_water": "0.830↓",
-        "time": "10-27 17:59"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "一球/球半",
-        "away_water": "0.890",
-        "time": "10-26 16:24"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -705,6 +689,22 @@
         "handicap": "一球/球半",
         "away_water": "0.890",
         "time": "10-26 16:22"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "球半升",
+        "away_water": "0.830↓",
+        "time": "10-27 17:59"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "一球/球半",
+        "away_water": "0.890",
+        "time": "10-26 16:24"
       }
     },
     {
