@@ -24,7 +24,7 @@
       "lost": "9.40",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-27T09:10:12Z"
+    "fetched_at_utc": "2026-10-27T09:20:12Z"
   },
   "shuju": {
     "title": "罗马VS卡利亚里(2026/2027意甲)-数据分析-500彩票网",
@@ -739,10 +739,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.930↓",
+        "home_water": "0.920↓",
         "handicap": "球半",
-        "away_water": "0.960↑",
-        "time": "10-27 16:18"
+        "away_water": "0.970↑",
+        "time": "10-27 17:08"
       },
       "init": {
         "home_water": "1.050",
@@ -768,22 +768,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.040↓",
-        "handicap": "球半",
-        "away_water": "0.900↑",
-        "time": "10-26 17:10"
-      },
-      "init": {
-        "home_water": "1.070",
-        "handicap": "球半",
-        "away_water": "0.870",
-        "time": "10-19 03:42"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -797,6 +781,22 @@
         "handicap": "球半",
         "away_water": "0.840",
         "time": "10-21 04:09"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.040↓",
+        "handicap": "球半",
+        "away_water": "0.900↑",
+        "time": "10-26 17:10"
+      },
+      "init": {
+        "home_water": "1.070",
+        "handicap": "球半",
+        "away_water": "0.870",
+        "time": "10-19 03:42"
       }
     },
     {
@@ -915,10 +915,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.950↓",
+        "home_water": "0.940↓",
         "handicap": "球半",
-        "away_water": "0.950↑",
-        "time": "10-27 16:19"
+        "away_water": "0.960↑",
+        "time": "10-27 17:08"
       },
       "init": {
         "home_water": "1.060",
