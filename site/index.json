@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-27T22:50:15Z",
+  "last_updated_utc": "2026-10-27T23:00:17Z",
   "matches": [
     {
       "xml_id": "2042301",
@@ -38,22 +38,22 @@
       "away_team_id": "1608"
     },
     {
-      "xml_id": "2042304",
-      "matchnum": "3004",
-      "date": "2026-10-29",
-      "dayofweek": "星期四",
-      "league": "德国杯",
-      "home": "帕德博恩",
-      "away": "斯图加特",
-      "spf_win": "2.35",
-      "spf_draw": "3.70",
-      "spf_lost": "2.31",
+      "xml_id": "2042303",
+      "matchnum": "3003",
+      "date": "2026-10-28",
+      "dayofweek": "星期三",
+      "league": "日本联赛杯",
+      "home": "横滨水手",
+      "away": "广岛三箭",
+      "spf_win": "2.15",
+      "spf_draw": "3.30",
+      "spf_lost": "2.78",
       "spf_updated": "2026-10-27 09:54:01",
-      "gameid": "1490705",
-      "kickoff_cst": "2026-10-29 01:00",
-      "matchnum_label": "周三004",
-      "home_team_id": "1922",
-      "away_team_id": "1195"
+      "gameid": "1502036",
+      "kickoff_cst": "2026-10-28 18:00",
+      "matchnum_label": "周三003",
+      "home_team_id": "870",
+      "away_team_id": "845"
     },
     {
       "xml_id": "2042310",
@@ -92,22 +92,22 @@
       "away_team_id": "555"
     },
     {
-      "xml_id": "2042312",
-      "matchnum": "3012",
+      "xml_id": "2042315",
+      "matchnum": "3015",
       "date": "2026-10-29",
       "dayofweek": "星期四",
       "league": "英格兰联赛杯",
-      "home": "富勒姆",
-      "away": "水晶宫",
-      "spf_win": "3.05",
-      "spf_draw": "3.60",
-      "spf_lost": "1.91",
-      "spf_updated": "2026-10-27 09:54:01",
-      "gameid": "1493661",
-      "kickoff_cst": "2026-10-29 03:45",
-      "matchnum_label": "周三012",
-      "home_team_id": "811",
-      "away_team_id": "516"
+      "home": "利物浦",
+      "away": "切尔西",
+      "spf_win": "4.30",
+      "spf_draw": "4.12",
+      "spf_lost": "1.53",
+      "spf_updated": "2026-10-27 19:13:19",
+      "gameid": "1493662",
+      "kickoff_cst": "2026-10-29 04:00",
+      "matchnum_label": "周三015",
+      "home_team_id": "1011",
+      "away_team_id": "1173"
     }
   ]
 }
