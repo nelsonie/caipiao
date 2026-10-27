@@ -24,7 +24,7 @@
       "lost": "1.50",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-27T23:10:13Z"
+    "fetched_at_utc": "2026-10-27T23:20:12Z"
   },
   "shuju": {
     "title": "热那亚VS尤文图斯(2026/2027意甲)-数据分析-500彩票网",
@@ -753,22 +753,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↓",
-        "handicap": "受半球/一球",
-        "away_water": "0.920↑",
-        "time": "10-28 04:59"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "受半球/一球",
-        "away_water": "0.860",
-        "time": "10-22 09:36"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -782,6 +766,22 @@
         "handicap": "受一球/球半",
         "away_water": "1.650",
         "time": "10-19 03:45"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↓",
+        "handicap": "受半球/一球",
+        "away_water": "0.920↑",
+        "time": "10-28 04:59"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "受半球/一球",
+        "away_water": "0.860",
+        "time": "10-22 09:36"
       }
     },
     {
