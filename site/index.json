@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-27T08:40:24Z",
+  "last_updated_utc": "2026-10-27T08:50:23Z",
   "matches": [
     {
       "xml_id": "2042291",
@@ -182,22 +182,22 @@
       "away_team_id": "935"
     },
     {
-      "xml_id": "2042302",
-      "matchnum": "3002",
+      "xml_id": "2042303",
+      "matchnum": "3003",
       "date": "2026-10-28",
       "dayofweek": "星期三",
-      "league": "亚洲冠军精英联赛",
-      "home": "鹿岛鹿角",
-      "away": "浦项制铁",
-      "spf_win": "1.81",
-      "spf_draw": "3.72",
-      "spf_lost": "3.25",
+      "league": "日本联赛杯",
+      "home": "横滨水手",
+      "away": "广岛三箭",
+      "spf_win": "2.15",
+      "spf_draw": "3.30",
+      "spf_lost": "2.78",
       "spf_updated": "2026-10-27 09:54:01",
-      "gameid": "1473965",
+      "gameid": "1502036",
       "kickoff_cst": "2026-10-28 18:00",
-      "matchnum_label": "周三002",
-      "home_team_id": "1029",
-      "away_team_id": "1608"
+      "matchnum_label": "周三003",
+      "home_team_id": "870",
+      "away_team_id": "845"
     },
     {
       "xml_id": "2042304",
@@ -216,6 +216,24 @@
       "matchnum_label": "周三004",
       "home_team_id": "1922",
       "away_team_id": "1195"
+    },
+    {
+      "xml_id": "2042306",
+      "matchnum": "3006",
+      "date": "2026-10-29",
+      "dayofweek": "星期四",
+      "league": "意大利甲级联赛",
+      "home": "AC米兰",
+      "away": "博洛尼亚",
+      "spf_win": "2.50",
+      "spf_draw": "3.32",
+      "spf_lost": "2.34",
+      "spf_updated": "2026-10-27 14:15:33",
+      "gameid": "1414185",
+      "kickoff_cst": "2026-10-29 01:30",
+      "matchnum_label": "周三006",
+      "home_team_id": "210",
+      "away_team_id": "707"
     },
     {
       "xml_id": "2042311",
@@ -252,6 +270,42 @@
       "matchnum_label": "周三012",
       "home_team_id": "811",
       "away_team_id": "516"
+    },
+    {
+      "xml_id": "2042313",
+      "matchnum": "3013",
+      "date": "2026-10-29",
+      "dayofweek": "星期四",
+      "league": "意大利甲级联赛",
+      "home": "蒙扎",
+      "away": "那不勒斯",
+      "spf_win": "2.01",
+      "spf_draw": "3.50",
+      "spf_lost": "2.90",
+      "spf_updated": "2026-10-27 09:54:01",
+      "gameid": "1414210",
+      "kickoff_cst": "2026-10-29 03:45",
+      "matchnum_label": "周三013",
+      "home_team_id": "346",
+      "away_team_id": "1125"
+    },
+    {
+      "xml_id": "2042314",
+      "matchnum": "3014",
+      "date": "2026-10-29",
+      "dayofweek": "星期四",
+      "league": "意大利甲级联赛",
+      "home": "热那亚",
+      "away": "尤文图斯",
+      "spf_win": "2.19",
+      "spf_draw": "3.20",
+      "spf_lost": "2.78",
+      "spf_updated": "2026-10-27 09:54:01",
+      "gameid": "1414225",
+      "kickoff_cst": "2026-10-29 03:45",
+      "matchnum_label": "周三014",
+      "home_team_id": "1179",
+      "away_team_id": "1330"
     }
   ]
 }
