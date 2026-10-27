@@ -8,9 +8,9 @@
     "away": "柏林联合",
     "kickoff_cst": "2026-10-28 03:45",
     "spf": {
-      "win": "3.22",
+      "win": "3.27",
       "draw": "3.40",
-      "lost": "1.91"
+      "lost": "1.89"
     },
     "asia_main": {
       "handicap": "半球/一球升",
@@ -24,7 +24,7 @@
       "lost": "3.90",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-27T13:00:12Z"
+    "fetched_at_utc": "2026-10-27T13:10:11Z"
   },
   "shuju": {
     "title": "科隆VS柏林联合(2026/2027德国杯)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "半球降",
-        "away_water": "0.980↑",
-        "time": "10-27 19:56"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "半球/一球",
-        "away_water": "0.820",
-        "time": "10-07 18:34"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球/一球",
         "away_water": "0.700",
         "time": "10-05 17:37"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "半球降",
+        "away_water": "0.980↑",
+        "time": "10-27 19:56"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "半球/一球",
+        "away_water": "0.820",
+        "time": "10-07 18:34"
       }
     },
     {
