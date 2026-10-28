@@ -24,7 +24,7 @@
       "lost": "7.90",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-28T01:20:07Z"
+    "fetched_at_utc": "2026-10-28T01:30:08Z"
   },
   "shuju": {
     "title": "鹿岛鹿角VS浦项制铁(2026/2027亚冠杯)-数据分析-500彩票网",
@@ -673,22 +673,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "球半",
-        "away_water": "1.020↑",
-        "time": "10-28 07:20"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "球半",
-        "away_water": "0.980",
-        "time": "10-27 01:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -702,6 +686,22 @@
         "handicap": "球半",
         "away_water": "0.910",
         "time": "10-27 00:51"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "球半",
+        "away_water": "1.020↑",
+        "time": "10-28 07:20"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "球半",
+        "away_water": "0.980",
+        "time": "10-27 01:05"
       }
     },
     {
