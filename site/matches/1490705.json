@@ -24,7 +24,7 @@
       "lost": "1.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-28T06:50:09Z"
+    "fetched_at_utc": "2026-10-28T07:00:07Z"
   },
   "shuju": {
     "title": "帕德博恩VS斯图加特(2026/2027德国杯)-数据分析-500彩票网",
@@ -717,22 +717,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "受一球",
-        "away_water": "0.900↑",
-        "time": "10-28 12:30"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "受一球",
-        "away_water": "0.890",
-        "time": "10-07 20:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -746,6 +730,22 @@
         "handicap": "受一球",
         "away_water": "0.830",
         "time": "10-03 19:56"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "受一球",
+        "away_water": "0.900↑",
+        "time": "10-28 12:30"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "受一球",
+        "away_water": "0.890",
+        "time": "10-07 20:03"
       }
     },
     {
