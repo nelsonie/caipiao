@@ -24,7 +24,7 @@
       "lost": "2.52",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-28T11:00:13Z"
+    "fetched_at_utc": "2026-10-28T11:10:13Z"
   },
   "shuju": {
     "title": "利物浦VS切尔西(2026/2027英联杯)-数据分析-500彩票网",
@@ -683,10 +683,10 @@
       "cid": "4",
       "company": "I**********",
       "live": {
-        "home_water": "1.100↑",
-        "handicap": "半球升",
-        "away_water": "0.700",
-        "time": "10-28 18:30"
+        "home_water": "0.700↓",
+        "handicap": "平手",
+        "away_water": "1.050↑",
+        "time": "10-28 18:56"
       },
       "init": {
         "home_water": "1.050",
@@ -715,16 +715,32 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.870↓",
+        "home_water": "0.890↓",
         "handicap": "平手/半球升",
-        "away_water": "1.020↑",
-        "time": "10-28 18:47"
+        "away_water": "1.010↑",
+        "time": "10-28 19:06"
       },
       "init": {
         "home_water": "1.080",
         "handicap": "平手",
         "away_water": "0.740",
         "time": "10-22 17:19"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.970↓",
+        "time": "10-28 19:07"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "受平手/半球",
+        "away_water": "1.030",
+        "time": "10-14 07:57"
       }
     },
     {
@@ -741,22 +757,6 @@
         "handicap": "平手",
         "away_water": "0.860",
         "time": "09-30 00:56"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.960↓",
-        "time": "10-28 18:36"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "受平手/半球",
-        "away_water": "1.030",
-        "time": "10-14 07:57"
       }
     },
     {
@@ -795,10 +795,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.870↓",
+        "home_water": "0.890↓",
         "handicap": "平手/半球",
-        "away_water": "1.030↑",
-        "time": "10-28 18:49"
+        "away_water": "1.010↑",
+        "time": "10-28 19:08"
       },
       "init": {
         "home_water": "1.080",
@@ -811,10 +811,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.870↓",
         "handicap": "平手/半球",
-        "away_water": "1.040↑",
-        "time": "10-28 18:25"
+        "away_water": "1.050↑",
+        "time": "10-28 19:00"
       },
       "init": {
         "home_water": "1.260",
@@ -843,10 +843,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.870↓",
         "handicap": "平手/半球",
-        "away_water": "1.040↑",
-        "time": "10-28 18:21"
+        "away_water": "1.050↑",
+        "time": "10-28 19:00"
       },
       "init": {
         "home_water": "1.200",
@@ -861,8 +861,8 @@
       "live": {
         "home_water": "0.840↑",
         "handicap": "平手/半球升",
-        "away_water": "0.960↓",
-        "time": "10-28 18:34"
+        "away_water": "0.970↓",
+        "time": "10-28 19:02"
       },
       "init": {
         "home_water": "0.760",
@@ -1333,7 +1333,7 @@
     {
       "cid": "6",
       "company": "伟*",
-      "time": "2026-10-28 17:48:18",
+      "time": "2026-10-28 19:06:26",
       "odds": {
         "live": [
           "2.70",
@@ -1578,7 +1578,7 @@
     {
       "cid": "16",
       "company": "1****",
-      "time": "2026-10-28 18:03:21",
+      "time": "2026-10-28 19:06:46",
       "odds": {
         "live": [
           "2.27",
