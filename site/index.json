@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-28T02:40:12Z",
+  "last_updated_utc": "2026-10-28T02:50:13Z",
   "matches": [
     {
       "xml_id": "2042301",
@@ -27,10 +27,10 @@
       "league": "亚洲冠军精英联赛",
       "home": "鹿岛鹿角",
       "away": "浦项制铁",
-      "spf_win": "1.81",
-      "spf_draw": "3.72",
-      "spf_lost": "3.25",
-      "spf_updated": "2026-10-27 09:54:01",
+      "spf_win": "1.68",
+      "spf_draw": "3.90",
+      "spf_lost": "3.60",
+      "spf_updated": "2026-10-28 10:40:48",
       "gameid": "1473965",
       "kickoff_cst": "2026-10-28 18:00",
       "matchnum_label": "周三002",
@@ -110,24 +110,6 @@
       "away_team_id": "707"
     },
     {
-      "xml_id": "2042307",
-      "matchnum": "3007",
-      "date": "2026-10-29",
-      "dayofweek": "星期四",
-      "league": "意大利甲级联赛",
-      "home": "帕尔马",
-      "away": "乌迪内斯",
-      "spf_win": "1.48",
-      "spf_draw": "3.75",
-      "spf_lost": "5.35",
-      "spf_updated": "2026-10-27 09:54:01",
-      "gameid": "1414220",
-      "kickoff_cst": "2026-10-29 01:30",
-      "matchnum_label": "周三007",
-      "home_team_id": "1149",
-      "away_team_id": "1276"
-    },
-    {
       "xml_id": "2042310",
       "matchnum": "3010",
       "date": "2026-10-29",
@@ -146,22 +128,22 @@
       "away_team_id": "1361"
     },
     {
-      "xml_id": "2042311",
-      "matchnum": "3011",
+      "xml_id": "2042312",
+      "matchnum": "3012",
       "date": "2026-10-29",
       "dayofweek": "星期四",
       "league": "英格兰联赛杯",
-      "home": "伯恩茅斯",
-      "away": "阿斯顿维拉",
-      "spf_win": "4.05",
-      "spf_draw": "3.90",
-      "spf_lost": "1.60",
+      "home": "富勒姆",
+      "away": "水晶宫",
+      "spf_win": "3.05",
+      "spf_draw": "3.60",
+      "spf_lost": "1.91",
       "spf_updated": "2026-10-27 09:54:01",
-      "gameid": "1493657",
+      "gameid": "1493661",
       "kickoff_cst": "2026-10-29 03:45",
-      "matchnum_label": "周三011",
-      "home_team_id": "667",
-      "away_team_id": "555"
+      "matchnum_label": "周三012",
+      "home_team_id": "811",
+      "away_team_id": "516"
     },
     {
       "xml_id": "2042313",
