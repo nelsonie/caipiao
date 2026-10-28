@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-28T03:40:13Z",
+  "last_updated_utc": "2026-10-28T03:50:17Z",
   "matches": [
     {
       "xml_id": "2042301",
@@ -146,24 +146,6 @@
       "away_team_id": "1303"
     },
     {
-      "xml_id": "2042309",
-      "matchnum": "3009",
-      "date": "2026-10-29",
-      "dayofweek": "星期四",
-      "league": "瑞典超级联赛",
-      "home": "布鲁马波卡纳",
-      "away": "赫根",
-      "spf_win": "2.13",
-      "spf_draw": "3.60",
-      "spf_lost": "2.62",
-      "spf_updated": "2026-10-28 11:09:50",
-      "gameid": "1362817",
-      "kickoff_cst": "2026-10-29 02:00",
-      "matchnum_label": "周三009",
-      "home_team_id": "1764",
-      "away_team_id": "850"
-    },
-    {
       "xml_id": "2042310",
       "matchnum": "3010",
       "date": "2026-10-29",
@@ -198,24 +180,6 @@
       "matchnum_label": "周三011",
       "home_team_id": "667",
       "away_team_id": "555"
-    },
-    {
-      "xml_id": "2042312",
-      "matchnum": "3012",
-      "date": "2026-10-29",
-      "dayofweek": "星期四",
-      "league": "英格兰联赛杯",
-      "home": "富勒姆",
-      "away": "水晶宫",
-      "spf_win": "3.05",
-      "spf_draw": "3.60",
-      "spf_lost": "1.91",
-      "spf_updated": "2026-10-27 09:54:01",
-      "gameid": "1493661",
-      "kickoff_cst": "2026-10-29 03:45",
-      "matchnum_label": "周三012",
-      "home_team_id": "811",
-      "away_team_id": "516"
     },
     {
       "xml_id": "2042313",
@@ -288,24 +252,6 @@
       "matchnum_label": "周三016",
       "home_team_id": "1578",
       "away_team_id": "1582"
-    },
-    {
-      "xml_id": "2042317",
-      "matchnum": "3017",
-      "date": "2026-10-29",
-      "dayofweek": "星期四",
-      "league": "美国职业大联盟",
-      "home": "迈阿密国际",
-      "away": "辛辛那提FC",
-      "spf_win": "2.08",
-      "spf_draw": "3.90",
-      "spf_lost": "2.55",
-      "spf_updated": "2026-10-28 09:37:00",
-      "gameid": "1358432",
-      "kickoff_cst": "2026-10-29 07:30",
-      "matchnum_label": "周三017",
-      "home_team_id": "12213",
-      "away_team_id": "8807"
     }
   ]
 }
