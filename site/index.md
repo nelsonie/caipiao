@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-10-28T23:30:05Z'
-total_matches: 1
-leagues_covered:
-- 美国职业大联盟
+last_updated_utc: '2026-10-28T23:40:06Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 美国职业大联盟 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 3017 | 2026-10-29 星期四 | 迈阿密国际 vs 辛辛那提FC | 1.89/4.10/2.81 | [1358432](matches/1358432.md) |
