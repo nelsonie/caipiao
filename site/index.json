@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-28T08:10:17Z",
+  "last_updated_utc": "2026-10-28T08:20:16Z",
   "matches": [
     {
       "xml_id": "2042301",
@@ -45,10 +45,10 @@
       "league": "日本联赛杯",
       "home": "横滨水手",
       "away": "广岛三箭",
-      "spf_win": "2.62",
+      "spf_win": "2.85",
       "spf_draw": "3.20",
-      "spf_lost": "2.30",
-      "spf_updated": "2026-10-28 16:02:13",
+      "spf_lost": "2.15",
+      "spf_updated": "2026-10-28 16:09:57",
       "gameid": "1502036",
       "kickoff_cst": "2026-10-28 18:00",
       "matchnum_label": "周三003",
@@ -82,9 +82,9 @@
       "home": "威尼斯",
       "away": "国际米兰",
       "spf_win": "3.50",
-      "spf_draw": "4.08",
-      "spf_lost": "1.67",
-      "spf_updated": "2026-10-28 13:33:10",
+      "spf_draw": "4.27",
+      "spf_lost": "1.64",
+      "spf_updated": "2026-10-28 16:07:21",
       "gameid": "1414163",
       "kickoff_cst": "2026-10-29 01:30",
       "matchnum_label": "周三005",
@@ -117,10 +117,10 @@
       "league": "意大利甲级联赛",
       "home": "帕尔马",
       "away": "乌迪内斯",
-      "spf_win": "1.43",
+      "spf_win": "1.41",
       "spf_draw": "3.90",
-      "spf_lost": "5.75",
-      "spf_updated": "2026-10-28 12:55:46",
+      "spf_lost": "6.10",
+      "spf_updated": "2026-10-28 16:13:06",
       "gameid": "1414220",
       "kickoff_cst": "2026-10-29 01:30",
       "matchnum_label": "周三007",
@@ -288,6 +288,24 @@
       "matchnum_label": "周三016",
       "home_team_id": "1578",
       "away_team_id": "1582"
+    },
+    {
+      "xml_id": "2042317",
+      "matchnum": "3017",
+      "date": "2026-10-29",
+      "dayofweek": "星期四",
+      "league": "美国职业大联盟",
+      "home": "迈阿密国际",
+      "away": "辛辛那提FC",
+      "spf_win": "2.00",
+      "spf_draw": "3.98",
+      "spf_lost": "2.65",
+      "spf_updated": "2026-10-28 13:12:26",
+      "gameid": "1358432",
+      "kickoff_cst": "2026-10-29 07:30",
+      "matchnum_label": "周三017",
+      "home_team_id": "12213",
+      "away_team_id": "8807"
     }
   ]
 }
