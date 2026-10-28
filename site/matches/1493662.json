@@ -24,7 +24,7 @@
       "lost": "2.52",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-28T09:00:14Z"
+    "fetched_at_utc": "2026-10-28T09:10:14Z"
   },
   "shuju": {
     "title": "利物浦VS切尔西(2026/2027英联杯)-数据分析-500彩票网",
@@ -717,30 +717,14 @@
       "live": {
         "home_water": "0.890↓",
         "handicap": "平手/半球升",
-        "away_water": "1.010↑",
-        "time": "10-28 16:21"
+        "away_water": "1.000↑",
+        "time": "10-28 17:00"
       },
       "init": {
         "home_water": "1.080",
         "handicap": "平手",
         "away_water": "0.740",
         "time": "10-22 17:19"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.960↓",
-        "time": "10-28 16:45"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "受平手/半球",
-        "away_water": "1.030",
-        "time": "10-14 07:57"
       }
     },
     {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.860",
         "time": "09-30 00:56"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.950↓",
+        "time": "10-28 17:00"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "受平手/半球",
+        "away_water": "1.030",
+        "time": "10-14 07:57"
       }
     },
     {
@@ -811,10 +811,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.930↓",
+        "home_water": "0.900↓",
         "handicap": "平手/半球",
-        "away_water": "0.970↑",
-        "time": "10-28 16:49"
+        "away_water": "1.000↑",
+        "time": "10-28 17:08"
       },
       "init": {
         "home_water": "1.260",
@@ -843,10 +843,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.930↓",
+        "home_water": "0.900↓",
         "handicap": "平手/半球",
-        "away_water": "0.970↑",
-        "time": "10-28 16:49"
+        "away_water": "1.000↑",
+        "time": "10-28 17:01"
       },
       "init": {
         "home_water": "1.200",
@@ -859,10 +859,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.880↑",
+        "home_water": "0.870↑",
         "handicap": "平手/半球升",
-        "away_water": "0.920↓",
-        "time": "10-28 16:47"
+        "away_water": "0.930↓",
+        "time": "10-28 16:59"
       },
       "init": {
         "home_water": "0.760",
