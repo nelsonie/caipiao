@@ -24,7 +24,7 @@
       "lost": "5.40",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-28T13:10:11Z"
+    "fetched_at_utc": "2026-10-28T13:20:13Z"
   },
   "shuju": {
     "title": "AC米兰VS博洛尼亚(2026/2027意甲)-数据分析-500彩票网",
@@ -783,22 +783,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.940↑",
-        "time": "10-28 21:04"
-      },
-      "init": {
-        "home_water": "1.070",
-        "handicap": "一球",
-        "away_water": "0.830",
-        "time": "10-22 08:26"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -812,6 +796,22 @@
         "handicap": "球半",
         "away_water": "0.600",
         "time": "10-19 03:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.940↑",
+        "time": "10-28 21:04"
+      },
+      "init": {
+        "home_water": "1.070",
+        "handicap": "一球",
+        "away_water": "0.830",
+        "time": "10-22 08:26"
       }
     },
     {
@@ -866,10 +866,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "1.000↓",
+        "home_water": "0.990↓",
         "handicap": "半球/一球降",
-        "away_water": "0.940↑",
-        "time": "10-28 21:04"
+        "away_water": "0.950↑",
+        "time": "10-28 21:07"
       },
       "init": {
         "home_water": "1.090",
@@ -2172,7 +2172,7 @@
     {
       "cid": "1488",
       "company": "大**",
-      "time": "2026-10-28 19:09:33",
+      "time": "2026-10-28 20:39:17",
       "odds": {
         "live": [
           "1.61",
