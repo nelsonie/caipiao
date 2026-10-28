@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-28T06:20:18Z",
+  "last_updated_utc": "2026-10-28T06:30:16Z",
   "matches": [
     {
       "xml_id": "2042301",
@@ -9,10 +9,10 @@
       "league": "亚洲冠军精英联赛",
       "home": "大阪钢巴",
       "away": "布里兰",
-      "spf_win": "2.34",
+      "spf_win": "2.30",
       "spf_draw": "3.65",
-      "spf_lost": "2.34",
-      "spf_updated": "2026-10-28 13:33:43",
+      "spf_lost": "2.38",
+      "spf_updated": "2026-10-28 14:26:12",
       "gameid": "1473930",
       "kickoff_cst": "2026-10-28 18:00",
       "matchnum_label": "周三001",
@@ -128,6 +128,24 @@
       "away_team_id": "1276"
     },
     {
+      "xml_id": "2042308",
+      "matchnum": "3008",
+      "date": "2026-10-29",
+      "dayofweek": "星期四",
+      "league": "荷兰杯",
+      "home": "鹿特丹斯巴达",
+      "away": "福图纳锡塔德",
+      "spf_win": "3.40",
+      "spf_draw": "3.65",
+      "spf_lost": "1.78",
+      "spf_updated": "2026-10-28 09:37:00",
+      "gameid": "1499592",
+      "kickoff_cst": "2026-10-29 01:45",
+      "matchnum_label": "周三008",
+      "home_team_id": "518",
+      "away_team_id": "1303"
+    },
+    {
       "xml_id": "2042309",
       "matchnum": "3009",
       "date": "2026-10-29",
@@ -236,40 +254,22 @@
       "away_team_id": "1330"
     },
     {
-      "xml_id": "2042315",
-      "matchnum": "3015",
+      "xml_id": "2042317",
+      "matchnum": "3017",
       "date": "2026-10-29",
       "dayofweek": "星期四",
-      "league": "英格兰联赛杯",
-      "home": "利物浦",
-      "away": "切尔西",
-      "spf_win": "3.70",
-      "spf_draw": "3.85",
-      "spf_lost": "1.67",
-      "spf_updated": "2026-10-28 12:05:59",
-      "gameid": "1493662",
-      "kickoff_cst": "2026-10-29 04:00",
-      "matchnum_label": "周三015",
-      "home_team_id": "1011",
-      "away_team_id": "1173"
-    },
-    {
-      "xml_id": "2042316",
-      "matchnum": "3016",
-      "date": "2026-10-29",
-      "dayofweek": "星期四",
-      "league": "巴西甲级联赛",
-      "home": "弗鲁米嫩塞",
-      "away": "巴西国际",
-      "spf_win": "3.20",
-      "spf_draw": "3.32",
-      "spf_lost": "1.94",
-      "spf_updated": "2026-10-28 09:37:00",
-      "gameid": "1362502",
-      "kickoff_cst": "2026-10-29 06:30",
-      "matchnum_label": "周三016",
-      "home_team_id": "1578",
-      "away_team_id": "1582"
+      "league": "美国职业大联盟",
+      "home": "迈阿密国际",
+      "away": "辛辛那提FC",
+      "spf_win": "2.00",
+      "spf_draw": "3.98",
+      "spf_lost": "2.65",
+      "spf_updated": "2026-10-28 13:12:26",
+      "gameid": "1358432",
+      "kickoff_cst": "2026-10-29 07:30",
+      "matchnum_label": "周三017",
+      "home_team_id": "12213",
+      "away_team_id": "8807"
     }
   ]
 }
