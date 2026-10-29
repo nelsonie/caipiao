@@ -24,7 +24,7 @@
       "lost": "2.77",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-29T12:20:11Z"
+    "fetched_at_utc": "2026-10-29T12:30:13Z"
   },
   "shuju": {
     "title": "福伦丹VS格拉夫夏普(2026/2027荷乙)-数据分析-500彩票网",
@@ -732,22 +732,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.710↑",
-        "handicap": "平手/半球",
-        "away_water": "1.020↓",
-        "time": "10-28 17:38"
-      },
-      "init": {
-        "home_water": "0.700",
-        "handicap": "平手/半球",
-        "away_water": "1.030",
-        "time": "10-24 04:08"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -761,6 +745,22 @@
         "handicap": "平手/半球",
         "away_water": "0.990",
         "time": "10-27 04:12"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.710↑",
+        "handicap": "平手/半球",
+        "away_water": "1.020↓",
+        "time": "10-28 17:38"
+      },
+      "init": {
+        "home_water": "0.700",
+        "handicap": "平手/半球",
+        "away_water": "1.030",
+        "time": "10-24 04:08"
       }
     },
     {
