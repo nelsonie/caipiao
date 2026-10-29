@@ -24,7 +24,7 @@
       "lost": "2.40",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-29T07:30:10Z"
+    "fetched_at_utc": "2026-10-29T07:40:10Z"
   },
   "shuju": {
     "title": "布里斯班狮吼VS奥克兰FC(2026/2027澳超)-数据分析-500彩票网",
@@ -697,22 +697,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.030↓",
-        "handicap": "平手",
-        "away_water": "0.830↑",
-        "time": "10-28 18:02"
-      },
-      "init": {
-        "home_water": "1.500",
-        "handicap": "平手",
-        "away_water": "0.570",
-        "time": "10-21 05:34"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -726,6 +710,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.820",
         "time": "10-24 08:30"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.030↓",
+        "handicap": "平手",
+        "away_water": "0.830↑",
+        "time": "10-28 18:02"
+      },
+      "init": {
+        "home_water": "1.500",
+        "handicap": "平手",
+        "away_water": "0.570",
+        "time": "10-21 05:34"
       }
     },
     {
