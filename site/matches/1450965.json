@@ -24,7 +24,7 @@
       "lost": "2.40",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-29T13:10:09Z"
+    "fetched_at_utc": "2026-10-29T13:20:10Z"
   },
   "shuju": {
     "title": "布里斯班狮吼VS奥克兰FC(2026/2027澳超)-数据分析-500彩票网",
@@ -684,32 +684,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "1.010↑",
         "handicap": "平手升",
-        "away_water": "0.790↓",
-        "time": "10-29 18:29"
+        "away_water": "0.800↓",
+        "time": "10-29 20:14"
       },
       "init": {
         "home_water": "0.750",
         "handicap": "受平手/半球",
         "away_water": "1.030",
         "time": "10-25 04:50"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "平手升",
-        "away_water": "0.810↓",
-        "time": "10-29 18:20"
-      },
-      "init": {
-        "home_water": "1.020",
-        "handicap": "受平手/半球",
-        "away_water": "0.820",
-        "time": "10-24 08:30"
       }
     },
     {
@@ -726,6 +710,22 @@
         "handicap": "平手",
         "away_water": "0.570",
         "time": "10-21 05:34"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "平手升",
+        "away_water": "0.810↓",
+        "time": "10-29 18:20"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "受平手/半球",
+        "away_water": "0.820",
+        "time": "10-24 08:30"
       }
     },
     {
@@ -764,10 +764,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "1.060↓",
+        "home_water": "1.050↓",
         "handicap": "平手",
-        "away_water": "0.840↑",
-        "time": "10-29 01:16"
+        "away_water": "0.850↑",
+        "time": "10-29 20:12"
       },
       "init": {
         "home_water": "1.140",
@@ -780,10 +780,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "1.070↓",
+        "home_water": "1.060↓",
         "handicap": "平手",
-        "away_water": "0.820↑",
-        "time": "10-29 18:19"
+        "away_water": "0.830↑",
+        "time": "10-29 20:11"
       },
       "init": {
         "home_water": "1.110",
@@ -812,10 +812,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "1.070↓",
+        "home_water": "1.060↓",
         "handicap": "平手",
-        "away_water": "0.820↑",
-        "time": "10-29 18:23"
+        "away_water": "0.830↑",
+        "time": "10-29 20:11"
       },
       "init": {
         "home_water": "1.110",
