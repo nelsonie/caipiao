@@ -24,7 +24,7 @@
       "lost": "2.21",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-30T05:30:22Z"
+    "fetched_at_utc": "2026-10-30T05:40:15Z"
   },
   "shuju": {
     "title": "麦克阿瑟FCVS西悉尼漫步者(2026/2027澳超)-数据分析-500彩票网",
@@ -708,22 +708,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "平手",
-        "away_water": "0.870↓",
-        "time": "10-29 16:29"
-      },
-      "init": {
-        "home_water": "0.610",
-        "handicap": "平手",
-        "away_water": "1.400",
-        "time": "10-21 05:34"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -737,6 +721,22 @@
         "handicap": "平手",
         "away_water": "1.040",
         "time": "10-25 08:58"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "平手",
+        "away_water": "0.870↓",
+        "time": "10-29 16:29"
+      },
+      "init": {
+        "home_water": "0.610",
+        "handicap": "平手",
+        "away_water": "1.400",
+        "time": "10-21 05:34"
       }
     },
     {
