@@ -12,9 +12,14 @@
       "draw": "3.80",
       "lost": "4.35"
     },
-    "asia_main": null,
+    "asia_main": {
+      "handicap": "受平手/半球",
+      "home_water": "0.730↓",
+      "away_water": "1.000↑",
+      "company": "威***"
+    },
     "euro_main": null,
-    "fetched_at_utc": "2026-10-30T13:50:54Z"
+    "fetched_at_utc": "2026-10-30T14:00:46Z"
   },
   "shuju": {
     "title": "利物浦VS阿森纳(2026/2027英超)-数据分析-500彩票网",
@@ -400,6 +405,263 @@
       }
     }
   },
-  "yazhi": [],
+  "yazhi": [
+    {
+      "cid": "293",
+      "company": "威***",
+      "live": {
+        "home_water": "0.730↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.000↑",
+        "time": "10-29 22:32"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "受平手/半球",
+        "away_water": "0.800",
+        "time": "10-18 03:56"
+      }
+    },
+    {
+      "cid": "5",
+      "company": "*门",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.040↑",
+        "time": "10-30 20:51"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "受平手/半球",
+        "away_water": "0.980",
+        "time": "10-26 18:15"
+      }
+    },
+    {
+      "cid": "3",
+      "company": "B*****",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.050↑",
+        "time": "10-30 04:23"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "受平手/半球",
+        "away_water": "0.850",
+        "time": "10-18 03:14"
+      }
+    },
+    {
+      "cid": "4",
+      "company": "I**********",
+      "live": {
+        "home_water": "1.050↑",
+        "handicap": "平手升",
+        "away_water": "0.700↓",
+        "time": "10-28 21:42"
+      },
+      "init": {
+        "home_water": "0.700",
+        "handicap": "受半球",
+        "away_water": "1.150",
+        "time": "10-19 02:33"
+      }
+    },
+    {
+      "cid": "280",
+      "company": "*冠",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.050↑",
+        "time": "10-30 00:04"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "受平手/半球",
+        "away_water": "0.890",
+        "time": "10-19 10:04"
+      }
+    },
+    {
+      "cid": "9",
+      "company": "易**",
+      "live": {
+        "home_water": "0.790↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.120↑",
+        "time": "10-30 13:23"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "受平手/半球",
+        "away_water": "1.020",
+        "time": "10-27 15:58"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.780↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.020↑",
+        "time": "10-30 20:49"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "受平手/半球",
+        "away_water": "0.870",
+        "time": "10-22 15:34"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "受平手/半球降",
+        "away_water": "1.070↑",
+        "time": "10-29 23:46"
+      },
+      "init": {
+        "home_water": "1.480",
+        "handicap": "平手",
+        "away_water": "0.640",
+        "time": "10-18 00:31"
+      }
+    },
+    {
+      "cid": "1055",
+      "company": "P*********",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.090↑",
+        "time": "10-30 08:41"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "受平手/半球",
+        "away_water": "0.830",
+        "time": "10-19 03:31"
+      }
+    },
+    {
+      "cid": "16",
+      "company": "1****",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "受平手/半球",
+        "away_water": "0.950↑",
+        "time": "10-28 05:09"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "受平手/半球",
+        "away_water": "0.870",
+        "time": "10-27 10:21"
+      }
+    },
+    {
+      "cid": "651",
+      "company": "利*",
+      "live": {
+        "home_water": "0.790↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.120↑",
+        "time": "10-30 01:06"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "受平手/半球",
+        "away_water": "0.930",
+        "time": "10-21 04:32"
+      }
+    },
+    {
+      "cid": "140",
+      "company": "M*************",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.060↑",
+        "time": "10-30 20:43"
+      },
+      "init": {
+        "home_water": "1.040",
+        "handicap": "受平手/半球",
+        "away_water": "0.840",
+        "time": "10-19 21:40"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香***",
+      "live": {
+        "home_water": "0.760",
+        "handicap": "受平手/半球",
+        "away_water": "1.020",
+        "time": "10-29 19:36"
+      },
+      "init": {
+        "home_water": "0.760",
+        "handicap": "受平手/半球",
+        "away_water": "1.020",
+        "time": "10-29 19:36"
+      }
+    },
+    {
+      "cid": "502",
+      "company": "1**********",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.000↑",
+        "time": "10-28 12:11"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "受平手/半球",
+        "away_water": "0.880",
+        "time": "10-19 18:49"
+      }
+    },
+    {
+      "cid": "863",
+      "company": "1****",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "受平手/半球",
+        "away_water": "0.990↑",
+        "time": "10-30 20:47"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "受平手/半球",
+        "away_water": "0.830",
+        "time": "10-18 00:31"
+      }
+    },
+    {
+      "cid": "537",
+      "company": "W**********",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "受平手/半球",
+        "away_water": "1.060↑",
+        "time": "10-30 00:12"
+      },
+      "init": {
+        "home_water": "1.010",
+        "handicap": "受平手/半球",
+        "away_water": "0.870",
+        "time": "10-18 01:25"
+      }
+    }
+  ],
   "ouzhi": []
 }
