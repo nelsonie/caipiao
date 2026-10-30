@@ -24,7 +24,7 @@
       "lost": "7.05",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-30T08:10:30Z"
+    "fetched_at_utc": "2026-10-30T08:20:36Z"
   },
   "shuju": {
     "title": "拜仁慕尼黑VS多特蒙德(2026/2027德甲)-数据分析-500彩票网",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "球半/两球",
-        "away_water": "0.820↓",
-        "time": "10-30 13:36"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "球半/两球",
-        "away_water": "0.880",
-        "time": "10-19 04:42"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "球半/两球",
         "away_water": "1.010",
         "time": "10-19 04:09"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "球半/两球",
+        "away_water": "0.820↓",
+        "time": "10-30 13:36"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "球半/两球",
+        "away_water": "0.880",
+        "time": "10-19 04:42"
       }
     },
     {
