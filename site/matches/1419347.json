@@ -24,7 +24,7 @@
       "lost": "1.84",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T02:10:07Z"
+    "fetched_at_utc": "2026-10-31T02:20:10Z"
   },
   "shuju": {
     "title": "冈山绿雉VS东京FC(2026/2027日职)-数据分析-500彩票网",
@@ -706,22 +706,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.160↑",
-        "handicap": "受平手/半球",
-        "away_water": "0.700↓",
-        "time": "10-29 17:42"
-      },
-      "init": {
-        "home_water": "1.060",
-        "handicap": "受平手/半球",
-        "away_water": "0.780",
-        "time": "10-25 15:50"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -735,6 +719,22 @@
         "handicap": "受半球",
         "away_water": "1.040",
         "time": "10-25 16:04"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.160↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.700↓",
+        "time": "10-29 17:42"
+      },
+      "init": {
+        "home_water": "1.060",
+        "handicap": "受平手/半球",
+        "away_water": "0.780",
+        "time": "10-25 15:50"
       }
     },
     {
