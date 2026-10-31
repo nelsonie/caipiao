@@ -24,7 +24,7 @@
       "lost": "3.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T10:20:48Z"
+    "fetched_at_utc": "2026-10-31T10:30:46Z"
   },
   "shuju": {
     "title": "维塞乌VS里奥阿维(2026/2027葡超)-数据分析-500彩票网",
@@ -736,22 +736,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.710↑",
-        "handicap": "平手/半球升",
-        "away_water": "1.230↓",
-        "time": "10-30 06:35"
-      },
-      "init": {
-        "home_water": "0.560",
-        "handicap": "平手",
-        "away_water": "1.560",
-        "time": "10-26 02:11"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -765,6 +749,22 @@
         "handicap": "半球",
         "away_water": "0.780",
         "time": "10-27 02:14"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.710↑",
+        "handicap": "平手/半球升",
+        "away_water": "1.230↓",
+        "time": "10-30 06:35"
+      },
+      "init": {
+        "home_water": "0.560",
+        "handicap": "平手",
+        "away_water": "1.560",
+        "time": "10-26 02:11"
       }
     },
     {

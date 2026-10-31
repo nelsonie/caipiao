@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "平手/半球",
-      "home_water": "0.730",
-      "away_water": "1.000",
+      "home_water": "0.700↓",
+      "away_water": "0.910↓",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "3.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T10:20:25Z"
+    "fetched_at_utc": "2026-10-31T10:30:21Z"
   },
   "shuju": {
     "title": "布伦特福德VS诺丁汉森林(2026/2027英超)-数据分析-500彩票网",
@@ -619,10 +619,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.730",
+        "home_water": "0.700↓",
         "handicap": "平手/半球",
-        "away_water": "1.000",
-        "time": "10-31 12:45"
+        "away_water": "0.910↓",
+        "time": "10-31 18:25"
       },
       "init": {
         "home_water": "0.730",
@@ -811,10 +811,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.890↓",
+        "home_water": "0.900↓",
         "handicap": "平手/半球降",
-        "away_water": "1.040↑",
-        "time": "10-31 17:58"
+        "away_water": "1.030↑",
+        "time": "10-31 18:20"
       },
       "init": {
         "home_water": "1.020",
@@ -859,10 +859,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.850↑",
+        "home_water": "0.860↑",
         "handicap": "平手/半球降",
         "away_water": "0.970↓",
-        "time": "10-31 17:59"
+        "time": "10-31 18:21"
       },
       "init": {
         "home_water": "0.790",
