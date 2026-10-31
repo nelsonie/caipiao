@@ -24,7 +24,7 @@
       "lost": "1.66",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T09:10:22Z"
+    "fetched_at_utc": "2026-10-31T09:20:22Z"
   },
   "shuju": {
     "title": "腓特烈斯塔VS罗森博格(2026挪超)-数据分析-500彩票网",
@@ -688,10 +688,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.890↓",
         "handicap": "受半球/一球降",
-        "away_water": "1.010↑",
-        "time": "10-31 13:44"
+        "away_water": "1.000↑",
+        "time": "10-31 16:58"
       },
       "init": {
         "home_water": "0.990",
@@ -704,32 +704,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.860↓",
+        "home_water": "0.880↓",
         "handicap": "受半球/一球降",
-        "away_water": "1.040↑",
-        "time": "10-31 14:22"
+        "away_water": "1.020↑",
+        "time": "10-31 17:05"
       },
       "init": {
         "home_water": "0.990",
         "handicap": "受半球",
         "away_water": "0.860",
         "time": "10-26 13:32"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "受半球/一球降",
-        "away_water": "1.000↑",
-        "time": "10-31 13:55"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "受半球",
-        "away_water": "0.830",
-        "time": "10-26 23:25"
       }
     },
     {
@@ -746,6 +730,22 @@
         "handicap": "平手",
         "away_water": "0.570",
         "time": "10-24 23:37"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "受半球/一球降",
+        "away_water": "0.990↑",
+        "time": "10-31 17:08"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "受半球",
+        "away_water": "0.830",
+        "time": "10-26 23:25"
       }
     },
     {
@@ -784,10 +784,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.860↓",
+        "home_water": "0.880↓",
         "handicap": "受半球/一球降",
-        "away_water": "1.040↑",
-        "time": "10-31 14:22"
+        "away_water": "1.020↑",
+        "time": "10-31 17:07"
       },
       "init": {
         "home_water": "0.980",
