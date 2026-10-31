@@ -24,7 +24,7 @@
       "lost": "4.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T00:40:23Z"
+    "fetched_at_utc": "2026-10-31T00:50:23Z"
   },
   "shuju": {
     "title": "托特纳姆热刺VS水晶宫(2026/2027英超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.950↓",
-        "handicap": "一球降",
-        "away_water": "0.870↑",
-        "time": "10-31 08:26"
-      },
-      "init": {
-        "home_water": "2.130",
-        "handicap": "球半",
-        "away_water": "0.440",
-        "time": "10-18 00:20"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "半球/一球",
         "away_water": "0.860",
         "time": "10-18 02:38"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.950↓",
+        "handicap": "一球降",
+        "away_water": "0.870↑",
+        "time": "10-31 08:26"
+      },
+      "init": {
+        "home_water": "2.130",
+        "handicap": "球半",
+        "away_water": "0.440",
+        "time": "10-18 00:20"
       }
     },
     {
