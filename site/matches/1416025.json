@@ -24,7 +24,7 @@
       "lost": "1.40",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T11:00:42Z"
+    "fetched_at_utc": "2026-10-31T11:10:33Z"
   },
   "shuju": {
     "title": "SBV精英VS特温特(2026/2027荷甲)-数据分析-500彩票网",
@@ -738,22 +738,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "受一球",
-        "away_water": "0.950↑",
-        "time": "10-31 16:00"
-      },
-      "init": {
-        "home_water": "0.990",
-        "handicap": "受一球",
-        "away_water": "0.860",
-        "time": "10-25 21:58"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -767,6 +751,22 @@
         "handicap": "受球半",
         "away_water": "1.330",
         "time": "10-19 22:02"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "受一球",
+        "away_water": "0.950↑",
+        "time": "10-31 16:00"
+      },
+      "init": {
+        "home_water": "0.990",
+        "handicap": "受一球",
+        "away_water": "0.860",
+        "time": "10-25 21:58"
       }
     },
     {
