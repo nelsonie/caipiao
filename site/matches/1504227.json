@@ -24,7 +24,7 @@
       "lost": "3.18",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T11:50:33Z"
+    "fetched_at_utc": "2026-10-31T12:00:30Z"
   },
   "shuju": {
     "title": "蔚山现代VS江原FC(2026K1联赛)-数据分析-500彩票网",
@@ -715,22 +715,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "平手/半球",
-        "away_water": "0.890↑",
-        "time": "10-29 10:59"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "平手/半球",
-        "away_water": "0.820",
-        "time": "10-27 10:19"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -743,6 +727,22 @@
         "home_water": "0.920",
         "handicap": "平手/半球",
         "away_water": "0.870",
+        "time": "10-27 10:19"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "平手/半球",
+        "away_water": "0.890↑",
+        "time": "10-29 10:59"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "平手/半球",
+        "away_water": "0.820",
         "time": "10-27 10:19"
       }
     },

@@ -24,7 +24,7 @@
       "lost": "2.94",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T11:50:38Z"
+    "fetched_at_utc": "2026-10-31T12:00:31Z"
   },
   "shuju": {
     "title": "兹沃勒VS海牙(2026/2027荷甲)-数据分析-500彩票网",
@@ -742,22 +742,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↓",
-        "handicap": "平手/半球",
-        "away_water": "0.890↑",
-        "time": "10-30 20:55"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "平手/半球",
-        "away_water": "0.870",
-        "time": "10-25 19:47"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -771,6 +755,22 @@
         "handicap": "平手",
         "away_water": "1.180",
         "time": "10-19 22:02"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↓",
+        "handicap": "平手/半球",
+        "away_water": "0.890↑",
+        "time": "10-30 20:55"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "平手/半球",
+        "away_water": "0.870",
+        "time": "10-25 19:47"
       }
     },
     {
