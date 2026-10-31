@@ -24,7 +24,7 @@
       "lost": "1.66",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T05:00:22Z"
+    "fetched_at_utc": "2026-10-31T05:10:18Z"
   },
   "shuju": {
     "title": "腓特烈斯塔VS罗森博格(2026挪超)-数据分析-500彩票网",
@@ -717,22 +717,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "受半球/一球降",
-        "away_water": "1.010↑",
-        "time": "10-31 10:22"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "受半球",
-        "away_water": "0.830",
-        "time": "10-26 23:25"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -746,6 +730,22 @@
         "handicap": "平手",
         "away_water": "0.570",
         "time": "10-24 23:37"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↓",
+        "handicap": "受半球/一球降",
+        "away_water": "1.010↑",
+        "time": "10-31 10:22"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "受半球",
+        "away_water": "0.830",
+        "time": "10-26 23:25"
       }
     },
     {
