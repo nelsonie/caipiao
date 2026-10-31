@@ -24,7 +24,7 @@
       "lost": "1.84",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T02:40:08Z"
+    "fetched_at_utc": "2026-10-31T02:50:10Z"
   },
   "shuju": {
     "title": "冈山绿雉VS东京FC(2026/2027日职)-数据分析-500彩票网",
@@ -693,32 +693,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.950↓",
+        "home_water": "0.960↓",
         "handicap": "受半球降",
-        "away_water": "0.920↑",
-        "time": "10-31 10:08"
+        "away_water": "0.910↑",
+        "time": "10-31 10:38"
       },
       "init": {
         "home_water": "1.050",
         "handicap": "受平手/半球",
         "away_water": "0.770",
         "time": "10-26 06:33"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "受半球",
-        "away_water": "0.910↓",
-        "time": "10-31 10:30"
-      },
-      "init": {
-        "home_water": "0.760",
-        "handicap": "受半球",
-        "away_water": "1.040",
-        "time": "10-25 16:04"
       }
     },
     {
@@ -735,6 +719,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.780",
         "time": "10-25 15:50"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↑",
+        "handicap": "受半球",
+        "away_water": "0.900↓",
+        "time": "10-31 10:35"
+      },
+      "init": {
+        "home_water": "0.760",
+        "handicap": "受半球",
+        "away_water": "1.040",
+        "time": "10-25 16:04"
       }
     },
     {
@@ -757,10 +757,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.970↓",
+        "home_water": "0.990↓",
         "handicap": "受半球降",
-        "away_water": "0.930↑",
-        "time": "10-31 09:06"
+        "away_water": "0.910↑",
+        "time": "10-31 10:36"
       },
       "init": {
         "home_water": "1.130",
@@ -823,8 +823,8 @@
       "live": {
         "home_water": "0.910↑",
         "handicap": "受半球",
-        "away_water": "0.900↓",
-        "time": "10-31 10:16"
+        "away_water": "0.890↓",
+        "time": "10-31 10:33"
       },
       "init": {
         "home_water": "0.740",
@@ -837,10 +837,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.980↓",
+        "home_water": "0.990↓",
         "handicap": "受半球降",
-        "away_water": "0.920↑",
-        "time": "10-31 10:15"
+        "away_water": "0.910↑",
+        "time": "10-31 10:33"
       },
       "init": {
         "home_water": "1.050",
