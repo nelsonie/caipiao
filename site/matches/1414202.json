@@ -24,7 +24,7 @@
       "lost": "7.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T02:30:33Z"
+    "fetched_at_utc": "2026-10-31T02:40:31Z"
   },
   "shuju": {
     "title": "科莫VS威尼斯(2026/2027意甲)-数据分析-500彩票网",
@@ -768,22 +768,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "球半/两球",
-        "away_water": "0.860↓",
-        "time": "10-31 08:27"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "球半/两球",
-        "away_water": "0.890",
-        "time": "10-26 08:33"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -797,6 +781,22 @@
         "handicap": "球半",
         "away_water": "1.020",
         "time": "10-25 23:57"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "球半/两球",
+        "away_water": "0.860↓",
+        "time": "10-31 08:27"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "球半/两球",
+        "away_water": "0.890",
+        "time": "10-26 08:33"
       }
     },
     {
