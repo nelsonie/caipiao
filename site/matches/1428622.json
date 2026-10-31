@@ -24,7 +24,7 @@
       "lost": "1.68",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T01:30:13Z"
+    "fetched_at_utc": "2026-10-31T01:40:14Z"
   },
   "shuju": {
     "title": "沙尔克04VS莱比锡红牛(2026/2027德甲)-数据分析-500彩票网",
@@ -651,10 +651,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.850↓",
         "handicap": "受半球/一球降",
-        "away_water": "1.020↑",
-        "time": "10-30 18:18"
+        "away_water": "1.000↑",
+        "time": "10-31 09:04"
       },
       "init": {
         "home_water": "0.970",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "受半球/一球",
-        "away_water": "1.070↑",
-        "time": "10-29 21:15"
-      },
-      "init": {
-        "home_water": "0.740",
-        "handicap": "受半球/一球",
-        "away_water": "1.060",
-        "time": "10-19 04:09"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "受半球",
         "away_water": "0.850",
         "time": "10-19 04:42"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.870↑",
+        "handicap": "受半球/一球",
+        "away_water": "1.070↑",
+        "time": "10-29 21:15"
+      },
+      "init": {
+        "home_water": "0.740",
+        "handicap": "受半球/一球",
+        "away_water": "1.060",
+        "time": "10-19 04:09"
       }
     },
     {
