@@ -24,7 +24,7 @@
       "lost": "2.40",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-10-31T00:20:17Z"
+    "fetched_at_utc": "2026-10-31T00:30:20Z"
   },
   "shuju": {
     "title": "赫尔城VS伊普斯维奇(2026/2027英超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "平手",
-        "away_water": "0.990↑",
-        "time": "10-31 05:27"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "平手",
-        "away_water": "0.900",
-        "time": "10-18 02:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "0.770",
         "time": "10-18 00:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "平手",
+        "away_water": "0.990↑",
+        "time": "10-31 05:27"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "平手",
+        "away_water": "0.900",
+        "time": "10-18 02:05"
       }
     },
     {
@@ -859,10 +859,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.850↑",
+        "home_water": "0.860↑",
         "handicap": "平手升",
-        "away_water": "0.940↓",
-        "time": "10-31 05:08"
+        "away_water": "0.950↓",
+        "time": "10-31 08:01"
       },
       "init": {
         "home_water": "0.780",
