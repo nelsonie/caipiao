@@ -8,9 +8,9 @@
     "away": "阿德莱德联",
     "kickoff_cst": "2026-11-01 16:00",
     "spf": {
-      "win": "1.47",
-      "draw": "4.15",
-      "lost": "4.60"
+      "win": "1.50",
+      "draw": "4.05",
+      "lost": "4.42"
     },
     "asia_main": {
       "handicap": "受半球降",
@@ -24,7 +24,7 @@
       "lost": "2.17",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-01T06:20:11Z"
+    "fetched_at_utc": "2026-11-01T06:30:12Z"
   },
   "shuju": {
     "title": "珀斯光荣VS阿德莱德联(2026/2027澳超)-数据分析-500彩票网",
@@ -630,10 +630,10 @@
       "cid": "5",
       "company": "*门",
       "live": {
-        "home_water": "0.930↑",
+        "home_water": "0.950↑",
         "handicap": "平手升",
-        "away_water": "0.850↓",
-        "time": "10-30 21:49"
+        "away_water": "0.830↓",
+        "time": "11-01 14:18"
       },
       "init": {
         "home_water": "0.770",
@@ -723,22 +723,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "平手",
-        "away_water": "0.860↓",
-        "time": "10-31 01:14"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "平手",
-        "away_water": "0.890",
-        "time": "10-21 05:34"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -752,6 +736,22 @@
         "handicap": "平手",
         "away_water": "0.830",
         "time": "10-25 23:24"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "平手",
+        "away_water": "0.860↓",
+        "time": "10-31 01:14"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "平手",
+        "away_water": "0.890",
+        "time": "10-21 05:34"
       }
     },
     {
