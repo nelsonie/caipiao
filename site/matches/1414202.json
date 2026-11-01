@@ -24,7 +24,7 @@
       "lost": "7.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-01T11:50:10Z"
+    "fetched_at_utc": "2026-11-01T12:00:14Z"
   },
   "shuju": {
     "title": "科莫VS威尼斯(2026/2027意甲)-数据分析-500彩票网",
@@ -455,16 +455,6 @@
         ],
         "subs": [
           {
-            "number": "8",
-            "name": "马克森斯·卡奎雷特",
-            "position": "中场"
-          },
-          {
-            "number": "13",
-            "name": "阿尔伯托·多塞纳",
-            "position": "后卫"
-          },
-          {
             "number": "18",
             "name": "埃杜尔多·格尔达尼加",
             "position": "后卫"
@@ -505,14 +495,29 @@
             "position": "守门员"
           },
           {
+            "number": "8",
+            "name": "马克森斯·卡奎雷特",
+            "position": "中场"
+          },
+          {
             "number": "30",
             "name": "马蒂亚·利贝拉利",
             "position": "中场"
           },
           {
             "number": "54",
-            "name": "马泰奥·奥利维拉·帕帕乔利",
+            "name": "马泰奥·帕帕乔利",
             "position": "中场"
+          },
+          {
+            "number": "13",
+            "name": "阿尔伯托·多塞纳",
+            "position": "后卫"
+          },
+          {
+            "number": "58",
+            "name": "泽贝迪·肯尼迪",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -522,23 +527,18 @@
         "formation": null,
         "starters": [
           {
-            "number": "45",
-            "name": "阿科·亚当斯",
-            "position": "前锋"
-          },
-          {
             "number": "29",
             "name": "里恩·劳伯巴赫",
             "position": "前锋"
           },
           {
-            "number": "70",
-            "name": "帕斯克尔·马茨科",
-            "position": "中场"
+            "number": "45",
+            "name": "阿科·亚当斯",
+            "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "约翰·托里·赫尔加松",
+            "number": "70",
+            "name": "帕斯克尔·马茨科",
             "position": "中场"
           },
           {
@@ -552,18 +552,23 @@
             "position": "中场"
           },
           {
+            "number": "21",
+            "name": "约翰·托里·赫尔加松",
+            "position": "中场"
+          },
+          {
             "number": "18",
             "name": "安托万·海诺",
             "position": "中场"
           },
           {
-            "number": "2",
-            "name": "马蒂亚斯·莫雷诺",
+            "number": "15",
+            "name": "胡安·赫苏斯",
             "position": "后卫"
           },
           {
-            "number": "15",
-            "name": "胡安·赫苏斯",
+            "number": "2",
+            "name": "马蒂亚斯·莫雷诺",
             "position": "后卫"
           },
           {

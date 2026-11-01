@@ -24,7 +24,7 @@
       "lost": "6.25",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-01T11:50:14Z"
+    "fetched_at_utc": "2026-11-01T12:00:20Z"
   },
   "shuju": {
     "title": "拉齐奥VS卡利亚里(2026/2027意甲)-数据分析-500彩票网",
@@ -783,22 +783,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.760↓",
-        "handicap": "一球降",
-        "away_water": "1.020↑",
-        "time": "11-01 19:26"
-      },
-      "init": {
-        "home_water": "1.500",
-        "handicap": "球半",
-        "away_water": "0.630",
-        "time": "10-25 23:57"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -812,6 +796,22 @@
         "handicap": "一球",
         "away_water": "0.860",
         "time": "10-26 10:16"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.760↓",
+        "handicap": "一球降",
+        "away_water": "1.020↑",
+        "time": "11-01 19:26"
+      },
+      "init": {
+        "home_water": "1.500",
+        "handicap": "球半",
+        "away_water": "0.630",
+        "time": "10-25 23:57"
       }
     },
     {
