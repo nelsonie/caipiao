@@ -24,7 +24,7 @@
       "lost": "3.82",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-01T01:40:07Z"
+    "fetched_at_utc": "2026-11-01T01:50:08Z"
   },
   "shuju": {
     "title": "首尔FCVS仁川联合(2026K1联赛)-数据分析-500彩票网",
@@ -710,6 +710,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.780↓",
+        "time": "11-01 09:40"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "半球",
+        "away_water": "1.030",
+        "time": "10-27 10:19"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -722,22 +738,6 @@
         "home_water": "0.920",
         "handicap": "半球/一球",
         "away_water": "0.700",
-        "time": "10-27 10:19"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.020↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.790↓",
-        "time": "11-01 07:19"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "半球",
-        "away_water": "1.030",
         "time": "10-27 10:19"
       }
     },
@@ -777,10 +777,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.760↓",
+        "home_water": "0.800↑",
         "handicap": "半球",
-        "away_water": "1.080↑",
-        "time": "10-29 14:00"
+        "away_water": "1.040↓",
+        "time": "11-01 09:34"
       },
       "init": {
         "home_water": "0.790",
@@ -809,10 +809,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.760↓",
+        "home_water": "0.800↑",
         "handicap": "半球",
-        "away_water": "1.080↑",
-        "time": "10-29 14:01"
+        "away_water": "1.040↓",
+        "time": "11-01 09:34"
       },
       "init": {
         "home_water": "0.790",
