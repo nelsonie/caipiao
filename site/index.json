@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-02T10:50:18Z",
+  "last_updated_utc": "2026-11-02T11:00:20Z",
   "matches": [
     {
       "xml_id": "2042438",
@@ -9,10 +9,10 @@
       "league": "芬兰超级联赛",
       "home": "国际图尔库",
       "away": "赫尔辛基火花",
-      "spf_win": "1.98",
-      "spf_draw": "3.45",
-      "spf_lost": "2.90",
-      "spf_updated": "2026-11-02 17:53:13",
+      "spf_win": "1.95",
+      "spf_draw": "3.35",
+      "spf_lost": "3.05",
+      "spf_updated": "2026-11-02 18:52:05",
       "gameid": "1489072",
       "kickoff_cst": "2026-11-03 00:00",
       "matchnum_label": "周一001",
@@ -164,22 +164,22 @@
       "away_team_id": "472"
     },
     {
-      "xml_id": "2042499",
-      "matchnum": "2005",
+      "xml_id": "2042498",
+      "matchnum": "2004",
       "date": "2026-11-04",
       "dayofweek": "星期三",
       "league": "欧洲冠军联赛",
-      "home": "马德里竞技",
-      "away": "拜仁慕尼黑",
-      "spf_win": "1.51",
+      "home": "加拉塔萨雷",
+      "away": "斯图加特",
+      "spf_win": "4.00",
       "spf_draw": "4.25",
-      "spf_lost": "4.15",
+      "spf_lost": "1.53",
       "spf_updated": "2026-11-02 13:52:17",
-      "gameid": "1479886",
-      "kickoff_cst": "2026-11-04 04:00",
-      "matchnum_label": "周二005",
-      "home_team_id": "1046",
-      "away_team_id": "664"
+      "gameid": "1479974",
+      "kickoff_cst": "2026-11-04 01:45",
+      "matchnum_label": "周二004",
+      "home_team_id": "896",
+      "away_team_id": "1195"
     },
     {
       "xml_id": "2042500",
@@ -198,6 +198,24 @@
       "matchnum_label": "周二006",
       "home_team_id": "334",
       "away_team_id": "1474"
+    },
+    {
+      "xml_id": "2042501",
+      "matchnum": "2007",
+      "date": "2026-11-04",
+      "dayofweek": "星期三",
+      "league": "欧洲冠军联赛",
+      "home": "费耶诺德",
+      "away": "国际米兰",
+      "spf_win": "1.95",
+      "spf_draw": "3.80",
+      "spf_lost": "2.75",
+      "spf_updated": "2026-11-02 13:52:17",
+      "gameid": "1479961",
+      "kickoff_cst": "2026-11-04 04:00",
+      "matchnum_label": "周二007",
+      "home_team_id": "801",
+      "away_team_id": "846"
     },
     {
       "xml_id": "2042504",
