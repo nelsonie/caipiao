@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-02T07:40:21Z",
+  "last_updated_utc": "2026-11-02T07:50:21Z",
   "matches": [
     {
       "xml_id": "2042438",
@@ -136,9 +136,9 @@
       "home": "本菲卡",
       "away": "阿尔维卡",
       "spf_win": "1.98",
-      "spf_draw": "3.96",
-      "spf_lost": "2.62",
-      "spf_updated": "2026-11-02 13:28:53",
+      "spf_draw": "3.80",
+      "spf_lost": "2.70",
+      "spf_updated": "2026-11-02 15:37:03",
       "gameid": "1438169",
       "kickoff_cst": "2026-11-03 04:15",
       "matchnum_label": "周一008",
@@ -180,24 +180,6 @@
       "matchnum_label": "周二004",
       "home_team_id": "896",
       "away_team_id": "1195"
-    },
-    {
-      "xml_id": "2042499",
-      "matchnum": "2005",
-      "date": "2026-11-04",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "马德里竞技",
-      "away": "拜仁慕尼黑",
-      "spf_win": "1.51",
-      "spf_draw": "4.25",
-      "spf_lost": "4.15",
-      "spf_updated": "2026-11-02 13:52:17",
-      "gameid": "1479886",
-      "kickoff_cst": "2026-11-04 04:00",
-      "matchnum_label": "周二005",
-      "home_team_id": "1046",
-      "away_team_id": "664"
     },
     {
       "xml_id": "2042504",
