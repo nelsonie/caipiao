@@ -24,7 +24,7 @@
       "lost": "19.00",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-11-02T07:30:11Z"
+    "fetched_at_utc": "2026-11-02T07:40:11Z"
   },
   "shuju": {
     "title": "本菲卡VS艾华卡(2026/2027葡超)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "两球/两球半升",
-        "away_water": "0.890↓",
-        "time": "11-02 15:12"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "两球",
-        "away_water": "0.940",
-        "time": "10-27 10:26"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "两球/两球半",
         "away_water": "0.800",
         "time": "10-27 00:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↑",
+        "handicap": "两球/两球半升",
+        "away_water": "0.890↓",
+        "time": "11-02 15:12"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "两球",
+        "away_water": "0.940",
+        "time": "10-27 10:26"
       }
     },
     {

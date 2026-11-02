@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-02T07:30:18Z",
+  "last_updated_utc": "2026-11-02T07:40:21Z",
   "matches": [
     {
       "xml_id": "2042438",
@@ -90,6 +90,24 @@
       "matchnum_label": "周一005",
       "home_team_id": "6597",
       "away_team_id": "1130"
+    },
+    {
+      "xml_id": "2042443",
+      "matchnum": "1006",
+      "date": "2026-11-03",
+      "dayofweek": "星期二",
+      "league": "英格兰超级联赛",
+      "home": "纽卡斯尔联",
+      "away": "埃弗顿",
+      "spf_win": "4.35",
+      "spf_draw": "3.85",
+      "spf_lost": "1.54",
+      "spf_updated": "2026-11-02 14:24:26",
+      "gameid": "1420554",
+      "kickoff_cst": "2026-11-03 04:00",
+      "matchnum_label": "周一006",
+      "home_team_id": "1137",
+      "away_team_id": "565"
     },
     {
       "xml_id": "2042444",
@@ -198,24 +216,6 @@
       "matchnum_label": "周二010",
       "home_team_id": "683",
       "away_team_id": "647"
-    },
-    {
-      "xml_id": "2042505",
-      "matchnum": "2011",
-      "date": "2026-11-04",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "博德闪耀",
-      "away": "里尔",
-      "spf_win": "2.95",
-      "spf_draw": "3.85",
-      "spf_lost": "1.85",
-      "spf_updated": "2026-11-02 13:52:17",
-      "gameid": "1479920",
-      "kickoff_cst": "2026-11-04 04:00",
-      "matchnum_label": "周二011",
-      "home_team_id": "703",
-      "away_team_id": "998"
     }
   ]
 }
