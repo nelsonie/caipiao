@@ -24,7 +24,7 @@
       "lost": "3.15",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-02T10:20:11Z"
+    "fetched_at_utc": "2026-11-02T10:30:11Z"
   },
   "shuju": {
     "title": "拉科鲁尼亚VS奥萨苏纳(2026/2027西甲)-数据分析-500彩票网",
@@ -733,22 +733,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "平手/半球",
-        "away_water": "1.000↑",
-        "time": "11-02 17:05"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手/半球",
-        "away_water": "0.920",
-        "time": "10-20 04:27"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -762,6 +746,22 @@
         "handicap": "平手",
         "away_water": "1.430",
         "time": "10-19 18:15"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "平手/半球",
+        "away_water": "1.000↑",
+        "time": "11-02 17:05"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手/半球",
+        "away_water": "0.920",
+        "time": "10-20 04:27"
       }
     },
     {
