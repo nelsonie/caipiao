@@ -24,7 +24,7 @@
       "lost": "3.25",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-02T04:40:11Z"
+    "fetched_at_utc": "2026-11-02T04:50:13Z"
   },
   "shuju": {
     "title": "巴甘蒂诺VS桑托斯(2026巴甲)-数据分析-500彩票网",
@@ -734,22 +734,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.010↑",
-        "handicap": "半球",
-        "away_water": "0.830↓",
-        "time": "11-02 12:07"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "半球",
-        "away_water": "0.880",
-        "time": "10-28 08:24"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -763,6 +747,22 @@
         "handicap": "平手",
         "away_water": "1.860",
         "time": "10-26 01:45"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "半球",
+        "away_water": "0.830↓",
+        "time": "11-02 12:07"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "半球",
+        "away_water": "0.880",
+        "time": "10-28 08:24"
       }
     },
     {
