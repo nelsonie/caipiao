@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-02T09:20:21Z",
+  "last_updated_utc": "2026-11-02T09:30:18Z",
   "matches": [
     {
       "xml_id": "2042438",
@@ -162,6 +162,42 @@
       "matchnum_label": "周一009",
       "home_team_id": "3343",
       "away_team_id": "472"
+    },
+    {
+      "xml_id": "2042498",
+      "matchnum": "2004",
+      "date": "2026-11-04",
+      "dayofweek": "星期三",
+      "league": "欧洲冠军联赛",
+      "home": "加拉塔萨雷",
+      "away": "斯图加特",
+      "spf_win": "4.00",
+      "spf_draw": "4.25",
+      "spf_lost": "1.53",
+      "spf_updated": "2026-11-02 13:52:17",
+      "gameid": "1479974",
+      "kickoff_cst": "2026-11-04 01:45",
+      "matchnum_label": "周二004",
+      "home_team_id": "896",
+      "away_team_id": "1195"
+    },
+    {
+      "xml_id": "2042501",
+      "matchnum": "2007",
+      "date": "2026-11-04",
+      "dayofweek": "星期三",
+      "league": "欧洲冠军联赛",
+      "home": "费耶诺德",
+      "away": "国际米兰",
+      "spf_win": "1.95",
+      "spf_draw": "3.80",
+      "spf_lost": "2.75",
+      "spf_updated": "2026-11-02 13:52:17",
+      "gameid": "1479961",
+      "kickoff_cst": "2026-11-04 04:00",
+      "matchnum_label": "周二007",
+      "home_team_id": "801",
+      "away_team_id": "846"
     },
     {
       "xml_id": "2042504",
