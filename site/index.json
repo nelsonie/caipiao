@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-02T12:50:22Z",
+  "last_updated_utc": "2026-11-02T13:00:19Z",
   "matches": [
     {
       "xml_id": "2042438",
@@ -99,10 +99,10 @@
       "league": "英格兰超级联赛",
       "home": "纽卡斯尔联",
       "away": "埃弗顿",
-      "spf_win": "4.25",
-      "spf_draw": "3.68",
-      "spf_lost": "1.58",
-      "spf_updated": "2026-11-02 20:28:26",
+      "spf_win": "4.15",
+      "spf_draw": "3.60",
+      "spf_lost": "1.61",
+      "spf_updated": "2026-11-02 20:54:50",
       "gameid": "1420554",
       "kickoff_cst": "2026-11-03 04:00",
       "matchnum_label": "周一006",
@@ -164,6 +164,42 @@
       "away_team_id": "472"
     },
     {
+      "xml_id": "2042498",
+      "matchnum": "2004",
+      "date": "2026-11-04",
+      "dayofweek": "星期三",
+      "league": "欧洲冠军联赛",
+      "home": "加拉塔萨雷",
+      "away": "斯图加特",
+      "spf_win": "4.00",
+      "spf_draw": "4.25",
+      "spf_lost": "1.53",
+      "spf_updated": "2026-11-02 13:52:17",
+      "gameid": "1479974",
+      "kickoff_cst": "2026-11-04 01:45",
+      "matchnum_label": "周二004",
+      "home_team_id": "896",
+      "away_team_id": "1195"
+    },
+    {
+      "xml_id": "2042500",
+      "matchnum": "2006",
+      "date": "2026-11-04",
+      "dayofweek": "星期三",
+      "league": "欧洲冠军联赛",
+      "home": "LASK林茨",
+      "away": "布拉迪斯拉发",
+      "spf_win": "1.94",
+      "spf_draw": "3.85",
+      "spf_lost": "2.75",
+      "spf_updated": "2026-11-02 20:29:03",
+      "gameid": "1479990",
+      "kickoff_cst": "2026-11-04 04:00",
+      "matchnum_label": "周二006",
+      "home_team_id": "334",
+      "away_team_id": "1474"
+    },
+    {
       "xml_id": "2042502",
       "matchnum": "2008",
       "date": "2026-11-04",
@@ -180,6 +216,24 @@
       "matchnum_label": "周二008",
       "home_team_id": "1075",
       "away_team_id": "1032"
+    },
+    {
+      "xml_id": "2042503",
+      "matchnum": "2009",
+      "date": "2026-11-04",
+      "dayofweek": "星期三",
+      "league": "欧洲冠军联赛",
+      "home": "巴塞罗那",
+      "away": "阿斯顿维拉",
+      "spf_win": "2.20",
+      "spf_draw": "4.40",
+      "spf_lost": "2.19",
+      "spf_updated": "2026-11-02 18:53:44",
+      "gameid": "1479896",
+      "kickoff_cst": "2026-11-04 04:00",
+      "matchnum_label": "周二009",
+      "home_team_id": "653",
+      "away_team_id": "555"
     }
   ]
 }
