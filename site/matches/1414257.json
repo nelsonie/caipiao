@@ -24,7 +24,7 @@
       "lost": "2.23",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-02T09:10:09Z"
+    "fetched_at_utc": "2026-11-02T09:20:08Z"
   },
   "shuju": {
     "title": "萨索洛VS佛罗伦萨(2026/2027意甲)-数据分析-500彩票网",
@@ -768,22 +768,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "受平手/半球降",
-        "away_water": "1.070↑",
-        "time": "11-02 14:59"
-      },
-      "init": {
-        "home_water": "0.880",
-        "handicap": "平手",
-        "away_water": "1.010",
-        "time": "10-26 22:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -797,6 +781,22 @@
         "handicap": "平手",
         "away_water": "0.770",
         "time": "10-26 00:20"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "受平手/半球降",
+        "away_water": "1.070↑",
+        "time": "11-02 14:59"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "平手",
+        "away_water": "1.010",
+        "time": "10-26 22:05"
       }
     },
     {
