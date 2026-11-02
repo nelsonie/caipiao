@@ -24,7 +24,7 @@
       "lost": "1.52",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-02T12:10:14Z"
+    "fetched_at_utc": "2026-11-02T12:20:17Z"
   },
   "shuju": {
     "title": "比利亚雷亚尔VS巴黎圣日耳曼(2026/2027欧冠)-数据分析-500彩票网",
@@ -666,22 +666,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.870↑",
-        "handicap": "受一球降",
-        "away_water": "0.950↓",
-        "time": "10-29 20:30"
-      },
-      "init": {
-        "home_water": "0.720",
-        "handicap": "受半球/一球",
-        "away_water": "1.080",
-        "time": "10-22 05:17"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -695,6 +679,22 @@
         "handicap": "受一球",
         "away_water": "0.940",
         "time": "10-25 01:31"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.870↑",
+        "handicap": "受一球降",
+        "away_water": "0.950↓",
+        "time": "10-29 20:30"
+      },
+      "init": {
+        "home_water": "0.720",
+        "handicap": "受半球/一球",
+        "away_water": "1.080",
+        "time": "10-22 05:17"
       }
     },
     {
