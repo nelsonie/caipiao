@@ -24,7 +24,7 @@
       "lost": "1.65",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-03T12:20:07Z"
+    "fetched_at_utc": "2026-11-03T12:30:06Z"
   },
   "shuju": {
     "title": "泰国港口局VS北京国安(2026/2027亚冠杯)-数据分析-500彩票网",
@@ -331,19 +331,14 @@
         "formation": null,
         "starters": [
           {
-            "number": "10",
-            "name": "博丁·法拉",
-            "position": "前锋"
-          },
-          {
             "number": "18",
             "name": "裘德·颂素·贝尔",
             "position": "前锋"
           },
           {
-            "number": "47",
-            "name": "西他·邦拉",
-            "position": "中场"
+            "number": "10",
+            "name": "博丁·法拉",
+            "position": "前锋"
           },
           {
             "number": "22",
@@ -351,13 +346,18 @@
             "position": "前锋"
           },
           {
-            "number": "33",
-            "name": "志村誊",
+            "number": "17",
+            "name": "西桑·拉特里",
             "position": "中场"
           },
           {
-            "number": "17",
-            "name": "西桑·拉特里",
+            "number": "47",
+            "name": "西他·邦拉",
+            "position": "中场"
+          },
+          {
+            "number": "33",
+            "name": "志村誊",
             "position": "中场"
           },
           {
@@ -681,22 +681,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.020↑",
-        "handicap": "受半球/一球升",
-        "away_water": "0.810↓",
-        "time": "11-03 20:15"
-      },
-      "init": {
-        "home_water": "0.530",
-        "handicap": "受球半",
-        "away_water": "1.510",
-        "time": "11-02 17:48"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -710,6 +694,22 @@
         "handicap": "受一球",
         "away_water": "1.040",
         "time": "11-02 18:13"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "受半球/一球升",
+        "away_water": "0.810↓",
+        "time": "11-03 20:15"
+      },
+      "init": {
+        "home_water": "0.530",
+        "handicap": "受球半",
+        "away_water": "1.510",
+        "time": "11-02 17:48"
       }
     },
     {
