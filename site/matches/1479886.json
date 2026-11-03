@@ -8,9 +8,9 @@
     "away": "拜仁慕尼黑",
     "kickoff_cst": "2026-11-04 04:00",
     "spf": {
-      "win": "1.51",
-      "draw": "4.25",
-      "lost": "4.15"
+      "win": "1.54",
+      "draw": "4.20",
+      "lost": "3.97"
     },
     "asia_main": {
       "handicap": "平手升",
@@ -24,7 +24,7 @@
       "lost": "2.15",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-03T03:40:16Z"
+    "fetched_at_utc": "2026-11-03T03:50:09Z"
   },
   "shuju": {
     "title": "马德里竞技VS拜仁慕尼黑(2026/2027欧冠)-数据分析-500彩票网",
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.060↑",
-        "handicap": "平手升",
-        "away_water": "0.800↓",
-        "time": "11-03 10:52"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "受半球",
-        "away_water": "0.920",
-        "time": "10-25 01:31"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "平手",
         "away_water": "0.630",
         "time": "10-22 05:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.060↑",
+        "handicap": "平手升",
+        "away_water": "0.800↓",
+        "time": "11-03 10:52"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "受半球",
+        "away_water": "0.920",
+        "time": "10-25 01:31"
       }
     },
     {
