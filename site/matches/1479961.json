@@ -24,7 +24,7 @@
       "lost": "1.63",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-03T04:20:09Z"
+    "fetched_at_utc": "2026-11-03T04:30:08Z"
   },
   "shuju": {
     "title": "费耶诺德VS国际米兰(2026/2027欧冠)-数据分析-500彩票网",
@@ -709,22 +709,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "受半球/一球",
-        "away_water": "1.030↑",
-        "time": "11-02 16:10"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "受半球/一球",
-        "away_water": "0.810",
-        "time": "10-25 01:57"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -738,6 +722,22 @@
         "handicap": "受球半",
         "away_water": "1.980",
         "time": "10-22 05:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "受半球/一球",
+        "away_water": "1.030↑",
+        "time": "11-02 16:10"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "受半球/一球",
+        "away_water": "0.810",
+        "time": "10-25 01:57"
       }
     },
     {
