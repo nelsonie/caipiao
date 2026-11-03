@@ -13,9 +13,9 @@
       "lost": "2.25"
     },
     "asia_main": {
-      "handicap": "球半降",
-      "home_water": "0.670↓",
-      "away_water": "1.150↑",
+      "handicap": "球半/两球",
+      "home_water": "0.750↓",
+      "away_water": "0.910↑",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "8.10",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-03T07:10:10Z"
+    "fetched_at_utc": "2026-11-03T07:20:11Z"
   },
   "shuju": {
     "title": "巴塞罗那VS阿斯顿维拉(2026/2027欧冠)-数据分析-500彩票网",
@@ -567,10 +567,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.670↓",
-        "handicap": "球半降",
-        "away_water": "1.150↑",
-        "time": "11-03 14:03"
+        "home_water": "0.750↓",
+        "handicap": "球半/两球",
+        "away_water": "0.910↑",
+        "time": "11-03 15:08"
       },
       "init": {
         "home_water": "0.850",
@@ -618,7 +618,7 @@
         "home_water": "0.970↓",
         "handicap": "两球",
         "away_water": "0.870↑",
-        "time": "11-03 15:04"
+        "time": "11-03 15:09"
       },
       "init": {
         "home_water": "1.020",
@@ -676,22 +676,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.850↓",
-        "handicap": "球半/两球升",
-        "away_water": "1.100↑",
-        "time": "11-03 14:11"
-      },
-      "init": {
-        "home_water": "1.080",
-        "handicap": "球半",
-        "away_water": "0.870",
-        "time": "10-22 05:17"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -705,6 +689,22 @@
         "handicap": "两球",
         "away_water": "0.860",
         "time": "10-25 01:31"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.850↓",
+        "handicap": "球半/两球升",
+        "away_water": "1.100↑",
+        "time": "11-03 14:11"
+      },
+      "init": {
+        "home_water": "1.080",
+        "handicap": "球半",
+        "away_water": "0.870",
+        "time": "10-22 05:17"
       }
     },
     {
