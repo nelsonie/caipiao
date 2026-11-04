@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-11-04T21:30:09Z'
+last_updated_utc: '2026-11-04T21:40:06Z'
 total_matches: 1
 leagues_covered:
 - 巴西甲级联赛
