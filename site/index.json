@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-04T01:20:13Z",
+  "last_updated_utc": "2026-11-04T01:30:12Z",
   "matches": [
     {
       "xml_id": "2042506",
@@ -74,6 +74,24 @@
       "away_team_id": "1072"
     },
     {
+      "xml_id": "2042511",
+      "matchnum": "3006",
+      "date": "2026-11-05",
+      "dayofweek": "星期四",
+      "league": "欧洲冠军联赛",
+      "home": "波尔图",
+      "away": "那不勒斯",
+      "spf_win": "3.80",
+      "spf_draw": "3.60",
+      "spf_lost": "1.67",
+      "spf_updated": "2026-11-03 09:29:01",
+      "gameid": "1479949",
+      "kickoff_cst": "2026-11-05 04:00",
+      "matchnum_label": "周三006",
+      "home_team_id": "694",
+      "away_team_id": "1125"
+    },
+    {
       "xml_id": "2042512",
       "matchnum": "3007",
       "date": "2026-11-05",
@@ -108,24 +126,6 @@
       "matchnum_label": "周三008",
       "home_team_id": "786",
       "away_team_id": "673"
-    },
-    {
-      "xml_id": "2042514",
-      "matchnum": "3009",
-      "date": "2026-11-05",
-      "dayofweek": "星期四",
-      "league": "欧洲冠军联赛",
-      "home": "维京",
-      "away": "萨巴赫",
-      "spf_win": "1.83",
-      "spf_draw": "3.97",
-      "spf_lost": "2.93",
-      "spf_updated": "2026-11-03 17:18:45",
-      "gameid": "1480118",
-      "kickoff_cst": "2026-11-05 04:00",
-      "matchnum_label": "周三009",
-      "home_team_id": "1259",
-      "away_team_id": "10810"
     },
     {
       "xml_id": "2042515",
