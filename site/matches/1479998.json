@@ -24,7 +24,7 @@
       "lost": "1.82",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-04T02:20:12Z"
+    "fetched_at_utc": "2026-11-04T02:30:10Z"
   },
   "shuju": {
     "title": "朗斯VS科莫(2026/2027欧冠)-数据分析-500彩票网",
@@ -681,6 +681,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.840↓",
+        "time": "11-04 10:19"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "受平手/半球",
+        "away_water": "0.890",
+        "time": "10-25 01:31"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -694,22 +710,6 @@
         "handicap": "平手",
         "away_water": "1.110",
         "time": "10-22 05:17"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "受平手/半球",
-        "away_water": "0.850↓",
-        "time": "11-04 08:14"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "受平手/半球",
-        "away_water": "0.890",
-        "time": "10-25 01:31"
       }
     },
     {
@@ -764,10 +764,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "1.060↑",
+        "home_water": "1.070↑",
         "handicap": "受平手/半球",
-        "away_water": "0.840↓",
-        "time": "11-04 09:44"
+        "away_water": "0.830↓",
+        "time": "11-04 10:18"
       },
       "init": {
         "home_water": "0.910",
@@ -796,10 +796,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "1.060↑",
+        "home_water": "1.070↑",
         "handicap": "受平手/半球",
-        "away_water": "0.840↓",
-        "time": "11-04 09:44"
+        "away_water": "0.830↓",
+        "time": "11-04 10:18"
       },
       "init": {
         "home_water": "0.920",
