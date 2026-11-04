@@ -24,7 +24,7 @@
       "lost": "1.82",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-04T10:20:12Z"
+    "fetched_at_utc": "2026-11-04T10:30:11Z"
   },
   "shuju": {
     "title": "朗斯VS科莫(2026/2027欧冠)-数据分析-500彩票网",
@@ -681,22 +681,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.690↓",
-        "handicap": "受半球/一球降",
-        "away_water": "1.160↑",
-        "time": "11-04 18:04"
-      },
-      "init": {
-        "home_water": "0.850",
-        "handicap": "平手",
-        "away_water": "1.110",
-        "time": "10-22 05:17"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -710,6 +694,22 @@
         "handicap": "受平手/半球",
         "away_water": "0.890",
         "time": "10-25 01:31"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.690↓",
+        "handicap": "受半球/一球降",
+        "away_water": "1.160↑",
+        "time": "11-04 18:04"
+      },
+      "init": {
+        "home_water": "0.850",
+        "handicap": "平手",
+        "away_water": "1.110",
+        "time": "10-22 05:17"
       }
     },
     {

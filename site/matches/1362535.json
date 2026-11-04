@@ -24,7 +24,7 @@
       "lost": "14.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-04T10:20:13Z"
+    "fetched_at_utc": "2026-11-04T10:30:11Z"
   },
   "shuju": {
     "title": "帕尔梅拉斯VS瑞模贝雷(2026巴甲)-数据分析-500彩票网",
@@ -691,22 +691,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "球半/两球",
-        "away_water": "0.950↓",
-        "time": "11-02 20:57"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "球半/两球",
-        "away_water": "0.960",
-        "time": "10-30 07:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -720,6 +704,22 @@
         "handicap": "球半",
         "away_water": "1.390",
         "time": "10-26 02:16"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "球半/两球",
+        "away_water": "0.950↓",
+        "time": "11-02 20:57"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "球半/两球",
+        "away_water": "0.960",
+        "time": "10-30 07:03"
       }
     },
     {
