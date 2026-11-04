@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-04T10:30:11Z",
+  "last_updated_utc": "2026-11-04T10:40:23Z",
   "matches": [
     {
       "xml_id": "2042506",
@@ -27,10 +27,10 @@
       "league": "亚洲冠军精英联赛",
       "home": "布里兰",
       "away": "鹿岛鹿角",
-      "spf_win": "2.35",
-      "spf_draw": "3.38",
-      "spf_lost": "2.39",
-      "spf_updated": "2026-11-04 18:07:51",
+      "spf_win": "2.40",
+      "spf_draw": "3.32",
+      "spf_lost": "2.37",
+      "spf_updated": "2026-11-04 18:28:33",
       "gameid": "1473921",
       "kickoff_cst": "2026-11-04 20:15",
       "matchnum_label": "周三002",
@@ -45,10 +45,10 @@
       "league": "欧罗巴联赛",
       "home": "雷恩",
       "away": "奥林匹亚科斯",
-      "spf_win": "4.20",
-      "spf_draw": "3.85",
-      "spf_lost": "1.56",
-      "spf_updated": "2026-11-04 15:51:53",
+      "spf_win": "4.10",
+      "spf_draw": "3.75",
+      "spf_lost": "1.59",
+      "spf_updated": "2026-11-04 18:27:38",
       "gameid": "1480128",
       "kickoff_cst": "2026-11-04 23:30",
       "matchnum_label": "周三003",
@@ -216,24 +216,6 @@
       "matchnum_label": "周三012",
       "home_team_id": "728",
       "away_team_id": "978"
-    },
-    {
-      "xml_id": "2042529",
-      "matchnum": "4013",
-      "date": "2026-11-06",
-      "dayofweek": "星期五",
-      "league": "巴西甲级联赛",
-      "home": "帕尔梅拉斯",
-      "away": "里莫",
-      "spf_win": "2.60",
-      "spf_draw": "3.65",
-      "spf_lost": "2.08",
-      "spf_updated": "2026-11-04 09:51:37",
-      "gameid": "1362535",
-      "kickoff_cst": "2026-11-06 06:30",
-      "matchnum_label": "周四013",
-      "home_team_id": "1567",
-      "away_team_id": "2417"
     }
   ]
 }
