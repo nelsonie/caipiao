@@ -8,9 +8,9 @@
     "away": "大阪钢巴",
     "kickoff_cst": "2026-11-04 18:00",
     "spf": {
-      "win": "1.58",
-      "draw": "3.70",
-      "lost": "4.25"
+      "win": "1.53",
+      "draw": "3.85",
+      "lost": "4.45"
     },
     "asia_main": {
       "handicap": "受平手/半球升",
@@ -24,7 +24,7 @@
       "lost": "2.08",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-04T09:30:06Z"
+    "fetched_at_utc": "2026-11-04T09:40:11Z"
   },
   "shuju": {
     "title": "浦项制铁VS大阪钢巴(2026/2027亚冠杯)-数据分析-500彩票网",
@@ -359,18 +359,33 @@
             "position": "前锋"
           },
           {
+            "number": "9",
+            "name": "安在俊",
+            "position": "中场"
+          },
+          {
+            "number": "16",
+            "name": "金东进",
+            "position": "中场"
+          },
+          {
+            "number": "31",
+            "name": "西矢健人",
+            "position": "中场"
+          },
+          {
             "number": "37",
             "name": "郑翰旻",
-            "position": "前锋"
+            "position": "中场"
           },
           {
-            "number": "21",
-            "name": "黄仁在",
-            "position": "守门员"
+            "number": "8",
+            "name": "金昇浩",
+            "position": "中场"
           },
           {
-            "number": "4",
-            "name": "全珉洸",
+            "number": "3",
+            "name": "金誉声",
             "position": "后卫"
           },
           {
@@ -384,35 +399,35 @@
             "position": "后卫"
           },
           {
-            "number": "9",
-            "name": "安在俊",
-            "position": "前锋"
-          },
-          {
-            "number": "31",
-            "name": "西矢健人",
-            "position": "中场"
-          },
-          {
-            "number": "3",
-            "name": "金誉声",
+            "number": "4",
+            "name": "全珉洸",
             "position": "后卫"
           },
           {
-            "number": "8",
-            "name": "金昇浩",
-            "position": "中场"
-          },
-          {
-            "number": "16",
-            "name": "金东进",
-            "position": "中场"
+            "number": "21",
+            "name": "黄仁在",
+            "position": "守门员"
           }
         ],
         "subs": [
           {
-            "number": "18",
-            "name": "赵尚赫",
+            "number": "13",
+            "name": "姜民俊",
+            "position": "后卫"
+          },
+          {
+            "number": "33",
+            "name": "赵成昱",
+            "position": "后卫"
+          },
+          {
+            "number": "25",
+            "name": "若昂·特谢拉",
+            "position": "前锋"
+          },
+          {
+            "number": "12",
+            "name": "黄载焕",
             "position": "前锋"
           },
           {
@@ -421,28 +436,8 @@
             "position": "中场"
           },
           {
-            "number": "12",
-            "name": "黄载焕",
-            "position": "中场"
-          },
-          {
-            "number": "25",
-            "name": "若昂·特谢拉",
-            "position": "前锋"
-          },
-          {
-            "number": "33",
-            "name": "赵成昱",
-            "position": "后卫"
-          },
-          {
-            "number": "13",
-            "name": "姜民俊",
-            "position": "后卫"
-          },
-          {
-            "number": "30",
-            "name": "金容鹤",
+            "number": "18",
+            "name": "赵尚赫",
             "position": "前锋"
           },
           {
@@ -456,19 +451,24 @@
             "position": "后卫"
           },
           {
-            "number": "17",
-            "name": "申光勋",
-            "position": "中场"
-          },
-          {
-            "number": "77",
-            "name": "万德森·奥利维拉",
+            "number": "30",
+            "name": "金容鹤",
             "position": "前锋"
           },
           {
             "number": "1",
             "name": "尹平国",
             "position": "守门员"
+          },
+          {
+            "number": "77",
+            "name": "万德森·奥利维拉",
+            "position": "后卫"
+          },
+          {
+            "number": "17",
+            "name": "申光勋",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -478,18 +478,38 @@
         "formation": null,
         "starters": [
           {
-            "number": "22",
-            "name": "一森纯",
-            "position": "守门员"
+            "number": "24",
+            "name": "小柏刚",
+            "position": "前锋"
+          },
+          {
+            "number": "8",
+            "name": "食野亮太郎",
+            "position": "中场"
+          },
+          {
+            "number": "10",
+            "name": "仓田秋",
+            "position": "中场"
           },
           {
             "number": "20",
             "name": "伊莱·亚当斯",
-            "position": "前锋"
+            "position": "中场"
           },
           {
-            "number": "28",
-            "name": "藤原奏哉",
+            "number": "16",
+            "name": "铃木德真",
+            "position": "中场"
+          },
+          {
+            "number": "78",
+            "name": "胡安佩·希门尼斯",
+            "position": "中场"
+          },
+          {
+            "number": "47",
+            "name": "中野真矢",
             "position": "后卫"
           },
           {
@@ -503,34 +523,14 @@
             "position": "后卫"
           },
           {
-            "number": "78",
-            "name": "胡安佩·希门尼斯",
-            "position": "中场"
-          },
-          {
-            "number": "10",
-            "name": "仓田秋",
-            "position": "中场"
-          },
-          {
-            "number": "47",
-            "name": "中野真矢",
+            "number": "28",
+            "name": "藤原奏哉",
             "position": "后卫"
           },
           {
-            "number": "24",
-            "name": "小柏刚",
-            "position": "前锋"
-          },
-          {
-            "number": "16",
-            "name": "铃木德真",
-            "position": "中场"
-          },
-          {
-            "number": "8",
-            "name": "食野亮太郎",
-            "position": "前锋"
+            "number": "22",
+            "name": "一森纯",
+            "position": "守门员"
           }
         ],
         "subs": [
@@ -545,11 +545,6 @@
             "position": "前锋"
           },
           {
-            "number": "35",
-            "name": "当野泰生",
-            "position": "中场"
-          },
-          {
             "number": "39",
             "name": "角昂志郎",
             "position": "中场"
@@ -562,7 +557,7 @@
           {
             "number": "15",
             "name": "岸本武流",
-            "position": "前锋"
+            "position": "后卫"
           },
           {
             "number": "11",
@@ -573,6 +568,11 @@
             "number": "1",
             "name": "东口顺昭",
             "position": "守门员"
+          },
+          {
+            "number": "35",
+            "name": "当野泰生",
+            "position": "前锋"
           },
           {
             "number": "21",
@@ -704,22 +704,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↑",
-        "handicap": "受半球",
-        "away_water": "0.950↓",
-        "time": "11-04 14:08"
-      },
-      "init": {
-        "home_water": "0.790",
-        "handicap": "受半球",
-        "away_water": "1.060",
-        "time": "11-03 13:44"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -733,6 +717,22 @@
         "handicap": "平手",
         "away_water": "0.510",
         "time": "11-03 13:06"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↑",
+        "handicap": "受半球",
+        "away_water": "0.950↓",
+        "time": "11-04 14:08"
+      },
+      "init": {
+        "home_water": "0.790",
+        "handicap": "受半球",
+        "away_water": "1.060",
+        "time": "11-03 13:44"
       }
     },
     {
