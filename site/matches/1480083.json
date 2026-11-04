@@ -24,7 +24,7 @@
       "lost": "1.17",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-04T13:30:12Z"
+    "fetched_at_utc": "2026-11-04T13:40:11Z"
   },
   "shuju": {
     "title": "布拉格斯拉维亚VS阿森纳(2026/2027欧冠)-数据分析-500彩票网",
@@ -717,22 +717,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.890",
-        "handicap": "受球半/两球降",
-        "away_water": "0.960↑",
-        "time": "11-04 21:00"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "受球半",
-        "away_water": "0.850",
-        "time": "10-25 01:30"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -746,6 +730,22 @@
         "handicap": "受球半",
         "away_water": "1.130",
         "time": "10-22 05:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.890",
+        "handicap": "受球半/两球降",
+        "away_water": "0.960↑",
+        "time": "11-04 21:00"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "受球半",
+        "away_water": "0.850",
+        "time": "10-25 01:30"
       }
     },
     {
