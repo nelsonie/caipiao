@@ -24,7 +24,7 @@
       "lost": "1.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-04T02:40:09Z"
+    "fetched_at_utc": "2026-11-04T02:50:09Z"
   },
   "shuju": {
     "title": "武里南联VS鹿岛鹿角(2026/2027亚冠杯)-数据分析-500彩票网",
@@ -661,22 +661,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.080↓",
-        "handicap": "受平手/半球降",
-        "away_water": "0.710↑",
-        "time": "11-04 00:16"
-      },
-      "init": {
-        "home_water": "2.000",
-        "handicap": "平手",
-        "away_water": "0.400",
-        "time": "11-03 13:06"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -690,6 +674,22 @@
         "handicap": "受半球",
         "away_water": "0.830",
         "time": "11-03 15:35"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.080↓",
+        "handicap": "受平手/半球降",
+        "away_water": "0.710↑",
+        "time": "11-04 00:16"
+      },
+      "init": {
+        "home_water": "2.000",
+        "handicap": "平手",
+        "away_water": "0.400",
+        "time": "11-03 13:06"
       }
     },
     {
