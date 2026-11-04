@@ -8,9 +8,9 @@
     "away": "那不勒斯",
     "kickoff_cst": "2026-11-05 04:00",
     "spf": {
-      "win": "3.80",
-      "draw": "3.60",
-      "lost": "1.67"
+      "win": "3.62",
+      "draw": "3.55",
+      "lost": "1.72"
     },
     "asia_main": {
       "handicap": "半球",
@@ -24,7 +24,7 @@
       "lost": "3.15",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-04T03:30:10Z"
+    "fetched_at_utc": "2026-11-04T03:40:08Z"
   },
   "shuju": {
     "title": "波尔图VS那不勒斯(2026/2027欧冠)-数据分析-500彩票网",
@@ -736,22 +736,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.730↓",
-        "handicap": "平手/半球",
-        "away_water": "1.290↑",
-        "time": "11-04 01:10"
-      },
-      "init": {
-        "home_water": "0.800",
-        "handicap": "平手/半球",
-        "away_water": "1.170",
-        "time": "10-21 17:19"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -765,6 +749,22 @@
         "handicap": "平手/半球",
         "away_water": "0.900",
         "time": "10-25 01:51"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.730↓",
+        "handicap": "平手/半球",
+        "away_water": "1.290↑",
+        "time": "11-04 01:10"
+      },
+      "init": {
+        "home_water": "0.800",
+        "handicap": "平手/半球",
+        "away_water": "1.170",
+        "time": "10-21 17:19"
       }
     },
     {
