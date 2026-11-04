@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-04T11:50:13Z",
+  "last_updated_utc": "2026-11-04T12:00:15Z",
   "matches": [
     {
       "xml_id": "2042506",
@@ -63,10 +63,10 @@
       "league": "欧洲冠军联赛",
       "home": "费内巴切",
       "away": "利物浦",
-      "spf_win": "3.05",
+      "spf_win": "2.84",
       "spf_draw": "4.05",
-      "spf_lost": "1.77",
-      "spf_updated": "2026-11-04 18:09:31",
+      "spf_lost": "1.85",
+      "spf_updated": "2026-11-04 19:56:53",
       "gameid": "1479953",
       "kickoff_cst": "2026-11-05 01:45",
       "matchnum_label": "周三004",
@@ -81,10 +81,10 @@
       "league": "欧洲冠军联赛",
       "home": "莱比锡红牛",
       "away": "曼彻斯特城",
-      "spf_win": "2.61",
-      "spf_draw": "4.10",
-      "spf_lost": "1.95",
-      "spf_updated": "2026-11-04 17:11:40",
+      "spf_win": "2.65",
+      "spf_draw": "4.25",
+      "spf_lost": "1.90",
+      "spf_updated": "2026-11-04 19:51:41",
       "gameid": "1480052",
       "kickoff_cst": "2026-11-05 04:00",
       "matchnum_label": "周三005",
@@ -136,9 +136,9 @@
       "home": "多特蒙德",
       "away": "皇家贝蒂斯",
       "spf_win": "2.70",
-      "spf_draw": "3.41",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-11-04 19:04:51",
+      "spf_draw": "3.34",
+      "spf_lost": "2.13",
+      "spf_updated": "2026-11-04 19:48:22",
       "gameid": "1479940",
       "kickoff_cst": "2026-11-05 04:00",
       "matchnum_label": "周三008",
@@ -216,24 +216,6 @@
       "matchnum_label": "周三012",
       "home_team_id": "728",
       "away_team_id": "978"
-    },
-    {
-      "xml_id": "2042529",
-      "matchnum": "4013",
-      "date": "2026-11-06",
-      "dayofweek": "星期五",
-      "league": "巴西甲级联赛",
-      "home": "帕尔梅拉斯",
-      "away": "里莫",
-      "spf_win": "2.60",
-      "spf_draw": "3.65",
-      "spf_lost": "2.08",
-      "spf_updated": "2026-11-04 09:51:37",
-      "gameid": "1362535",
-      "kickoff_cst": "2026-11-06 06:30",
-      "matchnum_label": "周四013",
-      "home_team_id": "1567",
-      "away_team_id": "2417"
     }
   ]
 }
