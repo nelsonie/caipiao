@@ -24,7 +24,7 @@
       "lost": "2.79",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-04T13:40:09Z"
+    "fetched_at_utc": "2026-11-04T13:50:10Z"
   },
   "shuju": {
     "title": "PSV埃因霍温VS布鲁日(2026/2027欧冠)-数据分析-500彩票网",
@@ -699,22 +699,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "半球升",
-        "away_water": "0.910↑",
-        "time": "11-04 21:07"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "平手/半球",
-        "away_water": "0.900",
-        "time": "10-25 01:57"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -728,6 +712,22 @@
         "handicap": "平手",
         "away_water": "1.640",
         "time": "10-22 05:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "半球升",
+        "away_water": "0.910↑",
+        "time": "11-04 21:07"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "平手/半球",
+        "away_water": "0.900",
+        "time": "10-25 01:57"
       }
     },
     {
