@@ -24,7 +24,7 @@
       "lost": "5.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-05T06:30:15Z"
+    "fetched_at_utc": "2026-11-05T06:40:10Z"
   },
   "shuju": {
     "title": "悉尼FCVS中央海岸水手(2026/2027澳超)-数据分析-500彩票网",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "一球",
-        "away_water": "1.040↑",
-        "time": "11-04 23:09"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "一球",
-        "away_water": "1.000",
-        "time": "10-31 08:29"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "球半",
         "away_water": "0.640",
         "time": "10-26 00:16"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "一球",
+        "away_water": "1.040↑",
+        "time": "11-04 23:09"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "一球",
+        "away_water": "1.000",
+        "time": "10-31 08:29"
       }
     },
     {
