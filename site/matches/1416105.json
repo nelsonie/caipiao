@@ -24,7 +24,7 @@
       "lost": "1.66",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-05T12:00:14Z"
+    "fetched_at_utc": "2026-11-05T12:10:16Z"
   },
   "shuju": {
     "title": "奥斯VS瓦尔韦克(2026/2027荷乙)-数据分析-500彩票网",
@@ -727,22 +727,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.930↑",
-        "handicap": "受半球",
-        "away_water": "0.860↓",
-        "time": "11-03 06:44"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "受半球",
-        "away_water": "0.880",
-        "time": "11-03 03:24"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -756,6 +740,22 @@
         "handicap": "平手",
         "away_water": "0.480",
         "time": "11-02 03:19"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.930↑",
+        "handicap": "受半球",
+        "away_water": "0.860↓",
+        "time": "11-03 06:44"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "受半球",
+        "away_water": "0.880",
+        "time": "11-03 03:24"
       }
     },
     {
