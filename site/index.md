@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-11-05T02:50:07Z'
-total_matches: 1
-leagues_covered:
-- 巴西甲级联赛
+last_updated_utc: '2026-11-05T03:00:05Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 巴西甲级联赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 4013 | 2026-11-06 星期五 | 帕尔梅拉斯 vs 里莫 | 2.60/3.65/2.08 | [1362535](matches/1362535.md) |
