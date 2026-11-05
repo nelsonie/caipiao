@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-05T05:10:12Z",
+  "last_updated_utc": "2026-11-05T05:20:13Z",
   "matches": [
     {
       "xml_id": "2042518",
@@ -9,10 +9,10 @@
       "league": "亚洲冠军乙级联赛",
       "home": "町田泽维亚",
       "away": "上海申花",
-      "spf_win": "1.75",
-      "spf_draw": "3.58",
+      "spf_win": "1.72",
+      "spf_draw": "3.70",
       "spf_lost": "3.47",
-      "spf_updated": "2026-11-05 12:40:43",
+      "spf_updated": "2026-11-05 13:12:14",
       "gameid": "1474059",
       "kickoff_cst": "2026-11-05 18:00",
       "matchnum_label": "周四001",
@@ -216,24 +216,6 @@
       "matchnum_label": "周四013",
       "home_team_id": "1567",
       "away_team_id": "2417"
-    },
-    {
-      "xml_id": "2042530",
-      "matchnum": "4007",
-      "date": "2026-11-06",
-      "dayofweek": "星期五",
-      "league": "欧洲协会联赛",
-      "home": "特拉布宗体育",
-      "away": "弗赖堡",
-      "spf_win": "4.50",
-      "spf_draw": "4.10",
-      "spf_lost": "1.49",
-      "spf_updated": "2026-11-05 09:41:50",
-      "gameid": "1480170",
-      "kickoff_cst": "2026-11-06 01:45",
-      "matchnum_label": "周四007",
-      "home_team_id": "1219",
-      "away_team_id": "804"
     }
   ]
 }

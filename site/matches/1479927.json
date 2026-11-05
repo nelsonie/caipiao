@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-11-05T05:10:10Z"
+    "fetched_at_utc": "2026-11-05T05:20:11Z"
   },
   "shuju": {
     "title": "本菲卡VS莱克普斯纳(2026/2027欧罗巴)-数据分析-500彩票网",
@@ -709,22 +709,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.020↑",
-        "handicap": "两球半升",
-        "away_water": "0.850↓",
-        "time": "11-05 12:17"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "两球",
-        "away_water": "0.900",
-        "time": "10-24 00:52"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -738,6 +722,22 @@
         "handicap": "球半/两球",
         "away_water": "1.180",
         "time": "10-24 00:23"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.020↑",
+        "handicap": "两球半升",
+        "away_water": "0.850↓",
+        "time": "11-05 12:17"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "两球",
+        "away_water": "0.900",
+        "time": "10-24 00:52"
       }
     },
     {
