@@ -8,9 +8,9 @@
     "away": "费伦茨瓦罗斯",
     "kickoff_cst": "2026-11-06 01:45",
     "spf": {
-      "win": "1.61",
-      "draw": "4.05",
-      "lost": "3.68"
+      "win": "1.59",
+      "draw": "4.10",
+      "lost": "3.75"
     },
     "asia_main": {
       "handicap": "球半",
@@ -24,7 +24,7 @@
       "lost": "7.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-05T12:50:07Z"
+    "fetched_at_utc": "2026-11-05T13:00:08Z"
   },
   "shuju": {
     "title": "AC米兰VS费伦茨瓦罗斯(2026/2027欧罗巴)-数据分析-500彩票网",
@@ -706,22 +706,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "球半",
-        "away_water": "0.940↑",
-        "time": "11-05 17:36"
-      },
-      "init": {
-        "home_water": "1.110",
-        "handicap": "球半",
-        "away_water": "0.780",
-        "time": "10-23 23:28"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -735,6 +719,22 @@
         "handicap": "球半",
         "away_water": "0.890",
         "time": "10-23 23:57"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "球半",
+        "away_water": "0.940↑",
+        "time": "11-05 17:36"
+      },
+      "init": {
+        "home_water": "1.110",
+        "handicap": "球半",
+        "away_water": "0.780",
+        "time": "10-23 23:28"
       }
     },
     {
