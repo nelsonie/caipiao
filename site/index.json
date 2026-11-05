@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-05T05:40:10Z",
+  "last_updated_utc": "2026-11-05T05:50:12Z",
   "matches": [
     {
       "xml_id": "2042518",
@@ -126,24 +126,6 @@
       "matchnum_label": "周四008",
       "home_team_id": "466",
       "away_team_id": "448"
-    },
-    {
-      "xml_id": "2042525",
-      "matchnum": "4009",
-      "date": "2026-11-06",
-      "dayofweek": "星期五",
-      "league": "欧罗巴联赛",
-      "home": "维戈塞尔塔",
-      "away": "圣吉尔联合",
-      "spf_win": "4.00",
-      "spf_draw": "3.68",
-      "spf_lost": "1.62",
-      "spf_updated": "2026-11-05 13:31:22",
-      "gameid": "1479962",
-      "kickoff_cst": "2026-11-06 04:00",
-      "matchnum_label": "周四009",
-      "home_team_id": "457",
-      "away_team_id": "2112"
     },
     {
       "xml_id": "2042526",
