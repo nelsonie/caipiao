@@ -24,7 +24,7 @@
       "lost": "2.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-06T04:00:13Z"
+    "fetched_at_utc": "2026-11-06T04:10:13Z"
   },
   "shuju": {
     "title": "德比郡VS博尔顿(2026/2027英冠)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "平手降",
-        "away_water": "1.010↑",
-        "time": "11-06 10:42"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手/半球",
-        "away_water": "0.880",
-        "time": "11-01 03:23"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "1.220",
         "time": "10-31 04:21"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "平手降",
+        "away_water": "1.010↑",
+        "time": "11-06 10:42"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手/半球",
+        "away_water": "0.880",
+        "time": "11-01 03:23"
       }
     },
     {
