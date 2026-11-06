@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-06T01:10:17Z",
+  "last_updated_utc": "2026-11-06T01:20:12Z",
   "matches": [
     {
       "xml_id": "2042555",
@@ -128,6 +128,42 @@
       "away_team_id": "1194"
     },
     {
+      "xml_id": "2042564",
+      "matchnum": "5010",
+      "date": "2026-11-07",
+      "dayofweek": "星期六",
+      "league": "英格兰超级联赛",
+      "home": "埃弗顿",
+      "away": "考文垂",
+      "spf_win": "2.66",
+      "spf_draw": "3.40",
+      "spf_lost": "2.13",
+      "spf_updated": "2026-11-05 13:39:15",
+      "gameid": "1420574",
+      "kickoff_cst": "2026-11-07 04:00",
+      "matchnum_label": "周五010",
+      "home_team_id": "565",
+      "away_team_id": "930"
+    },
+    {
+      "xml_id": "2042565",
+      "matchnum": "5011",
+      "date": "2026-11-07",
+      "dayofweek": "星期六",
+      "league": "英格兰冠军联赛",
+      "home": "德比郡",
+      "away": "博尔顿",
+      "spf_win": "4.65",
+      "spf_draw": "4.10",
+      "spf_lost": "1.47",
+      "spf_updated": "2026-11-05 13:39:15",
+      "gameid": "1425935",
+      "kickoff_cst": "2026-11-07 04:00",
+      "matchnum_label": "周五011",
+      "home_team_id": "760",
+      "away_team_id": "704"
+    },
+    {
       "xml_id": "2042566",
       "matchnum": "5012",
       "date": "2026-11-07",
@@ -162,6 +198,24 @@
       "matchnum_label": "周五013",
       "home_team_id": "261",
       "away_team_id": "5551"
+    },
+    {
+      "xml_id": "2042568",
+      "matchnum": "5014",
+      "date": "2026-11-07",
+      "dayofweek": "星期六",
+      "league": "巴西甲级联赛",
+      "home": "维多利亚",
+      "away": "弗鲁米嫩塞",
+      "spf_win": "1.48",
+      "spf_draw": "3.88",
+      "spf_lost": "4.85",
+      "spf_updated": "2026-11-05 13:39:15",
+      "gameid": "1362551",
+      "kickoff_cst": "2026-11-07 07:00",
+      "matchnum_label": "周五014",
+      "home_team_id": "1589",
+      "away_team_id": "1578"
     }
   ]
 }
