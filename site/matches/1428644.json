@@ -24,7 +24,7 @@
       "lost": "1.98",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-06T03:10:25Z"
+    "fetched_at_utc": "2026-11-06T03:20:25Z"
   },
   "shuju": {
     "title": "帕德博恩VS法兰克福(2026/2027德甲)-数据分析-500彩票网",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940↑",
-        "handicap": "受平手/半球",
-        "away_water": "0.870↓",
-        "time": "11-05 22:29"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "受平手/半球",
-        "away_water": "0.890",
-        "time": "10-31 23:11"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "平手",
         "away_water": "0.630",
         "time": "10-26 03:33"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.870↓",
+        "time": "11-05 22:29"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "受平手/半球",
+        "away_water": "0.890",
+        "time": "10-31 23:11"
       }
     },
     {

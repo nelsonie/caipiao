@@ -24,7 +24,7 @@
       "lost": "2.68",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-06T03:10:16Z"
+    "fetched_at_utc": "2026-11-06T03:20:17Z"
   },
   "shuju": {
     "title": "横滨水手VS冈山绿雉(2026/2027日职)-数据分析-500彩票网",
@@ -684,22 +684,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "平手",
-        "away_water": "0.950↑",
-        "time": "11-05 19:39"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手",
-        "away_water": "0.890",
-        "time": "11-01 12:23"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -713,6 +697,22 @@
         "handicap": "平手",
         "away_water": "0.890",
         "time": "11-01 13:06"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "平手",
+        "away_water": "0.950↑",
+        "time": "11-05 19:39"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手",
+        "away_water": "0.890",
+        "time": "11-01 12:23"
       }
     },
     {
