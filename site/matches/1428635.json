@@ -24,7 +24,7 @@
       "lost": "4.05",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-07T03:40:24Z"
+    "fetched_at_utc": "2026-11-07T03:50:24Z"
   },
   "shuju": {
     "title": "斯图加特VS云达不莱梅(2026/2027德甲)-数据分析-500彩票网",
@@ -738,22 +738,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "半球/一球降",
-        "away_water": "1.020↑",
-        "time": "11-07 10:55"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "一球/球半",
-        "away_water": "0.850",
-        "time": "10-29 20:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -767,6 +751,22 @@
         "handicap": "球半",
         "away_water": "0.720",
         "time": "10-26 03:34"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "半球/一球降",
+        "away_water": "1.020↑",
+        "time": "11-07 10:55"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "一球/球半",
+        "away_water": "0.850",
+        "time": "10-29 20:48"
       }
     },
     {

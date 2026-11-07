@@ -24,7 +24,7 @@
       "lost": "2.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-07T03:40:08Z"
+    "fetched_at_utc": "2026-11-07T03:50:08Z"
   },
   "shuju": {
     "title": "鸟栖沙岩VS富山胜利(2026/2027日职乙)-数据分析-500彩票网",
@@ -405,7 +405,7 @@
           {
             "number": "11",
             "name": "塩滨涼",
-            "position": "中场"
+            "position": "前锋"
           },
           {
             "number": "16",
@@ -438,13 +438,13 @@
             "position": "后卫"
           },
           {
-            "number": "44",
-            "name": "阿部海大",
+            "number": "37",
+            "name": "森下玲弥",
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "长泽·希瓦·塔法里",
+            "number": "44",
+            "name": "阿部海大",
             "position": "后卫"
           },
           {
@@ -455,23 +455,13 @@
         ],
         "subs": [
           {
-            "number": "43",
-            "name": "芳野凯斗",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "樱井辰德",
-            "position": "中场"
-          },
-          {
             "number": "15",
             "name": "酒井宣福",
             "position": "前锋"
           },
           {
-            "number": "20",
-            "name": "中原辉",
+            "number": "43",
+            "name": "芳野凯斗",
             "position": "中场"
           },
           {
@@ -480,19 +470,29 @@
             "position": "中场"
           },
           {
-            "number": "3",
-            "name": "神山京右",
+            "number": "20",
+            "name": "中原辉",
+            "position": "中场"
+          },
+          {
+            "number": "18",
+            "name": "玄理吾",
+            "position": "中场"
+          },
+          {
+            "number": "6",
+            "name": "樱井辰德",
+            "position": "中场"
+          },
+          {
+            "number": "5",
+            "name": "长泽·希瓦·塔法里",
             "position": "后卫"
           },
           {
             "number": "1",
             "name": "泉森凉太",
             "position": "守门员"
-          },
-          {
-            "number": "18",
-            "name": "玄理吾",
-            "position": "中场"
           },
           {
             "number": "42",
@@ -507,13 +507,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "39",
-            "name": "古川真人",
+            "number": "15",
+            "name": "坪井清志郎",
             "position": "前锋"
           },
           {
-            "number": "11",
-            "name": "金泰元",
+            "number": "55",
+            "name": "国武勇斗",
             "position": "中场"
           },
           {
@@ -527,13 +527,13 @@
             "position": "中场"
           },
           {
-            "number": "34",
-            "name": "竹中元汰",
+            "number": "6",
+            "name": "濑良俊太",
             "position": "中场"
           },
           {
-            "number": "14",
-            "name": "谷本俊介",
+            "number": "34",
+            "name": "竹中元汰",
             "position": "中场"
           },
           {
@@ -552,8 +552,8 @@
             "position": "后卫"
           },
           {
-            "number": "23",
-            "name": "西矢慎平",
+            "number": "40",
+            "name": "竹内丰",
             "position": "后卫"
           },
           {
@@ -564,18 +564,33 @@
         ],
         "subs": [
           {
+            "number": "5",
+            "name": "今濑淳也",
+            "position": "后卫"
+          },
+          {
+            "number": "23",
+            "name": "西矢慎平",
+            "position": "后卫"
+          },
+          {
+            "number": "8",
+            "name": "松冈大智",
+            "position": "中场"
+          },
+          {
+            "number": "14",
+            "name": "谷本俊介",
+            "position": "中场"
+          },
+          {
             "number": "9",
             "name": "吉平翼",
-            "position": "前锋"
+            "position": "中场"
           },
           {
-            "number": "15",
-            "name": "坪井清志郎",
-            "position": "前锋"
-          },
-          {
-            "number": "6",
-            "name": "濑良俊太",
+            "number": "11",
+            "name": "金泰元",
             "position": "中场"
           },
           {
@@ -584,24 +599,14 @@
             "position": "前锋"
           },
           {
-            "number": "8",
-            "name": "松冈大智",
-            "position": "中场"
-          },
-          {
-            "number": "55",
-            "name": "国武勇斗",
-            "position": "中场"
+            "number": "39",
+            "name": "古川真人",
+            "position": "前锋"
           },
           {
             "number": "31",
             "name": "孔邦俊",
             "position": "守门员"
-          },
-          {
-            "number": "5",
-            "name": "今濑淳也",
-            "position": "后卫"
           }
         ],
         "injured": [],
