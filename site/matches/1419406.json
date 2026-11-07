@@ -24,7 +24,7 @@
       "lost": "2.68",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-07T05:40:08Z"
+    "fetched_at_utc": "2026-11-07T05:50:07Z"
   },
   "shuju": {
     "title": "横滨水手VS冈山绿雉(2026/2027日职)-数据分析-500彩票网",
@@ -421,31 +421,6 @@
             "position": "后卫"
           },
           {
-            "number": "22",
-            "name": "角田涼太朗",
-            "position": "后卫"
-          },
-          {
-            "number": "32",
-            "name": "田中雄大",
-            "position": "中场"
-          },
-          {
-            "number": "1",
-            "name": "朴一圭",
-            "position": "守门员"
-          },
-          {
-            "number": "18",
-            "name": "奥奈乌·情滋",
-            "position": "前锋"
-          },
-          {
-            "number": "43",
-            "name": "二田理央",
-            "position": "前锋"
-          },
-          {
             "number": "8",
             "name": "喜田拓也",
             "position": "中场"
@@ -454,6 +429,31 @@
             "number": "47",
             "name": "三井寺真",
             "position": "中场"
+          },
+          {
+            "number": "43",
+            "name": "二田理央",
+            "position": "前锋"
+          },
+          {
+            "number": "18",
+            "name": "奥奈乌·情滋",
+            "position": "前锋"
+          },
+          {
+            "number": "1",
+            "name": "朴一圭",
+            "position": "守门员"
+          },
+          {
+            "number": "32",
+            "name": "田中雄大",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "角田涼太朗",
+            "position": "后卫"
           }
         ],
         "injured": [],
@@ -483,13 +483,13 @@
             "position": "中场"
           },
           {
-            "number": "80",
-            "name": "奥伯丹·阿利昂索·德利马",
+            "number": "41",
+            "name": "宫本英治",
             "position": "中场"
           },
           {
-            "number": "41",
-            "name": "宫本英治",
+            "number": "80",
+            "name": "奥伯丹·阿利昂索·德利马",
             "position": "中场"
           },
           {
@@ -520,14 +520,14 @@
         ],
         "subs": [
           {
-            "number": "28",
-            "name": "松本昌也",
+            "number": "58",
+            "name": "行友翔音",
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "罗相浩",
-            "position": "前锋"
+            "number": "7",
+            "name": "竹内涼",
+            "position": "中场"
           },
           {
             "number": "19",
@@ -535,9 +535,19 @@
             "position": "前锋"
           },
           {
-            "number": "7",
-            "name": "竹内涼",
+            "number": "10",
+            "name": "罗相浩",
+            "position": "前锋"
+          },
+          {
+            "number": "28",
+            "name": "松本昌也",
             "position": "中场"
+          },
+          {
+            "number": "9",
+            "name": "莱奥·高乔",
+            "position": "前锋"
           },
           {
             "number": "52",
@@ -553,16 +563,6 @@
             "number": "55",
             "name": "藤井叶大",
             "position": "后卫"
-          },
-          {
-            "number": "9",
-            "name": "莱奥·高乔",
-            "position": "前锋"
-          },
-          {
-            "number": "58",
-            "name": "行友翔音",
-            "position": "中场"
           }
         ],
         "injured": [],
@@ -684,22 +684,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.750↓",
-        "handicap": "平手/半球升",
-        "away_water": "1.090↑",
-        "time": "11-07 13:00"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "平手",
-        "away_water": "0.890",
-        "time": "11-01 12:23"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -713,6 +697,22 @@
         "handicap": "平手",
         "away_water": "0.890",
         "time": "11-01 13:06"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.750↓",
+        "handicap": "平手/半球升",
+        "away_water": "1.090↑",
+        "time": "11-07 13:00"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "平手",
+        "away_water": "0.890",
+        "time": "11-01 12:23"
       }
     },
     {
