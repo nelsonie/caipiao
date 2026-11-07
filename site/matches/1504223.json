@@ -24,7 +24,7 @@
       "lost": "2.68",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-07T09:20:09Z"
+    "fetched_at_utc": "2026-11-07T09:30:08Z"
   },
   "shuju": {
     "title": "金泉尚武VS安养FC(2026K1联赛)-数据分析-500彩票网",
@@ -692,22 +692,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↑",
-        "handicap": "平手降",
-        "away_water": "0.840↓",
-        "time": "11-07 15:30"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手/半球",
-        "away_water": "0.970",
-        "time": "11-02 08:49"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -721,6 +705,22 @@
         "handicap": "平手",
         "away_water": "1.350",
         "time": "11-01 15:57"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↑",
+        "handicap": "平手降",
+        "away_water": "0.840↓",
+        "time": "11-07 15:30"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手/半球",
+        "away_water": "0.970",
+        "time": "11-02 08:49"
       }
     },
     {
