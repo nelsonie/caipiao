@@ -24,7 +24,7 @@
       "lost": "1.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-07T09:00:27Z"
+    "fetched_at_utc": "2026-11-07T09:10:27Z"
   },
   "shuju": {
     "title": "欧塞尔VS巴黎FC(2026/2027法甲)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.590↑",
-        "handicap": "受一球/球半升",
-        "away_water": "1.590↓",
-        "time": "11-07 14:02"
-      },
-      "init": {
-        "home_water": "0.440",
-        "handicap": "受球半",
-        "away_water": "2.130",
-        "time": "10-26 04:03"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受半球",
         "away_water": "0.940",
         "time": "11-01 18:54"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.590↑",
+        "handicap": "受一球/球半升",
+        "away_water": "1.590↓",
+        "time": "11-07 14:02"
+      },
+      "init": {
+        "home_water": "0.440",
+        "handicap": "受球半",
+        "away_water": "2.130",
+        "time": "10-26 04:03"
       }
     },
     {
