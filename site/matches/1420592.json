@@ -24,7 +24,7 @@
       "lost": "1.89",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-07T08:30:38Z"
+    "fetched_at_utc": "2026-11-07T08:40:35Z"
   },
   "shuju": {
     "title": "桑德兰VS切尔西(2026/2027英超)-数据分析-500彩票网",
@@ -727,22 +727,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.850↑",
-        "handicap": "受半球",
-        "away_water": "0.940↓",
-        "time": "11-07 13:39"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "受半球",
-        "away_water": "0.960",
-        "time": "10-26 05:36"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -756,6 +740,22 @@
         "handicap": "平手",
         "away_water": "0.400",
         "time": "10-25 00:13"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.850↑",
+        "handicap": "受半球",
+        "away_water": "0.940↓",
+        "time": "11-07 13:39"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "受半球",
+        "away_water": "0.960",
+        "time": "10-26 05:36"
       }
     },
     {
