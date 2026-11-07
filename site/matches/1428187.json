@@ -24,7 +24,7 @@
       "lost": "2.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-07T06:40:12Z"
+    "fetched_at_utc": "2026-11-07T06:50:12Z"
   },
   "shuju": {
     "title": "马拉加VS桑坦德竞技(2026/2027西甲)-数据分析-500彩票网",
@@ -692,10 +692,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "1.070↑",
-        "handicap": "平手/半球",
-        "away_water": "0.720↓",
-        "time": "11-07 13:26"
+        "home_water": "0.800↓",
+        "handicap": "平手降",
+        "away_water": "1.050↑",
+        "time": "11-07 14:33"
       },
       "init": {
         "home_water": "0.920",
@@ -753,22 +753,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.060↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.780↓",
-        "time": "11-05 19:59"
-      },
-      "init": {
-        "home_water": "0.610",
-        "handicap": "平手",
-        "away_water": "1.530",
-        "time": "10-26 04:12"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -782,6 +766,22 @@
         "handicap": "平手/半球",
         "away_water": "0.800",
         "time": "11-01 08:28"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.060↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.780↓",
+        "time": "11-05 19:59"
+      },
+      "init": {
+        "home_water": "0.610",
+        "handicap": "平手",
+        "away_water": "1.530",
+        "time": "10-26 04:12"
       }
     },
     {
@@ -836,10 +836,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "1.130↑",
+        "home_water": "1.120↑",
         "handicap": "平手/半球升",
-        "away_water": "0.800↓",
-        "time": "11-07 14:31"
+        "away_water": "0.810↓",
+        "time": "11-07 14:32"
       },
       "init": {
         "home_water": "0.810",
