@@ -24,7 +24,7 @@
       "lost": "1.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-07T00:30:29Z"
+    "fetched_at_utc": "2026-11-07T00:40:33Z"
   },
   "shuju": {
     "title": "马德里竞技VS巴塞罗那(2026/2027西甲)-数据分析-500彩票网",
@@ -742,22 +742,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.850↑",
-        "handicap": "受半球/一球升",
-        "away_water": "1.100↓",
-        "time": "11-03 08:40"
-      },
-      "init": {
-        "home_water": "0.470",
-        "handicap": "受球半",
-        "away_water": "1.980",
-        "time": "10-26 04:14"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -771,6 +755,22 @@
         "handicap": "受半球/一球",
         "away_water": "1.010",
         "time": "10-26 06:41"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.850↑",
+        "handicap": "受半球/一球升",
+        "away_water": "1.100↓",
+        "time": "11-03 08:40"
+      },
+      "init": {
+        "home_water": "0.470",
+        "handicap": "受球半",
+        "away_water": "1.980",
+        "time": "10-26 04:14"
       }
     },
     {
