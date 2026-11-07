@@ -24,7 +24,7 @@
       "lost": "2.86",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-07T13:10:15Z"
+    "fetched_at_utc": "2026-11-07T13:20:15Z"
   },
   "shuju": {
     "title": "朴茨茅斯VS斯托克城(2026/2027英冠)-数据分析-500彩票网",
@@ -398,13 +398,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "11",
-            "name": "阿布·卡马拉",
+            "number": "17",
+            "name": "泰瑞斯·沙德",
             "position": "前锋"
           },
           {
-            "number": "17",
-            "name": "泰瑞斯·沙德",
+            "number": "11",
+            "name": "阿布·卡马拉",
             "position": "中场"
           },
           {
@@ -466,7 +466,7 @@
           },
           {
             "number": "32",
-            "name": "肯尼",
+            "name": "约恩·肯尼",
             "position": "中场"
           },
           {
@@ -522,13 +522,8 @@
             "position": "前锋"
           },
           {
-            "number": "22",
-            "name": "尤尼奥尔·查马德乌",
-            "position": "中场"
-          },
-          {
-            "number": "27",
-            "name": "哈吉·苏马雷",
+            "number": "2",
+            "name": "本·约翰逊",
             "position": "中场"
           },
           {
@@ -537,8 +532,13 @@
             "position": "中场"
           },
           {
-            "number": "2",
-            "name": "本·约翰逊",
+            "number": "27",
+            "name": "哈吉·苏马雷",
+            "position": "中场"
+          },
+          {
+            "number": "22",
+            "name": "尤尼奥尔·查马德乌",
             "position": "中场"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "平手/半球",
-        "away_water": "0.830↑",
-        "time": "11-07 20:27"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "平手/半球",
-        "away_water": "0.770",
-        "time": "11-01 01:55"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手/半球",
         "away_water": "0.760",
         "time": "11-01 03:07"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "平手/半球",
+        "away_water": "0.830↑",
+        "time": "11-07 20:27"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "平手/半球",
+        "away_water": "0.770",
+        "time": "11-01 01:55"
       }
     },
     {
