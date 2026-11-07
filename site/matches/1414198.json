@@ -24,7 +24,7 @@
       "lost": "2.27",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-07T02:10:12Z"
+    "fetched_at_utc": "2026-11-07T02:20:12Z"
   },
   "shuju": {
     "title": "卡利亚里VS弗洛西诺内(2026/2027意甲)-数据分析-500彩票网",
@@ -788,22 +788,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.090↑",
-        "handicap": "平手",
-        "away_water": "0.810↓",
-        "time": "11-07 04:07"
-      },
-      "init": {
-        "home_water": "1.040",
-        "handicap": "平手",
-        "away_water": "0.850",
-        "time": "11-01 18:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -817,6 +801,22 @@
         "handicap": "平手",
         "away_water": "1.340",
         "time": "10-31 03:17"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.090↑",
+        "handicap": "平手",
+        "away_water": "0.810↓",
+        "time": "11-07 04:07"
+      },
+      "init": {
+        "home_water": "1.040",
+        "handicap": "平手",
+        "away_water": "0.850",
+        "time": "11-01 18:48"
       }
     },
     {
