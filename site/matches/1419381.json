@@ -24,7 +24,7 @@
       "lost": "2.09",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-08T03:10:08Z"
+    "fetched_at_utc": "2026-11-08T03:20:08Z"
   },
   "shuju": {
     "title": "町田泽维亚VS广岛三箭(2026/2027日职)-数据分析-500彩票网",
@@ -376,33 +376,33 @@
         "formation": null,
         "starters": [
           {
-            "number": "8",
-            "name": "仙头启矢",
+            "number": "1",
+            "name": "谷晃生",
+            "position": "守门员"
+          },
+          {
+            "number": "7",
+            "name": "相马勇纪",
             "position": "中场"
           },
           {
-            "number": "15",
-            "name": "米切尔·杜克",
-            "position": "前锋"
+            "number": "33",
+            "name": "明本考浩",
+            "position": "后卫"
           },
           {
-            "number": "20",
-            "name": "西村拓真",
-            "position": "前锋"
+            "number": "24",
+            "name": "金眠泰",
+            "position": "后卫"
           },
           {
-            "number": "34",
-            "name": "德村枫大",
-            "position": "前锋"
-          },
-          {
-            "number": "18",
-            "name": "下田北斗",
+            "number": "31",
+            "name": "内塔·拉维",
             "position": "中场"
           },
           {
-            "number": "23",
-            "name": "白崎凌兵",
+            "number": "16",
+            "name": "前宽之",
             "position": "中场"
           },
           {
@@ -411,45 +411,8 @@
             "position": "后卫"
           },
           {
-            "number": "5",
-            "name": "易卜拉欣·德雷舍维奇",
-            "position": "后卫"
-          },
-          {
-            "number": "3",
-            "name": "昌子源",
-            "position": "后卫"
-          },
-          {
-            "number": "6",
-            "name": "望月海辉",
-            "position": "后卫"
-          },
-          {
-            "number": "1",
-            "name": "谷晃生",
-            "position": "守门员"
-          }
-        ],
-        "subs": [
-          {
-            "number": "89",
-            "name": "尼古拉斯·吉马良斯",
-            "position": "守门员"
-          },
-          {
-            "number": "99",
-            "name": "泰特·延吉",
-            "position": "前锋"
-          },
-          {
-            "number": "33",
-            "name": "明本考浩",
-            "position": "中场"
-          },
-          {
-            "number": "7",
-            "name": "相马勇纪",
+            "number": "20",
+            "name": "西村拓真",
             "position": "前锋"
           },
           {
@@ -458,29 +421,56 @@
             "position": "前锋"
           },
           {
-            "number": "31",
-            "name": "内塔·拉维",
-            "position": "中场"
-          },
-          {
             "number": "2",
             "name": "托马斯·奥维扬",
-            "position": "后卫"
-          },
-          {
-            "number": "16",
-            "name": "前宽之",
             "position": "中场"
           },
           {
-            "number": "24",
-            "name": "金眠泰",
+            "number": "3",
+            "name": "昌子源",
             "position": "后卫"
+          }
+        ],
+        "subs": [
+          {
+            "number": "18",
+            "name": "下田北斗",
+            "position": "中场"
+          },
+          {
+            "number": "8",
+            "name": "仙头启矢",
+            "position": "中场"
           },
           {
             "number": "13",
             "name": "守田达弥",
             "position": "守门员"
+          },
+          {
+            "number": "6",
+            "name": "望月海辉",
+            "position": "后卫"
+          },
+          {
+            "number": "66",
+            "name": "阿基·科克",
+            "position": "守门员"
+          },
+          {
+            "number": "15",
+            "name": "米切尔·杜克",
+            "position": "前锋"
+          },
+          {
+            "number": "23",
+            "name": "白崎凌兵",
+            "position": "中场"
+          },
+          {
+            "number": "99",
+            "name": "泰特·延吉",
+            "position": "前锋"
           }
         ],
         "injured": [],
@@ -490,49 +480,14 @@
         "formation": null,
         "starters": [
           {
-            "number": "23",
-            "name": "鲇川峻",
-            "position": "前锋"
-          },
-          {
-            "number": "10",
-            "name": "铃木章斗",
-            "position": "中场"
-          },
-          {
-            "number": "45",
-            "name": "小林志纹",
-            "position": "中场"
-          },
-          {
-            "number": "7",
-            "name": "东俊希",
-            "position": "中场"
-          },
-          {
-            "number": "35",
-            "name": "中岛洋太朗",
-            "position": "中场"
-          },
-          {
-            "number": "6",
-            "name": "川边骏",
-            "position": "中场"
-          },
-          {
-            "number": "5",
-            "name": "新井直人",
-            "position": "中场"
-          },
-          {
             "number": "37",
             "name": "金朱晟",
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "荒木隼人",
-            "position": "后卫"
+            "number": "35",
+            "name": "中岛洋太朗",
+            "position": "中场"
           },
           {
             "number": "15",
@@ -543,42 +498,52 @@
             "number": "1",
             "name": "大迫敬介",
             "position": "守门员"
+          },
+          {
+            "number": "10",
+            "name": "铃木章斗",
+            "position": "前锋"
+          },
+          {
+            "number": "6",
+            "name": "川边骏",
+            "position": "中场"
+          },
+          {
+            "number": "7",
+            "name": "东俊希",
+            "position": "前锋"
+          },
+          {
+            "number": "23",
+            "name": "鲇川峻",
+            "position": "前锋"
+          },
+          {
+            "number": "29",
+            "name": "浅野拓磨",
+            "position": "前锋"
+          },
+          {
+            "number": "4",
+            "name": "荒木隼人",
+            "position": "后卫"
+          },
+          {
+            "number": "5",
+            "name": "新井直人",
+            "position": "后卫"
           }
         ],
         "subs": [
           {
-            "number": "9",
-            "name": "库西尼·延吉",
+            "number": "22",
+            "name": "塞巴斯蒂安·阿莱",
             "position": "前锋"
           },
           {
-            "number": "21",
-            "name": "田中雄大",
-            "position": "守门员"
-          },
-          {
-            "number": "50",
-            "name": "髙桥成海",
-            "position": "前锋"
-          },
-          {
-            "number": "18",
-            "name": "菅大辉",
-            "position": "中场"
-          },
-          {
-            "number": "99",
-            "name": "大内一生",
-            "position": "守门员"
-          },
-          {
-            "number": "46",
-            "name": "野口莲斗",
-            "position": "中场"
-          },
-          {
-            "number": "14",
-            "name": "松本泰志",
+            "number": "45",
+            "name": "小林志纹",
             "position": "中场"
           },
           {
@@ -587,8 +552,33 @@
             "position": "中场"
           },
           {
-            "number": "29",
-            "name": "浅野拓磨",
+            "number": "14",
+            "name": "松本泰志",
+            "position": "中场"
+          },
+          {
+            "number": "46",
+            "name": "野口莲斗",
+            "position": "中场"
+          },
+          {
+            "number": "99",
+            "name": "大内一生",
+            "position": "守门员"
+          },
+          {
+            "number": "18",
+            "name": "菅大辉",
+            "position": "后卫"
+          },
+          {
+            "number": "50",
+            "name": "髙桥成海",
+            "position": "前锋"
+          },
+          {
+            "number": "9",
+            "name": "库西尼·延吉",
             "position": "前锋"
           }
         ],
@@ -666,10 +656,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.800",
+        "home_water": "0.900↑",
         "handicap": "受平手/半球",
-        "away_water": "1.090↑",
-        "time": "11-08 09:04"
+        "away_water": "0.990↓",
+        "time": "11-08 11:14"
       },
       "init": {
         "home_water": "0.800",
@@ -682,10 +672,10 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.820↑",
+        "home_water": "0.840↑",
         "handicap": "受平手/半球",
-        "away_water": "1.050↓",
-        "time": "11-08 10:39"
+        "away_water": "1.030↓",
+        "time": "11-08 11:12"
       },
       "init": {
         "home_water": "0.780",
@@ -698,10 +688,10 @@
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.860↓",
         "handicap": "受平手/半球",
-        "away_water": "1.040↑",
-        "time": "11-08 10:46"
+        "away_water": "0.990↑",
+        "time": "11-08 11:16"
       },
       "init": {
         "home_water": "0.920",
@@ -730,10 +720,10 @@
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.830↑",
+        "home_water": "0.910↑",
         "handicap": "受平手/半球升",
-        "away_water": "1.090↑",
-        "time": "11-08 06:37"
+        "away_water": "1.000↓",
+        "time": "11-08 11:10"
       },
       "init": {
         "home_water": "0.790",
@@ -762,10 +752,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.840↑",
+        "home_water": "0.890↑",
         "handicap": "受平手/半球",
-        "away_water": "1.060↓",
-        "time": "11-08 10:39"
+        "away_water": "1.010↓",
+        "time": "11-08 11:12"
       },
       "init": {
         "home_water": "0.800",
@@ -778,10 +768,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.840↑",
+        "home_water": "0.890↑",
         "handicap": "受平手/半球",
-        "away_water": "1.080",
-        "time": "11-08 10:46"
+        "away_water": "1.030↓",
+        "time": "11-08 11:14"
       },
       "init": {
         "home_water": "0.800",
@@ -810,10 +800,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.840↑",
+        "home_water": "0.890↑",
         "handicap": "受平手/半球",
-        "away_water": "1.080",
-        "time": "11-08 10:47"
+        "away_water": "1.030↓",
+        "time": "11-08 11:14"
       },
       "init": {
         "home_water": "0.800",
@@ -826,10 +816,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.780↓",
+        "home_water": "0.850↓",
         "handicap": "受平手/半球",
-        "away_water": "1.040↑",
-        "time": "11-08 10:07"
+        "away_water": "0.960↑",
+        "time": "11-08 11:14"
       },
       "init": {
         "home_water": "0.990",
@@ -842,10 +832,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.900↓",
         "handicap": "受平手/半球",
-        "away_water": "1.080↑",
-        "time": "11-08 09:39"
+        "away_water": "1.000↑",
+        "time": "11-08 11:15"
       },
       "init": {
         "home_water": "0.940",
