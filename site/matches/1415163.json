@@ -24,7 +24,7 @@
       "lost": "1.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-08T07:40:22Z"
+    "fetched_at_utc": "2026-11-08T07:50:18Z"
   },
   "shuju": {
     "title": "勒芒VS摩纳哥(2026/2027法甲)-数据分析-500彩票网",
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↑",
-        "handicap": "受半球/一球",
-        "away_water": "0.910↓",
-        "time": "11-08 15:01"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "受半球/一球",
-        "away_water": "0.940",
-        "time": "11-02 00:45"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "受球半",
         "away_water": "1.650",
         "time": "10-26 04:03"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↑",
+        "handicap": "受半球/一球",
+        "away_water": "0.910↓",
+        "time": "11-08 15:01"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "受半球/一球",
+        "away_water": "0.940",
+        "time": "11-02 00:45"
       }
     },
     {
