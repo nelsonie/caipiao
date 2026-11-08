@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-08T10:00:28Z",
+  "last_updated_utc": "2026-11-08T10:10:26Z",
   "matches": [
     {
       "xml_id": "2042612",
@@ -56,22 +56,22 @@
       "away_team_id": "3615"
     },
     {
-      "xml_id": "2042615",
-      "matchnum": "7004",
+      "xml_id": "2042616",
+      "matchnum": "7005",
       "date": "2026-11-08",
       "dayofweek": "星期天",
-      "league": "日本职业联赛",
-      "home": "大阪钢巴",
-      "away": "大阪樱花",
-      "spf_win": "4.50",
-      "spf_draw": "3.75",
-      "spf_lost": "1.54",
-      "spf_updated": "2026-11-08 13:29:20",
-      "gameid": "1419321",
-      "kickoff_cst": "2026-11-08 14:00",
-      "matchnum_label": "周日004",
-      "home_team_id": "752",
-      "away_team_id": "753"
+      "league": "韩国职业联赛",
+      "home": "江原FC",
+      "away": "全北现代",
+      "spf_win": "5.90",
+      "spf_draw": "3.70",
+      "spf_lost": "1.43",
+      "spf_updated": "2026-11-08 15:16:09",
+      "gameid": "1504236",
+      "kickoff_cst": "2026-11-08 15:30",
+      "matchnum_label": "周日005",
+      "home_team_id": "5739",
+      "away_team_id": "1609"
     },
     {
       "xml_id": "2042617",
@@ -108,6 +108,24 @@
       "matchnum_label": "周日007",
       "home_team_id": "564",
       "away_team_id": "673"
+    },
+    {
+      "xml_id": "2042619",
+      "matchnum": "7008",
+      "date": "2026-11-08",
+      "dayofweek": "星期天",
+      "league": "芬兰超级联赛",
+      "home": "库奥皮奥",
+      "away": "国际图尔库",
+      "spf_win": "1.84",
+      "spf_draw": "3.42",
+      "spf_lost": "3.30",
+      "spf_updated": "2026-11-08 16:44:07",
+      "gameid": "1489076",
+      "kickoff_cst": "2026-11-08 21:00",
+      "matchnum_label": "周日008",
+      "home_team_id": "841",
+      "away_team_id": "1327"
     },
     {
       "xml_id": "2042620",
@@ -153,10 +171,10 @@
       "league": "英格兰超级联赛",
       "home": "桑德兰",
       "away": "切尔西",
-      "spf_win": "1.83",
+      "spf_win": "1.88",
       "spf_draw": "3.75",
-      "spf_lost": "3.06",
-      "spf_updated": "2026-11-08 15:39:48",
+      "spf_lost": "2.93",
+      "spf_updated": "2026-11-08 18:04:42",
       "gameid": "1420592",
       "kickoff_cst": "2026-11-08 22:00",
       "matchnum_label": "周日011",
