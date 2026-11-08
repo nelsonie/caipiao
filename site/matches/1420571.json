@@ -8,9 +8,9 @@
     "away": "利物浦",
     "kickoff_cst": "2026-11-08 22:00",
     "spf": {
-      "win": "2.48",
-      "draw": "3.70",
-      "lost": "2.15"
+      "win": "2.55",
+      "draw": "3.69",
+      "lost": "2.10"
     },
     "asia_main": {
       "handicap": "受一球降",
@@ -24,7 +24,7 @@
       "lost": "1.46",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-08T09:20:20Z"
+    "fetched_at_utc": "2026-11-08T09:30:13Z"
   },
   "shuju": {
     "title": "水晶宫VS利物浦(2026/2027英超)-数据分析-500彩票网",
@@ -738,22 +738,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "受一球降",
-        "away_water": "0.940↑",
-        "time": "11-08 17:01"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "受半球/一球",
-        "away_water": "0.890",
-        "time": "10-26 11:25"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -767,6 +751,22 @@
         "handicap": "受球半",
         "away_water": "1.650",
         "time": "10-25 00:21"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↑",
+        "handicap": "受一球降",
+        "away_water": "0.940↑",
+        "time": "11-08 17:01"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "受半球/一球",
+        "away_water": "0.890",
+        "time": "10-26 11:25"
       }
     },
     {
