@@ -24,7 +24,7 @@
       "lost": "4.50",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-08T12:00:25Z"
+    "fetched_at_utc": "2026-11-08T12:10:24Z"
   },
   "shuju": {
     "title": "霍芬海姆VS沙尔克04(2026/2027德甲)-数据分析-500彩票网",
@@ -733,22 +733,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "一球降",
-        "away_water": "0.910↑",
-        "time": "11-08 15:30"
-      },
-      "init": {
-        "home_water": "1.410",
-        "handicap": "球半",
-        "away_water": "0.670",
-        "time": "10-26 03:35"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -762,6 +746,22 @@
         "handicap": "一球",
         "away_water": "0.820",
         "time": "11-02 02:47"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "一球降",
+        "away_water": "0.910↑",
+        "time": "11-08 15:30"
+      },
+      "init": {
+        "home_water": "1.410",
+        "handicap": "球半",
+        "away_water": "0.670",
+        "time": "10-26 03:35"
       }
     },
     {
