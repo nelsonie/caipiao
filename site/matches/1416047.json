@@ -24,7 +24,7 @@
       "lost": "5.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-08T02:10:21Z"
+    "fetched_at_utc": "2026-11-08T02:20:19Z"
   },
   "shuju": {
     "title": "阿尔克马尔VS格罗宁根(2026/2027荷甲)-数据分析-500彩票网",
@@ -758,22 +758,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "一球",
-        "away_water": "1.040↑",
-        "time": "11-08 07:26"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "一球",
-        "away_water": "1.030",
-        "time": "11-02 00:19"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -787,6 +771,22 @@
         "handicap": "球半",
         "away_water": "0.660",
         "time": "10-25 23:03"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "一球",
+        "away_water": "1.040↑",
+        "time": "11-08 07:26"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "一球",
+        "away_water": "1.030",
+        "time": "11-02 00:19"
       }
     },
     {
