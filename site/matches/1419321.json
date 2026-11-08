@@ -24,7 +24,7 @@
       "lost": "2.68",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-08T06:10:08Z"
+    "fetched_at_utc": "2026-11-08T06:20:09Z"
   },
   "shuju": {
     "title": "大阪钢巴VS大阪樱花(2026/2027日职)-数据分析-500彩票网",
@@ -507,6 +507,11 @@
         "formation": null,
         "starters": [
           {
+            "number": "7",
+            "name": "上门知树",
+            "position": "前锋"
+          },
+          {
             "number": "9",
             "name": "樱川·所罗门",
             "position": "前锋"
@@ -517,13 +522,8 @@
             "position": "中场"
           },
           {
-            "number": "77",
-            "name": "卢卡斯·费尔南德斯",
-            "position": "中场"
-          },
-          {
-            "number": "66",
-            "name": "大畑步梦",
+            "number": "10",
+            "name": "田中骏汰",
             "position": "中场"
           },
           {
@@ -532,14 +532,19 @@
             "position": "中场"
           },
           {
-            "number": "10",
-            "name": "田中骏汰",
+            "number": "77",
+            "name": "卢卡斯·费尔南德斯",
             "position": "中场"
           },
           {
-            "number": "7",
-            "name": "上门知树",
-            "position": "中场"
+            "number": "66",
+            "name": "大畑步梦",
+            "position": "后卫"
+          },
+          {
+            "number": "27",
+            "name": "迪昂·古斯",
+            "position": "后卫"
           },
           {
             "number": "4",
@@ -549,11 +554,6 @@
           {
             "number": "16",
             "name": "奥田勇斗",
-            "position": "后卫"
-          },
-          {
-            "number": "27",
-            "name": "迪昂·古斯",
             "position": "后卫"
           },
           {
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.960↓",
-        "handicap": "平手/半球",
-        "away_water": "0.890↑",
-        "time": "11-08 14:01"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "平手/半球",
-        "away_water": "0.850",
-        "time": "11-01 15:48"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "平手",
         "away_water": "1.200",
         "time": "11-01 15:31"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.960↓",
+        "handicap": "平手/半球",
+        "away_water": "0.890↑",
+        "time": "11-08 14:01"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "平手/半球",
+        "away_water": "0.850",
+        "time": "11-01 15:48"
       }
     },
     {
