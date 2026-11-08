@@ -24,7 +24,7 @@
       "lost": "2.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-08T13:40:14Z"
+    "fetched_at_utc": "2026-11-08T13:50:13Z"
   },
   "shuju": {
     "title": "特温特VS阿贾克斯(2026/2027荷甲)-数据分析-500彩票网",
@@ -460,11 +460,6 @@
             "position": "中场"
           },
           {
-            "number": "31",
-            "name": "雅尼克·格里森",
-            "position": "守门员"
-          },
-          {
             "number": "14",
             "name": "克里斯蒂安·诺维·赫林森",
             "position": "中场"
@@ -498,6 +493,11 @@
             "number": "25",
             "name": "卢卡斯·海塞林克",
             "position": "前锋"
+          },
+          {
+            "number": "31",
+            "name": "雅尼克·格里森",
+            "position": "守门员"
           }
         ],
         "injured": [],
@@ -507,28 +507,13 @@
         "formation": null,
         "starters": [
           {
-            "number": "10",
-            "name": "奥斯卡·格鲁克",
-            "position": "前锋"
-          },
-          {
             "number": "99",
             "name": "特鲁瓦拉瑟·阿罗科达雷",
             "position": "前锋"
           },
           {
-            "number": "18",
-            "name": "达维·克拉森",
-            "position": "前锋"
-          },
-          {
-            "number": "36",
-            "name": "迪斯·詹斯",
-            "position": "中场"
-          },
-          {
-            "number": "28",
-            "name": "伊夫·比苏马",
+            "number": "10",
+            "name": "奥斯卡·格鲁克",
             "position": "中场"
           },
           {
@@ -537,13 +522,28 @@
             "position": "中场"
           },
           {
+            "number": "18",
+            "name": "达维·克拉森",
+            "position": "中场"
+          },
+          {
+            "number": "15",
+            "name": "尤里·巴斯",
+            "position": "中场"
+          },
+          {
+            "number": "28",
+            "name": "伊夫·比苏马",
+            "position": "中场"
+          },
+          {
             "number": "5",
             "name": "欧文·维扬达尔",
             "position": "后卫"
           },
           {
-            "number": "15",
-            "name": "尤里·巴斯",
+            "number": "36",
+            "name": "迪斯·詹斯",
             "position": "后卫"
           },
           {
@@ -564,28 +564,8 @@
         ],
         "subs": [
           {
-            "number": "26",
-            "name": "马尔滕·佩斯",
-            "position": "守门员"
-          },
-          {
-            "number": "68",
-            "name": "阿卜杜拉·乌扎内",
-            "position": "中场"
-          },
-          {
-            "number": "38",
-            "name": "马科斯·莱昂纳多·桑托斯·阿尔梅达",
-            "position": "前锋"
-          },
-          {
-            "number": "22",
-            "name": "乔里·赫肯斯",
-            "position": "守门员"
-          },
-          {
-            "number": "20",
-            "name": "奥利弗·瓦拉克·埃德瓦森",
+            "number": "43",
+            "name": "瑞安·布尼达",
             "position": "前锋"
           },
           {
@@ -594,13 +574,8 @@
             "position": "后卫"
           },
           {
-            "number": "4",
-            "name": "苏菲安·阿姆拉巴特",
-            "position": "中场"
-          },
-          {
-            "number": "43",
-            "name": "瑞安·布尼达",
+            "number": "20",
+            "name": "奥利弗·瓦拉克·埃德瓦森",
             "position": "前锋"
           },
           {
@@ -609,14 +584,39 @@
             "position": "后卫"
           },
           {
-            "number": "67",
-            "name": "穆罕默德·贾布·阿卜杜拉",
+            "number": "26",
+            "name": "马尔滕·佩斯",
+            "position": "守门员"
+          },
+          {
+            "number": "22",
+            "name": "乔里·赫肯斯",
+            "position": "守门员"
+          },
+          {
+            "number": "68",
+            "name": "阿卜杜拉·乌扎内",
+            "position": "中场"
+          },
+          {
+            "number": "4",
+            "name": "苏菲安·阿姆拉巴特",
             "position": "中场"
           },
           {
             "number": "17",
             "name": "戴利·布林德",
             "position": "后卫"
+          },
+          {
+            "number": "67",
+            "name": "穆罕默德·贾布·阿卜杜拉",
+            "position": "中场"
+          },
+          {
+            "number": "38",
+            "name": "马科斯·莱昂纳多·桑托斯·阿尔梅达",
+            "position": "前锋"
           }
         ],
         "injured": [],
