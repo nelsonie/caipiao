@@ -24,7 +24,7 @@
       "lost": "1.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-08T05:40:20Z"
+    "fetched_at_utc": "2026-11-08T05:50:18Z"
   },
   "shuju": {
     "title": "AIK索尔纳VS赫根(2026瑞典超)-数据分析-500彩票网",
@@ -635,10 +635,10 @@
       "cid": "4",
       "company": "I**********",
       "live": {
-        "home_water": "0.700↓",
+        "home_water": "0.750↓",
         "handicap": "受一球降",
-        "away_water": "1.050↑",
-        "time": "11-08 07:55"
+        "away_water": "0.950↑",
+        "time": "11-08 13:46"
       },
       "init": {
         "home_water": "0.800",
@@ -680,22 +680,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "受半球/一球降",
-        "away_water": "0.710↑",
-        "time": "11-08 12:30"
-      },
-      "init": {
-        "home_water": "1.560",
-        "handicap": "平手",
-        "away_water": "0.450",
-        "time": "11-01 23:51"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -709,6 +693,22 @@
         "handicap": "受半球",
         "away_water": "0.850",
         "time": "11-03 08:43"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "受半球/一球降",
+        "away_water": "0.710↑",
+        "time": "11-08 12:30"
+      },
+      "init": {
+        "home_water": "1.560",
+        "handicap": "平手",
+        "away_water": "0.450",
+        "time": "11-01 23:51"
       }
     },
     {
