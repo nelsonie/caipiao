@@ -24,7 +24,7 @@
       "lost": "2.13",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-08T02:40:07Z"
+    "fetched_at_utc": "2026-11-08T02:50:07Z"
   },
   "shuju": {
     "title": "阿德莱德联VS墨尔本胜利(2026/2027澳超)-数据分析-500彩票网",
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↑",
-        "handicap": "受平手/半球",
-        "away_water": "0.990↓",
-        "time": "11-08 10:09"
-      },
-      "init": {
-        "home_water": "0.750",
-        "handicap": "受平手/半球",
-        "away_water": "1.050",
-        "time": "11-02 08:23"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "平手",
         "away_water": "0.930",
         "time": "10-26 00:16"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.990↓",
+        "time": "11-08 10:09"
+      },
+      "init": {
+        "home_water": "0.750",
+        "handicap": "受平手/半球",
+        "away_water": "1.050",
+        "time": "11-02 08:23"
       }
     },
     {

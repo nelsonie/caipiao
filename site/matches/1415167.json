@@ -24,7 +24,7 @@
       "lost": "2.88",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-08T02:40:26Z"
+    "fetched_at_utc": "2026-11-08T02:50:27Z"
   },
   "shuju": {
     "title": "朗斯VS马赛(2026/2027法甲)-数据分析-500彩票网",
@@ -753,22 +753,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "平手/半球",
-        "away_water": "0.840↓",
-        "time": "11-07 17:04"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "平手/半球",
-        "away_water": "1.010",
-        "time": "11-02 04:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -782,6 +766,22 @@
         "handicap": "平手",
         "away_water": "1.230",
         "time": "10-26 04:03"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "平手/半球",
+        "away_water": "0.840↓",
+        "time": "11-07 17:04"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "平手/半球",
+        "away_water": "1.010",
+        "time": "11-02 04:03"
       }
     },
     {
