@@ -24,7 +24,7 @@
       "lost": "7.15",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-08T11:40:24Z"
+    "fetched_at_utc": "2026-11-08T11:50:23Z"
   },
   "shuju": {
     "title": "比利亚雷亚尔VS赫塔费(2026/2027西甲)-数据分析-500彩票网",
@@ -682,10 +682,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "1.050↑",
-        "handicap": "一球/球半升",
-        "away_water": "0.800↓",
-        "time": "11-08 17:23"
+        "home_water": "0.850↑",
+        "handicap": "一球升",
+        "away_water": "1.000↓",
+        "time": "11-08 19:40"
       },
       "init": {
         "home_water": "0.820",
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.760↓",
-        "handicap": "一球降",
-        "away_water": "1.020↑",
-        "time": "11-08 15:43"
-      },
-      "init": {
-        "home_water": "1.820",
-        "handicap": "球半",
-        "away_water": "0.510",
-        "time": "10-26 04:14"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "一球",
         "away_water": "0.900",
         "time": "10-26 05:36"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.760↓",
+        "handicap": "一球降",
+        "away_water": "1.020↑",
+        "time": "11-08 15:43"
+      },
+      "init": {
+        "home_water": "1.820",
+        "handicap": "球半",
+        "away_water": "0.510",
+        "time": "10-26 04:14"
       }
     },
     {
