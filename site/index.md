@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-11-08T20:00:06Z'
-total_matches: 1
-leagues_covered:
-- 西班牙甲级联赛
+last_updated_utc: '2026-11-08T20:10:07Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 西班牙甲级联赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 7030 | 2026-11-09 星期一 | 马德里竞技 vs 巴塞罗那 | 1.95/3.96/2.67 | [1428131](matches/1428131.md) |
