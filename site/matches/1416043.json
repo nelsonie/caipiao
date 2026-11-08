@@ -24,7 +24,7 @@
       "lost": "2.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-08T11:50:14Z"
+    "fetched_at_utc": "2026-11-08T12:00:09Z"
   },
   "shuju": {
     "title": "特温特VS阿贾克斯(2026/2027荷甲)-数据分析-500彩票网",
@@ -743,22 +743,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.720↓",
-        "handicap": "平手/半球升",
-        "away_water": "1.180↑",
-        "time": "11-08 16:02"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "平手",
-        "away_water": "0.860",
-        "time": "10-25 23:03"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -772,6 +756,22 @@
         "handicap": "平手",
         "away_water": "1.050",
         "time": "11-01 22:24"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.720↓",
+        "handicap": "平手/半球升",
+        "away_water": "1.180↑",
+        "time": "11-08 16:02"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "平手",
+        "away_water": "0.860",
+        "time": "10-25 23:03"
       }
     },
     {
@@ -826,10 +826,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.970↓",
+        "home_water": "0.980↓",
         "handicap": "半球升",
-        "away_water": "0.930↑",
-        "time": "11-08 19:36"
+        "away_water": "0.920↑",
+        "time": "11-08 19:49"
       },
       "init": {
         "home_water": "1.040",
