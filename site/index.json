@@ -1,23 +1,23 @@
 {
-  "last_updated_utc": "2026-11-09T09:10:12Z",
+  "last_updated_utc": "2026-11-09T09:20:10Z",
   "matches": [
     {
-      "xml_id": "2042684",
-      "matchnum": "2001",
+      "xml_id": "2042685",
+      "matchnum": "2002",
       "date": "2026-11-11",
       "dayofweek": "星期三",
       "league": "英格兰锦标赛",
-      "home": "伯顿",
-      "away": "诺茨郡",
-      "spf_win": "4.55",
-      "spf_draw": "3.95",
-      "spf_lost": "1.50",
-      "spf_updated": "2026-11-09 09:19:05",
-      "gameid": "1491201",
-      "kickoff_cst": "2026-11-11 03:00",
-      "matchnum_label": "周二001",
-      "home_team_id": "2351",
-      "away_team_id": "1143"
+      "home": "布罗姆利",
+      "away": "米尔顿凯恩斯",
+      "spf_win": "2.05",
+      "spf_draw": "3.67",
+      "spf_lost": "2.64",
+      "spf_updated": "2026-11-09 13:52:00",
+      "gameid": "1491190",
+      "kickoff_cst": "2026-11-11 03:30",
+      "matchnum_label": "周二002",
+      "home_team_id": "3147",
+      "away_team_id": "2023"
     },
     {
       "xml_id": "2042690",
@@ -36,6 +36,24 @@
       "matchnum_label": "周三005",
       "home_team_id": "1300",
       "away_team_id": "580"
+    },
+    {
+      "xml_id": "2042691",
+      "matchnum": "3006",
+      "date": "2026-11-12",
+      "dayofweek": "星期四",
+      "league": "英格兰锦标赛",
+      "home": "巴恩斯利",
+      "away": "奥德汉姆",
+      "spf_win": "3.22",
+      "spf_draw": "3.70",
+      "spf_lost": "1.79",
+      "spf_updated": "2026-11-09 09:19:05",
+      "gameid": "1491207",
+      "kickoff_cst": "2026-11-12 03:00",
+      "matchnum_label": "周三006",
+      "home_team_id": "640",
+      "away_team_id": "630"
     }
   ]
 }
