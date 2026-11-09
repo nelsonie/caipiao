@@ -1,8 +1,15 @@
 ---
-last_updated_utc: '2026-11-09T06:10:10Z'
-total_matches: 0
-leagues_covered: []
+last_updated_utc: '2026-11-09T06:20:11Z'
+total_matches: 1
+leagues_covered:
+- 英格兰锦标赛
 ---
 
 # 今日全部对阵
 
+
+## 英格兰锦标赛 (1)
+
+| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
+|---|---|---|---|---|
+| 2001 | 2026-11-11 星期三 | 伯顿 vs 诺茨郡 | 4.55/3.95/1.50 | [1491201](matches/1491201.md) |
