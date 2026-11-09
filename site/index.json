@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-09T05:00:11Z",
+  "last_updated_utc": "2026-11-09T05:10:12Z",
   "matches": [
     {
       "xml_id": "2042684",
@@ -18,6 +18,24 @@
       "matchnum_label": "周二001",
       "home_team_id": "2351",
       "away_team_id": "1143"
+    },
+    {
+      "xml_id": "2042685",
+      "matchnum": "2002",
+      "date": "2026-11-11",
+      "dayofweek": "星期三",
+      "league": "英格兰锦标赛",
+      "home": "布罗姆利",
+      "away": "米尔顿凯恩斯",
+      "spf_win": "2.02",
+      "spf_draw": "3.70",
+      "spf_lost": "2.67",
+      "spf_updated": "2026-11-09 11:25:07",
+      "gameid": "1491190",
+      "kickoff_cst": "2026-11-11 03:30",
+      "matchnum_label": "周二002",
+      "home_team_id": "3147",
+      "away_team_id": "2023"
     },
     {
       "xml_id": "2042690",
