@@ -24,7 +24,7 @@
       "lost": "1.57",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-10T06:40:07Z"
+    "fetched_at_utc": "2026-11-10T06:50:06Z"
   },
   "shuju": {
     "title": "布罗姆利VS米尔顿凯恩斯(2026/2027英锦赛)-数据分析-500彩票网",
@@ -717,22 +717,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.940",
-        "handicap": "受半球",
-        "away_water": "0.790",
-        "time": "11-10 13:50"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "受半球",
-        "away_water": "0.790",
-        "time": "11-08 18:23"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -746,6 +730,22 @@
         "handicap": "平手",
         "away_water": "0.580",
         "time": "11-07 23:05"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940",
+        "handicap": "受半球",
+        "away_water": "0.790",
+        "time": "11-10 13:50"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "受半球",
+        "away_water": "0.790",
+        "time": "11-08 18:23"
       }
     },
     {
