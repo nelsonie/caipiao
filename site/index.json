@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-10T08:40:10Z",
+  "last_updated_utc": "2026-11-10T08:50:14Z",
   "matches": [
     {
       "xml_id": "2042684",
@@ -72,60 +72,6 @@
       "matchnum_label": "周三002",
       "home_team_id": "492",
       "away_team_id": "6384"
-    },
-    {
-      "xml_id": "2042688",
-      "matchnum": "3003",
-      "date": "2026-11-11",
-      "dayofweek": "星期三",
-      "league": "日本联赛杯",
-      "home": "川崎前锋",
-      "away": "柏太阳神",
-      "spf_win": "1.48",
-      "spf_draw": "4.20",
-      "spf_lost": "4.45",
-      "spf_updated": "2026-11-10 09:21:51",
-      "gameid": "2160689",
-      "kickoff_cst": "2026-11-11 18:00",
-      "matchnum_label": "周三003",
-      "home_team_id": "2272",
-      "away_team_id": "658"
-    },
-    {
-      "xml_id": "2042689",
-      "matchnum": "3004",
-      "date": "2026-11-11",
-      "dayofweek": "星期三",
-      "league": "日本联赛杯",
-      "home": "浦和红钻",
-      "away": "大阪樱花",
-      "spf_win": "3.37",
-      "spf_draw": "3.65",
-      "spf_lost": "1.76",
-      "spf_updated": "2026-11-10 09:21:51",
-      "gameid": "2160695",
-      "kickoff_cst": "2026-11-11 18:30",
-      "matchnum_label": "周三004",
-      "home_team_id": "1164",
-      "away_team_id": "753"
-    },
-    {
-      "xml_id": "2042691",
-      "matchnum": "3006",
-      "date": "2026-11-12",
-      "dayofweek": "星期四",
-      "league": "英格兰锦标赛",
-      "home": "巴恩斯利",
-      "away": "奥德汉姆",
-      "spf_win": "3.22",
-      "spf_draw": "3.58",
-      "spf_lost": "1.82",
-      "spf_updated": "2026-11-10 13:54:52",
-      "gameid": "1491207",
-      "kickoff_cst": "2026-11-12 03:00",
-      "matchnum_label": "周三006",
-      "home_team_id": "640",
-      "away_team_id": "630"
     }
   ]
 }
