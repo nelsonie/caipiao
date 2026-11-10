@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-10T03:10:12Z",
+  "last_updated_utc": "2026-11-10T03:20:12Z",
   "matches": [
     {
       "xml_id": "2042684",
@@ -70,6 +70,24 @@
       "gameid": "2160691",
       "kickoff_cst": "2026-11-11 18:00",
       "matchnum_label": "周三002",
+      "home_team_id": "",
+      "away_team_id": ""
+    },
+    {
+      "xml_id": "2042688",
+      "matchnum": "3003",
+      "date": "2026-11-11",
+      "dayofweek": "星期三",
+      "league": "日本联赛杯",
+      "home": "川崎前锋",
+      "away": "柏太阳神",
+      "spf_win": "1.48",
+      "spf_draw": "4.20",
+      "spf_lost": "4.45",
+      "spf_updated": "2026-11-10 09:21:51",
+      "gameid": "2160689",
+      "kickoff_cst": "2026-11-11 18:00",
+      "matchnum_label": "周三003",
       "home_team_id": "",
       "away_team_id": ""
     },
