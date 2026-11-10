@@ -24,7 +24,7 @@
       "lost": "2.57",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-10T01:30:05Z"
+    "fetched_at_utc": "2026-11-10T01:40:06Z"
   },
   "shuju": {
     "title": "伯顿VS诺茨郡(2026/2027英锦赛)-数据分析-500彩票网",
@@ -691,22 +691,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.900↑",
-        "handicap": "平手/半球升",
-        "away_water": "0.770↓",
-        "time": "11-08 08:44"
-      },
-      "init": {
-        "home_water": "0.450",
-        "handicap": "平手",
-        "away_water": "1.500",
-        "time": "11-07 20:05"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -720,6 +704,22 @@
         "handicap": "平手",
         "away_water": "0.990",
         "time": "11-07 20:36"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.900↑",
+        "handicap": "平手/半球升",
+        "away_water": "0.770↓",
+        "time": "11-08 08:44"
+      },
+      "init": {
+        "home_water": "0.450",
+        "handicap": "平手",
+        "away_water": "1.500",
+        "time": "11-07 20:05"
       }
     },
     {
