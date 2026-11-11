@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-11-11T15:20:05Z'
+last_updated_utc: '2026-11-11T15:30:06Z'
 total_matches: 12
 leagues_covered:
 - 日本联赛杯
