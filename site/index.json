@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-11T06:50:16Z",
+  "last_updated_utc": "2026-11-11T07:00:12Z",
   "matches": [
     {
       "xml_id": "2042686",
@@ -54,6 +54,24 @@
       "matchnum_label": "周三003",
       "home_team_id": "2272",
       "away_team_id": "658"
+    },
+    {
+      "xml_id": "2042689",
+      "matchnum": "3004",
+      "date": "2026-11-11",
+      "dayofweek": "星期三",
+      "league": "日本联赛杯",
+      "home": "浦和红钻",
+      "away": "大阪樱花",
+      "spf_win": "3.48",
+      "spf_draw": "3.56",
+      "spf_lost": "1.75",
+      "spf_updated": "2026-11-11 11:33:08",
+      "gameid": "2160695",
+      "kickoff_cst": "2026-11-11 18:30",
+      "matchnum_label": "周三004",
+      "home_team_id": "1164",
+      "away_team_id": "753"
     },
     {
       "xml_id": "2042690",
@@ -128,6 +146,24 @@
       "away_team_id": "84"
     },
     {
+      "xml_id": "2042695",
+      "matchnum": "4004",
+      "date": "2026-11-13",
+      "dayofweek": "星期五",
+      "league": "欧洲国家联赛",
+      "home": "黑山",
+      "away": "拉脱维亚",
+      "spf_win": "1.78",
+      "spf_draw": "3.45",
+      "spf_lost": "3.48",
+      "spf_updated": "2026-11-11 09:28:01",
+      "gameid": "1398680",
+      "kickoff_cst": "2026-11-13 03:45",
+      "matchnum_label": "周四004",
+      "home_team_id": "4172",
+      "away_team_id": "92"
+    },
+    {
       "xml_id": "2042696",
       "matchnum": "4005",
       "date": "2026-11-13",
@@ -144,6 +180,24 @@
       "matchnum_label": "周四005",
       "home_team_id": "15",
       "away_team_id": "36"
+    },
+    {
+      "xml_id": "2042697",
+      "matchnum": "4006",
+      "date": "2026-11-13",
+      "dayofweek": "星期五",
+      "league": "欧洲国家联赛",
+      "home": "捷克",
+      "away": "西班牙",
+      "spf_win": "2.37",
+      "spf_draw": "3.83",
+      "spf_lost": "2.19",
+      "spf_updated": "2026-11-11 09:28:01",
+      "gameid": "1398673",
+      "kickoff_cst": "2026-11-13 03:45",
+      "matchnum_label": "周四006",
+      "home_team_id": "22",
+      "away_team_id": "12"
     }
   ]
 }
