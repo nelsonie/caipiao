@@ -24,7 +24,7 @@
       "lost": "3.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-11T09:50:08Z"
+    "fetched_at_utc": "2026-11-11T10:00:10Z"
   },
   "shuju": {
     "title": "巴恩斯利VS奥德汉姆(2026/2027英锦赛)-数据分析-500彩票网",
@@ -705,32 +705,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.880↑",
+        "home_water": "0.870↑",
         "handicap": "半球/一球升",
         "away_water": "0.910↓",
-        "time": "11-11 17:34"
+        "time": "11-11 17:45"
       },
       "init": {
         "home_water": "0.810",
         "handicap": "半球",
         "away_water": "0.950",
         "time": "11-11 08:22"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.810↑",
-        "handicap": "半球/一球升",
-        "away_water": "0.810↓",
-        "time": "11-11 17:16"
-      },
-      "init": {
-        "home_water": "0.660",
-        "handicap": "平手",
-        "away_water": "1.050",
-        "time": "11-07 23:37"
       }
     },
     {
@@ -747,6 +731,22 @@
         "handicap": "平手/半球",
         "away_water": "0.830",
         "time": "11-08 03:48"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.810↑",
+        "handicap": "半球/一球升",
+        "away_water": "0.810↓",
+        "time": "11-11 17:16"
+      },
+      "init": {
+        "home_water": "0.660",
+        "handicap": "平手",
+        "away_water": "1.050",
+        "time": "11-07 23:37"
       }
     },
     {
