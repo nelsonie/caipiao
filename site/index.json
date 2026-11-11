@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-11T00:00:06Z",
+  "last_updated_utc": "2026-11-11T00:10:11Z",
   "matches": [
     {
       "xml_id": "2042686",
@@ -72,24 +72,6 @@
       "matchnum_label": "周三004",
       "home_team_id": "",
       "away_team_id": ""
-    },
-    {
-      "xml_id": "2042690",
-      "matchnum": "3005",
-      "date": "2026-11-12",
-      "dayofweek": "星期四",
-      "league": "英格兰锦标赛",
-      "home": "谢菲尔德星期三",
-      "away": "阿克宁顿",
-      "spf_win": "2.12",
-      "spf_draw": "3.65",
-      "spf_lost": "2.54",
-      "spf_updated": "2026-11-10 21:43:28",
-      "gameid": "1491222",
-      "kickoff_cst": "2026-11-12 03:00",
-      "matchnum_label": "周三005",
-      "home_team_id": "1300",
-      "away_team_id": "580"
     },
     {
       "xml_id": "2042691",
