@@ -24,7 +24,7 @@
       "lost": "3.78",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-12T01:30:07Z"
+    "fetched_at_utc": "2026-11-12T01:40:07Z"
   },
   "shuju": {
     "title": "阿尔巴尼亚VS芬兰(2026/2027欧国联)-数据分析-500彩票网",
@@ -643,22 +643,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.740↑",
-        "handicap": "平手/半球升",
-        "away_water": "1.180↓",
-        "time": "11-12 05:59"
-      },
-      "init": {
-        "home_water": "0.380",
-        "handicap": "平手",
-        "away_water": "1.710",
-        "time": "10-15 00:58"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -672,6 +656,22 @@
         "handicap": "平手/半球",
         "away_water": "1.030",
         "time": "11-06 04:25"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.740↑",
+        "handicap": "平手/半球升",
+        "away_water": "1.180↓",
+        "time": "11-12 05:59"
+      },
+      "init": {
+        "home_water": "0.380",
+        "handicap": "平手",
+        "away_water": "1.710",
+        "time": "10-15 00:58"
       }
     },
     {
