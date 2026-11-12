@@ -24,7 +24,7 @@
       "lost": "3.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-12T03:20:07Z"
+    "fetched_at_utc": "2026-11-12T03:30:07Z"
   },
   "shuju": {
     "title": "亚美尼亚VS塞浦路斯(2026/2027欧国联)-数据分析-500彩票网",
@@ -665,22 +665,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.070↑",
-        "handicap": "平手/半球",
-        "away_water": "0.780↓",
-        "time": "11-12 10:08"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "平手/半球",
-        "away_water": "0.910",
-        "time": "11-06 00:12"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -694,6 +678,22 @@
         "handicap": "平手",
         "away_water": "1.190",
         "time": "10-15 00:58"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.070↑",
+        "handicap": "平手/半球",
+        "away_water": "0.780↓",
+        "time": "11-12 10:08"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "平手/半球",
+        "away_water": "0.910",
+        "time": "11-06 00:12"
       }
     },
     {
