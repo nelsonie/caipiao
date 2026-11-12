@@ -24,7 +24,7 @@
       "lost": "1.18",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-12T06:50:11Z"
+    "fetched_at_utc": "2026-11-12T07:00:11Z"
   },
   "shuju": {
     "title": "塞尔维亚VS德国(2026/2027欧国联)-数据分析-500彩票网",
@@ -698,22 +698,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.890↓",
-        "handicap": "受球半/两球降",
-        "away_water": "0.980↑",
-        "time": "11-11 17:41"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "受球半",
-        "away_water": "0.660",
-        "time": "10-16 18:53"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -727,6 +711,22 @@
         "handicap": "受球半",
         "away_water": "0.820",
         "time": "11-05 00:05"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.890↓",
+        "handicap": "受球半/两球降",
+        "away_water": "0.980↑",
+        "time": "11-11 17:41"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "受球半",
+        "away_water": "0.660",
+        "time": "10-16 18:53"
       }
     },
     {
