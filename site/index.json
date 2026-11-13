@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-13T08:10:25Z",
+  "last_updated_utc": "2026-11-13T08:20:24Z",
   "matches": [
     {
       "xml_id": "2042726",
@@ -92,6 +92,42 @@
       "away_team_id": "13"
     },
     {
+      "xml_id": "2042731",
+      "matchnum": "5006",
+      "date": "2026-11-14",
+      "dayofweek": "星期六",
+      "league": "欧洲国家联赛",
+      "home": "卢森堡",
+      "away": "爱沙尼亚",
+      "spf_win": "5.50",
+      "spf_draw": "3.80",
+      "spf_lost": "1.44",
+      "spf_updated": "2026-11-13 14:26:01",
+      "gameid": "1398686",
+      "kickoff_cst": "2026-11-14 03:45",
+      "matchnum_label": "周五006",
+      "home_team_id": "146",
+      "away_team_id": "64"
+    },
+    {
+      "xml_id": "2042732",
+      "matchnum": "5007",
+      "date": "2026-11-14",
+      "dayofweek": "星期六",
+      "league": "欧洲国家联赛",
+      "home": "斯洛伐克",
+      "away": "法罗群岛",
+      "spf_win": "1.80",
+      "spf_draw": "3.43",
+      "spf_lost": "3.42",
+      "spf_updated": "2026-11-13 13:22:54",
+      "gameid": "1398682",
+      "kickoff_cst": "2026-11-14 03:45",
+      "matchnum_label": "周五007",
+      "home_team_id": "54",
+      "away_team_id": "112"
+    },
+    {
       "xml_id": "2042733",
       "matchnum": "5008",
       "date": "2026-11-14",
@@ -164,40 +200,22 @@
       "away_team_id": "2915"
     },
     {
-      "xml_id": "2042759",
-      "matchnum": "6009",
+      "xml_id": "2042758",
+      "matchnum": "6008",
       "date": "2026-11-15",
       "dayofweek": "星期天",
       "league": "荷兰乙级联赛",
-      "home": "瓦尔韦克",
-      "away": "登博思",
-      "spf_win": "2.84",
-      "spf_draw": "3.80",
-      "spf_lost": "1.91",
+      "home": "罗达JC",
+      "away": "福伦丹",
+      "spf_win": "3.62",
+      "spf_draw": "3.65",
+      "spf_lost": "1.70",
       "spf_updated": "2026-11-13 09:35:50",
-      "gameid": "1416128",
+      "gameid": "1416124",
       "kickoff_cst": "2026-11-15 03:00",
-      "matchnum_label": "周六009",
-      "home_team_id": "385",
-      "away_team_id": "756"
-    },
-    {
-      "xml_id": "2042771",
-      "matchnum": "7005",
-      "date": "2026-11-15",
-      "dayofweek": "星期天",
-      "league": "荷兰乙级联赛",
-      "home": "马斯特里赫特",
-      "away": "维迪斯",
-      "spf_win": "1.62",
-      "spf_draw": "3.70",
-      "spf_lost": "3.98",
-      "spf_updated": "2026-11-13 09:35:50",
-      "gameid": "1416130",
-      "kickoff_cst": "2026-11-15 21:30",
-      "matchnum_label": "周日005",
-      "home_team_id": "349",
-      "away_team_id": "1255"
+      "matchnum_label": "周六008",
+      "home_team_id": "1030",
+      "away_team_id": "1273"
     }
   ]
 }
