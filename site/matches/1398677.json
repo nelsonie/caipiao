@@ -9,8 +9,8 @@
     "kickoff_cst": "2026-11-14 03:45",
     "spf": {
       "win": "2.36",
-      "draw": "3.14",
-      "lost": "2.52"
+      "draw": "3.09",
+      "lost": "2.55"
     },
     "asia_main": {
       "handicap": "一球降",
@@ -24,7 +24,7 @@
       "lost": "5.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-13T12:30:12Z"
+    "fetched_at_utc": "2026-11-13T12:40:09Z"
   },
   "shuju": {
     "title": "荷兰VS希腊(2026/2027欧国联)-数据分析-500彩票网",
@@ -676,22 +676,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.270↑",
-        "handicap": "一球/球半降",
-        "away_water": "0.710↑",
-        "time": "11-13 19:52"
-      },
-      "init": {
-        "home_water": "1.060",
-        "handicap": "球半",
-        "away_water": "0.640",
-        "time": "10-16 01:29"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -705,6 +689,22 @@
         "handicap": "一球/球半",
         "away_water": "0.910",
         "time": "11-05 00:05"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.270↑",
+        "handicap": "一球/球半降",
+        "away_water": "0.710↑",
+        "time": "11-13 19:52"
+      },
+      "init": {
+        "home_water": "1.060",
+        "handicap": "球半",
+        "away_water": "0.640",
+        "time": "10-16 01:29"
       }
     },
     {
