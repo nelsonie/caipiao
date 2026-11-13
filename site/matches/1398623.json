@@ -24,7 +24,7 @@
       "lost": "15.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-13T10:50:07Z"
+    "fetched_at_utc": "2026-11-13T11:00:07Z"
   },
   "shuju": {
     "title": "苏格兰VS北马其顿(2026/2027欧国联)-数据分析-500彩票网",
@@ -682,6 +682,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "两球升",
+        "away_water": "0.860↓",
+        "time": "11-13 18:46"
+      },
+      "init": {
+        "home_water": "0.940",
+        "handicap": "球半/两球",
+        "away_water": "0.890",
+        "time": "11-05 00:05"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -695,22 +711,6 @@
         "handicap": "球半",
         "away_water": "0.910",
         "time": "10-16 01:29"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↑",
-        "handicap": "两球升",
-        "away_water": "0.870↓",
-        "time": "11-13 18:41"
-      },
-      "init": {
-        "home_water": "0.940",
-        "handicap": "球半/两球",
-        "away_water": "0.890",
-        "time": "11-05 00:05"
       }
     },
     {
