@@ -1,6 +1,42 @@
 {
-  "last_updated_utc": "2026-11-13T01:00:10Z",
+  "last_updated_utc": "2026-11-13T01:10:09Z",
   "matches": [
+    {
+      "xml_id": "2042727",
+      "matchnum": "5002",
+      "date": "2026-11-14",
+      "dayofweek": "星期六",
+      "league": "欧洲国家联赛",
+      "home": "摩尔多瓦",
+      "away": "哈萨克斯坦",
+      "spf_win": "5.60",
+      "spf_draw": "3.70",
+      "spf_lost": "1.45",
+      "spf_updated": "2026-11-12 14:01:29",
+      "gameid": "1398684",
+      "kickoff_cst": "2026-11-14 01:00",
+      "matchnum_label": "周五002",
+      "home_team_id": "109",
+      "away_team_id": "108"
+    },
+    {
+      "xml_id": "2042728",
+      "matchnum": "5003",
+      "date": "2026-11-14",
+      "dayofweek": "星期六",
+      "league": "欧洲国家联赛",
+      "home": "保加利亚",
+      "away": "冰岛",
+      "spf_win": "1.85",
+      "spf_draw": "3.30",
+      "spf_lost": "3.38",
+      "spf_updated": "2026-11-12 14:01:29",
+      "gameid": "1398688",
+      "kickoff_cst": "2026-11-14 03:45",
+      "matchnum_label": "周五003",
+      "home_team_id": "43",
+      "away_team_id": "57"
+    },
     {
       "xml_id": "2042729",
       "matchnum": "5004",
@@ -36,6 +72,24 @@
       "matchnum_label": "周五005",
       "home_team_id": "4",
       "away_team_id": "13"
+    },
+    {
+      "xml_id": "2042731",
+      "matchnum": "5006",
+      "date": "2026-11-14",
+      "dayofweek": "星期六",
+      "league": "欧洲国家联赛",
+      "home": "卢森堡",
+      "away": "爱沙尼亚",
+      "spf_win": "4.18",
+      "spf_draw": "3.28",
+      "spf_lost": "1.68",
+      "spf_updated": "2026-11-12 14:01:29",
+      "gameid": "1398686",
+      "kickoff_cst": "2026-11-14 03:45",
+      "matchnum_label": "周五006",
+      "home_team_id": "146",
+      "away_team_id": "64"
     },
     {
       "xml_id": "2042732",
