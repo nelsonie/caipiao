@@ -24,7 +24,7 @@
       "lost": "1.72",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-13T07:20:07Z"
+    "fetched_at_utc": "2026-11-13T07:30:07Z"
   },
   "shuju": {
     "title": "保加利亚VS冰岛(2026/2027欧国联)-数据分析-500彩票网",
@@ -643,22 +643,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.050↑",
-        "handicap": "受半球",
-        "away_water": "0.790↓",
-        "time": "11-13 15:08"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "受半球",
-        "away_water": "0.860",
-        "time": "11-07 04:06"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -672,6 +656,22 @@
         "handicap": "受一球",
         "away_water": "1.510",
         "time": "10-05 17:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.050↑",
+        "handicap": "受半球",
+        "away_water": "0.790↓",
+        "time": "11-13 15:08"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "受半球",
+        "away_water": "0.860",
+        "time": "11-07 04:06"
       }
     },
     {
