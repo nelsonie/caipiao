@@ -13,10 +13,10 @@
       "lost": "2.45"
     },
     "asia_main": {
-      "handicap": "一球升",
-      "home_water": "1.010↑",
-      "away_water": "0.770↓",
-      "company": "*门"
+      "handicap": "半球/一球",
+      "home_water": "0.670",
+      "away_water": "0.950",
+      "company": "威***"
     },
     "euro_main": {
       "win": "1.40",
@@ -24,7 +24,7 @@
       "lost": "6.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-13T03:20:12Z"
+    "fetched_at_utc": "2026-11-13T03:30:08Z"
   },
   "shuju": {
     "title": "阿根廷VS乌拉圭(2026友谊赛)-数据分析-500彩票网",
@@ -591,6 +591,22 @@
   },
   "yazhi": [
     {
+      "cid": "293",
+      "company": "威***",
+      "live": {
+        "home_water": "0.670",
+        "handicap": "半球/一球",
+        "away_water": "0.950",
+        "time": "11-13 11:21"
+      },
+      "init": {
+        "home_water": "0.670",
+        "handicap": "半球/一球",
+        "away_water": "0.950",
+        "time": "11-13 11:21"
+      }
+    },
+    {
       "cid": "5",
       "company": "*门",
       "live": {
@@ -690,10 +706,10 @@
       "cid": "6",
       "company": "伟*",
       "live": {
-        "home_water": "0.950",
+        "home_water": "0.940↓",
         "handicap": "一球",
-        "away_water": "0.780↑",
-        "time": "11-13 03:04"
+        "away_water": "0.790↑",
+        "time": "11-13 11:24"
       },
       "init": {
         "home_water": "0.950",
@@ -818,10 +834,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "1.040↓",
+        "home_water": "1.030↓",
         "handicap": "一球",
-        "away_water": "0.780↑",
-        "time": "11-13 09:21"
+        "away_water": "0.790↑",
+        "time": "11-13 11:25"
       },
       "init": {
         "home_water": "1.060",
