@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-13T13:00:21Z",
+  "last_updated_utc": "2026-11-13T13:10:23Z",
   "matches": [
     {
       "xml_id": "2042726",
@@ -234,6 +234,24 @@
       "matchnum_label": "周六005",
       "home_team_id": "350",
       "away_team_id": "2426"
+    },
+    {
+      "xml_id": "2042758",
+      "matchnum": "6008",
+      "date": "2026-11-15",
+      "dayofweek": "星期天",
+      "league": "荷兰乙级联赛",
+      "home": "罗达JC",
+      "away": "福伦丹",
+      "spf_win": "3.62",
+      "spf_draw": "3.65",
+      "spf_lost": "1.70",
+      "spf_updated": "2026-11-13 09:35:50",
+      "gameid": "1416124",
+      "kickoff_cst": "2026-11-15 03:00",
+      "matchnum_label": "周六008",
+      "home_team_id": "1030",
+      "away_team_id": "1273"
     },
     {
       "xml_id": "2042769",
