@@ -24,7 +24,7 @@
       "lost": "6.45",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-13T12:00:09Z"
+    "fetched_at_utc": "2026-11-13T12:10:11Z"
   },
   "shuju": {
     "title": "阿根廷VS乌拉圭(2026友谊赛)-数据分析-500彩票网",
@@ -642,10 +642,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "1.020↑",
+        "home_water": "1.000↑",
         "handicap": "一球升",
-        "away_water": "0.770↓",
-        "time": "11-13 16:55"
+        "away_water": "0.800↓",
+        "time": "11-13 20:05"
       },
       "init": {
         "home_water": "0.850",
@@ -703,22 +703,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "一球",
-        "away_water": "0.750↓",
-        "time": "11-13 17:28"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "一球",
-        "away_water": "0.770",
-        "time": "11-10 18:03"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -732,6 +716,22 @@
         "handicap": "一球",
         "away_water": "0.670",
         "time": "10-28 11:40"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "一球",
+        "away_water": "0.760↓",
+        "time": "11-13 20:01"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "一球",
+        "away_water": "0.770",
+        "time": "11-10 18:03"
       }
     },
     {
@@ -1047,7 +1047,7 @@
     {
       "cid": "3",
       "company": "B*****",
-      "time": "2026-11-13 19:21:13",
+      "time": "2026-11-13 19:57:44",
       "odds": {
         "live": [
           "1.65",
