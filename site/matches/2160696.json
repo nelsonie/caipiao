@@ -24,7 +24,7 @@
       "lost": "2.25",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-14T03:40:15Z"
+    "fetched_at_utc": "2026-11-14T03:50:13Z"
   },
   "shuju": {
     "title": "大阪樱花VS浦和红钻(2026/2027日联杯)-数据分析-500彩票网",
@@ -675,22 +675,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↑",
-        "handicap": "受平手/半球",
-        "away_water": "0.960↓",
-        "time": "11-14 10:54"
-      },
-      "init": {
-        "home_water": "0.780",
-        "handicap": "受平手/半球",
-        "away_water": "1.020",
-        "time": "11-14 00:25"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -704,6 +688,22 @@
         "handicap": "平手",
         "away_water": "0.740",
         "time": "11-13 23:33"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.840↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.960↓",
+        "time": "11-14 10:54"
+      },
+      "init": {
+        "home_water": "0.780",
+        "handicap": "受平手/半球",
+        "away_water": "1.020",
+        "time": "11-14 00:25"
       }
     },
     {
