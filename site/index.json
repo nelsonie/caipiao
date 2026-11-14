@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-14T09:50:17Z",
+  "last_updated_utc": "2026-11-14T10:00:19Z",
   "matches": [
     {
       "xml_id": "2042751",
@@ -92,6 +92,24 @@
       "away_team_id": "2426"
     },
     {
+      "xml_id": "2042756",
+      "matchnum": "6006",
+      "date": "2026-11-15",
+      "dayofweek": "星期天",
+      "league": "欧洲国家联赛",
+      "home": "格鲁吉亚",
+      "away": "匈牙利",
+      "spf_win": "1.49",
+      "spf_draw": "3.60",
+      "spf_lost": "5.25",
+      "spf_updated": "2026-11-14 15:14:00",
+      "gameid": "1398632",
+      "kickoff_cst": "2026-11-15 01:00",
+      "matchnum_label": "周六006",
+      "home_team_id": "77",
+      "away_team_id": "55"
+    },
+    {
       "xml_id": "2042757",
       "matchnum": "6007",
       "date": "2026-11-15",
@@ -126,6 +144,24 @@
       "matchnum_label": "周六008",
       "home_team_id": "1030",
       "away_team_id": "1273"
+    },
+    {
+      "xml_id": "2042759",
+      "matchnum": "6009",
+      "date": "2026-11-15",
+      "dayofweek": "星期天",
+      "league": "荷兰乙级联赛",
+      "home": "瓦尔韦克",
+      "away": "登博思",
+      "spf_win": "3.40",
+      "spf_draw": "3.95",
+      "spf_lost": "1.69",
+      "spf_updated": "2026-11-14 16:35:20",
+      "gameid": "1416128",
+      "kickoff_cst": "2026-11-15 03:00",
+      "matchnum_label": "周六009",
+      "home_team_id": "385",
+      "away_team_id": "756"
     },
     {
       "xml_id": "2042760",
@@ -244,9 +280,9 @@
       "home": "沙佩科恩斯",
       "away": "瓦斯科达伽马",
       "spf_win": "3.05",
-      "spf_draw": "3.50",
-      "spf_lost": "1.90",
-      "spf_updated": "2026-11-14 09:41:05",
+      "spf_draw": "3.38",
+      "spf_lost": "1.94",
+      "spf_updated": "2026-11-14 17:52:21",
       "gameid": "1362429",
       "kickoff_cst": "2026-11-15 07:30",
       "matchnum_label": "周六016",
@@ -270,6 +306,24 @@
       "matchnum_label": "周日001",
       "home_team_id": "6384",
       "away_team_id": "492"
+    },
+    {
+      "xml_id": "2042768",
+      "matchnum": "7002",
+      "date": "2026-11-15",
+      "dayofweek": "星期天",
+      "league": "日本联赛杯",
+      "home": "鹿岛鹿角",
+      "away": "横滨水手",
+      "spf_win": "2.94",
+      "spf_draw": "3.40",
+      "spf_lost": "1.98",
+      "spf_updated": "2026-11-14 14:58:13",
+      "gameid": "2160694",
+      "kickoff_cst": "2026-11-15 14:00",
+      "matchnum_label": "周日002",
+      "home_team_id": "1029",
+      "away_team_id": "870"
     },
     {
       "xml_id": "2042771",
