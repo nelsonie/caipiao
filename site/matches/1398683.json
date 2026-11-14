@@ -24,7 +24,7 @@
       "lost": "5.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-14T08:40:13Z"
+    "fetched_at_utc": "2026-11-14T08:50:11Z"
   },
   "shuju": {
     "title": "葡萄牙VS丹麦(2026/2027欧国联)-数据分析-500彩票网",
@@ -677,22 +677,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "一球降",
-        "away_water": "0.970↑",
-        "time": "11-14 15:42"
-      },
-      "init": {
-        "home_water": "1.030",
-        "handicap": "一球/球半",
-        "away_water": "0.810",
-        "time": "11-05 00:05"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -706,6 +690,22 @@
         "handicap": "球半",
         "away_water": "0.680",
         "time": "10-19 19:33"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "一球降",
+        "away_water": "0.970↑",
+        "time": "11-14 15:42"
+      },
+      "init": {
+        "home_water": "1.030",
+        "handicap": "一球/球半",
+        "away_water": "0.810",
+        "time": "11-05 00:05"
       }
     },
     {
