@@ -1,42 +1,6 @@
 {
-  "last_updated_utc": "2026-11-14T09:30:18Z",
+  "last_updated_utc": "2026-11-14T09:40:16Z",
   "matches": [
-    {
-      "xml_id": "2042751",
-      "matchnum": "6001",
-      "date": "2026-11-14",
-      "dayofweek": "星期六",
-      "league": "日本乙级联赛",
-      "home": "湘南海洋",
-      "away": "横滨FC",
-      "spf_win": "2.03",
-      "spf_draw": "3.00",
-      "spf_lost": "3.20",
-      "spf_updated": "2026-11-14 12:09:29",
-      "gameid": "1419236",
-      "kickoff_cst": "2026-11-14 13:00",
-      "matchnum_label": "周六001",
-      "home_team_id": "3838",
-      "away_team_id": "3195"
-    },
-    {
-      "xml_id": "2042752",
-      "matchnum": "6002",
-      "date": "2026-11-14",
-      "dayofweek": "星期六",
-      "league": "日本乙级联赛",
-      "home": "大宫松鼠RB",
-      "away": "山形山神",
-      "spf_win": "2.28",
-      "spf_draw": "3.20",
-      "spf_lost": "2.58",
-      "spf_updated": "2026-11-14 12:17:56",
-      "gameid": "1419319",
-      "kickoff_cst": "2026-11-14 13:00",
-      "matchnum_label": "周六002",
-      "home_team_id": "2273",
-      "away_team_id": "3832"
-    },
     {
       "xml_id": "2042753",
       "matchnum": "6003",
@@ -162,24 +126,6 @@
       "matchnum_label": "周六009",
       "home_team_id": "385",
       "away_team_id": "756"
-    },
-    {
-      "xml_id": "2042760",
-      "matchnum": "6010",
-      "date": "2026-11-15",
-      "dayofweek": "星期天",
-      "league": "荷兰乙级联赛",
-      "home": "阿尔梅勒城",
-      "away": "海尔蒙特",
-      "spf_win": "1.80",
-      "spf_draw": "3.95",
-      "spf_lost": "3.02",
-      "spf_updated": "2026-11-14 16:38:50",
-      "gameid": "1416117",
-      "kickoff_cst": "2026-11-15 03:00",
-      "matchnum_label": "周六010",
-      "home_team_id": "2848",
-      "away_team_id": "1795"
     },
     {
       "xml_id": "2042761",
@@ -326,22 +272,22 @@
       "away_team_id": "870"
     },
     {
-      "xml_id": "2042770",
-      "matchnum": "7004",
+      "xml_id": "2042771",
+      "matchnum": "7005",
       "date": "2026-11-15",
       "dayofweek": "星期天",
-      "league": "日本联赛杯",
-      "home": "柏太阳神",
-      "away": "川崎前锋",
-      "spf_win": "3.56",
-      "spf_draw": "3.80",
-      "spf_lost": "1.68",
-      "spf_updated": "2026-11-14 10:13:16",
-      "gameid": "2160690",
-      "kickoff_cst": "2026-11-15 16:00",
-      "matchnum_label": "周日004",
-      "home_team_id": "658",
-      "away_team_id": "2272"
+      "league": "荷兰乙级联赛",
+      "home": "马斯特里赫特",
+      "away": "维迪斯",
+      "spf_win": "1.62",
+      "spf_draw": "3.70",
+      "spf_lost": "3.98",
+      "spf_updated": "2026-11-13 09:35:50",
+      "gameid": "1416130",
+      "kickoff_cst": "2026-11-15 21:30",
+      "matchnum_label": "周日005",
+      "home_team_id": "349",
+      "away_team_id": "1255"
     }
   ]
 }
