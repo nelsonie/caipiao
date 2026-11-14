@@ -24,7 +24,7 @@
       "lost": "5.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-14T08:10:11Z"
+    "fetched_at_utc": "2026-11-14T08:20:08Z"
   },
   "shuju": {
     "title": "奥地利VS爱尔兰(2026/2027欧国联)-数据分析-500彩票网",
@@ -658,32 +658,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.870↓",
         "handicap": "半球/一球降",
-        "away_water": "1.070↑",
-        "time": "11-14 15:55"
+        "away_water": "1.050↑",
+        "time": "11-14 16:08"
       },
       "init": {
         "home_water": "0.990",
         "handicap": "一球",
         "away_water": "0.810",
         "time": "11-09 19:10"
-      }
-    },
-    {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.030↑",
-        "handicap": "一球",
-        "away_water": "0.770↓",
-        "time": "11-14 14:54"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "一球",
-        "away_water": "0.850",
-        "time": "10-19 20:06"
       }
     },
     {
@@ -700,6 +684,22 @@
         "handicap": "一球",
         "away_water": "0.810",
         "time": "11-04 13:23"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.030↑",
+        "handicap": "一球",
+        "away_water": "0.770↓",
+        "time": "11-14 14:54"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "一球",
+        "away_water": "0.850",
+        "time": "10-19 20:06"
       }
     },
     {
@@ -738,10 +738,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.890↓",
+        "home_water": "0.870↓",
         "handicap": "半球/一球降",
-        "away_water": "1.030↑",
-        "time": "11-14 16:08"
+        "away_water": "1.050↑",
+        "time": "11-14 16:12"
       },
       "init": {
         "home_water": "1.060",
