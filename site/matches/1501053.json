@@ -24,7 +24,7 @@
       "lost": "5.80",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-14T12:10:07Z"
+    "fetched_at_utc": "2026-11-14T12:20:07Z"
   },
   "shuju": {
     "title": "中国VS马来西亚(2026友谊赛)-数据分析-500彩票网",
@@ -449,7 +449,7 @@
           },
           {
             "number": null,
-            "name": "17 拜合拉木·阿卜杜外力 前锋",
+            "name": "30 闫炳良 守门员",
             "position": null
           },
           {
@@ -479,7 +479,7 @@
           },
           {
             "number": null,
-            "name": "30 闫炳良 守门员",
+            "name": "17 拜合拉木·阿卜杜外力 前锋",
             "position": null
           }
         ],
@@ -491,7 +491,7 @@
         "starters": [
           {
             "number": null,
-            "name": "19 罗密尔·莫拉莱斯 前锋",
+            "name": "11 弗格斯·蒂尔尼 前锋",
             "position": null
           },
           {
@@ -501,17 +501,17 @@
           },
           {
             "number": null,
+            "name": "5 乌拜杜拉·沙姆苏尔 后卫",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "13 李杰成 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "21 迪昂·古斯 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "11 弗格斯·蒂尔尼 前锋",
+            "name": "19 罗密尔·莫拉莱斯 前锋",
             "position": null
           },
           {
@@ -526,7 +526,7 @@
           },
           {
             "number": null,
-            "name": "5 乌拜杜拉·沙姆苏尔 后卫",
+            "name": "21 迪昂·古斯 后卫",
             "position": null
           },
           {
@@ -721,22 +721,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "一球升",
-        "away_water": "0.850↑",
-        "time": "11-14 19:58"
-      },
-      "init": {
-        "home_water": "0.950",
-        "handicap": "半球/一球",
-        "away_water": "0.780",
-        "time": "11-11 18:54"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -750,6 +734,22 @@
         "handicap": "一球",
         "away_water": "0.580",
         "time": "10-21 20:53"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "一球升",
+        "away_water": "0.850↑",
+        "time": "11-14 19:58"
+      },
+      "init": {
+        "home_water": "0.950",
+        "handicap": "半球/一球",
+        "away_water": "0.780",
+        "time": "11-11 18:54"
       }
     },
     {
