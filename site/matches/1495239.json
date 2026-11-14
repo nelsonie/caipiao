@@ -24,7 +24,7 @@
       "lost": "1.66",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-14T10:20:07Z"
+    "fetched_at_utc": "2026-11-14T10:30:07Z"
   },
   "shuju": {
     "title": "日本VS巴西(2026友谊赛)-数据分析-500彩票网",
@@ -357,17 +357,17 @@
         "starters": [
           {
             "number": null,
-            "name": "15 镰田大地 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "11 前田大然 中场",
+            "name": "11 前田大然 前锋",
             "position": null
           },
           {
             "number": null,
             "name": "20 久保建英 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "10 堂安律 中场",
             "position": null
           },
           {
@@ -382,22 +382,22 @@
           },
           {
             "number": null,
+            "name": "15 镰田大地 中场",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "6 中野就斗 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "10 堂安律 中场",
+            "name": "21 伊藤洋辉 后卫",
             "position": null
           },
           {
             "number": null,
             "name": "16 町田浩树 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "21 伊藤洋辉 后卫",
             "position": null
           },
           {
@@ -439,12 +439,12 @@
           },
           {
             "number": null,
-            "name": "5 渡边刚 后卫",
+            "name": "24 佐野海舟 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "9 后藤启介 前锋",
+            "name": "5 渡边刚 后卫",
             "position": null
           },
           {
@@ -484,7 +484,7 @@
           },
           {
             "number": null,
-            "name": "24 佐野海舟 中场",
+            "name": "9 后藤启介 前锋",
             "position": null
           }
         ],
@@ -583,12 +583,12 @@
           },
           {
             "number": null,
-            "name": "6 道格拉斯·桑托斯 后卫",
+            "name": "12 卢卡斯·佩里 守门员",
             "position": null
           },
           {
             "number": null,
-            "name": "12 卢卡斯·佩里 守门员",
+            "name": "6 道格拉斯·桑托斯 后卫",
             "position": null
           },
           {
@@ -741,22 +741,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.170↑",
-        "handicap": "受平手/半球升",
-        "away_water": "0.700↓",
-        "time": "11-14 18:15"
-      },
-      "init": {
-        "home_water": "0.520",
-        "handicap": "受一球",
-        "away_water": "1.290",
-        "time": "10-16 01:29"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -770,6 +754,22 @@
         "handicap": "受半球",
         "away_water": "0.780",
         "time": "11-11 17:45"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.170↑",
+        "handicap": "受平手/半球升",
+        "away_water": "0.700↓",
+        "time": "11-14 18:15"
+      },
+      "init": {
+        "home_water": "0.520",
+        "handicap": "受一球",
+        "away_water": "1.290",
+        "time": "10-16 01:29"
       }
     },
     {
