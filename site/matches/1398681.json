@@ -24,7 +24,7 @@
       "lost": "9.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-14T11:10:10Z"
+    "fetched_at_utc": "2026-11-14T11:20:08Z"
   },
   "shuju": {
     "title": "挪威VS威尔士(2026/2027欧国联)-数据分析-500彩票网",
@@ -665,22 +665,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.830↓",
-        "handicap": "球半/两球",
-        "away_water": "1.000↑",
-        "time": "11-14 18:53"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "球半/两球",
-        "away_water": "0.920",
-        "time": "11-05 00:17"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -694,6 +678,22 @@
         "handicap": "球半",
         "away_water": "1.010",
         "time": "10-08 18:25"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.830↓",
+        "handicap": "球半/两球",
+        "away_water": "1.000↑",
+        "time": "11-14 18:53"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "球半/两球",
+        "away_water": "0.920",
+        "time": "11-05 00:17"
       }
     },
     {
