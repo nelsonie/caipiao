@@ -24,7 +24,7 @@
       "lost": "3.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-15T05:00:12Z"
+    "fetched_at_utc": "2026-11-15T05:10:08Z"
   },
   "shuju": {
     "title": "鹿岛鹿角VS横滨水手(2026/2027日联杯)-数据分析-500彩票网",
@@ -439,12 +439,12 @@
           },
           {
             "number": null,
-            "name": "25 小池龙太 后卫",
+            "name": "55 植田直通 后卫",
             "position": null
           },
           {
             "number": null,
-            "name": "55 植田直通 后卫",
+            "name": "25 小池龙太 后卫",
             "position": null
           },
           {
@@ -456,37 +456,7 @@
         "subs": [
           {
             "number": null,
-            "name": "10 柴崎岳 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "42 大贯琉伟 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "28 大川佑梧 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "32 松本遥翔 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "29 梶川裕嗣 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "44 平岛大悟 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "4 千田海人 后卫",
+            "name": "23 津久井佳祐 后卫",
             "position": null
           },
           {
@@ -496,7 +466,37 @@
           },
           {
             "number": null,
-            "name": "23 津久井佳祐 后卫",
+            "name": "4 千田海人 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "44 平岛大悟 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "29 梶川裕嗣 守门员",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "32 松本遥翔 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "28 大川佑梧 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "42 大贯琉伟 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "10 柴崎岳 中场",
             "position": null
           }
         ],
@@ -518,7 +518,7 @@
           },
           {
             "number": null,
-            "name": "7 远野大弥 前锋",
+            "name": "7 远野大弥 中场",
             "position": null
           },
           {
@@ -575,11 +575,6 @@
           },
           {
             "number": null,
-            "name": "34 木村卓斗 中场",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "47 三井寺真 中场",
             "position": null
           },
@@ -590,7 +585,7 @@
           },
           {
             "number": null,
-            "name": "18 奥奈乌·情滋 中场",
+            "name": "18 奥奈乌·情滋 前锋",
             "position": null
           },
           {
@@ -683,10 +678,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.860↓",
+        "home_water": "0.870↓",
         "handicap": "半球降",
-        "away_water": "0.960↑",
-        "time": "11-15 12:41"
+        "away_water": "0.950↑",
+        "time": "11-15 13:03"
       },
       "init": {
         "home_water": "0.960",
@@ -734,7 +729,7 @@
         "home_water": "0.860↓",
         "handicap": "半球降",
         "away_water": "0.930↑",
-        "time": "11-15 12:35"
+        "time": "11-15 13:04"
       },
       "init": {
         "home_water": "1.000",
@@ -1203,7 +1198,7 @@
     {
       "cid": "280",
       "company": "*冠",
-      "time": "2026-11-15 12:40:18",
+      "time": "2026-11-15 13:02:45",
       "odds": {
         "live": [
           "1.75",
@@ -1211,7 +1206,7 @@
           "3.85"
         ],
         "init": [
-          "1.86",
+          "1.87",
           "3.95",
           "3.45"
         ]
@@ -1223,9 +1218,9 @@
           "24.02%"
         ],
         "init": [
-          "49.75%",
-          "23.43%",
-          "26.82%"
+          "49.62%",
+          "23.49%",
+          "26.89%"
         ]
       },
       "ret": {
@@ -1233,7 +1228,7 @@
           "92.49%"
         ],
         "init": [
-          "92.54%"
+          "92.78%"
         ]
       },
       "kelly": {
