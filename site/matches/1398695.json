@@ -24,7 +24,7 @@
       "lost": "56.00",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-11-15T06:00:11Z"
+    "fetched_at_utc": "2026-11-15T06:10:12Z"
   },
   "shuju": {
     "title": "芬兰VS圣马力诺(2026/2027欧国联)-数据分析-500彩票网",
@@ -680,22 +680,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↑",
-        "handicap": "三球半升",
-        "away_water": "0.910↓",
-        "time": "11-15 13:44"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "三球",
-        "away_water": "0.930",
-        "time": "11-14 17:11"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -709,6 +693,22 @@
         "handicap": "三球半",
         "away_water": "0.760",
         "time": "11-14 16:13"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "三球半升",
+        "away_water": "0.920↓",
+        "time": "11-15 14:01"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "三球",
+        "away_water": "0.930",
+        "time": "11-14 17:11"
       }
     },
     {
@@ -747,10 +747,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.940↑",
         "handicap": "三球半升",
-        "away_water": "0.950↓",
-        "time": "11-15 13:41"
+        "away_water": "0.960↓",
+        "time": "11-15 14:00"
       },
       "init": {
         "home_water": "0.850",
@@ -763,10 +763,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.940↑",
         "handicap": "三球半升",
-        "away_water": "0.950↓",
-        "time": "11-15 13:41"
+        "away_water": "0.960↓",
+        "time": "11-15 14:01"
       },
       "init": {
         "home_water": "0.870",
