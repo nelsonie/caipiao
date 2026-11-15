@@ -13,9 +13,9 @@
       "lost": "1.96"
     },
     "asia_main": {
-      "handicap": "三球半升",
-      "home_water": "0.830↓",
-      "away_water": "0.910↑",
+      "handicap": "三球半/四球升",
+      "home_water": "0.910",
+      "away_water": "0.750↓",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "56.00",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-11-15T12:20:13Z"
+    "fetched_at_utc": "2026-11-15T12:30:11Z"
   },
   "shuju": {
     "title": "芬兰VS圣马力诺(2026/2027欧国联)-数据分析-500彩票网",
@@ -587,10 +587,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.830↓",
-        "handicap": "三球半升",
-        "away_water": "0.910↑",
-        "time": "11-15 19:34"
+        "home_water": "0.910",
+        "handicap": "三球半/四球升",
+        "away_water": "0.750↓",
+        "time": "11-15 20:18"
       },
       "init": {
         "home_water": "0.910",
@@ -683,16 +683,32 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.940↑",
+        "home_water": "0.950↑",
         "handicap": "三球半/四球升",
-        "away_water": "0.900↑",
-        "time": "11-15 20:11"
+        "away_water": "0.890↑",
+        "time": "11-15 20:25"
       },
       "init": {
         "home_water": "0.920",
         "handicap": "三球半",
         "away_water": "0.870",
         "time": "11-15 12:08"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.950↑",
+        "handicap": "三球半/四球升",
+        "away_water": "0.880↓",
+        "time": "11-15 20:22"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "三球",
+        "away_water": "0.930",
+        "time": "11-14 17:11"
       }
     },
     {
@@ -709,22 +725,6 @@
         "handicap": "三球半",
         "away_water": "0.760",
         "time": "11-14 16:13"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.950↑",
-        "handicap": "三球半/四球升",
-        "away_water": "0.880↓",
-        "time": "11-15 20:11"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "三球",
-        "away_water": "0.930",
-        "time": "11-14 17:11"
       }
     },
     {
@@ -747,10 +747,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "0.950↑",
+        "home_water": "0.980↑",
         "handicap": "三球半/四球升",
-        "away_water": "0.950",
-        "time": "11-15 20:03"
+        "away_water": "0.920↓",
+        "time": "11-15 20:23"
       },
       "init": {
         "home_water": "0.930",
@@ -766,7 +766,7 @@
         "home_water": "0.940↑",
         "handicap": "三球半/四球升",
         "away_water": "0.960↓",
-        "time": "11-15 20:11"
+        "time": "11-15 20:27"
       },
       "init": {
         "home_water": "0.850",
@@ -779,10 +779,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.920↑",
+        "home_water": "0.950↑",
         "handicap": "三球半/四球升",
-        "away_water": "0.980↑",
-        "time": "11-15 20:11"
+        "away_water": "0.950↓",
+        "time": "11-15 20:27"
       },
       "init": {
         "home_water": "0.870",
@@ -795,10 +795,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.930↑",
         "handicap": "三球半/四球升",
-        "away_water": "0.890↓",
-        "time": "11-15 20:11"
+        "away_water": "0.870↓",
+        "time": "11-15 20:22"
       },
       "init": {
         "home_water": "0.750",
@@ -811,10 +811,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.920↑",
+        "home_water": "0.960↑",
         "handicap": "三球半/四球升",
-        "away_water": "0.960↑",
-        "time": "11-15 20:11"
+        "away_water": "0.920↓",
+        "time": "11-15 20:22"
       },
       "init": {
         "home_water": "0.830",
@@ -1710,7 +1710,7 @@
     {
       "cid": "15",
       "company": "E******",
-      "time": "2026-11-15 18:57:28",
+      "time": "2026-11-15 20:24:39",
       "odds": {
         "live": [
           "1.03",
@@ -1719,7 +1719,7 @@
         ],
         "init": [
           "1.02",
-          "14.50",
+          "14.00",
           "27.00"
         ]
       },
@@ -1730,9 +1730,9 @@
           "3.52%"
         ],
         "init": [
-          "90.24%",
-          "6.35%",
-          "3.41%"
+          "90.04%",
+          "6.56%",
+          "3.40%"
         ]
       },
       "ret": {
@@ -1740,7 +1740,7 @@
           "91.52%"
         ],
         "init": [
-          "92.05%"
+          "91.84%"
         ]
       },
       "kelly": {
@@ -1751,7 +1751,7 @@
         ],
         "init": [
           "0.94",
-          "0.79",
+          "0.76",
           "0.52"
         ]
       }
