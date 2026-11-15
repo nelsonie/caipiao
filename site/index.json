@@ -1,6 +1,24 @@
 {
-  "last_updated_utc": "2026-11-15T13:10:12Z",
+  "last_updated_utc": "2026-11-15T13:20:12Z",
   "matches": [
+    {
+      "xml_id": "2042767",
+      "matchnum": "7001",
+      "date": "2026-11-15",
+      "dayofweek": "星期天",
+      "league": "日本联赛杯",
+      "home": "町田泽维亚",
+      "away": "神户胜利船",
+      "spf_win": "5.55",
+      "spf_draw": "3.85",
+      "spf_lost": "1.43",
+      "spf_updated": "2026-11-15 12:54:33",
+      "gameid": "2160692",
+      "kickoff_cst": "2026-11-15 13:00",
+      "matchnum_label": "周日001",
+      "home_team_id": "6384",
+      "away_team_id": "492"
+    },
     {
       "xml_id": "2042771",
       "matchnum": "7005",
