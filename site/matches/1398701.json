@@ -24,7 +24,7 @@
       "lost": "12.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-16T04:50:08Z"
+    "fetched_at_utc": "2026-11-16T05:00:08Z"
   },
   "shuju": {
     "title": "冰岛VS卢森堡(2026/2027欧国联)-数据分析-500彩票网",
@@ -674,22 +674,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.030↓",
-        "handicap": "球半/两球升",
-        "away_water": "0.860↑",
-        "time": "11-16 11:16"
-      },
-      "init": {
-        "home_water": "1.040",
-        "handicap": "球半",
-        "away_water": "0.850",
-        "time": "11-14 17:10"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -703,6 +687,22 @@
         "handicap": "球半",
         "away_water": "0.830",
         "time": "11-14 18:44"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.030↓",
+        "handicap": "球半/两球升",
+        "away_water": "0.860↑",
+        "time": "11-16 11:16"
+      },
+      "init": {
+        "home_water": "1.040",
+        "handicap": "球半",
+        "away_water": "0.850",
+        "time": "11-14 17:10"
       }
     },
     {
