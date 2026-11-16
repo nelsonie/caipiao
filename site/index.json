@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-16T09:40:11Z",
+  "last_updated_utc": "2026-11-16T09:50:09Z",
   "matches": [
     {
       "xml_id": "2042777",
@@ -126,6 +126,24 @@
       "matchnum_label": "周一007",
       "home_team_id": "85",
       "away_team_id": "35"
+    },
+    {
+      "xml_id": "2042784",
+      "matchnum": "1008",
+      "date": "2026-11-17",
+      "dayofweek": "星期二",
+      "league": "欧洲国家联赛",
+      "home": "希腊",
+      "away": "塞尔维亚",
+      "spf_win": "1.90",
+      "spf_draw": "3.50",
+      "spf_lost": "3.05",
+      "spf_updated": "2026-11-16 15:23:28",
+      "gameid": "1398694",
+      "kickoff_cst": "2026-11-17 03:45",
+      "matchnum_label": "周一008",
+      "home_team_id": "49",
+      "away_team_id": "4"
     }
   ]
 }
