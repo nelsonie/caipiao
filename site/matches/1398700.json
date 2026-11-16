@@ -24,7 +24,7 @@
       "lost": "1.58",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-16T09:00:08Z"
+    "fetched_at_utc": "2026-11-16T09:10:06Z"
   },
   "shuju": {
     "title": "哈萨克斯坦VS斯洛伐克(2026/2027欧国联)-数据分析-500彩票网",
@@ -634,10 +634,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "1.050↑",
+        "home_water": "1.060↑",
         "handicap": "受半球升",
-        "away_water": "0.840↓",
-        "time": "11-16 14:57"
+        "away_water": "0.830↓",
+        "time": "11-16 17:01"
       },
       "init": {
         "home_water": "0.800",
@@ -663,6 +663,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "1.010↑",
+        "handicap": "受半球升",
+        "away_water": "0.830↓",
+        "time": "11-16 16:51"
+      },
+      "init": {
+        "home_water": "0.860",
+        "handicap": "受一球",
+        "away_water": "0.970",
+        "time": "11-14 18:39"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -676,22 +692,6 @@
         "handicap": "受球半",
         "away_water": "1.610",
         "time": "11-14 16:58"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "1.000↑",
-        "handicap": "受半球升",
-        "away_water": "0.830↓",
-        "time": "11-16 16:48"
-      },
-      "init": {
-        "home_water": "0.860",
-        "handicap": "受一球",
-        "away_water": "0.970",
-        "time": "11-14 18:39"
       }
     },
     {
@@ -794,10 +794,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "1.030↑",
+        "home_water": "1.020↑",
         "handicap": "受半球升",
-        "away_water": "0.850↑",
-        "time": "11-16 16:25"
+        "away_water": "0.860↑",
+        "time": "11-16 16:55"
       },
       "init": {
         "home_water": "0.940",
