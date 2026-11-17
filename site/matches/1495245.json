@@ -14,8 +14,8 @@
     },
     "asia_main": {
       "handicap": "受五球半升",
-      "home_water": "0.670↓",
-      "away_water": "1.050↑",
+      "home_water": "0.750↓",
+      "away_water": "0.950↑",
       "company": "威***"
     },
     "euro_main": {
@@ -24,7 +24,7 @@
       "lost": "1.02",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-11-17T10:00:10Z"
+    "fetched_at_utc": "2026-11-17T10:10:07Z"
   },
   "shuju": {
     "title": "新加坡VS巴西(2026友谊赛)-数据分析-500彩票网",
@@ -279,26 +279,16 @@
     },
     "lineup": {
       "home": {
-        "formation": "4-2-3-1",
+        "formation": "5-4-1",
         "starters": [
           {
             "number": null,
-            "name": "9 法罕·祖基夫利 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "7 宋宜荣 中场",
+            "name": "19 伊克桑·凡迪 前锋",
             "position": null
           },
           {
             "number": null,
             "name": "13 哈里斯·斯图尔特 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "19 伊克桑·凡迪 中场",
             "position": null
           },
           {
@@ -309,6 +299,16 @@
           {
             "number": null,
             "name": "8 沙赫·沙希兰 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "7 宋宜荣 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "9 法罕·祖基夫利 后卫",
             "position": null
           },
           {
@@ -340,7 +340,7 @@
         "subs": [
           {
             "number": null,
-            "name": "11 郭家溍 中场",
+            "name": "10 毛志轩 中场",
             "position": null
           },
           {
@@ -390,7 +390,7 @@
           },
           {
             "number": null,
-            "name": "10 毛志轩 中场",
+            "name": "22 周俊衡 中场",
             "position": null
           },
           {
@@ -400,12 +400,12 @@
           },
           {
             "number": null,
-            "name": "2 戴锭威 后卫",
+            "name": "11 郭家溍 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "22 周俊衡 中场",
+            "name": "2 戴锭威 后卫",
             "position": null
           }
         ],
@@ -413,8 +413,13 @@
         "suspended": []
       },
       "away": {
-        "formation": "4-2-3-1",
+        "formation": "4-3-3",
         "starters": [
+          {
+            "number": null,
+            "name": "7 维尼修斯 前锋",
+            "position": null
+          },
           {
             "number": null,
             "name": "9 恩德里克 前锋",
@@ -422,12 +427,7 @@
           },
           {
             "number": null,
-            "name": "7 维尼修斯 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "11 埃斯特旺·威廉 中场",
+            "name": "11 埃斯特旺·威廉 前锋",
             "position": null
           },
           {
@@ -437,12 +437,12 @@
           },
           {
             "number": null,
-            "name": "8 布鲁诺·吉马良斯 中场",
+            "name": "18 若昂·戈麦斯 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "18 若昂·戈麦斯 中场",
+            "name": "8 布鲁诺·吉马良斯 中场",
             "position": null
           },
           {
@@ -472,11 +472,6 @@
           }
         ],
         "subs": [
-          {
-            "number": null,
-            "name": "17 安德烈·路易斯·桑托斯·迪亚斯 中场",
-            "position": null
-          },
           {
             "number": null,
             "name": "19 阿利松·桑塔纳 中场",
@@ -524,7 +519,7 @@
           },
           {
             "number": null,
-            "name": "2 韦斯利 后卫",
+            "name": "23 佩德罗·莫里斯科 守门员",
             "position": null
           },
           {
@@ -534,7 +529,12 @@
           },
           {
             "number": null,
-            "name": "23 佩德罗·莫里斯科 守门员",
+            "name": "2 韦斯利 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "17 安德烈·路易斯·桑托斯·迪亚斯 中场",
             "position": null
           }
         ],
@@ -548,10 +548,10 @@
       "cid": "293",
       "company": "威***",
       "live": {
-        "home_water": "0.670↓",
+        "home_water": "0.750↓",
         "handicap": "受五球半升",
-        "away_water": "1.050↑",
-        "time": "11-17 17:51"
+        "away_water": "0.950↑",
+        "time": "11-17 17:58"
       },
       "init": {
         "home_water": "0.830",
@@ -567,7 +567,7 @@
         "home_water": "0.900↓",
         "handicap": "受五球/五球半升",
         "away_water": "0.880↑",
-        "time": "11-17 17:51"
+        "time": "11-17 17:56"
       },
       "init": {
         "home_water": "0.970",
@@ -596,10 +596,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.850↓",
-        "handicap": "受五球半升",
-        "away_water": "0.950↑",
-        "time": "11-17 17:45"
+        "home_water": "0.950↓",
+        "handicap": "受五球/五球半升",
+        "away_water": "0.850↑",
+        "time": "11-17 18:01"
       },
       "init": {
         "home_water": "1.000",
@@ -644,10 +644,10 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.940↑",
+        "home_water": "0.980↑",
         "handicap": "受五球/五球半升",
-        "away_water": "0.860↓",
-        "time": "11-17 17:50"
+        "away_water": "0.880↓",
+        "time": "11-17 18:01"
       },
       "init": {
         "home_water": "0.820",
@@ -657,29 +657,13 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.840↓",
-        "handicap": "受五球/五球半升",
-        "away_water": "0.880↑",
-        "time": "11-17 17:51"
-      },
-      "init": {
-        "home_water": "0.870",
-        "handicap": "受四球半/五球",
-        "away_water": "0.850",
-        "time": "11-12 00:16"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
-        "home_water": "0.860↑",
-        "handicap": "受五球半升",
-        "away_water": "0.970↑",
-        "time": "11-17 17:50"
+        "home_water": "0.890↑",
+        "handicap": "受五球/五球半升",
+        "away_water": "0.920↑",
+        "time": "11-17 18:01"
       },
       "init": {
         "home_water": "0.810",
@@ -689,13 +673,29 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "受五球/五球半升",
+        "away_water": "0.860↑",
+        "time": "11-17 18:00"
+      },
+      "init": {
+        "home_water": "0.870",
+        "handicap": "受四球半/五球",
+        "away_water": "0.850",
+        "time": "11-12 00:16"
+      }
+    },
+    {
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.960↑",
         "handicap": "受五球/五球半升",
-        "away_water": "0.940↑",
-        "time": "11-17 17:50"
+        "away_water": "0.850↑",
+        "time": "11-17 17:59"
       },
       "init": {
         "home_water": "0.950",
@@ -708,10 +708,10 @@
       "cid": "651",
       "company": "利*",
       "live": {
-        "home_water": "1.000↑",
+        "home_water": "0.960↑",
         "handicap": "受五球/五球半",
-        "away_water": "0.840↓",
-        "time": "11-17 17:50"
+        "away_water": "0.880↓",
+        "time": "11-17 17:56"
       },
       "init": {
         "home_water": "0.850",
@@ -724,10 +724,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "1.030↑",
-        "handicap": "受五球降",
-        "away_water": "0.770↓",
-        "time": "11-17 17:49"
+        "home_water": "0.950↑",
+        "handicap": "受五球/五球半升",
+        "away_water": "0.890↓",
+        "time": "11-17 18:01"
       },
       "init": {
         "home_water": "0.770",
@@ -740,10 +740,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "1.060↑",
-        "handicap": "受五球降",
-        "away_water": "0.740↓",
-        "time": "11-17 17:51"
+        "home_water": "0.960↑",
+        "handicap": "受五球/五球半升",
+        "away_water": "0.880",
+        "time": "11-17 18:00"
       },
       "init": {
         "home_water": "0.880",
@@ -756,10 +756,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.870↑",
+        "home_water": "0.880↑",
         "handicap": "受五球/五球半升",
-        "away_water": "0.900↓",
-        "time": "11-17 17:47"
+        "away_water": "0.860↓",
+        "time": "11-17 18:01"
       },
       "init": {
         "home_water": "0.820",
@@ -772,10 +772,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.920↑",
+        "home_water": "0.930↑",
         "handicap": "受五球/五球半升",
-        "away_water": "0.900↓",
-        "time": "11-17 17:51"
+        "away_water": "0.890↓",
+        "time": "11-17 18:01"
       },
       "init": {
         "home_water": "0.880",
@@ -887,7 +887,7 @@
     {
       "cid": "2",
       "company": "立*",
-      "time": "2026-11-17 17:49:19",
+      "time": "2026-11-17 17:57:49",
       "odds": {
         "live": [
           "51.00",
@@ -1279,7 +1279,7 @@
     {
       "cid": "11",
       "company": "B***",
-      "time": "2026-11-17 17:46:58",
+      "time": "2026-11-17 17:56:08",
       "odds": {
         "live": [
           "56.00",
@@ -1720,7 +1720,7 @@
     {
       "cid": "863",
       "company": "1****",
-      "time": "2026-11-17 17:50:55",
+      "time": "2026-11-17 18:00:10",
       "odds": {
         "live": [
           "37.00",
@@ -1729,7 +1729,7 @@
         ],
         "init": [
           "46.00",
-          "28.00",
+          "22.00",
           "1.01"
         ]
       },
@@ -1740,9 +1740,9 @@
           "92.99%"
         ],
         "init": [
-          "2.08%",
-          "3.41%",
-          "94.52%"
+          "2.06%",
+          "4.30%",
+          "93.64%"
         ]
       },
       "ret": {
@@ -1750,7 +1750,7 @@
           "93.92%"
         ],
         "init": [
-          "95.46%"
+          "94.58%"
         ]
       },
       "kelly": {
@@ -1761,7 +1761,7 @@
         ],
         "init": [
           "0.83",
-          "0.97",
+          "0.76",
           "0.96"
         ]
       }
@@ -1769,7 +1769,7 @@
     {
       "cid": "1259",
       "company": "1****",
-      "time": "2026-11-17 17:46:41",
+      "time": "2026-11-17 17:58:25",
       "odds": {
         "live": [
           "17.00",
@@ -1777,7 +1777,7 @@
           "1.00"
         ],
         "init": [
-          "39.00",
+          "38.00",
           "29.00",
           "1.01"
         ]
@@ -1789,9 +1789,9 @@
           "86.29%"
         ],
         "init": [
-          "2.44%",
+          "2.50%",
           "3.28%",
-          "94.28%"
+          "94.21%"
         ]
       },
       "ret": {
@@ -1799,7 +1799,7 @@
           "86.29%"
         ],
         "init": [
-          "95.22%"
+          "95.16%"
         ]
       },
       "kelly": {
@@ -1809,7 +1809,7 @@
           "0.95"
         ],
         "init": [
-          "0.70",
+          "0.68",
           "1.00",
           "0.96"
         ]
