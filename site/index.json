@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-17T05:00:11Z",
+  "last_updated_utc": "2026-11-17T05:10:09Z",
   "matches": [
     {
       "xml_id": "2042828",
@@ -108,6 +108,24 @@
       "matchnum_label": "周二006",
       "home_team_id": "3",
       "away_team_id": "31"
+    },
+    {
+      "xml_id": "2042834",
+      "matchnum": "2007",
+      "date": "2026-11-18",
+      "dayofweek": "星期三",
+      "league": "欧洲国家联赛",
+      "home": "威尔士",
+      "away": "葡萄牙",
+      "spf_win": "2.80",
+      "spf_draw": "3.60",
+      "spf_lost": "1.99",
+      "spf_updated": "2026-11-17 12:00:16",
+      "gameid": "1398698",
+      "kickoff_cst": "2026-11-18 03:45",
+      "matchnum_label": "周二007",
+      "home_team_id": "62",
+      "away_team_id": "20"
     },
     {
       "xml_id": "2042835",
