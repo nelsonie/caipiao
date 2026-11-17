@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>今日全部对阵 (0 场) · caipiao</title>
+<title>今日全部对阵 (10 场) · caipiao</title>
 <meta name="robots" content="noindex,nofollow">
 <link rel="alternate" type="text/markdown" href="index.md">
 <style>
@@ -82,10 +82,159 @@ button:disabled { opacity: .5; cursor: default; }
   <a href="/_meta.json">_meta.json</a>
 </nav>
 <main>
-<h1>今日全部对阵 (0 场)</h1>
-<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-11-17T03:00:06Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">0</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v"></div></div></div>
+<h1>今日全部对阵 (10 场)</h1>
+<div class="fm-box"><div class="fm-row"><div class="fm-k">last_updated_utc</div><div class="fm-v">2026-11-17T03:10:10Z</div></div><div class="fm-row"><div class="fm-k">total_matches</div><div class="fm-v">10</div></div><div class="fm-row"><div class="fm-k">leagues_covered</div><div class="fm-v">国际赛、欧洲国家联赛</div></div></div>
+
+<section class="quick">
+  <h2>快查（10 场 · 按日期升序）</h2>
+  <ul>
+    <li><span class="meta">2026-11-17 · 国际赛</span><span class="teams">新加坡 vs 巴西</span><a class="url" href="/matches/1495245.html">{ORIGIN}/matches/1495245.html</a></li>
+<li><span class="meta">2026-11-17 · 国际赛</span><span class="teams">中国 vs 巴林</span><a class="url" href="/matches/1503020.html">{ORIGIN}/matches/1503020.html</a></li>
+<li><span class="meta">2026-11-17 · 国际赛</span><span class="teams">日本 vs 巴拉圭</span><a class="url" href="/matches/1495247.html">{ORIGIN}/matches/1495247.html</a></li>
+<li><span class="meta">2026-11-18 · 欧洲国家联赛</span><span class="teams">波黑 vs 罗马尼亚</span><a class="url" href="/matches/1398664.html">{ORIGIN}/matches/1398664.html</a></li>
+<li><span class="meta">2026-11-18 · 欧洲国家联赛</span><span class="teams">波兰 vs 瑞典</span><a class="url" href="/matches/1398667.html">{ORIGIN}/matches/1398667.html</a></li>
+<li><span class="meta">2026-11-18 · 欧洲国家联赛</span><span class="teams">丹麦 vs 挪威</span><a class="url" href="/matches/1398696.html">{ORIGIN}/matches/1398696.html</a></li>
+<li><span class="meta">2026-11-18 · 欧洲国家联赛</span><span class="teams">威尔士 vs 葡萄牙</span><a class="url" href="/matches/1398698.html">{ORIGIN}/matches/1398698.html</a></li>
+<li><span class="meta">2026-11-18 · 欧洲国家联赛</span><span class="teams">匈牙利 vs 北爱尔兰</span><a class="url" href="/matches/1398655.html">{ORIGIN}/matches/1398655.html</a></li>
+<li><span class="meta">2026-11-18 · 欧洲国家联赛</span><span class="teams">爱尔兰 vs 科索沃</span><a class="url" href="/matches/1398661.html">{ORIGIN}/matches/1398661.html</a></li>
+<li><span class="meta">2026-11-18 · 国际赛</span><span class="teams">智利 vs 哥伦比亚</span><a class="url" href="/matches/1495250.html">{ORIGIN}/matches/1495250.html</a></li>
+  </ul>
+  <button id="copy-all" type="button">复制全部对阵及链接</button>
+  <p class="hint">点按钮会把每场一行，格式：<code>日期 联赛 主队 vs 客队 URL</code>，复制到剪贴板。</p>
+  <script>
+    (function () {
+      var ITEMS = [{"line": "2026-11-17 国际赛 新加坡 vs 巴西 {ORIGIN}/matches/1495245.html"}, {"line": "2026-11-17 国际赛 中国 vs 巴林 {ORIGIN}/matches/1503020.html"}, {"line": "2026-11-17 国际赛 日本 vs 巴拉圭 {ORIGIN}/matches/1495247.html"}, {"line": "2026-11-18 欧洲国家联赛 波黑 vs 罗马尼亚 {ORIGIN}/matches/1398664.html"}, {"line": "2026-11-18 欧洲国家联赛 波兰 vs 瑞典 {ORIGIN}/matches/1398667.html"}, {"line": "2026-11-18 欧洲国家联赛 丹麦 vs 挪威 {ORIGIN}/matches/1398696.html"}, {"line": "2026-11-18 欧洲国家联赛 威尔士 vs 葡萄牙 {ORIGIN}/matches/1398698.html"}, {"line": "2026-11-18 欧洲国家联赛 匈牙利 vs 北爱尔兰 {ORIGIN}/matches/1398655.html"}, {"line": "2026-11-18 欧洲国家联赛 爱尔兰 vs 科索沃 {ORIGIN}/matches/1398661.html"}, {"line": "2026-11-18 国际赛 智利 vs 哥伦比亚 {ORIGIN}/matches/1495250.html"}];
+      var origin = location.origin;
+      // 页面加载时把 li 里的 {ORIGIN} 占位符都换成真实域名
+      document.querySelectorAll('.quick .url').forEach(function (a) {
+        if (a.textContent.indexOf('{ORIGIN}') === 0) {
+          a.textContent = origin + a.textContent.slice('{ORIGIN}'.length);
+        }
+      });
+      var btn = document.getElementById('copy-all');
+      btn.addEventListener('click', function () {
+        var text = ITEMS.map(function (it) { return it.line.replace('{ORIGIN}', origin); }).join('\n');
+        var done = function () {
+          var prev = btn.textContent;
+          btn.textContent = '已复制 ' + ITEMS.length + ' 条 ✓';
+          btn.disabled = true;
+          setTimeout(function () { btn.textContent = prev; btn.disabled = false; }, 2000);
+        };
+        if (navigator.clipboard && window.isSecureContext) {
+          navigator.clipboard.writeText(text).then(done, function (err) {
+            alert('复制失败：' + err);
+          });
+        } else {
+          var ta = document.createElement('textarea');
+          ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+          document.body.appendChild(ta); ta.select();
+          try { document.execCommand('copy'); done(); } catch (e) { alert('复制失败'); }
+          document.body.removeChild(ta);
+        }
+      });
+    })();
+  </script>
+</section>
 
 <h1>今日全部对阵</h1>
+<h2>国际赛 (4)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2001</td>
+<td>2026-11-17 星期二</td>
+<td>新加坡 vs 巴西</td>
+<td>2.80/5.20/1.70</td>
+<td><a href="matches/1495245.html">1495245</a></td>
+</tr>
+<tr>
+<td>2002</td>
+<td>2026-11-17 星期二</td>
+<td>中国 vs 巴林</td>
+<td>3.70/3.35/1.76</td>
+<td><a href="matches/1503020.html">1503020</a></td>
+</tr>
+<tr>
+<td>2003</td>
+<td>2026-11-17 星期二</td>
+<td>日本 vs 巴拉圭</td>
+<td>2.80/3.40/2.05</td>
+<td><a href="matches/1495247.html">1495247</a></td>
+</tr>
+<tr>
+<td>2010</td>
+<td>2026-11-18 星期三</td>
+<td>智利 vs 哥伦比亚</td>
+<td>1.61/3.50/4.30</td>
+<td><a href="matches/1495250.html">1495250</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2>欧洲国家联赛 (6)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>对阵</th>
+<th>胜/平/负</th>
+<th>gameid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2004</td>
+<td>2026-11-18 星期三</td>
+<td>波黑 vs 罗马尼亚</td>
+<td>3.10/3.55/1.87</td>
+<td><a href="matches/1398664.html">1398664</a></td>
+</tr>
+<tr>
+<td>2005</td>
+<td>2026-11-18 星期三</td>
+<td>波兰 vs 瑞典</td>
+<td>4.25/4.00/1.53</td>
+<td><a href="matches/1398667.html">1398667</a></td>
+</tr>
+<tr>
+<td>2006</td>
+<td>2026-11-18 星期三</td>
+<td>丹麦 vs 挪威</td>
+<td>1.45/4.30/4.60</td>
+<td><a href="matches/1398696.html">1398696</a></td>
+</tr>
+<tr>
+<td>2007</td>
+<td>2026-11-18 星期三</td>
+<td>威尔士 vs 葡萄牙</td>
+<td>2.60/3.60/2.10</td>
+<td><a href="matches/1398698.html">1398698</a></td>
+</tr>
+<tr>
+<td>2008</td>
+<td>2026-11-18 星期三</td>
+<td>匈牙利 vs 北爱尔兰</td>
+<td>3.75/3.32/1.75</td>
+<td><a href="matches/1398655.html">1398655</a></td>
+</tr>
+<tr>
+<td>2009</td>
+<td>2026-11-18 星期三</td>
+<td>爱尔兰 vs 科索沃</td>
+<td>3.57/3.30/1.80</td>
+<td><a href="matches/1398661.html">1398661</a></td>
+</tr>
+</tbody>
+</table></div>
 </main>
 <footer>数据源 500 彩票网 · 项目 <a href="https://github.com/nelsonie/caipiao">nelsonie/caipiao</a></footer>
 </body>
