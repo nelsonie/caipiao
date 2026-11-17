@@ -1,15 +1,8 @@
 ---
-last_updated_utc: '2026-11-17T23:00:06Z'
-total_matches: 1
-leagues_covered:
-- 国际赛
+last_updated_utc: '2026-11-17T23:10:06Z'
+total_matches: 0
+leagues_covered: []
 ---
 
 # 今日全部对阵
 
-
-## 国际赛 (1)
-
-| 编号 | 日期 | 对阵 | 胜/平/负 | gameid |
-|---|---|---|---|---|
-| 2010 | 2026-11-18 星期三 | 智利 vs 哥伦比亚 | 1.74/3.23/3.92 | [1495250](matches/1495250.md) |
