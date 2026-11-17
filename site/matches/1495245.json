@@ -24,7 +24,7 @@
       "lost": "1.02",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-11-17T10:10:07Z"
+    "fetched_at_utc": "2026-11-17T10:20:08Z"
   },
   "shuju": {
     "title": "新加坡VS巴西(2026友谊赛)-数据分析-500彩票网",
@@ -293,12 +293,12 @@
           },
           {
             "number": null,
-            "name": "6 仲村京雅 中场",
+            "name": "8 沙赫·沙希兰 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "8 沙赫·沙希兰 中场",
+            "name": "6 仲村京雅 中场",
             "position": null
           },
           {
@@ -657,22 +657,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.890↑",
-        "handicap": "受五球/五球半升",
-        "away_water": "0.920↑",
-        "time": "11-17 18:01"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "受五球",
-        "away_water": "0.850",
-        "time": "10-19 00:44"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -686,6 +670,22 @@
         "handicap": "受四球半/五球",
         "away_water": "0.850",
         "time": "11-12 00:16"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.890↑",
+        "handicap": "受五球/五球半升",
+        "away_water": "0.920↑",
+        "time": "11-17 18:01"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "受五球",
+        "away_water": "0.850",
+        "time": "10-19 00:44"
       }
     },
     {
