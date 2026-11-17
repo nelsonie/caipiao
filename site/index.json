@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-17T13:50:10Z",
+  "last_updated_utc": "2026-11-17T14:00:11Z",
   "matches": [
     {
       "xml_id": "2042828",
@@ -90,6 +90,24 @@
       "matchnum_label": "周二005",
       "home_team_id": "37",
       "away_team_id": "27"
+    },
+    {
+      "xml_id": "2042833",
+      "matchnum": "2006",
+      "date": "2026-11-18",
+      "dayofweek": "星期三",
+      "league": "欧洲国家联赛",
+      "home": "丹麦",
+      "away": "挪威",
+      "spf_win": "1.53",
+      "spf_draw": "4.10",
+      "spf_lost": "4.15",
+      "spf_updated": "2026-11-17 21:31:50",
+      "gameid": "1398696",
+      "kickoff_cst": "2026-11-18 03:45",
+      "matchnum_label": "周二006",
+      "home_team_id": "3",
+      "away_team_id": "31"
     },
     {
       "xml_id": "2042834",
