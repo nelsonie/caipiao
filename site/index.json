@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-17T12:30:10Z",
+  "last_updated_utc": "2026-11-17T12:40:11Z",
   "matches": [
     {
       "xml_id": "2042828",
@@ -45,10 +45,10 @@
       "league": "国际赛",
       "home": "日本",
       "away": "巴拉圭",
-      "spf_win": "2.44",
-      "spf_draw": "3.20",
-      "spf_lost": "2.40",
-      "spf_updated": "2026-11-17 19:56:55",
+      "spf_win": "2.42",
+      "spf_draw": "3.18",
+      "spf_lost": "2.43",
+      "spf_updated": "2026-11-17 20:37:23",
       "gameid": "1495247",
       "kickoff_cst": "2026-11-17 21:10",
       "matchnum_label": "周二003",
@@ -126,24 +126,6 @@
       "matchnum_label": "周二007",
       "home_team_id": "62",
       "away_team_id": "20"
-    },
-    {
-      "xml_id": "2042835",
-      "matchnum": "2008",
-      "date": "2026-11-18",
-      "dayofweek": "星期三",
-      "league": "欧洲国家联赛",
-      "home": "匈牙利",
-      "away": "北爱尔兰",
-      "spf_win": "3.70",
-      "spf_draw": "2.92",
-      "spf_lost": "1.90",
-      "spf_updated": "2026-11-17 17:14:55",
-      "gameid": "1398655",
-      "kickoff_cst": "2026-11-18 03:45",
-      "matchnum_label": "周二008",
-      "home_team_id": "55",
-      "away_team_id": "97"
     },
     {
       "xml_id": "2042836",
