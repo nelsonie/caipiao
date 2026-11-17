@@ -24,7 +24,7 @@
       "lost": "4.40",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-17T13:20:06Z"
+    "fetched_at_utc": "2026-11-17T13:30:08Z"
   },
   "shuju": {
     "title": "日本VS巴拉圭(2026友谊赛)-数据分析-500彩票网",
@@ -346,16 +346,16 @@
     },
     "lineup": {
       "home": {
-        "formation": "3-4-3",
+        "formation": "4-2-3-1",
         "starters": [
           {
             "number": null,
-            "name": "7 相马勇纪 中场",
+            "name": "9 后藤启介 前锋",
             "position": null
           },
           {
             "number": null,
-            "name": "9 后藤启介 前锋",
+            "name": "7 相马勇纪 中场",
             "position": null
           },
           {
@@ -370,17 +370,17 @@
           },
           {
             "number": null,
-            "name": "24 佐野海舟 中场",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "22 佐野航大 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "2 菅原由势 后卫",
+            "name": "24 佐野海舟 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "25 铃木淳之介 后卫",
             "position": null
           },
           {
@@ -395,7 +395,7 @@
           },
           {
             "number": null,
-            "name": "25 铃木淳之介 后卫",
+            "name": "2 菅原由势 后卫",
             "position": null
           },
           {
@@ -412,62 +412,12 @@
           },
           {
             "number": null,
-            "name": "17 田中碧 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "3 濑古步梦 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "19 小川航基 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "6 中野就斗 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "8 南野拓实 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "27 松木玖生 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "11 前田大然 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "16 町田浩树 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "10 堂安律 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "28 福田师王 前锋",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "20 久保建英 前锋",
             "position": null
           },
           {
             "number": null,
-            "name": "21 伊藤洋辉 后卫",
+            "name": "12 小久保玲央 守门员",
             "position": null
           },
           {
@@ -477,7 +427,57 @@
           },
           {
             "number": null,
-            "name": "12 小久保玲央 守门员",
+            "name": "21 伊藤洋辉 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "11 前田大然 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "28 福田师王 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "10 堂安律 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "27 松木玖生 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "16 町田浩树 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "6 中野就斗 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "19 小川航基 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "3 濑古步梦 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "17 田中碧 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "8 南野拓实 前锋",
             "position": null
           }
         ],
@@ -485,18 +485,8 @@
         "suspended": []
       },
       "away": {
-        "formation": "4-2-3-1",
+        "formation": "4-4-2",
         "starters": [
-          {
-            "number": null,
-            "name": "18 艾伦·沃尔克 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "16 达米安·博瓦迪利亚 中场",
-            "position": null
-          },
           {
             "number": null,
             "name": "19 朱里奥·恩西索 中场",
@@ -504,7 +494,17 @@
           },
           {
             "number": null,
+            "name": "18 艾伦·沃尔克 前锋",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "10 米格尔·阿尔米隆 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "16 达米安·博瓦迪利亚 中场",
             "position": null
           },
           {
@@ -524,12 +524,12 @@
           },
           {
             "number": null,
-            "name": "15 古斯塔沃·戈麦斯 后卫",
+            "name": "3 奥马尔·阿尔德雷特 后卫",
             "position": null
           },
           {
             "number": null,
-            "name": "3 奥马尔·阿尔德雷特 后卫",
+            "name": "15 古斯塔沃·戈麦斯 后卫",
             "position": null
           },
           {
