@@ -8,9 +8,9 @@
     "away": "北爱尔兰",
     "kickoff_cst": "2026-11-18 03:45",
     "spf": {
-      "win": "3.65",
-      "draw": "2.98",
-      "lost": "1.89"
+      "win": "3.70",
+      "draw": "2.92",
+      "lost": "1.90"
     },
     "asia_main": {
       "handicap": "半球",
@@ -24,7 +24,7 @@
       "lost": "4.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-17T09:10:09Z"
+    "fetched_at_utc": "2026-11-17T09:20:10Z"
   },
   "shuju": {
     "title": "匈牙利VS北爱尔兰(2026/2027欧国联)-数据分析-500彩票网",
@@ -685,22 +685,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.240↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.710↑",
-        "time": "11-17 13:01"
-      },
-      "init": {
-        "home_water": "1.730",
-        "handicap": "一球",
-        "away_water": "0.380",
-        "time": "10-28 02:30"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -714,6 +698,22 @@
         "handicap": "半球",
         "away_water": "0.960",
         "time": "11-13 23:30"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.240↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.710↑",
+        "time": "11-17 13:01"
+      },
+      "init": {
+        "home_water": "1.730",
+        "handicap": "一球",
+        "away_water": "0.380",
+        "time": "10-28 02:30"
       }
     },
     {
