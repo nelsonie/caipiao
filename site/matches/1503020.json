@@ -24,7 +24,7 @@
       "lost": "3.95",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-17T12:10:07Z"
+    "fetched_at_utc": "2026-11-17T12:20:08Z"
   },
   "shuju": {
     "title": "中国VS巴林(2026友谊赛)-数据分析-500彩票网",
@@ -493,13 +493,8 @@
         "suspended": []
       },
       "away": {
-        "formation": "4-3-3",
+        "formation": "4-2-3-1",
         "starters": [
-          {
-            "number": null,
-            "name": "8 穆罕默德·马尔洪 前锋",
-            "position": null
-          },
           {
             "number": null,
             "name": "26 侯赛因·阿卜杜勒卡里姆 前锋",
@@ -507,12 +502,17 @@
           },
           {
             "number": null,
-            "name": "7 阿里·马丹 前锋",
+            "name": "28 穆罕默德·阿卜杜勒·卡尤姆 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "28 穆罕默德·阿卜杜勒·卡尤姆 中场",
+            "name": "8 穆罕默德·马尔洪 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "7 阿里·马丹 前锋",
             "position": null
           },
           {
@@ -532,12 +532,12 @@
           },
           {
             "number": null,
-            "name": "17 艾哈迈德·布加马尔 后卫",
+            "name": "3 瓦利德·哈亚姆 后卫",
             "position": null
           },
           {
             "number": null,
-            "name": "3 瓦利德·哈亚姆 后卫",
+            "name": "17 艾哈迈德·布加马尔 后卫",
             "position": null
           },
           {
@@ -589,22 +589,12 @@
           },
           {
             "number": null,
-            "name": "25 巴德尔·阿萨姆 后卫",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "14 文森特·伊曼纽尔 后卫",
             "position": null
           },
           {
             "number": null,
             "name": "15 艾哈迈德·谢鲁奇 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "22 易卜拉欣·卢特法拉 守门员",
             "position": null
           },
           {
@@ -620,6 +610,16 @@
           {
             "number": null,
             "name": "21 奥马尔·萨贝尔 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "22 易卜拉欣·卢特法拉 守门员",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "25 巴德尔·阿萨姆 后卫",
             "position": null
           }
         ],
