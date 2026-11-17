@@ -8,9 +8,9 @@
     "away": "巴林",
     "kickoff_cst": "2026-11-17 20:00",
     "spf": {
-      "win": "3.75",
+      "win": "3.88",
       "draw": "2.93",
-      "lost": "1.88"
+      "lost": "1.85"
     },
     "asia_main": {
       "handicap": "半球",
@@ -24,7 +24,7 @@
       "lost": "3.95",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-17T10:50:07Z"
+    "fetched_at_utc": "2026-11-17T11:00:07Z"
   },
   "shuju": {
     "title": "中国VS巴林(2026友谊赛)-数据分析-500彩票网",
@@ -363,7 +363,7 @@
         "starters": [
           {
             "number": null,
-            "name": "9 张玉宁 前锋",
+            "name": "17 拜合拉木·阿卜杜外力 前锋",
             "position": null
           },
           {
@@ -420,37 +420,7 @@
         "subs": [
           {
             "number": null,
-            "name": "21 王子铭 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "29 巴顿 后卫",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "1 颜骏凌 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "28 蒋圣龙 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "14 黄嘉辉 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "15 吴曦 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "24 彭啸 后卫",
             "position": null
           },
           {
@@ -460,17 +430,12 @@
           },
           {
             "number": null,
-            "name": "2 胡荷韬 后卫",
+            "name": "29 巴顿 后卫",
             "position": null
           },
           {
             "number": null,
-            "name": "4 吾米提江·玉苏普 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "20 毛伟杰 后卫",
+            "name": "28 蒋圣龙 后卫",
             "position": null
           },
           {
@@ -480,12 +445,47 @@
           },
           {
             "number": null,
-            "name": "26 黄晟豪 中场",
+            "name": "24 彭啸 后卫",
             "position": null
           },
           {
             "number": null,
-            "name": "17 拜合拉木·阿卜杜外力 前锋",
+            "name": "21 王子铭 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "20 毛伟杰 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "15 吴曦 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "14 黄嘉辉 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "9 张玉宁 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "4 吾米提江·玉苏普 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "2 胡荷韬 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "26 黄晟豪 中场",
             "position": null
           }
         ],
@@ -497,17 +497,17 @@
         "starters": [
           {
             "number": null,
-            "name": "8 穆罕默德·马尔洪 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "9 阿卜杜拉·尤素福 前锋",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "7 阿里·马丹 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "26 侯赛因·阿卜杜勒卡里姆 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "8 穆罕默德·马尔洪 前锋",
             "position": null
           },
           {
@@ -522,7 +522,7 @@
           },
           {
             "number": null,
-            "name": "6 阿巴斯·法德尔·阿斯福 中场",
+            "name": "12 贾西姆·赫莱夫 中场",
             "position": null
           },
           {
@@ -532,49 +532,12 @@
           },
           {
             "number": null,
-            "name": "25 巴德尔·阿萨姆 后卫",
+            "name": "5 艾哈迈德·拉比亚 后卫",
             "position": null
           },
           {
             "number": null,
-            "name": "2 阿明·贝纳迪 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "18 穆罕默德·阿德尔 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "32 戈德威尔·奇亚 守门员",
-            "position": null
-          }
-        ],
-        "subs": [
-          {
-            "number": null,
-            "name": "20 贾西姆·本杰米亚 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "24 穆罕默德·加拉比 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "19 哈扎·阿里 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "26 侯赛因·阿卜杜勒卡里姆 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "27 萨乌德·穆赫辛 中场",
+            "name": "3 瓦利德·哈亚姆 后卫",
             "position": null
           },
           {
@@ -584,7 +547,29 @@
           },
           {
             "number": null,
-            "name": "29 阿里·胡穆德·多萨里 前锋",
+            "name": "24 穆罕默德·加拉比 守门员",
+            "position": null
+          }
+        ],
+        "subs": [
+          {
+            "number": null,
+            "name": "4 赛义德·迪亚·赛义德 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "2 阿明·贝纳迪 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "6 阿巴斯·法德尔·阿斯福 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "1 奥马尔·萨利姆 守门员",
             "position": null
           },
           {
@@ -594,7 +579,17 @@
           },
           {
             "number": null,
-            "name": "16 赛义德·巴吉尔 后卫",
+            "name": "29 阿里·胡穆德·多萨里 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "27 萨乌德·穆赫辛 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "14 文森特·伊曼纽尔 后卫",
             "position": null
           },
           {
@@ -604,17 +599,17 @@
           },
           {
             "number": null,
-            "name": "12 贾西姆·赫莱夫 中场",
+            "name": "19 哈扎·阿里 后卫",
             "position": null
           },
           {
             "number": null,
-            "name": "11 赛义德·哈希姆·伊萨 前锋",
+            "name": "20 贾西姆·本杰米亚 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "5 艾哈迈德·拉比亚 后卫",
+            "name": "21 奥马尔·萨贝尔 中场",
             "position": null
           },
           {
@@ -624,7 +619,7 @@
           },
           {
             "number": null,
-            "name": "3 瓦利德·哈亚姆 后卫",
+            "name": "25 巴德尔·阿萨姆 后卫",
             "position": null
           }
         ],
@@ -734,32 +729,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.920↑",
+        "home_water": "0.930↑",
         "handicap": "半球",
-        "away_water": "0.900↓",
-        "time": "11-17 18:37"
+        "away_water": "0.880↓",
+        "time": "11-17 18:49"
       },
       "init": {
         "home_water": "0.860",
         "handicap": "半球",
         "away_water": "0.920",
         "time": "11-16 09:40"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.870↓",
-        "handicap": "半球",
-        "away_water": "0.850↑",
-        "time": "11-17 18:36"
-      },
-      "init": {
-        "home_water": "0.960",
-        "handicap": "半球",
-        "away_water": "0.770",
-        "time": "11-11 18:54"
       }
     },
     {
@@ -776,6 +755,22 @@
         "handicap": "平手",
         "away_water": "1.740",
         "time": "10-29 18:22"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.880↓",
+        "handicap": "半球",
+        "away_water": "0.840↑",
+        "time": "11-17 18:48"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "半球",
+        "away_water": "0.770",
+        "time": "11-11 18:54"
       }
     },
     {
@@ -895,7 +890,7 @@
     {
       "cid": "1",
       "company": "官*",
-      "time": "2026-11-17 16:45:40",
+      "time": "2026-11-17 18:47:15",
       "odds": {
         "live": [
           "1.79",
@@ -903,9 +898,9 @@
           "3.95"
         ],
         "init": [
-          "1.69",
-          "3.25",
-          "4.18"
+          "1.72",
+          "3.20",
+          "4.08"
         ]
       },
       "prob": {
@@ -915,9 +910,9 @@
           "22.21%"
         ],
         "init": [
-          "51.97%",
-          "27.02%",
-          "21.01%"
+          "51.04%",
+          "27.44%",
+          "21.52%"
         ]
       },
       "ret": {
@@ -925,7 +920,7 @@
           "87.74%"
         ],
         "init": [
-          "87.82%"
+          "87.80%"
         ]
       },
       "kelly": {
@@ -935,9 +930,9 @@
           "0.91"
         ],
         "init": [
-          "0.83",
-          "0.91",
-          "0.97"
+          "0.84",
+          "0.89",
+          "0.94"
         ]
       }
     },
@@ -1630,7 +1625,7 @@
     {
       "cid": "651",
       "company": "利*",
-      "time": "2026-11-17 18:39:35",
+      "time": "2026-11-17 18:48:31",
       "odds": {
         "live": [
           "1.92",
@@ -1638,9 +1633,9 @@
           "3.64"
         ],
         "init": [
-          "1.96",
-          "3.07",
-          "3.77"
+          "2.00",
+          "3.03",
+          "3.69"
         ]
       },
       "prob": {
@@ -1650,9 +1645,9 @@
           "24.50%"
         ],
         "init": [
-          "46.33%",
-          "29.58%",
-          "24.09%"
+          "45.41%",
+          "29.97%",
+          "24.61%"
         ]
       },
       "ret": {
@@ -1660,7 +1655,7 @@
           "89.18%"
         ],
         "init": [
-          "90.81%"
+          "90.82%"
         ]
       },
       "kelly": {
@@ -1670,9 +1665,9 @@
           "0.84"
         ],
         "init": [
-          "0.96",
-          "0.86",
-          "0.87"
+          "0.98",
+          "0.84",
+          "0.85"
         ]
       }
     },
