@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-18T11:00:13Z",
+  "last_updated_utc": "2026-11-18T11:10:12Z",
   "matches": [
     {
       "xml_id": "2042838",
@@ -27,10 +27,10 @@
       "league": "巴西甲级联赛",
       "home": "弗拉门戈",
       "away": "巴拉纳竞技",
-      "spf_win": "2.57",
+      "spf_win": "2.50",
       "spf_draw": "3.40",
-      "spf_lost": "2.19",
-      "spf_updated": "2026-11-18 16:34:04",
+      "spf_lost": "2.25",
+      "spf_updated": "2026-11-18 18:59:59",
       "gameid": "1362527",
       "kickoff_cst": "2026-11-19 07:30",
       "matchnum_label": "周三002",
@@ -45,10 +45,10 @@
       "league": "巴西甲级联赛",
       "home": "科林蒂安",
       "away": "博塔弗戈",
-      "spf_win": "3.70",
-      "spf_draw": "2.92",
-      "spf_lost": "1.90",
-      "spf_updated": "2026-11-18 18:45:56",
+      "spf_win": "3.60",
+      "spf_draw": "2.83",
+      "spf_lost": "1.97",
+      "spf_updated": "2026-11-18 18:56:46",
       "gameid": "1362548",
       "kickoff_cst": "2026-11-19 08:30",
       "matchnum_label": "周三003",
@@ -72,6 +72,42 @@
       "matchnum_label": "周三004",
       "home_team_id": "1580",
       "away_team_id": "2277"
+    },
+    {
+      "xml_id": "2042842",
+      "matchnum": "4001",
+      "date": "2026-11-20",
+      "dayofweek": "星期五",
+      "league": "巴西甲级联赛",
+      "home": "维多利亚",
+      "away": "布拉干蒂诺RB",
+      "spf_win": "1.43",
+      "spf_draw": "3.90",
+      "spf_lost": "5.45",
+      "spf_updated": "2026-11-18 13:48:18",
+      "gameid": "1362504",
+      "kickoff_cst": "2026-11-20 06:30",
+      "matchnum_label": "周四001",
+      "home_team_id": "1589",
+      "away_team_id": "3343"
+    },
+    {
+      "xml_id": "2042843",
+      "matchnum": "4002",
+      "date": "2026-11-20",
+      "dayofweek": "星期五",
+      "league": "巴西甲级联赛",
+      "home": "圣保罗",
+      "away": "弗鲁米嫩塞",
+      "spf_win": "5.15",
+      "spf_draw": "3.72",
+      "spf_lost": "1.48",
+      "spf_updated": "2026-11-18 09:29:09",
+      "gameid": "1362571",
+      "kickoff_cst": "2026-11-20 08:30",
+      "matchnum_label": "周四002",
+      "home_team_id": "1385",
+      "away_team_id": "1578"
     }
   ]
 }
