@@ -24,7 +24,7 @@
       "lost": "2.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-18T09:50:07Z"
+    "fetched_at_utc": "2026-11-18T10:00:09Z"
   },
   "shuju": {
     "title": "奥兰多城VS辛辛那提FC(2026美职联)-数据分析-500彩票网",
@@ -650,22 +650,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "2.240↑",
-        "handicap": "一球",
-        "away_water": "0.340↓",
-        "time": "11-18 05:01"
-      },
-      "init": {
-        "home_water": "2.210",
-        "handicap": "一球",
-        "away_water": "0.350",
-        "time": "11-08 22:01"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -679,6 +663,22 @@
         "handicap": "平手",
         "away_water": "0.930",
         "time": "11-10 01:02"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "2.240↑",
+        "handicap": "一球",
+        "away_water": "0.340↓",
+        "time": "11-18 05:01"
+      },
+      "init": {
+        "home_water": "2.210",
+        "handicap": "一球",
+        "away_water": "0.350",
+        "time": "11-08 22:01"
       }
     },
     {
