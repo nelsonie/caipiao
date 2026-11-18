@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-18T08:20:10Z",
+  "last_updated_utc": "2026-11-18T08:30:10Z",
   "matches": [
     {
       "xml_id": "2042838",
@@ -74,22 +74,22 @@
       "away_team_id": "2277"
     },
     {
-      "xml_id": "2042843",
-      "matchnum": "4002",
+      "xml_id": "2042842",
+      "matchnum": "4001",
       "date": "2026-11-20",
       "dayofweek": "星期五",
       "league": "巴西甲级联赛",
-      "home": "圣保罗",
-      "away": "弗鲁米嫩塞",
-      "spf_win": "5.15",
-      "spf_draw": "3.72",
-      "spf_lost": "1.48",
-      "spf_updated": "2026-11-18 09:29:09",
-      "gameid": "1362571",
-      "kickoff_cst": "2026-11-20 08:30",
-      "matchnum_label": "周四002",
-      "home_team_id": "1385",
-      "away_team_id": "1578"
+      "home": "维多利亚",
+      "away": "布拉干蒂诺RB",
+      "spf_win": "1.43",
+      "spf_draw": "3.90",
+      "spf_lost": "5.45",
+      "spf_updated": "2026-11-18 13:48:18",
+      "gameid": "1362504",
+      "kickoff_cst": "2026-11-20 06:30",
+      "matchnum_label": "周四001",
+      "home_team_id": "1589",
+      "away_team_id": "3343"
     }
   ]
 }
