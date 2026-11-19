@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-19T11:30:15Z",
+  "last_updated_utc": "2026-11-19T11:40:11Z",
   "matches": [
     {
       "xml_id": "2042842",
@@ -90,24 +90,6 @@
       "matchnum_label": "周五001",
       "home_team_id": "7014",
       "away_team_id": "3986"
-    },
-    {
-      "xml_id": "2042881",
-      "matchnum": "5003",
-      "date": "2026-11-20",
-      "dayofweek": "星期五",
-      "league": "日本职业联赛",
-      "home": "鹿岛鹿角",
-      "away": "清水鼓动",
-      "spf_win": "2.28",
-      "spf_draw": "3.35",
-      "spf_lost": "2.49",
-      "spf_updated": "2026-11-19 16:39:46",
-      "gameid": "1419470",
-      "kickoff_cst": "2026-11-20 18:00",
-      "matchnum_label": "周五003",
-      "home_team_id": "1029",
-      "away_team_id": "1178"
     },
     {
       "xml_id": "2042882",
