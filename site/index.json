@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-19T10:40:15Z",
+  "last_updated_utc": "2026-11-19T10:50:19Z",
   "matches": [
     {
       "xml_id": "2042842",
@@ -45,10 +45,10 @@
       "league": "美国职业大联盟",
       "home": "奥兰多城",
       "away": "辛辛那提FC",
-      "spf_win": "4.48",
+      "spf_win": "4.57",
       "spf_draw": "4.16",
-      "spf_lost": "1.48",
-      "spf_updated": "2026-11-19 15:46:35",
+      "spf_lost": "1.47",
+      "spf_updated": "2026-11-19 18:39:42",
       "gameid": "2190316",
       "kickoff_cst": "2026-11-20 08:30",
       "matchnum_label": "周四003",
@@ -74,22 +74,22 @@
       "away_team_id": "2440"
     },
     {
-      "xml_id": "2042879",
-      "matchnum": "5001",
+      "xml_id": "2042880",
+      "matchnum": "5002",
       "date": "2026-11-20",
       "dayofweek": "星期五",
-      "league": "澳大利亚超级联赛",
-      "home": "西悉尼漫步者",
-      "away": "阿德莱德联",
-      "spf_win": "2.60",
-      "spf_draw": "3.60",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-11-19 13:51:21",
-      "gameid": "1450878",
-      "kickoff_cst": "2026-11-20 16:40",
-      "matchnum_label": "周五001",
-      "home_team_id": "7014",
-      "away_team_id": "3986"
+      "league": "日本职业联赛",
+      "home": "柏太阳神",
+      "away": "千叶市原",
+      "spf_win": "2.17",
+      "spf_draw": "3.55",
+      "spf_lost": "2.52",
+      "spf_updated": "2026-11-19 16:39:30",
+      "gameid": "1419467",
+      "kickoff_cst": "2026-11-20 18:00",
+      "matchnum_label": "周五002",
+      "home_team_id": "658",
+      "away_team_id": "842"
     },
     {
       "xml_id": "2042884",
@@ -126,24 +126,6 @@
       "matchnum_label": "周五007",
       "home_team_id": "1225",
       "away_team_id": "982"
-    },
-    {
-      "xml_id": "2042886",
-      "matchnum": "5008",
-      "date": "2026-11-21",
-      "dayofweek": "星期六",
-      "league": "西班牙甲级联赛",
-      "home": "毕尔巴鄂竞技",
-      "away": "西班牙人",
-      "spf_win": "2.28",
-      "spf_draw": "3.25",
-      "spf_lost": "2.55",
-      "spf_updated": "2026-11-19 13:51:21",
-      "gameid": "1428239",
-      "kickoff_cst": "2026-11-21 04:00",
-      "matchnum_label": "周五008",
-      "home_team_id": "690",
-      "away_team_id": "1283"
     }
   ]
 }
