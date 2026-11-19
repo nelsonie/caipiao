@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-19T13:10:14Z",
+  "last_updated_utc": "2026-11-19T13:20:13Z",
   "matches": [
     {
       "xml_id": "2042842",
@@ -45,10 +45,10 @@
       "league": "美国职业大联盟",
       "home": "奥兰多城",
       "away": "辛辛那提FC",
-      "spf_win": "4.57",
-      "spf_draw": "4.16",
-      "spf_lost": "1.47",
-      "spf_updated": "2026-11-19 18:39:42",
+      "spf_win": "4.82",
+      "spf_draw": "4.30",
+      "spf_lost": "1.43",
+      "spf_updated": "2026-11-19 21:09:26",
       "gameid": "2190316",
       "kickoff_cst": "2026-11-20 08:30",
       "matchnum_label": "周四003",
@@ -182,22 +182,22 @@
       "away_team_id": "932"
     },
     {
-      "xml_id": "2042885",
-      "matchnum": "5007",
+      "xml_id": "2042886",
+      "matchnum": "5008",
       "date": "2026-11-21",
       "dayofweek": "星期六",
-      "league": "法国甲级联赛",
-      "home": "特鲁瓦",
-      "away": "勒阿弗尔",
-      "spf_win": "3.97",
-      "spf_draw": "3.60",
-      "spf_lost": "1.64",
+      "league": "西班牙甲级联赛",
+      "home": "毕尔巴鄂竞技",
+      "away": "西班牙人",
+      "spf_win": "2.28",
+      "spf_draw": "3.25",
+      "spf_lost": "2.55",
       "spf_updated": "2026-11-19 13:51:21",
-      "gameid": "1415176",
-      "kickoff_cst": "2026-11-21 03:45",
-      "matchnum_label": "周五007",
-      "home_team_id": "1225",
-      "away_team_id": "982"
+      "gameid": "1428239",
+      "kickoff_cst": "2026-11-21 04:00",
+      "matchnum_label": "周五008",
+      "home_team_id": "690",
+      "away_team_id": "1283"
     }
   ]
 }
