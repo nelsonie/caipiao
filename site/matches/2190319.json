@@ -24,7 +24,7 @@
       "lost": "3.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-19T07:30:08Z"
+    "fetched_at_utc": "2026-11-19T07:40:05Z"
   },
   "shuju": {
     "title": "西雅图海湾人VS皇家盐湖城(2026美职联)-数据分析-500彩票网",
@@ -634,6 +634,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.920↓",
+        "handicap": "半球",
+        "away_water": "0.870↑",
+        "time": "11-19 15:37"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "半球",
+        "away_water": "0.840",
+        "time": "11-10 01:22"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -647,22 +663,6 @@
         "handicap": "一球",
         "away_water": "0.560",
         "time": "11-08 22:01"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.920↓",
-        "handicap": "半球",
-        "away_water": "0.870↑",
-        "time": "11-19 14:26"
-      },
-      "init": {
-        "home_water": "0.970",
-        "handicap": "半球",
-        "away_water": "0.840",
-        "time": "11-10 01:22"
       }
     },
     {
@@ -1174,7 +1174,7 @@
     {
       "cid": "6",
       "company": "伟*",
-      "time": "2026-11-19 14:10:18",
+      "time": "2026-11-19 15:36:30",
       "odds": {
         "live": [
           "1.91",
