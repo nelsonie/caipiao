@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-19T07:10:12Z",
+  "last_updated_utc": "2026-11-19T07:20:13Z",
   "matches": [
     {
       "xml_id": "2042842",
@@ -74,24 +74,6 @@
       "away_team_id": "2440"
     },
     {
-      "xml_id": "2042879",
-      "matchnum": "5001",
-      "date": "2026-11-20",
-      "dayofweek": "星期五",
-      "league": "澳大利亚超级联赛",
-      "home": "西悉尼漫步者",
-      "away": "阿德莱德联",
-      "spf_win": "2.60",
-      "spf_draw": "3.60",
-      "spf_lost": "2.10",
-      "spf_updated": "2026-11-19 13:51:21",
-      "gameid": "1450878",
-      "kickoff_cst": "2026-11-20 16:40",
-      "matchnum_label": "周五001",
-      "home_team_id": "7014",
-      "away_team_id": "3986"
-    },
-    {
       "xml_id": "2042880",
       "matchnum": "5002",
       "date": "2026-11-20",
@@ -108,6 +90,60 @@
       "matchnum_label": "周五002",
       "home_team_id": "658",
       "away_team_id": "842"
+    },
+    {
+      "xml_id": "2042881",
+      "matchnum": "5003",
+      "date": "2026-11-20",
+      "dayofweek": "星期五",
+      "league": "日本职业联赛",
+      "home": "鹿岛鹿角",
+      "away": "清水鼓动",
+      "spf_win": "2.39",
+      "spf_draw": "3.35",
+      "spf_lost": "2.37",
+      "spf_updated": "2026-11-19 13:51:21",
+      "gameid": "1419470",
+      "kickoff_cst": "2026-11-20 18:00",
+      "matchnum_label": "周五003",
+      "home_team_id": "1029",
+      "away_team_id": "1178"
+    },
+    {
+      "xml_id": "2042883",
+      "matchnum": "5005",
+      "date": "2026-11-21",
+      "dayofweek": "星期六",
+      "league": "荷兰乙级联赛",
+      "home": "登博思",
+      "away": "芬洛",
+      "spf_win": "3.12",
+      "spf_draw": "3.95",
+      "spf_lost": "1.77",
+      "spf_updated": "2026-11-19 13:51:21",
+      "gameid": "1416140",
+      "kickoff_cst": "2026-11-21 03:00",
+      "matchnum_label": "周五005",
+      "home_team_id": "756",
+      "away_team_id": "435"
+    },
+    {
+      "xml_id": "2042884",
+      "matchnum": "5006",
+      "date": "2026-11-21",
+      "dayofweek": "星期六",
+      "league": "德国甲级联赛",
+      "home": "拜仁慕尼黑",
+      "away": "科隆",
+      "spf_win": "2.07",
+      "spf_draw": "4.71",
+      "spf_lost": "2.25",
+      "spf_updated": "2026-11-19 13:51:21",
+      "gameid": "1428647",
+      "kickoff_cst": "2026-11-21 03:30",
+      "matchnum_label": "周五006",
+      "home_team_id": "664",
+      "away_team_id": "932"
     },
     {
       "xml_id": "2042885",
