@@ -24,7 +24,7 @@
       "lost": "1.55",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-20T04:30:23Z"
+    "fetched_at_utc": "2026-11-20T04:40:23Z"
   },
   "shuju": {
     "title": "奈梅亨VSPSV埃因霍温(2026/2027荷甲)-数据分析-500彩票网",
@@ -758,6 +758,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "受半球/一球",
+        "away_water": "0.880↓",
+        "time": "11-20 12:27"
+      },
+      "init": {
+        "home_water": "0.920",
+        "handicap": "受半球/一球",
+        "away_water": "0.930",
+        "time": "11-14 23:50"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -774,29 +790,13 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "受半球/一球",
-        "away_water": "0.900↓",
-        "time": "11-20 10:56"
-      },
-      "init": {
-        "home_water": "0.920",
-        "handicap": "受半球/一球",
-        "away_water": "0.930",
-        "time": "11-14 23:50"
-      }
-    },
-    {
       "cid": "1055",
       "company": "P*********",
       "live": {
-        "home_water": "0.940",
+        "home_water": "0.950↑",
         "handicap": "受半球/一球",
-        "away_water": "0.910↑",
-        "time": "11-20 09:07"
+        "away_water": "0.920↑",
+        "time": "11-20 11:34"
       },
       "init": {
         "home_water": "0.940",
