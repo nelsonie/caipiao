@@ -24,7 +24,7 @@
       "lost": "3.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-20T02:20:07Z"
+    "fetched_at_utc": "2026-11-20T02:30:08Z"
   },
   "shuju": {
     "title": "西雅图海湾人VS皇家盐湖城(2026美职联)-数据分析-500彩票网",
@@ -333,13 +333,8 @@
     },
     "lineup": {
       "home": {
-        "formation": null,
+        "formation": "4-2-3-1",
         "starters": [
-          {
-            "number": null,
-            "name": "16 阿莱克斯·罗尔丹 后卫",
-            "position": null
-          },
           {
             "number": null,
             "name": "9 德扬·约韦尔季奇 前锋",
@@ -347,37 +342,7 @@
           },
           {
             "number": null,
-            "name": "5 努胡·托洛 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "7 克里斯蒂安·罗尔丹 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "26 安德鲁·托马斯 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "20 金基熙 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "39 斯图尔特·霍金斯 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "90 塞巴斯蒂安·戈麦斯 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "27 杰苏斯·费雷拉 前锋",
+            "name": "90 塞巴斯蒂安·戈麦斯 中场",
             "position": null
           },
           {
@@ -387,34 +352,49 @@
           },
           {
             "number": null,
+            "name": "27 杰苏斯·费雷拉 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "7 克里斯蒂安·罗尔丹 中场",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "31 哈萨尼·多特森 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "5 努胡·托洛 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "39 斯图尔特·霍金斯 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "20 金基熙 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "16 阿莱克斯·罗尔丹 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "26 安德鲁·托马斯 守门员",
             "position": null
           }
         ],
         "subs": [
           {
             "number": null,
-            "name": "37 斯奈德·布鲁内尔 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "24 史蒂芬·弗雷 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "28 耶马尔·戈麦斯 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "45 彼得·金斯顿 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "85 卡拉尼·科萨-里恩齐 后卫",
+            "name": "14 保罗·罗斯洛克 前锋",
             "position": null
           },
           {
@@ -424,17 +404,37 @@
           },
           {
             "number": null,
-            "name": "14 保罗·罗斯洛克 前锋",
+            "name": "85 卡拉尼·科萨-里恩齐 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "4 瑞安·赛勒 后卫",
+            "name": "45 彼得·金斯顿 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "28 耶马尔·戈麦斯 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "24 史蒂芬·弗雷 守门员",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "37 斯奈德·布鲁内尔 中场",
             "position": null
           },
           {
             "number": null,
             "name": "17 保罗·阿里奥拿 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "4 瑞安·赛勒 后卫",
             "position": null
           }
         ],
@@ -442,11 +442,21 @@
         "suspended": []
       },
       "away": {
-        "formation": null,
+        "formation": "3-4-2-1",
         "starters": [
           {
             "number": null,
             "name": "22 塞尔吉·索兰斯 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "9 摩根·吉拉沃吉 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "12 萨巴·洛贝亚尼泽 中场",
             "position": null
           },
           {
@@ -456,17 +466,17 @@
           },
           {
             "number": null,
-            "name": "26 菲利普·昆顿 后卫",
+            "name": "92 诺埃尔·卡利斯坎 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "11 多米尼克·马尔祖克 前锋",
+            "name": "6 斯丁·斯皮尔林斯 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "12 萨巴·洛贝亚尼泽 前锋",
+            "name": "11 多米尼克·马尔祖克 中场",
             "position": null
           },
           {
@@ -476,7 +486,7 @@
           },
           {
             "number": null,
-            "name": "9 摩根·吉拉沃吉 前锋",
+            "name": "26 菲利普·昆顿 后卫",
             "position": null
           },
           {
@@ -486,17 +496,7 @@
           },
           {
             "number": null,
-            "name": "92 诺埃尔·卡利斯坎 中场",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "1 拉斐尔 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "6 斯丁·斯皮尔林斯 中场",
             "position": null
           }
         ],
@@ -518,7 +518,7 @@
           },
           {
             "number": null,
-            "name": "39 艾登·赫扎卡尼 中场",
+            "name": "39 艾登·赫扎卡尼 前锋",
             "position": null
           },
           {
