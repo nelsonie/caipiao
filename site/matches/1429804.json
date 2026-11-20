@@ -24,7 +24,7 @@
       "lost": "2.82",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-20T03:10:10Z"
+    "fetched_at_utc": "2026-11-20T03:20:10Z"
   },
   "shuju": {
     "title": "比勒费尔德VS马格德堡(2026/2027德乙)-数据分析-500彩票网",
@@ -723,6 +723,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "平手/半球",
+        "away_water": "0.880↑",
+        "time": "11-20 11:17"
+      },
+      "init": {
+        "home_water": "1.040",
+        "handicap": "平手/半球",
+        "away_water": "0.770",
+        "time": "11-09 22:04"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -736,22 +752,6 @@
         "handicap": "平手",
         "away_water": "1.110",
         "time": "11-09 21:18"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↓",
-        "handicap": "平手/半球",
-        "away_water": "0.880↑",
-        "time": "11-20 10:52"
-      },
-      "init": {
-        "home_water": "1.040",
-        "handicap": "平手/半球",
-        "away_water": "0.770",
-        "time": "11-09 22:04"
       }
     },
     {
@@ -854,10 +854,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.930↓",
+        "home_water": "0.940↓",
         "handicap": "平手/半球",
-        "away_water": "0.970↑",
-        "time": "11-20 02:46"
+        "away_water": "0.960↑",
+        "time": "11-20 11:04"
       },
       "init": {
         "home_water": "0.960",
