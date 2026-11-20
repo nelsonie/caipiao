@@ -24,7 +24,7 @@
       "lost": "2.50",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-20T10:10:30Z"
+    "fetched_at_utc": "2026-11-20T10:20:29Z"
   },
   "shuju": {
     "title": "金泉尚武VS济州联队(2026K1联赛)-数据分析-500彩票网",
@@ -680,6 +680,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "平手",
+        "away_water": "0.970",
+        "time": "11-20 16:18"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手",
+        "away_water": "0.970",
+        "time": "11-19 01:45"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -693,22 +709,6 @@
         "handicap": "平手",
         "away_water": "0.950",
         "time": "11-15 13:22"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "平手",
-        "away_water": "0.970",
-        "time": "11-20 15:15"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手",
-        "away_water": "0.970",
-        "time": "11-19 01:45"
       }
     },
     {
