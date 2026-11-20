@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-20T01:20:11Z",
+  "last_updated_utc": "2026-11-20T01:30:12Z",
   "matches": [
     {
       "xml_id": "2042845",
@@ -38,24 +38,6 @@
       "away_team_id": "3986"
     },
     {
-      "xml_id": "2042880",
-      "matchnum": "5002",
-      "date": "2026-11-20",
-      "dayofweek": "星期五",
-      "league": "日本职业联赛",
-      "home": "柏太阳神",
-      "away": "千叶市原",
-      "spf_win": "2.10",
-      "spf_draw": "3.60",
-      "spf_lost": "2.60",
-      "spf_updated": "2026-11-19 20:39:55",
-      "gameid": "1419467",
-      "kickoff_cst": "2026-11-20 18:00",
-      "matchnum_label": "周五002",
-      "home_team_id": "658",
-      "away_team_id": "842"
-    },
-    {
       "xml_id": "2042881",
       "matchnum": "5003",
       "date": "2026-11-20",
@@ -90,60 +72,6 @@
       "matchnum_label": "周五004",
       "home_team_id": "682",
       "away_team_id": "2925"
-    },
-    {
-      "xml_id": "2042883",
-      "matchnum": "5005",
-      "date": "2026-11-21",
-      "dayofweek": "星期六",
-      "league": "荷兰乙级联赛",
-      "home": "登博思",
-      "away": "芬洛",
-      "spf_win": "3.12",
-      "spf_draw": "3.95",
-      "spf_lost": "1.77",
-      "spf_updated": "2026-11-19 13:51:21",
-      "gameid": "1416140",
-      "kickoff_cst": "2026-11-21 03:00",
-      "matchnum_label": "周五005",
-      "home_team_id": "756",
-      "away_team_id": "435"
-    },
-    {
-      "xml_id": "2042884",
-      "matchnum": "5006",
-      "date": "2026-11-21",
-      "dayofweek": "星期六",
-      "league": "德国甲级联赛",
-      "home": "拜仁慕尼黑",
-      "away": "科隆",
-      "spf_win": "2.00",
-      "spf_draw": "4.71",
-      "spf_lost": "2.34",
-      "spf_updated": "2026-11-19 20:43:23",
-      "gameid": "1428647",
-      "kickoff_cst": "2026-11-21 03:30",
-      "matchnum_label": "周五006",
-      "home_team_id": "664",
-      "away_team_id": "932"
-    },
-    {
-      "xml_id": "2042885",
-      "matchnum": "5007",
-      "date": "2026-11-21",
-      "dayofweek": "星期六",
-      "league": "法国甲级联赛",
-      "home": "特鲁瓦",
-      "away": "勒阿弗尔",
-      "spf_win": "3.97",
-      "spf_draw": "3.60",
-      "spf_lost": "1.64",
-      "spf_updated": "2026-11-19 13:51:21",
-      "gameid": "1415176",
-      "kickoff_cst": "2026-11-21 03:45",
-      "matchnum_label": "周五007",
-      "home_team_id": "1225",
-      "away_team_id": "982"
     },
     {
       "xml_id": "2042886",
