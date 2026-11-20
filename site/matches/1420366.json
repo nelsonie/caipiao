@@ -24,7 +24,7 @@
       "lost": "5.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-20T06:20:17Z"
+    "fetched_at_utc": "2026-11-20T06:30:22Z"
   },
   "shuju": {
     "title": "托特纳姆热刺VS伊普斯维奇(2026/2027英超)-数据分析-500彩票网",
@@ -667,10 +667,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.850↓",
+        "home_water": "0.870↓",
         "handicap": "一球",
-        "away_water": "1.000↑",
-        "time": "11-20 02:30"
+        "away_water": "0.970↑",
+        "time": "11-20 14:14"
       },
       "init": {
         "home_water": "0.970",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "一球",
-        "away_water": "0.930↓",
-        "time": "11-20 13:54"
-      },
-      "init": {
-        "home_water": "0.840",
-        "handicap": "一球",
-        "away_water": "0.960",
-        "time": "11-08 07:07"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球",
         "away_water": "0.840",
         "time": "11-01 04:06"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "一球",
+        "away_water": "0.930↓",
+        "time": "11-20 13:54"
+      },
+      "init": {
+        "home_water": "0.840",
+        "handicap": "一球",
+        "away_water": "0.960",
+        "time": "11-08 07:07"
       }
     },
     {
