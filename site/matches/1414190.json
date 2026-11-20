@@ -24,7 +24,7 @@
       "lost": "1.18",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-20T13:00:23Z"
+    "fetched_at_utc": "2026-11-20T13:10:29Z"
   },
   "shuju": {
     "title": "帕尔马VS罗马(2026/2027意甲)-数据分析-500彩票网",
@@ -753,22 +753,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "1.050↑",
-        "handicap": "受球半",
-        "away_water": "0.890↓",
-        "time": "11-18 21:54"
-      },
-      "init": {
-        "home_water": "0.980",
-        "handicap": "受球半",
-        "away_water": "0.960",
-        "time": "11-02 00:31"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -782,6 +766,22 @@
         "handicap": "受球半",
         "away_water": "1.070",
         "time": "11-08 05:33"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.050↑",
+        "handicap": "受球半",
+        "away_water": "0.890↓",
+        "time": "11-18 21:54"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "受球半",
+        "away_water": "0.960",
+        "time": "11-02 00:31"
       }
     },
     {
@@ -887,7 +887,7 @@
         "home_water": "1.000↑",
         "handicap": "受球半",
         "away_water": "0.790↓",
-        "time": "11-19 21:30"
+        "time": "11-20 21:08"
       },
       "init": {
         "home_water": "0.810",
