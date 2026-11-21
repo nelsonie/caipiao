@@ -24,7 +24,7 @@
       "lost": "3.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-21T05:40:08Z"
+    "fetched_at_utc": "2026-11-21T05:50:08Z"
   },
   "shuju": {
     "title": "大阪钢巴VS冈山绿雉(2026/2027日职)-数据分析-500彩票网",
@@ -395,88 +395,11 @@
     },
     "lineup": {
       "home": {
-        "formation": "4-2-3-1",
+        "formation": "4-3-3",
         "starters": [
           {
             "number": null,
-            "name": "11 伊萨姆·杰巴里 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "39 角昂志郎 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "7 宇佐美贵史 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "17 山下谅也 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "16 铃木德真 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "13 安部柊斗 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "21 初濑亮 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "2 福冈将太 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "4 中谷进之介 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "15 岸本武流 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "1 东口顺昭 守门员",
-            "position": null
-          }
-        ],
-        "subs": [
-          {
-            "number": null,
-            "name": "24 小柏刚 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "47 中野真矢 后卫",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "8 食野亮太郎 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "78 胡安佩·希门尼斯 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "22 一森纯 守门员",
             "position": null
           },
           {
@@ -486,17 +409,94 @@
           },
           {
             "number": null,
-            "name": "28 藤原奏哉 中场",
+            "name": "17 山下谅也 前锋",
             "position": null
           },
           {
             "number": null,
-            "name": "20 伊莱·亚当斯 中场",
+            "name": "7 宇佐美贵史 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "13 安部柊斗 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "27 美藤伦 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "21 初濑亮 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "4 中谷进之介 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "5 三浦弦太 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "28 藤原奏哉 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "22 一森纯 守门员",
+            "position": null
+          }
+        ],
+        "subs": [
+          {
+            "number": null,
+            "name": "2 福冈将太 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "1 东口顺昭 守门员",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "78 胡安佩·希门尼斯 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "47 中野真矢 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "24 小柏刚 前锋",
             "position": null
           },
           {
             "number": null,
             "name": "67 佐佐木翔悟 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "16 铃木德真 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "35 当野泰生 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "41 土信田悠生 前锋",
             "position": null
           }
         ],
@@ -504,7 +504,7 @@
         "suspended": []
       },
       "away": {
-        "formation": "3-4-2-1",
+        "formation": "3-1-4-2",
         "starters": [
           {
             "number": null,
@@ -513,17 +513,7 @@
           },
           {
             "number": null,
-            "name": "8 江坂任 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "20 河野孝汰 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "88 山根永远 中场",
+            "name": "20 河野孝汰 前锋",
             "position": null
           },
           {
@@ -533,17 +523,27 @@
           },
           {
             "number": null,
+            "name": "8 江坂任 中场",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "80 奥伯丹·阿利昂索·德利马 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "26 本山遥 中场",
+            "name": "51 白井康介 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "43 铃木喜丈 后卫",
+            "name": "88 山根永远 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "5 池戸柊宇 后卫",
             "position": null
           },
           {
@@ -553,7 +553,7 @@
           },
           {
             "number": null,
-            "name": "44 森壮一朗 后卫",
+            "name": "26 本山遥 后卫",
             "position": null
           },
           {
@@ -565,12 +565,12 @@
         "subs": [
           {
             "number": null,
-            "name": "58 行友翔音 中场",
+            "name": "7 竹内涼 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "7 竹内涼 中场",
+            "name": "17 末吉垒 中场",
             "position": null
           },
           {
@@ -585,12 +585,17 @@
           },
           {
             "number": null,
+            "name": "44 森壮一朗 后卫",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "28 松本昌也 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "9 莱奥·高乔 前锋",
+            "name": "99 卢考 前锋",
             "position": null
           },
           {
@@ -601,11 +606,6 @@
           {
             "number": null,
             "name": "24 藤田息吹 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "55 藤井叶大 后卫",
             "position": null
           }
         ],
@@ -717,8 +717,8 @@
       "live": {
         "home_water": "0.900↓",
         "handicap": "平手/半球",
-        "away_water": "0.970↑",
-        "time": "11-21 13:18"
+        "away_water": "0.980↑",
+        "time": "11-21 13:45"
       },
       "init": {
         "home_water": "0.940",
@@ -750,7 +750,7 @@
         "home_water": "0.870↓",
         "handicap": "平手/半球",
         "away_water": "0.920↑",
-        "time": "11-21 13:33"
+        "time": "11-21 13:41"
       },
       "init": {
         "home_water": "1.010",
@@ -765,8 +765,8 @@
       "live": {
         "home_water": "0.930↓",
         "handicap": "平手/半球",
-        "away_water": "0.970↑",
-        "time": "11-21 13:24"
+        "away_water": "0.980↑",
+        "time": "11-21 13:40"
       },
       "init": {
         "home_water": "0.990",
@@ -795,10 +795,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "0.910↓",
+        "home_water": "0.900↓",
         "handicap": "平手/半球",
-        "away_water": "1.010↑",
-        "time": "11-21 13:19"
+        "away_water": "1.020↑",
+        "time": "11-21 13:40"
       },
       "init": {
         "home_water": "0.930",
@@ -827,10 +827,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "0.900↓",
+        "home_water": "0.890↓",
         "handicap": "平手/半球",
-        "away_water": "1.020↑",
-        "time": "11-21 13:21"
+        "away_water": "1.030↑",
+        "time": "11-21 13:41"
       },
       "init": {
         "home_water": "0.920",
@@ -843,10 +843,10 @@
       "cid": "863",
       "company": "1****",
       "live": {
-        "home_water": "0.880↓",
+        "home_water": "0.860↓",
         "handicap": "平手/半球",
-        "away_water": "0.930↑",
-        "time": "11-21 13:18"
+        "away_water": "0.940↑",
+        "time": "11-21 13:45"
       },
       "init": {
         "home_water": "0.950",
@@ -1513,7 +1513,7 @@
     {
       "cid": "1055",
       "company": "P*********",
-      "time": "2026-11-21 12:51:27",
+      "time": "2026-11-21 13:39:24",
       "odds": {
         "live": [
           "2.30",
@@ -1521,9 +1521,9 @@
           "3.00"
         ],
         "init": [
-          "2.22",
-          "3.63",
-          "3.28"
+          "2.21",
+          "3.64",
+          "3.29"
         ]
       },
       "prob": {
@@ -1533,9 +1533,9 @@
           "31.51%"
         ],
         "init": [
-          "43.70%",
-          "26.72%",
-          "29.58%"
+          "43.88%",
+          "26.64%",
+          "29.48%"
         ]
       },
       "ret": {
@@ -1543,7 +1543,7 @@
           "94.52%"
         ],
         "init": [
-          "97.01%"
+          "96.98%"
         ]
       },
       "kelly": {
@@ -1554,7 +1554,7 @@
         ],
         "init": [
           "0.95",
-          "0.98",
+          "0.99",
           "0.99"
         ]
       }
@@ -1660,7 +1660,7 @@
     {
       "cid": "651",
       "company": "利*",
-      "time": "2026-11-21 13:22:55",
+      "time": "2026-11-21 13:35:20",
       "odds": {
         "live": [
           "2.18",
@@ -1668,9 +1668,9 @@
           "2.95"
         ],
         "init": [
-          "2.19",
+          "2.20",
           "3.34",
-          "3.07"
+          "3.05"
         ]
       },
       "prob": {
@@ -1680,9 +1680,9 @@
           "30.74%"
         ],
         "init": [
-          "42.21%",
+          "42.02%",
           "27.68%",
-          "30.11%"
+          "30.31%"
         ]
       },
       "ret": {
@@ -1856,7 +1856,7 @@
     {
       "cid": "140",
       "company": "M*************",
-      "time": "2026-11-21 13:32:31",
+      "time": "2026-11-21 13:39:29",
       "odds": {
         "live": [
           "2.20",
@@ -1864,9 +1864,9 @@
           "2.94"
         ],
         "init": [
-          "2.23",
-          "3.65",
-          "3.05"
+          "2.21",
+          "3.60",
+          "3.10"
         ]
       },
       "prob": {
@@ -1876,9 +1876,9 @@
           "31.48%"
         ],
         "init": [
-          "42.70%",
-          "26.09%",
-          "31.22%"
+          "42.98%",
+          "26.38%",
+          "30.64%"
         ]
       },
       "ret": {
@@ -1886,7 +1886,7 @@
           "92.56%"
         ],
         "init": [
-          "95.21%"
+          "94.98%"
         ]
       },
       "kelly": {
@@ -1897,8 +1897,8 @@
         ],
         "init": [
           "0.95",
-          "0.99",
-          "0.92"
+          "0.98",
+          "0.93"
         ]
       }
     },
@@ -1954,7 +1954,7 @@
     {
       "cid": "502",
       "company": "1**********",
-      "time": "2026-11-21 12:52:30",
+      "time": "2026-11-21 13:40:50",
       "odds": {
         "live": [
           "2.13",
@@ -1962,9 +1962,9 @@
           "3.10"
         ],
         "init": [
-          "2.23",
+          "2.21",
           "3.60",
-          "3.05"
+          "3.10"
         ]
       },
       "prob": {
@@ -1974,9 +1974,9 @@
           "29.93%"
         ],
         "init": [
-          "42.54%",
-          "26.35%",
-          "31.10%"
+          "42.98%",
+          "26.38%",
+          "30.64%"
         ]
       },
       "ret": {
@@ -1984,7 +1984,7 @@
           "92.78%"
         ],
         "init": [
-          "94.87%"
+          "94.98%"
         ]
       },
       "kelly": {
@@ -1996,7 +1996,7 @@
         "init": [
           "0.95",
           "0.98",
-          "0.92"
+          "0.93"
         ]
       }
     },
