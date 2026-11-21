@@ -24,7 +24,7 @@
       "lost": "6.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-21T13:20:07Z"
+    "fetched_at_utc": "2026-11-21T13:30:11Z"
   },
   "shuju": {
     "title": "曼彻斯特城VS富勒姆(2026/2027英超)-数据分析-500彩票网",
@@ -504,8 +504,13 @@
         "suspended": []
       },
       "away": {
-        "formation": "4-2-3-1",
+        "formation": "4-3-3",
         "starters": [
+          {
+            "number": null,
+            "name": "9 罗德里戈·穆尼斯 前锋",
+            "position": null
+          },
           {
             "number": null,
             "name": "24 乔希·金 前锋",
@@ -513,22 +518,17 @@
           },
           {
             "number": null,
-            "name": "9 罗德里戈·穆尼斯 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "19 谢伊·查尔斯 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "14 奥斯卡·鲍勃 中场",
+            "name": "14 奥斯卡·鲍勃 前锋",
             "position": null
           },
           {
             "number": null,
             "name": "17 亚历克斯·伊沃比 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "19 谢伊·查尔斯 中场",
             "position": null
           },
           {
