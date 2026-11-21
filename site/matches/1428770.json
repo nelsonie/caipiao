@@ -24,7 +24,7 @@
       "lost": "1.86",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-21T06:30:12Z"
+    "fetched_at_utc": "2026-11-21T06:40:11Z"
   },
   "shuju": {
     "title": "埃沃斯堡VS弗赖堡(2026/2027德甲)-数据分析-500彩票网",
@@ -657,6 +657,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↑",
+        "handicap": "受半球",
+        "away_water": "0.980↓",
+        "time": "11-21 14:29"
+      },
+      "init": {
+        "home_water": "0.790",
+        "handicap": "受半球",
+        "away_water": "1.030",
+        "time": "11-09 18:32"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -670,22 +686,6 @@
         "handicap": "平手",
         "away_water": "0.610",
         "time": "11-01 22:26"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↑",
-        "handicap": "受半球",
-        "away_water": "0.980↓",
-        "time": "11-21 14:21"
-      },
-      "init": {
-        "home_water": "0.790",
-        "handicap": "受半球",
-        "away_water": "1.030",
-        "time": "11-09 18:32"
       }
     },
     {
@@ -1017,7 +1017,7 @@
     {
       "cid": "3",
       "company": "B*****",
-      "time": "2026-11-21 14:15:15",
+      "time": "2026-11-21 14:26:30",
       "odds": {
         "live": [
           "3.20",
