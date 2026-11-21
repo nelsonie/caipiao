@@ -24,7 +24,7 @@
       "lost": "1.93",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-21T04:00:35Z"
+    "fetched_at_utc": "2026-11-21T04:10:35Z"
   },
   "shuju": {
     "title": "奥尔格里特VS卡尔马(2026瑞典超)-数据分析-500彩票网",
@@ -453,16 +453,32 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "1.050",
+        "home_water": "1.040↓",
         "handicap": "受平手/半球",
-        "away_water": "0.820",
-        "time": "11-20 09:53"
+        "away_water": "0.830↑",
+        "time": "11-21 11:35"
       },
       "init": {
         "home_water": "1.050",
         "handicap": "受平手/半球",
         "away_water": "0.820",
         "time": "11-20 09:53"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "受平手/半球",
+        "away_water": "0.810↓",
+        "time": "11-21 12:04"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "受平手/半球",
+        "away_water": "0.890",
+        "time": "11-19 02:02"
       }
     },
     {
@@ -479,22 +495,6 @@
         "handicap": "平手",
         "away_water": "0.400",
         "time": "11-09 17:39"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "受平手/半球",
-        "away_water": "0.810↓",
-        "time": "11-19 11:47"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "受平手/半球",
-        "away_water": "0.890",
-        "time": "11-19 02:02"
       }
     },
     {
