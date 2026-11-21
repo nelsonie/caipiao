@@ -24,7 +24,7 @@
       "lost": "1.37",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-21T03:50:14Z"
+    "fetched_at_utc": "2026-11-21T04:00:13Z"
   },
   "shuju": {
     "title": "柏林联合VS莱比锡红牛(2026/2027德甲)-数据分析-500彩票网",
@@ -693,22 +693,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.820↓",
-        "handicap": "受一球/球半降",
-        "away_water": "0.980↑",
-        "time": "11-21 11:40"
-      },
-      "init": {
-        "home_water": "0.910",
-        "handicap": "受一球",
-        "away_water": "0.900",
-        "time": "11-14 23:09"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -722,6 +706,22 @@
         "handicap": "受半球/一球",
         "away_water": "0.950",
         "time": "11-01 22:44"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.820↓",
+        "handicap": "受一球/球半降",
+        "away_water": "0.980↑",
+        "time": "11-21 11:40"
+      },
+      "init": {
+        "home_water": "0.910",
+        "handicap": "受一球",
+        "away_water": "0.900",
+        "time": "11-14 23:09"
       }
     },
     {
@@ -826,8 +826,8 @@
       "live": {
         "home_water": "0.830↓",
         "handicap": "受一球/球半降",
-        "away_water": "0.980↑",
-        "time": "11-21 11:00"
+        "away_water": "0.970↑",
+        "time": "11-21 11:53"
       },
       "init": {
         "home_water": "0.960",
