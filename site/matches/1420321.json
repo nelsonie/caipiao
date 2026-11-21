@@ -24,7 +24,7 @@
       "lost": "4.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-21T07:20:15Z"
+    "fetched_at_utc": "2026-11-21T07:30:14Z"
   },
   "shuju": {
     "title": "阿斯顿维拉VS桑德兰(2026/2027英超)-数据分析-500彩票网",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "1484",
-      "company": "o***",
-      "live": {
-        "home_water": "0.940↓",
-        "handicap": "半球/一球降",
-        "away_water": "0.880↑",
-        "time": "11-21 07:23"
-      },
-      "init": {
-        "home_water": "1.620",
-        "handicap": "一球",
-        "away_water": "0.490",
-        "time": "11-01 04:30"
-      }
-    },
-    {
       "cid": "6",
       "company": "伟*",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "半球/一球",
         "away_water": "0.890",
         "time": "11-08 14:49"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "0.940↓",
+        "handicap": "半球/一球降",
+        "away_water": "0.880↑",
+        "time": "11-21 07:23"
+      },
+      "init": {
+        "home_water": "1.620",
+        "handicap": "一球",
+        "away_water": "0.490",
+        "time": "11-01 04:30"
       }
     },
     {
@@ -795,10 +795,10 @@
       "cid": "140",
       "company": "M*************",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.020↑",
         "handicap": "半球/一球升",
-        "away_water": "0.920↓",
-        "time": "11-21 15:05"
+        "away_water": "0.910↓",
+        "time": "11-21 15:20"
       },
       "init": {
         "home_water": "0.800",
@@ -811,10 +811,10 @@
       "cid": "122",
       "company": "香***",
       "live": {
-        "home_water": "0.920↓",
+        "home_water": "0.900↓",
         "handicap": "半球/一球",
-        "away_water": "0.880↑",
-        "time": "11-21 12:11"
+        "away_water": "0.900↑",
+        "time": "11-21 15:27"
       },
       "init": {
         "home_water": "1.060",
@@ -827,10 +827,10 @@
       "cid": "502",
       "company": "1**********",
       "live": {
-        "home_water": "1.010↑",
+        "home_water": "1.020↑",
         "handicap": "半球/一球",
-        "away_water": "0.920↓",
-        "time": "11-21 15:09"
+        "away_water": "0.910↓",
+        "time": "11-21 15:21"
       },
       "init": {
         "home_water": "0.950",
@@ -862,7 +862,7 @@
         "home_water": "1.010↑",
         "handicap": "半球/一球",
         "away_water": "0.910↓",
-        "time": "11-21 15:10"
+        "time": "11-21 15:28"
       },
       "init": {
         "home_water": "0.940",
