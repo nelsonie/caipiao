@@ -24,7 +24,7 @@
       "lost": "1.41",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-21T01:50:13Z"
+    "fetched_at_utc": "2026-11-21T02:00:10Z"
   },
   "shuju": {
     "title": "门兴格拉德巴赫VS多特蒙德(2026/2027德甲)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↑",
-        "handicap": "受一球",
-        "away_water": "0.930↓",
-        "time": "11-21 09:30"
-      },
-      "init": {
-        "home_water": "0.810",
-        "handicap": "受一球",
-        "away_water": "1.010",
-        "time": "11-14 23:09"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受一球",
         "away_water": "0.910",
         "time": "11-01 22:26"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↑",
+        "handicap": "受一球",
+        "away_water": "0.930↓",
+        "time": "11-21 09:54"
+      },
+      "init": {
+        "home_water": "0.810",
+        "handicap": "受一球",
+        "away_water": "1.010",
+        "time": "11-14 23:09"
       }
     },
     {
@@ -1333,7 +1333,7 @@
     {
       "cid": "6",
       "company": "伟*",
-      "time": "2026-11-21 09:44:42",
+      "time": "2026-11-21 09:53:35",
       "odds": {
         "live": [
           "4.60",
