@@ -1,0 +1,38 @@
+{
+  "frontmatter": {
+    "gameid": 1362868,
+    "matchnum": "1001",
+    "date": "2026-11-24",
+    "league": "瑞典超级联赛",
+    "home": "厄尔格里特",
+    "away": "卡尔马",
+    "kickoff_cst": "2026-11-24 02:00",
+    "spf": {
+      "win": "1.65",
+      "draw": "3.65",
+      "lost": "3.85"
+    },
+    "asia_main": null,
+    "euro_main": null,
+    "fetched_at_utc": "2026-11-21T12:40:06Z"
+  },
+  "shuju": {
+    "title": null,
+    "team_ranks": [],
+    "h2h_rows": [],
+    "recent_form": {
+      "home": {},
+      "away": {}
+    },
+    "future_fixtures": {
+      "home": [],
+      "away": []
+    },
+    "lineup": {
+      "home": {},
+      "away": {}
+    }
+  },
+  "yazhi": [],
+  "ouzhi": []
+}
