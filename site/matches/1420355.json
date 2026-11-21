@@ -24,7 +24,7 @@
       "lost": "6.35",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-21T01:30:10Z"
+    "fetched_at_utc": "2026-11-21T01:40:13Z"
   },
   "shuju": {
     "title": "曼彻斯特城VS富勒姆(2026/2027英超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.980↑",
-        "handicap": "球半升",
-        "away_water": "0.820↓",
-        "time": "11-21 09:09"
-      },
-      "init": {
-        "home_water": "0.930",
-        "handicap": "一球/球半",
-        "away_water": "0.860",
-        "time": "11-08 04:25"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "球半",
         "away_water": "0.900",
         "time": "11-01 04:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "球半升",
+        "away_water": "0.820↓",
+        "time": "11-21 09:09"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "一球/球半",
+        "away_water": "0.860",
+        "time": "11-08 04:25"
       }
     },
     {
@@ -814,7 +814,7 @@
         "home_water": "0.990↑",
         "handicap": "球半升",
         "away_water": "0.910↓",
-        "time": "11-21 07:54"
+        "time": "11-21 09:30"
       },
       "init": {
         "home_water": "0.880",
