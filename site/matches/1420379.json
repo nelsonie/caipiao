@@ -24,7 +24,7 @@
       "lost": "2.42",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-21T03:40:15Z"
+    "fetched_at_utc": "2026-11-21T03:50:16Z"
   },
   "shuju": {
     "title": "考文垂VS水晶宫(2026/2027英超)-数据分析-500彩票网",
@@ -651,10 +651,10 @@
       "cid": "3",
       "company": "B*****",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.800↓",
         "handicap": "平手降",
-        "away_water": "1.020↑",
-        "time": "11-20 20:03"
+        "away_water": "1.050↑",
+        "time": "11-21 11:47"
       },
       "init": {
         "home_water": "1.000",
@@ -712,22 +712,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.800↓",
-        "handicap": "平手",
-        "away_water": "1.000↑",
-        "time": "11-21 11:32"
-      },
-      "init": {
-        "home_water": "0.830",
-        "handicap": "平手",
-        "away_water": "0.970",
-        "time": "11-08 22:20"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -741,6 +725,22 @@
         "handicap": "平手",
         "away_water": "1.220",
         "time": "11-01 04:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.800↓",
+        "handicap": "平手",
+        "away_water": "1.000↑",
+        "time": "11-21 11:48"
+      },
+      "init": {
+        "home_water": "0.830",
+        "handicap": "平手",
+        "away_water": "0.970",
+        "time": "11-08 22:20"
       }
     },
     {
@@ -859,10 +859,10 @@
       "cid": "537",
       "company": "W**********",
       "live": {
-        "home_water": "0.820↓",
+        "home_water": "0.830↓",
         "handicap": "平手降",
-        "away_water": "1.080↑",
-        "time": "11-21 11:33"
+        "away_water": "1.070↑",
+        "time": "11-21 11:36"
       },
       "init": {
         "home_water": "1.050",
