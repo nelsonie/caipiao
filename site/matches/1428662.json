@@ -24,7 +24,7 @@
       "lost": "1.69",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-21T10:10:18Z"
+    "fetched_at_utc": "2026-11-21T10:20:22Z"
   },
   "shuju": {
     "title": "沙尔克04VS斯图加特(2026/2027德甲)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.990↑",
-        "handicap": "受半球升",
-        "away_water": "0.810↓",
-        "time": "11-21 17:20"
-      },
-      "init": {
-        "home_water": "0.820",
-        "handicap": "受半球/一球",
-        "away_water": "1.000",
-        "time": "11-15 01:50"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "受一球",
         "away_water": "1.250",
         "time": "11-01 22:26"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "受半球升",
+        "away_water": "0.810↓",
+        "time": "11-21 18:12"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "受半球/一球",
+        "away_water": "1.000",
+        "time": "11-15 01:50"
       }
     },
     {
@@ -813,8 +813,8 @@
       "live": {
         "home_water": "1.060↑",
         "handicap": "受半球",
-        "away_water": "0.860",
-        "time": "11-21 18:02"
+        "away_water": "0.870↑",
+        "time": "11-21 18:06"
       },
       "init": {
         "home_water": "1.020",
@@ -1333,7 +1333,7 @@
     {
       "cid": "6",
       "company": "伟*",
-      "time": "2026-11-21 17:20:36",
+      "time": "2026-11-21 18:12:26",
       "odds": {
         "live": [
           "3.75",
