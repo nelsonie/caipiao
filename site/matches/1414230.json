@@ -24,7 +24,7 @@
       "lost": "8.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-22T11:30:09Z"
+    "fetched_at_utc": "2026-11-22T11:40:07Z"
   },
   "shuju": {
     "title": "尤文图斯VS威尼斯(2026/2027意甲)-数据分析-500彩票网",
@@ -395,13 +395,8 @@
     },
     "lineup": {
       "home": {
-        "formation": "4-4-2",
+        "formation": "4-2-3-1",
         "starters": [
-          {
-            "number": null,
-            "name": "11 埃顿·泽格罗瓦 前锋",
-            "position": null
-          },
           {
             "number": null,
             "name": "9 兰德尔·科洛·穆阿尼 前锋",
@@ -414,17 +409,22 @@
           },
           {
             "number": null,
+            "name": "22 韦斯顿·麦肯尼 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "11 埃顿·泽格罗瓦 中场",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "8 特恩·库普梅纳斯 中场",
             "position": null
           },
           {
             "number": null,
             "name": "12 道格拉斯·路易斯 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "22 韦斯顿·麦肯尼 中场",
             "position": null
           },
           {
@@ -518,12 +518,12 @@
         "starters": [
           {
             "number": null,
-            "name": "45 阿科·亚当斯 前锋",
+            "name": "29 里恩·劳伯巴赫 前锋",
             "position": null
           },
           {
             "number": null,
-            "name": "29 里恩·劳伯巴赫 前锋",
+            "name": "45 阿科·亚当斯 前锋",
             "position": null
           },
           {
@@ -533,12 +533,12 @@
           },
           {
             "number": null,
-            "name": "19 西蒙·索姆 中场",
+            "name": "6 詹卢卡·布西奥 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "6 詹卢卡·布西奥 中场",
+            "name": "19 西蒙·索姆 中场",
             "position": null
           },
           {
