@@ -12,14 +12,19 @@
       "draw": "3.65",
       "lost": "3.00"
     },
-    "asia_main": null,
+    "asia_main": {
+      "handicap": "一球/球半降",
+      "home_water": "0.910↓",
+      "away_water": "0.730↓",
+      "company": "威***"
+    },
     "euro_main": {
       "win": "1.29",
       "draw": "4.70",
       "lost": "6.60",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-22T10:30:17Z"
+    "fetched_at_utc": "2026-11-22T10:40:18Z"
   },
   "shuju": {
     "title": "马赛VS勒芒(2026/2027法甲)-数据分析-500彩票网",
@@ -609,7 +614,248 @@
       }
     }
   },
-  "yazhi": [],
+  "yazhi": [
+    {
+      "cid": "293",
+      "company": "威***",
+      "live": {
+        "home_water": "0.910↓",
+        "handicap": "一球/球半降",
+        "away_water": "0.730↓",
+        "time": "11-17 10:19"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "球半",
+        "away_water": "0.750",
+        "time": "11-14 23:56"
+      }
+    },
+    {
+      "cid": "5",
+      "company": "*门",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "一球/球半",
+        "away_water": "0.860↓",
+        "time": "11-21 06:23"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "一球/球半",
+        "away_water": "0.880",
+        "time": "11-16 22:13"
+      }
+    },
+    {
+      "cid": "3",
+      "company": "B*****",
+      "live": {
+        "home_water": "0.970",
+        "handicap": "一球/球半降",
+        "away_water": "0.870",
+        "time": "11-22 01:22"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "球半",
+        "away_water": "0.870",
+        "time": "11-01 19:26"
+      }
+    },
+    {
+      "cid": "4",
+      "company": "I**********",
+      "live": {
+        "home_water": "0.670↑",
+        "handicap": "一球",
+        "away_water": "1.100",
+        "time": "11-22 10:19"
+      },
+      "init": {
+        "home_water": "0.650",
+        "handicap": "一球",
+        "away_water": "1.100",
+        "time": "11-08 18:24"
+      }
+    },
+    {
+      "cid": "280",
+      "company": "*冠",
+      "live": {
+        "home_water": "0.980↑",
+        "handicap": "一球/球半",
+        "away_water": "0.910↓",
+        "time": "11-22 12:05"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "一球/球半",
+        "away_water": "0.920",
+        "time": "11-08 03:50"
+      }
+    },
+    {
+      "cid": "9",
+      "company": "易**",
+      "live": {
+        "home_water": "1.000↓",
+        "handicap": "一球/球半",
+        "away_water": "0.910↑",
+        "time": "11-22 12:24"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "一球/球半",
+        "away_water": "0.870",
+        "time": "11-16 17:47"
+      }
+    },
+    {
+      "cid": "1484",
+      "company": "o***",
+      "live": {
+        "home_water": "1.020",
+        "handicap": "一球/球半降",
+        "away_water": "0.910",
+        "time": "11-18 21:56"
+      },
+      "init": {
+        "home_water": "1.020",
+        "handicap": "球半",
+        "away_water": "0.910",
+        "time": "11-01 19:12"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.940↑",
+        "handicap": "一球/球半",
+        "away_water": "0.850↓",
+        "time": "11-22 12:47"
+      },
+      "init": {
+        "home_water": "0.930",
+        "handicap": "一球/球半",
+        "away_water": "0.880",
+        "time": "11-09 08:19"
+      }
+    },
+    {
+      "cid": "1055",
+      "company": "P*********",
+      "live": {
+        "home_water": "0.970↑",
+        "handicap": "一球/球半",
+        "away_water": "0.930↑",
+        "time": "11-22 12:25"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "一球/球半",
+        "away_water": "0.890",
+        "time": "11-08 03:50"
+      }
+    },
+    {
+      "cid": "651",
+      "company": "利*",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "一球/球半",
+        "away_water": "0.920",
+        "time": "11-22 12:25"
+      },
+      "init": {
+        "home_water": "0.980",
+        "handicap": "一球/球半",
+        "away_water": "0.920",
+        "time": "11-08 18:18"
+      }
+    },
+    {
+      "cid": "140",
+      "company": "M*************",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "一球/球半",
+        "away_water": "0.920",
+        "time": "11-22 12:30"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "一球/球半",
+        "away_water": "0.920",
+        "time": "11-04 22:46"
+      }
+    },
+    {
+      "cid": "122",
+      "company": "香***",
+      "live": {
+        "home_water": "0.890↑",
+        "handicap": "一球/球半",
+        "away_water": "0.910↓",
+        "time": "11-22 12:11"
+      },
+      "init": {
+        "home_water": "0.820",
+        "handicap": "一球/球半",
+        "away_water": "0.950",
+        "time": "11-19 19:33"
+      }
+    },
+    {
+      "cid": "502",
+      "company": "1**********",
+      "live": {
+        "home_water": "1.000↑",
+        "handicap": "一球/球半",
+        "away_water": "0.920↑",
+        "time": "11-22 12:29"
+      },
+      "init": {
+        "home_water": "0.970",
+        "handicap": "一球/球半",
+        "away_water": "0.910",
+        "time": "11-08 19:04"
+      }
+    },
+    {
+      "cid": "863",
+      "company": "1****",
+      "live": {
+        "home_water": "0.920↑",
+        "handicap": "一球/球半",
+        "away_water": "0.860↓",
+        "time": "11-22 12:27"
+      },
+      "init": {
+        "home_water": "0.880",
+        "handicap": "一球/球半",
+        "away_water": "0.880",
+        "time": "11-08 03:50"
+      }
+    },
+    {
+      "cid": "537",
+      "company": "W**********",
+      "live": {
+        "home_water": "0.990↑",
+        "handicap": "一球/球半",
+        "away_water": "0.910↓",
+        "time": "11-22 12:25"
+      },
+      "init": {
+        "home_water": "0.960",
+        "handicap": "一球/球半",
+        "away_water": "0.920",
+        "time": "11-08 03:50"
+      }
+    }
+  ],
   "ouzhi": [
     {
       "cid": "1",

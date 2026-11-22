@@ -8,9 +8,9 @@
     "away": "威廉二世",
     "kickoff_cst": "2026-11-22 19:15",
     "spf": {
-      "win": "2.36",
-      "draw": "4.65",
-      "lost": "2.00"
+      "win": "2.26",
+      "draw": "4.55",
+      "lost": "2.10"
     },
     "asia_main": {
       "handicap": "两球半/三球降",
@@ -24,7 +24,7 @@
       "lost": "41.00",
       "company": "威***"
     },
-    "fetched_at_utc": "2026-11-22T10:30:06Z"
+    "fetched_at_utc": "2026-11-22T10:40:06Z"
   },
   "shuju": {
     "title": "特温特VS威廉二世(2026/2027荷甲)-数据分析-500彩票网",
@@ -461,12 +461,17 @@
           },
           {
             "number": null,
+            "name": "31 雅尼克·格里森 守门员",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "14 克里斯蒂安·诺维·赫林森 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "24 克日什托夫·库洛夫斯基 后卫",
+            "name": "41 吉斯·贝塞林克 中场",
             "position": null
           },
           {
@@ -486,17 +491,17 @@
           },
           {
             "number": null,
-            "name": "20 托马斯·范登贝尔特 中场",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "25 卢卡斯·海塞林克 前锋",
             "position": null
           },
           {
             "number": null,
-            "name": "31 雅尼克·格里森 守门员",
+            "name": "23 斯塔夫·莱姆金 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "39 吉普·梅伊林克 后卫",
             "position": null
           }
         ],
@@ -528,12 +533,12 @@
           },
           {
             "number": null,
-            "name": "6 卡尔文·特维特 中场",
+            "name": "8 卡斯帕·布加德 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "18 阿纳斯·扎鲁克 中场",
+            "name": "6 卡尔文·特维特 中场",
             "position": null
           },
           {
@@ -548,7 +553,7 @@
           },
           {
             "number": null,
-            "name": "3 芬·斯塔姆 后卫",
+            "name": "83 马西·莱门斯 后卫",
             "position": null
           },
           {
@@ -565,42 +570,22 @@
         "subs": [
           {
             "number": null,
-            "name": "8 卡斯帕·布加德 中场",
+            "name": "7 杰登·斯洛里 前锋",
             "position": null
           },
           {
             "number": null,
-            "name": "2 亚历山德罗·西拉尼 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "11 阿明·库伦 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "50 埃塞尔·古尔布兹 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "83 马西·莱门斯 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "17 奇多·奥比 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "10 贾里·斯舒尔曼 中场",
+            "name": "3 芬·斯塔姆 后卫",
             "position": null
           },
           {
             "number": null,
             "name": "28 托马斯·维海德 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "18 阿纳斯·扎鲁克 中场",
             "position": null
           },
           {
@@ -620,7 +605,27 @@
           },
           {
             "number": null,
+            "name": "10 贾里·斯舒尔曼 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "17 奇多·奥比 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "50 埃塞尔·古尔布兹 前锋",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "15 艾曼·伊特-泰比 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "2 亚历山德罗·西拉尼 后卫",
             "position": null
           }
         ],
