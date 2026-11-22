@@ -24,7 +24,7 @@
       "lost": "1.52",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-22T12:30:10Z"
+    "fetched_at_utc": "2026-11-22T12:40:08Z"
   },
   "shuju": {
     "title": "鹿特丹斯巴达VS阿尔克马尔(2026/2027荷甲)-数据分析-500彩票网",
@@ -395,11 +395,26 @@
     },
     "lineup": {
       "home": {
-        "formation": "4-2-3-1",
+        "formation": "4-3-3",
         "starters": [
           {
             "number": null,
+            "name": "10 三户舜介 前锋",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "9 米兰·桑尼维特 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "7 米切尔·范博根 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "8 塞德里克·哈滕波尔 中场",
             "position": null
           },
           {
@@ -409,22 +424,7 @@
           },
           {
             "number": null,
-            "name": "10 三户舜介 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "7 米切尔·范博根 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "6 西奥·金特罗·莱昂 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "8 塞德里克·哈滕波尔 中场",
+            "name": "6 朱利安·巴斯 中场",
             "position": null
           },
           {
@@ -449,19 +449,34 @@
           },
           {
             "number": null,
-            "name": "1 迈克尔·布鲁威尔 守门员",
+            "name": "1 菲利普·贝德纳雷克 守门员",
             "position": null
           }
         ],
         "subs": [
           {
             "number": null,
-            "name": "15 詹尼诺·维亚内洛 后卫",
+            "name": "22 乔尔·伊迪奥 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "19 安德烈·科斯蒂奇 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "20 帕斯卡·柯伊伯 守门员",
             "position": null
           },
           {
             "number": null,
             "name": "18 罗宾·范克鲁森 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "15 詹尼诺·维亚内洛 后卫",
             "position": null
           },
           {
@@ -476,6 +491,11 @@
           },
           {
             "number": null,
+            "name": "30 里克·苏尔 守门员",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "16 阿尔万德·本尼迪克特·罗兹 中场",
             "position": null
           },
@@ -486,22 +506,7 @@
           },
           {
             "number": null,
-            "name": "30 帕斯卡·柯伊伯 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "22 乔尔·伊迪奥 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "20 菲利普·贝德纳雷克 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "19 安德烈·科斯蒂奇 前锋",
+            "name": "14 乔马尔·吉尔斯托夫 后卫",
             "position": null
           }
         ],
@@ -509,8 +514,13 @@
         "suspended": []
       },
       "away": {
-        "formation": "4-2-3-1",
+        "formation": "4-3-3",
         "starters": [
+          {
+            "number": null,
+            "name": "11 罗·达尔 前锋",
+            "position": null
+          },
           {
             "number": null,
             "name": "9 梅克斯·梅尔丁克 前锋",
@@ -518,17 +528,7 @@
           },
           {
             "number": null,
-            "name": "11 罗·达尔 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "17 瓦尔德马尔·比斯科夫 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "24 阿尤布·奥夫基尔 中场",
+            "name": "24 阿尤布·奥夫基尔 前锋",
             "position": null
           },
           {
@@ -539,6 +539,11 @@
           {
             "number": null,
             "name": "21 戴夫·夸克曼 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "14 加尔文·斯滕斯 中场",
             "position": null
           },
           {
@@ -570,17 +575,32 @@
         "subs": [
           {
             "number": null,
+            "name": "8 约尔迪·克拉西 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "17 瓦尔德马尔·比斯科夫 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "27 瓦西姆·布齐安 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "45 杰罗迪诺·伯格拉夫 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "34 米斯·德·威特 后卫",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "12 霍比·维赫斯特 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "14 加尔文·斯滕斯 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "10 基斯·史密特 中场",
             "position": null
           },
           {
@@ -590,7 +610,7 @@
           },
           {
             "number": null,
-            "name": "20 安德烈娅·纳塔利 后卫",
+            "name": "31 市原吏音 后卫",
             "position": null
           },
           {
@@ -610,22 +630,7 @@
           },
           {
             "number": null,
-            "name": "31 市原吏音 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "34 米斯·德·威特 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "8 约尔迪·克拉西 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "27 瓦西姆·布齐安 前锋",
+            "name": "20 安德烈娅·纳塔利 后卫",
             "position": null
           }
         ],
