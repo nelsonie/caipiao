@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-22T05:50:25Z",
+  "last_updated_utc": "2026-11-22T06:00:29Z",
   "matches": [
     {
       "xml_id": "2042924",
@@ -72,6 +72,24 @@
       "matchnum_label": "周日004",
       "home_team_id": "1330",
       "away_team_id": "1249"
+    },
+    {
+      "xml_id": "2042928",
+      "matchnum": "7005",
+      "date": "2026-11-22",
+      "dayofweek": "星期天",
+      "league": "英格兰冠军联赛",
+      "home": "伯恩利",
+      "away": "布莱克本",
+      "spf_win": "3.35",
+      "spf_draw": "3.60",
+      "spf_lost": "1.78",
+      "spf_updated": "2026-11-22 12:27:32",
+      "gameid": "1425971",
+      "kickoff_cst": "2026-11-22 20:00",
+      "matchnum_label": "周日005",
+      "home_team_id": "700",
+      "away_team_id": "723"
     },
     {
       "xml_id": "2042929",
@@ -308,22 +326,22 @@
       "away_team_id": "1046"
     },
     {
-      "xml_id": "2042943",
-      "matchnum": "1002",
+      "xml_id": "2042942",
+      "matchnum": "1001",
       "date": "2026-11-24",
       "dayofweek": "星期二",
       "league": "瑞典超级联赛",
-      "home": "哈马比",
-      "away": "IFK哥德堡",
-      "spf_win": "2.25",
-      "spf_draw": "3.90",
-      "spf_lost": "2.28",
+      "home": "厄尔格里特",
+      "away": "卡尔马",
+      "spf_win": "1.65",
+      "spf_draw": "3.65",
+      "spf_lost": "3.85",
       "spf_updated": "2026-11-21 09:56:14",
-      "gameid": "1362866",
+      "gameid": "1362868",
       "kickoff_cst": "2026-11-24 02:00",
-      "matchnum_label": "周一002",
-      "home_team_id": "852",
-      "away_team_id": "823"
+      "matchnum_label": "周一001",
+      "home_team_id": "606",
+      "away_team_id": "913"
     },
     {
       "xml_id": "2042947",
