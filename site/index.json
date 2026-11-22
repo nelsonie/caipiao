@@ -1,6 +1,24 @@
 {
-  "last_updated_utc": "2026-11-22T10:10:24Z",
+  "last_updated_utc": "2026-11-22T10:20:30Z",
   "matches": [
+    {
+      "xml_id": "2042924",
+      "matchnum": "7001",
+      "date": "2026-11-22",
+      "dayofweek": "星期天",
+      "league": "韩国职业联赛",
+      "home": "金泉尚武",
+      "away": "济州SK",
+      "spf_win": "6.10",
+      "spf_draw": "3.90",
+      "spf_lost": "1.39",
+      "spf_updated": "2026-11-22 12:40:27",
+      "gameid": "1504228",
+      "kickoff_cst": "2026-11-22 13:00",
+      "matchnum_label": "周日001",
+      "home_team_id": "1615",
+      "away_team_id": "3410"
+    },
     {
       "xml_id": "2042925",
       "matchnum": "7002",
@@ -326,6 +344,24 @@
       "away_team_id": "913"
     },
     {
+      "xml_id": "2042943",
+      "matchnum": "1002",
+      "date": "2026-11-24",
+      "dayofweek": "星期二",
+      "league": "瑞典超级联赛",
+      "home": "哈马比",
+      "away": "IFK哥德堡",
+      "spf_win": "2.25",
+      "spf_draw": "3.90",
+      "spf_lost": "2.28",
+      "spf_updated": "2026-11-21 09:56:14",
+      "gameid": "1362866",
+      "kickoff_cst": "2026-11-24 02:00",
+      "matchnum_label": "周一002",
+      "home_team_id": "852",
+      "away_team_id": "823"
+    },
+    {
       "xml_id": "2042945",
       "matchnum": "1004",
       "date": "2026-11-24",
@@ -342,24 +378,6 @@
       "matchnum_label": "周一004",
       "home_team_id": "1210",
       "away_team_id": "3962"
-    },
-    {
-      "xml_id": "2042946",
-      "matchnum": "1005",
-      "date": "2026-11-24",
-      "dayofweek": "星期二",
-      "league": "英格兰超级联赛",
-      "home": "布伦特福德",
-      "away": "埃弗顿",
-      "spf_win": "3.92",
-      "spf_draw": "3.70",
-      "spf_lost": "1.63",
-      "spf_updated": "2026-11-21 09:56:14",
-      "gameid": "1420334",
-      "kickoff_cst": "2026-11-24 04:00",
-      "matchnum_label": "周一005",
-      "home_team_id": "1361",
-      "away_team_id": "565"
     },
     {
       "xml_id": "2042947",
