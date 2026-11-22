@@ -24,7 +24,7 @@
       "lost": "2.08",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-22T13:40:14Z"
+    "fetched_at_utc": "2026-11-22T13:50:10Z"
   },
   "shuju": {
     "title": "奥格斯堡VS美因茨(2026/2027德甲)-数据分析-500彩票网",
@@ -395,41 +395,11 @@
     },
     "lineup": {
       "home": {
-        "formation": null,
+        "formation": "3-4-2-1",
         "starters": [
           {
             "number": null,
-            "name": "32 法比安·里德 前锋",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "11 米夏埃尔·格雷戈里奇 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "14 扬尼克·凯特尔 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "37 提姆·施尼策尔 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "1 芬恩·达门 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "30 安东·卡德 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "19 罗宾·费尔豪尔 中场",
             "position": null
           },
           {
@@ -439,7 +409,7 @@
           },
           {
             "number": null,
-            "name": "16 亨内斯·贝伦斯 中场",
+            "name": "30 安东·卡德 前锋",
             "position": null
           },
           {
@@ -449,34 +419,44 @@
           },
           {
             "number": null,
+            "name": "32 法比安·里德 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "37 提姆·施尼策尔 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "19 罗宾·费尔豪尔 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "16 亨内斯·贝伦斯 中场",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "35 朱马·巴 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "14 扬尼克·凯特尔 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "1 芬恩·达门 守门员",
             "position": null
           }
         ],
         "subs": [
           {
             "number": null,
-            "name": "38 洛里斯·胡西奇 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "21 阿里琼·伊布拉希莫维奇 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "10 梅尔特·柯米尔 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "22 内迪尔科·拉布罗维奇 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "39 乌琴纳·奥贡杜 前锋",
+            "name": "7 薛英佑 后卫",
             "position": null
           },
           {
@@ -486,17 +466,37 @@
           },
           {
             "number": null,
-            "name": "7 薛英佑 后卫",
+            "name": "39 乌琴纳·奥贡杜 前锋",
             "position": null
           },
           {
             "number": null,
-            "name": "8 西马·苏索 中场",
+            "name": "22 内迪尔科·拉布罗维奇 守门员",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "10 梅尔特·柯米尔 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "21 阿里琼·伊布拉希莫维奇 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "38 洛里斯·胡西奇 中场",
             "position": null
           },
           {
             "number": null,
             "name": "18 蒂姆·布赖特豪普特 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "8 西马·苏索 中场",
             "position": null
           }
         ],
@@ -504,8 +504,38 @@
         "suspended": []
       },
       "away": {
-        "formation": null,
+        "formation": "3-1-4-2",
         "starters": [
+          {
+            "number": null,
+            "name": "9 菲利普.蒂茨 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "23 谢拉尔多·贝克尔 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "2 菲利普·姆韦内 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "8 保罗·内贝尔 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "10 纳迪姆·阿米里 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "19 安东尼·卡西 后卫",
+            "position": null
+          },
           {
             "number": null,
             "name": "6 佐野海舟 中场",
@@ -523,42 +553,12 @@
           },
           {
             "number": null,
-            "name": "8 保罗·内贝尔 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "2 菲利普·姆韦内 后卫",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "21 丹尼·达科斯塔 后卫",
             "position": null
           },
           {
             "number": null,
-            "name": "19 安东尼·卡西 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "23 谢拉尔多·贝克尔 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "10 纳迪姆·阿米里 中场",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "27 罗宾·泽特纳 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "9 菲利普.蒂茨 前锋",
             "position": null
           }
         ],
