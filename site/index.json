@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-22T00:50:24Z",
+  "last_updated_utc": "2026-11-22T01:00:28Z",
   "matches": [
     {
       "xml_id": "2042924",
@@ -218,24 +218,6 @@
       "away_team_id": "2000"
     },
     {
-      "xml_id": "2042938",
-      "matchnum": "7015",
-      "date": "2026-11-23",
-      "dayofweek": "星期一",
-      "league": "挪威超级联赛",
-      "home": "萨尔普斯堡",
-      "away": "利勒斯特罗姆",
-      "spf_win": "3.90",
-      "spf_draw": "4.15",
-      "spf_lost": "1.56",
-      "spf_updated": "2026-11-21 09:56:14",
-      "gameid": "1364375",
-      "kickoff_cst": "2026-11-23 02:15",
-      "matchnum_label": "周日015",
-      "home_team_id": "3418",
-      "away_team_id": "1009"
-    },
-    {
       "xml_id": "2042939",
       "matchnum": "7016",
       "date": "2026-11-23",
@@ -290,6 +272,24 @@
       "away_team_id": "1046"
     },
     {
+      "xml_id": "2042943",
+      "matchnum": "1002",
+      "date": "2026-11-24",
+      "dayofweek": "星期二",
+      "league": "瑞典超级联赛",
+      "home": "哈马比",
+      "away": "IFK哥德堡",
+      "spf_win": "2.25",
+      "spf_draw": "3.90",
+      "spf_lost": "2.28",
+      "spf_updated": "2026-11-21 09:56:14",
+      "gameid": "1362866",
+      "kickoff_cst": "2026-11-24 02:00",
+      "matchnum_label": "周一002",
+      "home_team_id": "852",
+      "away_team_id": "823"
+    },
+    {
       "xml_id": "2042947",
       "matchnum": "1006",
       "date": "2026-11-24",
@@ -324,24 +324,6 @@
       "matchnum_label": "周一007",
       "home_team_id": "1568",
       "away_team_id": "1385"
-    },
-    {
-      "xml_id": "2042949",
-      "matchnum": "1008",
-      "date": "2026-11-24",
-      "dayofweek": "星期二",
-      "league": "美国职业大联盟",
-      "home": "圣路易斯城",
-      "away": "洛杉矶FC",
-      "spf_win": "4.95",
-      "spf_draw": "4.05",
-      "spf_lost": "1.45",
-      "spf_updated": "2026-11-21 09:56:14",
-      "gameid": "2190346",
-      "kickoff_cst": "2026-11-24 09:00",
-      "matchnum_label": "周一008",
-      "home_team_id": "14129",
-      "away_team_id": "10525"
     }
   ]
 }
