@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-22T09:30:24Z",
+  "last_updated_utc": "2026-11-22T09:40:24Z",
   "matches": [
     {
       "xml_id": "2042924",
@@ -108,6 +108,24 @@
       "matchnum_label": "周日006",
       "home_team_id": "653",
       "away_team_id": "683"
+    },
+    {
+      "xml_id": "2042930",
+      "matchnum": "7007",
+      "date": "2026-11-22",
+      "dayofweek": "星期天",
+      "league": "荷兰甲级联赛",
+      "home": "鹿特丹斯巴达",
+      "away": "阿尔克马尔",
+      "spf_win": "2.19",
+      "spf_draw": "3.50",
+      "spf_lost": "2.52",
+      "spf_updated": "2026-11-22 11:44:12",
+      "gameid": "1416058",
+      "kickoff_cst": "2026-11-22 21:30",
+      "matchnum_label": "周日007",
+      "home_team_id": "518",
+      "away_team_id": "224"
     },
     {
       "xml_id": "2042931",
@@ -342,42 +360,6 @@
       "matchnum_label": "周一002",
       "home_team_id": "852",
       "away_team_id": "823"
-    },
-    {
-      "xml_id": "2042944",
-      "matchnum": "1003",
-      "date": "2026-11-24",
-      "dayofweek": "星期二",
-      "league": "意大利甲级联赛",
-      "home": "蒙扎",
-      "away": "佛罗伦萨",
-      "spf_win": "1.77",
-      "spf_draw": "3.75",
-      "spf_lost": "3.25",
-      "spf_updated": "2026-11-21 09:56:14",
-      "gameid": "1414227",
-      "kickoff_cst": "2026-11-24 03:45",
-      "matchnum_label": "周一003",
-      "home_team_id": "346",
-      "away_team_id": "803"
-    },
-    {
-      "xml_id": "2042945",
-      "matchnum": "1004",
-      "date": "2026-11-24",
-      "dayofweek": "星期二",
-      "league": "法国乙级联赛",
-      "home": "索肖",
-      "away": "敦刻尔克",
-      "spf_win": "4.70",
-      "spf_draw": "3.92",
-      "spf_lost": "1.49",
-      "spf_updated": "2026-11-21 09:56:14",
-      "gameid": "1416968",
-      "kickoff_cst": "2026-11-24 03:45",
-      "matchnum_label": "周一004",
-      "home_team_id": "1210",
-      "away_team_id": "3962"
     },
     {
       "xml_id": "2042948",
