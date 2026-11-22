@@ -24,7 +24,7 @@
       "lost": "3.42",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-22T11:20:08Z"
+    "fetched_at_utc": "2026-11-22T11:30:11Z"
   },
   "shuju": {
     "title": "伯恩利VS布莱克本(2026/2027英冠)-数据分析-500彩票网",
@@ -395,26 +395,16 @@
     },
     "lineup": {
       "home": {
-        "formation": null,
+        "formation": "4-2-3-1",
         "starters": [
           {
             "number": null,
-            "name": "1 马克斯·韦斯 守门员",
+            "name": "11 泽基·阿姆杜尼 前锋",
             "position": null
           },
           {
             "number": null,
-            "name": "2 凯尔·沃克 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "22 奥利弗·索恩 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "19 拉吉·拉马扎尼 前锋",
+            "name": "19 拉吉·拉马扎尼 中场",
             "position": null
           },
           {
@@ -424,12 +414,7 @@
           },
           {
             "number": null,
-            "name": "44 伊戈尔·胡里奥 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "5 旗手怜央 中场",
+            "name": "34 杰登·巴内尔 中场",
             "position": null
           },
           {
@@ -439,17 +424,32 @@
           },
           {
             "number": null,
-            "name": "34 杰登·巴内尔 前锋",
+            "name": "5 旗手怜央 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "11 泽基·阿姆杜尼 前锋",
+            "name": "22 奥利弗·索恩 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "44 伊戈尔·胡里奥 后卫",
             "position": null
           },
           {
             "number": null,
             "name": "3 马克斯·阿莱恩 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "2 凯尔·沃克 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "1 马克斯·韦斯 守门员",
             "position": null
           }
         ],
@@ -467,11 +467,6 @@
           {
             "number": null,
             "name": "8 乌戈·拉古贝尔 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "6 卢卡斯 中场",
             "position": null
           },
           {
@@ -498,27 +493,27 @@
             "number": null,
             "name": "15 阿内尔·艾哈迈德奥德季奇 后卫",
             "position": null
+          },
+          {
+            "number": null,
+            "name": "42 德尔菲姆·贝图埃拉·卢瓦武 中场",
+            "position": null
           }
         ],
         "injured": [],
         "suspended": []
       },
       "away": {
-        "formation": null,
+        "formation": "3-4-2-1",
         "starters": [
           {
             "number": null,
-            "name": "6 汤姆·阿特钦森 后卫",
+            "name": "9 安德烈·郭约翰森 前锋",
             "position": null
           },
           {
             "number": null,
-            "name": "24 穆萨·巴拉吉 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "27 加迪-皮埃尔·贝尤库·鲍乌坦科伊 后卫",
+            "name": "21 奥拉达波·欧佛利安 中场",
             "position": null
           },
           {
@@ -528,17 +523,12 @@
           },
           {
             "number": null,
-            "name": "17 海登·卡特 后卫",
+            "name": "3 哈里·皮克林 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "9 安德烈·郭约翰森 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "15 肖恩·麦克劳格林 后卫",
+            "name": "24 穆萨·巴拉吉 中场",
             "position": null
           },
           {
@@ -548,17 +538,27 @@
           },
           {
             "number": null,
+            "name": "27 加迪-皮埃尔·贝尤库·鲍乌坦科伊 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "15 肖恩·麦克劳格林 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "17 海登·卡特 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "6 汤姆·阿特钦森 后卫",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "1 艾恩斯利·佩尔斯 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "21 奥拉达波·欧佛利安 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "3 哈里·皮克林 后卫",
             "position": null
           }
         ],
@@ -600,7 +600,7 @@
           },
           {
             "number": null,
-            "name": "11 杰登·费夫里耶 后卫",
+            "name": "11 杰登·费夫里耶 前锋",
             "position": null
           },
           {
