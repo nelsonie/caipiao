@@ -8,8 +8,8 @@
     "away": "威尼斯",
     "kickoff_cst": "2026-11-22 19:30",
     "spf": {
-      "win": "1.85",
-      "draw": "3.52",
+      "win": "1.88",
+      "draw": "3.42",
       "lost": "3.18"
     },
     "asia_main": {
@@ -24,7 +24,7 @@
       "lost": "8.75",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-22T10:40:07Z"
+    "fetched_at_utc": "2026-11-22T10:50:09Z"
   },
   "shuju": {
     "title": "尤文图斯VS威尼斯(2026/2027意甲)-数据分析-500彩票网",
@@ -399,42 +399,7 @@
         "starters": [
           {
             "number": null,
-            "name": "25 古列尔莫·维卡里奥 守门员",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "3 格莱松·布雷默 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "6 劳埃德·凯利 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "32 胡安·卡巴尔 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "22 韦斯顿·麦肯尼 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "12 道格拉斯·路易斯 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "8 特恩·库普梅纳斯 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "17 克里姆·阿拉伊贝戈维奇 前锋",
+            "name": "11 埃顿·泽格罗瓦 前锋",
             "position": null
           },
           {
@@ -444,12 +409,47 @@
           },
           {
             "number": null,
-            "name": "11 埃顿·泽格罗瓦 前锋",
+            "name": "17 克里姆·阿拉伊贝戈维奇 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "8 特恩·库普梅纳斯 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "12 道格拉斯·路易斯 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "22 韦斯顿·麦肯尼 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "32 胡安·卡巴尔 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "6 劳埃德·凯利 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "3 格莱松·布雷默 后卫",
             "position": null
           },
           {
             "number": null,
             "name": "2 泽基·切利克 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "25 古列尔莫·维卡里奥 守门员",
             "position": null
           }
         ],
@@ -514,41 +514,11 @@
         "suspended": []
       },
       "away": {
-        "formation": null,
+        "formation": "3-5-2",
         "starters": [
           {
             "number": null,
-            "name": "1 菲利普·斯坦科维奇 守门员",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "45 阿科·亚当斯 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "6 詹卢卡·布西奥 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "18 安托万·海诺 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "25 拉德万·哈勒哈勒 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "5 里奇西亚诺·哈普斯 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "15 胡安·赫苏斯 后卫",
             "position": null
           },
           {
@@ -558,7 +528,17 @@
           },
           {
             "number": null,
+            "name": "5 里奇西亚诺·哈普斯 中场",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "19 西蒙·索姆 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "6 詹卢卡·布西奥 中场",
             "position": null
           },
           {
@@ -568,7 +548,27 @@
           },
           {
             "number": null,
+            "name": "18 安托万·海诺 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "15 胡安·赫苏斯 后卫",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "2 马蒂亚斯·莫雷诺 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "25 拉德万·哈勒哈勒 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "1 菲利普·斯坦科维奇 守门员",
             "position": null
           }
         ],
@@ -580,7 +580,7 @@
           },
           {
             "number": null,
-            "name": "10 霍恩·耶博阿 中场",
+            "name": "10 霍恩·耶博阿 前锋",
             "position": null
           },
           {
@@ -635,7 +635,7 @@
           },
           {
             "number": null,
-            "name": "17 阿米尔·贝拉-科沙 后卫",
+            "name": "77 托尼·费尔南德斯 中场",
             "position": null
           },
           {
@@ -645,7 +645,7 @@
           },
           {
             "number": null,
-            "name": "77 托尼·费尔南德斯 前锋",
+            "name": "17 阿米尔·贝拉-科沙 后卫",
             "position": null
           }
         ],
