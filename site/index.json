@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-23T12:50:17Z",
+  "last_updated_utc": "2026-11-23T13:00:20Z",
   "matches": [
     {
       "xml_id": "2042942",
@@ -146,24 +146,6 @@
       "away_team_id": "10525"
     },
     {
-      "xml_id": "2042996",
-      "matchnum": "2004",
-      "date": "2026-11-25",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "加拉塔萨雷",
-      "away": "阿斯顿维拉",
-      "spf_win": "1.54",
-      "spf_draw": "4.25",
-      "spf_lost": "3.92",
-      "spf_updated": "2026-11-23 19:30:14",
-      "gameid": "1479970",
-      "kickoff_cst": "2026-11-25 01:45",
-      "matchnum_label": "周二004",
-      "home_team_id": "896",
-      "away_team_id": "555"
-    },
-    {
       "xml_id": "2042997",
       "matchnum": "2005",
       "date": "2026-11-25",
@@ -200,40 +182,22 @@
       "away_team_id": "213"
     },
     {
-      "xml_id": "2043000",
-      "matchnum": "2008",
+      "xml_id": "2043002",
+      "matchnum": "2010",
       "date": "2026-11-25",
       "dayofweek": "星期三",
       "league": "欧洲冠军联赛",
-      "home": "阿森纳",
-      "away": "多特蒙德",
-      "spf_win": "1.90",
-      "spf_draw": "3.50",
-      "spf_lost": "3.05",
-      "spf_updated": "2026-11-23 13:34:25",
-      "gameid": "1479872",
+      "home": "布拉迪斯拉发",
+      "away": "皇家贝蒂斯",
+      "spf_win": "2.10",
+      "spf_draw": "4.15",
+      "spf_lost": "2.37",
+      "spf_updated": "2026-11-23 19:05:14",
+      "gameid": "1480092",
       "kickoff_cst": "2026-11-25 04:00",
-      "matchnum_label": "周二008",
-      "home_team_id": "554",
-      "away_team_id": "786"
-    },
-    {
-      "xml_id": "2043001",
-      "matchnum": "2009",
-      "date": "2026-11-25",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "曼彻斯特城",
-      "away": "那不勒斯",
-      "spf_win": "2.60",
-      "spf_draw": "4.20",
-      "spf_lost": "1.94",
-      "spf_updated": "2026-11-23 19:03:01",
-      "gameid": "1480019",
-      "kickoff_cst": "2026-11-25 04:00",
-      "matchnum_label": "周二009",
-      "home_team_id": "1072",
-      "away_team_id": "1125"
+      "matchnum_label": "周二010",
+      "home_team_id": "1474",
+      "away_team_id": "673"
     },
     {
       "xml_id": "2043003",

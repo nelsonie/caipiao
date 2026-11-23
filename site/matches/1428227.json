@@ -24,7 +24,7 @@
       "lost": "3.00",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-23T12:50:10Z"
+    "fetched_at_utc": "2026-11-23T13:00:13Z"
   },
   "shuju": {
     "title": "莱万特VS埃尔切(2026/2027西甲)-数据分析-500彩票网",
@@ -745,32 +745,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.910↓",
+        "home_water": "0.900↓",
         "handicap": "平手/半球",
-        "away_water": "1.020↑",
-        "time": "11-23 20:21"
+        "away_water": "1.030↑",
+        "time": "11-23 20:32"
       },
       "init": {
         "home_water": "0.920",
         "handicap": "平手/半球",
         "away_water": "0.980",
         "time": "11-19 18:58"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.860↓",
-        "handicap": "平手/半球",
-        "away_water": "0.930↓",
-        "time": "11-23 19:24"
-      },
-      "init": {
-        "home_water": "0.890",
-        "handicap": "平手/半球",
-        "away_water": "0.980",
-        "time": "11-10 23:47"
       }
     },
     {
@@ -787,6 +771,22 @@
         "handicap": "平手/半球",
         "away_water": "0.970",
         "time": "11-03 05:43"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.860↓",
+        "handicap": "平手/半球",
+        "away_water": "0.930↓",
+        "time": "11-23 19:24"
+      },
+      "init": {
+        "home_water": "0.890",
+        "handicap": "平手/半球",
+        "away_water": "0.980",
+        "time": "11-10 23:47"
       }
     },
     {
@@ -875,8 +875,8 @@
       "live": {
         "home_water": "0.850↓",
         "handicap": "平手/半球",
-        "away_water": "0.960↑",
-        "time": "11-23 20:07"
+        "away_water": "0.950↑",
+        "time": "11-23 20:41"
       },
       "init": {
         "home_water": "0.880",
