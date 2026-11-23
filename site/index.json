@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-23T04:30:12Z",
+  "last_updated_utc": "2026-11-23T04:40:10Z",
   "matches": [
     {
       "xml_id": "2042942",
@@ -20,6 +20,24 @@
       "away_team_id": "913"
     },
     {
+      "xml_id": "2042943",
+      "matchnum": "1002",
+      "date": "2026-11-24",
+      "dayofweek": "星期二",
+      "league": "瑞典超级联赛",
+      "home": "哈马比",
+      "away": "IFK哥德堡",
+      "spf_win": "2.25",
+      "spf_draw": "3.80",
+      "spf_lost": "2.32",
+      "spf_updated": "2026-11-23 12:15:05",
+      "gameid": "1362866",
+      "kickoff_cst": "2026-11-24 02:00",
+      "matchnum_label": "周一002",
+      "home_team_id": "852",
+      "away_team_id": "823"
+    },
+    {
       "xml_id": "2042944",
       "matchnum": "1003",
       "date": "2026-11-24",
@@ -27,10 +45,10 @@
       "league": "意大利甲级联赛",
       "home": "蒙扎",
       "away": "佛罗伦萨",
-      "spf_win": "1.82",
-      "spf_draw": "3.60",
-      "spf_lost": "3.20",
-      "spf_updated": "2026-11-23 11:17:21",
+      "spf_win": "1.87",
+      "spf_draw": "3.50",
+      "spf_lost": "3.14",
+      "spf_updated": "2026-11-23 12:30:59",
       "gameid": "1414227",
       "kickoff_cst": "2026-11-24 03:45",
       "matchnum_label": "周一003",
@@ -56,6 +74,24 @@
       "away_team_id": "3962"
     },
     {
+      "xml_id": "2042946",
+      "matchnum": "1005",
+      "date": "2026-11-24",
+      "dayofweek": "星期二",
+      "league": "英格兰超级联赛",
+      "home": "布伦特福德",
+      "away": "埃弗顿",
+      "spf_win": "4.36",
+      "spf_draw": "3.96",
+      "spf_lost": "1.52",
+      "spf_updated": "2026-11-23 12:02:12",
+      "gameid": "1420334",
+      "kickoff_cst": "2026-11-24 04:00",
+      "matchnum_label": "周一005",
+      "home_team_id": "1361",
+      "away_team_id": "565"
+    },
+    {
       "xml_id": "2042947",
       "matchnum": "1006",
       "date": "2026-11-24",
@@ -72,6 +108,24 @@
       "matchnum_label": "周一006",
       "home_team_id": "985",
       "away_team_id": "564"
+    },
+    {
+      "xml_id": "2042948",
+      "matchnum": "1007",
+      "date": "2026-11-24",
+      "dayofweek": "星期二",
+      "league": "巴西甲级联赛",
+      "home": "博塔弗戈",
+      "away": "圣保罗",
+      "spf_win": "4.45",
+      "spf_draw": "3.55",
+      "spf_lost": "1.58",
+      "spf_updated": "2026-11-23 10:32:24",
+      "gameid": "1362568",
+      "kickoff_cst": "2026-11-24 07:00",
+      "matchnum_label": "周一007",
+      "home_team_id": "1568",
+      "away_team_id": "1385"
     },
     {
       "xml_id": "2042949",
