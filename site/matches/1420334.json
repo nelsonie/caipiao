@@ -24,7 +24,7 @@
       "lost": "3.10",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-23T05:40:11Z"
+    "fetched_at_utc": "2026-11-23T05:50:10Z"
   },
   "shuju": {
     "title": "布伦特福德VS埃弗顿(2026/2027英超)-数据分析-500彩票网",
@@ -728,22 +728,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.970↓",
-        "handicap": "平手/半球降",
-        "away_water": "0.830↑",
-        "time": "11-23 12:19"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "半球",
-        "away_water": "0.800",
-        "time": "11-10 17:25"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -757,6 +741,22 @@
         "handicap": "一球",
         "away_water": "0.570",
         "time": "11-01 04:30"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.980↓",
+        "handicap": "平手/半球降",
+        "away_water": "0.820↑",
+        "time": "11-23 13:40"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "半球",
+        "away_water": "0.800",
+        "time": "11-10 17:25"
       }
     },
     {
