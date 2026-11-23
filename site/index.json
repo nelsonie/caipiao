@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-23T10:30:17Z",
+  "last_updated_utc": "2026-11-23T10:40:18Z",
   "matches": [
     {
       "xml_id": "2042942",
@@ -45,10 +45,10 @@
       "league": "意大利甲级联赛",
       "home": "蒙扎",
       "away": "佛罗伦萨",
-      "spf_win": "1.98",
-      "spf_draw": "3.20",
-      "spf_lost": "3.12",
-      "spf_updated": "2026-11-23 17:36:20",
+      "spf_win": "2.05",
+      "spf_draw": "3.05",
+      "spf_lost": "3.10",
+      "spf_updated": "2026-11-23 18:35:02",
       "gameid": "1414227",
       "kickoff_cst": "2026-11-24 03:45",
       "matchnum_label": "周一003",
@@ -164,24 +164,6 @@
       "away_team_id": "555"
     },
     {
-      "xml_id": "2042997",
-      "matchnum": "2005",
-      "date": "2026-11-25",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "博德闪耀",
-      "away": "LASK林茨",
-      "spf_win": "2.08",
-      "spf_draw": "3.85",
-      "spf_lost": "2.51",
-      "spf_updated": "2026-11-23 13:34:25",
-      "gameid": "1479922",
-      "kickoff_cst": "2026-11-25 01:45",
-      "matchnum_label": "周二005",
-      "home_team_id": "703",
-      "away_team_id": "334"
-    },
-    {
       "xml_id": "2042999",
       "matchnum": "2007",
       "date": "2026-11-25",
@@ -200,40 +182,22 @@
       "away_team_id": "979"
     },
     {
-      "xml_id": "2043000",
-      "matchnum": "2008",
+      "xml_id": "2043001",
+      "matchnum": "2009",
       "date": "2026-11-25",
       "dayofweek": "星期三",
       "league": "欧洲冠军联赛",
-      "home": "阿森纳",
-      "away": "多特蒙德",
-      "spf_win": "1.90",
-      "spf_draw": "3.50",
-      "spf_lost": "3.05",
+      "home": "曼彻斯特城",
+      "away": "那不勒斯",
+      "spf_win": "2.67",
+      "spf_draw": "4.20",
+      "spf_lost": "1.90",
       "spf_updated": "2026-11-23 13:34:25",
-      "gameid": "1479872",
+      "gameid": "1480019",
       "kickoff_cst": "2026-11-25 04:00",
-      "matchnum_label": "周二008",
-      "home_team_id": "554",
-      "away_team_id": "786"
-    },
-    {
-      "xml_id": "2043003",
-      "matchnum": "2011",
-      "date": "2026-11-25",
-      "dayofweek": "星期三",
-      "league": "欧洲冠军联赛",
-      "home": "费耶诺德",
-      "away": "波尔图",
-      "spf_win": "1.56",
-      "spf_draw": "4.00",
-      "spf_lost": "4.05",
-      "spf_updated": "2026-11-23 13:34:25",
-      "gameid": "1479963",
-      "kickoff_cst": "2026-11-25 04:00",
-      "matchnum_label": "周二011",
-      "home_team_id": "801",
-      "away_team_id": "694"
+      "matchnum_label": "周二009",
+      "home_team_id": "1072",
+      "away_team_id": "1125"
     }
   ]
 }
