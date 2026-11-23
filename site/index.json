@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-23T07:20:16Z",
+  "last_updated_utc": "2026-11-23T07:30:16Z",
   "matches": [
     {
       "xml_id": "2042942",
@@ -118,9 +118,9 @@
       "home": "博塔弗戈",
       "away": "圣保罗",
       "spf_win": "4.35",
-      "spf_draw": "3.42",
-      "spf_lost": "1.62",
-      "spf_updated": "2026-11-23 12:58:25",
+      "spf_draw": "3.38",
+      "spf_lost": "1.63",
+      "spf_updated": "2026-11-23 15:19:18",
       "gameid": "1362568",
       "kickoff_cst": "2026-11-24 07:00",
       "matchnum_label": "周一007",
@@ -234,6 +234,24 @@
       "matchnum_label": "周二008",
       "home_team_id": "554",
       "away_team_id": "786"
+    },
+    {
+      "xml_id": "2043001",
+      "matchnum": "2009",
+      "date": "2026-11-25",
+      "dayofweek": "星期三",
+      "league": "欧洲冠军联赛",
+      "home": "曼彻斯特城",
+      "away": "那不勒斯",
+      "spf_win": "2.67",
+      "spf_draw": "4.20",
+      "spf_lost": "1.90",
+      "spf_updated": "2026-11-23 13:34:25",
+      "gameid": "1480019",
+      "kickoff_cst": "2026-11-25 04:00",
+      "matchnum_label": "周二009",
+      "home_team_id": "1072",
+      "away_team_id": "1125"
     },
     {
       "xml_id": "2043003",
