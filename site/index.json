@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-23T00:00:06Z",
+  "last_updated_utc": "2026-11-23T00:10:14Z",
   "matches": [
     {
       "xml_id": "2042942",
@@ -72,78 +72,6 @@
       "matchnum_label": "周一004",
       "home_team_id": "1210",
       "away_team_id": "3962"
-    },
-    {
-      "xml_id": "2042946",
-      "matchnum": "1005",
-      "date": "2026-11-24",
-      "dayofweek": "星期二",
-      "league": "英格兰超级联赛",
-      "home": "布伦特福德",
-      "away": "埃弗顿",
-      "spf_win": "3.92",
-      "spf_draw": "3.70",
-      "spf_lost": "1.63",
-      "spf_updated": "2026-11-21 09:56:14",
-      "gameid": "1420334",
-      "kickoff_cst": "2026-11-24 04:00",
-      "matchnum_label": "周一005",
-      "home_team_id": "1361",
-      "away_team_id": "565"
-    },
-    {
-      "xml_id": "2042947",
-      "matchnum": "1006",
-      "date": "2026-11-24",
-      "dayofweek": "星期二",
-      "league": "西班牙甲级联赛",
-      "home": "莱万特",
-      "away": "埃尔切",
-      "spf_win": "3.92",
-      "spf_draw": "3.74",
-      "spf_lost": "1.62",
-      "spf_updated": "2026-11-21 09:56:14",
-      "gameid": "1428227",
-      "kickoff_cst": "2026-11-24 04:00",
-      "matchnum_label": "周一006",
-      "home_team_id": "985",
-      "away_team_id": "564"
-    },
-    {
-      "xml_id": "2042948",
-      "matchnum": "1007",
-      "date": "2026-11-24",
-      "dayofweek": "星期二",
-      "league": "巴西甲级联赛",
-      "home": "博塔弗戈",
-      "away": "圣保罗",
-      "spf_win": "4.55",
-      "spf_draw": "3.65",
-      "spf_lost": "1.55",
-      "spf_updated": "2026-11-21 09:56:14",
-      "gameid": "1362568",
-      "kickoff_cst": "2026-11-24 07:00",
-      "matchnum_label": "周一007",
-      "home_team_id": "1568",
-      "away_team_id": "1385"
-    },
-    {
-      "xml_id": "2042949",
-      "matchnum": "1008",
-      "date": "2026-11-24",
-      "dayofweek": "星期二",
-      "league": "美国职业大联盟",
-      "home": "圣路易斯城",
-      "away": "洛杉矶FC",
-      "spf_win": "4.95",
-      "spf_draw": "4.05",
-      "spf_lost": "1.45",
-      "spf_updated": "2026-11-21 09:56:14",
-      "gameid": "2190346",
-      "kickoff_cst": "2026-11-24 09:00",
-      "matchnum_label": "周一008",
-      "home_team_id": "14129",
-      "away_team_id": "10525"
     }
   ]
 }
