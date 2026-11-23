@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-23T01:40:12Z",
+  "last_updated_utc": "2026-11-23T01:50:10Z",
   "matches": [
     {
       "xml_id": "2042942",
@@ -126,6 +126,24 @@
       "matchnum_label": "周一007",
       "home_team_id": "1568",
       "away_team_id": "1385"
+    },
+    {
+      "xml_id": "2042949",
+      "matchnum": "1008",
+      "date": "2026-11-24",
+      "dayofweek": "星期二",
+      "league": "美国职业大联盟",
+      "home": "圣路易斯城",
+      "away": "洛杉矶FC",
+      "spf_win": "4.95",
+      "spf_draw": "4.05",
+      "spf_lost": "1.45",
+      "spf_updated": "2026-11-21 09:56:14",
+      "gameid": "2190346",
+      "kickoff_cst": "2026-11-24 09:00",
+      "matchnum_label": "周一008",
+      "home_team_id": "14129",
+      "away_team_id": "10525"
     }
   ]
 }
