@@ -24,7 +24,7 @@
       "lost": "5.30",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-24T04:40:12Z"
+    "fetched_at_utc": "2026-11-24T04:50:12Z"
   },
   "shuju": {
     "title": "鹿岛鹿角VS全北现代(2026/2027亚冠杯)-数据分析-500彩票网",
@@ -649,10 +649,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.910↑",
+        "home_water": "0.880",
         "handicap": "一球",
-        "away_water": "0.970↑",
-        "time": "11-24 12:05"
+        "away_water": "0.940",
+        "time": "11-24 12:24"
       },
       "init": {
         "home_water": "0.880",
@@ -665,32 +665,16 @@
       "cid": "9",
       "company": "易**",
       "live": {
-        "home_water": "0.920",
+        "home_water": "0.910↓",
         "handicap": "一球",
-        "away_water": "0.960↑",
-        "time": "11-24 06:08"
+        "away_water": "0.930↓",
+        "time": "11-24 12:24"
       },
       "init": {
         "home_water": "0.920",
         "handicap": "一球",
         "away_water": "0.950",
         "time": "11-22 20:41"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.880↓",
-        "handicap": "一球",
-        "away_water": "0.920↑",
-        "time": "11-24 12:08"
-      },
-      "init": {
-        "home_water": "1.000",
-        "handicap": "一球",
-        "away_water": "0.800",
-        "time": "11-22 11:49"
       }
     },
     {
@@ -707,6 +691,22 @@
         "handicap": "一球",
         "away_water": "0.750",
         "time": "11-22 11:50"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.870↓",
+        "handicap": "一球",
+        "away_water": "0.920↑",
+        "time": "11-24 12:17"
+      },
+      "init": {
+        "home_water": "1.000",
+        "handicap": "一球",
+        "away_water": "0.800",
+        "time": "11-22 11:49"
       }
     },
     {
