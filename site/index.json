@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-24T12:20:17Z",
+  "last_updated_utc": "2026-11-24T12:30:18Z",
   "matches": [
     {
       "xml_id": "2042993",
@@ -218,6 +218,24 @@
       "away_team_id": "7805"
     },
     {
+      "xml_id": "2043005",
+      "matchnum": "3002",
+      "date": "2026-11-25",
+      "dayofweek": "星期三",
+      "league": "亚洲冠军精英联赛",
+      "home": "鹿岛鹿角",
+      "away": "全北现代",
+      "spf_win": "2.42",
+      "spf_draw": "3.30",
+      "spf_lost": "2.37",
+      "spf_updated": "2026-11-24 09:49:55",
+      "gameid": "1473959",
+      "kickoff_cst": "2026-11-25 18:00",
+      "matchnum_label": "周三002",
+      "home_team_id": "1029",
+      "away_team_id": "1609"
+    },
+    {
       "xml_id": "2043007",
       "matchnum": "3004",
       "date": "2026-11-26",
@@ -254,22 +272,22 @@
       "away_team_id": "1075"
     },
     {
-      "xml_id": "2043011",
-      "matchnum": "3008",
+      "xml_id": "2043009",
+      "matchnum": "3006",
       "date": "2026-11-26",
       "dayofweek": "星期四",
       "league": "欧洲冠军联赛",
-      "home": "马德里竞技",
-      "away": "维京",
-      "spf_win": "1.75",
-      "spf_draw": "4.45",
-      "spf_lost": "2.91",
-      "spf_updated": "2026-11-24 09:49:55",
-      "gameid": "1479892",
+      "home": "国际米兰",
+      "away": "斯图加特",
+      "spf_win": "1.82",
+      "spf_draw": "4.00",
+      "spf_lost": "2.94",
+      "spf_updated": "2026-11-24 14:13:32",
+      "gameid": "1479982",
       "kickoff_cst": "2026-11-26 04:00",
-      "matchnum_label": "周三008",
-      "home_team_id": "1046",
-      "away_team_id": "1259"
+      "matchnum_label": "周三006",
+      "home_team_id": "846",
+      "away_team_id": "1195"
     },
     {
       "xml_id": "2043012",
