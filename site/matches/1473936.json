@@ -24,7 +24,7 @@
       "lost": "7.90",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-24T04:10:10Z"
+    "fetched_at_utc": "2026-11-24T04:20:11Z"
   },
   "shuju": {
     "title": "大阪钢巴VS泰国港口局(2026/2027亚冠杯)-数据分析-500彩票网",
@@ -578,10 +578,10 @@
       "cid": "5",
       "company": "*门",
       "live": {
-        "home_water": "0.930",
+        "home_water": "0.880↓",
         "handicap": "球半",
-        "away_water": "0.850",
-        "time": "11-23 17:33"
+        "away_water": "0.900↑",
+        "time": "11-24 12:11"
       },
       "init": {
         "home_water": "0.930",
@@ -671,6 +671,22 @@
       }
     },
     {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.900↓",
+        "handicap": "球半",
+        "away_water": "0.890↑",
+        "time": "11-24 12:17"
+      },
+      "init": {
+        "home_water": "1.010",
+        "handicap": "球半",
+        "away_water": "0.790",
+        "time": "11-22 10:25"
+      }
+    },
+    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -684,22 +700,6 @@
         "handicap": "球半",
         "away_water": "0.820",
         "time": "11-22 10:33"
-      }
-    },
-    {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.900↓",
-        "handicap": "球半",
-        "away_water": "0.890↑",
-        "time": "11-23 22:22"
-      },
-      "init": {
-        "home_water": "1.010",
-        "handicap": "球半",
-        "away_water": "0.790",
-        "time": "11-22 10:25"
       }
     },
     {
@@ -1260,7 +1260,7 @@
     {
       "cid": "6",
       "company": "伟*",
-      "time": "2026-11-24 11:35:41",
+      "time": "2026-11-24 12:12:53",
       "odds": {
         "live": [
           "1.36",
