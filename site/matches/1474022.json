@@ -8,9 +8,9 @@
     "away": "柏太阳神",
     "kickoff_cst": "2026-11-24 15:45",
     "spf": {
-      "win": "3.85",
-      "draw": "4.35",
-      "lost": "1.54"
+      "win": "3.95",
+      "draw": "4.55",
+      "lost": "1.50"
     },
     "asia_main": {
       "handicap": "受球半/两球降",
@@ -24,7 +24,7 @@
       "lost": "1.27",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-24T06:50:06Z"
+    "fetched_at_utc": "2026-11-24T07:00:07Z"
   },
   "shuju": {
     "title": "纽卡斯尔喷气机VS柏太阳神(2026/2027亚冠杯)-数据分析-500彩票网",
@@ -328,21 +328,16 @@
     },
     "lineup": {
       "home": {
-        "formation": null,
+        "formation": "4-1-4-1",
         "starters": [
           {
             "number": null,
-            "name": "39 托马斯·阿奎利纳 后卫",
+            "name": "10 扎克·克拉夫 前锋",
             "position": null
           },
           {
             "number": null,
-            "name": "23 丹尼尔·威尔默林 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "5 乔·肖内西 后卫",
+            "name": "43 泽维尔·贝尔通切洛 中场",
             "position": null
           },
           {
@@ -352,17 +347,12 @@
           },
           {
             "number": null,
-            "name": "11 乔·洛利 前锋",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "28 威尔·多布森 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "10 扎克·克拉夫 前锋",
+            "name": "11 乔·洛利 中场",
             "position": null
           },
           {
@@ -372,7 +362,17 @@
           },
           {
             "number": null,
-            "name": "43 泽维尔·贝尔通切洛 前锋",
+            "name": "23 丹尼尔·威尔默林 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "39 托马斯·阿奎利纳 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "5 乔·肖内西 后卫",
             "position": null
           },
           {
@@ -409,12 +409,12 @@
           },
           {
             "number": null,
-            "name": "26 奥斯卡·冈萨雷斯 中场",
+            "name": "26 奥斯卡·冈萨雷斯 前锋",
             "position": null
           },
           {
             "number": null,
-            "name": "64 杰西·希尔 未知",
+            "name": "64 杰西·希尔 前锋",
             "position": null
           },
           {
@@ -452,11 +452,21 @@
         "suspended": []
       },
       "away": {
-        "formation": null,
+        "formation": "3-4-2-1",
         "starters": [
           {
             "number": null,
-            "name": "29 永井坚梧 守门员",
+            "name": "15 藤尾翔太 前锋",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "87 山内日向汰 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "8 小泉佳穂 中场",
             "position": null
           },
           {
@@ -466,27 +476,12 @@
           },
           {
             "number": null,
-            "name": "15 藤尾翔太 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "42 原田亘 后卫",
-            "position": null
-          },
-          {
-            "number": null,
             "name": "40 原川力 中场",
             "position": null
           },
           {
             "number": null,
-            "name": "4 古贺太阳 后卫",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "8 小泉佳穂 中场",
+            "name": "39 中川敦瑛 中场",
             "position": null
           },
           {
@@ -501,19 +496,24 @@
           },
           {
             "number": null,
-            "name": "39 中川敦瑛 中场",
+            "name": "4 古贺太阳 后卫",
             "position": null
           },
           {
             "number": null,
-            "name": "87 山内日向汰 中场",
+            "name": "42 原田亘 后卫",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "29 永井坚梧 守门员",
             "position": null
           }
         ],
         "subs": [
           {
             "number": null,
-            "name": "20 濑川祐辅 前锋",
+            "name": "20 濑川祐辅 中场",
             "position": null
           },
           {
@@ -662,10 +662,10 @@
       "cid": "280",
       "company": "*冠",
       "live": {
-        "home_water": "0.920↓",
+        "home_water": "0.960↓",
         "handicap": "受球半/两球降",
-        "away_water": "0.900↑",
-        "time": "11-24 14:27"
+        "away_water": "0.860↑",
+        "time": "11-24 14:48"
       },
       "init": {
         "home_water": "0.980",
@@ -691,22 +691,6 @@
       }
     },
     {
-      "cid": "6",
-      "company": "伟*",
-      "live": {
-        "home_water": "0.910↑",
-        "handicap": "受球半/两球降",
-        "away_water": "0.880↓",
-        "time": "11-24 14:45"
-      },
-      "init": {
-        "home_water": "0.900",
-        "handicap": "受球半",
-        "away_water": "0.890",
-        "time": "11-22 09:26"
-      }
-    },
-    {
       "cid": "1484",
       "company": "o***",
       "live": {
@@ -720,6 +704,22 @@
         "handicap": "受球半",
         "away_water": "0.820",
         "time": "11-06 19:23"
+      }
+    },
+    {
+      "cid": "6",
+      "company": "伟*",
+      "live": {
+        "home_water": "0.910↑",
+        "handicap": "受球半/两球降",
+        "away_water": "0.880↓",
+        "time": "11-24 14:45"
+      },
+      "init": {
+        "home_water": "0.900",
+        "handicap": "受球半",
+        "away_water": "0.890",
+        "time": "11-22 09:26"
       }
     },
     {
@@ -839,7 +839,7 @@
     {
       "cid": "1",
       "company": "官*",
-      "time": "2026-11-24 14:10:44",
+      "time": "2026-11-24 14:51:50",
       "odds": {
         "live": [
           "6.15",
@@ -847,9 +847,9 @@
           "1.27"
         ],
         "init": [
-          "8.00",
-          "6.60",
-          "1.16"
+          "8.50",
+          "6.90",
+          "1.14"
         ]
       },
       "prob": {
@@ -859,9 +859,9 @@
           "69.15%"
         ],
         "init": [
-          "10.98%",
-          "13.31%",
-          "75.71%"
+          "10.32%",
+          "12.72%",
+          "76.96%"
         ]
       },
       "ret": {
@@ -869,7 +869,7 @@
           "87.82%"
         ],
         "init": [
-          "87.83%"
+          "87.74%"
         ]
       },
       "kelly": {
@@ -879,9 +879,9 @@
           "0.90"
         ],
         "init": [
-          "1.05",
-          "1.05",
-          "0.82"
+          "1.11",
+          "1.09",
+          "0.81"
         ]
       }
     },
