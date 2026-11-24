@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-24T07:10:18Z",
+  "last_updated_utc": "2026-11-24T07:20:21Z",
   "matches": [
     {
       "xml_id": "2042993",
@@ -9,10 +9,10 @@
       "league": "亚洲冠军精英联赛",
       "home": "纽卡斯尔喷气机",
       "away": "柏太阳神",
-      "spf_win": "4.10",
-      "spf_draw": "4.75",
-      "spf_lost": "1.46",
-      "spf_updated": "2026-11-24 14:57:48",
+      "spf_win": "4.25",
+      "spf_draw": "4.90",
+      "spf_lost": "1.43",
+      "spf_updated": "2026-11-24 15:09:00",
       "gameid": "1474022",
       "kickoff_cst": "2026-11-24 15:45",
       "matchnum_label": "周二001",
@@ -218,24 +218,6 @@
       "away_team_id": "7805"
     },
     {
-      "xml_id": "2043005",
-      "matchnum": "3002",
-      "date": "2026-11-25",
-      "dayofweek": "星期三",
-      "league": "亚洲冠军精英联赛",
-      "home": "鹿岛鹿角",
-      "away": "全北现代",
-      "spf_win": "2.42",
-      "spf_draw": "3.30",
-      "spf_lost": "2.37",
-      "spf_updated": "2026-11-24 09:49:55",
-      "gameid": "1473959",
-      "kickoff_cst": "2026-11-25 18:00",
-      "matchnum_label": "周三002",
-      "home_team_id": "1029",
-      "away_team_id": "1609"
-    },
-    {
       "xml_id": "2043007",
       "matchnum": "3004",
       "date": "2026-11-26",
@@ -254,6 +236,24 @@
       "away_team_id": "683"
     },
     {
+      "xml_id": "2043010",
+      "matchnum": "3007",
+      "date": "2026-11-26",
+      "dayofweek": "星期四",
+      "league": "欧洲冠军联赛",
+      "home": "布鲁日",
+      "away": "利物浦",
+      "spf_win": "2.20",
+      "spf_draw": "3.75",
+      "spf_lost": "2.39",
+      "spf_updated": "2026-11-24 09:49:55",
+      "gameid": "1479924",
+      "kickoff_cst": "2026-11-26 04:00",
+      "matchnum_label": "周三007",
+      "home_team_id": "729",
+      "away_team_id": "1011"
+    },
+    {
       "xml_id": "2043011",
       "matchnum": "3008",
       "date": "2026-11-26",
@@ -270,42 +270,6 @@
       "matchnum_label": "周三008",
       "home_team_id": "1046",
       "away_team_id": "1259"
-    },
-    {
-      "xml_id": "2043012",
-      "matchnum": "3009",
-      "date": "2026-11-26",
-      "dayofweek": "星期四",
-      "league": "欧洲冠军联赛",
-      "home": "巴黎圣日尔曼",
-      "away": "罗马",
-      "spf_win": "1.91",
-      "spf_draw": "3.95",
-      "spf_lost": "2.76",
-      "spf_updated": "2026-11-24 09:49:55",
-      "gameid": "1480039",
-      "kickoff_cst": "2026-11-26 04:00",
-      "matchnum_label": "周三009",
-      "home_team_id": "647",
-      "away_team_id": "1032"
-    },
-    {
-      "xml_id": "2043013",
-      "matchnum": "3010",
-      "date": "2026-11-26",
-      "dayofweek": "星期四",
-      "league": "欧洲冠军联赛",
-      "home": "里尔",
-      "away": "拜仁慕尼黑",
-      "spf_win": "2.29",
-      "spf_draw": "3.50",
-      "spf_lost": "2.40",
-      "spf_updated": "2026-11-24 09:49:55",
-      "gameid": "1480000",
-      "kickoff_cst": "2026-11-26 04:00",
-      "matchnum_label": "周三010",
-      "home_team_id": "998",
-      "away_team_id": "664"
     }
   ]
 }
