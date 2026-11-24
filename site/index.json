@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-24T13:40:18Z",
+  "last_updated_utc": "2026-11-24T13:50:17Z",
   "matches": [
     {
       "xml_id": "2042993",
@@ -218,24 +218,6 @@
       "away_team_id": "1609"
     },
     {
-      "xml_id": "2043006",
-      "matchnum": "3003",
-      "date": "2026-11-26",
-      "dayofweek": "星期四",
-      "league": "欧洲冠军联赛",
-      "home": "萨巴赫",
-      "away": "巴塞罗那",
-      "spf_win": "2.30",
-      "spf_draw": "5.00",
-      "spf_lost": "1.98",
-      "spf_updated": "2026-11-24 13:56:13",
-      "gameid": "1480068",
-      "kickoff_cst": "2026-11-26 01:45",
-      "matchnum_label": "周三003",
-      "home_team_id": "10810",
-      "away_team_id": "653"
-    },
-    {
       "xml_id": "2043007",
       "matchnum": "3004",
       "date": "2026-11-26",
@@ -254,22 +236,40 @@
       "away_team_id": "683"
     },
     {
-      "xml_id": "2043010",
-      "matchnum": "3007",
+      "xml_id": "2043009",
+      "matchnum": "3006",
       "date": "2026-11-26",
       "dayofweek": "星期四",
       "league": "欧洲冠军联赛",
-      "home": "布鲁日",
-      "away": "利物浦",
-      "spf_win": "2.20",
-      "spf_draw": "3.75",
-      "spf_lost": "2.39",
-      "spf_updated": "2026-11-24 09:49:55",
-      "gameid": "1479924",
+      "home": "国际米兰",
+      "away": "斯图加特",
+      "spf_win": "1.82",
+      "spf_draw": "4.00",
+      "spf_lost": "2.94",
+      "spf_updated": "2026-11-24 14:13:32",
+      "gameid": "1479982",
       "kickoff_cst": "2026-11-26 04:00",
-      "matchnum_label": "周三007",
-      "home_team_id": "729",
-      "away_team_id": "1011"
+      "matchnum_label": "周三006",
+      "home_team_id": "846",
+      "away_team_id": "1195"
+    },
+    {
+      "xml_id": "2043012",
+      "matchnum": "3009",
+      "date": "2026-11-26",
+      "dayofweek": "星期四",
+      "league": "欧洲冠军联赛",
+      "home": "巴黎圣日尔曼",
+      "away": "罗马",
+      "spf_win": "1.86",
+      "spf_draw": "4.00",
+      "spf_lost": "2.84",
+      "spf_updated": "2026-11-24 15:21:20",
+      "gameid": "1480039",
+      "kickoff_cst": "2026-11-26 04:00",
+      "matchnum_label": "周三009",
+      "home_team_id": "647",
+      "away_team_id": "1032"
     },
     {
       "xml_id": "2043013",
