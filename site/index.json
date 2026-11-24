@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-24T11:40:19Z",
+  "last_updated_utc": "2026-11-24T11:50:18Z",
   "matches": [
     {
       "xml_id": "2042993",
@@ -110,6 +110,24 @@
       "away_team_id": "213"
     },
     {
+      "xml_id": "2042999",
+      "matchnum": "2007",
+      "date": "2026-11-25",
+      "dayofweek": "星期三",
+      "league": "欧洲冠军联赛",
+      "home": "莱比锡红牛",
+      "away": "朗斯",
+      "spf_win": "1.58",
+      "spf_draw": "4.46",
+      "spf_lost": "3.54",
+      "spf_updated": "2026-11-24 19:41:12",
+      "gameid": "1480058",
+      "kickoff_cst": "2026-11-25 04:00",
+      "matchnum_label": "周二007",
+      "home_team_id": "970",
+      "away_team_id": "979"
+    },
+    {
       "xml_id": "2043000",
       "matchnum": "2008",
       "date": "2026-11-25",
@@ -135,10 +153,10 @@
       "league": "欧洲冠军联赛",
       "home": "曼彻斯特城",
       "away": "那不勒斯",
-      "spf_win": "2.38",
-      "spf_draw": "3.93",
-      "spf_lost": "2.15",
-      "spf_updated": "2026-11-24 16:35:46",
+      "spf_win": "2.40",
+      "spf_draw": "3.85",
+      "spf_lost": "2.16",
+      "spf_updated": "2026-11-24 19:41:12",
       "gameid": "1480019",
       "kickoff_cst": "2026-11-25 04:00",
       "matchnum_label": "周二009",
@@ -182,24 +200,6 @@
       "away_team_id": "694"
     },
     {
-      "xml_id": "2043004",
-      "matchnum": "3001",
-      "date": "2026-11-25",
-      "dayofweek": "星期三",
-      "league": "亚洲冠军精英联赛",
-      "home": "大阪钢巴",
-      "away": "曼谷港务",
-      "spf_win": "2.82",
-      "spf_draw": "4.05",
-      "spf_lost": "1.86",
-      "spf_updated": "2026-11-24 09:49:55",
-      "gameid": "1473936",
-      "kickoff_cst": "2026-11-25 18:00",
-      "matchnum_label": "周三001",
-      "home_team_id": "752",
-      "away_team_id": "7805"
-    },
-    {
       "xml_id": "2043005",
       "matchnum": "3002",
       "date": "2026-11-25",
@@ -216,24 +216,6 @@
       "matchnum_label": "周三002",
       "home_team_id": "1029",
       "away_team_id": "1609"
-    },
-    {
-      "xml_id": "2043006",
-      "matchnum": "3003",
-      "date": "2026-11-26",
-      "dayofweek": "星期四",
-      "league": "欧洲冠军联赛",
-      "home": "萨巴赫",
-      "away": "巴塞罗那",
-      "spf_win": "2.30",
-      "spf_draw": "5.00",
-      "spf_lost": "1.98",
-      "spf_updated": "2026-11-24 13:56:13",
-      "gameid": "1480068",
-      "kickoff_cst": "2026-11-26 01:45",
-      "matchnum_label": "周三003",
-      "home_team_id": "10810",
-      "away_team_id": "653"
     },
     {
       "xml_id": "2043007",
@@ -272,22 +254,22 @@
       "away_team_id": "1075"
     },
     {
-      "xml_id": "2043009",
-      "matchnum": "3006",
+      "xml_id": "2043010",
+      "matchnum": "3007",
       "date": "2026-11-26",
       "dayofweek": "星期四",
       "league": "欧洲冠军联赛",
-      "home": "国际米兰",
-      "away": "斯图加特",
-      "spf_win": "1.82",
-      "spf_draw": "4.00",
-      "spf_lost": "2.94",
-      "spf_updated": "2026-11-24 14:13:32",
-      "gameid": "1479982",
+      "home": "布鲁日",
+      "away": "利物浦",
+      "spf_win": "2.20",
+      "spf_draw": "3.75",
+      "spf_lost": "2.39",
+      "spf_updated": "2026-11-24 09:49:55",
+      "gameid": "1479924",
       "kickoff_cst": "2026-11-26 04:00",
-      "matchnum_label": "周三006",
-      "home_team_id": "846",
-      "away_team_id": "1195"
+      "matchnum_label": "周三007",
+      "home_team_id": "729",
+      "away_team_id": "1011"
     },
     {
       "xml_id": "2043011",
@@ -306,6 +288,24 @@
       "matchnum_label": "周三008",
       "home_team_id": "1046",
       "away_team_id": "1259"
+    },
+    {
+      "xml_id": "2043012",
+      "matchnum": "3009",
+      "date": "2026-11-26",
+      "dayofweek": "星期四",
+      "league": "欧洲冠军联赛",
+      "home": "巴黎圣日尔曼",
+      "away": "罗马",
+      "spf_win": "1.86",
+      "spf_draw": "4.00",
+      "spf_lost": "2.84",
+      "spf_updated": "2026-11-24 15:21:20",
+      "gameid": "1480039",
+      "kickoff_cst": "2026-11-26 04:00",
+      "matchnum_label": "周三009",
+      "home_team_id": "647",
+      "away_team_id": "1032"
     },
     {
       "xml_id": "2043013",
