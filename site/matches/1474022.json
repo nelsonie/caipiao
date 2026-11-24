@@ -24,7 +24,7 @@
       "lost": "1.27",
       "company": "官*"
     },
-    "fetched_at_utc": "2026-11-24T08:50:08Z"
+    "fetched_at_utc": "2026-11-24T09:00:08Z"
   },
   "shuju": {
     "title": "纽卡斯尔喷气机VS柏太阳神(2026/2027亚冠杯)-数据分析-500彩票网",
@@ -328,21 +328,16 @@
     },
     "lineup": {
       "home": {
-        "formation": "4-1-4-1",
+        "formation": "4-4-2",
         "starters": [
           {
             "number": null,
+            "name": "43 泽维尔·贝尔通切洛 前锋",
+            "position": null
+          },
+          {
+            "number": null,
             "name": "10 扎克·克拉夫 前锋",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "43 泽维尔·贝尔通切洛 中场",
-            "position": null
-          },
-          {
-            "number": null,
-            "name": "6 赞恩·施赖伯 中场",
             "position": null
           },
           {
@@ -352,12 +347,17 @@
           },
           {
             "number": null,
-            "name": "11 乔·洛利 中场",
+            "name": "6 赞恩·施赖伯 中场",
             "position": null
           },
           {
             "number": null,
             "name": "14 马克斯·伯吉斯 中场",
+            "position": null
+          },
+          {
+            "number": null,
+            "name": "11 乔·洛利 中场",
             "position": null
           },
           {
