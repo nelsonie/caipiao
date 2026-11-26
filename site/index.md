@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-11-26T02:20:05Z'
+last_updated_utc: '2026-11-26T02:30:06Z'
 total_matches: 9
 leagues_covered:
 - 欧罗巴联赛
