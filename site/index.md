@@ -1,5 +1,5 @@
 ---
-last_updated_utc: '2026-11-26T11:00:07Z'
+last_updated_utc: '2026-11-26T11:10:07Z'
 total_matches: 23
 leagues_covered:
 - 亚洲冠军乙级联赛
