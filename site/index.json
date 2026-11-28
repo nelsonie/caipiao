@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-28T12:00:11Z",
+  "last_updated_utc": "2026-11-28T12:10:10Z",
   "matches": [
     {
       "xml_id": "2043087",
@@ -54,24 +54,6 @@
       "matchnum_label": "周六003",
       "home_team_id": "3616",
       "away_team_id": "15153"
-    },
-    {
-      "xml_id": "2043090",
-      "matchnum": "6004",
-      "date": "2026-11-28",
-      "dayofweek": "星期六",
-      "league": "英格兰冠军联赛",
-      "home": "布莱克本",
-      "away": "查尔顿",
-      "spf_win": "3.55",
-      "spf_draw": "3.25",
-      "spf_lost": "1.82",
-      "spf_updated": "2026-11-28 17:35:31",
-      "gameid": "1426048",
-      "kickoff_cst": "2026-11-28 20:30",
-      "matchnum_label": "周六004",
-      "home_team_id": "723",
-      "away_team_id": "740"
     },
     {
       "xml_id": "2043091",
@@ -702,6 +684,24 @@
       "matchnum_label": "周日016",
       "home_team_id": "1233",
       "away_team_id": "990"
+    },
+    {
+      "xml_id": "2043126",
+      "matchnum": "7017",
+      "date": "2026-11-30",
+      "dayofweek": "星期一",
+      "league": "英格兰超级联赛",
+      "home": "阿森纳",
+      "away": "曼彻斯特城",
+      "spf_win": "3.97",
+      "spf_draw": "3.65",
+      "spf_lost": "1.63",
+      "spf_updated": "2026-11-27 09:49:07",
+      "gameid": "1420394",
+      "kickoff_cst": "2026-11-30 00:30",
+      "matchnum_label": "周日017",
+      "home_team_id": "554",
+      "away_team_id": "1072"
     },
     {
       "xml_id": "2043127",
