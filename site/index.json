@@ -1,6 +1,24 @@
 {
-  "last_updated_utc": "2026-11-28T12:20:11Z",
+  "last_updated_utc": "2026-11-28T12:30:07Z",
   "matches": [
+    {
+      "xml_id": "2043087",
+      "matchnum": "6001",
+      "date": "2026-11-28",
+      "dayofweek": "星期六",
+      "league": "日本职业联赛",
+      "home": "京都不死鸟",
+      "away": "大阪樱花",
+      "spf_win": "4.75",
+      "spf_draw": "3.90",
+      "spf_lost": "1.49",
+      "spf_updated": "2026-11-28 11:50:22",
+      "gameid": "1419327",
+      "kickoff_cst": "2026-11-28 13:00",
+      "matchnum_label": "周六001",
+      "home_team_id": "907",
+      "away_team_id": "753"
+    },
     {
       "xml_id": "2043088",
       "matchnum": "6002",
@@ -36,6 +54,24 @@
       "matchnum_label": "周六003",
       "home_team_id": "3616",
       "away_team_id": "15153"
+    },
+    {
+      "xml_id": "2043090",
+      "matchnum": "6004",
+      "date": "2026-11-28",
+      "dayofweek": "星期六",
+      "league": "英格兰冠军联赛",
+      "home": "布莱克本",
+      "away": "查尔顿",
+      "spf_win": "3.60",
+      "spf_draw": "3.45",
+      "spf_lost": "1.75",
+      "spf_updated": "2026-11-28 20:06:00",
+      "gameid": "1426048",
+      "kickoff_cst": "2026-11-28 20:30",
+      "matchnum_label": "周六004",
+      "home_team_id": "723",
+      "away_team_id": "740"
     },
     {
       "xml_id": "2043091",
@@ -702,6 +738,24 @@
       "matchnum_label": "周日018",
       "home_team_id": "1869",
       "away_team_id": "1923"
+    },
+    {
+      "xml_id": "2043128",
+      "matchnum": "7019",
+      "date": "2026-11-30",
+      "dayofweek": "星期一",
+      "league": "德国甲级联赛",
+      "home": "多特蒙德",
+      "away": "勒沃库森",
+      "spf_win": "3.55",
+      "spf_draw": "3.86",
+      "spf_lost": "1.67",
+      "spf_updated": "2026-11-28 09:37:34",
+      "gameid": "1428667",
+      "kickoff_cst": "2026-11-30 02:30",
+      "matchnum_label": "周日019",
+      "home_team_id": "786",
+      "away_team_id": "986"
     },
     {
       "xml_id": "2043129",
