@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-28T12:50:23Z",
+  "last_updated_utc": "2026-11-28T13:00:25Z",
   "matches": [
     {
       "xml_id": "2043087",
@@ -189,10 +189,10 @@
       "league": "英格兰超级联赛",
       "home": "曼彻斯特联",
       "away": "布伦特福德",
-      "spf_win": "3.82",
-      "spf_draw": "3.85",
-      "spf_lost": "1.62",
-      "spf_updated": "2026-11-28 14:52:53",
+      "spf_win": "3.96",
+      "spf_draw": "4.00",
+      "spf_lost": "1.57",
+      "spf_updated": "2026-11-28 20:51:20",
       "gameid": "1420411",
       "kickoff_cst": "2026-11-28 23:00",
       "matchnum_label": "周六011",
@@ -578,24 +578,6 @@
       "away_team_id": "1125"
     },
     {
-      "xml_id": "2043119",
-      "matchnum": "7010",
-      "date": "2026-11-29",
-      "dayofweek": "星期天",
-      "league": "瑞典超级联赛",
-      "home": "佐加顿斯",
-      "away": "赫根",
-      "spf_win": "3.80",
-      "spf_draw": "3.80",
-      "spf_lost": "1.63",
-      "spf_updated": "2026-11-28 09:37:34",
-      "gameid": "1362871",
-      "kickoff_cst": "2026-11-29 22:00",
-      "matchnum_label": "周日010",
-      "home_team_id": "1355",
-      "away_team_id": "850"
-    },
-    {
       "xml_id": "2043120",
       "matchnum": "7011",
       "date": "2026-11-29",
@@ -684,6 +666,42 @@
       "matchnum_label": "周日015",
       "home_team_id": "959",
       "away_team_id": "653"
+    },
+    {
+      "xml_id": "2043125",
+      "matchnum": "7016",
+      "date": "2026-11-30",
+      "dayofweek": "星期一",
+      "league": "法国甲级联赛",
+      "home": "图卢兹",
+      "away": "雷恩",
+      "spf_win": "4.70",
+      "spf_draw": "4.15",
+      "spf_lost": "1.46",
+      "spf_updated": "2026-11-28 09:37:34",
+      "gameid": "1415185",
+      "kickoff_cst": "2026-11-30 00:15",
+      "matchnum_label": "周日016",
+      "home_team_id": "1233",
+      "away_team_id": "990"
+    },
+    {
+      "xml_id": "2043126",
+      "matchnum": "7017",
+      "date": "2026-11-30",
+      "dayofweek": "星期一",
+      "league": "英格兰超级联赛",
+      "home": "阿森纳",
+      "away": "曼彻斯特城",
+      "spf_win": "3.97",
+      "spf_draw": "3.65",
+      "spf_lost": "1.63",
+      "spf_updated": "2026-11-27 09:49:07",
+      "gameid": "1420394",
+      "kickoff_cst": "2026-11-30 00:30",
+      "matchnum_label": "周日017",
+      "home_team_id": "554",
+      "away_team_id": "1072"
     }
   ]
 }
